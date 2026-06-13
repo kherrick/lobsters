@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 17:53:58](https://lobste.rs/s/eu7mpe/appreciating_exif) - [Appreciating EXIF](https://brentfitzgerald.com/posts/appreciating-exif/)
 * [2026-06-13, 15:37:16](https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm) - [repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis](https://slopscan.ava.pet/)
 * [2026-06-13, 15:31:46](https://lobste.rs/s/4rcwmh/talk_more_your_coding_agents) - [Talk more to your coding agents](https://www.datawill.io/posts/2026-06-my-agent-workflow/)
 * [2026-06-13, 15:24:13](https://lobste.rs/s/jcpzqt/banning_noise_will_be_disaster_for) - [Banning noise will be a disaster for statistical data products](https://desfontain.es/blog/banning-noise.html)

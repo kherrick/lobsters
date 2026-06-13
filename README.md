@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-13, 17:53:58](https://lobste.rs/s/eu7mpe/appreciating_exif) - [Appreciating EXIF](https://brentfitzgerald.com/posts/appreciating-exif/)
 * [2026-06-13, 15:37:16](https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm) - [repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis](https://slopscan.ava.pet/)
 * [2026-06-13, 15:31:46](https://lobste.rs/s/4rcwmh/talk_more_your_coding_agents) - [Talk more to your coding agents](https://www.datawill.io/posts/2026-06-my-agent-workflow/)
 * [2026-06-13, 15:24:13](https://lobste.rs/s/jcpzqt/banning_noise_will_be_disaster_for) - [Banning noise will be a disaster for statistical data products](https://desfontain.es/blog/banning-noise.html)
@@ -21,7 +22,6 @@
 * [2026-06-12, 17:06:44](https://lobste.rs/s/8mcck8/columnar_database_for_analytics_pure) - [A columnar database for analytics in pure Clojure](https://github.com/yogthos/flatiron)
 * [2026-06-12, 17:04:19](https://lobste.rs/s/bsavh7/turn_your_site_into_place_people_can_bump) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-12, 14:20:34](https://lobste.rs/s/fybei2/nix_flakes_their_guix_equivalents) - [Nix Flakes and their Guix Equivalents](https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca)
-* [2026-06-12, 13:04:47](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 05:39:08](https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow) - [How I made a 60fps Eink monitor, the Modos Flow](https://youtu.be/nHbA2-_qzH4)
 * [2026-06-11, 19:36:02](https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by) - [Hundreds of AUR packages attacked by infostealer](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)
