@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-13, 15:37:16](https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm) - [repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis](https://slopscan.ava.pet/)
+* [2026-06-13, 15:31:46](https://lobste.rs/s/4rcwmh/talk_more_your_coding_agents) - [Talk more to your coding agents](https://www.datawill.io/posts/2026-06-my-agent-workflow/)
+* [2026-06-13, 15:24:13](https://lobste.rs/s/jcpzqt/banning_noise_will_be_disaster_for) - [Banning noise will be a disaster for statistical data products](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 15:07:09](https://lobste.rs/s/bt7rtp/every_frame_perfect) - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
 * [2026-06-13, 13:11:25](https://lobste.rs/s/jjhe1c/scuba_diving_into_data_at_facebook) - [Scuba: Diving into Data at Facebook](https://vldb.org/pvldb/vol6/p1057-wiener.pdf)
 * [2026-06-13, 10:24:09](https://lobste.rs/s/sqh2uq/opensource_ai_must_win) - [Opensource AI Must Win](https://opensourceaimustwin.com)
@@ -15,16 +18,13 @@
 * [2026-06-12, 20:57:33](https://lobste.rs/s/2yakby/catjam_2026) - [Catjam 2026](https://itch.io/jam/catjam-2026)
 * [2026-06-12, 20:08:44](https://lobste.rs/s/1yjftk/if_you_are_asking_for_human_attention) - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
 * [2026-06-12, 17:43:25](https://lobste.rs/s/kosw9h/wasi_0_3_launched) - [WASI 0.3 Launched](https://bytecodealliance.org/articles/WASI-0.3)
-* [2026-06-12, 17:23:35](https://lobste.rs/s/n5gyfj/erm_local_cli_strips_ums_uhs_erms_from) - [erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
 * [2026-06-12, 17:06:44](https://lobste.rs/s/8mcck8/columnar_database_for_analytics_pure) - [A columnar database for analytics in pure Clojure](https://github.com/yogthos/flatiron)
 * [2026-06-12, 17:04:19](https://lobste.rs/s/bsavh7/turn_your_site_into_place_people_can_bump) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-12, 14:20:34](https://lobste.rs/s/fybei2/nix_flakes_their_guix_equivalents) - [Nix Flakes and their Guix Equivalents](https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca)
-* [2026-06-12, 14:01:51](https://lobste.rs/s/ivzqxi/looking_forward_postgres_19_it_s_about) - [Looking Forward to Postgres 19: It's About Time](https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time)
 * [2026-06-12, 13:04:47](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 05:39:08](https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow) - [How I made a 60fps Eink monitor, the Modos Flow](https://youtu.be/nHbA2-_qzH4)
 * [2026-06-11, 19:36:02](https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by) - [Hundreds of AUR packages attacked by infostealer](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)
-* [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 
 ## [Archives](archives/index.md)
 
