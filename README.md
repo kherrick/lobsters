@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-13, 15:07:09](https://lobste.rs/s/bt7rtp/every_frame_perfect) - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
 * [2026-06-13, 13:11:25](https://lobste.rs/s/jjhe1c/scuba_diving_into_data_at_facebook) - [Scuba: Diving into Data at Facebook](https://vldb.org/pvldb/vol6/p1057-wiener.pdf)
 * [2026-06-13, 10:24:09](https://lobste.rs/s/sqh2uq/opensource_ai_must_win) - [Opensource AI Must Win](https://opensourceaimustwin.com)
 * [2026-06-13, 07:29:23](https://lobste.rs/s/m3i81d/using_notes_glasgow_haskell_compiler) - [Using Notes in the Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes)
@@ -20,7 +21,6 @@
 * [2026-06-12, 14:20:34](https://lobste.rs/s/fybei2/nix_flakes_their_guix_equivalents) - [Nix Flakes and their Guix Equivalents](https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca)
 * [2026-06-12, 14:01:51](https://lobste.rs/s/ivzqxi/looking_forward_postgres_19_it_s_about) - [Looking Forward to Postgres 19: It's About Time](https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time)
 * [2026-06-12, 13:04:47](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend)
-* [2026-06-12, 11:56:25](https://lobste.rs/s/fiiamm/orthodox_c_2016) - [Orthodox C++ (2016)](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 05:39:08](https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow) - [How I made a 60fps Eink monitor, the Modos Flow](https://youtu.be/nHbA2-_qzH4)
 * [2026-06-11, 19:36:02](https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by) - [Hundreds of AUR packages attacked by infostealer](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)

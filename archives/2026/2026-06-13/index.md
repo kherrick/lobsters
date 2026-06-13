@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 15:07:09](https://lobste.rs/s/bt7rtp/every_frame_perfect) - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
 * [2026-06-13, 13:11:25](https://lobste.rs/s/jjhe1c/scuba_diving_into_data_at_facebook) - [Scuba: Diving into Data at Facebook](https://vldb.org/pvldb/vol6/p1057-wiener.pdf)
 * [2026-06-13, 11:21:25](https://lobste.rs/s/va7hmn/i_m_open_sourcing_bottega_our_internal) - [I'm open-sourcing Bottega, our internal coding agent orchestration tool](https://vdaubry.github.io/bottega-launch/)
 * [2026-06-13, 10:24:09](https://lobste.rs/s/sqh2uq/opensource_ai_must_win) - [Opensource AI Must Win](https://opensourceaimustwin.com)
