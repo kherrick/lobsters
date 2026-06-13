@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 20:04:04](https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats) - [Webxdc - Secure mini apps for chats](https://webxdc.org/)
+* [2026-06-13, 19:39:15](https://lobste.rs/s/p78ttt/emacs_rec_mode_all_text_database_system) - [Emacs rec mode, an all-text database system](https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html)
 * [2026-06-13, 18:30:56](https://lobste.rs/s/at8dqu/lifting_e_graphs) - [Lifting E-Graphs](https://www.philipzucker.com/lifting_egraph/)
 * [2026-06-13, 17:53:58](https://lobste.rs/s/eu7mpe/appreciating_exif) - [Appreciating EXIF](https://brentfitzgerald.com/posts/appreciating-exif/)
 * [2026-06-13, 15:37:16](https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm) - [repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis](https://slopscan.ava.pet/)
