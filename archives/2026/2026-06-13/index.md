@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 11:21:25](https://lobste.rs/s/va7hmn/i_m_open_sourcing_bottega_our_internal) - [I'm open-sourcing Bottega, our internal coding agent orchestration tool](https://vdaubry.github.io/bottega-launch/)
 * [2026-06-13, 10:24:09](https://lobste.rs/s/sqh2uq/opensource_ai_must_win) - [Opensource AI Must Win](https://opensourceaimustwin.com)
 * [2026-06-13, 05:10:46](https://lobste.rs/s/6di69u/future_wasi_gfx_wasi_webgpu) - [The Future of wasi-gfx and wasi:webgpu](https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/)
 * [2026-06-13, 03:33:10](https://lobste.rs/s/nbaa0n/statement_on_us_government_directive) - [Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
