@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-13, 00:09:38",
+      "https://lobste.rs/s/tfvd8h/service_bindings_better_way_connect_apps"
+    ],
+    [
+      "Service Bindings - A Better Way to Connect Apps to Databases",
+      "https://openrun.dev/blog/service-binding/"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 22:24:37",
       "https://lobste.rs/s/q0xeyu/aplr_1_algorithm_for_generating_compact"
     ],
@@ -127,16 +137,6 @@
     [
       "Designing Lispy DSLs, part 1: SCSS (2012)",
       "https://www.more-magic.net/posts/lispy-dsl-scss.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 13:09:04",
-      "https://lobste.rs/s/g3jf3e/unicode_composition_for_filenames_2008"
-    ],
-    [
-      "Unicode composition for filenames (2008)",
-      "https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames"
     ]
   ],
   [
