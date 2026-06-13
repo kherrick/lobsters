@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-06-13, 20:12:35",
+      "https://lobste.rs/s/ooggna/curse_depth_large_language_models"
+    ],
+    [
+      "The Curse of Depth in Large Language Models",
+      "https://arxiv.org/pdf/2502.05795"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 20:04:04",
       "https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats"
     ],
@@ -217,16 +227,6 @@
     [
       "Turn your site into a place people can bump into each other",
       "https://cauenapier.com/blog/townsquare_release/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 14:20:34",
-      "https://lobste.rs/s/fybei2/nix_flakes_their_guix_equivalents"
-    ],
-    [
-      "Nix Flakes and their Guix Equivalents",
-      "https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca"
     ]
   ],
   [
