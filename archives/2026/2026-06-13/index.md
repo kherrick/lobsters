@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 20:32:10](https://lobste.rs/s/rnmkrg/extinction_level_capitalism) - [Extinction-level capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
+* [2026-06-13, 20:12:35](https://lobste.rs/s/ooggna/curse_depth_large_language_models) - [The Curse of Depth in Large Language Models](https://arxiv.org/pdf/2502.05795)
 * [2026-06-13, 20:04:04](https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats) - [Webxdc - Secure mini apps for chats](https://webxdc.org/)
 * [2026-06-13, 19:39:15](https://lobste.rs/s/p78ttt/emacs_rec_mode_all_text_database_system) - [Emacs rec mode, an all-text database system](https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html)
 * [2026-06-13, 18:30:56](https://lobste.rs/s/at8dqu/lifting_e_graphs) - [Lifting E-Graphs](https://www.philipzucker.com/lifting_egraph/)
