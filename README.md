@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-13, 00:09:38](https://lobste.rs/s/tfvd8h/service_bindings_better_way_connect_apps) - [Service Bindings - A Better Way to Connect Apps to Databases](https://openrun.dev/blog/service-binding/)
 * [2026-06-12, 22:24:37](https://lobste.rs/s/q0xeyu/aplr_1_algorithm_for_generating_compact) - [The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)](https://branchtaken.com/reports/aplr1/aplr1)
 * [2026-06-12, 21:39:49](https://lobste.rs/s/9a3nvt/why_i_wrote_game_boy_advance_game_zig_2024) - [Why I Wrote a Game Boy Advance Game in Zig (2024)](https://jonot.me/posts/zig-gba/)
 * [2026-06-12, 21:24:17](https://lobste.rs/s/o8i26c/swift_at_apple_migrating_truetype) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://swift.org/blog/migrating-truetype-hinting-to-swift/)
@@ -13,7 +14,6 @@
 * [2026-06-12, 14:20:34](https://lobste.rs/s/fybei2/nix_flakes_their_guix_equivalents) - [Nix Flakes and their Guix Equivalents](https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca)
 * [2026-06-12, 14:01:51](https://lobste.rs/s/ivzqxi/looking_forward_postgres_19_it_s_about) - [Looking Forward to Postgres 19: It's About Time](https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time)
 * [2026-06-12, 13:43:51](https://lobste.rs/s/vg5hdf/designing_lispy_dsls_part_1_scss_2012) - [Designing Lispy DSLs, part 1: SCSS (2012)](https://www.more-magic.net/posts/lispy-dsl-scss.html)
-* [2026-06-12, 13:09:04](https://lobste.rs/s/g3jf3e/unicode_composition_for_filenames_2008) - [Unicode composition for filenames (2008)](https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames)
 * [2026-06-12, 13:04:47](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend)
 * [2026-06-12, 11:56:25](https://lobste.rs/s/fiiamm/orthodox_c_2016) - [Orthodox C++ (2016)](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
