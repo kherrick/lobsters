@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
+* [2026-06-14, 00:38:07](https://lobste.rs/s/wjclue/rs_key_security_key_fido_openpgp_firmware) - [RS-Key: Security key. FIDO/OpenPGP firmware for RP2350](https://github.com/TheMaxMur/RS-Key)
 * [2026-06-13, 22:27:49](https://lobste.rs/s/azz673/pyodide_314_0_webassembly_wheels_for_pypi) - [Pyodide 314.0: WebAssembly wheels for PyPI](https://blog.pyodide.org/posts/314-release/)
 * [2026-06-13, 21:44:13](https://lobste.rs/s/j9s7qr/software_as_craft_first_look_at_syntropy) - [Software as Craft: a First Look at Syntropy](https://noteflakes.com/articles/2026-06-13-syntropy)
 * [2026-06-13, 21:34:55](https://lobste.rs/s/f1qxka/adder_at_heart_intel_s_8087_floating_point) - [The adder at the heart of Intel's 8087 floating-point chip](http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html)
@@ -20,8 +22,6 @@
 * [2026-06-12, 22:24:37](https://lobste.rs/s/q0xeyu/aplr_1_algorithm_for_generating_compact) - [The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)](https://branchtaken.com/reports/aplr1/aplr1)
 * [2026-06-12, 21:39:49](https://lobste.rs/s/9a3nvt/why_i_wrote_game_boy_advance_game_zig_2024) - [Why I Wrote a Game Boy Advance Game in Zig (2024)](https://jonot.me/posts/zig-gba/)
 * [2026-06-12, 21:24:17](https://lobste.rs/s/o8i26c/swift_at_apple_migrating_truetype) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://swift.org/blog/migrating-truetype-hinting-to-swift/)
-* [2026-06-12, 20:57:33](https://lobste.rs/s/2yakby/catjam_2026) - [Catjam 2026](https://itch.io/jam/catjam-2026)
-* [2026-06-12, 20:08:44](https://lobste.rs/s/1yjftk/if_you_are_asking_for_human_attention) - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
 * [2026-06-12, 17:04:19](https://lobste.rs/s/bsavh7/turn_your_site_into_place_people_can_bump) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 05:39:08](https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow) - [How I made a 60fps Eink monitor, the Modos Flow](https://youtu.be/nHbA2-_qzH4)
