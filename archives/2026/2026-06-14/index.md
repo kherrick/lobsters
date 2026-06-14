@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 21:50:55](https://lobste.rs/s/of8l9y/senior_game_security_engineer_includes) - [Senior Game Security Engineer (Includes Linux Anti-Cheat)](https://www.epicgames.com/site/careers/jobs/6019148004)
 * [2026-06-14, 21:05:27](https://lobste.rs/s/0ichrt/zinnia_modular_64_bit_unix_like_kernel) - [zinnia: a modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
 * [2026-06-14, 18:46:19](https://lobste.rs/s/5motiw/ai_won_t_fix_company_can_t_ship) - [AI Won’t Fix a Company That Can’t Ship](https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship)
 * [2026-06-14, 18:43:40](https://lobste.rs/s/wwbl1n/even_more_batteries_included_with_emacs) - [Even More Batteries Included With Emacs | Karthinks](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
