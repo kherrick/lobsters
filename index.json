@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-14, 17:43:02",
+      "https://lobste.rs/s/7bujlv/erd_generator_from_sql"
+    ],
+    [
+      "ERD Generator from SQL",
+      "https://sqltoerdiagram.com/"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 17:35:54",
       "https://lobste.rs/s/3cv4k9/no_everyone_is_not_using_ai_for_everything"
     ],
@@ -67,16 +77,6 @@
     [
       "pkgcli: A command-line interface for PackageKit",
       "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 07:57:05",
-      "https://lobste.rs/s/ybmrcg/beagle_scm_uris_http_verbs_with_git"
-    ],
-    [
-      "Beagle SCM URIs and HTTP verbs with git",
-      "https://replicated.wiki/blog/uris.html"
     ]
   ],
   [
