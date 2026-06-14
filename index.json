@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-06-14, 03:50:26",
+      "https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t"
+    ],
+    [
+      "The future of Siri, or: why private inference isn’t private enough",
+      "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 03:33:36",
+      "https://lobste.rs/s/9qgahc/emulator_debugging_area_5150_s_lake"
+    ],
+    [
+      "Emulator Debugging: Area 5150's Lake Effect",
+      "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 01:28:51",
       "https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console"
     ],
     [
       "Building a serial and VGA \"everything console\"",
       "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 01:20:35",
-      "https://lobste.rs/s/zcl92t/human_routers_machine_words"
-    ],
-    [
-      "Human Routers of Machine Words",
-      "https://borretti.me/article/human-routers-of-machine-words"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-06-13, 20:12:35",
-      "https://lobste.rs/s/ooggna/curse_depth_large_language_models"
-    ],
-    [
-      "The Curse of Depth in Large Language Models",
-      "https://arxiv.org/pdf/2502.05795"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 20:04:04",
       "https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats"
     ],
@@ -97,6 +97,16 @@
     [
       "Emacs rec mode, an all-text database system",
       "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 18:30:56",
+      "https://lobste.rs/s/at8dqu/lifting_e_graphs"
+    ],
+    [
+      "Lifting E-Graphs",
+      "https://www.philipzucker.com/lifting_egraph/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Rejected Emoji Proposals",
       "https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 00:21:57",
-      "https://lobste.rs/s/ejra5c/21_zero_days_ffmpeg"
-    ],
-    [
-      "21 Zero-Days in FFmpeg",
-      "https://depthfirst.com/research/21-zero-days-in-ffmpeg"
     ]
   ],
   [
