@@ -5,8 +5,18 @@
       "https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console"
     ],
     [
-      "Building an serial and VGA \"everything console\"",
+      "Building a serial and VGA \"everything console\"",
       "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 01:20:35",
+      "https://lobste.rs/s/zcl92t/human_routers_machine_words"
+    ],
+    [
+      "Human Routers of Machine Words",
+      "https://borretti.me/article/human-routers-of-machine-words"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)",
       "https://branchtaken.com/reports/aplr1/aplr1"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 21:39:49",
-      "https://lobste.rs/s/9a3nvt/why_i_wrote_game_boy_advance_game_zig_2024"
-    ],
-    [
-      "Why I Wrote a Game Boy Advance Game in Zig (2024)",
-      "https://jonot.me/posts/zig-gba/"
     ]
   ],
   [
