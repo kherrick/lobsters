@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-06-14, 11:29:12",
-      "https://lobste.rs/s/yfnifk/filesystem_wars_why_your_choice_storage"
-    ],
-    [
-      "Filesystem Wars: Why Your Choice of Storage is Actually a Security Move",
-      "https://bytearchitect.io/macos-security/theory/Filesystem-Wars-Why-Your-Choice-of-Storage-is-Actually-a-Security-Move/"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 11:09:16",
       "https://lobste.rs/s/dq7toq/pkgcli_command_line_interface_for"
     ],
@@ -97,6 +87,16 @@
     [
       "Pyodide 314.0: WebAssembly wheels for PyPI",
       "https://blog.pyodide.org/posts/314-release/"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 21:34:55",
+      "https://lobste.rs/s/f1qxka/adder_at_heart_intel_s_8087_floating_point"
+    ],
+    [
+      "The adder at the heart of Intel's 8087 floating-point chip",
+      "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html"
     ]
   ],
   [
