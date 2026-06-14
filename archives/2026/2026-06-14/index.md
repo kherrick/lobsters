@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 18:46:19](https://lobste.rs/s/5motiw/ai_won_t_fix_company_can_t_ship) - [AI Won’t Fix a Company That Can’t Ship](https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship)
+* [2026-06-14, 18:43:40](https://lobste.rs/s/wwbl1n/even_more_batteries_included_with_emacs) - [Even More Batteries Included With Emacs | Karthinks](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 * [2026-06-14, 17:43:02](https://lobste.rs/s/7bujlv/erd_generator_from_sql) - [ERD Generator from SQL](https://sqltoerdiagram.com/)
 * [2026-06-14, 17:35:54](https://lobste.rs/s/3cv4k9/no_everyone_is_not_using_ai_for_everything) - [No, everyone is not using AI for everything](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 * [2026-06-14, 17:12:27](https://lobste.rs/s/daehjf/ffi_miri_at_8000_segfaults_per_second) - [FFI in Miri at 8000 segfaults per second](https://youtu.be/9X-ngiKo_Y0)
