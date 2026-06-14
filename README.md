@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-14, 15:53:16](https://lobste.rs/s/7mq7cm/apple_wwdc_fable_5_embargo_industry) - [Apple WWDC and the Fable 5 Embargo: Industry Disruption and the Rise of Tech Sovereignty](https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo)
 * [2026-06-14, 15:38:31](https://lobste.rs/s/zkj0qs/write_heavy_sysbench_tests_large_server) - [Write-heavy sysbench tests, a large server, modern Postgres and MySQL](http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html)
 * [2026-06-14, 12:36:03](https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing) - [Simplifying Weak Reference Processing in ZGC](https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/)
 * [2026-06-14, 11:39:41](https://lobste.rs/s/7rmbd0/point_cloud_sound_for_irregular_shaped) - [Point Cloud Sound for irregular shaped audio sources](https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html)
@@ -21,6 +20,7 @@
 * [2026-06-13, 15:24:13](https://lobste.rs/s/jcpzqt/banning_noise_will_be_disaster_for) - [Banning noise will be a disaster for statistical data products](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 15:07:09](https://lobste.rs/s/bt7rtp/every_frame_perfect) - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
 * [2026-06-13, 10:24:09](https://lobste.rs/s/sqh2uq/opensource_ai_must_win) - [Opensource AI Must Win](https://opensourceaimustwin.com)
+* [2026-06-13, 07:29:23](https://lobste.rs/s/m3i81d/using_notes_glasgow_haskell_compiler) - [Using Notes in the Glasgow Haskell Compiler](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes)
 * [2026-06-13, 03:33:10](https://lobste.rs/s/nbaa0n/statement_on_us_government_directive) - [Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 * [2026-06-13, 02:17:54](https://lobste.rs/s/n3c04h/generic_dynamic_array_c_stores_no) - [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
 * [2026-06-13, 02:17:01](https://lobste.rs/s/tigq8d/rejected_emoji_proposals) - [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
