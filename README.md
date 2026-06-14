@@ -2,7 +2,6 @@
 
 * [2026-06-14, 12:36:03](https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing) - [Simplifying Weak Reference Processing in ZGC](https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/)
 * [2026-06-14, 11:39:41](https://lobste.rs/s/7rmbd0/point_cloud_sound_for_irregular_shaped) - [Point Cloud Sound for irregular shaped audio sources](https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html)
-* [2026-06-14, 11:29:12](https://lobste.rs/s/yfnifk/filesystem_wars_why_your_choice_storage) - [Filesystem Wars: Why Your Choice of Storage is Actually a Security Move](https://bytearchitect.io/macos-security/theory/Filesystem-Wars-Why-Your-Choice-of-Storage-is-Actually-a-Security-Move/)
 * [2026-06-14, 11:09:16](https://lobste.rs/s/dq7toq/pkgcli_command_line_interface_for) - [pkgcli: A command-line interface for PackageKit](https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html)
 * [2026-06-14, 10:48:27](https://lobste.rs/s/jlavzd/arch_linux_aur_hit_by_another_wave_now_more) - [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
 * [2026-06-14, 07:57:05](https://lobste.rs/s/ybmrcg/beagle_scm_uris_http_verbs_with_git) - [Beagle SCM URIs and HTTP verbs with git](https://replicated.wiki/blog/uris.html)
@@ -10,6 +9,7 @@
 * [2026-06-14, 01:28:51](https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console) - [Building a serial and VGA \"everything console\"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
 * [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
 * [2026-06-13, 22:27:49](https://lobste.rs/s/azz673/pyodide_314_0_webassembly_wheels_for_pypi) - [Pyodide 314.0: WebAssembly wheels for PyPI](https://blog.pyodide.org/posts/314-release/)
+* [2026-06-13, 21:34:55](https://lobste.rs/s/f1qxka/adder_at_heart_intel_s_8087_floating_point) - [The adder at the heart of Intel's 8087 floating-point chip](http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html)
 * [2026-06-13, 20:32:10](https://lobste.rs/s/rnmkrg/extinction_level_capitalism) - [Extinction-level capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
 * [2026-06-13, 20:04:04](https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats) - [Webxdc - Secure mini apps for chats](https://webxdc.org/)
 * [2026-06-13, 19:39:15](https://lobste.rs/s/p78ttt/emacs_rec_mode_all_text_database_system) - [Emacs rec mode, an all-text database system](https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html)
