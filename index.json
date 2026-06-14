@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-14, 12:36:03",
+      "https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing"
+    ],
+    [
+      "Simplifying Weak Reference Processing in ZGC",
+      "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 11:39:41",
       "https://lobste.rs/s/7rmbd0/point_cloud_sound_for_irregular_shaped"
     ],
@@ -87,16 +97,6 @@
     [
       "Pyodide 314.0: WebAssembly wheels for PyPI",
       "https://blog.pyodide.org/posts/314-release/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 21:34:55",
-      "https://lobste.rs/s/f1qxka/adder_at_heart_intel_s_8087_floating_point"
-    ],
-    [
-      "The adder at the heart of Intel's 8087 floating-point chip",
-      "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html"
     ]
   ],
   [
