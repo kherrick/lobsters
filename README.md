@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-14, 05:43:33](https://lobste.rs/s/t22s5a/intermediate_floating_point_precision) - [Intermediate Floating-Point Precision](https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/)
 * [2026-06-14, 03:50:26](https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t) - [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
 * [2026-06-14, 03:33:36](https://lobste.rs/s/9qgahc/emulator_debugging_area_5150_s_lake) - [Emulator Debugging: Area 5150's Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
 * [2026-06-14, 01:28:51](https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console) - [Building a serial and VGA \"everything console\"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
@@ -21,7 +22,6 @@
 * [2026-06-13, 03:33:10](https://lobste.rs/s/nbaa0n/statement_on_us_government_directive) - [Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 * [2026-06-13, 02:17:54](https://lobste.rs/s/n3c04h/generic_dynamic_array_c_stores_no) - [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
 * [2026-06-13, 02:17:01](https://lobste.rs/s/tigq8d/rejected_emoji_proposals) - [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
-* [2026-06-12, 22:24:37](https://lobste.rs/s/q0xeyu/aplr_1_algorithm_for_generating_compact) - [The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)](https://branchtaken.com/reports/aplr1/aplr1)
 * [2026-06-12, 21:24:17](https://lobste.rs/s/o8i26c/swift_at_apple_migrating_truetype) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://swift.org/blog/migrating-truetype-hinting-to-swift/)
 * [2026-06-12, 17:04:19](https://lobste.rs/s/bsavh7/turn_your_site_into_place_people_can_bump) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
