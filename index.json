@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-14, 15:53:16",
-      "https://lobste.rs/s/7mq7cm/apple_wwdc_fable_5_embargo_industry"
-    ],
-    [
-      "Apple WWDC and the Fable 5 Embargo: Industry Disruption and the Rise of Tech Sovereignty",
-      "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 15:38:31",
       "https://lobste.rs/s/zkj0qs/write_heavy_sysbench_tests_large_server"
     ],
@@ -207,6 +197,16 @@
     [
       "Opensource AI Must Win",
       "https://opensourceaimustwin.com"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 07:29:23",
+      "https://lobste.rs/s/m3i81d/using_notes_glasgow_haskell_compiler"
+    ],
+    [
+      "Using Notes in the Glasgow Haskell Compiler",
+      "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes"
     ]
   ],
   [
