@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 21:05:27](https://lobste.rs/s/0ichrt/zinnia_modular_64_bit_unix_like_kernel) - [zinnia: a modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
 * [2026-06-14, 18:46:19](https://lobste.rs/s/5motiw/ai_won_t_fix_company_can_t_ship) - [AI Won’t Fix a Company That Can’t Ship](https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship)
 * [2026-06-14, 18:43:40](https://lobste.rs/s/wwbl1n/even_more_batteries_included_with_emacs) - [Even More Batteries Included With Emacs | Karthinks](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 * [2026-06-14, 17:43:02](https://lobste.rs/s/7bujlv/erd_generator_from_sql) - [ERD Generator from SQL](https://sqltoerdiagram.com/)
