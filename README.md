@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-14, 07:57:05](https://lobste.rs/s/ybmrcg/beagle_scm_uris_http_verbs_with_git) - [Beagle SCM URIs and HTTP verbs with git](https://replicated.wiki/blog/uris.html)
 * [2026-06-14, 05:43:33](https://lobste.rs/s/t22s5a/intermediate_floating_point_precision) - [Intermediate Floating-Point Precision](https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/)
 * [2026-06-14, 03:50:26](https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t) - [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
 * [2026-06-14, 03:33:36](https://lobste.rs/s/9qgahc/emulator_debugging_area_5150_s_lake) - [Emulator Debugging: Area 5150's Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
 * [2026-06-14, 01:28:51](https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console) - [Building a serial and VGA \"everything console\"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
 * [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
 * [2026-06-13, 22:27:49](https://lobste.rs/s/azz673/pyodide_314_0_webassembly_wheels_for_pypi) - [Pyodide 314.0: WebAssembly wheels for PyPI](https://blog.pyodide.org/posts/314-release/)
-* [2026-06-13, 21:44:13](https://lobste.rs/s/j9s7qr/software_as_craft_first_look_at_syntropy) - [Software as Craft: a First Look at Syntropy](https://noteflakes.com/articles/2026-06-13-syntropy)
 * [2026-06-13, 21:34:55](https://lobste.rs/s/f1qxka/adder_at_heart_intel_s_8087_floating_point) - [The adder at the heart of Intel's 8087 floating-point chip](http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html)
 * [2026-06-13, 20:32:10](https://lobste.rs/s/rnmkrg/extinction_level_capitalism) - [Extinction-level capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
 * [2026-06-13, 20:04:04](https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats) - [Webxdc - Secure mini apps for chats](https://webxdc.org/)

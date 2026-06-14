@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 07:57:05](https://lobste.rs/s/ybmrcg/beagle_scm_uris_http_verbs_with_git) - [Beagle SCM URIs and HTTP verbs with git](https://replicated.wiki/blog/uris.html)
 * [2026-06-14, 05:43:33](https://lobste.rs/s/t22s5a/intermediate_floating_point_precision) - [Intermediate Floating-Point Precision](https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/)
 * [2026-06-14, 03:50:26](https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t) - [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
 * [2026-06-14, 03:33:36](https://lobste.rs/s/9qgahc/emulator_debugging_area_5150_s_lake) - [Emulator Debugging: Area 5150's Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
