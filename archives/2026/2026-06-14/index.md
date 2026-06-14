@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 15:53:16](https://lobste.rs/s/7mq7cm/apple_wwdc_fable_5_embargo_industry) - [Apple WWDC and the Fable 5 Embargo: Industry Disruption and the Rise of Tech Sovereignty](https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo)
+* [2026-06-14, 15:38:31](https://lobste.rs/s/zkj0qs/write_heavy_sysbench_tests_large_server) - [Write-heavy sysbench tests, a large server, modern Postgres and MySQL](http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html)
 * [2026-06-14, 12:36:03](https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing) - [Simplifying Weak Reference Processing in ZGC](https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/)
 * [2026-06-14, 11:39:41](https://lobste.rs/s/7rmbd0/point_cloud_sound_for_irregular_shaped) - [Point Cloud Sound for irregular shaped audio sources](https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html)
 * [2026-06-14, 11:29:12](https://lobste.rs/s/yfnifk/filesystem_wars_why_your_choice_storage) - [Filesystem Wars: Why Your Choice of Storage is Actually a Security Move](https://bytearchitect.io/macos-security/theory/Filesystem-Wars-Why-Your-Choice-of-Storage-is-Actually-a-Security-Move/)
