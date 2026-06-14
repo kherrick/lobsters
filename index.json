@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-14, 07:57:05",
+      "https://lobste.rs/s/ybmrcg/beagle_scm_uris_http_verbs_with_git"
+    ],
+    [
+      "Beagle SCM URIs and HTTP verbs with git",
+      "https://replicated.wiki/blog/uris.html"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 05:43:33",
       "https://lobste.rs/s/t22s5a/intermediate_floating_point_precision"
     ],
@@ -57,16 +67,6 @@
     [
       "Pyodide 314.0: WebAssembly wheels for PyPI",
       "https://blog.pyodide.org/posts/314-release/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 21:44:13",
-      "https://lobste.rs/s/j9s7qr/software_as_craft_first_look_at_syntropy"
-    ],
-    [
-      "Software as Craft: a First Look at Syntropy",
-      "https://noteflakes.com/articles/2026-06-13-syntropy"
     ]
   ],
   [
