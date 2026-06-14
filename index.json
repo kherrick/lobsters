@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-06-14, 01:28:51",
+      "https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console"
+    ],
+    [
+      "Building an serial and VGA \"everything console\"",
+      "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 01:01:08",
       "https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches"
     ],
     [
       "ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life",
       "https://www.phoronix.com/news/ReactOS-Running-Half-Life"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 00:38:07",
-      "https://lobste.rs/s/wjclue/rs_key_security_key_fido_openpgp_firmware"
-    ],
-    [
-      "RS-Key: Security key. FIDO/OpenPGP firmware for RP2350",
-      "https://github.com/TheMaxMur/RS-Key"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Webxdc - Secure mini apps for chats",
       "https://webxdc.org/"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 19:39:15",
+      "https://lobste.rs/s/p78ttt/emacs_rec_mode_all_text_database_system"
+    ],
+    [
+      "Emacs rec mode, an all-text database system",
+      "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
       "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 05:39:08",
-      "https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow"
-    ],
-    [
-      "How I made a 60fps Eink monitor, the Modos Flow",
-      "https://youtu.be/nHbA2-_qzH4"
     ]
   ]
 ]
