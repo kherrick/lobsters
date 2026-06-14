@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 12:36:03](https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing) - [Simplifying Weak Reference Processing in ZGC](https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/)
 * [2026-06-14, 11:39:41](https://lobste.rs/s/7rmbd0/point_cloud_sound_for_irregular_shaped) - [Point Cloud Sound for irregular shaped audio sources](https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html)
 * [2026-06-14, 11:29:12](https://lobste.rs/s/yfnifk/filesystem_wars_why_your_choice_storage) - [Filesystem Wars: Why Your Choice of Storage is Actually a Security Move](https://bytearchitect.io/macos-security/theory/Filesystem-Wars-Why-Your-Choice-of-Storage-is-Actually-a-Security-Move/)
 * [2026-06-14, 11:09:16](https://lobste.rs/s/dq7toq/pkgcli_command_line_interface_for) - [pkgcli: A command-line interface for PackageKit](https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html)
