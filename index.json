@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-14, 01:01:08",
+      "https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches"
+    ],
+    [
+      "ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life",
+      "https://www.phoronix.com/news/ReactOS-Running-Half-Life"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 00:38:07",
+      "https://lobste.rs/s/wjclue/rs_key_security_key_fido_openpgp_firmware"
+    ],
+    [
+      "RS-Key: Security key. FIDO/OpenPGP firmware for RP2350",
+      "https://github.com/TheMaxMur/RS-Key"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 22:27:49",
       "https://lobste.rs/s/azz673/pyodide_314_0_webassembly_wheels_for_pypi"
     ],
@@ -197,26 +217,6 @@
     [
       "Swift at Apple: Migrating the TrueType Hinting Interpreter",
       "https://swift.org/blog/migrating-truetype-hinting-to-swift/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 20:57:33",
-      "https://lobste.rs/s/2yakby/catjam_2026"
-    ],
-    [
-      "Catjam 2026",
-      "https://itch.io/jam/catjam-2026"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 20:08:44",
-      "https://lobste.rs/s/1yjftk/if_you_are_asking_for_human_attention"
-    ],
-    [
-      "If you are asking for human attention, demonstrate human effort",
-      "https://tombedor.dev/human-attention-and-human-effort/"
     ]
   ],
   [
