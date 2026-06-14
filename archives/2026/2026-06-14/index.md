@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 17:35:54](https://lobste.rs/s/3cv4k9/no_everyone_is_not_using_ai_for_everything) - [No, everyone is not using AI for everything](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
+* [2026-06-14, 17:12:27](https://lobste.rs/s/daehjf/ffi_miri_at_8000_segfaults_per_second) - [FFI in Miri at 8000 segfaults per second](https://youtu.be/9X-ngiKo_Y0)
+* [2026-06-14, 17:07:42](https://lobste.rs/s/lvodx4/deconstructing_datalog) - [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html)
 * [2026-06-14, 15:53:16](https://lobste.rs/s/7mq7cm/apple_wwdc_fable_5_embargo_industry) - [Apple WWDC and the Fable 5 Embargo: Industry Disruption and the Rise of Tech Sovereignty](https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo)
 * [2026-06-14, 15:38:31](https://lobste.rs/s/zkj0qs/write_heavy_sysbench_tests_large_server) - [Write-heavy sysbench tests, a large server, modern Postgres and MySQL](http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html)
 * [2026-06-14, 12:36:03](https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing) - [Simplifying Weak Reference Processing in ZGC](https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/)
