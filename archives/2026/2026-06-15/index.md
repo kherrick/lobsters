@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 12:54:58](https://lobste.rs/s/rhrh3k/kage_shadow_any_website_for_offline) - [kage: Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
+* [2026-06-15, 12:53:51](https://lobste.rs/s/dwfhdc/your_epub_is_fine_kobo_disagrees_blame) - [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+* [2026-06-15, 12:36:37](https://lobste.rs/s/eolbw3/xavier_leroy_s_new_book_on_control) - [Xavier Leroy's new book on Control Sturctures in Programming](https://xavierleroy.org/control-structures/book/index.html)
+* [2026-06-15, 11:45:15](https://lobste.rs/s/adztcr/nordstjernen_web_browser) - [Nordstjernen Web Browser](https://nordstjernen.org/)
 * [2026-06-15, 11:39:41](https://lobste.rs/s/qgvbsz/inside_ios_27_s_reworked_stub_islands) - [Inside iOS 27's Reworked Stub Islands](https://codecolor.ist/posts/2026-06-15-ios27-reworked-stub-islands/)
 * [2026-06-15, 11:05:07](https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure) - [pyinfra — agentless infrastructure automation, in plain Python](https://pyinfra.com)
 * [2026-06-15, 10:23:34](https://lobste.rs/s/guyifg/removing_my_nix_flakes_vs_guix_post) - [Removing my nix flakes vs guix post](https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix)
