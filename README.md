@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-15, 16:54:04](https://lobste.rs/s/hwi7c2/monolith_experimental_non_unix) - [MONOLITH: An experimental non-Unix operating system for x86](https://codeberg.org/MONOLITH-Project/MONOLITH)
+* [2026-06-15, 15:35:08](https://lobste.rs/s/cslljn/iroh_1_0_dial_keys_not_ips) - [Iroh 1.0 - Dial Keys, not IPs](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 15:31:34](https://lobste.rs/s/kycuyg/emacs_how_it_all_started_for_me) - [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)
-* [2026-06-15, 14:16:48](https://lobste.rs/s/ulgku1/we_built_smithdb_data_layer_for_agent) - [We built SmithDB, the data layer for agent observability](https://www.langchain.com/blog/introducing-smithdb)
+* [2026-06-15, 13:35:22](https://lobste.rs/s/fdjc6i/crankgpt_local_human_powered_ai) - [CrankGPT — Local Human-powered AI](https://crankgpt.com)
 * [2026-06-15, 12:54:58](https://lobste.rs/s/rhrh3k/kage_shadow_any_website_for_offline) - [kage: Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
 * [2026-06-15, 12:53:51](https://lobste.rs/s/dwfhdc/your_epub_is_fine_kobo_disagrees_blame) - [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-* [2026-06-15, 12:36:37](https://lobste.rs/s/eolbw3/xavier_leroy_s_new_book_on_control) - [Xavier Leroy's new book on Control Sturctures in Programming](https://xavierleroy.org/control-structures/book/index.html)
-* [2026-06-15, 11:45:15](https://lobste.rs/s/adztcr/nordstjernen_web_browser) - [Nordstjernen Web Browser](https://nordstjernen.org/)
+* [2026-06-15, 12:36:37](https://lobste.rs/s/eolbw3/xavier_leroy_s_new_book_on_control) - [Xavier Leroy's new book on Control Structures in Programming](https://xavierleroy.org/control-structures/book/index.html)
 * [2026-06-15, 11:05:07](https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure) - [pyinfra — agentless infrastructure automation, in plain Python](https://pyinfra.com)
 * [2026-06-15, 10:23:34](https://lobste.rs/s/guyifg/removing_my_nix_flakes_vs_guix_post) - [Removing my nix flakes vs guix post](https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix)
 * [2026-06-15, 09:46:08](https://lobste.rs/s/fwohh5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/fwohh5/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2026-06-14, 18:43:40](https://lobste.rs/s/wwbl1n/even_more_batteries_included_with_emacs) - [Even More Batteries Included With Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 * [2026-06-14, 17:12:27](https://lobste.rs/s/daehjf/ffi_miri_at_8000_segfaults_per_second) - [FFI in Miri at 8000 segfaults per second](https://youtu.be/9X-ngiKo_Y0)
 * [2026-06-14, 17:07:42](https://lobste.rs/s/lvodx4/deconstructing_datalog) - [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html)
-* [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
 
 ## [Archives](archives/index.md)
 
