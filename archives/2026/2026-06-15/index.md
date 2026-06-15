@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 20:23:48](https://lobste.rs/s/0mximk/netnewswire_status) - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
 * [2026-06-15, 20:03:41](https://lobste.rs/s/i2cjew/users_cry_foul_after_amd_stripped_memory) - [Users cry foul after AMD stripped memory crypto from its consumer CPUs](https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/)
 * [2026-06-15, 19:28:26](https://lobste.rs/s/ldq5mm/wio_windowed_i_o) - [wio: windowed i/o](https://github.com/ypsvlq/wio)
 * [2026-06-15, 19:26:25](https://lobste.rs/s/vodqhe/freebsd_15_on_laptop) - [FreeBSD 15 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/)
