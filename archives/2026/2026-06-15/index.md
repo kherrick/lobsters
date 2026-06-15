@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 19:28:26](https://lobste.rs/s/ldq5mm/wio_windowed_i_o) - [wio: windowed i/o](https://github.com/ypsvlq/wio)
+* [2026-06-15, 19:26:25](https://lobste.rs/s/vodqhe/freebsd_15_on_laptop) - [FreeBSD 15 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/)
+* [2026-06-15, 18:36:15](https://lobste.rs/s/wlm6dv/savearoundtrip_publish_https_dns_record) - [savearoundtrip: publish an HTTPS DNS record, skip a round trip](https://savearoundtrip.com/)
 * [2026-06-15, 17:44:22](https://lobste.rs/s/ciiott/russian_spam_profanities_are_now) - [Russian Spam & Profanities Are Now Plaguing The Arch Linux AUR](https://www.phoronix.com/news/Arch-Linux-AUR-Russian-Spam)
 * [2026-06-15, 17:43:39](https://lobste.rs/s/vp2lbq/boot_naked_linux) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
 * [2026-06-15, 17:14:19](https://lobste.rs/s/fkoa80/typst_0_15_contains_multitudes) - [Typst 0.15 contains multitudes](https://typst.app/blog/2026/typst-0.15/)
@@ -15,6 +18,7 @@
 * [2026-06-15, 12:54:58](https://lobste.rs/s/rhrh3k/kage_shadow_any_website_for_offline) - [kage: Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
 * [2026-06-15, 12:53:51](https://lobste.rs/s/dwfhdc/your_epub_is_fine_kobo_disagrees_blame) - [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
 * [2026-06-15, 12:36:37](https://lobste.rs/s/eolbw3/xavier_leroy_s_new_book_on_control) - [Xavier Leroy's new book on Control Sturctures in Programming](https://xavierleroy.org/control-structures/book/index.html)
+* [2026-06-15, 12:36:37](https://lobste.rs/s/eolbw3/control_structures_programming) - [Control Structures in Programming Languages](https://xavierleroy.org/control-structures/book/index.html)
 * [2026-06-15, 11:45:15](https://lobste.rs/s/adztcr/nordstjernen_web_browser) - [Nordstjernen Web Browser](https://nordstjernen.org/)
 * [2026-06-15, 11:39:41](https://lobste.rs/s/qgvbsz/inside_ios_27_s_reworked_stub_islands) - [Inside iOS 27's Reworked Stub Islands](https://codecolor.ist/posts/2026-06-15-ios27-reworked-stub-islands/)
 * [2026-06-15, 11:05:07](https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure) - [pyinfra — agentless infrastructure automation, in plain Python](https://pyinfra.com)
