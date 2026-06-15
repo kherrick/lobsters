@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-06-15, 17:44:22",
-      "https://lobste.rs/s/ciiott/russian_spam_profanities_are_now"
+      "2026-06-15, 19:28:26",
+      "https://lobste.rs/s/ldq5mm/wio_windowed_i_o"
     ],
     [
-      "Russian Spam & Profanities Are Now Plaguing The Arch Linux AUR",
-      "https://www.phoronix.com/news/Arch-Linux-AUR-Russian-Spam"
+      "wio: windowed i/o",
+      "https://github.com/ypsvlq/wio"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 19:26:25",
+      "https://lobste.rs/s/vodqhe/freebsd_15_on_laptop"
+    ],
+    [
+      "FreeBSD 15 on a Laptop",
+      "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 18:36:15",
+      "https://lobste.rs/s/wlm6dv/savearoundtrip_publish_https_dns_record"
+    ],
+    [
+      "savearoundtrip: publish an HTTPS DNS record, skip a round trip",
+      "https://savearoundtrip.com/"
     ]
   ],
   [
@@ -82,10 +102,10 @@
   [
     [
       "2026-06-15, 12:36:37",
-      "https://lobste.rs/s/eolbw3/xavier_leroy_s_new_book_on_control"
+      "https://lobste.rs/s/eolbw3/control_structures_programming"
     ],
     [
-      "Xavier Leroy's new book on Control Structures in Programming",
+      "Control Structures in Programming Languages",
       "https://xavierleroy.org/control-structures/book/index.html"
     ]
   ],
@@ -177,26 +197,6 @@
     [
       "Clojure is almost as fast as C (with some help)",
       "https://ertu.dev/posts/4_clojure-reaching-c-performance/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 04:10:00",
-      "https://lobste.rs/s/kgpqam/mystery_solar_realms_elite_title_screen"
-    ],
-    [
-      "The mystery of the Solar Realms Elite title screen",
-      "https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 03:36:07",
-      "https://lobste.rs/s/jkowsn/datalog"
-    ],
-    [
-      "Datalog",
-      "https://www.philipzucker.com/notes/Languages/datalog/"
     ]
   ],
   [
