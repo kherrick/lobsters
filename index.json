@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-15, 11:39:41",
+      "https://lobste.rs/s/qgvbsz/inside_ios_27_s_reworked_stub_islands"
+    ],
+    [
+      "Inside iOS 27's Reworked Stub Islands",
+      "https://codecolor.ist/posts/2026-06-15-ios27-reworked-stub-islands/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 11:05:07",
+      "https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure"
+    ],
+    [
+      "pyinfra — agentless infrastructure automation, in plain Python",
+      "https://pyinfra.com"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 10:23:34",
+      "https://lobste.rs/s/guyifg/removing_my_nix_flakes_vs_guix_post"
+    ],
+    [
+      "Removing my nix flakes vs guix post",
+      "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 09:46:08",
+      "https://lobste.rs/s/fwohh5/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/fwohh5/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 07:53:52",
       "https://lobste.rs/s/uqagn2/curl_summer_bliss"
     ],
@@ -161,42 +201,12 @@
   ],
   [
     [
-      "2026-06-14, 15:38:31",
-      "https://lobste.rs/s/zkj0qs/write_heavy_sysbench_tests_large_server"
-    ],
-    [
-      "Write-heavy sysbench tests, a large server, modern Postgres and MySQL",
-      "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 12:36:03",
-      "https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing"
-    ],
-    [
-      "Simplifying Weak Reference Processing in ZGC",
-      "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 03:50:26",
       "https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t"
     ],
     [
       "The future of Siri, or: why private inference isn’t private enough",
       "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 01:28:51",
-      "https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console"
-    ],
-    [
-      "Building a serial and VGA \"everything console\"",
-      "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
       "https://slopscan.ava.pet/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 15:24:13",
-      "https://lobste.rs/s/jcpzqt/banning_noise_will_be_disaster_for"
-    ],
-    [
-      "Banning noise will be a disaster for statistical data products",
-      "https://desfontain.es/blog/banning-noise.html"
     ]
   ],
   [
