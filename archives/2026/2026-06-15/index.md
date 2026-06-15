@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 17:44:22](https://lobste.rs/s/ciiott/russian_spam_profanities_are_now) - [Russian Spam & Profanities Are Now Plaguing The Arch Linux AUR](https://www.phoronix.com/news/Arch-Linux-AUR-Russian-Spam)
+* [2026-06-15, 17:43:39](https://lobste.rs/s/vp2lbq/boot_naked_linux) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
+* [2026-06-15, 17:14:19](https://lobste.rs/s/fkoa80/typst_0_15_contains_multitudes) - [Typst 0.15 contains multitudes](https://typst.app/blog/2026/typst-0.15/)
 * [2026-06-15, 16:54:04](https://lobste.rs/s/hwi7c2/monolith_experimental_non_unix) - [MONOLITH: An experimental non-Unix operating system for x86](https://codeberg.org/MONOLITH-Project/MONOLITH)
 * [2026-06-15, 15:35:08](https://lobste.rs/s/cslljn/iroh_1_0_dial_keys_not_ips) - [Iroh 1.0 - Dial Keys, not IPs](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 15:31:34](https://lobste.rs/s/kycuyg/emacs_how_it_all_started_for_me) - [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)
