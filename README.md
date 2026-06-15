@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-15, 20:03:41](https://lobste.rs/s/i2cjew/users_cry_foul_after_amd_stripped_memory) - [Users cry foul after AMD stripped memory crypto from its consumer CPUs](https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/)
 * [2026-06-15, 19:28:26](https://lobste.rs/s/ldq5mm/wio_windowed_i_o) - [wio: windowed i/o](https://github.com/ypsvlq/wio)
 * [2026-06-15, 19:26:25](https://lobste.rs/s/vodqhe/freebsd_15_on_laptop) - [FreeBSD 15 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/)
 * [2026-06-15, 18:36:15](https://lobste.rs/s/wlm6dv/savearoundtrip_publish_https_dns_record) - [savearoundtrip: publish an HTTPS DNS record, skip a round trip](https://savearoundtrip.com/)
@@ -21,7 +22,6 @@
 * [2026-06-15, 05:53:54](https://lobste.rs/s/mgbtd6/diplomat_multi_language_ffi_for_rust) - [Diplomat: Multi-language FFI for Rust Libraries](http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/)
 * [2026-06-15, 04:44:07](https://lobste.rs/s/8jxpsq/clojure_is_almost_as_fast_as_c_with_some) - [Clojure is almost as fast as C (with some help)](https://ertu.dev/posts/4_clojure-reaching-c-performance/)
 * [2026-06-15, 03:29:47](https://lobste.rs/s/1xyby4/write_for_one_person) - [write for one person](https://wizardzines.com/comics/write-for-one-person/)
-* [2026-06-15, 03:24:58](https://lobste.rs/s/dju5t9/speed_matters_for_google_web_search_2009) - [Speed Matters for Google Web Search [2009]](https://services.google.com/fh/files/blogs/google_delayexp.pdf)
 * [2026-06-14, 21:05:27](https://lobste.rs/s/0ichrt/zinnia_modular_64_bit_unix_like_kernel) - [zinnia: a modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
 * [2026-06-14, 18:43:40](https://lobste.rs/s/wwbl1n/even_more_batteries_included_with_emacs) - [Even More Batteries Included With Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 * [2026-06-14, 17:07:42](https://lobste.rs/s/lvodx4/deconstructing_datalog) - [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html)
