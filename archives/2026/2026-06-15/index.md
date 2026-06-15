@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 04:44:07](https://lobste.rs/s/8jxpsq/clojure_is_almost_as_fast_as_c_with_some) - [Clojure is almost as fast as C (with some help)](https://ertu.dev/posts/4_clojure-reaching-c-performance/)
+* [2026-06-15, 04:10:00](https://lobste.rs/s/kgpqam/mystery_solar_realms_elite_title_screen) - [The mystery of the Solar Realms Elite title screen](https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/)
 * [2026-06-15, 03:39:10](https://lobste.rs/s/r70fiz/jinx_meta_build_system_for_bootstrapping) - [Jinx: Meta-build-system for bootstrapping operating system distributions](https://github.com/Mintsuki/Jinx)
 * [2026-06-15, 03:37:09](https://lobste.rs/s/odh8si/comparison_benchmarking_rust_decimal) - [Comparison and Benchmarking of Rust Decimal Crates](https://wubingzheng.github.io/en/Decimal-Crates-Comparison.html)
 * [2026-06-15, 03:36:07](https://lobste.rs/s/jkowsn/datalog) - [Datalog](https://www.philipzucker.com/notes/Languages/datalog/)
