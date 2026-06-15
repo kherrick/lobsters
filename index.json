@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-15, 16:54:04",
+      "https://lobste.rs/s/hwi7c2/monolith_experimental_non_unix"
+    ],
+    [
+      "MONOLITH: An experimental non-Unix operating system for x86",
+      "https://codeberg.org/MONOLITH-Project/MONOLITH"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 15:35:08",
+      "https://lobste.rs/s/cslljn/iroh_1_0_dial_keys_not_ips"
+    ],
+    [
+      "Iroh 1.0 - Dial Keys, not IPs",
+      "https://www.iroh.computer/blog/v1"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 15:31:34",
       "https://lobste.rs/s/kycuyg/emacs_how_it_all_started_for_me"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-06-15, 14:16:48",
-      "https://lobste.rs/s/ulgku1/we_built_smithdb_data_layer_for_agent"
+      "2026-06-15, 13:35:22",
+      "https://lobste.rs/s/fdjc6i/crankgpt_local_human_powered_ai"
     ],
     [
-      "We built SmithDB, the data layer for agent observability",
-      "https://www.langchain.com/blog/introducing-smithdb"
+      "CrankGPT — Local Human-powered AI",
+      "https://crankgpt.com"
     ]
   ],
   [
@@ -45,18 +65,8 @@
       "https://lobste.rs/s/eolbw3/xavier_leroy_s_new_book_on_control"
     ],
     [
-      "Xavier Leroy's new book on Control Sturctures in Programming",
+      "Xavier Leroy's new book on Control Structures in Programming",
       "https://xavierleroy.org/control-structures/book/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 11:45:15",
-      "https://lobste.rs/s/adztcr/nordstjernen_web_browser"
-    ],
-    [
-      "Nordstjernen Web Browser",
-      "https://nordstjernen.org/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Deconstructing Datalog",
       "https://www.rntz.net/post/my-thesis.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 01:01:08",
-      "https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches"
-    ],
-    [
-      "ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life",
-      "https://www.phoronix.com/news/ReactOS-Running-Half-Life"
     ]
   ]
 ]
