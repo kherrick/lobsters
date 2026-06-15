@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-15, 07:19:50](https://lobste.rs/s/udagdr/i_am_not_reverse_centaur) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
+* [2026-06-15, 06:07:24](https://lobste.rs/s/xqxidz/parsing_json_at_compile_time_with_c_26) - [Parsing JSON at compile time with C++26 static reflection](https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/)
+* [2026-06-15, 05:55:24](https://lobste.rs/s/zieeza/only_scalable_delete_postgres_is_drop) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
+* [2026-06-15, 05:53:54](https://lobste.rs/s/mgbtd6/diplomat_multi_language_ffi_for_rust) - [Diplomat: Multi-language FFI for Rust Libraries](http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/)
 * [2026-06-15, 04:44:07](https://lobste.rs/s/8jxpsq/clojure_is_almost_as_fast_as_c_with_some) - [Clojure is almost as fast as C (with some help)](https://ertu.dev/posts/4_clojure-reaching-c-performance/)
 * [2026-06-15, 04:10:00](https://lobste.rs/s/kgpqam/mystery_solar_realms_elite_title_screen) - [The mystery of the Solar Realms Elite title screen](https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/)
 * [2026-06-15, 03:39:10](https://lobste.rs/s/r70fiz/jinx_meta_build_system_for_bootstrapping) - [Jinx: Meta-build-system for bootstrapping operating system distributions](https://github.com/Mintsuki/Jinx)
@@ -17,14 +21,10 @@
 * [2026-06-14, 03:50:26](https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t) - [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
 * [2026-06-14, 01:28:51](https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console) - [Building a serial and VGA \"everything console\"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
 * [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
-* [2026-06-13, 22:27:49](https://lobste.rs/s/azz673/pyodide_314_0_webassembly_wheels_for_pypi) - [Pyodide 314.0: WebAssembly wheels for PyPI](https://blog.pyodide.org/posts/314-release/)
 * [2026-06-13, 20:32:10](https://lobste.rs/s/rnmkrg/extinction_level_capitalism) - [Extinction-level capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
-* [2026-06-13, 20:04:04](https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats) - [Webxdc - Secure mini apps for chats](https://webxdc.org/)
-* [2026-06-13, 19:39:15](https://lobste.rs/s/p78ttt/emacs_rec_mode_all_text_database_system) - [Emacs rec mode, an all-text database system](https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html)
 * [2026-06-13, 15:37:16](https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm) - [repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis](https://slopscan.ava.pet/)
 * [2026-06-13, 15:24:13](https://lobste.rs/s/jcpzqt/banning_noise_will_be_disaster_for) - [Banning noise will be a disaster for statistical data products](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 15:07:09](https://lobste.rs/s/bt7rtp/every_frame_perfect) - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
-* [2026-06-13, 10:24:09](https://lobste.rs/s/sqh2uq/opensource_ai_must_win) - [Opensource AI Must Win](https://opensourceaimustwin.com)
 
 ## [Archives](archives/index.md)
 
