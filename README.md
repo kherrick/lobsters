@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-15, 15:31:34](https://lobste.rs/s/kycuyg/emacs_how_it_all_started_for_me) - [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)
+* [2026-06-15, 14:16:48](https://lobste.rs/s/ulgku1/we_built_smithdb_data_layer_for_agent) - [We built SmithDB, the data layer for agent observability](https://www.langchain.com/blog/introducing-smithdb)
 * [2026-06-15, 12:54:58](https://lobste.rs/s/rhrh3k/kage_shadow_any_website_for_offline) - [kage: Shadow any website for offline viewing, with the JavaScript stripped out](https://github.com/tamnd/kage)
 * [2026-06-15, 12:53:51](https://lobste.rs/s/dwfhdc/your_epub_is_fine_kobo_disagrees_blame) - [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
 * [2026-06-15, 12:36:37](https://lobste.rs/s/eolbw3/xavier_leroy_s_new_book_on_control) - [Xavier Leroy's new book on Control Sturctures in Programming](https://xavierleroy.org/control-structures/book/index.html)
@@ -23,8 +25,6 @@
 * [2026-06-14, 17:12:27](https://lobste.rs/s/daehjf/ffi_miri_at_8000_segfaults_per_second) - [FFI in Miri at 8000 segfaults per second](https://youtu.be/9X-ngiKo_Y0)
 * [2026-06-14, 17:07:42](https://lobste.rs/s/lvodx4/deconstructing_datalog) - [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html)
 * [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
-* [2026-06-13, 20:32:10](https://lobste.rs/s/rnmkrg/extinction_level_capitalism) - [Extinction-level capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
-* [2026-06-13, 15:07:09](https://lobste.rs/s/bt7rtp/every_frame_perfect) - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
 
 ## [Archives](archives/index.md)
 
