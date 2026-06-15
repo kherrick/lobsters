@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-15, 07:53:52](https://lobste.rs/s/uqagn2/curl_summer_bliss) - [curl summer of bliss](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 * [2026-06-15, 07:19:50](https://lobste.rs/s/udagdr/i_am_not_reverse_centaur) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
 * [2026-06-15, 06:07:24](https://lobste.rs/s/xqxidz/parsing_json_at_compile_time_with_c_26) - [Parsing JSON at compile time with C++26 static reflection](https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/)
 * [2026-06-15, 05:55:24](https://lobste.rs/s/zieeza/only_scalable_delete_postgres_is_drop) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
@@ -17,7 +18,6 @@
 * [2026-06-14, 17:07:42](https://lobste.rs/s/lvodx4/deconstructing_datalog) - [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html)
 * [2026-06-14, 15:38:31](https://lobste.rs/s/zkj0qs/write_heavy_sysbench_tests_large_server) - [Write-heavy sysbench tests, a large server, modern Postgres and MySQL](http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html)
 * [2026-06-14, 12:36:03](https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing) - [Simplifying Weak Reference Processing in ZGC](https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/)
-* [2026-06-14, 11:09:16](https://lobste.rs/s/dq7toq/pkgcli_command_line_interface_for) - [pkgcli: A command-line interface for PackageKit](https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html)
 * [2026-06-14, 03:50:26](https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t) - [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
 * [2026-06-14, 01:28:51](https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console) - [Building a serial and VGA \"everything console\"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
 * [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)

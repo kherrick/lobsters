@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 07:53:52](https://lobste.rs/s/uqagn2/curl_summer_bliss) - [curl summer of bliss](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 * [2026-06-15, 07:19:50](https://lobste.rs/s/udagdr/i_am_not_reverse_centaur) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
 * [2026-06-15, 06:07:24](https://lobste.rs/s/xqxidz/parsing_json_at_compile_time_with_c_26) - [Parsing JSON at compile time with C++26 static reflection](https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/)
 * [2026-06-15, 05:55:24](https://lobste.rs/s/zieeza/only_scalable_delete_postgres_is_drop) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
