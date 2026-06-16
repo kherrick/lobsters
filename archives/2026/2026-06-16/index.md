@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 05:23:57](https://lobste.rs/s/mjkp4m/time_x86_emulator_team_found_code_so_bad) - [The time the x86 emulator team found code so bad that they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
 * [2026-06-16, 04:23:14](https://lobste.rs/s/aq0dz1/life_nasty_brutish_short) - [Life: Nasty, Brutish, and Short](https://www.jsoftware.com/papers/eem/life.htm)
 * [2026-06-16, 03:37:13](https://lobste.rs/s/femzsi/microsoft_is_resorting_its_biggest_cloud) - [Microsoft is resorting to its biggest cloud rival to deal with GitHub AI capacity issues](https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6)
 * [2026-06-16, 02:52:58](https://lobste.rs/s/rcazen/llms_will_replace_8_track_duplication) - [LLMs Will Replace 8-Track Duplication Engineers](https://bbenchoff.github.io/pages/8Tracks.html)
