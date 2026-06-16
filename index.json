@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-16, 10:30:25",
+      "https://lobste.rs/s/cyj3wa/when_float_division_beats_integer"
+    ],
+    [
+      "When float division beats integer division",
+      "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 10:19:19",
+      "https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released"
+    ],
+    [
+      "KDE Plasma 6.7 released",
+      "https://kde.org/announcements/plasma/6/6.7.0/"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 09:22:57",
+      "https://lobste.rs/s/qkli6l/oxygen_6_7_is_here_breath_fresh_air_for_kde_s"
+    ],
+    [
+      "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme",
+      "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 08:02:48",
       "https://lobste.rs/s/lu0ue7/lobsters_interview_with_claudius"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-06-15, 16:54:04",
-      "https://lobste.rs/s/hwi7c2/monolith_experimental_non_unix"
-    ],
-    [
-      "MONOLITH: An experimental non-Unix operating system for x86",
-      "https://codeberg.org/MONOLITH-Project/MONOLITH"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 15:35:08",
       "https://lobste.rs/s/cslljn/iroh_1_0_dial_keys_not_ips"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-06-15, 07:19:50",
-      "https://lobste.rs/s/udagdr/i_am_not_reverse_centaur"
-    ],
-    [
-      "I Am Not a Reverse Centaur",
-      "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 03:29:47",
       "https://lobste.rs/s/1xyby4/write_for_one_person"
     ],
     [
       "write for one person",
       "https://wizardzines.com/comics/write-for-one-person/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 17:07:42",
-      "https://lobste.rs/s/lvodx4/deconstructing_datalog"
-    ],
-    [
-      "Deconstructing Datalog",
-      "https://www.rntz.net/post/my-thesis.html"
     ]
   ]
 ]
