@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-16, 08:02:48](https://lobste.rs/s/lu0ue7/lobsters_interview_with_claudius) - [Lobsters Interview with Claudius](https://alexalejandre.com/programming/interview-with-claude-roux/)
 * [2026-06-16, 05:23:57](https://lobste.rs/s/mjkp4m/time_x86_emulator_team_found_code_so_bad) - [The time the x86 emulator team found code so bad that they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+* [2026-06-16, 04:30:18](https://lobste.rs/s/irws5p/correlated_randomness_slay_spire_2) - [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
 * [2026-06-16, 04:23:14](https://lobste.rs/s/aq0dz1/life_nasty_brutish_short) - [Life: Nasty, Brutish, and Short](https://www.jsoftware.com/papers/eem/life.htm)
 * [2026-06-16, 02:52:58](https://lobste.rs/s/rcazen/llms_will_replace_8_track_duplication) - [LLMs Will Replace 8-Track Duplication Engineers](https://bbenchoff.github.io/pages/8Tracks.html)
 * [2026-06-16, 02:41:09](https://lobste.rs/s/k6qon4/what_job_interviews_taught_me_about) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
@@ -19,10 +21,8 @@
 * [2026-06-15, 12:36:37](https://lobste.rs/s/eolbw3/control_structures_programming) - [Control Structures in Programming Languages](https://xavierleroy.org/control-structures/book/index.html)
 * [2026-06-15, 11:05:07](https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure) - [pyinfra — agentless infrastructure automation, in plain Python](https://pyinfra.com)
 * [2026-06-15, 10:23:34](https://lobste.rs/s/guyifg/removing_my_nix_flakes_vs_guix_post) - [Removing my nix flakes vs guix post](https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix)
-* [2026-06-15, 09:46:08](https://lobste.rs/s/fwohh5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/fwohh5/what_are_you_doing_this_week)
 * [2026-06-15, 07:53:52](https://lobste.rs/s/uqagn2/curl_summer_bliss) - [curl summer of bliss](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 * [2026-06-15, 07:19:50](https://lobste.rs/s/udagdr/i_am_not_reverse_centaur) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
-* [2026-06-15, 05:53:54](https://lobste.rs/s/mgbtd6/diplomat_multi_language_ffi_for_rust) - [Diplomat: Multi-language FFI for Rust Libraries](http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/)
 * [2026-06-15, 03:29:47](https://lobste.rs/s/1xyby4/write_for_one_person) - [write for one person](https://wizardzines.com/comics/write-for-one-person/)
 * [2026-06-14, 17:07:42](https://lobste.rs/s/lvodx4/deconstructing_datalog) - [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html)
 
