@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-06-16, 22:44:18",
+      "https://lobste.rs/s/6qwblq/making_http_requests_from_container_has"
+    ],
+    [
+      "Making HTTP requests from a container that has no curl, using bash /dev/tcp",
+      "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 19:18:46",
+      "https://lobste.rs/s/zpjomk/yak_shaving_is_fun"
+    ],
+    [
+      "But yak shaving is fun",
+      "https://parksb.github.io/en/article/32.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 19:04:17",
+      "https://lobste.rs/s/k7kojd/all_ways_which_terminals_text_rendering"
+    ],
+    [
+      "all the ways in which terminals' text rendering is bad (2024)",
+      "https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 18:42:26",
       "https://lobste.rs/s/mneqgx/rfc_10008_http_query_method"
     ],
     [
       "RFC 10008: The HTTP QUERY Method",
       "https://www.rfc-editor.org/info/rfc10008/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 18:36:47",
-      "https://lobste.rs/s/zaejgn/malware_arch_linux_aurs_now_inserting"
-    ],
-    [
-      "Malware in Arch Linux AURs now inserting Russian spam into shell configs",
-      "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-06-16, 02:52:58",
-      "https://lobste.rs/s/rcazen/llms_will_replace_8_track_duplication"
-    ],
-    [
-      "LLMs Will Replace 8-Track Duplication Engineers",
-      "https://bbenchoff.github.io/pages/8Tracks.html"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 02:41:09",
       "https://lobste.rs/s/k6qon4/what_job_interviews_taught_me_about"
     ],
@@ -227,16 +237,6 @@
     [
       "Iroh 1.0 - Dial Keys, not IPs",
       "https://www.iroh.computer/blog/v1"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 10:23:34",
-      "https://lobste.rs/s/guyifg/removing_my_nix_flakes_vs_guix_post"
-    ],
-    [
-      "Removing my nix flakes vs guix post",
-      "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix"
     ]
   ],
   [
