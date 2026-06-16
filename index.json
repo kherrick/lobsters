@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-16, 04:23:14",
+      "https://lobste.rs/s/aq0dz1/life_nasty_brutish_short"
+    ],
+    [
+      "Life: Nasty, Brutish, and Short",
+      "https://www.jsoftware.com/papers/eem/life.htm"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 03:37:13",
+      "https://lobste.rs/s/femzsi/microsoft_is_resorting_its_biggest_cloud"
+    ],
+    [
+      "Microsoft is resorting to its biggest cloud rival to deal with GitHub AI capacity issues",
+      "https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 02:52:58",
       "https://lobste.rs/s/rcazen/llms_will_replace_8_track_duplication"
     ],
@@ -17,6 +37,16 @@
     [
       "What job interviews taught me about Kubernetes",
       "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 02:25:53",
+      "https://lobste.rs/s/jfo6xs/banned_book_library_wi_fi_lightbulb"
+    ],
+    [
+      "Banned book library in a Wi-Fi lightbulb",
+      "https://www.richardosgood.com/posts/banned-book-library/"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2026-06-15, 06:07:24",
-      "https://lobste.rs/s/xqxidz/parsing_json_at_compile_time_with_c_26"
-    ],
-    [
-      "Parsing JSON at compile time with C++26 static reflection",
-      "https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 05:55:24",
-      "https://lobste.rs/s/zieeza/only_scalable_delete_postgres_is_drop"
-    ],
-    [
-      "The only scalable delete in Postgres is DROP TABLE",
-      "https://planetscale.com/blog/the-only-scalable-delete"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 05:53:54",
       "https://lobste.rs/s/mgbtd6/diplomat_multi_language_ffi_for_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "write for one person",
       "https://wizardzines.com/comics/write-for-one-person/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 18:43:40",
-      "https://lobste.rs/s/wwbl1n/even_more_batteries_included_with_emacs"
-    ],
-    [
-      "Even More Batteries Included With Emacs",
-      "https://karthinks.com/software/even-more-batteries-included-with-emacs/"
     ]
   ],
   [
