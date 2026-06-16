@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-16, 08:02:48",
+      "https://lobste.rs/s/lu0ue7/lobsters_interview_with_claudius"
+    ],
+    [
+      "Lobsters Interview with Claudius",
+      "https://alexalejandre.com/programming/interview-with-claude-roux/"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 05:23:57",
       "https://lobste.rs/s/mjkp4m/time_x86_emulator_team_found_code_so_bad"
     ],
     [
       "The time the x86 emulator team found code so bad that they fixed it during emulation",
       "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 04:30:18",
+      "https://lobste.rs/s/irws5p/correlated_randomness_slay_spire_2"
+    ],
+    [
+      "Correlated randomness in Slay the Spire 2",
+      "https://tck.mn/blog/correlated-randomness-sts2/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-06-15, 09:46:08",
-      "https://lobste.rs/s/fwohh5/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/fwohh5/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 07:53:52",
       "https://lobste.rs/s/uqagn2/curl_summer_bliss"
     ],
@@ -217,16 +227,6 @@
     [
       "I Am Not a Reverse Centaur",
       "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 05:53:54",
-      "https://lobste.rs/s/mgbtd6/diplomat_multi_language_ffi_for_rust"
-    ],
-    [
-      "Diplomat: Multi-language FFI for Rust Libraries",
-      "http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/"
     ]
   ],
   [
