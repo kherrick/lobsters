@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-16, 04:23:14](https://lobste.rs/s/aq0dz1/life_nasty_brutish_short) - [Life: Nasty, Brutish, and Short](https://www.jsoftware.com/papers/eem/life.htm)
+* [2026-06-16, 03:37:13](https://lobste.rs/s/femzsi/microsoft_is_resorting_its_biggest_cloud) - [Microsoft is resorting to its biggest cloud rival to deal with GitHub AI capacity issues](https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6)
 * [2026-06-16, 02:52:58](https://lobste.rs/s/rcazen/llms_will_replace_8_track_duplication) - [LLMs Will Replace 8-Track Duplication Engineers](https://bbenchoff.github.io/pages/8Tracks.html)
 * [2026-06-16, 02:41:09](https://lobste.rs/s/k6qon4/what_job_interviews_taught_me_about) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
+* [2026-06-16, 02:25:53](https://lobste.rs/s/jfo6xs/banned_book_library_wi_fi_lightbulb) - [Banned book library in a Wi-Fi lightbulb](https://www.richardosgood.com/posts/banned-book-library/)
 * [2026-06-15, 20:23:48](https://lobste.rs/s/0mximk/netnewswire_status) - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
 * [2026-06-15, 20:03:41](https://lobste.rs/s/i2cjew/users_cry_foul_after_amd_stripped_memory) - [Users cry foul after AMD stripped memory crypto from its consumer CPUs](https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/)
 * [2026-06-15, 19:28:26](https://lobste.rs/s/ldq5mm/wio_windowed_i_o) - [wio: windowed i/o](https://github.com/ypsvlq/wio)
@@ -19,11 +22,8 @@
 * [2026-06-15, 09:46:08](https://lobste.rs/s/fwohh5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/fwohh5/what_are_you_doing_this_week)
 * [2026-06-15, 07:53:52](https://lobste.rs/s/uqagn2/curl_summer_bliss) - [curl summer of bliss](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 * [2026-06-15, 07:19:50](https://lobste.rs/s/udagdr/i_am_not_reverse_centaur) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
-* [2026-06-15, 06:07:24](https://lobste.rs/s/xqxidz/parsing_json_at_compile_time_with_c_26) - [Parsing JSON at compile time with C++26 static reflection](https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/)
-* [2026-06-15, 05:55:24](https://lobste.rs/s/zieeza/only_scalable_delete_postgres_is_drop) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
 * [2026-06-15, 05:53:54](https://lobste.rs/s/mgbtd6/diplomat_multi_language_ffi_for_rust) - [Diplomat: Multi-language FFI for Rust Libraries](http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/)
 * [2026-06-15, 03:29:47](https://lobste.rs/s/1xyby4/write_for_one_person) - [write for one person](https://wizardzines.com/comics/write-for-one-person/)
-* [2026-06-14, 18:43:40](https://lobste.rs/s/wwbl1n/even_more_batteries_included_with_emacs) - [Even More Batteries Included With Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 * [2026-06-14, 17:07:42](https://lobste.rs/s/lvodx4/deconstructing_datalog) - [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html)
 
 ## [Archives](archives/index.md)
