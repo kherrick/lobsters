@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 19:04:17](https://lobste.rs/s/k7kojd/all_ways_which_terminals_text_rendering) - [all the ways in which terminals' text rendering is bad (2024)](https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi)
 * [2026-06-16, 18:46:14](https://lobste.rs/s/emkdck/from_christmas_outage_1_app_store_ranking) - [From Christmas Outage to #1 App Store Ranking: An Aura Frames Postgres Scaling Retrospective](https://andyatkinson.com/postgresql-rds-scaling-aws-christmas-day-peak)
 * [2026-06-16, 18:36:47](https://lobste.rs/s/zaejgn/malware_arch_linux_aurs_now_inserting) - [Malware in Arch Linux AURs now inserting Russian spam into shell configs](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/)
 * [2026-06-16, 16:00:53](https://lobste.rs/s/hwqdvt/running_local_models_is_good_now) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
