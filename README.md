@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-16, 18:36:47](https://lobste.rs/s/zaejgn/malware_arch_linux_aurs_now_inserting) - [Malware in Arch Linux AURs now inserting Russian spam into shell configs](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/)
+* [2026-06-16, 18:46:14](https://lobste.rs/s/emkdck/from_christmas_outage_1_app_store_ranking) - [From Christmas Outage to #1 App Store Ranking: An Aura Frames Postgres Scaling Retrospective](https://andyatkinson.com/postgresql-rds-scaling-aws-christmas-day-peak)
 * [2026-06-16, 16:00:53](https://lobste.rs/s/hwqdvt/running_local_models_is_good_now) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
 * [2026-06-16, 15:55:29](https://lobste.rs/s/mxfd45/google_chrome_s_next_update_will_mark_end) - [Google Chrome's next update will mark the end of popular ad blockers](https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/)
 * [2026-06-16, 14:15:28](https://lobste.rs/s/pxqwxy/how_developers_react_ai_scented_blog) - [How Developers React to AI-Scented Blog Posts](https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts)
