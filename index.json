@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-16, 12:28:27",
+      "https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between"
+    ],
+    [
+      "How memory safety CVEs differ between Rust and C/C++",
+      "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 11:16:44",
+      "https://lobste.rs/s/eli97m/kde_android_news_june_2026"
+    ],
+    [
+      "KDE Android News (June 2026)",
+      "https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 10:30:25",
       "https://lobste.rs/s/cyj3wa/when_float_division_beats_integer"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-06-15, 19:28:26",
-      "https://lobste.rs/s/ldq5mm/wio_windowed_i_o"
-    ],
-    [
-      "wio: windowed i/o",
-      "https://github.com/ypsvlq/wio"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 19:26:25",
       "https://lobste.rs/s/vodqhe/freebsd_15_on_laptop"
     ],
@@ -187,16 +197,6 @@
     [
       "Emacs, how it all started (for me)",
       "https://xvw.lol/en/articles/emacs-start.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 12:53:51",
-      "https://lobste.rs/s/dwfhdc/your_epub_is_fine_kobo_disagrees_blame"
-    ],
-    [
-      "Your EPUB Is Fine. Kobo Disagrees. Blame Adobe",
-      "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/"
     ]
   ],
   [
