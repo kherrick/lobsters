@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-16, 18:36:47](https://lobste.rs/s/zaejgn/malware_arch_linux_aurs_now_inserting) - [Malware in Arch Linux AURs now inserting Russian spam into shell configs](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/)
+* [2026-06-16, 16:00:53](https://lobste.rs/s/hwqdvt/running_local_models_is_good_now) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
 * [2026-06-16, 15:55:29](https://lobste.rs/s/mxfd45/google_chrome_s_next_update_will_mark_end) - [Google Chrome's next update will mark the end of popular ad blockers](https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/)
 * [2026-06-16, 14:15:28](https://lobste.rs/s/pxqwxy/how_developers_react_ai_scented_blog) - [How Developers React to AI-Scented Blog Posts](https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts)
 * [2026-06-16, 13:42:28](https://lobste.rs/s/zqc7bj/see_what_s_next_for_firefox) - [See what's next for Firefox](https://www.firefox.com/en-US/whatsnext/)
@@ -7,7 +9,6 @@
 * [2026-06-16, 13:11:18](https://lobste.rs/s/0i8vld/async_task_locals_from_scratch) - [Async Task Locals From Scratch](https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/)
 * [2026-06-16, 12:58:11](https://lobste.rs/s/2u1z4w/backdoor_linkedin_job_offer) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
 * [2026-06-16, 12:28:27](https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between) - [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
-* [2026-06-16, 11:16:44](https://lobste.rs/s/eli97m/kde_android_news_june_2026) - [KDE Android News (June 2026)](https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html)
 * [2026-06-16, 10:30:25](https://lobste.rs/s/cyj3wa/when_float_division_beats_integer) - [When float division beats integer division](https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division)
 * [2026-06-16, 10:19:19](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released) - [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/)
 * [2026-06-16, 09:22:57](https://lobste.rs/s/qkli6l/oxygen_6_7_is_here_breath_fresh_air_for_kde_s) - [Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme](https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/)
@@ -22,7 +23,6 @@
 * [2026-06-15, 19:26:25](https://lobste.rs/s/vodqhe/freebsd_15_on_laptop) - [FreeBSD 15 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/)
 * [2026-06-15, 17:14:19](https://lobste.rs/s/fkoa80/typst_0_15_contains_multitudes) - [Typst 0.15 contains multitudes](https://typst.app/blog/2026/typst-0.15/)
 * [2026-06-15, 15:35:08](https://lobste.rs/s/cslljn/iroh_1_0_dial_keys_not_ips) - [Iroh 1.0 - Dial Keys, not IPs](https://www.iroh.computer/blog/v1)
-* [2026-06-15, 11:05:07](https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure) - [pyinfra — agentless infrastructure automation, in plain Python](https://pyinfra.com)
 * [2026-06-15, 10:23:34](https://lobste.rs/s/guyifg/removing_my_nix_flakes_vs_guix_post) - [Removing my nix flakes vs guix post](https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix)
 * [2026-06-15, 07:53:52](https://lobste.rs/s/uqagn2/curl_summer_bliss) - [curl summer of bliss](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 
