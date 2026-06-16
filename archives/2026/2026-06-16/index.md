@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 10:30:25](https://lobste.rs/s/cyj3wa/when_float_division_beats_integer) - [When float division beats integer division](https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division)
+* [2026-06-16, 10:19:19](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released) - [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/)
+* [2026-06-16, 09:22:57](https://lobste.rs/s/qkli6l/oxygen_6_7_is_here_breath_fresh_air_for_kde_s) - [Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme](https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/)
 * [2026-06-16, 08:02:48](https://lobste.rs/s/lu0ue7/lobsters_interview_with_claudius) - [Lobsters Interview with Claudius](https://alexalejandre.com/programming/interview-with-claude-roux/)
 * [2026-06-16, 05:23:57](https://lobste.rs/s/mjkp4m/time_x86_emulator_team_found_code_so_bad) - [The time the x86 emulator team found code so bad that they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
 * [2026-06-16, 04:30:18](https://lobste.rs/s/irws5p/correlated_randomness_slay_spire_2) - [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)

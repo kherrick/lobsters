@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-16, 10:30:25](https://lobste.rs/s/cyj3wa/when_float_division_beats_integer) - [When float division beats integer division](https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division)
+* [2026-06-16, 10:19:19](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released) - [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/)
+* [2026-06-16, 09:22:57](https://lobste.rs/s/qkli6l/oxygen_6_7_is_here_breath_fresh_air_for_kde_s) - [Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme](https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/)
 * [2026-06-16, 08:02:48](https://lobste.rs/s/lu0ue7/lobsters_interview_with_claudius) - [Lobsters Interview with Claudius](https://alexalejandre.com/programming/interview-with-claude-roux/)
 * [2026-06-16, 05:23:57](https://lobste.rs/s/mjkp4m/time_x86_emulator_team_found_code_so_bad) - [The time the x86 emulator team found code so bad that they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
 * [2026-06-16, 04:30:18](https://lobste.rs/s/irws5p/correlated_randomness_slay_spire_2) - [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
@@ -14,7 +17,6 @@
 * [2026-06-15, 18:36:15](https://lobste.rs/s/wlm6dv/savearoundtrip_publish_https_dns_record) - [savearoundtrip: publish an HTTPS DNS record, skip a round trip](https://savearoundtrip.com/)
 * [2026-06-15, 17:43:39](https://lobste.rs/s/vp2lbq/boot_naked_linux) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
 * [2026-06-15, 17:14:19](https://lobste.rs/s/fkoa80/typst_0_15_contains_multitudes) - [Typst 0.15 contains multitudes](https://typst.app/blog/2026/typst-0.15/)
-* [2026-06-15, 16:54:04](https://lobste.rs/s/hwi7c2/monolith_experimental_non_unix) - [MONOLITH: An experimental non-Unix operating system for x86](https://codeberg.org/MONOLITH-Project/MONOLITH)
 * [2026-06-15, 15:35:08](https://lobste.rs/s/cslljn/iroh_1_0_dial_keys_not_ips) - [Iroh 1.0 - Dial Keys, not IPs](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 15:31:34](https://lobste.rs/s/kycuyg/emacs_how_it_all_started_for_me) - [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)
 * [2026-06-15, 12:53:51](https://lobste.rs/s/dwfhdc/your_epub_is_fine_kobo_disagrees_blame) - [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
@@ -22,9 +24,7 @@
 * [2026-06-15, 11:05:07](https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure) - [pyinfra — agentless infrastructure automation, in plain Python](https://pyinfra.com)
 * [2026-06-15, 10:23:34](https://lobste.rs/s/guyifg/removing_my_nix_flakes_vs_guix_post) - [Removing my nix flakes vs guix post](https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix)
 * [2026-06-15, 07:53:52](https://lobste.rs/s/uqagn2/curl_summer_bliss) - [curl summer of bliss](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
-* [2026-06-15, 07:19:50](https://lobste.rs/s/udagdr/i_am_not_reverse_centaur) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
 * [2026-06-15, 03:29:47](https://lobste.rs/s/1xyby4/write_for_one_person) - [write for one person](https://wizardzines.com/comics/write-for-one-person/)
-* [2026-06-14, 17:07:42](https://lobste.rs/s/lvodx4/deconstructing_datalog) - [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html)
 
 ## [Archives](archives/index.md)
 
