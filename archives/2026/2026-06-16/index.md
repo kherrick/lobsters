@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 12:28:27](https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between) - [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
+* [2026-06-16, 11:16:44](https://lobste.rs/s/eli97m/kde_android_news_june_2026) - [KDE Android News (June 2026)](https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html)
 * [2026-06-16, 10:30:25](https://lobste.rs/s/cyj3wa/when_float_division_beats_integer) - [When float division beats integer division](https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division)
 * [2026-06-16, 10:19:19](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released) - [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/)
 * [2026-06-16, 09:22:57](https://lobste.rs/s/qkli6l/oxygen_6_7_is_here_breath_fresh_air_for_kde_s) - [Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme](https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/)
