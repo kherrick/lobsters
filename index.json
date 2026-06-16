@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-16, 18:46:14",
-      "https://lobste.rs/s/emkdck/from_christmas_outage_1_app_store_ranking"
+      "2026-06-16, 19:04:17",
+      "https://lobste.rs/s/k7kojd/all_ways_which_terminals_text_rendering"
     ],
     [
-      "From Christmas Outage to #1 App Store Ranking: An Aura Frames Postgres Scaling Retrospective",
-      "https://andyatkinson.com/postgresql-rds-scaling-aws-christmas-day-peak"
+      "all the ways in which terminals' text rendering is bad (2024)",
+      "https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 18:36:47",
+      "https://lobste.rs/s/zaejgn/malware_arch_linux_aurs_now_inserting"
+    ],
+    [
+      "Malware in Arch Linux AURs now inserting Russian spam into shell configs",
+      "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "NetNewsWire Status",
       "https://inessential.com/2026/06/15/netnewswire-status.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 20:03:41",
-      "https://lobste.rs/s/i2cjew/users_cry_foul_after_amd_stripped_memory"
-    ],
-    [
-      "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-      "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/"
     ]
   ],
   [
