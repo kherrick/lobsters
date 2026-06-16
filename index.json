@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-16, 18:36:47",
+      "https://lobste.rs/s/zaejgn/malware_arch_linux_aurs_now_inserting"
+    ],
+    [
+      "Malware in Arch Linux AURs now inserting Russian spam into shell configs",
+      "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 16:00:53",
+      "https://lobste.rs/s/hwqdvt/running_local_models_is_good_now"
+    ],
+    [
+      "Running local models is good now",
+      "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 15:55:29",
       "https://lobste.rs/s/mxfd45/google_chrome_s_next_update_will_mark_end"
     ],
@@ -67,16 +87,6 @@
     [
       "How memory safety CVEs differ between Rust and C/C++",
       "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 11:16:44",
-      "https://lobste.rs/s/eli97m/kde_android_news_june_2026"
-    ],
-    [
-      "KDE Android News (June 2026)",
-      "https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Iroh 1.0 - Dial Keys, not IPs",
       "https://www.iroh.computer/blog/v1"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 11:05:07",
-      "https://lobste.rs/s/htfm3p/pyinfra_agentless_infrastructure"
-    ],
-    [
-      "pyinfra — agentless infrastructure automation, in plain Python",
-      "https://pyinfra.com"
     ]
   ],
   [
