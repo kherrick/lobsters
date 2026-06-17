@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-17, 19:33:47](https://lobste.rs/s/hrcvuv/zkit_provider_agnostic_agent_toolkit) - [zkit: provider agnostic Agent toolkit](https://www.github.com/zarldev/zarlmono)
 * [2026-06-17, 17:17:10](https://lobste.rs/s/e4kbd3/future_text_api) - [Future Text API](https://wiesmann.codiferes.net/wordpress/archives/41710)
 * [2026-06-17, 16:34:34](https://lobste.rs/s/1shdvp/data_visualization_from_comfort_your) - [Data Visualization from the Comfort of your Terminal](https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md)
 * [2026-06-17, 16:10:52](https://lobste.rs/s/fdbotr/fmag_single_instruction_gpu_virtual) - [FMAG: A single-instruction GPU virtual machine and toolchain](https://github.com/jangafx/FMAG)
@@ -16,6 +15,7 @@
 * [2026-06-17, 05:42:05](https://lobste.rs/s/vx4cnm/how_docker_desktop_networking_works) - [How Docker Desktop Networking Works Under the Hood (2022)](https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/)
 * [2026-06-17, 05:29:46](https://lobste.rs/s/y3ra4s/game_engine_white_papers_commander_keen) - [Game Engine White Papers: Commander Keen](https://forgottenbytes.net/commander_keen.html)
 * [2026-06-17, 05:14:19](https://lobste.rs/s/suaa0r/27_year_old_authentication_bypass) - [A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack](https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html)
+* [2026-06-17, 02:59:20](https://lobste.rs/s/bt3cq8/honda_civics_evil_valet) - [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
 * [2026-06-16, 22:44:18](https://lobste.rs/s/6qwblq/making_http_requests_from_container_has) - [Making HTTP requests from a container that has no curl, using bash /dev/tcp](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
 * [2026-06-16, 22:17:20](https://lobste.rs/s/j11pew/can_gzip_be_language_model) - [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 * [2026-06-16, 19:18:46](https://lobste.rs/s/zpjomk/yak_shaving_is_fun) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
