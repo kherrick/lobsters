@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
 * [2026-06-17, 19:33:47](https://lobste.rs/s/hrcvuv/zkit_provider_agnostic_agent_toolkit) - [zkit: provider agnostic Agent toolkit](https://www.github.com/zarldev/zarlmono)
+* [2026-06-17, 17:17:10](https://lobste.rs/s/e4kbd3/future_text_api) - [Future Text API](https://wiesmann.codiferes.net/wordpress/archives/41710)
 * [2026-06-17, 16:34:34](https://lobste.rs/s/1shdvp/data_visualization_from_comfort_your) - [Data Visualization from the Comfort of your Terminal](https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md)
 * [2026-06-17, 16:10:52](https://lobste.rs/s/fdbotr/fmag_single_instruction_gpu_virtual) - [FMAG: A single-instruction GPU virtual machine and toolchain](https://github.com/jangafx/FMAG)
 * [2026-06-17, 15:16:40](https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version) - [Epic Games announces Lore version control system](https://lore.org/)
