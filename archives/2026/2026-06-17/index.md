@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 15:16:40](https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version) - [Epic Games announces Lore version control system](https://lore.org/)
+* [2026-06-17, 14:45:43](https://lobste.rs/s/myczjs/leaving_mozilla) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-17, 14:10:19](https://lobste.rs/s/goo5sh/making_budget_models_punch_above_their) - [Making budget models punch above their weight with a smart Rust harness](https://yogthos.net/posts/2026-06-08-dirge-code.html)
 * [2026-06-17, 14:07:41](https://lobste.rs/s/conbmt/real_artists_still_ship) - [Real artists still ship](https://jerodsanto.net/2026/06/real-artists-still-ship/)
+* [2026-06-17, 13:23:44](https://lobste.rs/s/aqk7vl/pull_requests_are_free_puppies) - [Pull Requests are Free Puppies](https://www.youtube.com/watch?v=x8_ZZhRL3YU&t=1733s)
 * [2026-06-17, 12:20:21](https://lobste.rs/s/nh9q9g/r_core_team_wins_rousseeuw_prize_for) - [R Core team wins Rousseeuw Prize for Statistics 2026](https://rousseeuwprize.org/2026)
 * [2026-06-17, 10:45:54](https://lobste.rs/s/hnoijy/color_picking_oklch_for_mortals) - [Color picking Oklch for mortals](https://hugodaniel.com/posts/color-picking-oklch/)
 * [2026-06-17, 10:22:27](https://lobste.rs/s/l6xs1q/2026_06_16_robinhood_layoff_translation) - [2026-06-16 Robinhood Layoff Translation](https://layoff-translator.pages.dev/layoffs/2026-06-16-robinhood)

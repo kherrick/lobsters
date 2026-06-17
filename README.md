@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-17, 15:16:40](https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version) - [Epic Games announces Lore version control system](https://lore.org/)
+* [2026-06-17, 14:45:43](https://lobste.rs/s/myczjs/leaving_mozilla) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-17, 14:10:19](https://lobste.rs/s/goo5sh/making_budget_models_punch_above_their) - [Making budget models punch above their weight with a smart Rust harness](https://yogthos.net/posts/2026-06-08-dirge-code.html)
-* [2026-06-17, 14:07:41](https://lobste.rs/s/conbmt/real_artists_still_ship) - [Real artists still ship](https://jerodsanto.net/2026/06/real-artists-still-ship/)
+* [2026-06-17, 13:23:44](https://lobste.rs/s/aqk7vl/pull_requests_are_free_puppies) - [Pull Requests are Free Puppies](https://www.youtube.com/watch?v=x8_ZZhRL3YU&t=1733s)
 * [2026-06-17, 12:20:21](https://lobste.rs/s/nh9q9g/r_core_team_wins_rousseeuw_prize_for) - [R Core team wins Rousseeuw Prize for Statistics 2026](https://rousseeuwprize.org/2026)
 * [2026-06-17, 10:45:54](https://lobste.rs/s/hnoijy/color_picking_oklch_for_mortals) - [Color picking Oklch for mortals](https://hugodaniel.com/posts/color-picking-oklch/)
 * [2026-06-17, 10:22:27](https://lobste.rs/s/l6xs1q/2026_06_16_robinhood_layoff_translation) - [2026-06-16 Robinhood Layoff Translation](https://layoff-translator.pages.dev/layoffs/2026-06-16-robinhood)
@@ -14,7 +16,6 @@
 * [2026-06-17, 02:59:20](https://lobste.rs/s/bt3cq8/honda_civics_evil_valet) - [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
 * [2026-06-16, 22:44:18](https://lobste.rs/s/6qwblq/making_http_requests_from_container_has) - [Making HTTP requests from a container that has no curl, using bash /dev/tcp](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
 * [2026-06-16, 22:17:20](https://lobste.rs/s/j11pew/can_gzip_be_language_model) - [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
-* [2026-06-16, 19:33:20](https://lobste.rs/s/a1nops/build_your_project_zig_style) - [Build your project Zig-style](https://fnordig.de/2026/06/16/build-your-project-zig-style/)
 * [2026-06-16, 19:18:46](https://lobste.rs/s/zpjomk/yak_shaving_is_fun) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 18:42:26](https://lobste.rs/s/mneqgx/rfc_10008_http_query_method) - [RFC 10008: The HTTP QUERY Method](https://www.rfc-editor.org/info/rfc10008/)
 * [2026-06-16, 16:00:53](https://lobste.rs/s/hwqdvt/running_local_models_is_good_now) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
@@ -24,7 +25,6 @@
 * [2026-06-16, 12:58:11](https://lobste.rs/s/2u1z4w/backdoor_linkedin_job_offer) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
 * [2026-06-16, 12:28:27](https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between) - [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
 * [2026-06-16, 10:19:19](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released) - [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/)
-* [2026-06-16, 08:02:48](https://lobste.rs/s/lu0ue7/lobsters_interview_with_claudius) - [Lobsters Interview with Claudius](https://alexalejandre.com/programming/interview-with-claude-roux/)
 
 ## [Archives](archives/index.md)
 
