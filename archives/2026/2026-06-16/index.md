@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
 * [2026-06-16, 22:44:18](https://lobste.rs/s/6qwblq/making_http_requests_from_container_has) - [Making HTTP requests from a container that has no curl, using bash /dev/tcp](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
+* [2026-06-16, 22:17:20](https://lobste.rs/s/j11pew/can_gzip_be_language_model) - [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+* [2026-06-16, 19:33:20](https://lobste.rs/s/a1nops/build_your_project_zig_style) - [Build your project Zig-style](https://fnordig.de/2026/06/16/build-your-project-zig-style/)
 * [2026-06-16, 19:18:46](https://lobste.rs/s/zpjomk/yak_shaving_is_fun) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 19:04:17](https://lobste.rs/s/k7kojd/all_ways_which_terminals_text_rendering) - [all the ways in which terminals' text rendering is bad (2024)](https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi)
 * [2026-06-16, 18:46:14](https://lobste.rs/s/emkdck/from_christmas_outage_1_app_store_ranking) - [From Christmas Outage to #1 App Store Ranking: An Aura Frames Postgres Scaling Retrospective](https://andyatkinson.com/postgresql-rds-scaling-aws-christmas-day-peak)
