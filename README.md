@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-06-17, 16:34:34](https://lobste.rs/s/1shdvp/data_visualization_from_comfort_your) - [Data Visualization from the Comfort of your Terminal](https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md)
+* [2026-06-17, 16:10:52](https://lobste.rs/s/fdbotr/fmag_single_instruction_gpu_virtual) - [FMAG: A single-instruction GPU virtual machine and toolchain](https://github.com/jangafx/FMAG)
 * [2026-06-17, 15:16:40](https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version) - [Epic Games announces Lore version control system](https://lore.org/)
 * [2026-06-17, 14:45:43](https://lobste.rs/s/myczjs/leaving_mozilla) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-17, 14:10:19](https://lobste.rs/s/goo5sh/making_budget_models_punch_above_their) - [Making budget models punch above their weight with a smart Rust harness](https://yogthos.net/posts/2026-06-08-dirge-code.html)
@@ -23,7 +24,6 @@
 * [2026-06-16, 13:42:28](https://lobste.rs/s/zqc7bj/see_what_s_next_for_firefox) - [See what's next for Firefox](https://www.firefox.com/en-US/whatsnext/)
 * [2026-06-16, 13:29:53](https://lobste.rs/s/erc2po/zlib_rs_firefox) - [zlib-rs in Firefox](https://trifectatech.org/blog/zlib-rs-in-firefox/)
 * [2026-06-16, 12:58:11](https://lobste.rs/s/2u1z4w/backdoor_linkedin_job_offer) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
-* [2026-06-16, 12:28:27](https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between) - [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
 * [2026-06-16, 10:19:19](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released) - [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/)
 
 ## [Archives](archives/index.md)
