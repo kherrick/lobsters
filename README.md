@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-17, 08:31:43](https://lobste.rs/s/z5wfi9/i_could_ve_rickrolled_entire_fifa_world) - [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack)
 * [2026-06-17, 05:42:05](https://lobste.rs/s/vx4cnm/how_docker_desktop_networking_works) - [How Docker Desktop Networking Works Under the Hood (2022)](https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/)
 * [2026-06-17, 05:14:19](https://lobste.rs/s/suaa0r/27_year_old_authentication_bypass) - [A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack](https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html)
 * [2026-06-17, 02:59:20](https://lobste.rs/s/bt3cq8/honda_civics_evil_valet) - [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
@@ -23,7 +24,6 @@
 * [2026-06-16, 02:41:09](https://lobste.rs/s/k6qon4/what_job_interviews_taught_me_about) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
 * [2026-06-16, 02:25:53](https://lobste.rs/s/jfo6xs/banned_book_library_wi_fi_lightbulb) - [Banned book library in a Wi-Fi lightbulb](https://www.richardosgood.com/posts/banned-book-library/)
 * [2026-06-15, 19:26:25](https://lobste.rs/s/vodqhe/freebsd_15_on_laptop) - [FreeBSD 15 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/)
-* [2026-06-15, 15:35:08](https://lobste.rs/s/cslljn/iroh_1_0_dial_keys_not_ips) - [Iroh 1.0 - Dial Keys, not IPs](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 07:53:52](https://lobste.rs/s/uqagn2/curl_summer_bliss) - [curl summer of bliss](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 
 ## [Archives](archives/index.md)
