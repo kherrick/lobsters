@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-17, 05:42:05",
+      "https://lobste.rs/s/vx4cnm/how_docker_desktop_networking_works"
+    ],
+    [
+      "How Docker Desktop Networking Works Under the Hood (2022)",
+      "https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 05:14:19",
+      "https://lobste.rs/s/suaa0r/27_year_old_authentication_bypass"
+    ],
+    [
+      "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack",
+      "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 02:59:20",
       "https://lobste.rs/s/bt3cq8/honda_civics_evil_valet"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2026-06-16, 19:33:20",
+      "https://lobste.rs/s/a1nops/build_your_project_zig_style"
+    ],
+    [
+      "Build your project Zig-style",
+      "https://fnordig.de/2026/06/16/build-your-project-zig-style/"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 19:18:46",
       "https://lobste.rs/s/zpjomk/yak_shaving_is_fun"
     ],
     [
       "But yak shaving is fun",
       "https://parksb.github.io/en/article/32.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 19:04:17",
-      "https://lobste.rs/s/k7kojd/all_ways_which_terminals_text_rendering"
-    ],
-    [
-      "all the ways in which terminals' text rendering is bad (2024)",
-      "https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Google Chrome's next update will mark the end of popular ad blockers",
       "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 14:15:28",
-      "https://lobste.rs/s/pxqwxy/how_developers_react_ai_scented_blog"
-    ],
-    [
-      "How Developers React to AI-Scented Blog Posts",
-      "https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Banned book library in a Wi-Fi lightbulb",
       "https://www.richardosgood.com/posts/banned-book-library/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 20:23:48",
-      "https://lobste.rs/s/0mximk/netnewswire_status"
-    ],
-    [
-      "NetNewsWire Status",
-      "https://inessential.com/2026/06/15/netnewswire-status.html"
     ]
   ],
   [
