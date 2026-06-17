@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-17, 16:10:52",
+      "https://lobste.rs/s/fdbotr/fmag_single_instruction_gpu_virtual"
+    ],
+    [
+      "FMAG: A single-instruction GPU virtual machine and toolchain",
+      "https://github.com/jangafx/FMAG"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 15:16:40",
       "https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version"
     ],
@@ -227,16 +237,6 @@
     [
       "A backdoor in a LinkedIn job offer",
       "https://roman.pt/posts/linkedin-backdoor/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 12:28:27",
-      "https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between"
-    ],
-    [
-      "How memory safety CVEs differ between Rust and C/C++",
-      "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
     ]
   ],
   [
