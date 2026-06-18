@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 20:12:03](https://lobste.rs/s/p7i4ny/there_s_no_place_like_home_10_journey_vim) - [There's No Place Like $HOME: A 10 Journey of Vim, Then VS Code, and Back to Vim](https://starikov.co/no-place-like-home/)
 * [2026-06-17, 19:33:47](https://lobste.rs/s/hrcvuv/zkit_provider_agnostic_agent_toolkit) - [zkit: provider agnostic Agent toolkit](https://www.github.com/zarldev/zarlmono)
 * [2026-06-17, 17:17:10](https://lobste.rs/s/e4kbd3/future_text_api) - [Future Text API](https://wiesmann.codiferes.net/wordpress/archives/41710)
 * [2026-06-17, 16:34:34](https://lobste.rs/s/1shdvp/data_visualization_from_comfort_your) - [Data Visualization from the Comfort of your Terminal](https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md)
