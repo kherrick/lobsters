@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-18, 19:29:27",
+      "https://lobste.rs/s/n2zqph/webernetes_kubernetes_browser"
+    ],
+    [
+      "webernetes: Kubernetes in the browser",
+      "https://github.com/ngrok/webernetes"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 18:13:35",
       "https://lobste.rs/s/mhymex/design_littlefs"
     ],
@@ -57,6 +67,16 @@
     [
       "The Future of the Con Is Already Here, It's Just Not Evenly Distributed",
       "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 15:22:18",
+      "https://lobste.rs/s/sclobo/usbliter8_apple_a12_a13_bootrom_exploit"
+    ],
+    [
+      "usbliter8- Apple A12/A13 bootrom exploit",
+      "https://ps.tc/pages/blog-usbliter8.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-06-18, 06:04:20",
-      "https://lobste.rs/s/lieueg/announcing_stack_overflow_for_agents"
-    ],
-    [
-      "Announcing Stack Overflow for Agents",
-      "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 05:14:20",
       "https://lobste.rs/s/azy6y2/i_hate_compilers"
     ],
@@ -207,16 +217,6 @@
     [
       "Audacity 4.0 beta lets you test its new (nicer) Qt interface",
       "https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 15:16:40",
-      "https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version"
-    ],
-    [
-      "Epic Games announces Lore version control system",
-      "https://lore.org/"
     ]
   ],
   [
