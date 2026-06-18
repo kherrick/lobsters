@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 21:00:16](https://lobste.rs/s/mgvyrc/bcachefs_1_38_6_brings_many_performance) - [Bcachefs 1.38.6 Brings Many Performance Improvements](https://www.phoronix.com/news/Bcachefs-Tools-1.38.6)
 * [2026-06-17, 20:12:03](https://lobste.rs/s/p7i4ny/there_s_no_place_like_home_10_journey_vim) - [There's No Place Like $HOME: A 10 Journey of Vim, Then VS Code, and Back to Vim](https://starikov.co/no-place-like-home/)
 * [2026-06-17, 19:33:47](https://lobste.rs/s/hrcvuv/zkit_provider_agnostic_agent_toolkit) - [zkit: provider agnostic Agent toolkit](https://www.github.com/zarldev/zarlmono)
 * [2026-06-17, 17:17:10](https://lobste.rs/s/e4kbd3/future_text_api) - [Future Text API](https://wiesmann.codiferes.net/wordpress/archives/41710)

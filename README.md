@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-17, 21:00:16](https://lobste.rs/s/mgvyrc/bcachefs_1_38_6_brings_many_performance) - [Bcachefs 1.38.6 Brings Many Performance Improvements](https://www.phoronix.com/news/Bcachefs-Tools-1.38.6)
 * [2026-06-17, 20:12:03](https://lobste.rs/s/p7i4ny/there_s_no_place_like_home_10_journey_vim) - [There's No Place Like $HOME: A 10 Journey of Vim, Then VS Code, and Back to Vim](https://starikov.co/no-place-like-home/)
 * [2026-06-17, 17:17:10](https://lobste.rs/s/e4kbd3/future_text_api) - [Future Text API](https://wiesmann.codiferes.net/wordpress/archives/41710)
 * [2026-06-17, 16:34:34](https://lobste.rs/s/1shdvp/data_visualization_from_comfort_your) - [Data Visualization from the Comfort of your Terminal](https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md)
@@ -16,7 +17,6 @@
 * [2026-06-17, 05:42:05](https://lobste.rs/s/vx4cnm/how_docker_desktop_networking_works) - [How Docker Desktop Networking Works Under the Hood (2022)](https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/)
 * [2026-06-17, 05:29:46](https://lobste.rs/s/y3ra4s/game_engine_white_papers_commander_keen) - [Game Engine White Papers: Commander Keen](https://forgottenbytes.net/commander_keen.html)
 * [2026-06-17, 05:14:19](https://lobste.rs/s/suaa0r/27_year_old_authentication_bypass) - [A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack](https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html)
-* [2026-06-16, 22:44:18](https://lobste.rs/s/6qwblq/making_http_requests_from_container_has) - [Making HTTP requests from a container that has no curl, using bash /dev/tcp](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
 * [2026-06-16, 22:17:20](https://lobste.rs/s/j11pew/can_gzip_be_language_model) - [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 * [2026-06-16, 19:18:46](https://lobste.rs/s/zpjomk/yak_shaving_is_fun) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 16:00:53](https://lobste.rs/s/hwqdvt/running_local_models_is_good_now) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
