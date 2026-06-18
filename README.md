@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-18, 19:29:27](https://lobste.rs/s/n2zqph/webernetes_kubernetes_browser) - [webernetes: Kubernetes in the browser](https://github.com/ngrok/webernetes)
+* [2026-06-18, 18:13:35](https://lobste.rs/s/mhymex/design_littlefs) - [The design of littlefs](https://github.com/littlefs-project/littlefs/blob/master/DESIGN.md)
 * [2026-06-18, 17:04:00](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments) - [What are your Favorite Lobste.rs Comments?](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments)
 * [2026-06-18, 16:53:58](https://lobste.rs/s/4hcq97/is_it_time_for_new_embedded_linux_build) - [Is It Time for a New Embedded Linux Build System?](https://yoebuild.org/blog/time-for-a-new-build-system/)
 * [2026-06-18, 16:25:48](https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not) - [The Future of the Con Is Already Here, It's Just Not Evenly Distributed](http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/)
@@ -18,9 +20,7 @@
 * [2026-06-18, 06:04:20](https://lobste.rs/s/lieueg/announcing_stack_overflow_for_agents) - [Announcing Stack Overflow for Agents](https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/)
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 05:10:01](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving) - [Changes in Emacs 31 I'm Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner)
-* [2026-06-18, 03:36:20](https://lobste.rs/s/sgebfp/local_qwen_isn_t_worse_opus_it_s_different) - [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
 * [2026-06-18, 03:08:13](https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new) - [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta)
-* [2026-06-17, 21:00:16](https://lobste.rs/s/mgvyrc/bcachefs_1_38_6_brings_many_performance) - [Bcachefs 1.38.6 Brings Many Performance Improvements](https://www.phoronix.com/news/Bcachefs-Tools-1.38.6)
 * [2026-06-17, 15:16:40](https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version) - [Epic Games announces Lore version control system](https://lore.org/)
 * [2026-06-17, 14:45:43](https://lobste.rs/s/myczjs/leaving_mozilla) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-17, 13:23:44](https://lobste.rs/s/aqk7vl/pull_requests_are_free_puppies) - [Pull Requests are Free Puppies](https://www.youtube.com/watch?v=x8_ZZhRL3YU&t=1733s)
