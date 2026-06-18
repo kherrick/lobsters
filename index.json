@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-18, 08:15:10",
-      "https://lobste.rs/s/y9zfbv/rfc_10008_http_query_method"
+      "2026-06-18, 10:17:58",
+      "https://lobste.rs/s/0mlwcf/mastodon_4_6"
     ],
     [
-      "RFC 10008: The HTTP QUERY Method",
-      "https://blainsmith.com/articles/rfc-10008-http-query-method/"
+      "Mastodon 4.6",
+      "https://blog.joinmastodon.org/2026/06/mastodon-4.6/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 09:37:59",
+      "https://lobste.rs/s/e325gb/yay_v13_aurpocalypse"
+    ],
+    [
+      "yay v13 and the AURpocalypse",
+      "https://jguer.space/blog/2026-06-15-yay-v13"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Sigma 45mm f/2.8 Lens Repair & Analysis",
       "https://salvagedcircuitry.com/sigma-45mm.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 07:01:29",
+      "https://lobste.rs/s/3ohaar/freja_self_modifiable_editor_for_coding"
+    ],
+    [
+      "freja: Self-modifiable editor for coding graphical things",
+      "https://github.com/saikyun/freja"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-06-16, 22:17:20",
-      "https://lobste.rs/s/j11pew/can_gzip_be_language_model"
-    ],
-    [
-      "Can gzip be a language model?",
-      "https://nathan.rs/posts/gzip-lm/"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 19:18:46",
       "https://lobste.rs/s/zpjomk/yak_shaving_is_fun"
     ],
@@ -237,16 +247,6 @@
     [
       "Google Chrome's next update will mark the end of popular ad blockers",
       "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 10:19:19",
-      "https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released"
-    ],
-    [
-      "KDE Plasma 6.7 released",
-      "https://kde.org/announcements/plasma/6/6.7.0/"
     ]
   ]
 ]
