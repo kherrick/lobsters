@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-18, 17:04:00",
+      "https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments"
+    ],
+    [
+      "What are your Favorite Lobste.rs Comments?",
+      "https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 16:53:58",
       "https://lobste.rs/s/4hcq97/is_it_time_for_new_embedded_linux_build"
     ],
@@ -67,6 +77,16 @@
     [
       "The Hidden Elegance of Gradient Noise",
       "https://yogthos.net/posts/2026-06-17-perlin-flow.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 13:21:26",
+      "https://lobste.rs/s/medvuo/nix_for_haskell_static_builds"
+    ],
+    [
+      "Nix for Haskell: Static Builds",
+      "https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-06-17, 16:34:34",
-      "https://lobste.rs/s/1shdvp/data_visualization_from_comfort_your"
-    ],
-    [
-      "Data Visualization from the Comfort of your Terminal",
-      "https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 15:16:40",
       "https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version"
     ],
@@ -227,16 +237,6 @@
     [
       "Pull Requests are Free Puppies",
       "https://www.youtube.com/watch?v=x8_ZZhRL3YU&t=1733s"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 10:45:54",
-      "https://lobste.rs/s/hnoijy/color_picking_oklch_for_mortals"
-    ],
-    [
-      "Color picking Oklch for mortals",
-      "https://hugodaniel.com/posts/color-picking-oklch/"
     ]
   ],
   [
