@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-18, 13:32:10",
+      "https://lobste.rs/s/pbvqlz/cve_2026_42530_use_after_free_nginx_http_3"
+    ],
+    [
+      "CVE-2026-42530: Use after free in nginx HTTP/3 QUIC module",
+      "https://www.cve.org/CVERecord?id=CVE-2026-42530"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 13:21:26",
+      "https://lobste.rs/s/medvuo/nix_for_haskell_static_builds"
+    ],
+    [
+      "Nix for Haskell: Static Builds",
+      "https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 10:17:58",
       "https://lobste.rs/s/0mlwcf/mastodon_4_6"
     ],
@@ -227,26 +247,6 @@
     [
       "The Impact of Google's Manifest Version 3 Update on Ad Blocker Effectiveness",
       "https://arxiv.org/abs/2503.01000"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 19:18:46",
-      "https://lobste.rs/s/zpjomk/yak_shaving_is_fun"
-    ],
-    [
-      "But yak shaving is fun",
-      "https://parksb.github.io/en/article/32.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 15:55:29",
-      "https://lobste.rs/s/mxfd45/google_chrome_s_next_update_will_mark_end"
-    ],
-    [
-      "Google Chrome's next update will mark the end of popular ad blockers",
-      "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/"
     ]
   ]
 ]
