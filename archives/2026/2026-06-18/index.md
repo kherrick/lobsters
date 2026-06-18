@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 17:04:00](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments) - [What are your Favorite Lobste.rs Comments?](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments)
 * [2026-06-18, 16:53:58](https://lobste.rs/s/4hcq97/is_it_time_for_new_embedded_linux_build) - [Is It Time for a New Embedded Linux Build System?](https://yoebuild.org/blog/time-for-a-new-build-system/)
 * [2026-06-18, 16:25:48](https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not) - [The Future of the Con Is Already Here, It's Just Not Evenly Distributed - In Pursuit of Laziness](http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/)
 * [2026-06-18, 15:22:18](https://lobste.rs/s/sclobo/usbliter8_apple_a12_a13_bootrom_exploit) - [usbliter8- Apple A12/A13 bootrom exploit](https://ps.tc/pages/blog-usbliter8.html)
