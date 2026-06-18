@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 10:17:58](https://lobste.rs/s/0mlwcf/mastodon_4_6) - [Mastodon 4.6](https://blog.joinmastodon.org/2026/06/mastodon-4.6/)
+* [2026-06-18, 09:37:59](https://lobste.rs/s/e325gb/yay_v13_aurpocalypse) - [yay v13 and the AURpocalypse](https://jguer.space/blog/2026-06-15-yay-v13)
 * [2026-06-18, 08:15:10](https://lobste.rs/s/y9zfbv/rfc_10008_http_query_method) - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/)
 * [2026-06-18, 07:41:44](https://lobste.rs/s/gcaiew/bcachefs_1_38_6_performance_release) - [Bcachefs 1.38.6 - the performance release](https://www.patreon.com/bcachefs/posts/1-38-6-release-161366372?)
 * [2026-06-18, 07:24:43](https://lobste.rs/s/7wymja/magic_buffers_io_uring_registered) - [Magic Buffers and io_uring Registered Buffers](https://www.mindfruit.co.uk/posts/2025/10/magic-buffers-and-io-uring-write-fixed/)
 * [2026-06-18, 07:09:26](https://lobste.rs/s/up3pfu/sigma_45mm_f_2_8_lens_repair_analysis) - [Sigma 45mm f/2.8 Lens Repair & Analysis](https://salvagedcircuitry.com/sigma-45mm.html)
+* [2026-06-18, 07:01:29](https://lobste.rs/s/3ohaar/freja_self_modifiable_editor_for_coding) - [freja: Self-modifiable editor for coding graphical things](https://github.com/saikyun/freja)
 * [2026-06-18, 06:36:39](https://lobste.rs/s/nqv7yo/cli_authentication_right_way) - [CLI Authentication, the Right Way](https://www.abgeo.dev/blog/cli-authentication-the-right-way/)
 * [2026-06-18, 06:04:20](https://lobste.rs/s/lieueg/announcing_stack_overflow_for_agents) - [Announcing Stack Overflow for Agents](https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/)
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
