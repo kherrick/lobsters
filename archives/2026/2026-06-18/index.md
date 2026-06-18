@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 15:22:18](https://lobste.rs/s/sclobo/usbliter8_apple_a12_a13_bootrom_exploit) - [usbliter8- Apple A12/A13 bootrom exploit](https://ps.tc/pages/blog-usbliter8.html)
+* [2026-06-18, 15:08:04](https://lobste.rs/s/mnycr3/google_workspace_threatening_block) - [Google workspace threatening to block firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
+* [2026-06-18, 14:56:17](https://lobste.rs/s/yas7ik/offset_slices) - [offset_of! slices](https://bal-e.org/blog/2026/offset-of-slices/)
+* [2026-06-18, 14:02:05](https://lobste.rs/s/4ttntg/open_source_vs_invisible_hand) - [Open Source vs the Invisible Hand](https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html)
 * [2026-06-18, 14:01:40](https://lobste.rs/s/ept8fv/hidden_elegance_gradient_noise) - [The Hidden Elegance of Gradient Noise](https://yogthos.net/posts/2026-06-17-perlin-flow.html)
 * [2026-06-18, 13:32:10](https://lobste.rs/s/pbvqlz/cve_2026_42530_use_after_free_nginx_http_3) - [CVE-2026-42530: Use after free in nginx HTTP/3 QUIC module](https://www.cve.org/CVERecord?id=CVE-2026-42530)
 * [2026-06-18, 13:21:26](https://lobste.rs/s/medvuo/nix_for_haskell_static_builds) - [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/)

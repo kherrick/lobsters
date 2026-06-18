@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-18, 15:22:18](https://lobste.rs/s/sclobo/usbliter8_apple_a12_a13_bootrom_exploit) - [usbliter8- Apple A12/A13 bootrom exploit](https://ps.tc/pages/blog-usbliter8.html)
+* [2026-06-18, 15:08:04](https://lobste.rs/s/mnycr3/google_workspace_threatening_block) - [Google workspace threatening to block firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
+* [2026-06-18, 14:56:17](https://lobste.rs/s/yas7ik/offset_slices) - [offset_of! slices](https://bal-e.org/blog/2026/offset-of-slices/)
+* [2026-06-18, 14:02:05](https://lobste.rs/s/4ttntg/open_source_vs_invisible_hand) - [Open Source vs the Invisible Hand](https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html)
 * [2026-06-18, 14:01:40](https://lobste.rs/s/ept8fv/hidden_elegance_gradient_noise) - [The Hidden Elegance of Gradient Noise](https://yogthos.net/posts/2026-06-17-perlin-flow.html)
-* [2026-06-18, 13:32:10](https://lobste.rs/s/pbvqlz/cve_2026_42530_use_after_free_nginx_http_3) - [CVE-2026-42530: Use after free in nginx HTTP/3 QUIC module](https://www.cve.org/CVERecord?id=CVE-2026-42530)
 * [2026-06-18, 13:21:26](https://lobste.rs/s/medvuo/nix_for_haskell_static_builds) - [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/)
 * [2026-06-18, 10:17:58](https://lobste.rs/s/0mlwcf/mastodon_4_6) - [Mastodon 4.6](https://blog.joinmastodon.org/2026/06/mastodon-4.6/)
 * [2026-06-18, 09:37:59](https://lobste.rs/s/e325gb/yay_v13_aurpocalypse) - [yay v13 and the AURpocalypse](https://jguer.space/blog/2026-06-15-yay-v13)
 * [2026-06-18, 08:15:10](https://lobste.rs/s/y9zfbv/rfc_10008_http_query_method) - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/)
-* [2026-06-18, 08:10:43](https://lobste.rs/s/uf4j0n/learning_lustre_type_safe_frontend) - [Learning Lustre: Type-safe frontend development](https://blog.kacaii.dev/3mn6n3lvibc2b)
-* [2026-06-18, 07:41:44](https://lobste.rs/s/gcaiew/bcachefs_1_38_6_performance_release) - [Bcachefs 1.38.6 - the performance release](https://www.patreon.com/bcachefs/posts/1-38-6-release-161366372?)
 * [2026-06-18, 07:24:43](https://lobste.rs/s/7wymja/magic_buffers_io_uring_registered) - [Magic Buffers and io_uring Registered Buffers](https://www.mindfruit.co.uk/posts/2025/10/magic-buffers-and-io-uring-write-fixed/)
 * [2026-06-18, 07:09:26](https://lobste.rs/s/up3pfu/sigma_45mm_f_2_8_lens_repair_analysis) - [Sigma 45mm f/2.8 Lens Repair & Analysis](https://salvagedcircuitry.com/sigma-45mm.html)
 * [2026-06-18, 06:36:39](https://lobste.rs/s/nqv7yo/cli_authentication_right_way) - [CLI Authentication, the Right Way](https://www.abgeo.dev/blog/cli-authentication-the-right-way/)
@@ -24,7 +25,6 @@
 * [2026-06-17, 13:23:44](https://lobste.rs/s/aqk7vl/pull_requests_are_free_puppies) - [Pull Requests are Free Puppies](https://www.youtube.com/watch?v=x8_ZZhRL3YU&t=1733s)
 * [2026-06-17, 10:45:54](https://lobste.rs/s/hnoijy/color_picking_oklch_for_mortals) - [Color picking Oklch for mortals](https://hugodaniel.com/posts/color-picking-oklch/)
 * [2026-06-17, 08:31:43](https://lobste.rs/s/z5wfi9/i_could_ve_rickrolled_entire_fifa_world) - [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack)
-* [2026-06-17, 07:30:42](https://lobste.rs/s/fxulig/impact_google_s_manifest_version_3_update) - [The Impact of Google's Manifest Version 3 Update on Ad Blocker Effectiveness](https://arxiv.org/abs/2503.01000)
 
 ## [Archives](archives/index.md)
 
