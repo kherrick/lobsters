@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-17, 21:00:16",
+      "https://lobste.rs/s/mgvyrc/bcachefs_1_38_6_brings_many_performance"
+    ],
+    [
+      "Bcachefs 1.38.6 Brings Many Performance Improvements",
+      "https://www.phoronix.com/news/Bcachefs-Tools-1.38.6"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 20:12:03",
       "https://lobste.rs/s/p7i4ny/there_s_no_place_like_home_10_journey_vim"
     ],
@@ -157,16 +167,6 @@
     [
       "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack",
       "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 22:44:18",
-      "https://lobste.rs/s/6qwblq/making_http_requests_from_container_has"
-    ],
-    [
-      "Making HTTP requests from a container that has no curl, using bash /dev/tcp",
-      "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/"
     ]
   ],
   [
