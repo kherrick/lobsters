@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 13:32:10](https://lobste.rs/s/pbvqlz/cve_2026_42530_use_after_free_nginx_http_3) - [CVE-2026-42530: Use after free in nginx HTTP/3 QUIC module](https://www.cve.org/CVERecord?id=CVE-2026-42530)
+* [2026-06-18, 13:21:26](https://lobste.rs/s/medvuo/nix_for_haskell_static_builds) - [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/)
 * [2026-06-18, 10:17:58](https://lobste.rs/s/0mlwcf/mastodon_4_6) - [Mastodon 4.6](https://blog.joinmastodon.org/2026/06/mastodon-4.6/)
 * [2026-06-18, 09:37:59](https://lobste.rs/s/e325gb/yay_v13_aurpocalypse) - [yay v13 and the AURpocalypse](https://jguer.space/blog/2026-06-15-yay-v13)
 * [2026-06-18, 08:15:10](https://lobste.rs/s/y9zfbv/rfc_10008_http_query_method) - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/)
