@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-18, 06:36:39](https://lobste.rs/s/nqv7yo/cli_authentication_right_way) - [CLI Authentication, the Right Way](https://www.abgeo.dev/blog/cli-authentication-the-right-way/)
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 05:10:01](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving) - [Changes in Emacs 31 I'm Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner)
 * [2026-06-18, 03:36:20](https://lobste.rs/s/sgebfp/local_qwen_isn_t_worse_opus_it_s_different) - [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
@@ -7,7 +8,6 @@
 * [2026-06-18, 00:40:49](https://lobste.rs/s/yh7wx9/mirrors_wikimedia_org_will_be_sunset_on) - [mirrors.wikimedia.org will be sunset on May 15](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/message/LJYRIS4WB66HIRCAO4GIDTXCMDVZRBMA/)
 * [2026-06-17, 21:00:16](https://lobste.rs/s/mgvyrc/bcachefs_1_38_6_brings_many_performance) - [Bcachefs 1.38.6 Brings Many Performance Improvements](https://www.phoronix.com/news/Bcachefs-Tools-1.38.6)
 * [2026-06-17, 20:12:03](https://lobste.rs/s/p7i4ny/there_s_no_place_like_home_10_journey_vim) - [There's No Place Like $HOME: A 10 Journey of Vim, Then VS Code, and Back to Vim](https://starikov.co/no-place-like-home/)
-* [2026-06-17, 17:17:10](https://lobste.rs/s/e4kbd3/future_text_api) - [Future Text API](https://wiesmann.codiferes.net/wordpress/archives/41710)
 * [2026-06-17, 16:34:34](https://lobste.rs/s/1shdvp/data_visualization_from_comfort_your) - [Data Visualization from the Comfort of your Terminal](https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md)
 * [2026-06-17, 16:10:52](https://lobste.rs/s/fdbotr/fmag_single_instruction_gpu_virtual) - [FMAG: A single-instruction GPU virtual machine and toolchain](https://github.com/jangafx/FMAG)
 * [2026-06-17, 15:16:40](https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version) - [Epic Games announces Lore version control system](https://lore.org/)

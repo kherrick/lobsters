@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 06:36:39](https://lobste.rs/s/nqv7yo/cli_authentication_right_way) - [CLI Authentication, the Right Way](https://www.abgeo.dev/blog/cli-authentication-the-right-way/)
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 05:10:01](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving) - [Changes in Emacs 31 I'm Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner)
 * [2026-06-18, 03:36:20](https://lobste.rs/s/sgebfp/local_qwen_isn_t_worse_opus_it_s_different) - [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
