@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-19, 17:57:38](https://lobste.rs/s/rdwzec/better_graph_database_ball) - [Better Graph Database Ball](https://blog.ladybugdb.com/post/better-graph-database-ball/)
+* [2026-06-19, 18:13:47](https://lobste.rs/s/xnbxed/dear_researchers_help_me_deal_with) - [Dear researchers: help me deal with incidents](https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf)
 * [2026-06-19, 17:08:08](https://lobste.rs/s/wf0kd6/making_ticker_tape_for_knicks_parade) - [Making Ticker-tape for the Knicks Parade](https://joe.lothan.net/blog/ticker-tape/)
 * [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
 * [2026-06-19, 15:22:00](https://lobste.rs/s/kjp3wi/stop_naming_your_variables_flag_art) - [Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/)
