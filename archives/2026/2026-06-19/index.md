@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 14:32:07](https://lobste.rs/s/9rbscj/wikispy) - [WikiSpy](https://neal.fun/wiki-spy/)
+* [2026-06-19, 14:19:07](https://lobste.rs/s/8n2pnd/changes_usekmsconvtconsole) - [Changes/UseKmsconVTConsole](https://fedoraproject.org/wiki/Changes/UseKmsconVTConsole)
 * [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/clownmaxxing_experimental_prompts_joey) - [Clownmaxxing, experimental prompts and Joey's cadillac todo list](https://charlesleifer.com/blog/clownmaxxing-experimental-prompts-and-joey-s-cadillac-todo-list/)
+* [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/aspirational_clownmaxxing_joey_s) - [Aspirational Clownmaxxing and Joey's cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/)
+* [2026-06-19, 12:29:04](https://lobste.rs/s/hg9mkc/so_you_want_define_well_known_uri) - [So You Want To Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 * [2026-06-19, 11:28:45](https://lobste.rs/s/ggp2ov/shutting_down_fornjot) - [Shutting Down Fornjot](https://fornjot.app/blog/shutting-down-fornjot/)
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
 * [2026-06-19, 09:20:18](https://lobste.rs/s/jtscci/rethinking_modularity_ruby) - [Rethinking modularity in Ruby applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
