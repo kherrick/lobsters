@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 21:41:22](https://lobste.rs/s/k5raot/bevy_0_19) - [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
+* [2026-06-19, 21:19:37](https://lobste.rs/s/fbsqfs/smpte_makes_its_standards_freely) - [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
 * [2026-06-19, 20:02:44](https://lobste.rs/s/6otyjb/why_languages_should_never_reorder) - [Why languages should never reorder structs](https://youtu.be/xqdiSaLRzHc)
 * [2026-06-19, 18:13:47](https://lobste.rs/s/xnbxed/dear_researchers_help_me_deal_with) - [Dear researchers: help me deal with incidents](https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf)
 * [2026-06-19, 17:57:38](https://lobste.rs/s/rdwzec/better_graph_database_ball) - [Better Graph Database Ball](https://blog.ladybugdb.com/post/better-graph-database-ball/)
