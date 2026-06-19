@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 17:57:38](https://lobste.rs/s/rdwzec/better_graph_database_ball) - [Better Graph Database Ball](https://blog.ladybugdb.com/post/better-graph-database-ball/)
 * [2026-06-19, 17:08:08](https://lobste.rs/s/wf0kd6/making_ticker_tape_for_knicks_parade) - [Making Ticker-tape for the Knicks Parade](https://joe.lothan.net/blog/ticker-tape/)
 * [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
 * [2026-06-19, 15:53:48](https://lobste.rs/s/kldpfm/ztags_ctags_for_zig) - [ztags: ctags but for zig](https://codeberg.org/hgrsd/ztags)
