@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
 * [2026-06-19, 15:53:48](https://lobste.rs/s/kldpfm/ztags_ctags_for_zig) - [ztags: ctags but for zig](https://codeberg.org/hgrsd/ztags)
+* [2026-06-19, 15:22:00](https://lobste.rs/s/kjp3wi/stop_naming_your_variables_flag_art) - [Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/)
 * [2026-06-19, 15:05:17](https://lobste.rs/s/0gn7rc/akse3d_open_source_3d_modelling_anyone) - [Akse3D – open-source 3D modelling anyone can master](https://akse3d-en.skaperiet.no/)
 * [2026-06-19, 14:50:19](https://lobste.rs/s/jk5k9i/project_valhalla_explained_how_decade) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 * [2026-06-19, 14:32:07](https://lobste.rs/s/9rbscj/wikispy) - [WikiSpy](https://neal.fun/wiki-spy/)
