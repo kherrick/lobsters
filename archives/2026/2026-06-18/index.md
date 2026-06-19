@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 21:41:39](https://lobste.rs/s/pc7tnx/i_discovered_large_scale_malware) - [I discovered a large-scale malware distribution on GitHub](https://orchidfiles.com/github-repositories-distributing-malware/)
 * [2026-06-18, 21:12:40](https://lobste.rs/s/akc6h4/updating_stacked_pull_requests_with_git) - [Updating Stacked Pull Requests with git rebase --onto](https://bd103.dev/blog/2026-06-18-git-rebase-onto/)
 * [2026-06-18, 19:29:27](https://lobste.rs/s/n2zqph/webernetes_kubernetes_browser) - [webernetes: Kubernetes in the browser](https://github.com/ngrok/webernetes)
+* [2026-06-18, 19:07:05](https://lobste.rs/s/svhzaa/ssh_port_knocking_with_openbsd_7_9) - [SSH port knocking with OpenBSD 7.9](https://dgl.cx/2026/06/ssh-port-knocking-with-openbsd)
 * [2026-06-18, 18:13:35](https://lobste.rs/s/mhymex/design_littlefs) - [The design of littlefs](https://github.com/littlefs-project/littlefs/blob/master/DESIGN.md)
 * [2026-06-18, 17:27:01](https://lobste.rs/s/sl8ibi/what_was_nice_about_ui_windows_2000) - [What was nice about the UI of Windows 2000](https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html)
 * [2026-06-18, 17:04:00](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments) - [What are your Favorite Lobste.rs Comments?](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments)
