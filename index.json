@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-06-18, 19:07:05",
-      "https://lobste.rs/s/svhzaa/ssh_port_knocking_with_openbsd_7_9"
-    ],
-    [
-      "SSH port knocking with OpenBSD 7.9",
-      "https://dgl.cx/2026/06/ssh-port-knocking-with-openbsd"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 18:13:35",
       "https://lobste.rs/s/mhymex/design_littlefs"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2026-06-18, 07:24:43",
-      "https://lobste.rs/s/7wymja/magic_buffers_io_uring_registered"
-    ],
-    [
-      "Magic Buffers and io_uring Registered Buffers",
-      "https://www.mindfruit.co.uk/posts/2025/10/magic-buffers-and-io-uring-write-fixed/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 07:09:26",
       "https://lobste.rs/s/up3pfu/sigma_45mm_f_2_8_lens_repair_analysis"
     ],
@@ -187,6 +167,16 @@
     [
       "CLI Authentication, the Right Way",
       "https://www.abgeo.dev/blog/cli-authentication-the-right-way/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 06:04:20",
+      "https://lobste.rs/s/lieueg/announcing_stack_overflow_for_agents"
+    ],
+    [
+      "Announcing Stack Overflow for Agents",
+      "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Audacity 4.0 beta lets you test its new (nicer) Qt interface",
       "https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 15:16:40",
+      "https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version"
+    ],
+    [
+      "Epic Games announces Lore version control system",
+      "https://lore.org/"
     ]
   ],
   [
