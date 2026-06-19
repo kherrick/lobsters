@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 20:02:44](https://lobste.rs/s/6otyjb/why_languages_should_never_reorder) - [Why languages should never reorder structs](https://youtu.be/xqdiSaLRzHc)
 * [2026-06-19, 18:13:47](https://lobste.rs/s/xnbxed/dear_researchers_help_me_deal_with) - [Dear researchers: help me deal with incidents](https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf)
 * [2026-06-19, 17:57:38](https://lobste.rs/s/rdwzec/better_graph_database_ball) - [Better Graph Database Ball](https://blog.ladybugdb.com/post/better-graph-database-ball/)
 * [2026-06-19, 17:08:08](https://lobste.rs/s/wf0kd6/making_ticker_tape_for_knicks_parade) - [Making Ticker-tape for the Knicks Parade](https://joe.lothan.net/blog/ticker-tape/)
