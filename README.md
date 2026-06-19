@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-19, 04:27:44](https://lobste.rs/s/ukxhyz/show_your_hands_honor_for_strange_power) - [Show your hands honor for the strange power they bring you](https://aresluna.org/show-your-hands-honor/)
+* [2026-06-19, 02:49:21](https://lobste.rs/s/h21el3/vim_creator_bram_moolenaar_s_forgotten) - [Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
 * [2026-06-18, 21:41:39](https://lobste.rs/s/pc7tnx/i_discovered_large_scale_malware) - [I discovered a large-scale malware distribution on GitHub](https://orchidfiles.com/github-repositories-distributing-malware/)
 * [2026-06-18, 21:12:40](https://lobste.rs/s/akc6h4/updating_stacked_pull_requests_with_git) - [Updating Stacked Pull Requests with git rebase --onto](https://bd103.dev/blog/2026-06-18-git-rebase-onto/)
 * [2026-06-18, 18:13:35](https://lobste.rs/s/mhymex/design_littlefs) - [The design of littlefs](https://github.com/littlefs-project/littlefs/blob/master/DESIGN.md)
@@ -9,7 +11,6 @@
 * [2026-06-18, 16:25:48](https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not) - [The Future of the Con Is Already Here, It's Just Not Evenly Distributed](http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/)
 * [2026-06-18, 15:08:04](https://lobste.rs/s/mnycr3/google_workspace_threatening_block) - [Google workspace threatening to block firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 * [2026-06-18, 14:56:17](https://lobste.rs/s/yas7ik/offset_slices) - [offset_of! slices](https://bal-e.org/blog/2026/offset-of-slices/)
-* [2026-06-18, 14:02:05](https://lobste.rs/s/4ttntg/open_source_vs_invisible_hand) - [Open Source vs the Invisible Hand](https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html)
 * [2026-06-18, 14:01:40](https://lobste.rs/s/ept8fv/hidden_elegance_gradient_noise) - [The Hidden Elegance of Gradient Noise](https://yogthos.net/posts/2026-06-17-perlin-flow.html)
 * [2026-06-18, 13:21:26](https://lobste.rs/s/medvuo/nix_for_haskell_static_builds) - [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/)
 * [2026-06-18, 10:17:58](https://lobste.rs/s/0mlwcf/mastodon_4_6) - [Mastodon 4.6](https://blog.joinmastodon.org/2026/06/mastodon-4.6/)
@@ -17,7 +18,6 @@
 * [2026-06-18, 08:15:10](https://lobste.rs/s/y9zfbv/rfc_10008_http_query_method) - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/)
 * [2026-06-18, 07:09:26](https://lobste.rs/s/up3pfu/sigma_45mm_f_2_8_lens_repair_analysis) - [Sigma 45mm f/2.8 Lens Repair & Analysis](https://salvagedcircuitry.com/sigma-45mm.html)
 * [2026-06-18, 06:36:39](https://lobste.rs/s/nqv7yo/cli_authentication_right_way) - [CLI Authentication, the Right Way](https://www.abgeo.dev/blog/cli-authentication-the-right-way/)
-* [2026-06-18, 06:04:20](https://lobste.rs/s/lieueg/announcing_stack_overflow_for_agents) - [Announcing Stack Overflow for Agents](https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/)
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 05:10:01](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving) - [Changes in Emacs 31 I'm Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner)
 * [2026-06-18, 03:08:13](https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new) - [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta)
