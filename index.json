@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-19, 20:02:44",
-      "https://lobste.rs/s/6otyjb/why_languages_should_never_reorder"
+      "2026-06-19, 21:41:22",
+      "https://lobste.rs/s/k5raot/bevy_0_19"
     ],
     [
-      "Why languages should never reorder structs",
-      "https://youtu.be/xqdiSaLRzHc"
+      "Bevy 0.19",
+      "https://bevy.org/news/bevy-0-19/"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 21:19:37",
+      "https://lobste.rs/s/fbsqfs/smpte_makes_its_standards_freely"
+    ],
+    [
+      "SMPTE Makes Its Standards Freely Accessible",
+      "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Updating Stacked Pull Requests with git rebase --onto",
       "https://bd103.dev/blog/2026-06-18-git-rebase-onto/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 18:13:35",
-      "https://lobste.rs/s/mhymex/design_littlefs"
-    ],
-    [
-      "The design of littlefs",
-      "https://github.com/littlefs-project/littlefs/blob/master/DESIGN.md"
     ]
   ],
   [
