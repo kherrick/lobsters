@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 17:08:08](https://lobste.rs/s/wf0kd6/making_ticker_tape_for_knicks_parade) - [Making Ticker-tape for the Knicks Parade](https://joe.lothan.net/blog/ticker-tape/)
 * [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
 * [2026-06-19, 15:53:48](https://lobste.rs/s/kldpfm/ztags_ctags_for_zig) - [ztags: ctags but for zig](https://codeberg.org/hgrsd/ztags)
 * [2026-06-19, 15:22:00](https://lobste.rs/s/kjp3wi/stop_naming_your_variables_flag_art) - [Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/)
@@ -13,6 +14,7 @@
 * [2026-06-19, 14:19:07](https://lobste.rs/s/8n2pnd/changes_usekmsconvtconsole) - [Changes/UseKmsconVTConsole](https://fedoraproject.org/wiki/Changes/UseKmsconVTConsole)
 * [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/clownmaxxing_experimental_prompts_joey) - [Clownmaxxing, experimental prompts and Joey's cadillac todo list](https://charlesleifer.com/blog/clownmaxxing-experimental-prompts-and-joey-s-cadillac-todo-list/)
 * [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/aspirational_clownmaxxing_joey_s) - [Aspirational Clownmaxxing and Joey's cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/)
+* [2026-06-19, 12:30:13](https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend)
 * [2026-06-19, 12:29:04](https://lobste.rs/s/hg9mkc/so_you_want_define_well_known_uri) - [So You Want To Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 * [2026-06-19, 11:28:45](https://lobste.rs/s/ggp2ov/shutting_down_fornjot) - [Shutting Down Fornjot](https://fornjot.app/blog/shutting-down-fornjot/)
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
