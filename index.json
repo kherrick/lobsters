@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-19, 16:20:51",
+      "https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos"
+    ],
+    [
+      "I can haz smoller NixOS ISOs?",
+      "https://natkr.com/2026-06-19-nixos-but-smol/"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 15:53:48",
       "https://lobste.rs/s/kldpfm/ztags_ctags_for_zig"
     ],
     [
       "ztags: ctags but for zig",
       "https://codeberg.org/hgrsd/ztags"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 15:22:00",
+      "https://lobste.rs/s/kjp3wi/stop_naming_your_variables_flag_art"
+    ],
+    [
+      "Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes",
+      "https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-06-18, 14:56:17",
-      "https://lobste.rs/s/yas7ik/offset_slices"
-    ],
-    [
-      "offset_of! slices",
-      "https://bal-e.org/blog/2026/offset-of-slices/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 10:17:58",
       "https://lobste.rs/s/0mlwcf/mastodon_4_6"
     ],
@@ -237,16 +247,6 @@
     [
       "I hate compilers",
       "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 05:10:01",
-      "https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving"
-    ],
-    [
-      "Changes in Emacs 31 I'm Already Daily Driving",
-      "https://rahuljuliato.com/posts/emacs-31-around-the-corner"
     ]
   ]
 ]
