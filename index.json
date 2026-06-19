@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-06-19, 17:08:08",
+      "https://lobste.rs/s/wf0kd6/making_ticker_tape_for_knicks_parade"
+    ],
+    [
+      "Making Ticker-tape for the Knicks Parade",
+      "https://joe.lothan.net/blog/ticker-tape/"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 16:20:51",
       "https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos"
     ],
     [
       "I can haz smoller NixOS ISOs?",
       "https://natkr.com/2026-06-19-nixos-but-smol/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 15:53:48",
-      "https://lobste.rs/s/kldpfm/ztags_ctags_for_zig"
-    ],
-    [
-      "ztags: ctags but for zig",
-      "https://codeberg.org/hgrsd/ztags"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Aspirational Clownmaxxing and Joey's cadillac todo list",
       "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 12:30:13",
+      "https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)",
       "https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 21:41:39",
-      "https://lobste.rs/s/pc7tnx/i_discovered_large_scale_malware"
-    ],
-    [
-      "I discovered a large-scale malware distribution on GitHub",
-      "https://orchidfiles.com/github-repositories-distributing-malware/"
     ]
   ],
   [
