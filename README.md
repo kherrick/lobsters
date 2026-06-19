@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/clownmaxxing_experimental_prompts_joey) - [Clownmaxxing, experimental prompts and Joey's cadillac todo list](https://charlesleifer.com/blog/clownmaxxing-experimental-prompts-and-joey-s-cadillac-todo-list/)
 * [2026-06-19, 11:28:45](https://lobste.rs/s/ggp2ov/shutting_down_fornjot) - [Shutting Down Fornjot](https://fornjot.app/blog/shutting-down-fornjot/)
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
 * [2026-06-19, 09:20:18](https://lobste.rs/s/jtscci/rethinking_modularity_ruby) - [Rethinking modularity in Ruby applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
@@ -24,7 +25,6 @@
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 05:10:01](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving) - [Changes in Emacs 31 I'm Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner)
 * [2026-06-18, 03:08:13](https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new) - [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta)
-* [2026-06-17, 14:45:43](https://lobste.rs/s/myczjs/leaving_mozilla) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 
 ## [Archives](archives/index.md)
 

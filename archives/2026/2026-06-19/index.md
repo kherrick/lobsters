@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/clownmaxxing_experimental_prompts_joey) - [Clownmaxxing, experimental prompts and Joey's cadillac todo list](https://charlesleifer.com/blog/clownmaxxing-experimental-prompts-and-joey-s-cadillac-todo-list/)
 * [2026-06-19, 11:28:45](https://lobste.rs/s/ggp2ov/shutting_down_fornjot) - [Shutting Down Fornjot](https://fornjot.app/blog/shutting-down-fornjot/)
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
 * [2026-06-19, 09:20:18](https://lobste.rs/s/jtscci/rethinking_modularity_ruby) - [Rethinking modularity in Ruby applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
