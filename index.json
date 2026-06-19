@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-19, 15:53:48",
+      "https://lobste.rs/s/kldpfm/ztags_ctags_for_zig"
+    ],
+    [
+      "ztags: ctags but for zig",
+      "https://codeberg.org/hgrsd/ztags"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 15:05:17",
+      "https://lobste.rs/s/0gn7rc/akse3d_open_source_3d_modelling_anyone"
+    ],
+    [
+      "Akse3D – open-source 3D modelling anyone can master",
+      "https://akse3d-en.skaperiet.no/"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 14:50:19",
+      "https://lobste.rs/s/jk5k9i/project_valhalla_explained_how_decade"
+    ],
+    [
+      "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 14:32:07",
       "https://lobste.rs/s/9rbscj/wikispy"
     ],
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-06-18, 14:01:40",
-      "https://lobste.rs/s/ept8fv/hidden_elegance_gradient_noise"
-    ],
-    [
-      "The Hidden Elegance of Gradient Noise",
-      "https://yogthos.net/posts/2026-06-17-perlin-flow.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 13:21:26",
-      "https://lobste.rs/s/medvuo/nix_for_haskell_static_builds"
-    ],
-    [
-      "Nix for Haskell: Static Builds",
-      "https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 10:17:58",
       "https://lobste.rs/s/0mlwcf/mastodon_4_6"
     ],
@@ -237,16 +247,6 @@
     [
       "Changes in Emacs 31 I'm Already Daily Driving",
       "https://rahuljuliato.com/posts/emacs-31-around-the-corner"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 03:08:13",
-      "https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new"
-    ],
-    [
-      "Audacity 4.0 beta lets you test its new (nicer) Qt interface",
-      "https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta"
     ]
   ]
 ]
