@@ -9,6 +9,7 @@
 * [2026-06-18, 17:04:00](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments) - [What are your Favorite Lobste.rs Comments?](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments)
 * [2026-06-18, 16:53:58](https://lobste.rs/s/4hcq97/is_it_time_for_new_embedded_linux_build) - [Is It Time for a New Embedded Linux Build System?](https://yoebuild.org/blog/time-for-a-new-build-system/)
 * [2026-06-18, 16:25:48](https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not) - [The Future of the Con Is Already Here, It's Just Not Evenly Distributed](http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/)
+* [2026-06-18, 15:22:18](https://lobste.rs/s/sclobo/usbliter8_apple_a12_a13_bootrom_exploit) - [usbliter8- Apple A12/A13 bootrom exploit](https://ps.tc/pages/blog-usbliter8.html)
 * [2026-06-18, 15:08:04](https://lobste.rs/s/mnycr3/google_workspace_threatening_block) - [Google workspace threatening to block firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 * [2026-06-18, 14:56:17](https://lobste.rs/s/yas7ik/offset_slices) - [offset_of! slices](https://bal-e.org/blog/2026/offset-of-slices/)
 * [2026-06-18, 14:01:40](https://lobste.rs/s/ept8fv/hidden_elegance_gradient_noise) - [The Hidden Elegance of Gradient Noise](https://yogthos.net/posts/2026-06-17-perlin-flow.html)
@@ -23,7 +24,6 @@
 * [2026-06-18, 03:08:13](https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new) - [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta)
 * [2026-06-17, 15:16:40](https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version) - [Epic Games announces Lore version control system](https://lore.org/)
 * [2026-06-17, 14:45:43](https://lobste.rs/s/myczjs/leaving_mozilla) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
-* [2026-06-17, 13:23:44](https://lobste.rs/s/aqk7vl/pull_requests_are_free_puppies) - [Pull Requests are Free Puppies](https://www.youtube.com/watch?v=x8_ZZhRL3YU&t=1733s)
 * [2026-06-17, 08:31:43](https://lobste.rs/s/z5wfi9/i_could_ve_rickrolled_entire_fifa_world) - [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack)
 
 ## [Archives](archives/index.md)
