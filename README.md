@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-19, 09:20:18](https://lobste.rs/s/jtscci/rethinking_modularity_ruby) - [Rethinking modularity in Ruby applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
+* [2026-06-19, 08:26:25](https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action) - [Godot 4.7: Lights, Camera, Action](https://godotengine.org/releases/4.7/)
 * [2026-06-19, 04:27:44](https://lobste.rs/s/ukxhyz/show_your_hands_honor_for_strange_power) - [Show your hands honor for the strange power they bring you](https://aresluna.org/show-your-hands-honor/)
 * [2026-06-19, 02:49:21](https://lobste.rs/s/h21el3/vim_creator_bram_moolenaar_s_forgotten) - [Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
 * [2026-06-18, 21:41:39](https://lobste.rs/s/pc7tnx/i_discovered_large_scale_malware) - [I discovered a large-scale malware distribution on GitHub](https://orchidfiles.com/github-repositories-distributing-malware/)
@@ -22,9 +24,7 @@
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 05:10:01](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving) - [Changes in Emacs 31 I'm Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner)
 * [2026-06-18, 03:08:13](https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new) - [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta)
-* [2026-06-17, 15:16:40](https://lobste.rs/s/r9fmgk/epic_games_announces_lore_version) - [Epic Games announces Lore version control system](https://lore.org/)
 * [2026-06-17, 14:45:43](https://lobste.rs/s/myczjs/leaving_mozilla) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
-* [2026-06-17, 08:31:43](https://lobste.rs/s/z5wfi9/i_could_ve_rickrolled_entire_fifa_world) - [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack)
 
 ## [Archives](archives/index.md)
 
