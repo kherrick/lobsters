@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-20, 04:16:28",
+      "https://lobste.rs/s/jmhfck/safe_simd_rust_even_on_inside"
+    ],
+    [
+      "Safe SIMD in Rust, even on the inside",
+      "https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 00:51:33",
+      "https://lobste.rs/s/ysxvko/i_am_dreading_our_llm_written_incident"
+    ],
+    [
+      "I am dreading our LLM-written incident report future",
+      "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 21:41:22",
       "https://lobste.rs/s/k5raot/bevy_0_19"
     ],
@@ -57,16 +77,6 @@
     [
       "Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes",
       "https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 15:05:17",
-      "https://lobste.rs/s/0gn7rc/akse3d_open_source_3d_modelling_anyone"
-    ],
-    [
-      "Akse3D – open-source 3D modelling anyone can master",
-      "https://akse3d-en.skaperiet.no/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)",
       "https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 21:12:40",
-      "https://lobste.rs/s/akc6h4/updating_stacked_pull_requests_with_git"
-    ],
-    [
-      "Updating Stacked Pull Requests with git rebase --onto",
-      "https://bd103.dev/blog/2026-06-18-git-rebase-onto/"
     ]
   ],
   [
