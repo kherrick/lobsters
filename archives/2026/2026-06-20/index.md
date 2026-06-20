@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 11:49:16](https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu) - [Reverse Engineering the Qualcomm NPU Compiler](https://datavorous.github.io/writing/qairt/)
 * [2026-06-20, 11:44:00](https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring) - [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
 * [2026-06-20, 09:00:43](https://lobste.rs/s/vpe3o6/xlibre_xserver_25_2_released) - [XLibre XServer 25.2 released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes)

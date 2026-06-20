@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-20, 11:49:16](https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu) - [Reverse Engineering the Qualcomm NPU Compiler](https://datavorous.github.io/writing/qairt/)
 * [2026-06-20, 11:44:00](https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring) - [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
 * [2026-06-20, 09:00:43](https://lobste.rs/s/vpe3o6/xlibre_xserver_25_2_released) - [XLibre XServer 25.2 released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes)
@@ -14,7 +15,6 @@
 * [2026-06-19, 21:19:37](https://lobste.rs/s/fbsqfs/smpte_makes_its_standards_freely) - [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
 * [2026-06-19, 17:08:08](https://lobste.rs/s/wf0kd6/making_ticker_tape_for_knicks_parade) - [Making Ticker-tape for the Knicks Parade](https://joe.lothan.net/blog/ticker-tape/)
 * [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
-* [2026-06-19, 15:22:00](https://lobste.rs/s/kjp3wi/stop_naming_your_variables_flag_art) - [Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/)
 * [2026-06-19, 14:50:19](https://lobste.rs/s/jk5k9i/project_valhalla_explained_how_decade) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 * [2026-06-19, 14:32:07](https://lobste.rs/s/9rbscj/wikispy) - [WikiSpy](https://neal.fun/wiki-spy/)
 * [2026-06-19, 14:19:07](https://lobste.rs/s/8n2pnd/changes_usekmsconvtconsole) - [Changes/UseKmsconVTConsole](https://fedoraproject.org/wiki/Changes/UseKmsconVTConsole)
