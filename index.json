@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-20, 09:00:43",
+      "https://lobste.rs/s/vpe3o6/xlibre_xserver_25_2_released"
+    ],
+    [
+      "XLibre XServer 25.2 released",
+      "https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 08:28:09",
+      "https://lobste.rs/s/mh9czn/cube_epicycles_human_face"
+    ],
+    [
+      "The cube, the epicycles and the human face",
+      "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 07:42:32",
       "https://lobste.rs/s/ew22ks/there_are_no_instances_atproto"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-06-19, 12:29:04",
-      "https://lobste.rs/s/hg9mkc/so_you_want_define_well_known_uri"
-    ],
-    [
-      "So You Want To Define a Well-Known URI",
-      "https://mnot.net/blog/2026/well_known_uris"
-    ]
-  ],
-  [
-    [
       "2026-06-19, 11:28:45",
       "https://lobste.rs/s/ggp2ov/shutting_down_fornjot"
     ],
@@ -187,16 +197,6 @@
     [
       "DiffsHub",
       "https://diffshub.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 09:20:18",
-      "https://lobste.rs/s/jtscci/rethinking_modularity_ruby"
-    ],
-    [
-      "Rethinking modularity in Ruby applications",
-      "https://noteflakes.com/articles/2026-06-18-syntropy-modules"
     ]
   ],
   [
