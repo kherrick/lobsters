@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-20, 07:42:32](https://lobste.rs/s/ew22ks/there_are_no_instances_atproto) - [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/)
+* [2026-06-20, 07:27:25](https://lobste.rs/s/xebobo/uhf_x11_x11_built_for_visionos_apple) - [UHF X11: X11 built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
 * [2026-06-20, 06:28:58](https://lobste.rs/s/oy4gen/what_has_can_eu_cyber_resilience_act_done) - [What has (can) the EU Cyber Resilience Act done (do) for you?](https://nxdomain.no/~peter/what_hascan_eu_cra_donedo_for_you.html)
 * [2026-06-20, 04:16:28](https://lobste.rs/s/jmhfck/safe_simd_rust_even_on_inside) - [Safe SIMD in Rust, even on the inside](https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828)
 * [2026-06-20, 00:51:33](https://lobste.rs/s/ysxvko/i_am_dreading_our_llm_written_incident) - [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/)
@@ -19,8 +21,6 @@
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
 * [2026-06-19, 09:20:18](https://lobste.rs/s/jtscci/rethinking_modularity_ruby) - [Rethinking modularity in Ruby applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
 * [2026-06-19, 08:26:25](https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action) - [Godot 4.7: Lights, Camera, Action](https://godotengine.org/releases/4.7/)
-* [2026-06-19, 04:27:44](https://lobste.rs/s/ukxhyz/show_your_hands_honor_for_strange_power) - [Show your hands honor for the strange power they bring you](https://aresluna.org/show-your-hands-honor/)
-* [2026-06-19, 02:49:21](https://lobste.rs/s/h21el3/vim_creator_bram_moolenaar_s_forgotten) - [Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
 * [2026-06-18, 17:27:01](https://lobste.rs/s/sl8ibi/what_was_nice_about_ui_windows_2000) - [What was nice about the UI of Windows 2000](https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html)
 * [2026-06-18, 17:04:00](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments) - [What are your Favorite Lobste.rs Comments?](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments)
 * [2026-06-18, 16:25:48](https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not) - [The Future of the Con Is Already Here, It's Just Not Evenly Distributed](http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/)
