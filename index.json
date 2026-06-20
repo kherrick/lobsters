@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-20, 11:49:16",
+      "https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu"
+    ],
+    [
+      "Reverse Engineering the Qualcomm NPU Compiler",
+      "https://datavorous.github.io/writing/qairt/"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 11:44:00",
       "https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring"
     ],
@@ -137,16 +147,6 @@
     [
       "I can haz smoller NixOS ISOs?",
       "https://natkr.com/2026-06-19-nixos-but-smol/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 15:22:00",
-      "https://lobste.rs/s/kjp3wi/stop_naming_your_variables_flag_art"
-    ],
-    [
-      "Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes",
-      "https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/"
     ]
   ],
   [
