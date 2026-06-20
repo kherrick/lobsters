@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 11:44:00](https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring) - [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
 * [2026-06-20, 09:00:43](https://lobste.rs/s/vpe3o6/xlibre_xserver_25_2_released) - [XLibre XServer 25.2 released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes)
 * [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)

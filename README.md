@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-20, 11:44:00](https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring) - [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
 * [2026-06-20, 09:00:43](https://lobste.rs/s/vpe3o6/xlibre_xserver_25_2_released) - [XLibre XServer 25.2 released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes)
 * [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
@@ -11,7 +12,6 @@
 * [2026-06-20, 00:51:33](https://lobste.rs/s/ysxvko/i_am_dreading_our_llm_written_incident) - [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/)
 * [2026-06-19, 21:41:22](https://lobste.rs/s/k5raot/bevy_0_19) - [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
 * [2026-06-19, 21:19:37](https://lobste.rs/s/fbsqfs/smpte_makes_its_standards_freely) - [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
-* [2026-06-19, 18:13:47](https://lobste.rs/s/xnbxed/dear_researchers_help_me_deal_with) - [Dear researchers: help me deal with incidents](https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf)
 * [2026-06-19, 17:08:08](https://lobste.rs/s/wf0kd6/making_ticker_tape_for_knicks_parade) - [Making Ticker-tape for the Knicks Parade](https://joe.lothan.net/blog/ticker-tape/)
 * [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
 * [2026-06-19, 15:22:00](https://lobste.rs/s/kjp3wi/stop_naming_your_variables_flag_art) - [Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/)
