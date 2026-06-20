@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 17:11:59](https://lobste.rs/s/watrw9/ocaml_5_5_0_released) - [OCaml 5.5.0 released](https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265)
 * [2026-06-20, 16:02:54](https://lobste.rs/s/xb4qgt/announcing_next_generation_distrobox) - [Announcing the next generation of Distrobox](https://distrobox.it/posts/announcing_distrobox_next/)
 * [2026-06-20, 15:33:05](https://lobste.rs/s/vji1tg/which_is_unique_breaks) - [That which is unique, breaks](https://map.simonsarris.com/p/that-which-is-unique-breaks)
 * [2026-06-20, 14:36:12](https://lobste.rs/s/d62wrd/fedora_44_gnome_review_we_re_not_kansas) - [Fedora 44 Gnome review - We're not in Kansas anymore](https://www.dedoimedo.com/computers/fedora-44-gnome.html)
