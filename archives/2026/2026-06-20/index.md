@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 14:16:10](https://lobste.rs/s/pida8e/i_stored_website_favicon) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
+* [2026-06-20, 14:15:19](https://lobste.rs/s/apwyep/cssquake_play_quake_your_browser) - [cssQuake - Play Quake in Your Browser](https://cssquake.com/)
 * [2026-06-20, 11:49:16](https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu) - [Reverse Engineering the Qualcomm NPU Compiler](https://datavorous.github.io/writing/qairt/)
 * [2026-06-20, 11:44:00](https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring) - [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
