@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
 * [2026-06-20, 17:11:59](https://lobste.rs/s/watrw9/ocaml_5_5_0_released) - [OCaml 5.5.0 released](https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265)
 * [2026-06-20, 16:02:54](https://lobste.rs/s/xb4qgt/announcing_next_generation_distrobox) - [Announcing the next generation of Distrobox](https://distrobox.it/posts/announcing_distrobox_next/)
 * [2026-06-20, 14:36:12](https://lobste.rs/s/d62wrd/fedora_44_gnome_review_we_re_not_kansas) - [Fedora 44 Gnome review - We're not in Kansas anymore](https://www.dedoimedo.com/computers/fedora-44-gnome.html)
 * [2026-06-20, 14:16:10](https://lobste.rs/s/pida8e/i_stored_website_favicon) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
 * [2026-06-20, 14:15:19](https://lobste.rs/s/apwyep/cssquake_play_quake_your_browser) - [cssQuake - Play Quake in Your Browser](https://cssquake.com/)
 * [2026-06-20, 11:49:16](https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu) - [Reverse Engineering the Qualcomm NPU Compiler](https://datavorous.github.io/writing/qairt/)
-* [2026-06-20, 11:44:00](https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring) - [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
 * [2026-06-20, 09:00:43](https://lobste.rs/s/vpe3o6/xlibre_xserver_25_2_released) - [XLibre XServer 25.2 released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes)
 * [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)

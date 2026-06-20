@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
 * [2026-06-20, 17:11:59](https://lobste.rs/s/watrw9/ocaml_5_5_0_released) - [OCaml 5.5.0 released](https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265)
 * [2026-06-20, 16:02:54](https://lobste.rs/s/xb4qgt/announcing_next_generation_distrobox) - [Announcing the next generation of Distrobox](https://distrobox.it/posts/announcing_distrobox_next/)
 * [2026-06-20, 15:33:05](https://lobste.rs/s/vji1tg/which_is_unique_breaks) - [That which is unique, breaks](https://map.simonsarris.com/p/that-which-is-unique-breaks)
