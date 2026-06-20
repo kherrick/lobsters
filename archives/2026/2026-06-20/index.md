@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 16:02:54](https://lobste.rs/s/xb4qgt/announcing_next_generation_distrobox) - [Announcing the next generation of Distrobox](https://distrobox.it/posts/announcing_distrobox_next/)
 * [2026-06-20, 15:33:05](https://lobste.rs/s/vji1tg/which_is_unique_breaks) - [That which is unique, breaks](https://map.simonsarris.com/p/that-which-is-unique-breaks)
 * [2026-06-20, 14:36:12](https://lobste.rs/s/d62wrd/fedora_44_gnome_review_we_re_not_kansas) - [Fedora 44 Gnome review - We're not in Kansas anymore](https://www.dedoimedo.com/computers/fedora-44-gnome.html)
 * [2026-06-20, 14:16:10](https://lobste.rs/s/pida8e/i_stored_website_favicon) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
