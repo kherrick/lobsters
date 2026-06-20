@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-20, 14:36:12](https://lobste.rs/s/d62wrd/fedora_44_gnome_review_we_re_not_kansas) - [Fedora 44 Gnome review - We're not in Kansas anymore](https://www.dedoimedo.com/computers/fedora-44-gnome.html)
 * [2026-06-20, 14:16:10](https://lobste.rs/s/pida8e/i_stored_website_favicon) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
 * [2026-06-20, 14:15:19](https://lobste.rs/s/apwyep/cssquake_play_quake_your_browser) - [cssQuake - Play Quake in Your Browser](https://cssquake.com/)
 * [2026-06-20, 11:49:16](https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu) - [Reverse Engineering the Qualcomm NPU Compiler](https://datavorous.github.io/writing/qairt/)
@@ -20,7 +21,6 @@
 * [2026-06-19, 14:32:07](https://lobste.rs/s/9rbscj/wikispy) - [WikiSpy](https://neal.fun/wiki-spy/)
 * [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/aspirational_clownmaxxing_joey_s) - [Aspirational Clownmaxxing and Joey's cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/)
 * [2026-06-19, 12:30:13](https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend)
-* [2026-06-19, 11:28:45](https://lobste.rs/s/ggp2ov/shutting_down_fornjot) - [Shutting Down Fornjot](https://fornjot.app/blog/shutting-down-fornjot/)
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
 * [2026-06-19, 08:26:25](https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action) - [Godot 4.7: Lights, Camera, Action](https://godotengine.org/releases/4.7/)
 * [2026-06-18, 17:04:00](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments) - [What are your Favorite Lobste.rs Comments?](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments)
