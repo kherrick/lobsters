@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 14:16:43](https://lobste.rs/s/agw0rr/performance_improvements_libffi) - [Performance improvements in libffi](https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/)
 * [2026-06-21, 10:41:47](https://lobste.rs/s/d0vsgl/is_ai_ruining_our_skills_early_results_are) - [Is AI ruining our skills? Early results are in and they’re not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-21, 08:41:24](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel) - [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel)
 * [2026-06-21, 08:24:37](https://lobste.rs/s/ozr1zf/forward_hell_on_misusing_transparent_dns) - [Forward to Hell? On Misusing Transparent DNS Forwarders For Amplification Attacks](https://labs.ripe.net/author/mkoch/forward-to-hell-on-misusing-transparent-dns-forwarders-for-amplification-attacks/)
