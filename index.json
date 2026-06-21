@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-21, 06:26:30",
+      "https://lobste.rs/s/xtuz4x/improvements_std_format_c_26"
+    ],
+    [
+      "Improvements to std::format in C++26",
+      "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 06:24:43",
+      "https://lobste.rs/s/vutq1m/windows_ui_evolution_clicking"
+    ],
+    [
+      "Windows UI evolution: Clicking an unassociated file",
+      "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 05:35:25",
+      "https://lobste.rs/s/z4vrld/mark_web_pinning_installers_sites"
+    ],
+    [
+      "Mark-of-the-web and pinning installers to sites",
+      "https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 05:31:12",
+      "https://lobste.rs/s/lhvnq1/see_cmyk"
+    ],
+    [
+      "See in CMYK",
+      "https://artsandculture.google.com/experiment/8AEAytzXr9rLvQ"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 04:37:33",
       "https://lobste.rs/s/77kygu/effective_use_cases_for_llms"
     ],
@@ -12,10 +52,10 @@
   [
     [
       "2026-06-21, 01:42:03",
-      "https://lobste.rs/s/zng304/sockmap_tcp_splicing_future"
+      "https://lobste.rs/s/zng304/sockmap_tcp_splicing_future_2019"
     ],
     [
-      "SOCKMAP - TCP splicing of the future",
+      "SOCKMAP - TCP splicing of the future (2019)",
       "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/"
     ]
   ],
@@ -87,26 +127,6 @@
     [
       "I Stored a Website in a Favicon",
       "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 14:15:19",
-      "https://lobste.rs/s/apwyep/cssquake_play_quake_your_browser"
-    ],
-    [
-      "cssQuake - Play Quake in Your Browser",
-      "https://cssquake.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 11:49:16",
-      "https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu"
-    ],
-    [
-      "Reverse Engineering the Qualcomm NPU Compiler",
-      "https://datavorous.github.io/writing/qairt/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "I can haz smoller NixOS ISOs?",
       "https://natkr.com/2026-06-19-nixos-but-smol/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 13:27:13",
-      "https://lobste.rs/s/dsy6r3/aspirational_clownmaxxing_joey_s"
-    ],
-    [
-      "Aspirational Clownmaxxing and Joey's cadillac todo list",
-      "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 08:26:25",
-      "https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action"
-    ],
-    [
-      "Godot 4.7: Lights, Camera, Action",
-      "https://godotengine.org/releases/4.7/"
     ]
   ]
 ]
