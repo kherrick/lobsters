@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 18:53:58](https://lobste.rs/s/xhplww/optimizing_sqlx_test_rebuild_time) - [Optimizing #[sqlx::test] rebuild time](https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html)
+* [2026-06-21, 18:35:18](https://lobste.rs/s/ontg5a/amigaos_2_greatest_upgrade) - [AmigaOS 2: the greatest upgrade](https://www.datagubbe.se/os20up/)
 * [2026-06-21, 17:01:59](https://lobste.rs/s/dus74u/remote_work_increases_social_isolation) - [Remote work increases social isolation](https://www.science.org/doi/10.1126/science.aec7671)
 * [2026-06-21, 15:08:44](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado) - [postmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/)
 * [2026-06-21, 14:29:48](https://lobste.rs/s/1jcvyh/robust_jobserver) - [Robust Jobserver](https://codeberg.org/mlugg/robust-jobserver/src/branch/main/spec.md)

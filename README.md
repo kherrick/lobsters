@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-21, 18:53:58](https://lobste.rs/s/xhplww/optimizing_sqlx_test_rebuild_time) - [Optimizing #[sqlx::test] rebuild time](https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html)
+* [2026-06-21, 18:35:18](https://lobste.rs/s/ontg5a/amigaos_2_greatest_upgrade) - [AmigaOS 2: the greatest upgrade](https://www.datagubbe.se/os20up/)
 * [2026-06-21, 17:01:59](https://lobste.rs/s/dus74u/remote_work_increases_social_isolation) - [Remote work increases social isolation](https://www.science.org/doi/10.1126/science.aec7671)
 * [2026-06-21, 15:08:44](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado) - [postmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/)
 * [2026-06-21, 14:29:48](https://lobste.rs/s/1jcvyh/robust_jobserver) - [Robust Jobserver](https://codeberg.org/mlugg/robust-jobserver/src/branch/main/spec.md)
@@ -11,7 +13,6 @@
 * [2026-06-21, 06:26:30](https://lobste.rs/s/xtuz4x/improvements_std_format_c_26) - [Improvements to std::format in C++26](https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/)
 * [2026-06-21, 06:24:43](https://lobste.rs/s/vutq1m/windows_ui_evolution_clicking) - [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
 * [2026-06-21, 05:35:25](https://lobste.rs/s/z4vrld/mark_web_pinning_installers_sites) - [Mark-of-the-web and pinning installers to sites](https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/)
-* [2026-06-21, 05:31:12](https://lobste.rs/s/lhvnq1/see_cmyk) - [See in CMYK](https://artsandculture.google.com/experiment/8AEAytzXr9rLvQ)
 * [2026-06-21, 04:37:33](https://lobste.rs/s/77kygu/effective_use_cases_for_llms) - [Effective use-cases for LLMs](https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/)
 * [2026-06-21, 01:42:03](https://lobste.rs/s/zng304/sockmap_tcp_splicing_future_2019) - [SOCKMAP - TCP splicing of the future (2019)](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
 * [2026-06-20, 23:06:02](https://lobste.rs/s/iscvsu/ansel_better_future_for_darktable) - [Ansel: The Better Future for Darktable](https://www.youtube.com/watch?v=1R7gdfJVH9Q)
@@ -24,7 +25,6 @@
 * [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 * [2026-06-20, 07:42:32](https://lobste.rs/s/ew22ks/there_are_no_instances_atproto) - [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-19, 21:41:22](https://lobste.rs/s/k5raot/bevy_0_19) - [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
-* [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
 
 ## [Archives](archives/index.md)
 
