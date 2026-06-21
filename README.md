@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-21, 15:08:44](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado) - [postmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/)
+* [2026-06-21, 14:29:48](https://lobste.rs/s/1jcvyh/robust_jobserver) - [Robust Jobserver](https://codeberg.org/mlugg/robust-jobserver/src/branch/main/spec.md)
 * [2026-06-21, 14:16:43](https://lobste.rs/s/agw0rr/performance_improvements_libffi) - [Performance improvements in libffi](https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/)
 * [2026-06-21, 10:41:47](https://lobste.rs/s/d0vsgl/is_ai_ruining_our_skills_early_results_are) - [Is AI ruining our skills? Early results are in and they’re not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-21, 08:41:24](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel) - [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel)
@@ -10,7 +12,6 @@
 * [2026-06-21, 05:35:25](https://lobste.rs/s/z4vrld/mark_web_pinning_installers_sites) - [Mark-of-the-web and pinning installers to sites](https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/)
 * [2026-06-21, 04:37:33](https://lobste.rs/s/77kygu/effective_use_cases_for_llms) - [Effective use-cases for LLMs](https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/)
 * [2026-06-21, 01:42:03](https://lobste.rs/s/zng304/sockmap_tcp_splicing_future_2019) - [SOCKMAP - TCP splicing of the future (2019)](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
-* [2026-06-21, 00:57:20](https://lobste.rs/s/qamglb/volunteer_responsibility_amnesty_day) - [Volunteer Responsibility Amnesty Day](https://volunteeramnestyday.net/)
 * [2026-06-20, 23:06:02](https://lobste.rs/s/iscvsu/ansel_better_future_for_darktable) - [Ansel: The Better Future for Darktable](https://www.youtube.com/watch?v=1R7gdfJVH9Q)
 * [2026-06-20, 22:58:59](https://lobste.rs/s/m36bsm/wholesale_plagiarism_obscure_sorrows) - [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
@@ -21,7 +22,6 @@
 * [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 * [2026-06-20, 08:28:09](https://lobste.rs/s/mh9czn/cube_epicycles_human_face) - [The cube, the epicycles and the human face](https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/)
 * [2026-06-20, 07:42:32](https://lobste.rs/s/ew22ks/there_are_no_instances_atproto) - [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/)
-* [2026-06-20, 06:28:58](https://lobste.rs/s/oy4gen/what_has_can_eu_cyber_resilience_act_done) - [What has (can) the EU Cyber Resilience Act done (do) for you?](https://nxdomain.no/~peter/what_hascan_eu_cra_donedo_for_you.html)
 * [2026-06-20, 00:51:33](https://lobste.rs/s/ysxvko/i_am_dreading_our_llm_written_incident) - [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/)
 * [2026-06-19, 21:41:22](https://lobste.rs/s/k5raot/bevy_0_19) - [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
 * [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
