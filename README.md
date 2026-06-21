@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-21, 19:57:17](https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork) - [What's the advice for LLM poisoning of artwork these days?](https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork)
 * [2026-06-21, 18:53:58](https://lobste.rs/s/xhplww/optimizing_sqlx_test_rebuild_time) - [Optimizing #[sqlx::test] rebuild time](https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html)
 * [2026-06-21, 18:35:18](https://lobste.rs/s/ontg5a/amigaos_2_greatest_upgrade) - [AmigaOS 2: the greatest upgrade](https://www.datagubbe.se/os20up/)
 * [2026-06-21, 17:01:59](https://lobste.rs/s/dus74u/remote_work_increases_social_isolation) - [Remote work increases social isolation](https://www.science.org/doi/10.1126/science.aec7671)
@@ -24,7 +25,6 @@
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
 * [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 * [2026-06-20, 07:42:32](https://lobste.rs/s/ew22ks/there_are_no_instances_atproto) - [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/)
-* [2026-06-19, 21:41:22](https://lobste.rs/s/k5raot/bevy_0_19) - [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
 
 ## [Archives](archives/index.md)
 
