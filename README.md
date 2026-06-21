@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-21, 00:57:20](https://lobste.rs/s/qamglb/volunteer_responsibility_amnesty_day) - [Volunteer Responsibility Amnesty Day](https://volunteeramnestyday.net/)
 * [2026-06-20, 23:06:02](https://lobste.rs/s/iscvsu/ansel_better_future_for_darktable) - [Ansel: The Better Future for Darktable](https://www.youtube.com/watch?v=1R7gdfJVH9Q)
 * [2026-06-20, 22:58:59](https://lobste.rs/s/m36bsm/wholesale_plagiarism_obscure_sorrows) - [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
@@ -20,7 +21,6 @@
 * [2026-06-19, 21:41:22](https://lobste.rs/s/k5raot/bevy_0_19) - [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
 * [2026-06-19, 21:19:37](https://lobste.rs/s/fbsqfs/smpte_makes_its_standards_freely) - [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
 * [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
-* [2026-06-19, 14:50:19](https://lobste.rs/s/jk5k9i/project_valhalla_explained_how_decade) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 * [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/aspirational_clownmaxxing_joey_s) - [Aspirational Clownmaxxing and Joey's cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/)
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
 * [2026-06-19, 08:26:25](https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action) - [Godot 4.7: Lights, Camera, Action](https://godotengine.org/releases/4.7/)
