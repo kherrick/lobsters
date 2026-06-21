@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-21, 19:57:17",
+      "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork"
+    ],
+    [
+      "What's the advice for LLM poisoning of artwork these days?",
+      "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 18:53:58",
       "https://lobste.rs/s/xhplww/optimizing_sqlx_test_rebuild_time"
     ],
@@ -237,16 +247,6 @@
     [
       "There Are No Instances in atproto",
       "https://overreacted.io/there-are-no-instances-in-atproto/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 21:41:22",
-      "https://lobste.rs/s/k5raot/bevy_0_19"
-    ],
-    [
-      "Bevy 0.19",
-      "https://bevy.org/news/bevy-0-19/"
     ]
   ]
 ]
