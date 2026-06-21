@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-21, 04:37:33](https://lobste.rs/s/77kygu/effective_use_cases_for_llms) - [Effective use-cases for LLMs](https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/)
 * [2026-06-21, 01:42:03](https://lobste.rs/s/zng304/sockmap_tcp_splicing_future) - [SOCKMAP - TCP splicing of the future](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
 * [2026-06-21, 00:57:20](https://lobste.rs/s/qamglb/volunteer_responsibility_amnesty_day) - [Volunteer Responsibility Amnesty Day](https://volunteeramnestyday.net/)
 * [2026-06-20, 23:06:02](https://lobste.rs/s/iscvsu/ansel_better_future_for_darktable) - [Ansel: The Better Future for Darktable](https://www.youtube.com/watch?v=1R7gdfJVH9Q)
@@ -23,7 +24,6 @@
 * [2026-06-19, 21:19:37](https://lobste.rs/s/fbsqfs/smpte_makes_its_standards_freely) - [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
 * [2026-06-19, 16:20:51](https://lobste.rs/s/nvfvjt/i_can_haz_smoller_nixos_isos) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
 * [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/aspirational_clownmaxxing_joey_s) - [Aspirational Clownmaxxing and Joey's cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/)
-* [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
 * [2026-06-19, 08:26:25](https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action) - [Godot 4.7: Lights, Camera, Action](https://godotengine.org/releases/4.7/)
 
 ## [Archives](archives/index.md)
