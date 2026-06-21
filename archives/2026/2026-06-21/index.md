@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 10:41:47](https://lobste.rs/s/d0vsgl/is_ai_ruining_our_skills_early_results_are) - [Is AI ruining our skills? Early results are in and they’re not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-21, 08:41:24](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel) - [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel)
 * [2026-06-21, 08:24:37](https://lobste.rs/s/ozr1zf/forward_hell_on_misusing_transparent_dns) - [Forward to Hell? On Misusing Transparent DNS Forwarders For Amplification Attacks](https://labs.ripe.net/author/mkoch/forward-to-hell-on-misusing-transparent-dns-forwarders-for-amplification-attacks/)
 * [2026-06-21, 07:19:03](https://lobste.rs/s/wgpa6x/cl_bbs_schemebbs_like_textboard) - [cl-bbs: the schemeBBS-like textboard rewritten in Common Lisp](https://github.com/ryukinix/cl-bbs)
