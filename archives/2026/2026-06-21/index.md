@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 17:01:59](https://lobste.rs/s/dus74u/remote_work_increases_social_isolation) - [Remote work increases social isolation](https://www.science.org/doi/10.1126/science.aec7671)
 * [2026-06-21, 15:08:44](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado) - [postmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/)
 * [2026-06-21, 14:29:48](https://lobste.rs/s/1jcvyh/robust_jobserver) - [Robust Jobserver](https://codeberg.org/mlugg/robust-jobserver/src/branch/main/spec.md)
 * [2026-06-21, 14:16:43](https://lobste.rs/s/agw0rr/performance_improvements_libffi) - [Performance improvements in libffi](https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/)
