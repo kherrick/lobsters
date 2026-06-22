@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
+* [2026-06-22, 13:47:41](https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation) - [Hyperblam: a declarative implementation of the Web Audio API](https://hyperblam.how/)
+* [2026-06-22, 13:29:29](https://lobste.rs/s/kocnfd/web_browsers_on_pdas) - [Web Browsers on PDAs](https://vale.rocks/posts/pda-browsers)
+* [2026-06-22, 13:27:03](https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t) - [Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
 * [2026-06-22, 13:11:56](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week)
 * [2026-06-22, 12:37:47](https://lobste.rs/s/hpx7an/linux_secure_boot_certificate) - [Linux and Secure Boot certificate expiration](https://lwn.net/Articles/1029767/)
 * [2026-06-22, 12:09:39](https://lobste.rs/s/n1xvd7/munich_1991_roots_current_ai_boom) - [Munich 1991: the Roots of the Current AI Boom](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
@@ -13,18 +17,14 @@
 * [2026-06-22, 08:19:26](https://lobste.rs/s/0noyze/deno_desktop_apps) - [Deno Desktop apps](https://docs.deno.com/runtime/desktop/)
 * [2026-06-22, 06:07:05](https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram) - [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-22, 03:49:35](https://lobste.rs/s/hhk5e0/memory_safe_inline_assembly) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
-* [2026-06-22, 03:19:48](https://lobste.rs/s/mi6osr/system_call_instrumentation_on_linux_x86) - [System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one](https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result)
 * [2026-06-22, 01:27:10](https://lobste.rs/s/zdundv/pivco_huffman_merge_operations) - [PivCo-Huffman “merge” operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
 * [2026-06-22, 00:21:05](https://lobste.rs/s/gig3cr/nix_build_under_100_lines) - [nix-build in under 100 lines](https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines)
 * [2026-06-21, 22:52:55](https://lobste.rs/s/fb5nuv/what_can_wonky_apis_tell_us_about_web) - [What can wonky APIs tell us about the web?](https://alexwlchan.net/2026/wonky-web-apis/)
-* [2026-06-21, 21:01:35](https://lobste.rs/s/hitg0z/loupe_privacy_focused_ios_app_raises) - [loupe: A privacy-focused iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 * [2026-06-21, 19:57:17](https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork) - [What's the advice for LLM poisoning of artwork these days?](https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork)
-* [2026-06-21, 18:35:18](https://lobste.rs/s/ontg5a/amigaos_2_greatest_upgrade) - [AmigaOS 2: the greatest upgrade](https://www.datagubbe.se/os20up/)
 * [2026-06-21, 15:08:44](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado) - [postmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/)
 * [2026-06-21, 14:16:43](https://lobste.rs/s/agw0rr/performance_improvements_libffi) - [Performance improvements in libffi](https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/)
 * [2026-06-21, 10:41:47](https://lobste.rs/s/d0vsgl/is_ai_ruining_our_skills_early_results_are) - [Is AI ruining our skills? Early results are in and they’re not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-21, 08:41:24](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel) - [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel)
-* [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
 
 ## [Archives](archives/index.md)
 

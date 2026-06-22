@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
+* [2026-06-22, 13:47:41](https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation) - [Hyperblam: a declarative implementation of the Web Audio API](https://hyperblam.how/)
+* [2026-06-22, 13:29:29](https://lobste.rs/s/kocnfd/web_browsers_on_pdas) - [Web Browsers on PDAs](https://vale.rocks/posts/pda-browsers)
+* [2026-06-22, 13:27:03](https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t) - [Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
 * [2026-06-22, 13:11:56](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week)
 * [2026-06-22, 12:37:47](https://lobste.rs/s/hpx7an/linux_secure_boot_certificate) - [Linux and Secure Boot certificate expiration](https://lwn.net/Articles/1029767/)
 * [2026-06-22, 12:09:39](https://lobste.rs/s/n1xvd7/munich_1991_roots_current_ai_boom) - [Munich 1991: the Roots of the Current AI Boom](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
