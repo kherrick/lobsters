@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-22, 09:27:54](https://lobste.rs/s/uz2qia/openmw_0_51_0_released) - [OpenMW 0.51.0 Released](https://openmw.org/2026/openmw-0-51-0-released/)
-* [2026-06-22, 09:17:00](https://lobste.rs/s/axkvfn/learning_xquery_one_dish_at_time) - [Learning XQuery One Dish at a Time](https://www.linkedin.com/posts/jennifer-ramirez-betancur_this-month-i-attended-xml-prague-for-the-activity-7472908836539138048-yLHj)
+* [2026-06-22, 11:18:16](https://lobste.rs/s/r1l3en/british_columbia_time_zones_postgres) - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
+* [2026-06-22, 09:51:10](https://lobste.rs/s/2nljgf/how_computer_should_work) - [How a Computer Should Work](https://pkgdemon.github.io/how-a-computer-should-work.html)
+* [2026-06-22, 09:39:52](https://lobste.rs/s/k057yw/computing_camera_rays) - [Computing Camera Rays](https://momentsingraphics.de/CameraRays.html)
 * [2026-06-22, 09:02:51](https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger) - [Chesterton's middle finger](https://www.arp242.net/chestersons-finger.html)
 * [2026-06-22, 08:19:26](https://lobste.rs/s/0noyze/deno_desktop_apps) - [Deno Desktop apps](https://docs.deno.com/runtime/desktop/)
 * [2026-06-22, 06:07:05](https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram) - [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
@@ -24,7 +25,6 @@
 * [2026-06-21, 04:37:33](https://lobste.rs/s/77kygu/effective_use_cases_for_llms) - [Effective use-cases for LLMs](https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/)
 * [2026-06-20, 22:58:59](https://lobste.rs/s/m36bsm/wholesale_plagiarism_obscure_sorrows) - [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
-* [2026-06-20, 17:11:59](https://lobste.rs/s/watrw9/ocaml_5_5_0_released) - [OCaml 5.5.0 released](https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265)
 
 ## [Archives](archives/index.md)
 
