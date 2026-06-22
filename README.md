@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-22, 09:27:54](https://lobste.rs/s/uz2qia/openmw_0_51_0_released) - [OpenMW 0.51.0 Released](https://openmw.org/2026/openmw-0-51-0-released/)
+* [2026-06-22, 09:17:00](https://lobste.rs/s/axkvfn/learning_xquery_one_dish_at_time) - [Learning XQuery One Dish at a Time](https://www.linkedin.com/posts/jennifer-ramirez-betancur_this-month-i-attended-xml-prague-for-the-activity-7472908836539138048-yLHj)
+* [2026-06-22, 09:02:51](https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger) - [Chesterton's middle finger](https://www.arp242.net/chestersons-finger.html)
+* [2026-06-22, 08:19:26](https://lobste.rs/s/0noyze/deno_desktop_apps) - [Deno Desktop apps](https://docs.deno.com/runtime/desktop/)
 * [2026-06-22, 06:07:05](https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram) - [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-22, 03:49:35](https://lobste.rs/s/hhk5e0/memory_safe_inline_assembly) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 * [2026-06-22, 03:19:48](https://lobste.rs/s/mi6osr/system_call_instrumentation_on_linux_x86) - [System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one](https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result)
@@ -16,15 +20,11 @@
 * [2026-06-21, 14:16:43](https://lobste.rs/s/agw0rr/performance_improvements_libffi) - [Performance improvements in libffi](https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/)
 * [2026-06-21, 10:41:47](https://lobste.rs/s/d0vsgl/is_ai_ruining_our_skills_early_results_are) - [Is AI ruining our skills? Early results are in and they’re not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-21, 08:41:24](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel) - [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel)
-* [2026-06-21, 07:19:03](https://lobste.rs/s/wgpa6x/cl_bbs_schemebbs_like_textboard) - [cl-bbs: the schemeBBS-like textboard rewritten in Common Lisp](https://github.com/ryukinix/cl-bbs)
-* [2026-06-21, 06:26:30](https://lobste.rs/s/xtuz4x/improvements_std_format_c_26) - [Improvements to std::format in C++26](https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/)
 * [2026-06-21, 06:24:43](https://lobste.rs/s/vutq1m/windows_ui_evolution_clicking) - [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
 * [2026-06-21, 04:37:33](https://lobste.rs/s/77kygu/effective_use_cases_for_llms) - [Effective use-cases for LLMs](https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/)
-* [2026-06-21, 01:42:03](https://lobste.rs/s/zng304/sockmap_tcp_splicing_future_2019) - [SOCKMAP - TCP splicing of the future (2019)](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
 * [2026-06-20, 22:58:59](https://lobste.rs/s/m36bsm/wholesale_plagiarism_obscure_sorrows) - [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
 * [2026-06-20, 17:11:59](https://lobste.rs/s/watrw9/ocaml_5_5_0_released) - [OCaml 5.5.0 released](https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265)
-* [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
 
 ## [Archives](archives/index.md)
 
