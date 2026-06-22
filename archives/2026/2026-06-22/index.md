@@ -6,6 +6,7 @@
 
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 20:07:06](https://lobste.rs/s/onfndb/reclassifying_dmarc_arc_as_historic) - [Reclassifying DMARC ARC as historic](https://www.ietf.org/archive/id/draft-ietf-dmarc-arc-to-historic-00.txt)
+* [2026-06-22, 20:07:06](https://lobste.rs/s/onfndb/reclassifying_dmarc_arc_as_historic) - [Reclassifying DMARC ARC as historic](https://datatracker.ietf.org/doc/draft-ietf-dmarc-arc-to-historic/)
 * [2026-06-22, 17:54:04](https://lobste.rs/s/bkwkz5/rhombus_v1_0_racket_flavored_language) - [Rhombus v1.0: A Racket flavored language with syntax](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
 * [2026-06-22, 17:51:21](https://lobste.rs/s/rm5pca/network_shares_still_talking_about_them) - [Network shares: still talking about them in 2026](https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/)
 * [2026-06-22, 17:22:07](https://lobste.rs/s/vwin4l/prompt_injection_as_role_confusion) - [Prompt Injection as Role Confusion](https://role-confusion.github.io)
