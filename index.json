@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-22, 01:27:10",
+      "https://lobste.rs/s/zdundv/pivco_huffman_merge_operations"
+    ],
+    [
+      "PivCo-Huffman “merge” operations",
+      "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 00:21:05",
+      "https://lobste.rs/s/gig3cr/nix_build_under_100_lines"
+    ],
+    [
+      "nix-build in under 100 lines",
+      "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 22:52:55",
       "https://lobste.rs/s/fb5nuv/what_can_wonky_apis_tell_us_about_web"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-06-20, 16:02:54",
-      "https://lobste.rs/s/xb4qgt/announcing_next_generation_distrobox"
-    ],
-    [
-      "Announcing the next generation of Distrobox",
-      "https://distrobox.it/posts/announcing_distrobox_next/"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 10:02:17",
       "https://lobste.rs/s/gdwaqt/town_square_community_deserves"
     ],
@@ -237,16 +247,6 @@
     [
       "Meet Alice. Alice is impatient",
       "https://brooker.co.za/blog/2026/06/19/waiting.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 07:42:32",
-      "https://lobste.rs/s/ew22ks/there_are_no_instances_atproto"
-    ],
-    [
-      "There Are No Instances in atproto",
-      "https://overreacted.io/there-are-no-instances-in-atproto/"
     ]
   ]
 ]
