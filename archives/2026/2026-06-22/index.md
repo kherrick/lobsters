@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
+* [2026-06-22, 20:07:06](https://lobste.rs/s/onfndb/reclassifying_dmarc_arc_as_historic) - [Reclassifying DMARC ARC as historic](https://www.ietf.org/archive/id/draft-ietf-dmarc-arc-to-historic-00.txt)
 * [2026-06-22, 17:54:04](https://lobste.rs/s/bkwkz5/rhombus_v1_0_racket_flavored_language) - [Rhombus v1.0: A Racket flavored language with syntax](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
 * [2026-06-22, 17:51:21](https://lobste.rs/s/rm5pca/network_shares_still_talking_about_them) - [Network shares: still talking about them in 2026](https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/)
+* [2026-06-22, 17:22:07](https://lobste.rs/s/vwin4l/prompt_injection_as_role_confusion) - [Prompt Injection as Role Confusion](https://role-confusion.github.io)
 * [2026-06-22, 17:19:50](https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software) - [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 * [2026-06-22, 16:06:49](https://lobste.rs/s/ut8idd/xfwl4_s_first_preview_release) - [Xfwl4's First Preview Release](https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release)
+* [2026-06-22, 15:22:56](https://lobste.rs/s/3dusq0/inventing_future_one_lisp_machine_at_time) - [Inventing the Future, One Lisp Machine at a Time](https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/)
 * [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
 * [2026-06-22, 13:47:41](https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation) - [Hyperblam: a declarative implementation of the Web Audio API](https://hyperblam.how/)
 * [2026-06-22, 13:29:29](https://lobste.rs/s/kocnfd/web_browsers_on_pdas) - [Web Browsers on PDAs](https://vale.rocks/posts/pda-browsers)
