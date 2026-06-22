@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-22, 17:54:04",
+      "https://lobste.rs/s/bkwkz5/rhombus_v1_0_racket_flavored_language"
+    ],
+    [
+      "Rhombus v1.0: A Racket flavored language with syntax",
+      "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 17:51:21",
+      "https://lobste.rs/s/rm5pca/network_shares_still_talking_about_them"
+    ],
+    [
+      "Network shares: still talking about them in 2026",
+      "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 17:19:50",
+      "https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software"
+    ],
+    [
+      "Pledging Another $400,000 to the Zig Software Foundation",
+      "https://mitchellh.com/writing/zig-donation-2026"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 16:06:49",
       "https://lobste.rs/s/ut8idd/xfwl4_s_first_preview_release"
     ],
@@ -17,16 +47,6 @@
     [
       "One year with Codeberg",
       "https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 13:47:41",
-      "https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation"
-    ],
-    [
-      "Hyperblam: a declarative implementation of the Web Audio API",
-      "https://hyperblam.how/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://lobste.rs/s/hpx7an/linux_secure_boot_certificate"
     ],
     [
-      "Linux and Secure Boot certificate expiration",
+      "Linux and Secure Boot certificate expiration (2025)",
       "https://lwn.net/Articles/1029767/"
     ]
   ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-06-22, 01:27:10",
-      "https://lobste.rs/s/zdundv/pivco_huffman_merge_operations"
-    ],
-    [
-      "PivCo-Huffman “merge” operations",
-      "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 00:21:05",
       "https://lobste.rs/s/gig3cr/nix_build_under_100_lines"
     ],
     [
       "nix-build in under 100 lines",
       "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 22:52:55",
-      "https://lobste.rs/s/fb5nuv/what_can_wonky_apis_tell_us_about_web"
-    ],
-    [
-      "What can wonky APIs tell us about the web?",
-      "https://alexwlchan.net/2026/wonky-web-apis/"
     ]
   ],
   [
