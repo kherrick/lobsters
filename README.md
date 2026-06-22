@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-22, 16:06:49](https://lobste.rs/s/ut8idd/xfwl4_s_first_preview_release) - [Xfwl4's First Preview Release](https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release)
 * [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
 * [2026-06-22, 13:47:41](https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation) - [Hyperblam: a declarative implementation of the Web Audio API](https://hyperblam.how/)
 * [2026-06-22, 13:29:29](https://lobste.rs/s/kocnfd/web_browsers_on_pdas) - [Web Browsers on PDAs](https://vale.rocks/posts/pda-browsers)
@@ -24,7 +25,6 @@
 * [2026-06-21, 15:08:44](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado) - [postmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/)
 * [2026-06-21, 14:16:43](https://lobste.rs/s/agw0rr/performance_improvements_libffi) - [Performance improvements in libffi](https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/)
 * [2026-06-21, 10:41:47](https://lobste.rs/s/d0vsgl/is_ai_ruining_our_skills_early_results_are) - [Is AI ruining our skills? Early results are in and they’re not good](https://www.nature.com/articles/d41586-026-01947-1)
-* [2026-06-21, 08:41:24](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel) - [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel)
 
 ## [Archives](archives/index.md)
 

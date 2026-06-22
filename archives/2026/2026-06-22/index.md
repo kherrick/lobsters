@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 16:06:49](https://lobste.rs/s/ut8idd/xfwl4_s_first_preview_release) - [Xfwl4's First Preview Release](https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release)
 * [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
 * [2026-06-22, 13:47:41](https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation) - [Hyperblam: a declarative implementation of the Web Audio API](https://hyperblam.how/)
 * [2026-06-22, 13:29:29](https://lobste.rs/s/kocnfd/web_browsers_on_pdas) - [Web Browsers on PDAs](https://vale.rocks/posts/pda-browsers)
