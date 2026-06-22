@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-22, 06:07:05](https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram) - [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-22, 03:49:35](https://lobste.rs/s/hhk5e0/memory_safe_inline_assembly) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 * [2026-06-22, 03:19:48](https://lobste.rs/s/mi6osr/system_call_instrumentation_on_linux_x86) - [System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one](https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result)
 * [2026-06-22, 01:27:10](https://lobste.rs/s/zdundv/pivco_huffman_merge_operations) - [PivCo-Huffman “merge” operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
@@ -24,7 +25,6 @@
 * [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
 * [2026-06-20, 17:11:59](https://lobste.rs/s/watrw9/ocaml_5_5_0_released) - [OCaml 5.5.0 released](https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
-* [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 
 ## [Archives](archives/index.md)
 
