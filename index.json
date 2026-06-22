@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-22, 09:27:54",
+      "https://lobste.rs/s/uz2qia/openmw_0_51_0_released"
+    ],
+    [
+      "OpenMW 0.51.0 Released",
+      "https://openmw.org/2026/openmw-0-51-0-released/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 09:17:00",
+      "https://lobste.rs/s/axkvfn/learning_xquery_one_dish_at_time"
+    ],
+    [
+      "Learning XQuery One Dish at a Time",
+      "https://www.linkedin.com/posts/jennifer-ramirez-betancur_this-month-i-attended-xml-prague-for-the-activity-7472908836539138048-yLHj"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 09:02:51",
+      "https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger"
+    ],
+    [
+      "Chesterton's middle finger",
+      "https://www.arp242.net/chestersons-finger.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 08:19:26",
+      "https://lobste.rs/s/0noyze/deno_desktop_apps"
+    ],
+    [
+      "Deno Desktop apps",
+      "https://docs.deno.com/runtime/desktop/"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 06:07:05",
       "https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram"
     ],
@@ -161,26 +201,6 @@
   ],
   [
     [
-      "2026-06-21, 07:19:03",
-      "https://lobste.rs/s/wgpa6x/cl_bbs_schemebbs_like_textboard"
-    ],
-    [
-      "cl-bbs: the schemeBBS-like textboard rewritten in Common Lisp",
-      "https://github.com/ryukinix/cl-bbs"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 06:26:30",
-      "https://lobste.rs/s/xtuz4x/improvements_std_format_c_26"
-    ],
-    [
-      "Improvements to std::format in C++26",
-      "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 06:24:43",
       "https://lobste.rs/s/vutq1m/windows_ui_evolution_clicking"
     ],
@@ -197,16 +217,6 @@
     [
       "Effective use-cases for LLMs",
       "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 01:42:03",
-      "https://lobste.rs/s/zng304/sockmap_tcp_splicing_future_2019"
-    ],
-    [
-      "SOCKMAP - TCP splicing of the future (2019)",
-      "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "OCaml 5.5.0 released",
       "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 10:02:17",
-      "https://lobste.rs/s/gdwaqt/town_square_community_deserves"
-    ],
-    [
-      "Town Square, the community deserves connection",
-      "https://cauenapier.com/blog/town-square-the-community-deserves-connection/"
     ]
   ]
 ]
