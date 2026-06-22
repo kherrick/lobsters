@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-22, 20:23:42",
+      "https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles"
+    ],
+    [
+      "In memory of the man who put red and green squiggles under words",
+      "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 17:54:04",
       "https://lobste.rs/s/bkwkz5/rhombus_v1_0_racket_flavored_language"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2026-06-22, 13:47:41",
+      "https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation"
+    ],
+    [
+      "Hyperblam: a declarative implementation of the Web Audio API",
+      "https://hyperblam.how/"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 13:29:29",
       "https://lobste.rs/s/kocnfd/web_browsers_on_pdas"
     ],
@@ -87,16 +107,6 @@
     [
       "Linux and Secure Boot certificate expiration (2025)",
       "https://lwn.net/Articles/1029767/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 12:09:39",
-      "https://lobste.rs/s/n1xvd7/munich_1991_roots_current_ai_boom"
-    ],
-    [
-      "Munich 1991: the Roots of the Current AI Boom",
-      "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "help i accidentally a wigglegram",
       "https://lmao.center/blog/wiggle-accidents/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 03:49:35",
-      "https://lobste.rs/s/hhk5e0/memory_safe_inline_assembly"
-    ],
-    [
-      "Memory Safe Inline Assembly",
-      "https://fil-c.org/inlineasm"
     ]
   ],
   [
