@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 13:11:56](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week)
+* [2026-06-22, 12:37:47](https://lobste.rs/s/hpx7an/linux_secure_boot_certificate) - [Linux and Secure Boot certificate expiration](https://lwn.net/Articles/1029767/)
+* [2026-06-22, 12:09:39](https://lobste.rs/s/n1xvd7/munich_1991_roots_current_ai_boom) - [Munich 1991: the Roots of the Current AI Boom](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
+* [2026-06-22, 11:54:07](https://lobste.rs/s/pa1atu/nix_needs_relocatable_binaries) - [Nix needs relocatable binaries](https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries)
+* [2026-06-22, 11:31:29](https://lobste.rs/s/xhpauz/p99_0ms_autocomplete_for_240_million) - [p99 0ms* autocomplete for 240 million domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
 * [2026-06-22, 11:18:16](https://lobste.rs/s/r1l3en/british_columbia_time_zones_postgres) - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
 * [2026-06-22, 09:51:10](https://lobste.rs/s/2nljgf/how_computer_should_work) - [How a Computer Should Work](https://pkgdemon.github.io/how-a-computer-should-work.html)
 * [2026-06-22, 09:39:52](https://lobste.rs/s/k057yw/computing_camera_rays) - [Computing Camera Rays](https://momentsingraphics.de/CameraRays.html)
