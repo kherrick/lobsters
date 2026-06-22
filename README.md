@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-22, 03:49:35](https://lobste.rs/s/hhk5e0/memory_safe_inline_assembly) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
+* [2026-06-22, 03:19:48](https://lobste.rs/s/mi6osr/system_call_instrumentation_on_linux_x86) - [System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one](https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result)
 * [2026-06-22, 01:27:10](https://lobste.rs/s/zdundv/pivco_huffman_merge_operations) - [PivCo-Huffman “merge” operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
 * [2026-06-22, 00:21:05](https://lobste.rs/s/gig3cr/nix_build_under_100_lines) - [nix-build in under 100 lines](https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines)
 * [2026-06-21, 22:52:55](https://lobste.rs/s/fb5nuv/what_can_wonky_apis_tell_us_about_web) - [What can wonky APIs tell us about the web?](https://alexwlchan.net/2026/wonky-web-apis/)
@@ -16,10 +18,8 @@
 * [2026-06-21, 07:19:03](https://lobste.rs/s/wgpa6x/cl_bbs_schemebbs_like_textboard) - [cl-bbs: the schemeBBS-like textboard rewritten in Common Lisp](https://github.com/ryukinix/cl-bbs)
 * [2026-06-21, 06:26:30](https://lobste.rs/s/xtuz4x/improvements_std_format_c_26) - [Improvements to std::format in C++26](https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/)
 * [2026-06-21, 06:24:43](https://lobste.rs/s/vutq1m/windows_ui_evolution_clicking) - [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
-* [2026-06-21, 05:35:25](https://lobste.rs/s/z4vrld/mark_web_pinning_installers_sites) - [Mark-of-the-web and pinning installers to sites](https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/)
 * [2026-06-21, 04:37:33](https://lobste.rs/s/77kygu/effective_use_cases_for_llms) - [Effective use-cases for LLMs](https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/)
 * [2026-06-21, 01:42:03](https://lobste.rs/s/zng304/sockmap_tcp_splicing_future_2019) - [SOCKMAP - TCP splicing of the future (2019)](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
-* [2026-06-20, 23:06:02](https://lobste.rs/s/iscvsu/ansel_better_future_for_darktable) - [Ansel: The Better Future for Darktable](https://www.youtube.com/watch?v=1R7gdfJVH9Q)
 * [2026-06-20, 22:58:59](https://lobste.rs/s/m36bsm/wholesale_plagiarism_obscure_sorrows) - [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
 * [2026-06-20, 17:11:59](https://lobste.rs/s/watrw9/ocaml_5_5_0_released) - [OCaml 5.5.0 released](https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265)
