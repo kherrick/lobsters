@@ -16,7 +16,7 @@
     ],
     [
       "Reclassifying DMARC ARC as historic",
-      "https://www.ietf.org/archive/id/draft-ietf-dmarc-arc-to-historic-00.txt"
+      "https://datatracker.ietf.org/doc/draft-ietf-dmarc-arc-to-historic/"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-06-22, 17:22:07",
-      "https://lobste.rs/s/vwin4l/prompt_injection_as_role_confusion"
-    ],
-    [
-      "Prompt Injection as Role Confusion",
-      "https://role-confusion.github.io"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 17:19:50",
       "https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software"
     ],
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2026-06-22, 15:22:56",
-      "https://lobste.rs/s/3dusq0/inventing_future_one_lisp_machine_at_time"
+      "2026-06-22, 16:06:49",
+      "https://lobste.rs/s/ut8idd/xfwl4_s_first_preview_release"
     ],
     [
-      "Inventing the Future, One Lisp Machine at a Time",
-      "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/"
+      "Xfwl4's First Preview Release",
+      "https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release"
     ]
   ],
   [
@@ -81,6 +71,36 @@
   ],
   [
     [
+      "2026-06-22, 13:47:41",
+      "https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation"
+    ],
+    [
+      "Hyperblam: a declarative implementation of the Web Audio API",
+      "https://hyperblam.how/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 13:29:29",
+      "https://lobste.rs/s/kocnfd/web_browsers_on_pdas"
+    ],
+    [
+      "Web Browsers on PDAs",
+      "https://vale.rocks/posts/pda-browsers"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 13:27:03",
+      "https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t"
+    ],
+    [
+      "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers",
+      "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 13:11:56",
       "https://lobste.rs/s/12jy9c/what_are_you_doing_this_week"
     ],
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2026-06-22, 12:09:39",
-      "https://lobste.rs/s/n1xvd7/munich_1991_roots_current_ai_boom"
+      "2026-06-22, 12:37:47",
+      "https://lobste.rs/s/hpx7an/linux_secure_boot_certificate"
     ],
     [
-      "Munich 1991: the Roots of the Current AI Boom",
-      "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
+      "Linux and Secure Boot certificate expiration (2025)",
+      "https://lwn.net/Articles/1029767/"
     ]
   ],
   [
@@ -107,6 +127,16 @@
     [
       "Nix needs relocatable binaries",
       "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 11:31:29",
+      "https://lobste.rs/s/xhpauz/p99_0ms_autocomplete_for_240_million"
+    ],
+    [
+      "p99 0ms* autocomplete for 240 million domain names",
+      "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
     ]
   ],
   [
@@ -141,32 +171,42 @@
   ],
   [
     [
+      "2026-06-22, 09:27:54",
+      "https://lobste.rs/s/uz2qia/openmw_0_51_0_released"
+    ],
+    [
+      "OpenMW 0.51.0 Released",
+      "https://openmw.org/2026/openmw-0-51-0-released/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 09:02:51",
+      "https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger"
+    ],
+    [
+      "Chesterton's middle finger",
+      "https://www.arp242.net/chestersons-finger.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 08:19:26",
+      "https://lobste.rs/s/0noyze/deno_desktop_apps"
+    ],
+    [
+      "Deno Desktop apps",
+      "https://docs.deno.com/runtime/desktop/"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 06:07:05",
       "https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram"
     ],
     [
       "help i accidentally a wigglegram",
       "https://lmao.center/blog/wiggle-accidents/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 03:49:35",
-      "https://lobste.rs/s/hhk5e0/memory_safe_inline_assembly"
-    ],
-    [
-      "Memory Safe Inline Assembly",
-      "https://fil-c.org/inlineasm"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 01:27:10",
-      "https://lobste.rs/s/zdundv/pivco_huffman_merge_operations"
-    ],
-    [
-      "PivCo-Huffman “merge” operations",
-      "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/"
     ]
   ],
   [
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2026-06-21, 18:53:58",
-      "https://lobste.rs/s/xhplww/optimizing_sqlx_test_rebuild_time"
+      "2026-06-21, 15:08:44",
+      "https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado"
     ],
     [
-      "Optimizing #[sqlx::test] rebuild time",
-      "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 18:35:18",
-      "https://lobste.rs/s/ontg5a/amigaos_2_greatest_upgrade"
-    ],
-    [
-      "AmigaOS 2: the greatest upgrade",
-      "https://www.datagubbe.se/os20up/"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 14:16:43",
-      "https://lobste.rs/s/agw0rr/performance_improvements_libffi"
-    ],
-    [
-      "Performance improvements in libffi",
-      "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/"
+      "postmarketOS v26.06 (Alpen Avocado) released",
+      "https://postmarketos.org/blog/2026/06/21/v26.06-release/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Is AI ruining our skills? Early results are in and they’re not good",
       "https://www.nature.com/articles/d41586-026-01947-1"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 08:41:24",
-      "https://lobste.rs/s/5j33bp/apple_internals_swift_kernel"
-    ],
-    [
-      "Apple Internals: Swift in the Kernel",
-      "https://blog.calif.io/p/apple-internals-swift-in-the-kernel"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 18:47:52",
-      "https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs"
-    ],
-    [
-      "Is anyone still using Emacs?",
-      "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html"
     ]
   ]
 ]
