@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-22, 14:02:16",
+      "https://lobste.rs/s/pifl3k/one_year_with_codeberg"
+    ],
+    [
+      "One year with Codeberg",
+      "https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 13:47:41",
+      "https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation"
+    ],
+    [
+      "Hyperblam: a declarative implementation of the Web Audio API",
+      "https://hyperblam.how/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 13:29:29",
+      "https://lobste.rs/s/kocnfd/web_browsers_on_pdas"
+    ],
+    [
+      "Web Browsers on PDAs",
+      "https://vale.rocks/posts/pda-browsers"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 13:27:03",
+      "https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t"
+    ],
+    [
+      "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers",
+      "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 13:11:56",
       "https://lobste.rs/s/12jy9c/what_are_you_doing_this_week"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-06-22, 03:19:48",
-      "https://lobste.rs/s/mi6osr/system_call_instrumentation_on_linux_x86"
-    ],
-    [
-      "System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one",
-      "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 01:27:10",
       "https://lobste.rs/s/zdundv/pivco_huffman_merge_operations"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-06-21, 21:01:35",
-      "https://lobste.rs/s/hitg0z/loupe_privacy_focused_ios_app_raises"
-    ],
-    [
-      "loupe: A privacy-focused iOS app that raises awareness about what native apps can see",
-      "https://github.com/mysk-research/loupe"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 19:57:17",
       "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork"
     ],
     [
       "What's the advice for LLM poisoning of artwork these days?",
       "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 18:35:18",
-      "https://lobste.rs/s/ontg5a/amigaos_2_greatest_upgrade"
-    ],
-    [
-      "AmigaOS 2: the greatest upgrade",
-      "https://www.datagubbe.se/os20up/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Apple Internals: Swift in the Kernel",
       "https://blog.calif.io/p/apple-internals-swift-in-the-kernel"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 18:47:52",
-      "https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs"
-    ],
-    [
-      "Is anyone still using Emacs?",
-      "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html"
     ]
   ]
 ]
