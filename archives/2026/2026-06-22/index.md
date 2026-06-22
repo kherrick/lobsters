@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 17:54:04](https://lobste.rs/s/bkwkz5/rhombus_v1_0_racket_flavored_language) - [Rhombus v1.0: A Racket flavored language with syntax](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
 * [2026-06-22, 17:51:21](https://lobste.rs/s/rm5pca/network_shares_still_talking_about_them) - [Network shares: still talking about them in 2026](https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/)
 * [2026-06-22, 17:19:50](https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software) - [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
