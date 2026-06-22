@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 21:02:54](https://lobste.rs/s/zszeab/curious_history_invention_cmd_k_quick) - [The curious history the invention of the CMD+K quick switcher](https://ux.stackexchange.com/questions/153299/how-did-cmd-k-come-to-be-the-standard-shortcut-for-both-adding-a-hyperlink-and-o)
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 20:07:06](https://lobste.rs/s/onfndb/reclassifying_dmarc_arc_as_historic) - [Reclassifying DMARC ARC as historic](https://www.ietf.org/archive/id/draft-ietf-dmarc-arc-to-historic-00.txt)
 * [2026-06-22, 20:07:06](https://lobste.rs/s/onfndb/reclassifying_dmarc_arc_as_historic) - [Reclassifying DMARC ARC as historic](https://datatracker.ietf.org/doc/draft-ietf-dmarc-arc-to-historic/)

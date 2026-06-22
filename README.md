@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-22, 21:02:54](https://lobste.rs/s/zszeab/curious_history_invention_cmd_k_quick) - [The curious history the invention of the CMD+K quick switcher](https://ux.stackexchange.com/questions/153299/how-did-cmd-k-come-to-be-the-standard-shortcut-for-both-adding-a-hyperlink-and-o)
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 20:07:06](https://lobste.rs/s/onfndb/reclassifying_dmarc_arc_as_historic) - [Reclassifying DMARC ARC as historic](https://datatracker.ietf.org/doc/draft-ietf-dmarc-arc-to-historic/)
 * [2026-06-22, 17:54:04](https://lobste.rs/s/bkwkz5/rhombus_v1_0_racket_flavored_language) - [Rhombus v1.0: A Racket flavored language with syntax](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
@@ -7,7 +8,6 @@
 * [2026-06-22, 17:19:50](https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software) - [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 * [2026-06-22, 16:06:49](https://lobste.rs/s/ut8idd/xfwl4_s_first_preview_release) - [Xfwl4's First Preview Release](https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release)
 * [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
-* [2026-06-22, 13:47:41](https://lobste.rs/s/nv90oc/hyperblam_declarative_implementation) - [Hyperblam: a declarative implementation of the Web Audio API](https://hyperblam.how/)
 * [2026-06-22, 13:29:29](https://lobste.rs/s/kocnfd/web_browsers_on_pdas) - [Web Browsers on PDAs](https://vale.rocks/posts/pda-browsers)
 * [2026-06-22, 13:27:03](https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t) - [Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
 * [2026-06-22, 13:11:56](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week)
