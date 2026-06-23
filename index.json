@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-23, 07:15:09",
+      "https://lobste.rs/s/expxtl/how_long_does_response_take_for_real"
+    ],
+    [
+      "How Long Does That Response Take... For Real?",
+      "https://memcached.org/blog/how-long-for-real/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 05:33:44",
+      "https://lobste.rs/s/mvjcxs/matt_s_script_archive_scripts_reshaped"
+    ],
+    [
+      "Matt’s Script Archive: The Scripts That Reshaped The Web",
+      "https://tedium.co/2026/06/22/matts-script-archive-retrospective/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 05:25:04",
+      "https://lobste.rs/s/fzz7pf/low_tech_ai_elden_ring"
+    ],
+    [
+      "The Low-Tech AI Of Elden Ring",
+      "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 05:01:01",
       "https://lobste.rs/s/czrkxh/blobly"
     ],
@@ -17,16 +47,6 @@
     [
       "A tale of two path separators (2021)",
       "https://alexwlchan.net/2021/slashes/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 22:31:20",
-      "https://lobste.rs/s/nepr0y/systemd_bsod_service"
-    ],
-    [
-      "systemd-bsod.service",
-      "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-06-22, 12:37:47",
-      "https://lobste.rs/s/hpx7an/linux_secure_boot_certificate"
-    ],
-    [
-      "Linux and Secure Boot certificate expiration (2025)",
-      "https://lwn.net/Articles/1029767/"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 11:54:07",
       "https://lobste.rs/s/pa1atu/nix_needs_relocatable_binaries"
     ],
@@ -197,16 +207,6 @@
     [
       "How a Computer Should Work",
       "https://pkgdemon.github.io/how-a-computer-should-work.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 09:39:52",
-      "https://lobste.rs/s/k057yw/computing_camera_rays"
-    ],
-    [
-      "Computing Camera Rays",
-      "https://momentsingraphics.de/CameraRays.html"
     ]
   ],
   [
