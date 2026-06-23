@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 14:36:54](https://lobste.rs/s/cjnnk3/how_stray_j_ruined_my_evening) - [how a stray \"j\" ruined my evening](https://napkins.mtmn.name/posts/stray-jay.html)
+* [2026-06-23, 13:47:31](https://lobste.rs/s/bcjwwn/vulnerability_reports_are_not_special) - [Vulnerability Reports Are Not Special Anymore](https://words.filippo.io/vuln-reports/)
 * [2026-06-23, 12:46:26](https://lobste.rs/s/ufml52/record_type_inference_for_dummies) - [Record type inference for dummies](https://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 12:11:56](https://lobste.rs/s/ucipie/implementing_custom_query_language_with) - [Implementing a Custom Query Language with Python and Apache Spark](https://nchammas.com/writing/custom-query-language-implementation)
 * [2026-06-23, 12:00:13](https://lobste.rs/s/leh6g3/fexprs_vs_vtable_how_lispe_interpreter) - [FEXPRs vs. vtable: how LispE interpreter works](https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable)

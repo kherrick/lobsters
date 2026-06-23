@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-23, 14:36:54](https://lobste.rs/s/cjnnk3/how_stray_j_ruined_my_evening) - [how a stray \"j\" ruined my evening](https://napkins.mtmn.name/posts/stray-jay.html)
+* [2026-06-23, 13:47:31](https://lobste.rs/s/bcjwwn/vulnerability_reports_are_not_special) - [Vulnerability Reports Are Not Special Anymore](https://words.filippo.io/vuln-reports/)
 * [2026-06-23, 12:46:26](https://lobste.rs/s/ufml52/record_type_inference_for_dummies) - [Record type inference for dummies](https://haskellforall.com/2026/06/record-type-inference-for-dummies)
-* [2026-06-23, 12:11:56](https://lobste.rs/s/ucipie/implementing_custom_query_language_with) - [Implementing a Custom Query Language with Python and Apache Spark](https://nchammas.com/writing/custom-query-language-implementation)
 * [2026-06-23, 12:00:13](https://lobste.rs/s/leh6g3/fexprs_vs_vtable_how_lispe_interpreter) - [FEXPRs vs. vtable: how LispE interpreter works](https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable)
 * [2026-06-23, 10:29:40](https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple) - [Please keep code descriptions simple](https://akselmo.dev/posts/please-keep-code-descriptions-simple/)
 * [2026-06-23, 08:58:55](https://lobste.rs/s/f2ixyf/it_s_only_when_you_look_back) - [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/)
@@ -14,7 +15,6 @@
 * [2026-06-22, 21:02:54](https://lobste.rs/s/zszeab/curious_history_invention_cmd_k_quick) - [The curious history the invention of the CMD+K quick switcher](https://ux.stackexchange.com/questions/153299/how-did-cmd-k-come-to-be-the-standard-shortcut-for-both-adding-a-hyperlink-and-o)
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 17:54:04](https://lobste.rs/s/bkwkz5/rhombus_v1_0_racket_flavored_language) - [Rhombus v1.0: A Racket flavored language with syntax](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
-* [2026-06-22, 17:51:21](https://lobste.rs/s/rm5pca/network_shares_still_talking_about_them) - [Network shares: still talking about them in 2026](https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/)
 * [2026-06-22, 17:19:50](https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software) - [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 * [2026-06-22, 16:06:49](https://lobste.rs/s/ut8idd/xfwl4_s_first_preview_release) - [Xfwl4's First Preview Release](https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release)
 * [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
