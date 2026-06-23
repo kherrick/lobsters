@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 12:46:26](https://lobste.rs/s/ufml52/record_type_inference_for_dummies) - [Record type inference for dummies](https://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 12:11:56](https://lobste.rs/s/ucipie/implementing_custom_query_language_with) - [Implementing a Custom Query Language with Python and Apache Spark](https://nchammas.com/writing/custom-query-language-implementation)
 * [2026-06-23, 12:00:13](https://lobste.rs/s/leh6g3/fexprs_vs_vtable_how_lispe_interpreter) - [FEXPRs vs. vtable: how LispE interpreter works](https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable)
 * [2026-06-23, 10:29:40](https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple) - [Please keep code descriptions simple](https://akselmo.dev/posts/please-keep-code-descriptions-simple/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-23, 12:46:26](https://lobste.rs/s/ufml52/record_type_inference_for_dummies) - [Record type inference for dummies](https://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 12:11:56](https://lobste.rs/s/ucipie/implementing_custom_query_language_with) - [Implementing a Custom Query Language with Python and Apache Spark](https://nchammas.com/writing/custom-query-language-implementation)
 * [2026-06-23, 12:00:13](https://lobste.rs/s/leh6g3/fexprs_vs_vtable_how_lispe_interpreter) - [FEXPRs vs. vtable: how LispE interpreter works](https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable)
 * [2026-06-23, 10:29:40](https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple) - [Please keep code descriptions simple](https://akselmo.dev/posts/please-keep-code-descriptions-simple/)
@@ -20,7 +21,6 @@
 * [2026-06-22, 13:27:03](https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t) - [Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
 * [2026-06-22, 11:54:07](https://lobste.rs/s/pa1atu/nix_needs_relocatable_binaries) - [Nix needs relocatable binaries](https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries)
 * [2026-06-22, 11:31:29](https://lobste.rs/s/xhpauz/p99_0ms_autocomplete_for_240_million) - [p99 0ms* autocomplete for 240 million domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-* [2026-06-22, 11:18:16](https://lobste.rs/s/r1l3en/british_columbia_time_zones_postgres) - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
 * [2026-06-22, 09:51:10](https://lobste.rs/s/2nljgf/how_computer_should_work) - [How a Computer Should Work](https://pkgdemon.github.io/how-a-computer-should-work.html)
 * [2026-06-22, 09:02:51](https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger) - [Chesterton's middle finger](https://www.arp242.net/chestersons-finger.html)
 * [2026-06-22, 08:19:26](https://lobste.rs/s/0noyze/deno_desktop_apps) - [Deno Desktop apps](https://docs.deno.com/runtime/desktop/)
