@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-23, 14:48:44",
+      "https://lobste.rs/s/eobxls/ytr_youtube_radio_for_emacs"
+    ],
+    [
+      "ytr: YouTube radio for Emacs",
+      "https://xenodium.com/ytr-youtube-radio-for-emacs"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 14:36:54",
       "https://lobste.rs/s/cjnnk3/how_stray_j_ruined_my_evening"
     ],
@@ -107,16 +117,6 @@
     [
       "systemd-bsod.service",
       "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 22:25:06",
-      "https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup"
-    ],
-    [
-      "A fully local voice assistant setup",
-      "https://blog.platypush.tech/article/Local-voice-assistant"
     ]
   ],
   [
