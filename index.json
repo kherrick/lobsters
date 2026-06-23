@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-23, 12:46:26",
+      "https://lobste.rs/s/ufml52/record_type_inference_for_dummies"
+    ],
+    [
+      "Record type inference for dummies",
+      "https://haskellforall.com/2026/06/record-type-inference-for-dummies"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 12:11:56",
       "https://lobste.rs/s/ucipie/implementing_custom_query_language_with"
     ],
@@ -197,16 +207,6 @@
     [
       "p99 0ms* autocomplete for 240 million domain names",
       "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 11:18:16",
-      "https://lobste.rs/s/r1l3en/british_columbia_time_zones_postgres"
-    ],
-    [
-      "British Columbia, Time Zones, and Postgres",
-      "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes"
     ]
   ],
   [
