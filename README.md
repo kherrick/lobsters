@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-23, 14:48:44](https://lobste.rs/s/eobxls/ytr_youtube_radio_for_emacs) - [ytr: YouTube radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
 * [2026-06-23, 14:36:54](https://lobste.rs/s/cjnnk3/how_stray_j_ruined_my_evening) - [how a stray \"j\" ruined my evening](https://napkins.mtmn.name/posts/stray-jay.html)
 * [2026-06-23, 13:47:31](https://lobste.rs/s/bcjwwn/vulnerability_reports_are_not_special) - [Vulnerability Reports Are Not Special Anymore](https://words.filippo.io/vuln-reports/)
 * [2026-06-23, 12:46:26](https://lobste.rs/s/ufml52/record_type_inference_for_dummies) - [Record type inference for dummies](https://haskellforall.com/2026/06/record-type-inference-for-dummies)
@@ -11,7 +12,6 @@
 * [2026-06-23, 05:01:01](https://lobste.rs/s/czrkxh/blobly) - [Blobly](https://blobly.medv.io/)
 * [2026-06-23, 02:03:34](https://lobste.rs/s/umm2jh/tale_two_path_separators_2021) - [A tale of two path separators (2021)](https://alexwlchan.net/2021/slashes/)
 * [2026-06-22, 22:31:20](https://lobste.rs/s/nepr0y/systemd_bsod_service) - [systemd-bsod.service](https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html)
-* [2026-06-22, 22:25:06](https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup) - [A fully local voice assistant setup](https://blog.platypush.tech/article/Local-voice-assistant)
 * [2026-06-22, 21:02:54](https://lobste.rs/s/zszeab/curious_history_invention_cmd_k_quick) - [The curious history the invention of the CMD+K quick switcher](https://ux.stackexchange.com/questions/153299/how-did-cmd-k-come-to-be-the-standard-shortcut-for-both-adding-a-hyperlink-and-o)
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 17:54:04](https://lobste.rs/s/bkwkz5/rhombus_v1_0_racket_flavored_language) - [Rhombus v1.0: A Racket flavored language with syntax](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
