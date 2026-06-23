@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-23, 19:26:55",
+      "https://lobste.rs/s/ayicpl/end_code_review_coding_agents_supersede"
+    ],
+    [
+      "The End of Code Review: Coding Agents Supersede Human Inspection",
+      "https://arxiv.org/abs/2606.13175"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 16:20:31",
       "https://lobste.rs/s/fdwnzt/cloudflare_collaborates_with_leading"
     ],
@@ -217,16 +227,6 @@
     [
       "Nix needs relocatable binaries",
       "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 11:31:29",
-      "https://lobste.rs/s/xhpauz/p99_0ms_autocomplete_for_240_million"
-    ],
-    [
-      "p99 0ms* autocomplete for 240 million domain names",
-      "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
     ]
   ],
   [
