@@ -14,6 +14,7 @@
 * [2026-06-23, 12:46:26](https://lobste.rs/s/ufml52/record_type_inference_for_dummies) - [Record type inference for dummies](https://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 12:11:56](https://lobste.rs/s/ucipie/implementing_custom_query_language_with) - [Implementing a Custom Query Language with Python and Apache Spark](https://nchammas.com/writing/custom-query-language-implementation)
 * [2026-06-23, 12:00:13](https://lobste.rs/s/leh6g3/fexprs_vs_vtable_how_lispe_interpreter) - [FEXPRs vs. vtable: how LispE interpreter works](https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable)
+* [2026-06-23, 11:25:31](https://lobste.rs/s/cdxin1/datastar_it_s_pretty_good) - [Datastar – It’s Pretty Good](https://data-star.dev/essays/datastar_its_pretty_good)
 * [2026-06-23, 10:29:40](https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple) - [Please keep code descriptions simple](https://akselmo.dev/posts/please-keep-code-descriptions-simple/)
 * [2026-06-23, 08:58:55](https://lobste.rs/s/f2ixyf/it_s_only_when_you_look_back) - [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/)
 * [2026-06-23, 07:15:09](https://lobste.rs/s/expxtl/how_long_does_response_take_for_real) - [How Long Does That Response Take... For Real?](https://memcached.org/blog/how-long-for-real/)
