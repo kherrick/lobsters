@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-23, 05:01:01](https://lobste.rs/s/czrkxh/blobly) - [Blobly](https://blobly.medv.io/)
 * [2026-06-23, 02:03:34](https://lobste.rs/s/umm2jh/tale_two_path_separators_2021) - [A tale of two path separators (2021)](https://alexwlchan.net/2021/slashes/)
+* [2026-06-22, 22:31:20](https://lobste.rs/s/nepr0y/systemd_bsod_service) - [systemd-bsod.service](https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html)
 * [2026-06-22, 22:25:06](https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup) - [A fully local voice assistant setup](https://blog.platypush.tech/article/Local-voice-assistant)
 * [2026-06-22, 21:02:54](https://lobste.rs/s/zszeab/curious_history_invention_cmd_k_quick) - [The curious history the invention of the CMD+K quick switcher](https://ux.stackexchange.com/questions/153299/how-did-cmd-k-come-to-be-the-standard-shortcut-for-both-adding-a-hyperlink-and-o)
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
@@ -23,8 +25,6 @@
 * [2026-06-22, 09:02:51](https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger) - [Chesterton's middle finger](https://www.arp242.net/chestersons-finger.html)
 * [2026-06-22, 08:19:26](https://lobste.rs/s/0noyze/deno_desktop_apps) - [Deno Desktop apps](https://docs.deno.com/runtime/desktop/)
 * [2026-06-22, 06:07:05](https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram) - [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
-* [2026-06-21, 19:57:17](https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork) - [What's the advice for LLM poisoning of artwork these days?](https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork)
-* [2026-06-21, 15:08:44](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado) - [postmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/)
 
 ## [Archives](archives/index.md)
 

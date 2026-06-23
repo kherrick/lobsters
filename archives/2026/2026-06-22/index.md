@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 22:31:20](https://lobste.rs/s/nepr0y/systemd_bsod_service) - [systemd-bsod.service](https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html)
 * [2026-06-22, 22:25:06](https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup) - [A fully local voice assistant setup](https://blog.platypush.tech/article/Local-voice-assistant)
 * [2026-06-22, 21:02:54](https://lobste.rs/s/zszeab/curious_history_invention_cmd_k_quick) - [The curious history the invention of the CMD+K quick switcher](https://ux.stackexchange.com/questions/153299/how-did-cmd-k-come-to-be-the-standard-shortcut-for-both-adding-a-hyperlink-and-o)
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)

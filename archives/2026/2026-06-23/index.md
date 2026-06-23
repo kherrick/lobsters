@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 05:01:01](https://lobste.rs/s/czrkxh/blobly) - [Blobly](https://blobly.medv.io/)
 * [2026-06-23, 02:03:34](https://lobste.rs/s/umm2jh/tale_two_path_separators_2021) - [A tale of two path separators (2021)](https://alexwlchan.net/2021/slashes/)
