@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 08:58:55](https://lobste.rs/s/f2ixyf/it_s_only_when_you_look_back) - [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/)
 * [2026-06-23, 07:15:09](https://lobste.rs/s/expxtl/how_long_does_response_take_for_real) - [How Long Does That Response Take... For Real?](https://memcached.org/blog/how-long-for-real/)
 * [2026-06-23, 05:33:44](https://lobste.rs/s/mvjcxs/matt_s_script_archive_scripts_reshaped) - [Matt’s Script Archive: The Scripts That Reshaped The Web](https://tedium.co/2026/06/22/matts-script-archive-retrospective/)
 * [2026-06-23, 05:25:04](https://lobste.rs/s/fzz7pf/low_tech_ai_elden_ring) - [The Low-Tech AI Of Elden Ring](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
