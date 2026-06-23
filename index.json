@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-23, 10:29:40",
+      "https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple"
+    ],
+    [
+      "Please keep code descriptions simple",
+      "https://akselmo.dev/posts/please-keep-code-descriptions-simple/"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 08:58:55",
       "https://lobste.rs/s/f2ixyf/it_s_only_when_you_look_back"
     ],
@@ -57,16 +67,6 @@
     [
       "systemd-bsod.service",
       "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 22:25:06",
-      "https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup"
-    ],
-    [
-      "A fully local voice assistant setup",
-      "https://blog.platypush.tech/article/Local-voice-assistant"
     ]
   ],
   [
