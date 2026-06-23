@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-23, 07:15:09",
-      "https://lobste.rs/s/expxtl/how_long_does_response_take_for_real"
+      "2026-06-23, 08:58:55",
+      "https://lobste.rs/s/f2ixyf/it_s_only_when_you_look_back"
     ],
     [
-      "How Long Does That Response Take... For Real?",
-      "https://memcached.org/blog/how-long-for-real/"
+      "It’s Only When You Look Back",
+      "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-06-22, 22:31:20",
+      "https://lobste.rs/s/nepr0y/systemd_bsod_service"
+    ],
+    [
+      "systemd-bsod.service",
+      "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 22:25:06",
       "https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup"
     ],
@@ -77,16 +87,6 @@
     [
       "In memory of the man who put red and green squiggles under words",
       "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 20:07:06",
-      "https://lobste.rs/s/onfndb/reclassifying_dmarc_arc_as_historic"
-    ],
-    [
-      "Reclassifying DMARC ARC as historic",
-      "https://datatracker.ietf.org/doc/draft-ietf-dmarc-arc-to-historic/"
     ]
   ],
   [
