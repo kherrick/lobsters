@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-23, 12:11:56",
+      "https://lobste.rs/s/ucipie/implementing_custom_query_language_with"
+    ],
+    [
+      "Implementing a Custom Query Language with Python and Apache Spark",
+      "https://nchammas.com/writing/custom-query-language-implementation"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 12:00:13",
+      "https://lobste.rs/s/leh6g3/fexprs_vs_vtable_how_lispe_interpreter"
+    ],
+    [
+      "FEXPRs vs. vtable: how LispE interpreter works",
+      "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 10:29:40",
       "https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-06-22, 13:29:29",
-      "https://lobste.rs/s/kocnfd/web_browsers_on_pdas"
-    ],
-    [
-      "Web Browsers on PDAs",
-      "https://vale.rocks/posts/pda-browsers"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 13:27:03",
       "https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t"
     ],
     [
       "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers",
       "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 13:11:56",
-      "https://lobste.rs/s/12jy9c/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/12jy9c/what_are_you_doing_this_week"
     ]
   ],
   [
