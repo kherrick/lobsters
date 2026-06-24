@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-06-24, 20:11:44](https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable) - [Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true](https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails)
+* [2026-06-24, 19:40:31](https://lobste.rs/s/pcuxjt/ignore_dnssec_if_you_like_mitm_attacks) - [Ignore DNSSEC if you like MITM attacks](https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/)
 * [2026-06-24, 18:31:10](https://lobste.rs/s/wlodc0/i_fed_people_building_metaverse) - [I Fed the People Building the Metaverse](https://yeastconfections.substack.com/p/i-fed-the-people-building-the-metaverse)
 * [2026-06-24, 17:13:20](https://lobste.rs/s/uydwch/blamba) - [Blåmba](https://kittenlabs.de/blamba/)
 * [2026-06-24, 17:08:52](https://lobste.rs/s/frfsss/using_gini_coefficient_plan_edge) - [Using the Gini Coefficient to Plan Edge Capacity](https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity)
@@ -23,7 +24,6 @@
 * [2026-06-23, 16:06:03](https://lobste.rs/s/sdqqbb/keeping_web_open_private_bot_era) - [Keeping the Web Open and Private in the Bot Era](https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/)
 * [2026-06-23, 14:36:54](https://lobste.rs/s/cjnnk3/how_stray_j_ruined_my_evening) - [how a stray \"j\" ruined my evening](https://napkins.mtmn.name/posts/stray-jay.html)
 * [2026-06-23, 13:47:31](https://lobste.rs/s/bcjwwn/vulnerability_reports_are_not_special) - [Vulnerability Reports Are Not Special Anymore](https://words.filippo.io/vuln-reports/)
-* [2026-06-23, 12:46:26](https://lobste.rs/s/ufml52/record_type_inference_for_dummies) - [Record type inference for dummies](https://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 10:29:40](https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple) - [Please keep code descriptions simple](https://akselmo.dev/posts/please-keep-code-descriptions-simple/)
 
 ## [Archives](archives/index.md)
