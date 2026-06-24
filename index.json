@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-24, 16:36:06",
+      "https://lobste.rs/s/a72qhh/announcing_rubyconf_vip_raffle"
+    ],
+    [
+      "Announcing the RubyConf VIP Raffle",
+      "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 16:09:01",
+      "https://lobste.rs/s/kmx6wx/how_write_effective_software_design"
+    ],
+    [
+      "How to Write an Effective Software Design Document",
+      "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 15:56:58",
       "https://lobste.rs/s/j3s5og/uk_wikipedia_workers_seek_union"
     ],
@@ -47,16 +67,6 @@
     [
       "AOL was down (1996)",
       "https://ngrok.com/blog/aol-was-down-1996"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 11:24:21",
-      "https://lobste.rs/s/kzw3rt/how_hackers_reverse_math_random"
-    ],
-    [
-      "How hackers reverse Math.random()",
-      "https://www.youtube.com/watch?v=XDsYPXRCXAs"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Record type inference for dummies",
       "https://haskellforall.com/2026/06/record-type-inference-for-dummies"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 12:00:13",
-      "https://lobste.rs/s/leh6g3/fexprs_vs_vtable_how_lispe_interpreter"
-    ],
-    [
-      "FEXPRs vs. vtable: how LispE interpreter works",
-      "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable"
     ]
   ],
   [
