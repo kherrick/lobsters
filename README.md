@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-06-24, 06:18:03](https://lobste.rs/s/dl0yiv/making_rust_supply_chain_attacks_harder) - [Making Rust supply chain attacks harder with Cackle (2023)](https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html)
+* [2026-06-24, 03:33:24](https://lobste.rs/s/oyi8yy/swift_package_index_joins_apple) - [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
+* [2026-06-24, 02:57:02](https://lobste.rs/s/ev9ruz/rrb_trees_efficient_immutable_vectors) - [RRB-Trees: Efficient Immutable Vectors](https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content)
 * [2026-06-24, 02:18:36](https://lobste.rs/s/7q9qwr/legibility_effort) - [Legibility of Effort](https://eieio.games/blog/legibility-of-effort/)
 * [2026-06-24, 01:36:05](https://lobste.rs/s/gfroei/adversarial_communication) - [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html)
 * [2026-06-24, 00:18:29](https://lobste.rs/s/pvdvww/how_we_found_bug_hyper_http_library) - [How we found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/)
@@ -17,14 +19,12 @@
 * [2026-06-23, 11:25:31](https://lobste.rs/s/cdxin1/datastar_it_s_pretty_good) - [Datastar – It’s Pretty Good](https://data-star.dev/essays/datastar_its_pretty_good)
 * [2026-06-23, 10:29:40](https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple) - [Please keep code descriptions simple](https://akselmo.dev/posts/please-keep-code-descriptions-simple/)
 * [2026-06-23, 08:58:55](https://lobste.rs/s/f2ixyf/it_s_only_when_you_look_back) - [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/)
-* [2026-06-23, 05:33:44](https://lobste.rs/s/mvjcxs/matt_s_script_archive_scripts_reshaped) - [Matt’s Script Archive: The Scripts That Reshaped The Web](https://tedium.co/2026/06/22/matts-script-archive-retrospective/)
 * [2026-06-23, 05:25:04](https://lobste.rs/s/fzz7pf/low_tech_ai_elden_ring) - [The Low-Tech AI Of Elden Ring](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
 * [2026-06-23, 05:01:01](https://lobste.rs/s/czrkxh/blobly) - [Blobly](https://blobly.medv.io/)
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 17:19:50](https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software) - [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 * [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
 * [2026-06-22, 13:27:03](https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t) - [Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
-* [2026-06-22, 09:02:51](https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger) - [Chesterton's middle finger](https://www.arp242.net/chestersons-finger.html)
 
 ## [Archives](archives/index.md)
 
