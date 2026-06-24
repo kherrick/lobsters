@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 20:11:44](https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable) - [Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true](https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails)
 * [2026-06-24, 18:31:10](https://lobste.rs/s/wlodc0/i_fed_people_building_metaverse) - [I Fed the People Building the Metaverse](https://yeastconfections.substack.com/p/i-fed-the-people-building-the-metaverse)
 * [2026-06-24, 17:13:20](https://lobste.rs/s/uydwch/blamba) - [Blåmba](https://kittenlabs.de/blamba/)
 * [2026-06-24, 17:08:52](https://lobste.rs/s/frfsss/using_gini_coefficient_plan_edge) - [Using the Gini Coefficient to Plan Edge Capacity](https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity)
@@ -15,6 +16,7 @@
 * [2026-06-24, 15:15:25](https://lobste.rs/s/mtcwsq/call_for_participation_2_5_hour_haskell) - [[Call for Participation]: 2.5 hour Haskell Foundation Online Workshop](https://discourse.haskell.org/t/call-for-participation-2-5-hour-haskell-foundation-online-workshop/14312)
 * [2026-06-24, 14:52:52](https://lobste.rs/s/hygtig/slint_1_17_released) - [Slint 1.17 Released](https://slint.dev/blog/slint-1.17-released)
 * [2026-06-24, 14:27:02](https://lobste.rs/s/aj0e9u/porting_wine_new_hobby_os) - [Porting WINE to a new Hobby OS](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
+* [2026-06-24, 13:57:08](https://lobste.rs/s/0qfxpj/aol_was_down_1996_2026) - [AOL was down (1996) (2026)](https://ngrok.com/blog/aol-was-down-1996)
 * [2026-06-24, 13:57:08](https://lobste.rs/s/0qfxpj/aol_was_down_1996) - [AOL was down (1996)](https://ngrok.com/blog/aol-was-down-1996)
 * [2026-06-24, 13:50:06](https://lobste.rs/s/p6u8pf/c_lifetime_end_pointer_zap_oota_progress) - [C++ Lifetime-End Pointer-Zap and OOTA Progress](https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress)
 * [2026-06-24, 11:38:24](https://lobste.rs/s/idzeov/context_makes_tests_reusable) - [Context Makes Tests Reusable](https://trop.in/blog/context-makes-tests-reusable)
