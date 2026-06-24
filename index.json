@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-06-24, 15:15:25",
+      "https://lobste.rs/s/mtcwsq/call_for_participation_2_5_hour_haskell"
+    ],
+    [
+      "[Call for Participation]: 2.5 hour Haskell Foundation Online Workshop",
+      "https://discourse.haskell.org/t/call-for-participation-2-5-hour-haskell-foundation-online-workshop/14312"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 14:52:52",
+      "https://lobste.rs/s/hygtig/slint_1_17_released"
+    ],
+    [
+      "Slint 1.17 Released",
+      "https://slint.dev/blog/slint-1.17-released"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 14:27:02",
+      "https://lobste.rs/s/aj0e9u/porting_wine_new_hobby_os"
+    ],
+    [
+      "Porting WINE to a new Hobby OS",
+      "https://astral-os.org/posts/2026/04/03/wine-on-astral.html"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 13:57:08",
       "https://lobste.rs/s/0qfxpj/aol_was_down_1996"
     ],
     [
       "AOL was down (1996)",
       "https://ngrok.com/blog/aol-was-down-1996"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 13:50:06",
-      "https://lobste.rs/s/p6u8pf/c_lifetime_end_pointer_zap_oota_progress"
-    ],
-    [
-      "C++ Lifetime-End Pointer-Zap and OOTA Progress",
-      "https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-06-22, 20:23:42",
-      "https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles"
-    ],
-    [
-      "In memory of the man who put red and green squiggles under words",
-      "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 17:19:50",
       "https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software"
     ],
     [
       "Pledging Another $400,000 to the Zig Software Foundation",
       "https://mitchellh.com/writing/zig-donation-2026"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 13:27:03",
-      "https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t"
-    ],
-    [
-      "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers",
-      "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers"
     ]
   ]
 ]
