@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-24, 10:11:58",
+      "https://lobste.rs/s/6vsofh/joy_power_understanding"
+    ],
+    [
+      "The Joy and Power of Understanding",
+      "https://binaryigor.com/the-joy-and-power-of-understanding.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 09:48:26",
+      "https://lobste.rs/s/a7thxr/coming_loop"
+    ],
+    [
+      "The Coming Loop",
+      "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 09:37:56",
       "https://lobste.rs/s/cmcklp/flatpak_package_for_gimp_0_54_1_1996"
     ],
     [
       "Flatpak package for GIMP 0.54.1 (1996)",
       "https://gitlab.gnome.org/balooii/gimp-0.54"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 07:57:53",
+      "https://lobste.rs/s/jsuptx/twm_antithesis_broligarchy"
+    ],
+    [
+      "TWM antithesis: Broligarchy",
+      "https://pan.earth/posts/antithesis-broligarchy.html"
     ]
   ],
   [
@@ -41,6 +71,26 @@
   ],
   [
     [
+      "2026-06-24, 02:18:36",
+      "https://lobste.rs/s/7q9qwr/legibility_effort"
+    ],
+    [
+      "Legibility of Effort",
+      "https://eieio.games/blog/legibility-of-effort/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 01:36:05",
+      "https://lobste.rs/s/gfroei/adversarial_communication"
+    ],
+    [
+      "Adversarial Communication",
+      "https://blog.glyph.im/2026/06/adversarial-communication.html"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 00:18:29",
       "https://lobste.rs/s/pvdvww/how_we_found_bug_hyper_http_library"
     ],
@@ -57,16 +107,6 @@
     [
       "maestro: Lightweight, Linux-compatible kernel, written in Rust",
       "https://github.com/maestro-os/maestro"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 19:46:37",
-      "https://lobste.rs/s/qzw7no/ultra_from_scratch_kernel_aims_for_full"
-    ],
-    [
-      "Ultra: A from-scratch kernel that aims for full ABI compatibility with the Linux userland",
-      "https://github.com/UltraOS/Ultra"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2026-06-23, 11:25:31",
-      "https://lobste.rs/s/cdxin1/datastar_it_s_pretty_good"
-    ],
-    [
-      "Datastar – It’s Pretty Good",
-      "https://data-star.dev/essays/datastar_its_pretty_good"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 10:29:40",
       "https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-06-23, 05:01:01",
-      "https://lobste.rs/s/czrkxh/blobly"
-    ],
-    [
-      "Blobly",
-      "https://blobly.medv.io/"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 20:23:42",
       "https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-06-22, 14:02:16",
-      "https://lobste.rs/s/pifl3k/one_year_with_codeberg"
-    ],
-    [
-      "One year with Codeberg",
-      "https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 13:27:03",
       "https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t"
     ],
     [
       "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers",
       "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 09:02:51",
-      "https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger"
-    ],
-    [
-      "Chesterton's middle finger",
-      "https://www.arp242.net/chestersons-finger.html"
     ]
   ]
 ]
