@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-24, 19:40:31",
+      "https://lobste.rs/s/pcuxjt/ignore_dnssec_if_you_like_mitm_attacks"
+    ],
+    [
+      "Ignore DNSSEC if you like MITM attacks",
+      "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 18:31:10",
       "https://lobste.rs/s/wlodc0/i_fed_people_building_metaverse"
     ],
@@ -227,16 +237,6 @@
     [
       "Vulnerability Reports Are Not Special Anymore",
       "https://words.filippo.io/vuln-reports/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 12:46:26",
-      "https://lobste.rs/s/ufml52/record_type_inference_for_dummies"
-    ],
-    [
-      "Record type inference for dummies",
-      "https://haskellforall.com/2026/06/record-type-inference-for-dummies"
     ]
   ],
   [
