@@ -10,6 +10,7 @@
 * [2026-06-24, 20:03:57](https://lobste.rs/s/gkqien/sacr3d_rendering_engine_toolbox_do_3d) - [Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme](https://teddd.srht.site/sacr3d/)
 * [2026-06-24, 19:40:31](https://lobste.rs/s/pcuxjt/ignore_dnssec_if_you_like_mitm_attacks) - [Ignore DNSSEC if you like MITM attacks](https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/)
 * [2026-06-24, 19:20:05](https://lobste.rs/s/qczicy/microspeak_elaborated_isn_t_escrow_just) - [Microspeak elaborated: Isn't escrow just a release candidate by another name?](https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462)
+* [2026-06-24, 18:37:10](https://lobste.rs/s/rl7aid/exploiting_vulnerabilities_johnson) - [Exploiting vulnerabilities in Johnson & Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
 * [2026-06-24, 18:31:10](https://lobste.rs/s/wlodc0/i_fed_people_building_metaverse) - [I Fed the People Building the Metaverse](https://yeastconfections.substack.com/p/i-fed-the-people-building-the-metaverse)
 * [2026-06-24, 17:13:20](https://lobste.rs/s/uydwch/blamba) - [Blåmba](https://kittenlabs.de/blamba/)
 * [2026-06-24, 17:08:52](https://lobste.rs/s/frfsss/using_gini_coefficient_plan_edge) - [Using the Gini Coefficient to Plan Edge Capacity](https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity)
