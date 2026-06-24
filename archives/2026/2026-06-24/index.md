@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 16:36:06](https://lobste.rs/s/a72qhh/announcing_rubyconf_vip_raffle) - [Announcing the RubyConf VIP Raffle](https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/)
+* [2026-06-24, 16:09:01](https://lobste.rs/s/kmx6wx/how_write_effective_software_design) - [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
 * [2026-06-24, 15:56:58](https://lobste.rs/s/j3s5og/uk_wikipedia_workers_seek_union) - [UK Wikipedia Workers seek union recognition](https://utaw.tech/news/wikipedia-recognition)
 * [2026-06-24, 15:48:03](https://lobste.rs/s/ttuhgn/introducing_mdn_mcp_server) - [Introducing the MDN MCP server](https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/)
 * [2026-06-24, 15:15:25](https://lobste.rs/s/mtcwsq/call_for_participation_2_5_hour_haskell) - [[Call for Participation]: 2.5 hour Haskell Foundation Online Workshop](https://discourse.haskell.org/t/call-for-participation-2-5-hour-haskell-foundation-online-workshop/14312)
