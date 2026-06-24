@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-24, 11:38:24",
-      "https://lobste.rs/s/idzeov/context_makes_tests_reusable"
+      "2026-06-24, 13:57:08",
+      "https://lobste.rs/s/0qfxpj/aol_was_down_1996"
     ],
     [
-      "Context Makes Tests Reusable",
-      "https://trop.in/blog/context-makes-tests-reusable"
+      "AOL was down (1996)",
+      "https://ngrok.com/blog/aol-was-down-1996"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 13:50:06",
+      "https://lobste.rs/s/p6u8pf/c_lifetime_end_pointer_zap_oota_progress"
+    ],
+    [
+      "C++ Lifetime-End Pointer-Zap and OOTA Progress",
+      "https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "how a stray \"j\" ruined my evening",
       "https://napkins.mtmn.name/posts/stray-jay.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 14:29:29",
-      "https://lobste.rs/s/fhmvsf/performance_webassembly_runtimes_2026"
-    ],
-    [
-      "Performance of WebAssembly runtimes in 2026",
-      "https://00f.net/2026/06/23/webassembly-runtimes-2026/"
     ]
   ],
   [
