@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2026-06-24, 11:24:21",
-      "https://lobste.rs/s/kzw3rt/how_hackers_reverse_math_random"
-    ],
-    [
-      "How hackers reverse Math.random()",
-      "https://www.youtube.com/watch?v=XDsYPXRCXAs"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 10:11:58",
       "https://lobste.rs/s/6vsofh/joy_power_understanding"
     ],
     [
       "The Joy and Power of Understanding",
       "https://binaryigor.com/the-joy-and-power-of-understanding.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 09:48:26",
+      "https://lobste.rs/s/a7thxr/coming_loop"
+    ],
+    [
+      "The Coming Loop",
+      "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"
     ]
   ],
   [
@@ -81,6 +81,26 @@
   ],
   [
     [
+      "2026-06-24, 02:18:36",
+      "https://lobste.rs/s/7q9qwr/legibility_effort"
+    ],
+    [
+      "Legibility of Effort",
+      "https://eieio.games/blog/legibility-of-effort/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 01:36:05",
+      "https://lobste.rs/s/gfroei/adversarial_communication"
+    ],
+    [
+      "Adversarial Communication",
+      "https://blog.glyph.im/2026/06/adversarial-communication.html"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 00:18:29",
       "https://lobste.rs/s/pvdvww/how_we_found_bug_hyper_http_library"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-06-23, 19:46:37",
-      "https://lobste.rs/s/qzw7no/ultra_from_scratch_kernel_aims_for_full"
-    ],
-    [
-      "Ultra: A from-scratch kernel that aims for full ABI compatibility with the Linux userland",
-      "https://github.com/UltraOS/Ultra"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 16:20:31",
       "https://lobste.rs/s/fdwnzt/cloudflare_collaborates_with_leading"
     ],
@@ -127,16 +137,6 @@
     [
       "Keeping the Web Open and Private in the Bot Era",
       "https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 14:48:44",
-      "https://lobste.rs/s/eobxls/ytr_youtube_radio_for_emacs"
-    ],
-    [
-      "ytr: YouTube radio for Emacs",
-      "https://xenodium.com/ytr-youtube-radio-for-emacs"
     ]
   ],
   [
