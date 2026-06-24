@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 19:46:37](https://lobste.rs/s/qzw7no/ultra_from_scratch_kernel_aims_for_full) - [Ultra: A from-scratch kernel that aims for full ABI compatibility with the Linux userland](https://github.com/UltraOS/Ultra)
 * [2026-06-23, 19:46:37](https://lobste.rs/s/qzw7no/ultra_from_scratch_kernel_aims_be_nearly) - [Ultra: A from-scratch kernel that aims to be (nearly) fully ABI compatible with the Linux kernel userland](https://github.com/UltraOS/Ultra)
 * [2026-06-23, 19:26:55](https://lobste.rs/s/ayicpl/end_code_review_coding_agents_supersede) - [The End of Code Review: Coding Agents Supersede Human Inspection](https://arxiv.org/abs/2606.13175)
 * [2026-06-23, 17:21:12](https://lobste.rs/s/vnzxfi/ai_sucks_hating_it_is_not_enough) - [AI sucks. Hating it is not enough](https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/)

@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-23, 19:46:37](https://lobste.rs/s/qzw7no/ultra_from_scratch_kernel_aims_be_nearly) - [Ultra: A from-scratch kernel that aims to be (nearly) fully ABI compatible with the Linux kernel userland](https://github.com/UltraOS/Ultra)
-* [2026-06-23, 17:21:12](https://lobste.rs/s/vnzxfi/ai_sucks_hating_it_is_not_enough) - [AI sucks. Hating it is not enough](https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/)
+* [2026-06-24, 00:18:29](https://lobste.rs/s/pvdvww/how_we_found_bug_hyper_http_library) - [How we found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/)
+* [2026-06-23, 19:46:37](https://lobste.rs/s/qzw7no/ultra_from_scratch_kernel_aims_for_full) - [Ultra: A from-scratch kernel that aims for full ABI compatibility with the Linux userland](https://github.com/UltraOS/Ultra)
 * [2026-06-23, 16:20:31](https://lobste.rs/s/fdwnzt/cloudflare_collaborates_with_leading) - [Cloudflare Collaborates With Leading Browsers to Develop a Privacy-First Protocol For the Global Internet](https://cloudflare.net/news/news-details/2026/Cloudflare-Collaborates-With-Leading-Browsers-to-Develop-a-Privacy-First-Protocol-For-the-Global-Internet/default.aspx)
 * [2026-06-23, 16:06:03](https://lobste.rs/s/sdqqbb/keeping_web_open_private_bot_era) - [Keeping the Web Open and Private in the Bot Era](https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/)
 * [2026-06-23, 14:48:44](https://lobste.rs/s/eobxls/ytr_youtube_radio_for_emacs) - [ytr: YouTube radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
