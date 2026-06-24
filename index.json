@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-24, 20:57:23",
+      "https://lobste.rs/s/pwhrzb/slop_paralysis"
+    ],
+    [
+      "Slop Paralysis",
+      "https://elijahpotter.dev/articles/slop-paralysis"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 20:11:44",
       "https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable"
     ],
@@ -17,6 +27,16 @@
     [
       "Ignore DNSSEC if you like MITM attacks",
       "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 19:20:05",
+      "https://lobste.rs/s/qczicy/microspeak_elaborated_isn_t_escrow_just"
+    ],
+    [
+      "Microspeak elaborated: Isn't escrow just a release candidate by another name?",
+      "https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Announcing the RubyConf VIP Raffle",
       "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 16:32:24",
-      "https://lobste.rs/s/bowuo3/window_showdirectorypicker_opens_up"
-    ],
-    [
-      "window.showDirectoryPicker opens up a whole new world",
-      "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "How we found a bug in the hyper HTTP library",
       "https://blog.cloudflare.com/hyper-bug/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 00:13:28",
-      "https://lobste.rs/s/yvydvs/maestro_lightweight_linux_compatible"
-    ],
-    [
-      "maestro: Lightweight, Linux-compatible kernel, written in Rust",
-      "https://github.com/maestro-os/maestro"
     ]
   ],
   [
