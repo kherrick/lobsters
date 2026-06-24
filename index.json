@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-24, 20:57:23",
+      "https://lobste.rs/s/pwhrzb/slop_paralysis"
+    ],
+    [
+      "Slop Paralysis",
+      "https://elijahpotter.dev/articles/slop-paralysis"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 20:11:44",
       "https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable"
     ],
@@ -17,6 +27,16 @@
     [
       "The HTTP QUERY Method",
       "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html#section-1-5.2"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 20:03:57",
+      "https://lobste.rs/s/gkqien/sacr3d_rendering_engine_toolbox_do_3d"
+    ],
+    [
+      "Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme",
+      "https://teddd.srht.site/sacr3d/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Keeping the Web Open and Private in the Bot Era",
       "https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 14:36:54",
-      "https://lobste.rs/s/cjnnk3/how_stray_j_ruined_my_evening"
-    ],
-    [
-      "how a stray \"j\" ruined my evening",
-      "https://napkins.mtmn.name/posts/stray-jay.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 13:47:31",
-      "https://lobste.rs/s/bcjwwn/vulnerability_reports_are_not_special"
-    ],
-    [
-      "Vulnerability Reports Are Not Special Anymore",
-      "https://words.filippo.io/vuln-reports/"
     ]
   ],
   [
