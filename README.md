@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-24, 06:18:03](https://lobste.rs/s/dl0yiv/making_rust_supply_chain_attacks_harder) - [Making Rust supply chain attacks harder with Cackle (2023)](https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html)
 * [2026-06-24, 02:18:36](https://lobste.rs/s/7q9qwr/legibility_effort) - [Legibility of Effort](https://eieio.games/blog/legibility-of-effort/)
 * [2026-06-24, 01:36:05](https://lobste.rs/s/gfroei/adversarial_communication) - [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html)
 * [2026-06-24, 00:18:29](https://lobste.rs/s/pvdvww/how_we_found_bug_hyper_http_library) - [How we found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/)
@@ -24,7 +25,6 @@
 * [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
 * [2026-06-22, 13:27:03](https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t) - [Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
 * [2026-06-22, 09:02:51](https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger) - [Chesterton's middle finger](https://www.arp242.net/chestersons-finger.html)
-* [2026-06-22, 06:07:05](https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram) - [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 
 ## [Archives](archives/index.md)
 
