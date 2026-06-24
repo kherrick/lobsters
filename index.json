@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-06-23, 19:46:37",
-      "https://lobste.rs/s/qzw7no/ultra_from_scratch_kernel_aims_be_nearly"
+      "2026-06-24, 00:18:29",
+      "https://lobste.rs/s/pvdvww/how_we_found_bug_hyper_http_library"
     ],
     [
-      "Ultra: A from-scratch kernel that aims to be (nearly) fully ABI compatible with the Linux kernel userland",
-      "https://github.com/UltraOS/Ultra"
+      "How we found a bug in the hyper HTTP library",
+      "https://blog.cloudflare.com/hyper-bug/"
     ]
   ],
   [
     [
-      "2026-06-23, 17:21:12",
-      "https://lobste.rs/s/vnzxfi/ai_sucks_hating_it_is_not_enough"
+      "2026-06-23, 19:46:37",
+      "https://lobste.rs/s/qzw7no/ultra_from_scratch_kernel_aims_for_full"
     ],
     [
-      "AI sucks. Hating it is not enough",
-      "https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/"
+      "Ultra: A from-scratch kernel that aims for full ABI compatibility with the Linux userland",
+      "https://github.com/UltraOS/Ultra"
     ]
   ],
   [
