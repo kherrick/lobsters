@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-24, 15:15:25](https://lobste.rs/s/mtcwsq/call_for_participation_2_5_hour_haskell) - [[Call for Participation]: 2.5 hour Haskell Foundation Online Workshop](https://discourse.haskell.org/t/call-for-participation-2-5-hour-haskell-foundation-online-workshop/14312)
+* [2026-06-24, 14:52:52](https://lobste.rs/s/hygtig/slint_1_17_released) - [Slint 1.17 Released](https://slint.dev/blog/slint-1.17-released)
+* [2026-06-24, 14:27:02](https://lobste.rs/s/aj0e9u/porting_wine_new_hobby_os) - [Porting WINE to a new Hobby OS](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
 * [2026-06-24, 13:57:08](https://lobste.rs/s/0qfxpj/aol_was_down_1996) - [AOL was down (1996)](https://ngrok.com/blog/aol-was-down-1996)
-* [2026-06-24, 13:50:06](https://lobste.rs/s/p6u8pf/c_lifetime_end_pointer_zap_oota_progress) - [C++ Lifetime-End Pointer-Zap and OOTA Progress](https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress)
 * [2026-06-24, 11:24:21](https://lobste.rs/s/kzw3rt/how_hackers_reverse_math_random) - [How hackers reverse Math.random()](https://www.youtube.com/watch?v=XDsYPXRCXAs)
 * [2026-06-24, 10:11:58](https://lobste.rs/s/6vsofh/joy_power_understanding) - [The Joy and Power of Understanding](https://binaryigor.com/the-joy-and-power-of-understanding.html)
 * [2026-06-24, 09:48:26](https://lobste.rs/s/a7thxr/coming_loop) - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)
@@ -22,9 +24,7 @@
 * [2026-06-23, 10:29:40](https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple) - [Please keep code descriptions simple](https://akselmo.dev/posts/please-keep-code-descriptions-simple/)
 * [2026-06-23, 08:58:55](https://lobste.rs/s/f2ixyf/it_s_only_when_you_look_back) - [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/)
 * [2026-06-23, 05:25:04](https://lobste.rs/s/fzz7pf/low_tech_ai_elden_ring) - [The Low-Tech AI Of Elden Ring](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
-* [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 17:19:50](https://lobste.rs/s/lz3dbc/pledging_another_400_000_zig_software) - [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
-* [2026-06-22, 13:27:03](https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t) - [Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
 
 ## [Archives](archives/index.md)
 

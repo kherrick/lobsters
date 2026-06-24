@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 15:15:25](https://lobste.rs/s/mtcwsq/call_for_participation_2_5_hour_haskell) - [[Call for Participation]: 2.5 hour Haskell Foundation Online Workshop](https://discourse.haskell.org/t/call-for-participation-2-5-hour-haskell-foundation-online-workshop/14312)
+* [2026-06-24, 14:52:52](https://lobste.rs/s/hygtig/slint_1_17_released) - [Slint 1.17 Released](https://slint.dev/blog/slint-1.17-released)
+* [2026-06-24, 14:27:02](https://lobste.rs/s/aj0e9u/porting_wine_new_hobby_os) - [Porting WINE to a new Hobby OS](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
 * [2026-06-24, 13:57:08](https://lobste.rs/s/0qfxpj/aol_was_down_1996) - [AOL was down (1996)](https://ngrok.com/blog/aol-was-down-1996)
 * [2026-06-24, 13:50:06](https://lobste.rs/s/p6u8pf/c_lifetime_end_pointer_zap_oota_progress) - [C++ Lifetime-End Pointer-Zap and OOTA Progress](https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress)
 * [2026-06-24, 11:38:24](https://lobste.rs/s/idzeov/context_makes_tests_reusable) - [Context Makes Tests Reusable](https://trop.in/blog/context-makes-tests-reusable)
