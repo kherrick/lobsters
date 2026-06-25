@@ -11,6 +11,7 @@
 * [2026-06-24, 18:37:10](https://lobste.rs/s/rl7aid/exploiting_vulnerabilities_johnson) - [Exploiting vulnerabilities in Johnson & Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
 * [2026-06-24, 18:31:10](https://lobste.rs/s/wlodc0/i_fed_people_building_metaverse) - [I Fed the People Building the Metaverse](https://yeastconfections.substack.com/p/i-fed-the-people-building-the-metaverse)
 * [2026-06-24, 17:13:20](https://lobste.rs/s/uydwch/blamba) - [Blåmba](https://kittenlabs.de/blamba/)
+* [2026-06-24, 17:08:52](https://lobste.rs/s/frfsss/using_gini_coefficient_plan_edge) - [Using the Gini Coefficient to Plan Edge Capacity](https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity)
 * [2026-06-24, 16:36:06](https://lobste.rs/s/a72qhh/announcing_rubyconf_vip_raffle) - [Announcing the RubyConf VIP Raffle](https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/)
 * [2026-06-24, 16:09:01](https://lobste.rs/s/kmx6wx/how_write_effective_software_design) - [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
 * [2026-06-24, 15:56:58](https://lobste.rs/s/j3s5og/uk_wikipedia_workers_seek_union) - [UK Wikipedia Workers seek union recognition](https://utaw.tech/news/wikipedia-recognition)
@@ -24,7 +25,6 @@
 * [2026-06-24, 02:57:02](https://lobste.rs/s/ev9ruz/rrb_trees_efficient_immutable_vectors) - [RRB-Trees: Efficient Immutable Vectors](https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content)
 * [2026-06-24, 01:36:05](https://lobste.rs/s/gfroei/adversarial_communication) - [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html)
 * [2026-06-23, 16:06:03](https://lobste.rs/s/sdqqbb/keeping_web_open_private_bot_era) - [Keeping the Web Open and Private in the Bot Era](https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/)
-* [2026-06-23, 10:29:40](https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple) - [Please keep code descriptions simple](https://akselmo.dev/posts/please-keep-code-descriptions-simple/)
 
 ## [Archives](archives/index.md)
 
