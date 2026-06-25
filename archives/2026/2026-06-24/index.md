@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 23:57:44](https://lobste.rs/s/axs545/why_i_wrote_pep_832_virtual_environment) - [Why I wrote PEP 832 -- virtual environment discovery](https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/)
 * [2026-06-24, 20:57:23](https://lobste.rs/s/pwhrzb/slop_paralysis) - [Slop Paralysis](https://elijahpotter.dev/articles/slop-paralysis)
 * [2026-06-24, 20:11:44](https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable) - [Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true](https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails)
 * [2026-06-24, 20:04:18](https://lobste.rs/s/3orizi/http_query_method) - [The HTTP QUERY Method](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html#section-1-5.2)
