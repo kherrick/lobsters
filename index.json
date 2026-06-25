@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-06-24, 17:08:52",
+      "https://lobste.rs/s/frfsss/using_gini_coefficient_plan_edge"
+    ],
+    [
+      "Using the Gini Coefficient to Plan Edge Capacity",
+      "https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 16:36:06",
       "https://lobste.rs/s/a72qhh/announcing_rubyconf_vip_raffle"
     ],
@@ -237,16 +247,6 @@
     [
       "Keeping the Web Open and Private in the Bot Era",
       "https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 10:29:40",
-      "https://lobste.rs/s/y4hgjd/please_keep_code_descriptions_simple"
-    ],
-    [
-      "Please keep code descriptions simple",
-      "https://akselmo.dev/posts/please-keep-code-descriptions-simple/"
     ]
   ]
 ]
