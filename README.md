@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-25, 09:23:21](https://lobste.rs/s/schop7/tropius_detect_ai_tropes_prose) - [tropius: detect AI tropes in prose](https://tangled.org/desertthunder.dev/tropius)
 * [2026-06-25, 06:20:45](https://lobste.rs/s/oyurwh/xteink_x4_e_ink_reader) - [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
 * [2026-06-25, 04:27:35](https://lobste.rs/s/elhkrh/deno_desktop) - [Deno Desktop](https://ankursethi.com/blog/deno-desktop/)
 * [2026-06-25, 01:14:12](https://lobste.rs/s/ekeur9/free_threaded_python_past_present_future) - [Free-threaded Python: past, present, and future](https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/)
 * [2026-06-25, 00:28:15](https://lobste.rs/s/ebqmzl/are_we_globalshortcuts_yet) - [Are We GlobalShortcuts Yet?](https://areweglobalshortcutsyet.github.io)
-* [2026-06-24, 23:57:44](https://lobste.rs/s/axs545/why_i_wrote_pep_832_virtual_environment) - [Why I wrote PEP 832 -- virtual environment discovery](https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/)
 * [2026-06-24, 20:11:44](https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable) - [Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true](https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails)
 * [2026-06-24, 20:04:18](https://lobste.rs/s/3orizi/http_query_method) - [The HTTP QUERY Method](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html#section-1-5.2)
 * [2026-06-24, 20:03:57](https://lobste.rs/s/gkqien/sacr3d_rendering_engine_toolbox_do_3d) - [Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme](https://teddd.srht.site/sacr3d/)
