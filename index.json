@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-06-25, 17:04:58",
+      "https://lobste.rs/s/fvbrhb/flatpak_org_rewrite"
+    ],
+    [
+      "Flatpak.org Rewrite",
+      "https://blog.jimmac.eu/posts/flatpak-org-zola/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 16:35:05",
+      "https://lobste.rs/s/evydbs/detecting_removing_dangerous_secrets_on"
+    ],
+    [
+      "Detecting and removing dangerous secrets on dev workstations before Shai-Hulud does",
+      "https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 16:17:24",
       "https://lobste.rs/s/hh1fzr/pierre_zemb_from_clever_cloud_on"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-06-24, 20:03:57",
-      "https://lobste.rs/s/gkqien/sacr3d_rendering_engine_toolbox_do_3d"
-    ],
-    [
-      "Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme",
-      "https://teddd.srht.site/sacr3d/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 19:40:31",
       "https://lobste.rs/s/pcuxjt/ignore_dnssec_if_you_like_mitm_attacks"
     ],
@@ -227,16 +237,6 @@
     [
       "The Joy and Power of Understanding",
       "https://binaryigor.com/the-joy-and-power-of-understanding.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 09:48:26",
-      "https://lobste.rs/s/a7thxr/coming_loop"
-    ],
-    [
-      "The Coming Loop",
-      "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/"
     ]
   ],
   [
