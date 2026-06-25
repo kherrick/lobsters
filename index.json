@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-24, 23:57:44",
+      "https://lobste.rs/s/axs545/why_i_wrote_pep_832_virtual_environment"
+    ],
+    [
+      "Why I wrote PEP 832 -- virtual environment discovery",
+      "https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 20:11:44",
       "https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable"
     ],
@@ -217,16 +227,6 @@
     [
       "Adversarial Communication",
       "https://blog.glyph.im/2026/06/adversarial-communication.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 00:18:29",
-      "https://lobste.rs/s/pvdvww/how_we_found_bug_hyper_http_library"
-    ],
-    [
-      "How we found a bug in the hyper HTTP library",
-      "https://blog.cloudflare.com/hyper-bug/"
     ]
   ],
   [
