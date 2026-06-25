@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 21:41:27](https://lobste.rs/s/pd1ftk/announcing_silk_silky_smooth_fiber) - [Announcing Silk: a silky smooth fiber runtime for ClickHouse](https://clickhouse.com/blog/silk)
 * [2026-06-25, 20:27:23](https://lobste.rs/s/8soruc/echoes_ai_winter_netzhansa) - [Echoes of the AI Winter | netzhansa](https://netzhansa.com/echoes-of-the-ai-winter/)
 * [2026-06-25, 19:12:44](https://lobste.rs/s/y0sy74/oxide_rack_3d_explorer) - [Oxide Rack 3D Explorer](https://explorer.oxide.computer/)
 * [2026-06-25, 19:08:28](https://lobste.rs/s/mfyfvq/limits_generalized_sync_ataxonomy) - [The Limits of Generalized Sync: ATaxonomy of Architectures, Trade‑offs, and Decision Factors](https://aaltodoc.aalto.fi/server/api/core/bitstreams/d485ca46-ef01-41bc-ae4c-d468afb209a8/content)

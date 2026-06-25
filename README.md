@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-25, 21:41:27](https://lobste.rs/s/pd1ftk/announcing_silk_silky_smooth_fiber) - [Announcing Silk: a silky smooth fiber runtime for ClickHouse](https://clickhouse.com/blog/silk)
 * [2026-06-25, 20:27:23](https://lobste.rs/s/8soruc/echoes_ai_winter_netzhansa) - [Echoes of the AI Winter | netzhansa](https://netzhansa.com/echoes-of-the-ai-winter/)
 * [2026-06-25, 19:12:44](https://lobste.rs/s/y0sy74/oxide_rack_3d_explorer) - [Oxide Rack 3D Explorer](https://explorer.oxide.computer/)
 * [2026-06-25, 17:09:46](https://lobste.rs/s/rerqzc/structured_primary_keys) - [Structured Primary Keys](https://modern-sql.com/blog/2026-06/structured-primary-keys)
@@ -24,7 +25,6 @@
 * [2026-06-24, 14:27:02](https://lobste.rs/s/aj0e9u/porting_wine_new_hobby_os) - [Porting WINE to a new Hobby OS](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
 * [2026-06-24, 13:57:08](https://lobste.rs/s/0qfxpj/aol_was_down_1996_2026) - [AOL was down (1996) (2026)](https://ngrok.com/blog/aol-was-down-1996)
 * [2026-06-24, 10:11:58](https://lobste.rs/s/6vsofh/joy_power_understanding) - [The Joy and Power of Understanding](https://binaryigor.com/the-joy-and-power-of-understanding.html)
-* [2026-06-24, 09:37:56](https://lobste.rs/s/cmcklp/flatpak_package_for_gimp_0_54_1_1996) - [Flatpak package for GIMP 0.54.1 (1996)](https://gitlab.gnome.org/balooii/gimp-0.54)
 
 ## [Archives](archives/index.md)
 
