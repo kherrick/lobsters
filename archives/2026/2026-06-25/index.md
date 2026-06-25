@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
 * [2026-06-25, 17:09:46](https://lobste.rs/s/rerqzc/structured_primary_keys) - [Structured Primary Keys](https://modern-sql.com/blog/2026-06/structured-primary-keys)
+* [2026-06-25, 17:04:58](https://lobste.rs/s/fvbrhb/flatpak_org_rewrite) - [Flatpak.org Rewrite](https://blog.jimmac.eu/posts/flatpak-org-zola/)
 * [2026-06-25, 16:35:05](https://lobste.rs/s/evydbs/detecting_removing_dangerous_secrets_on) - [Detecting and removing dangerous secrets on dev workstations before Shai-Hulud does](https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/)
 * [2026-06-25, 16:17:24](https://lobste.rs/s/hh1fzr/pierre_zemb_from_clever_cloud_on) - [Pierre Zemb from Clever Cloud on FoundationDB](https://theconsensus.dev/p/2026/06/18/pierre-zemb-from-clever-cloud.html)
 * [2026-06-25, 15:07:27](https://lobste.rs/s/csgzki/exhaustion_talking_tool) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
