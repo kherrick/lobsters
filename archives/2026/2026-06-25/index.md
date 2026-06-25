@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 15:07:27](https://lobste.rs/s/csgzki/exhaustion_talking_tool) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
+* [2026-06-25, 14:45:36](https://lobste.rs/s/t9cawj/os9map_openstreetmap_for_mac_os_9) - [OS9Map: OpenStreetMap for Mac OS 9](https://yllan.org/software/OS9Map/)
 * [2026-06-25, 14:11:11](https://lobste.rs/s/omq8rt/honesty_gets_emacs_patch_rejected) - [Honesty gets Emacs patch rejected](https://xlii.space/eng/honesty-gets-emacs-patch-rejected/)
 * [2026-06-25, 13:57:07](https://lobste.rs/s/madoeq/font_family_recommendations) - [font-family recommendations](https://chrismorgan.info/font-family)
 * [2026-06-25, 13:54:47](https://lobste.rs/s/hxkgmg/can_i_texture_3d_objects_with_oil_paint) - [Can I texture 3D objects with oil paint?](https://www.youtube.com/watch?v=fdI1ZJtAJmI)
