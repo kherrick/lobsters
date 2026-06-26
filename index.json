@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-26, 14:58:54",
+      "https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack"
+    ],
+    [
+      "Anatomy of a Failed (Nation-State?) Attack",
+      "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 13:21:48",
       "https://lobste.rs/s/rm7qnt/guixpkgs_every_guix_package_as_nix_flake"
     ],
@@ -237,16 +247,6 @@
     [
       "The Xteink X4 E-Ink Reader",
       "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 00:28:15",
-      "https://lobste.rs/s/ebqmzl/are_we_globalshortcuts_yet"
-    ],
-    [
-      "Are We GlobalShortcuts Yet?",
-      "https://areweglobalshortcutsyet.github.io"
     ]
   ]
 ]
