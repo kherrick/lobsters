@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-26, 14:58:54](https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 * [2026-06-26, 13:21:48](https://lobste.rs/s/rm7qnt/guixpkgs_every_guix_package_as_nix_flake) - [GuixPkgs: every Guix package, as a Nix flake](https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake)
 * [2026-06-26, 12:52:38](https://lobste.rs/s/n58ygj/how_pgbouncer_works) - [How PgBouncer Works](https://www.augusteo.com/blog/how-pgbouncer-works/)
 * [2026-06-26, 12:23:31](https://lobste.rs/s/0mhwyp/ibm_new_block_flats_design_for_tiny_chips) - [IBM new 'block of flats' design for tiny chips](https://www.bbc.com/news/articles/cvg7vpyn5pxo)
@@ -24,7 +25,6 @@
 * [2026-06-25, 13:57:07](https://lobste.rs/s/madoeq/font_family_recommendations) - [font-family recommendations](https://chrismorgan.info/font-family)
 * [2026-06-25, 11:21:00](https://lobste.rs/s/uge7mm/new_bitcast_semantics_llvm_backend) - [New @bitCast Semantics and LLVM Backend Improvements](https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25)
 * [2026-06-25, 06:20:45](https://lobste.rs/s/oyurwh/xteink_x4_e_ink_reader) - [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
-* [2026-06-25, 00:28:15](https://lobste.rs/s/ebqmzl/are_we_globalshortcuts_yet) - [Are We GlobalShortcuts Yet?](https://areweglobalshortcutsyet.github.io)
 
 ## [Archives](archives/index.md)
 
