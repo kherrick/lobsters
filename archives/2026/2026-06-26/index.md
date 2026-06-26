@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 22:38:19](https://lobste.rs/s/xpdod3/visual_basic_on_pc_w_windows_3_1) - [Visual Basic on the PC w/Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/)
 * [2026-06-26, 21:36:50](https://lobste.rs/s/hx12in/introducing_flink_s_native_s3_filesystem) - [Introducing Flink's Native S3 FileSystem: Built for Performance, Designed for Production](https://flink.apache.org/2026/06/26/announcing-native-s3-fs/)
 * [2026-06-26, 21:03:41](https://lobste.rs/s/0smfbg/designing_personal_pebble_watchface) - [Designing a personal Pebble watchface](https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/)
 * [2026-06-26, 20:37:27](https://lobste.rs/s/7jmid9/l_system) - [L-system](https://en.wikipedia.org/wiki/L-system)
