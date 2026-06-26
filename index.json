@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-26, 16:48:35",
+      "https://lobste.rs/s/5vxj6l/new_blub_paradox_why_typescript_is_poor"
+    ],
+    [
+      "The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
+      "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox/"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 15:42:28",
       "https://lobste.rs/s/6q12d7/incident_report_cve_2026_lgtm"
     ],
@@ -97,16 +107,6 @@
     [
       "DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)",
       "https://github.com/WeebLabs/DSPi"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 06:16:24",
-      "https://lobste.rs/s/fs8itz/usbliter8_a12_a13_securerom_exploit"
-    ],
-    [
-      "usbliter8: An A12/A13 SecureROM exploit",
-      "https://github.com/prdgmshift/usbliter8"
     ]
   ],
   [
