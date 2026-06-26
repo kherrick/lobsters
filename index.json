@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-26, 06:17:11",
+      "https://lobste.rs/s/bmlpaq/dspi_fully_featured_audio_dsp_firmware"
+    ],
+    [
+      "DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)",
+      "https://github.com/WeebLabs/DSPi"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 06:16:24",
+      "https://lobste.rs/s/fs8itz/usbliter8_a12_a13_securerom_exploit"
+    ],
+    [
+      "usbliter8: An A12/A13 SecureROM exploit",
+      "https://github.com/prdgmshift/usbliter8"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 06:15:26",
+      "https://lobste.rs/s/aldvu9/swsim_software_sim_card"
+    ],
+    [
+      "swsim: A software SIM card",
+      "https://github.com/tomasz-lisowski/swsim"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 04:58:29",
+      "https://lobste.rs/s/ymhp52/spir_v_backend_progress"
+    ],
+    [
+      "SPIR-V Backend Progress",
+      "https://ziglang.org/devlog/2026/#2026-06-26"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 01:48:11",
       "https://lobste.rs/s/boef7v/enhancements_dyalog_v20_0_arrays"
     ],
@@ -67,16 +107,6 @@
     [
       "Structured Primary Keys",
       "https://modern-sql.com/blog/2026-06/structured-primary-keys"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 17:04:58",
-      "https://lobste.rs/s/fvbrhb/flatpak_org_rewrite"
-    ],
-    [
-      "Flatpak.org Rewrite",
-      "https://blog.jimmac.eu/posts/flatpak-org-zola/"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-06-25, 04:27:35",
-      "https://lobste.rs/s/elhkrh/deno_desktop"
-    ],
-    [
-      "Deno Desktop",
-      "https://ankursethi.com/blog/deno-desktop/"
-    ]
-  ],
-  [
-    [
       "2026-06-25, 00:28:15",
       "https://lobste.rs/s/ebqmzl/are_we_globalshortcuts_yet"
     ],
     [
       "Are We GlobalShortcuts Yet?",
       "https://areweglobalshortcutsyet.github.io"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 20:11:44",
-      "https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable"
-    ],
-    [
-      "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true",
-      "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Porting WINE to a new Hobby OS",
       "https://astral-os.org/posts/2026/04/03/wine-on-astral.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 13:57:08",
-      "https://lobste.rs/s/0qfxpj/aol_was_down_1996_2026"
-    ],
-    [
-      "AOL was down (1996) (2026)",
-      "https://ngrok.com/blog/aol-was-down-1996"
     ]
   ],
   [
