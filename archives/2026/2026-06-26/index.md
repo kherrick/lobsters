@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 08:12:59](https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend)
 * [2026-06-26, 06:18:49](https://lobste.rs/s/5oahtn/mmo_chip_multiplayer_cmos_standard_cell) - [mmo-chip: Multiplayer CMOS Standard Cell Chips Reverse Engineering Tool](https://github.com/giulioz/mmo-chip)
 * [2026-06-26, 06:17:11](https://lobste.rs/s/bmlpaq/dspi_fully_featured_audio_dsp_firmware) - [DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)](https://github.com/WeebLabs/DSPi)
 * [2026-06-26, 06:16:24](https://lobste.rs/s/fs8itz/usbliter8_a12_a13_securerom_exploit) - [usbliter8: An A12/A13 SecureROM exploit](https://github.com/prdgmshift/usbliter8)
