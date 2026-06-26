@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 13:21:48](https://lobste.rs/s/rm7qnt/guixpkgs_every_guix_package_as_nix_flake) - [GuixPkgs: every Guix package, as a Nix flake](https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake)
+* [2026-06-26, 12:52:38](https://lobste.rs/s/n58ygj/how_pgbouncer_works) - [How PgBouncer Works](https://www.augusteo.com/blog/how-pgbouncer-works/)
+* [2026-06-26, 12:23:31](https://lobste.rs/s/0mhwyp/ibm_new_block_flats_design_for_tiny_chips) - [IBM new 'block of flats' design for tiny chips](https://www.bbc.com/news/articles/cvg7vpyn5pxo)
 * [2026-06-26, 11:22:44](https://lobste.rs/s/7qssyu/design_patterns_suck) - [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/)
 * [2026-06-26, 11:07:50](https://lobste.rs/s/f3boqg/teens_who_hacked_tfl_were_known_police) - [Teens who hacked TfL were known to police years before cyber-attack](https://www.bbc.co.uk/news/articles/cx2kx8jr244o)
 * [2026-06-26, 10:36:54](https://lobste.rs/s/tjpsew/chatbots_vs_ozone) - [Chatbots vs Ozone](https://blog.dshr.org/2026/05/chatbots-vs-ozone.html)
