@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-26, 21:36:50",
+      "https://lobste.rs/s/hx12in/introducing_flink_s_native_s3_filesystem"
+    ],
+    [
+      "Introducing Flink's Native S3 FileSystem: Built for Performance, Designed for Production",
+      "https://flink.apache.org/2026/06/26/announcing-native-s3-fs/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 21:03:41",
+      "https://lobste.rs/s/0smfbg/designing_personal_pebble_watchface"
+    ],
+    [
+      "Designing a personal Pebble watchface",
+      "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 20:37:27",
       "https://lobste.rs/s/7jmid9/l_system"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-06-25, 14:45:36",
-      "https://lobste.rs/s/t9cawj/os9map_openstreetmap_for_mac_os_9"
-    ],
-    [
-      "OS9Map: OpenStreetMap for Mac OS 9",
-      "https://yllan.org/software/OS9Map/"
-    ]
-  ],
-  [
-    [
       "2026-06-25, 14:11:11",
       "https://lobste.rs/s/omq8rt/vibecoding_gets_emacs_patch_rejected"
     ],
@@ -237,16 +247,6 @@
     [
       "New @bitCast Semantics and LLVM Backend Improvements",
       "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 06:20:45",
-      "https://lobste.rs/s/oyurwh/xteink_x4_e_ink_reader"
-    ],
-    [
-      "The Xteink X4 E-Ink Reader",
-      "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/"
     ]
   ]
 ]
