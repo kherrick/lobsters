@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-26, 15:42:28](https://lobste.rs/s/6q12d7/incident_report_cve_2026_lgtm) - [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
 * [2026-06-26, 14:58:54](https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 * [2026-06-26, 13:21:48](https://lobste.rs/s/rm7qnt/guixpkgs_every_guix_package_as_nix_flake) - [GuixPkgs: every Guix package, as a Nix flake](https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake)
 * [2026-06-26, 12:52:38](https://lobste.rs/s/n58ygj/how_pgbouncer_works) - [How PgBouncer Works](https://www.augusteo.com/blog/how-pgbouncer-works/)
@@ -14,7 +15,6 @@
 * [2026-06-26, 04:58:29](https://lobste.rs/s/ymhp52/spir_v_backend_progress) - [SPIR-V Backend Progress](https://ziglang.org/devlog/2026/#2026-06-26)
 * [2026-06-26, 00:21:59](https://lobste.rs/s/48rnmd/om_malik_1966_2026) - [Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/)
 * [2026-06-25, 22:44:47](https://lobste.rs/s/qwwdpv/i_ve_gone_full_nix_proxmox_nixos_incus) - [I've gone full Nix: Proxmox to NixOS + Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
-* [2026-06-25, 21:41:27](https://lobste.rs/s/pd1ftk/announcing_silk_silky_smooth_fiber) - [Announcing Silk: a silky smooth fiber runtime for ClickHouse](https://clickhouse.com/blog/silk)
 * [2026-06-25, 20:27:23](https://lobste.rs/s/8soruc/echoes_ai_winter) - [Echoes of the AI Winter](https://netzhansa.com/echoes-of-the-ai-winter/)
 * [2026-06-25, 19:12:44](https://lobste.rs/s/y0sy74/oxide_rack_3d_explorer) - [Oxide Rack 3D Explorer](https://explorer.oxide.computer/)
 * [2026-06-25, 17:09:46](https://lobste.rs/s/rerqzc/structured_primary_keys) - [Structured Primary Keys](https://modern-sql.com/blog/2026-06/structured-primary-keys)
