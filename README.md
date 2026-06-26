@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-26, 19:05:42](https://lobste.rs/s/y4jrtn/youre_os_game_where_you_are_computer_s_os) - [youre-the-os: A game where you are a computer's OS](https://github.com/plbrault/youre-the-os)
 * [2026-06-26, 18:27:04](https://lobste.rs/s/atsrpy/making_devenv_start_fast_whole_nixpkgs) - [Making devenv start fast, and the whole nixpkgs with it - devenv](https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/)
 * [2026-06-26, 17:39:46](https://lobste.rs/s/qt6tji/bringing_swift_apple_ii) - [Bringing Swift to the Apple II](https://yeokhengmeng.com/2026/06/swift-on-apple-ii/)
 * [2026-06-26, 15:42:28](https://lobste.rs/s/6q12d7/incident_report_cve_2026_lgtm) - [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
@@ -18,7 +19,6 @@
 * [2026-06-26, 00:21:59](https://lobste.rs/s/48rnmd/om_malik_1966_2026) - [Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/)
 * [2026-06-25, 19:12:44](https://lobste.rs/s/y0sy74/oxide_rack_3d_explorer) - [Oxide Rack 3D Explorer](https://explorer.oxide.computer/)
 * [2026-06-25, 17:09:46](https://lobste.rs/s/rerqzc/structured_primary_keys) - [Structured Primary Keys](https://modern-sql.com/blog/2026-06/structured-primary-keys)
-* [2026-06-25, 16:17:24](https://lobste.rs/s/hh1fzr/pierre_zemb_from_clever_cloud_on) - [Pierre Zemb from Clever Cloud on FoundationDB](https://theconsensus.dev/p/2026/06/18/pierre-zemb-from-clever-cloud.html)
 * [2026-06-25, 15:07:27](https://lobste.rs/s/csgzki/exhaustion_talking_tool) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
 * [2026-06-25, 14:45:36](https://lobste.rs/s/t9cawj/os9map_openstreetmap_for_mac_os_9) - [OS9Map: OpenStreetMap for Mac OS 9](https://yllan.org/software/OS9Map/)
 * [2026-06-25, 14:11:11](https://lobste.rs/s/omq8rt/vibecoding_gets_emacs_patch_rejected) - [Vibecoding gets Emacs patch rejected](https://xlii.space/eng/honesty-gets-emacs-patch-rejected/)
