@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 21:36:50](https://lobste.rs/s/hx12in/introducing_flink_s_native_s3_filesystem) - [Introducing Flink's Native S3 FileSystem: Built for Performance, Designed for Production](https://flink.apache.org/2026/06/26/announcing-native-s3-fs/)
+* [2026-06-26, 21:03:41](https://lobste.rs/s/0smfbg/designing_personal_pebble_watchface) - [Designing a personal Pebble watchface](https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/)
 * [2026-06-26, 20:37:27](https://lobste.rs/s/7jmid9/l_system) - [L-system](https://en.wikipedia.org/wiki/L-system)
 * [2026-06-26, 19:05:42](https://lobste.rs/s/y4jrtn/youre_os_game_where_you_are_computer_s_os) - [youre-the-os: A game where you are a computer's OS](https://github.com/plbrault/youre-the-os)
 * [2026-06-26, 18:36:13](https://lobste.rs/s/jespwh/aria_anti_patterns_you) - [ARIA, anti-patterns, and you](https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/)

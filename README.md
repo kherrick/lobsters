@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-26, 21:36:50](https://lobste.rs/s/hx12in/introducing_flink_s_native_s3_filesystem) - [Introducing Flink's Native S3 FileSystem: Built for Performance, Designed for Production](https://flink.apache.org/2026/06/26/announcing-native-s3-fs/)
+* [2026-06-26, 21:03:41](https://lobste.rs/s/0smfbg/designing_personal_pebble_watchface) - [Designing a personal Pebble watchface](https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/)
 * [2026-06-26, 20:37:27](https://lobste.rs/s/7jmid9/l_system) - [L-system](https://en.wikipedia.org/wiki/L-system)
 * [2026-06-26, 19:05:42](https://lobste.rs/s/y4jrtn/youre_os_game_where_you_are_computer_s_os) - [youre-the-os: A game where you are a computer's OS](https://github.com/plbrault/youre-the-os)
 * [2026-06-26, 18:36:13](https://lobste.rs/s/jespwh/aria_anti_patterns_you) - [ARIA, anti-patterns, and you](https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/)
@@ -20,11 +22,9 @@
 * [2026-06-26, 00:21:59](https://lobste.rs/s/48rnmd/om_malik_1966_2026) - [Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/)
 * [2026-06-25, 19:12:44](https://lobste.rs/s/y0sy74/oxide_rack_3d_explorer) - [Oxide Rack 3D Explorer](https://explorer.oxide.computer/)
 * [2026-06-25, 15:07:27](https://lobste.rs/s/csgzki/exhaustion_talking_tool) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
-* [2026-06-25, 14:45:36](https://lobste.rs/s/t9cawj/os9map_openstreetmap_for_mac_os_9) - [OS9Map: OpenStreetMap for Mac OS 9](https://yllan.org/software/OS9Map/)
 * [2026-06-25, 14:11:11](https://lobste.rs/s/omq8rt/vibecoding_gets_emacs_patch_rejected) - [Vibecoding gets Emacs patch rejected](https://xlii.space/eng/honesty-gets-emacs-patch-rejected/)
 * [2026-06-25, 13:57:07](https://lobste.rs/s/madoeq/font_family_recommendations) - [font-family recommendations](https://chrismorgan.info/font-family)
 * [2026-06-25, 11:21:00](https://lobste.rs/s/uge7mm/new_bitcast_semantics_llvm_backend) - [New @bitCast Semantics and LLVM Backend Improvements](https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25)
-* [2026-06-25, 06:20:45](https://lobste.rs/s/oyurwh/xteink_x4_e_ink_reader) - [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
 
 ## [Archives](archives/index.md)
 
