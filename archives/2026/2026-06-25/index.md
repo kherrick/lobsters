@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 23:56:00](https://lobste.rs/s/x6nv9y/akrites_coordinated_confidential) - [Akrites: Coordinated, confidential vulnerability remediation for the open source software critical infrastructure depends on](https://akrites.org/)
 * [2026-06-25, 22:44:47](https://lobste.rs/s/qwwdpv/i_ve_gone_full_nix_proxmox_nixos_incus) - [I've gone full Nix: Proxmox to NixOS + Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
 * [2026-06-25, 21:41:27](https://lobste.rs/s/pd1ftk/announcing_silk_silky_smooth_fiber) - [Announcing Silk: a silky smooth fiber runtime for ClickHouse](https://clickhouse.com/blog/silk)
 * [2026-06-25, 20:27:23](https://lobste.rs/s/8soruc/echoes_ai_winter_netzhansa) - [Echoes of the AI Winter | netzhansa](https://netzhansa.com/echoes-of-the-ai-winter/)
