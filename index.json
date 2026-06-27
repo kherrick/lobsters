@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-27, 19:31:05",
+      "https://lobste.rs/s/b0tn2i/pg_plan_advice_help_planner_get_right_plan"
+    ],
+    [
+      "pg_plan_advice — help the planner get the right plan",
+      "https://www.postgresql.org/docs/19/pgplanadvice.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 19:23:29",
+      "https://lobste.rs/s/ymxijt/card_made_apple_ii_serious"
+    ],
+    [
+      "The Card That Made the Apple II Serious",
+      "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 18:03:29",
       "https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-06-27, 07:04:29",
-      "https://lobste.rs/s/uws0wx/tiny_compiler_for_data_parallel_kernels"
-    ],
-    [
-      "A Tiny Compiler for Data-Parallel Kernels",
-      "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels"
-    ]
-  ],
-  [
-    [
       "2026-06-27, 03:56:22",
       "https://lobste.rs/s/u1clgf/text_files_as_user_interface"
     ],
@@ -237,16 +247,6 @@
     [
       "All you need is PostgreSQL",
       "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 08:12:59",
-      "https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend"
     ]
   ]
 ]
