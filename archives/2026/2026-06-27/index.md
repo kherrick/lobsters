@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 19:39:10](https://lobste.rs/s/bgnc5q/prism_impure_functional_language_with) - [Prism: An Impure Functional Language With Typed Effects](https://www.stephendiehl.com/posts/prism/)
 * [2026-06-27, 19:31:05](https://lobste.rs/s/b0tn2i/pg_plan_advice_help_planner_get_right_plan) - [pg_plan_advice — help the planner get the right plan](https://www.postgresql.org/docs/19/pgplanadvice.html)
 * [2026-06-27, 19:23:29](https://lobste.rs/s/ymxijt/card_made_apple_ii_serious) - [The Card That Made the Apple II Serious](https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/)
 * [2026-06-27, 18:03:29](https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design) - [AI Learns the \"Dark Art\" of RF Chip Design](https://spectrum.ieee.org/ai-radio-chip-design)
