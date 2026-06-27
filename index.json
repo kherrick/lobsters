@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-27, 07:09:38",
+      "https://lobste.rs/s/lyszpl/cost_yagni_was_never_about"
+    ],
+    [
+      "The Cost YAGNI Was Never About",
+      "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 07:04:29",
+      "https://lobste.rs/s/uws0wx/tiny_compiler_for_data_parallel_kernels"
+    ],
+    [
+      "A Tiny Compiler for Data-Parallel Kernels",
+      "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 03:56:22",
       "https://lobste.rs/s/u1clgf/text_files_as_user_interface"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-06-26, 10:36:54",
-      "https://lobste.rs/s/tjpsew/chatbots_vs_ozone"
-    ],
-    [
-      "Chatbots vs Ozone",
-      "https://blog.dshr.org/2026/05/chatbots-vs-ozone.html"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 09:48:57",
       "https://lobste.rs/s/yvvhve/all_you_need_is_postgresql"
     ],
@@ -187,16 +197,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 06:17:11",
-      "https://lobste.rs/s/bmlpaq/dspi_fully_featured_audio_dsp_firmware"
-    ],
-    [
-      "DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)",
-      "https://github.com/WeebLabs/DSPi"
     ]
   ],
   [
