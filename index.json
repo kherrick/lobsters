@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-27, 01:10:40",
+      "https://lobste.rs/s/bkiepi/simple_web_framework_for_odin"
+    ],
+    [
+      "A simple web framework for odin",
+      "https://github.com/Lvcky-gg/Gjallarhorn"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 00:08:45",
       "https://lobste.rs/s/s138jl/nlnet_labs_llm_policy"
     ],
@@ -237,16 +247,6 @@
     [
       "font-family recommendations",
       "https://chrismorgan.info/font-family"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 11:21:00",
-      "https://lobste.rs/s/uge7mm/new_bitcast_semantics_llvm_backend"
-    ],
-    [
-      "New @bitCast Semantics and LLVM Backend Improvements",
-      "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25"
     ]
   ]
 ]
