@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-27, 00:08:45",
+      "https://lobste.rs/s/s138jl/nlnet_labs_llm_policy"
+    ],
+    [
+      "NLNet Labs LLM Policy",
+      "https://nlnetlabs.nl/llm-policy/"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 22:38:19",
       "https://lobste.rs/s/xpdod3/visual_basic_on_pc_w_windows_3_1"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2026-06-26, 21:03:41",
-      "https://lobste.rs/s/0smfbg/designing_personal_pebble_watchface"
-    ],
-    [
-      "Designing a personal Pebble watchface",
-      "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 20:37:27",
       "https://lobste.rs/s/7jmid9/l_system"
     ],
@@ -47,6 +47,16 @@
     [
       "youre-the-os: A game where you are a computer's OS",
       "https://github.com/plbrault/youre-the-os"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 18:40:42",
+      "https://lobste.rs/s/6la7z7/type_inference_part_1"
+    ],
+    [
+      "Type Inference (Part 1)",
+      "https://www.blog.akhil.cc/type-inference-part-1"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)",
       "https://github.com/WeebLabs/DSPi"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 06:16:24",
-      "https://lobste.rs/s/fs8itz/usbliter8_a12_a13_securerom_exploit"
-    ],
-    [
-      "usbliter8: An A12/A13 SecureROM exploit",
-      "https://github.com/prdgmshift/usbliter8"
     ]
   ],
   [
