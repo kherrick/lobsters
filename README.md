@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-27, 09:02:59](https://lobste.rs/s/zxt3em/openzl) - [OpenZL](https://openzl.org/)
 * [2026-06-27, 07:54:36](https://lobste.rs/s/klhhzq/fifa_interactive_bracket_world_cup) - [FIFA Interactive Bracket (World Cup)](https://worldcup.reeseric.ci)
 * [2026-06-27, 07:09:38](https://lobste.rs/s/lyszpl/cost_yagni_was_never_about) - [The Cost YAGNI Was Never About](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
 * [2026-06-27, 07:04:29](https://lobste.rs/s/uws0wx/tiny_compiler_for_data_parallel_kernels) - [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
@@ -13,7 +14,6 @@
 * [2026-06-26, 18:40:42](https://lobste.rs/s/6la7z7/type_inference_part_1) - [Type Inference (Part 1)](https://www.blog.akhil.cc/type-inference-part-1)
 * [2026-06-26, 18:36:13](https://lobste.rs/s/jespwh/aria_anti_patterns_you) - [ARIA, anti-patterns, and you](https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/)
 * [2026-06-26, 18:27:04](https://lobste.rs/s/atsrpy/making_devenv_start_fast_whole_nixpkgs) - [Making devenv start fast, and the whole nixpkgs with it - devenv](https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/)
-* [2026-06-26, 17:39:46](https://lobste.rs/s/qt6tji/bringing_swift_apple_ii) - [Bringing Swift to the Apple II](https://yeokhengmeng.com/2026/06/swift-on-apple-ii/)
 * [2026-06-26, 15:42:28](https://lobste.rs/s/6q12d7/incident_report_cve_2026_lgtm) - [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
 * [2026-06-26, 14:58:54](https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 * [2026-06-26, 13:21:48](https://lobste.rs/s/rm7qnt/guixpkgs_every_guix_package_as_nix_flake) - [GuixPkgs: every Guix package, as a Nix flake](https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake)

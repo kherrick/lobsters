@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 09:02:59](https://lobste.rs/s/zxt3em/openzl) - [OpenZL](https://openzl.org/)
 * [2026-06-27, 07:54:36](https://lobste.rs/s/klhhzq/fifa_interactive_bracket_world_cup) - [FIFA Interactive Bracket (World Cup)](https://worldcup.reeseric.ci)
 * [2026-06-27, 07:09:38](https://lobste.rs/s/lyszpl/cost_yagni_was_never_about) - [The Cost YAGNI Was Never About](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
 * [2026-06-27, 07:04:29](https://lobste.rs/s/uws0wx/tiny_compiler_for_data_parallel_kernels) - [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
