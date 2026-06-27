@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-27, 19:39:10",
+      "https://lobste.rs/s/bgnc5q/prism_impure_functional_language_with"
+    ],
+    [
+      "Prism: An Impure Functional Language With Typed Effects",
+      "https://www.stephendiehl.com/posts/prism/"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 19:31:05",
       "https://lobste.rs/s/b0tn2i/pg_plan_advice_help_planner_get_right_plan"
     ],
@@ -227,16 +237,6 @@
     [
       "Anatomy of a Failed (Nation-State?) Attack",
       "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 13:21:48",
-      "https://lobste.rs/s/rm7qnt/guixpkgs_every_guix_package_as_nix_flake"
-    ],
-    [
-      "GuixPkgs: every Guix package, as a Nix flake",
-      "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake"
     ]
   ],
   [
