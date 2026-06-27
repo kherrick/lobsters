@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 15:10:14](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals) - [A peek into Reddit's anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
 * [2026-06-27, 14:33:33](https://lobste.rs/s/sywqli/are_exclusive_arcs_evil) - [Are Exclusive Arcs Evil?](https://waymondo.com/posts/are-exclusive-arcs-evil/)
 * [2026-06-27, 14:29:27](https://lobste.rs/s/ciwbiq/linux_7_2_improves_anonymous_unnamed_pipe) - [Linux 7.2 Improves Anonymous/Unnamed Pipe Performance For Shell Pipelines & More](https://www.phoronix.com/news/Linux-72-Faster-Anon-Pipe-Write)
 * [2026-06-27, 14:18:23](https://lobste.rs/s/xmsj3r/data_access_patterns_makes_your_cpu) - [Data Access Patterns That Makes Your CPU Really Angry](https://blog.weineng.me/posts/slowest_add/)

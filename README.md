@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-27, 15:10:14](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals) - [A peek into Reddit's anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
 * [2026-06-27, 14:33:33](https://lobste.rs/s/sywqli/are_exclusive_arcs_evil) - [Are Exclusive Arcs Evil?](https://waymondo.com/posts/are-exclusive-arcs-evil/)
 * [2026-06-27, 14:29:27](https://lobste.rs/s/ciwbiq/linux_7_2_improves_anonymous_unnamed_pipe) - [Linux 7.2 Improves Anonymous/Unnamed Pipe Performance For Shell Pipelines & More](https://www.phoronix.com/news/Linux-72-Faster-Anon-Pipe-Write)
 * [2026-06-27, 14:18:23](https://lobste.rs/s/xmsj3r/data_access_patterns_makes_your_cpu) - [Data Access Patterns That Makes Your CPU Really Angry](https://blog.weineng.me/posts/slowest_add/)
@@ -21,7 +22,6 @@
 * [2026-06-26, 15:42:28](https://lobste.rs/s/6q12d7/incident_report_cve_2026_lgtm) - [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
 * [2026-06-26, 14:58:54](https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 * [2026-06-26, 13:21:48](https://lobste.rs/s/rm7qnt/guixpkgs_every_guix_package_as_nix_flake) - [GuixPkgs: every Guix package, as a Nix flake](https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake)
-* [2026-06-26, 12:52:38](https://lobste.rs/s/n58ygj/how_pgbouncer_works) - [How PgBouncer Works](https://www.augusteo.com/blog/how-pgbouncer-works/)
 * [2026-06-26, 11:22:44](https://lobste.rs/s/7qssyu/design_patterns_suck) - [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/)
 * [2026-06-26, 09:48:57](https://lobste.rs/s/yvvhve/all_you_need_is_postgresql) - [All you need is PostgreSQL](https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/)
 * [2026-06-26, 08:12:59](https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend)
