@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-27, 12:53:26",
+      "https://lobste.rs/s/z7eoo7/excessive_nil_pointer_checks_go"
+    ],
+    [
+      "Excessive nil pointer checks in Go",
+      "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 12:40:25",
       "https://lobste.rs/s/oaq69a/shard_your_locks_benchmarking_6_go_cache"
     ],
@@ -227,16 +237,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 06:15:26",
-      "https://lobste.rs/s/aldvu9/swsim_software_sim_card"
-    ],
-    [
-      "swsim: A software SIM card",
-      "https://github.com/tomasz-lisowski/swsim"
     ]
   ],
   [
