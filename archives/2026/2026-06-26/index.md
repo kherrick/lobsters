@@ -9,6 +9,7 @@
 * [2026-06-26, 21:03:41](https://lobste.rs/s/0smfbg/designing_personal_pebble_watchface) - [Designing a personal Pebble watchface](https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/)
 * [2026-06-26, 20:37:27](https://lobste.rs/s/7jmid9/l_system) - [L-system](https://en.wikipedia.org/wiki/L-system)
 * [2026-06-26, 19:05:42](https://lobste.rs/s/y4jrtn/youre_os_game_where_you_are_computer_s_os) - [youre-the-os: A game where you are a computer's OS](https://github.com/plbrault/youre-the-os)
+* [2026-06-26, 18:40:42](https://lobste.rs/s/6la7z7/type_inference_part_1) - [Type Inference (Part 1)](https://www.blog.akhil.cc/type-inference-part-1)
 * [2026-06-26, 18:36:13](https://lobste.rs/s/jespwh/aria_anti_patterns_you) - [ARIA, anti-patterns, and you](https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/)
 * [2026-06-26, 18:27:04](https://lobste.rs/s/atsrpy/making_devenv_start_fast_whole_nixpkgs) - [Making devenv start fast, and the whole nixpkgs with it - devenv](https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/)
 * [2026-06-26, 17:39:46](https://lobste.rs/s/qt6tji/bringing_swift_apple_ii) - [Bringing Swift to the Apple II](https://yeokhengmeng.com/2026/06/swift-on-apple-ii/)
