@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 12:53:26](https://lobste.rs/s/z7eoo7/excessive_nil_pointer_checks_go) - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/)
 * [2026-06-27, 12:40:25](https://lobste.rs/s/oaq69a/shard_your_locks_benchmarking_6_go_cache) - [Shard your locks: benchmarking 6 Go cache designs](https://strebkov.dev/posts/shard-your-locks/)
 * [2026-06-27, 09:20:44](https://lobste.rs/s/vaw8oy/essence_architectural_work_part_3) - [The essence of architectural work - Part 3](https://www.ufried.com/blog/essence_of_architecture_3)
 * [2026-06-27, 09:17:42](https://lobste.rs/s/n2r6r6/how_think_about_ai_cory_doctorow_on_big) - [\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More](https://www.youtube.com/watch?v=OBUzl_IaWIw)

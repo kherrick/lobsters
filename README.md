@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-27, 12:53:26](https://lobste.rs/s/z7eoo7/excessive_nil_pointer_checks_go) - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/)
 * [2026-06-27, 12:40:25](https://lobste.rs/s/oaq69a/shard_your_locks_benchmarking_6_go_cache) - [Shard your locks: benchmarking 6 Go cache designs](https://strebkov.dev/posts/shard-your-locks/)
 * [2026-06-27, 09:20:44](https://lobste.rs/s/vaw8oy/essence_architectural_work_part_3) - [The essence of architectural work - Part 3](https://www.ufried.com/blog/essence_of_architecture_3)
 * [2026-06-27, 09:17:42](https://lobste.rs/s/n2r6r6/how_think_about_ai_cory_doctorow_on_big) - [\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More](https://www.youtube.com/watch?v=OBUzl_IaWIw)
@@ -23,7 +24,6 @@
 * [2026-06-26, 11:22:44](https://lobste.rs/s/7qssyu/design_patterns_suck) - [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/)
 * [2026-06-26, 09:48:57](https://lobste.rs/s/yvvhve/all_you_need_is_postgresql) - [All you need is PostgreSQL](https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/)
 * [2026-06-26, 08:12:59](https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend)
-* [2026-06-26, 06:15:26](https://lobste.rs/s/aldvu9/swsim_software_sim_card) - [swsim: A software SIM card](https://github.com/tomasz-lisowski/swsim)
 * [2026-06-25, 15:07:27](https://lobste.rs/s/csgzki/exhaustion_talking_tool) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
 
 ## [Archives](archives/index.md)
