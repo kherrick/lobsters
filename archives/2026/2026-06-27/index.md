@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 17:27:16](https://lobste.rs/s/4ywqva/exploitarium_single_archive_public) - [exploitarium: A single archive of public exploit PoCs](https://github.com/bikini/exploitarium)
+* [2026-06-27, 17:09:07](https://lobste.rs/s/q7e7hp/c_linux_kernel) - [C in the Linux Kernel](https://www.youtube.com/watch?v=iqqf8YWJhSs)
 * [2026-06-27, 16:19:10](https://lobste.rs/s/b2emi7/guards_guards) - [Guards! Guards](https://hauleth.dev/post/guards-guards/)
 * [2026-06-27, 15:16:10](https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at) - [Comparing Transformers and Hybrid Models at the Token Level](https://arxiv.org/pdf/2606.20936)
 * [2026-06-27, 15:15:46](https://lobste.rs/s/mhjlia/gpt2_basic_portable_machine) - [GPT2-BASIC: Portable Machine Intelligence in BASIC](https://github.com/tsotchke/gpt2-basic)
