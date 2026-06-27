@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-27, 12:40:25](https://lobste.rs/s/oaq69a/shard_your_locks_benchmarking_6_go_cache) - [Shard your locks: benchmarking 6 Go cache designs](https://strebkov.dev/posts/shard-your-locks/)
 * [2026-06-27, 09:20:44](https://lobste.rs/s/vaw8oy/essence_architectural_work_part_3) - [The essence of architectural work - Part 3](https://www.ufried.com/blog/essence_of_architecture_3)
 * [2026-06-27, 09:17:42](https://lobste.rs/s/n2r6r6/how_think_about_ai_cory_doctorow_on_big) - [\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More](https://www.youtube.com/watch?v=OBUzl_IaWIw)
 * [2026-06-27, 09:02:59](https://lobste.rs/s/zxt3em/openzl) - [OpenZL](https://openzl.org/)
@@ -13,7 +14,6 @@
 * [2026-06-26, 22:38:19](https://lobste.rs/s/xpdod3/visual_basic_on_pc_w_windows_3_1) - [Visual Basic on the PC w/Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/)
 * [2026-06-26, 20:37:27](https://lobste.rs/s/7jmid9/l_system) - [L-system](https://en.wikipedia.org/wiki/L-system)
 * [2026-06-26, 19:05:42](https://lobste.rs/s/y4jrtn/youre_os_game_where_you_are_computer_s_os) - [youre-the-os: A game where you are a computer's OS](https://github.com/plbrault/youre-the-os)
-* [2026-06-26, 18:40:42](https://lobste.rs/s/6la7z7/type_inference_part_1) - [Type Inference (Part 1)](https://www.blog.akhil.cc/type-inference-part-1)
 * [2026-06-26, 18:36:13](https://lobste.rs/s/jespwh/aria_anti_patterns_you) - [ARIA, anti-patterns, and you](https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/)
 * [2026-06-26, 18:27:04](https://lobste.rs/s/atsrpy/making_devenv_start_fast_whole_nixpkgs) - [Making devenv start fast, and the whole nixpkgs with it - devenv](https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/)
 * [2026-06-26, 15:42:28](https://lobste.rs/s/6q12d7/incident_report_cve_2026_lgtm) - [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
