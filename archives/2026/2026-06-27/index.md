@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 18:03:29](https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design) - [AI Learns the \"Dark Art\" of RF Chip Design](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-27, 17:27:16](https://lobste.rs/s/4ywqva/exploitarium_single_archive_public) - [exploitarium: A single archive of public exploit PoCs](https://github.com/bikini/exploitarium)
 * [2026-06-27, 17:09:07](https://lobste.rs/s/q7e7hp/c_linux_kernel) - [C in the Linux Kernel](https://www.youtube.com/watch?v=iqqf8YWJhSs)
 * [2026-06-27, 16:19:10](https://lobste.rs/s/b2emi7/guards_guards) - [Guards! Guards](https://hauleth.dev/post/guards-guards/)
