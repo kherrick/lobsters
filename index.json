@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-06-27, 15:16:10",
+      "https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at"
+    ],
+    [
+      "Comparing Transformers and Hybrid Models at the Token Level",
+      "https://arxiv.org/pdf/2606.20936"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 15:15:46",
+      "https://lobste.rs/s/mhjlia/gpt2_basic_portable_machine"
+    ],
+    [
+      "GPT2-BASIC: Portable Machine Intelligence in BASIC",
+      "https://github.com/tsotchke/gpt2-basic"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 15:10:14",
       "https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals"
     ],
     [
       "A peek into Reddit's anti-spam internals",
       "https://lyra.horse/blog/2026/06/reddit-spam-internals/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 14:33:33",
-      "https://lobste.rs/s/sywqli/are_exclusive_arcs_evil"
-    ],
-    [
-      "Are Exclusive Arcs Evil?",
-      "https://waymondo.com/posts/are-exclusive-arcs-evil/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Shard your locks: benchmarking 6 Go cache designs",
       "https://strebkov.dev/posts/shard-your-locks/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 09:20:44",
-      "https://lobste.rs/s/vaw8oy/essence_architectural_work_part_3"
-    ],
-    [
-      "The essence of architectural work - Part 3",
-      "https://www.ufried.com/blog/essence_of_architecture_3"
     ]
   ],
   [
