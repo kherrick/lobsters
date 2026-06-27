@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-06-27, 15:16:10",
+      "https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at"
+    ],
+    [
+      "Comparing Transformers and Hybrid Models at the Token Level",
+      "https://arxiv.org/pdf/2606.20936"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 15:10:14",
       "https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals"
     ],
@@ -237,16 +247,6 @@
     [
       "Anatomy of a Failed (Nation-State?) Attack",
       "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 09:48:57",
-      "https://lobste.rs/s/yvvhve/all_you_need_is_postgresql"
-    ],
-    [
-      "All you need is PostgreSQL",
-      "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/"
     ]
   ]
 ]
