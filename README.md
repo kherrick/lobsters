@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-28, 09:21:19](https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon) - [MAX models can now run on Apple silicon GPUs](https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283)
+* [2026-06-28, 09:15:23](https://lobste.rs/s/1mgjz9/auditable_commercial_license_acl_v1_0) - [Auditable Commercial License (ACL) v1.0](https://www.auditablelicense.org)
 * [2026-06-28, 07:56:46](https://lobste.rs/s/cychnm/nourish_wayland_compositor_with) - [Nourish - a wayland compositor with infinite zoom and pan](https://github.com/y5-snowies/nourish)
 * [2026-06-28, 05:51:51](https://lobste.rs/s/64s29h/call_for_participation) - [Call for participation](https://emacsconf.org/2026/cfp/)
 * [2026-06-28, 04:57:23](https://lobste.rs/s/qr1zhy/building_open_source_robot_vacuum_meet) - [Building an Open-Source Robot Vacuum — Meet oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
 * [2026-06-28, 03:12:48](https://lobste.rs/s/xsig5e/working_around_dragons_with_lemote) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
-* [2026-06-28, 02:51:15](https://lobste.rs/s/bh6usk/dependently_typed_clojure_dsl_with_lean4) - [Dependently typed Clojure DSL with a Lean4 compatible kernel](https://github.com/replikativ/ansatz)
 * [2026-06-27, 22:42:05](https://lobste.rs/s/xz51yj/it_s_dead_jim_uefi_ca_expiry) - [It's dead, Jim! (UEFI CA expiry)](https://blog.einval.com/2026/06/27#its_dead_jim)
 * [2026-06-27, 22:21:56](https://lobste.rs/s/klkabn/old_computer_challenge) - [The Old Computer Challenge](http://occ.sdf.org/)
 * [2026-06-27, 21:07:28](https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should) - [The feature in OxCaml that more languages should steal](https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html)
@@ -22,7 +23,6 @@
 * [2026-06-27, 09:02:59](https://lobste.rs/s/zxt3em/openzl) - [OpenZL](https://openzl.org/)
 * [2026-06-27, 07:54:36](https://lobste.rs/s/klhhzq/fifa_interactive_bracket_world_cup) - [FIFA Interactive Bracket (World Cup)](https://worldcup.reeseric.ci)
 * [2026-06-27, 03:56:22](https://lobste.rs/s/u1clgf/text_files_as_user_interface) - [Text files as a user interface](https://ratfactor.com/cards/text-files-as-ui)
-* [2026-06-27, 00:27:42](https://lobste.rs/s/hvd5hk/what_does_it_mean_be_mathematician_when_ai) - [What does it mean to be a mathematician when AI does the math?](https://spectrum.ieee.org/ai-in-mathematics)
 * [2026-06-27, 00:08:45](https://lobste.rs/s/s138jl/nlnet_labs_llm_policy) - [NLNet Labs LLM Policy](https://nlnetlabs.nl/llm-policy/)
 * [2026-06-26, 14:58:54](https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 
