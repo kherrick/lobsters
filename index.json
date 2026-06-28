@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-28, 16:32:44",
+      "https://lobste.rs/s/ndgjv8/huff12_12_stream_huffman_decoder_for"
+    ],
+    [
+      "huff12 - a 12-stream Huffman decoder for Apple Silicon",
+      "https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 16:08:07",
+      "https://lobste.rs/s/g8diwe/lazy_loading_dynamic_libraries_plugin"
+    ],
+    [
+      "Lazy Loading Dynamic Libraries and the Plugin-Architecture on iOS",
+      "https://medium.com/@cjckytxz/lazy-loading-dynamic-libraries-and-building-plugin-architectures-on-ios-challenge-accepted-a554fccdb84c"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 15:45:12",
       "https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing"
     ],
@@ -67,6 +87,16 @@
     [
       "MAX models can now run on Apple silicon GPUs",
       "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 09:15:23",
+      "https://lobste.rs/s/1mgjz9/auditable_commercial_license_acl_v1_0"
+    ],
+    [
+      "Auditable Commercial License (ACL) v1.0",
+      "https://www.auditablelicense.org"
     ]
   ],
   [
@@ -197,36 +227,6 @@
     [
       "Excessive nil pointer checks in Go",
       "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 12:40:25",
-      "https://lobste.rs/s/oaq69a/shard_your_locks_benchmarking_6_go_cache"
-    ],
-    [
-      "Shard your locks: benchmarking 6 Go cache designs",
-      "https://strebkov.dev/posts/shard-your-locks/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 09:17:42",
-      "https://lobste.rs/s/n2r6r6/how_think_about_ai_cory_doctorow_on_big"
-    ],
-    [
-      "\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
-      "https://www.youtube.com/watch?v=OBUzl_IaWIw"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 09:02:59",
-      "https://lobste.rs/s/zxt3em/openzl"
-    ],
-    [
-      "OpenZL",
-      "https://openzl.org/"
     ]
   ],
   [
