@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 15:45:12](https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing) - [A Typed, Algebraic Approach to Parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 * [2026-06-28, 15:03:59](https://lobste.rs/s/igaqk9/installing_serenityos_on_my_old_thinkpad) - [Installing SerenityOS on My Old ThinkPad T60](https://btxx.org/posts/serenity-t60/)
 * [2026-06-28, 14:58:01](https://lobste.rs/s/tinc3e/we_have_mythos_at_home_glm_5_2_beats_claude) - [We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks)
 * [2026-06-28, 14:50:20](https://lobste.rs/s/vgqcgi/towards_understandable_software) - [Towards Understandable Software](https://gracefulliberty.com/articles/towards-understandable-software/)
