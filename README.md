@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-28, 05:51:51](https://lobste.rs/s/64s29h/call_for_participation) - [Call for participation](https://emacsconf.org/2026/cfp/)
+* [2026-06-28, 04:57:23](https://lobste.rs/s/qr1zhy/building_open_source_robot_vacuum_meet) - [Building an Open-Source Robot Vacuum — Meet oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
 * [2026-06-28, 03:12:48](https://lobste.rs/s/xsig5e/working_around_dragons_with_lemote) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 02:51:15](https://lobste.rs/s/bh6usk/dependently_typed_clojure_dsl_with_lean4) - [Dependently typed Clojure DSL with a Lean4 compatible kernel](https://github.com/replikativ/ansatz)
 * [2026-06-27, 22:42:05](https://lobste.rs/s/xz51yj/it_s_dead_jim_uefi_ca_expiry) - [It's dead, Jim! (UEFI CA expiry)](https://blog.einval.com/2026/06/27#its_dead_jim)
@@ -10,7 +12,6 @@
 * [2026-06-27, 18:03:29](https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design) - [AI Learns the \"Dark Art\" of RF Chip Design](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-27, 17:09:07](https://lobste.rs/s/q7e7hp/c_linux_kernel) - [C in the Linux Kernel](https://www.youtube.com/watch?v=iqqf8YWJhSs)
 * [2026-06-27, 16:19:10](https://lobste.rs/s/b2emi7/guards_guards) - [Guards! Guards](https://hauleth.dev/post/guards-guards/)
-* [2026-06-27, 15:16:10](https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at) - [Comparing Transformers and Hybrid Models at the Token Level](https://arxiv.org/pdf/2606.20936)
 * [2026-06-27, 15:10:14](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals) - [A peek into Reddit's anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
 * [2026-06-27, 14:29:27](https://lobste.rs/s/ciwbiq/linux_7_2_improves_anonymous_unnamed_pipe) - [Linux 7.2 Improves Anonymous/Unnamed Pipe Performance For Shell Pipelines & More](https://www.phoronix.com/news/Linux-72-Faster-Anon-Pipe-Write)
 * [2026-06-27, 14:18:23](https://lobste.rs/s/xmsj3r/data_access_patterns_makes_your_cpu) - [Data Access Patterns That Makes Your CPU Really Angry](https://blog.weineng.me/posts/slowest_add/)
@@ -23,7 +24,6 @@
 * [2026-06-27, 00:27:42](https://lobste.rs/s/hvd5hk/what_does_it_mean_be_mathematician_when_ai) - [What does it mean to be a mathematician when AI does the math?](https://spectrum.ieee.org/ai-in-mathematics)
 * [2026-06-27, 00:08:45](https://lobste.rs/s/s138jl/nlnet_labs_llm_policy) - [NLNet Labs LLM Policy](https://nlnetlabs.nl/llm-policy/)
 * [2026-06-26, 22:38:19](https://lobste.rs/s/xpdod3/visual_basic_on_pc_w_windows_3_1) - [Visual Basic on the PC w/Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/)
-* [2026-06-26, 18:36:13](https://lobste.rs/s/jespwh/aria_anti_patterns_you) - [ARIA, anti-patterns, and you](https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/)
 * [2026-06-26, 14:58:54](https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 
 ## [Archives](archives/index.md)
