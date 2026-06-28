@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-28, 18:11:39](https://lobste.rs/s/yscudc/examining_circuit_boards_from_space) - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
 * [2026-06-28, 17:06:40](https://lobste.rs/s/wpdbys/attention_ai_slop_porters) - [Attention AI Slop Porters](https://www.reddit.com/r/plan9/comments/1uhiwf9/attention_ai_slop_porters/)
 * [2026-06-28, 16:41:59](https://lobste.rs/s/pi7rvi/curious_case_aa_ns_charter_com) - [The Curious Case of aa.ns.charter.com](https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/)
 * [2026-06-28, 16:32:44](https://lobste.rs/s/ndgjv8/huff12_12_stream_huffman_decoder_for) - [huff12 - a 12-stream Huffman decoder for Apple Silicon](https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b)
@@ -24,7 +25,6 @@
 * [2026-06-27, 14:29:27](https://lobste.rs/s/ciwbiq/linux_7_2_improves_anonymous_unnamed_pipe) - [Linux 7.2 Improves Anonymous/Unnamed Pipe Performance For Shell Pipelines & More](https://www.phoronix.com/news/Linux-72-Faster-Anon-Pipe-Write)
 * [2026-06-27, 14:18:23](https://lobste.rs/s/xmsj3r/data_access_patterns_makes_your_cpu) - [Data Access Patterns That Makes Your CPU Really Angry](https://blog.weineng.me/posts/slowest_add/)
 * [2026-06-27, 12:53:26](https://lobste.rs/s/z7eoo7/excessive_nil_pointer_checks_go) - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/)
-* [2026-06-27, 00:08:45](https://lobste.rs/s/s138jl/nlnet_labs_llm_policy) - [NLNet Labs LLM Policy](https://nlnetlabs.nl/llm-policy/)
 
 ## [Archives](archives/index.md)
 
