@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 18:53:45](https://lobste.rs/s/oi9vkz/hash_proves_bytes_not_source) - [A hash proves the bytes, not the source](https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/)
 * [2026-06-28, 18:11:39](https://lobste.rs/s/yscudc/examining_circuit_boards_from_space) - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
 * [2026-06-28, 17:06:40](https://lobste.rs/s/wpdbys/attention_ai_slop_porters) - [Attention AI Slop Porters](https://www.reddit.com/r/plan9/comments/1uhiwf9/attention_ai_slop_porters/)
 * [2026-06-28, 16:41:59](https://lobste.rs/s/pi7rvi/curious_case_aa_ns_charter_com) - [The Curious Case of aa.ns.charter.com](https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/)
