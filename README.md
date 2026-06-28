@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-06-28, 21:23:16](https://lobste.rs/s/aydzvs/build_system_improvements_centralized) - [Build System Improvements, Centralized Overview, etc](https://gist.github.com/rcalixte/0afb119cbcc130c21063839f65b53ab7)
+* [2026-06-28, 20:38:18](https://lobste.rs/s/rzujud/unfathomable_bugs_10_broken_windows) - [Unfathomable bugs #10: The Broken Windows Build](https://algassert.com/post/2603)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2026-06-28, 19:31:51](https://lobste.rs/s/wyl1ke/modeling_covid_19_outbreak_with_j) - [Modeling the COVID-19 Outbreak with J](https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j)
-* [2026-06-28, 18:53:45](https://lobste.rs/s/oi9vkz/hash_proves_bytes_not_source) - [A hash proves the bytes, not the source](https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/)
 * [2026-06-28, 18:11:39](https://lobste.rs/s/yscudc/examining_circuit_boards_from_space) - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
 * [2026-06-28, 16:41:59](https://lobste.rs/s/pi7rvi/curious_case_aa_ns_charter_com) - [The Curious Case of aa.ns.charter.com](https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/)
 * [2026-06-28, 15:45:12](https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing_2019) - [A Typed, Algebraic Approach to Parsing (2019)](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
