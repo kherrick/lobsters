@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-28, 15:03:59",
+      "https://lobste.rs/s/igaqk9/installing_serenityos_on_my_old_thinkpad"
+    ],
+    [
+      "Installing SerenityOS on My Old ThinkPad T60",
+      "https://btxx.org/posts/serenity-t60/"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 14:58:01",
+      "https://lobste.rs/s/tinc3e/we_have_mythos_at_home_glm_5_2_beats_claude"
+    ],
+    [
+      "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
+      "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 14:50:20",
+      "https://lobste.rs/s/vgqcgi/towards_understandable_software"
+    ],
+    [
+      "Towards Understandable Software",
+      "https://gracefulliberty.com/articles/towards-understandable-software/"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 13:18:41",
       "https://lobste.rs/s/mq245g/regular_expressions_work_everywhere"
     ],
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2026-06-27, 18:03:29",
-      "https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design"
-    ],
-    [
-      "AI Learns the \"Dark Art\" of RF Chip Design",
-      "https://spectrum.ieee.org/ai-radio-chip-design"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 17:09:07",
-      "https://lobste.rs/s/q7e7hp/c_linux_kernel"
-    ],
-    [
-      "C in the Linux Kernel",
-      "https://www.youtube.com/watch?v=iqqf8YWJhSs"
-    ]
-  ],
-  [
-    [
       "2026-06-27, 16:19:10",
       "https://lobste.rs/s/b2emi7/guards_guards"
     ],
@@ -227,16 +237,6 @@
     [
       "FIFA Interactive Bracket (World Cup)",
       "https://worldcup.reeseric.ci"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 03:56:22",
-      "https://lobste.rs/s/u1clgf/text_files_as_user_interface"
-    ],
-    [
-      "Text files as a user interface",
-      "https://ratfactor.com/cards/text-files-as-ui"
     ]
   ],
   [
