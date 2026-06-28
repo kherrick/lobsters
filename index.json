@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2026-06-28, 02:51:15",
+      "https://lobste.rs/s/bh6usk/dependently_typed_clojure_dsl_with_lean4"
+    ],
+    [
+      "Dependently typed Clojure DSL with a Lean4 compatible kernel",
+      "https://github.com/replikativ/ansatz"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 22:42:05",
       "https://lobste.rs/s/xz51yj/it_s_dead_jim_uefi_ca_expiry"
     ],
@@ -237,16 +247,6 @@
     [
       "NLNet Labs LLM Policy",
       "https://nlnetlabs.nl/llm-policy/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 14:58:54",
-      "https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack"
-    ],
-    [
-      "Anatomy of a Failed (Nation-State?) Attack",
-      "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/"
     ]
   ]
 ]
