@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents) - [A Core Calculus for Documents](https://dl.acm.org/doi/pdf/10.1145/3632865)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
+* [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2026-06-28, 18:53:45](https://lobste.rs/s/oi9vkz/hash_proves_bytes_not_source) - [A hash proves the bytes, not the source](https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/)
 * [2026-06-28, 18:11:39](https://lobste.rs/s/yscudc/examining_circuit_boards_from_space) - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
 * [2026-06-28, 17:06:40](https://lobste.rs/s/wpdbys/attention_ai_slop_porters) - [Attention AI Slop Porters](https://www.reddit.com/r/plan9/comments/1uhiwf9/attention_ai_slop_porters/)
 * [2026-06-28, 16:41:59](https://lobste.rs/s/pi7rvi/curious_case_aa_ns_charter_com) - [The Curious Case of aa.ns.charter.com](https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/)
 * [2026-06-28, 16:32:44](https://lobste.rs/s/ndgjv8/huff12_12_stream_huffman_decoder_for) - [huff12 - a 12-stream Huffman decoder for Apple Silicon](https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b)
 * [2026-06-28, 16:08:07](https://lobste.rs/s/g8diwe/lazy_loading_dynamic_libraries_plugin) - [Lazy Loading Dynamic Libraries and the Plugin-Architecture on iOS](https://medium.com/@cjckytxz/lazy-loading-dynamic-libraries-and-building-plugin-architectures-on-ios-challenge-accepted-a554fccdb84c)
+* [2026-06-28, 15:45:12](https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing_2019) - [A Typed, Algebraic Approach to Parsing (2019)](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 * [2026-06-28, 15:45:12](https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing) - [A Typed, Algebraic Approach to Parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 * [2026-06-28, 15:03:59](https://lobste.rs/s/igaqk9/installing_serenityos_on_my_old_thinkpad) - [Installing SerenityOS on My Old ThinkPad T60](https://btxx.org/posts/serenity-t60/)
 * [2026-06-28, 14:58:01](https://lobste.rs/s/tinc3e/we_have_mythos_at_home_glm_5_2_beats_claude) - [We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks)
