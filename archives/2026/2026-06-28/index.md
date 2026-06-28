@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 17:06:40](https://lobste.rs/s/wpdbys/attention_ai_slop_porters) - [Attention AI Slop Porters](https://www.reddit.com/r/plan9/comments/1uhiwf9/attention_ai_slop_porters/)
 * [2026-06-28, 16:41:59](https://lobste.rs/s/pi7rvi/curious_case_aa_ns_charter_com) - [The Curious Case of aa.ns.charter.com](https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/)
 * [2026-06-28, 16:32:44](https://lobste.rs/s/ndgjv8/huff12_12_stream_huffman_decoder_for) - [huff12 - a 12-stream Huffman decoder for Apple Silicon](https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b)
 * [2026-06-28, 16:08:07](https://lobste.rs/s/g8diwe/lazy_loading_dynamic_libraries_plugin) - [Lazy Loading Dynamic Libraries and the Plugin-Architecture on iOS](https://medium.com/@cjckytxz/lazy-loading-dynamic-libraries-and-building-plugin-architectures-on-ios-challenge-accepted-a554fccdb84c)
