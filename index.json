@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-28, 18:11:39",
+      "https://lobste.rs/s/yscudc/examining_circuit_boards_from_space"
+    ],
+    [
+      "Examining circuit boards from the Space Shuttle's I/O Processor",
+      "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 17:06:40",
       "https://lobste.rs/s/wpdbys/attention_ai_slop_porters"
     ],
@@ -237,16 +247,6 @@
     [
       "Excessive nil pointer checks in Go",
       "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 00:08:45",
-      "https://lobste.rs/s/s138jl/nlnet_labs_llm_policy"
-    ],
-    [
-      "NLNet Labs LLM Policy",
-      "https://nlnetlabs.nl/llm-policy/"
     ]
   ]
 ]
