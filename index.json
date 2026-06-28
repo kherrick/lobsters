@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-27, 23:37:35",
-      "https://lobste.rs/s/lpcuqx/there_are_no_instances_atproto"
-    ],
-    [
-      "There Are No Instances in atproto",
-      "https://overreacted.io/there-are-no-instances-in-atproto/?ref=selfh.st"
-    ]
-  ],
-  [
-    [
       "2026-06-27, 22:42:05",
       "https://lobste.rs/s/xz51yj/it_s_dead_jim_uefi_ca_expiry"
     ],
@@ -237,6 +227,16 @@
     [
       "ARIA, anti-patterns, and you",
       "https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 18:27:04",
+      "https://lobste.rs/s/atsrpy/making_devenv_start_fast_whole_nixpkgs"
+    ],
+    [
+      "Making devenv start fast, and the whole nixpkgs with it - devenv",
+      "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/"
     ]
   ],
   [
