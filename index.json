@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-28, 09:21:19",
+      "https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon"
+    ],
+    [
+      "MAX models can now run on Apple silicon GPUs",
+      "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 09:15:23",
+      "https://lobste.rs/s/1mgjz9/auditable_commercial_license_acl_v1_0"
+    ],
+    [
+      "Auditable Commercial License (ACL) v1.0",
+      "https://www.auditablelicense.org"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 07:56:46",
       "https://lobste.rs/s/cychnm/nourish_wayland_compositor_with"
     ],
@@ -37,16 +57,6 @@
     [
       "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
       "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 02:51:15",
-      "https://lobste.rs/s/bh6usk/dependently_typed_clojure_dsl_with_lean4"
-    ],
-    [
-      "Dependently typed Clojure DSL with a Lean4 compatible kernel",
-      "https://github.com/replikativ/ansatz"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Text files as a user interface",
       "https://ratfactor.com/cards/text-files-as-ui"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 00:27:42",
-      "https://lobste.rs/s/hvd5hk/what_does_it_mean_be_mathematician_when_ai"
-    ],
-    [
-      "What does it mean to be a mathematician when AI does the math?",
-      "https://spectrum.ieee.org/ai-in-mathematics"
     ]
   ],
   [
