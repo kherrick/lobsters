@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 16:32:44](https://lobste.rs/s/ndgjv8/huff12_12_stream_huffman_decoder_for) - [huff12 - a 12-stream Huffman decoder for Apple Silicon](https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b)
+* [2026-06-28, 16:08:07](https://lobste.rs/s/g8diwe/lazy_loading_dynamic_libraries_plugin) - [Lazy Loading Dynamic Libraries and the Plugin-Architecture on iOS](https://medium.com/@cjckytxz/lazy-loading-dynamic-libraries-and-building-plugin-architectures-on-ios-challenge-accepted-a554fccdb84c)
 * [2026-06-28, 15:45:12](https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing) - [A Typed, Algebraic Approach to Parsing](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 * [2026-06-28, 15:03:59](https://lobste.rs/s/igaqk9/installing_serenityos_on_my_old_thinkpad) - [Installing SerenityOS on My Old ThinkPad T60](https://btxx.org/posts/serenity-t60/)
 * [2026-06-28, 14:58:01](https://lobste.rs/s/tinc3e/we_have_mythos_at_home_glm_5_2_beats_claude) - [We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks)
