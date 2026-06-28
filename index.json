@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-28, 03:12:48",
+      "https://lobste.rs/s/xsig5e/working_around_dragons_with_lemote"
+    ],
+    [
+      "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 02:51:15",
+      "https://lobste.rs/s/bh6usk/dependently_typed_clojure_dsl_with_lean4"
+    ],
+    [
+      "Dependently typed Clojure DSL with a Lean4 compatible kernel",
+      "https://github.com/replikativ/ansatz"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 22:42:05",
       "https://lobste.rs/s/xz51yj/it_s_dead_jim_uefi_ca_expiry"
     ],
@@ -27,16 +47,6 @@
     [
       "The feature in OxCaml that more languages should steal",
       "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 21:06:32",
-      "https://lobste.rs/s/9mtucy/pomerium_pomerium_is_identity_context"
-    ],
-    [
-      "pomerium: Pomerium is an identity and context-aware access proxy",
-      "https://github.com/pomerium/pomerium"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "ARIA, anti-patterns, and you",
       "https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 18:27:04",
-      "https://lobste.rs/s/atsrpy/making_devenv_start_fast_whole_nixpkgs"
-    ],
-    [
-      "Making devenv start fast, and the whole nixpkgs with it - devenv",
-      "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/"
     ]
   ],
   [
