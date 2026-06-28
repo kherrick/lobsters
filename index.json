@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-28, 20:12:03",
+      "https://lobste.rs/s/bbr7q9/core_calculus_for_documents"
+    ],
+    [
+      "A Core Calculus for Documents",
+      "https://dl.acm.org/doi/pdf/10.1145/3632865"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 19:48:34",
       "https://lobste.rs/s/tw0v1d/double_threat_private_communications"
     ],
     [
       "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu",
       "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 19:43:55",
+      "https://lobste.rs/s/osjghb/hypercard_on_macintosh"
+    ],
+    [
+      "HyperCard on the Macintosh",
+      "https://stonetools.ghost.io/hypercard-mac/"
     ]
   ],
   [
@@ -51,31 +71,11 @@
   ],
   [
     [
-      "2026-06-28, 16:32:44",
-      "https://lobste.rs/s/ndgjv8/huff12_12_stream_huffman_decoder_for"
-    ],
-    [
-      "huff12 - a 12-stream Huffman decoder for Apple Silicon",
-      "https://gist.github.com/dougallj/a14d3f72b57ee58a81d487b43ff2a05b"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 16:08:07",
-      "https://lobste.rs/s/g8diwe/lazy_loading_dynamic_libraries_plugin"
-    ],
-    [
-      "Lazy Loading Dynamic Libraries and the Plugin-Architecture on iOS",
-      "https://medium.com/@cjckytxz/lazy-loading-dynamic-libraries-and-building-plugin-architectures-on-ios-challenge-accepted-a554fccdb84c"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 15:45:12",
-      "https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing"
+      "https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing_2019"
     ],
     [
-      "A Typed, Algebraic Approach to Parsing",
+      "A Typed, Algebraic Approach to Parsing (2019)",
       "https://www.cl.cam.ac.uk/~nk480/parsing.pdf"
     ]
   ],
