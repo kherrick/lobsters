@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-29, 18:04:35",
+      "https://lobste.rs/s/glklp0/solod_v0_2_networking_new_targets"
+    ],
+    [
+      "Solod v0.2: Networking, new targets, friendlier interop",
+      "https://antonz.org/solod-v0-2/"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 17:01:58",
       "https://lobste.rs/s/eihlve/ipv6_frag_escape_linux_lpe_reliable_jail"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2026-06-29, 14:15:12",
+      "https://lobste.rs/s/ugm5fn/you_don_t_know_jack_about_formal"
+    ],
+    [
+      "You Don’t Know Jack About Formal Verification",
+      "https://queue.acm.org/detail.cfm?id=3819084"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 14:08:54",
       "https://lobste.rs/s/uofjjs/loko_scheme_0_13_0"
     ],
@@ -97,16 +117,6 @@
     [
       "When Impressive Performance Gains Do Not Matter",
       "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 13:13:29",
-      "https://lobste.rs/s/sxzzzn/scanline_sweeper_glyph_rendering"
-    ],
-    [
-      "The Scanline Sweeper: A Glyph Rendering Algorithm",
-      "https://youtu.be/B9bztU1sTFA"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "HyperCard on the Macintosh",
       "https://stonetools.ghost.io/hypercard-mac/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 15:45:12",
-      "https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing_2019"
-    ],
-    [
-      "A Typed, Algebraic Approach to Parsing (2019)",
-      "https://www.cl.cam.ac.uk/~nk480/parsing.pdf"
     ]
   ],
   [
