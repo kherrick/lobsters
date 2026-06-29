@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 10:04:32](https://lobste.rs/s/ypba4x/integrity_on_embedded_linux_devices) - [Integrity on Embedded Linux Devices under the Cyber Resilience Act](https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/)
+* [2026-06-29, 07:57:12](https://lobste.rs/s/dfbps9/gleam_gathering_2026_lighting_talks) - [Gleam Gathering 2026 Lighting Talks](https://www.youtube.com/watch?v=rh2ePzHIQmU)
+* [2026-06-29, 07:55:57](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week)
 * [2026-06-29, 07:24:49](https://lobste.rs/s/dkky2i/canvas_patch_we_need_testers) - [Canvas patch: we need testers](https://monadicsheep.org/blog/call-for-canvas-patch-testers.html)
 * [2026-06-29, 05:55:51](https://lobste.rs/s/742jls/code_review_bjonas_schemeinterpreter_j) - [code review - BJonas' SchemeInterpreter in J](http://tangentstorm.github.io/apljk/bjonas-scheme.ijs.html)
 * [2026-06-29, 05:52:18](https://lobste.rs/s/18vmgc/torq_kdb_production_framework) - [TorQ: kdb+ production framework](https://github.com/DataIntellectTech/TorQ)
