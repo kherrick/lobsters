@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-28, 22:59:51](https://lobste.rs/s/xjyxll/top500_at_isc_26_we_have_new_number_1) - [TOP500 at ISC’26: We have a New Number 1](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
 * [2026-06-28, 21:23:16](https://lobste.rs/s/aydzvs/build_system_improvements_centralized) - [Build System Improvements, Centralized Overview, etc](https://gist.github.com/rcalixte/0afb119cbcc130c21063839f65b53ab7)
 * [2026-06-28, 20:38:18](https://lobste.rs/s/rzujud/unfathomable_bugs_10_broken_windows) - [Unfathomable bugs #10: The Broken Windows Build](https://algassert.com/post/2603)
 * [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents) - [A Core Calculus for Documents](https://dl.acm.org/doi/pdf/10.1145/3632865)
@@ -19,7 +20,6 @@
 * [2026-06-28, 04:57:23](https://lobste.rs/s/qr1zhy/building_open_source_robot_vacuum_meet) - [Building an Open-Source Robot Vacuum — Meet oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
 * [2026-06-28, 03:12:48](https://lobste.rs/s/xsig5e/working_around_dragons_with_lemote) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-27, 22:42:05](https://lobste.rs/s/xz51yj/it_s_dead_jim_uefi_ca_expiry) - [It's dead, Jim! (UEFI CA expiry)](https://blog.einval.com/2026/06/27#its_dead_jim)
-* [2026-06-27, 22:21:56](https://lobste.rs/s/klkabn/old_computer_challenge) - [The Old Computer Challenge](http://occ.sdf.org/)
 * [2026-06-27, 21:07:28](https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should) - [The feature in OxCaml that more languages should steal](https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html)
 * [2026-06-27, 19:39:10](https://lobste.rs/s/bgnc5q/prism_impure_functional_language_with) - [Prism: An Impure Functional Language With Typed Effects](https://www.stephendiehl.com/posts/prism/)
 * [2026-06-27, 16:19:10](https://lobste.rs/s/b2emi7/guards_guards) - [Guards! Guards](https://hauleth.dev/post/guards-guards/)
