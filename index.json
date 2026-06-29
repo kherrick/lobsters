@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-29, 15:00:17",
+      "https://lobste.rs/s/uaoe9y/longinus_2_boundaries_one_bug_piercing"
+    ],
+    [
+      "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307",
+      "https://nebusec.ai/research/v8-cve-2026-6307-writeup/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 14:47:07",
+      "https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query"
+    ],
+    [
+      "Evaluation order and nontermination in query languages",
+      "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 14:08:54",
       "https://lobste.rs/s/uofjjs/loko_scheme_0_13_0"
     ],
     [
       "Loko Scheme 0.13.0",
       "https://weinholt.se/articles/loko-scheme-0-13-0/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 14:06:44",
+      "https://lobste.rs/s/xfftl1/pystd_standard_library_similar_ish"
+    ],
+    [
+      "Pystd standard library, similar-ish functionality with a fraction of the compile time",
+      "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Autocrypt v2 - Post-Quantum and Reliable Deletion",
       "https://autocrypt2.org"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 07:57:12",
-      "https://lobste.rs/s/dfbps9/gleam_gathering_2026_lighting_talks"
-    ],
-    [
-      "Gleam Gathering 2026 Lighting Talks",
-      "https://www.youtube.com/watch?v=rh2ePzHIQmU"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-06-28, 14:58:01",
-      "https://lobste.rs/s/tinc3e/we_have_mythos_at_home_glm_5_2_beats_claude"
-    ],
-    [
-      "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
-      "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 14:50:20",
       "https://lobste.rs/s/vgqcgi/towards_understandable_software"
     ],
@@ -237,16 +247,6 @@
     [
       "How VictoriaLogs Stores Your Logs in a Columnar Layout",
       "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 15:10:14",
-      "https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals"
-    ],
-    [
-      "A peek into Reddit's anti-spam internals",
-      "https://lyra.horse/blog/2026/06/reddit-spam-internals/"
     ]
   ]
 ]
