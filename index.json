@@ -51,6 +51,26 @@
   ],
   [
     [
+      "2026-06-28, 19:43:34",
+      "https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019"
+    ],
+    [
+      "Convolutional Neural Networks in APL (2019)",
+      "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 19:36:24",
+      "https://lobste.rs/s/al5bqb/introducing_test"
+    ],
+    [
+      "Introducing Test That",
+      "https://hovinen.me/announcements/2026/06/24/introducing-test-that.html"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 19:31:51",
       "https://lobste.rs/s/wyl1ke/modeling_covid_19_outbreak_with_j"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-06-28, 07:56:46",
-      "https://lobste.rs/s/cychnm/nourish_wayland_compositor_with"
-    ],
-    [
-      "Nourish - a wayland compositor with infinite zoom and pan",
-      "https://github.com/y5-snowies/nourish"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 04:57:23",
       "https://lobste.rs/s/qr1zhy/building_open_source_robot_vacuum_meet"
     ],
@@ -237,16 +247,6 @@
     [
       "Data Access Patterns That Makes Your CPU Really Angry",
       "https://blog.weineng.me/posts/slowest_add/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 12:53:26",
-      "https://lobste.rs/s/z7eoo7/excessive_nil_pointer_checks_go"
-    ],
-    [
-      "Excessive nil pointer checks in Go",
-      "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
     ]
   ]
 ]
