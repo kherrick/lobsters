@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-29, 20:34:46](https://lobste.rs/s/7fjqgc/at_uri_syntax_mess) - [The AT-URI Syntax Mess](https://bnewbold.leaflet.pub/3mph4hzvbdc2v)
 * [2026-06-29, 18:05:24](https://lobste.rs/s/hh5yyq/unprivileged_root_via_use_after_free_drm) - [Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)](https://cyberstan.co.uk/drm-lpe-linux/)
 * [2026-06-29, 18:04:35](https://lobste.rs/s/glklp0/solod_v0_2_networking_new_targets) - [Solod v0.2: Networking, new targets, friendlier interop](https://antonz.org/solod-v0-2/)
 * [2026-06-29, 17:01:58](https://lobste.rs/s/eihlve/ipv6_frag_escape_linux_lpe_reliable_jail) - [ipv6_frag_escape: Linux LPE - Reliable Jail/Container Escape](https://github.com/sgkdev/ipv6_frag_escape)
@@ -20,7 +21,6 @@
 * [2026-06-29, 04:25:00](https://lobste.rs/s/ltc5ca/optimizing_llvm_s_bump_allocator) - [Optimizing LLVM's bump allocator](https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator)
 * [2026-06-29, 03:08:05](https://lobste.rs/s/xgu1dh/you_might_not_need_service_worker) - [You might not need… a service worker](https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/)
 * [2026-06-29, 01:37:32](https://lobste.rs/s/vv4fhi/ante_new_way_blend_borrow_checking) - [Ante: New Way to Blend Borrow Checking and Reference Counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
-* [2026-06-28, 22:59:51](https://lobste.rs/s/xjyxll/top500_at_isc_26_we_have_new_number_1) - [TOP500 at ISC’26: We have a New Number 1](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
 * [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents_2024) - [A Core Calculus for Documents (2024)](https://dl.acm.org/doi/pdf/10.1145/3632865)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
