@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-06-29, 20:34:46](https://lobste.rs/s/7fjqgc/at_uri_syntax_mess) - [The AT-URI Syntax Mess](https://bnewbold.leaflet.pub/3mph4hzvbdc2v)
 * [2026-06-29, 18:05:24](https://lobste.rs/s/hh5yyq/unprivileged_root_via_use_after_free_drm) - [Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)](https://cyberstan.co.uk/drm-lpe-linux/)
 * [2026-06-29, 18:04:35](https://lobste.rs/s/glklp0/solod_v0_2_networking_new_targets) - [Solod v0.2: Networking, new targets, friendlier interop](https://antonz.org/solod-v0-2/)
