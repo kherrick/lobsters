@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
 * [2026-06-28, 22:59:51](https://lobste.rs/s/xjyxll/top500_at_isc_26_we_have_new_number_1) - [TOP500 at ISC’26: We have a New Number 1](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
+* [2026-06-28, 22:51:50](https://lobste.rs/s/tfg1u3/tech_morality_is_hard) - [Tech Morality is Hard](https://forkingmad.blog/tech-morality-is-hard/)
 * [2026-06-28, 21:23:16](https://lobste.rs/s/aydzvs/build_system_improvements_centralized) - [Build System Improvements, Centralized Overview, etc](https://gist.github.com/rcalixte/0afb119cbcc130c21063839f65b53ab7)
 * [2026-06-28, 20:38:18](https://lobste.rs/s/rzujud/unfathomable_bugs_10_broken_windows) - [Unfathomable bugs #10: The Broken Windows Build](https://algassert.com/post/2603)
 * [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents) - [A Core Calculus for Documents](https://dl.acm.org/doi/pdf/10.1145/3632865)
