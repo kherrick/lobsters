@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-29, 16:37:43",
+      "https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust"
+    ],
+    [
+      "What is `std::pin::Pin` in Rust?",
+      "https://vrong.me/blog/what-is-pinning-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 16:13:23",
+      "https://lobste.rs/s/r1uxyo/type_checked_non_empty_strings"
+    ],
+    [
+      "Type-checked non-empty strings",
+      "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 15:07:10",
+      "https://lobste.rs/s/krqeoc/wataboy_jit_ing_game_boy_instructions"
+    ],
+    [
+      "WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter",
+      "https://humphri.es/blog/WATaBoy/"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 15:00:17",
       "https://lobste.rs/s/uaoe9y/longinus_2_boundaries_one_bug_piercing"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-06-28, 22:51:50",
-      "https://lobste.rs/s/tfg1u3/tech_morality_is_hard"
-    ],
-    [
-      "Tech Morality is Hard",
-      "https://forkingmad.blog/tech-morality-is-hard/"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 20:12:03",
       "https://lobste.rs/s/bbr7q9/core_calculus_for_documents_2024"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-06-28, 19:36:24",
-      "https://lobste.rs/s/al5bqb/introducing_test"
-    ],
-    [
-      "Introducing Test That",
-      "https://hovinen.me/announcements/2026/06/24/introducing-test-that.html"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 15:45:12",
       "https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing_2019"
     ],
@@ -227,16 +237,6 @@
     [
       "Towards Understandable Software",
       "https://gracefulliberty.com/articles/towards-understandable-software/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 13:18:41",
-      "https://lobste.rs/s/mq245g/regular_expressions_work_everywhere"
-    ],
-    [
-      "Regular expressions that work “everywhere”",
-      "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/"
     ]
   ],
   [
