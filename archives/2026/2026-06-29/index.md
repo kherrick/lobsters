@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
+* [2026-06-29, 16:13:23](https://lobste.rs/s/r1uxyo/type_checked_non_empty_strings) - [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
+* [2026-06-29, 15:07:10](https://lobste.rs/s/krqeoc/wataboy_jit_ing_game_boy_instructions) - [WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
 * [2026-06-29, 15:00:17](https://lobste.rs/s/uaoe9y/longinus_2_boundaries_one_bug_piercing) - [Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
 * [2026-06-29, 14:47:07](https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
 * [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)

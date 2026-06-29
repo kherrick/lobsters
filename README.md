@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
+* [2026-06-29, 16:13:23](https://lobste.rs/s/r1uxyo/type_checked_non_empty_strings) - [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
+* [2026-06-29, 15:07:10](https://lobste.rs/s/krqeoc/wataboy_jit_ing_game_boy_instructions) - [WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
 * [2026-06-29, 15:00:17](https://lobste.rs/s/uaoe9y/longinus_2_boundaries_one_bug_piercing) - [Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
 * [2026-06-29, 14:47:07](https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
 * [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
@@ -16,14 +19,11 @@
 * [2026-06-29, 03:08:05](https://lobste.rs/s/xgu1dh/you_might_not_need_service_worker) - [You might not need… a service worker](https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/)
 * [2026-06-29, 01:37:32](https://lobste.rs/s/vv4fhi/ante_new_way_blend_borrow_checking) - [Ante: New Way to Blend Borrow Checking and Reference Counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
 * [2026-06-28, 22:59:51](https://lobste.rs/s/xjyxll/top500_at_isc_26_we_have_new_number_1) - [TOP500 at ISC’26: We have a New Number 1](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
-* [2026-06-28, 22:51:50](https://lobste.rs/s/tfg1u3/tech_morality_is_hard) - [Tech Morality is Hard](https://forkingmad.blog/tech-morality-is-hard/)
 * [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents_2024) - [A Core Calculus for Documents (2024)](https://dl.acm.org/doi/pdf/10.1145/3632865)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
-* [2026-06-28, 19:36:24](https://lobste.rs/s/al5bqb/introducing_test) - [Introducing Test That](https://hovinen.me/announcements/2026/06/24/introducing-test-that.html)
 * [2026-06-28, 15:45:12](https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing_2019) - [A Typed, Algebraic Approach to Parsing (2019)](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
 * [2026-06-28, 14:50:20](https://lobste.rs/s/vgqcgi/towards_understandable_software) - [Towards Understandable Software](https://gracefulliberty.com/articles/towards-understandable-software/)
-* [2026-06-28, 13:18:41](https://lobste.rs/s/mq245g/regular_expressions_work_everywhere) - [Regular expressions that work “everywhere”](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/)
 * [2026-06-28, 12:23:53](https://lobste.rs/s/2m10ql/how_victorialogs_stores_your_logs) - [How VictoriaLogs Stores Your Logs in a Columnar Layout](https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/)
 
 ## [Archives](archives/index.md)
