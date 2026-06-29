@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 18:04:35](https://lobste.rs/s/glklp0/solod_v0_2_networking_new_targets) - [Solod v0.2: Networking, new targets, friendlier interop](https://antonz.org/solod-v0-2/)
 * [2026-06-29, 17:01:58](https://lobste.rs/s/eihlve/ipv6_frag_escape_linux_lpe_reliable_jail) - [ipv6_frag_escape: Linux LPE - Reliable Jail/Container Escape](https://github.com/sgkdev/ipv6_frag_escape)
 * [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
 * [2026-06-29, 16:13:23](https://lobste.rs/s/r1uxyo/type_checked_non_empty_strings) - [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
 * [2026-06-29, 15:07:10](https://lobste.rs/s/krqeoc/wataboy_jit_ing_game_boy_instructions) - [WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
 * [2026-06-29, 15:00:17](https://lobste.rs/s/uaoe9y/longinus_2_boundaries_one_bug_piercing) - [Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
 * [2026-06-29, 14:47:07](https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
+* [2026-06-29, 14:15:12](https://lobste.rs/s/ugm5fn/you_don_t_know_jack_about_formal) - [You Don’t Know Jack About Formal Verification](https://queue.acm.org/detail.cfm?id=3819084)
 * [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
 * [2026-06-29, 14:06:44](https://lobste.rs/s/xfftl1/pystd_standard_library_similar_ish) - [Pystd standard library, similar-ish functionality with a fraction of the compile time](https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html)
 * [2026-06-29, 13:57:28](https://lobste.rs/s/hj0exw/typst_designing_for_incrementality) - [Typst: Designing for Incrementality](https://youtu.be/yWWVhbyOWWE)
