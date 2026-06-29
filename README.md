@@ -1,12 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-29, 15:00:17](https://lobste.rs/s/uaoe9y/longinus_2_boundaries_one_bug_piercing) - [Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
+* [2026-06-29, 14:47:07](https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
 * [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
+* [2026-06-29, 14:06:44](https://lobste.rs/s/xfftl1/pystd_standard_library_similar_ish) - [Pystd standard library, similar-ish functionality with a fraction of the compile time](https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html)
 * [2026-06-29, 13:57:28](https://lobste.rs/s/hj0exw/typst_designing_for_incrementality) - [Typst: Designing for Incrementality](https://youtu.be/yWWVhbyOWWE)
 * [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
 * [2026-06-29, 13:13:29](https://lobste.rs/s/sxzzzn/scanline_sweeper_glyph_rendering) - [The Scanline Sweeper: A Glyph Rendering Algorithm](https://youtu.be/B9bztU1sTFA)
 * [2026-06-29, 12:46:42](https://lobste.rs/s/8qznzx/obfuscation_building_final_boss) - [Obfuscation: building the final boss of cryptography](https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html)
 * [2026-06-29, 10:22:25](https://lobste.rs/s/esy9xh/autocrypt_v2_post_quantum_reliable) - [Autocrypt v2 - Post-Quantum and Reliable Deletion](https://autocrypt2.org)
-* [2026-06-29, 07:57:12](https://lobste.rs/s/dfbps9/gleam_gathering_2026_lighting_talks) - [Gleam Gathering 2026 Lighting Talks](https://www.youtube.com/watch?v=rh2ePzHIQmU)
 * [2026-06-29, 07:55:57](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week)
 * [2026-06-29, 07:24:49](https://lobste.rs/s/dkky2i/canvas_patch_we_need_testers) - [Canvas patch: we need testers](https://monadicsheep.org/blog/call-for-canvas-patch-testers.html)
 * [2026-06-29, 04:26:28](https://lobste.rs/s/8xc7cl/kivo_lightweight_desktop_teleprompter) - [Kivo - A lightweight desktop teleprompter built with PySide6](https://github.com/rajtilakjee/kivo)
@@ -20,11 +22,9 @@
 * [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2026-06-28, 19:36:24](https://lobste.rs/s/al5bqb/introducing_test) - [Introducing Test That](https://hovinen.me/announcements/2026/06/24/introducing-test-that.html)
 * [2026-06-28, 15:45:12](https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing_2019) - [A Typed, Algebraic Approach to Parsing (2019)](https://www.cl.cam.ac.uk/~nk480/parsing.pdf)
-* [2026-06-28, 14:58:01](https://lobste.rs/s/tinc3e/we_have_mythos_at_home_glm_5_2_beats_claude) - [We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks)
 * [2026-06-28, 14:50:20](https://lobste.rs/s/vgqcgi/towards_understandable_software) - [Towards Understandable Software](https://gracefulliberty.com/articles/towards-understandable-software/)
 * [2026-06-28, 13:18:41](https://lobste.rs/s/mq245g/regular_expressions_work_everywhere) - [Regular expressions that work “everywhere”](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/)
 * [2026-06-28, 12:23:53](https://lobste.rs/s/2m10ql/how_victorialogs_stores_your_logs) - [How VictoriaLogs Stores Your Logs in a Columnar Layout](https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/)
-* [2026-06-27, 15:10:14](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals) - [A peek into Reddit's anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
 
 ## [Archives](archives/index.md)
 

@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 15:00:17](https://lobste.rs/s/uaoe9y/longinus_2_boundaries_one_bug_piercing) - [Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
+* [2026-06-29, 14:47:07](https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
 * [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
+* [2026-06-29, 14:06:44](https://lobste.rs/s/xfftl1/pystd_standard_library_similar_ish) - [Pystd standard library, similar-ish functionality with a fraction of the compile time](https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html)
 * [2026-06-29, 13:57:28](https://lobste.rs/s/hj0exw/typst_designing_for_incrementality) - [Typst: Designing for Incrementality](https://youtu.be/yWWVhbyOWWE)
 * [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
 * [2026-06-29, 13:13:29](https://lobste.rs/s/sxzzzn/scanline_sweeper_glyph_rendering) - [The Scanline Sweeper: A Glyph Rendering Algorithm](https://youtu.be/B9bztU1sTFA)
