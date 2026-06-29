@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 10:22:25](https://lobste.rs/s/esy9xh/autocrypt_v2_post_quantum_reliable) - [Autocrypt v2 - Post-Quantum and Reliable Deletion](https://autocrypt2.org)
 * [2026-06-29, 10:04:32](https://lobste.rs/s/ypba4x/integrity_on_embedded_linux_devices) - [Integrity on Embedded Linux Devices under the Cyber Resilience Act](https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/)
 * [2026-06-29, 07:57:12](https://lobste.rs/s/dfbps9/gleam_gathering_2026_lighting_talks) - [Gleam Gathering 2026 Lighting Talks](https://www.youtube.com/watch?v=rh2ePzHIQmU)
 * [2026-06-29, 07:55:57](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week)

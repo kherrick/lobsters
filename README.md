@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-29, 10:22:25](https://lobste.rs/s/esy9xh/autocrypt_v2_post_quantum_reliable) - [Autocrypt v2 - Post-Quantum and Reliable Deletion](https://autocrypt2.org)
 * [2026-06-29, 10:04:32](https://lobste.rs/s/ypba4x/integrity_on_embedded_linux_devices) - [Integrity on Embedded Linux Devices under the Cyber Resilience Act](https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/)
 * [2026-06-29, 07:57:12](https://lobste.rs/s/dfbps9/gleam_gathering_2026_lighting_talks) - [Gleam Gathering 2026 Lighting Talks](https://www.youtube.com/watch?v=rh2ePzHIQmU)
 * [2026-06-29, 07:55:57](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week)
@@ -10,7 +11,7 @@
 * [2026-06-29, 01:37:32](https://lobste.rs/s/vv4fhi/ante_new_way_blend_borrow_checking) - [Ante: New Way to Blend Borrow Checking and Reference Counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
 * [2026-06-28, 22:59:51](https://lobste.rs/s/xjyxll/top500_at_isc_26_we_have_new_number_1) - [TOP500 at ISC’26: We have a New Number 1](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
 * [2026-06-28, 22:51:50](https://lobste.rs/s/tfg1u3/tech_morality_is_hard) - [Tech Morality is Hard](https://forkingmad.blog/tech-morality-is-hard/)
-* [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents) - [A Core Calculus for Documents](https://dl.acm.org/doi/pdf/10.1145/3632865)
+* [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents_2024) - [A Core Calculus for Documents (2024)](https://dl.acm.org/doi/pdf/10.1145/3632865)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2026-06-28, 19:36:24](https://lobste.rs/s/al5bqb/introducing_test) - [Introducing Test That](https://hovinen.me/announcements/2026/06/24/introducing-test-that.html)
@@ -21,7 +22,6 @@
 * [2026-06-28, 14:50:20](https://lobste.rs/s/vgqcgi/towards_understandable_software) - [Towards Understandable Software](https://gracefulliberty.com/articles/towards-understandable-software/)
 * [2026-06-28, 13:18:41](https://lobste.rs/s/mq245g/regular_expressions_work_everywhere) - [Regular expressions that work “everywhere”](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/)
 * [2026-06-28, 12:23:53](https://lobste.rs/s/2m10ql/how_victorialogs_stores_your_logs) - [How VictoriaLogs Stores Your Logs in a Columnar Layout](https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/)
-* [2026-06-27, 21:07:28](https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should) - [The feature in OxCaml that more languages should steal](https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html)
 * [2026-06-27, 19:39:10](https://lobste.rs/s/bgnc5q/prism_impure_functional_language_with) - [Prism: An Impure Functional Language With Typed Effects](https://www.stephendiehl.com/posts/prism/)
 * [2026-06-27, 15:10:14](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals) - [A peek into Reddit's anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
 * [2026-06-27, 14:18:23](https://lobste.rs/s/xmsj3r/data_access_patterns_makes_your_cpu) - [Data Access Patterns That Makes Your CPU Really Angry](https://blog.weineng.me/posts/slowest_add/)
