@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
+* [2026-06-29, 13:57:28](https://lobste.rs/s/hj0exw/typst_designing_for_incrementality) - [Typst: Designing for Incrementality](https://youtu.be/yWWVhbyOWWE)
 * [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
 * [2026-06-29, 13:13:29](https://lobste.rs/s/sxzzzn/scanline_sweeper_glyph_rendering) - [The Scanline Sweeper: A Glyph Rendering Algorithm](https://youtu.be/B9bztU1sTFA)
+* [2026-06-29, 12:46:42](https://lobste.rs/s/8qznzx/obfuscation_building_final_boss) - [Obfuscation: building the final boss of cryptography](https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html)
 * [2026-06-29, 10:22:25](https://lobste.rs/s/esy9xh/autocrypt_v2_post_quantum_reliable) - [Autocrypt v2 - Post-Quantum and Reliable Deletion](https://autocrypt2.org)
 * [2026-06-29, 10:04:32](https://lobste.rs/s/ypba4x/integrity_on_embedded_linux_devices) - [Integrity on Embedded Linux Devices under the Cyber Resilience Act](https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/)
 * [2026-06-29, 07:57:12](https://lobste.rs/s/dfbps9/gleam_gathering_2026_lighting_talks) - [Gleam Gathering 2026 Lighting Talks](https://www.youtube.com/watch?v=rh2ePzHIQmU)
