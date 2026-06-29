@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-29, 10:04:32",
+      "https://lobste.rs/s/ypba4x/integrity_on_embedded_linux_devices"
+    ],
+    [
+      "Integrity on Embedded Linux Devices under the Cyber Resilience Act",
+      "https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 07:57:12",
+      "https://lobste.rs/s/dfbps9/gleam_gathering_2026_lighting_talks"
+    ],
+    [
+      "Gleam Gathering 2026 Lighting Talks",
+      "https://www.youtube.com/watch?v=rh2ePzHIQmU"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 07:55:57",
+      "https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 07:24:49",
       "https://lobste.rs/s/dkky2i/canvas_patch_we_need_testers"
     ],
@@ -67,16 +97,6 @@
     [
       "Tech Morality is Hard",
       "https://forkingmad.blog/tech-morality-is-hard/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 20:38:18",
-      "https://lobste.rs/s/rzujud/unfathomable_bugs_10_broken_windows"
-    ],
-    [
-      "Unfathomable bugs #10: The Broken Windows Build",
-      "https://algassert.com/post/2603"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "How VictoriaLogs Stores Your Logs in a Columnar Layout",
       "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 04:57:23",
-      "https://lobste.rs/s/qr1zhy/building_open_source_robot_vacuum_meet"
-    ],
-    [
-      "Building an Open-Source Robot Vacuum — Meet oomwoo",
-      "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 03:12:48",
-      "https://lobste.rs/s/xsig5e/working_around_dragons_with_lemote"
-    ],
-    [
-      "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html"
     ]
   ],
   [
