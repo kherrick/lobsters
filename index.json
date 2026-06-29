@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-28, 22:59:51",
-      "https://lobste.rs/s/xjyxll/top500_at_isc_26_we_have_new_number_1"
+      "2026-06-29, 01:37:32",
+      "https://lobste.rs/s/vv4fhi/ante_new_way_blend_borrow_checking"
     ],
     [
-      "TOP500 at ISC’26: We have a New Number 1",
-      "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number"
+      "Ante: New Way to Blend Borrow Checking and Reference Counting",
+      "https://verdagon.dev/blog/ante-blending-borrowing-rc"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 22:51:50",
+      "https://lobste.rs/s/tfg1u3/tech_morality_is_hard"
+    ],
+    [
+      "Tech Morality is Hard",
+      "https://forkingmad.blog/tech-morality-is-hard/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "HyperCard on the Macintosh",
       "https://stonetools.ghost.io/hypercard-mac/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 19:43:34",
-      "https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019"
-    ],
-    [
-      "Convolutional Neural Networks in APL (2019)",
-      "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960"
     ]
   ],
   [
