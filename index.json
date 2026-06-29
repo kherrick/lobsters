@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-29, 14:08:54",
+      "https://lobste.rs/s/uofjjs/loko_scheme_0_13_0"
+    ],
+    [
+      "Loko Scheme 0.13.0",
+      "https://weinholt.se/articles/loko-scheme-0-13-0/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 13:57:28",
+      "https://lobste.rs/s/hj0exw/typst_designing_for_incrementality"
+    ],
+    [
+      "Typst: Designing for Incrementality",
+      "https://youtu.be/yWWVhbyOWWE"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 13:15:52",
       "https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not"
     ],
@@ -21,22 +41,22 @@
   ],
   [
     [
+      "2026-06-29, 12:46:42",
+      "https://lobste.rs/s/8qznzx/obfuscation_building_final_boss"
+    ],
+    [
+      "Obfuscation: building the final boss of cryptography",
+      "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 10:22:25",
       "https://lobste.rs/s/esy9xh/autocrypt_v2_post_quantum_reliable"
     ],
     [
       "Autocrypt v2 - Post-Quantum and Reliable Deletion",
       "https://autocrypt2.org"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 10:04:32",
-      "https://lobste.rs/s/ypba4x/integrity_on_embedded_linux_devices"
-    ],
-    [
-      "Integrity on Embedded Linux Devices under the Cyber Resilience Act",
-      "https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-06-28, 18:11:39",
-      "https://lobste.rs/s/yscudc/examining_circuit_boards_from_space"
-    ],
-    [
-      "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 15:45:12",
       "https://lobste.rs/s/ljvfaf/typed_algebraic_approach_parsing_2019"
     ],
     [
       "A Typed, Algebraic Approach to Parsing (2019)",
       "https://www.cl.cam.ac.uk/~nk480/parsing.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 15:03:59",
-      "https://lobste.rs/s/igaqk9/installing_serenityos_on_my_old_thinkpad"
-    ],
-    [
-      "Installing SerenityOS on My Old ThinkPad T60",
-      "https://btxx.org/posts/serenity-t60/"
     ]
   ],
   [
