@@ -1,22 +1,12 @@
 [
   [
     [
-      "2026-06-29, 05:55:51",
-      "https://lobste.rs/s/742jls/code_review_bjonas_schemeinterpreter_j"
+      "2026-06-29, 07:24:49",
+      "https://lobste.rs/s/dkky2i/canvas_patch_we_need_testers"
     ],
     [
-      "code review - BJonas' SchemeInterpreter in J",
-      "http://tangentstorm.github.io/apljk/bjonas-scheme.ijs.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 05:52:18",
-      "https://lobste.rs/s/18vmgc/torq_kdb_production_framework"
-    ],
-    [
-      "TorQ: kdb+ production framework",
-      "https://github.com/DataIntellectTech/TorQ"
+      "Canvas patch: we need testers",
+      "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html"
     ]
   ],
   [
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2026-06-28, 19:31:51",
-      "https://lobste.rs/s/wyl1ke/modeling_covid_19_outbreak_with_j"
-    ],
-    [
-      "Modeling the COVID-19 Outbreak with J",
-      "https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 18:11:39",
       "https://lobste.rs/s/yscudc/examining_circuit_boards_from_space"
     ],
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2026-06-28, 14:58:01",
+      "https://lobste.rs/s/tinc3e/we_have_mythos_at_home_glm_5_2_beats_claude"
+    ],
+    [
+      "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
+      "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 14:50:20",
       "https://lobste.rs/s/vgqcgi/towards_understandable_software"
     ],
@@ -197,6 +187,16 @@
     [
       "How VictoriaLogs Stores Your Logs in a Columnar Layout",
       "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 04:57:23",
+      "https://lobste.rs/s/qr1zhy/building_open_source_robot_vacuum_meet"
+    ],
+    [
+      "Building an Open-Source Robot Vacuum — Meet oomwoo",
+      "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/"
     ]
   ],
   [
