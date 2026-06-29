@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 07:24:49](https://lobste.rs/s/dkky2i/canvas_patch_we_need_testers) - [Canvas patch: we need testers](https://monadicsheep.org/blog/call-for-canvas-patch-testers.html)
 * [2026-06-29, 05:55:51](https://lobste.rs/s/742jls/code_review_bjonas_schemeinterpreter_j) - [code review - BJonas' SchemeInterpreter in J](http://tangentstorm.github.io/apljk/bjonas-scheme.ijs.html)
 * [2026-06-29, 05:52:18](https://lobste.rs/s/18vmgc/torq_kdb_production_framework) - [TorQ: kdb+ production framework](https://github.com/DataIntellectTech/TorQ)
 * [2026-06-29, 04:26:28](https://lobste.rs/s/8xc7cl/kivo_lightweight_desktop_teleprompter) - [Kivo - A lightweight desktop teleprompter built with PySide6](https://github.com/rajtilakjee/kivo)
