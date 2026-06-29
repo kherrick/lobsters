@@ -9,6 +9,8 @@
 * [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents) - [A Core Calculus for Documents](https://dl.acm.org/doi/pdf/10.1145/3632865)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
+* [2026-06-28, 19:43:34](https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019) - [Convolutional Neural Networks in APL (2019)](https://dl.acm.org/doi/epdf/10.1145/3315454.3329960)
+* [2026-06-28, 19:36:24](https://lobste.rs/s/al5bqb/introducing_test) - [Introducing Test That](https://hovinen.me/announcements/2026/06/24/introducing-test-that.html)
 * [2026-06-28, 19:31:51](https://lobste.rs/s/wyl1ke/modeling_covid_19_outbreak_with_j) - [Modeling the COVID-19 Outbreak with J](https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j)
 * [2026-06-28, 18:53:45](https://lobste.rs/s/oi9vkz/hash_proves_bytes_not_source) - [A hash proves the bytes, not the source](https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/)
 * [2026-06-28, 18:11:39](https://lobste.rs/s/yscudc/examining_circuit_boards_from_space) - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)

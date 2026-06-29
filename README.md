@@ -5,6 +5,8 @@
 * [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents) - [A Core Calculus for Documents](https://dl.acm.org/doi/pdf/10.1145/3632865)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
+* [2026-06-28, 19:43:34](https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019) - [Convolutional Neural Networks in APL (2019)](https://dl.acm.org/doi/epdf/10.1145/3315454.3329960)
+* [2026-06-28, 19:36:24](https://lobste.rs/s/al5bqb/introducing_test) - [Introducing Test That](https://hovinen.me/announcements/2026/06/24/introducing-test-that.html)
 * [2026-06-28, 19:31:51](https://lobste.rs/s/wyl1ke/modeling_covid_19_outbreak_with_j) - [Modeling the COVID-19 Outbreak with J](https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j)
 * [2026-06-28, 18:11:39](https://lobste.rs/s/yscudc/examining_circuit_boards_from_space) - [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
 * [2026-06-28, 16:41:59](https://lobste.rs/s/pi7rvi/curious_case_aa_ns_charter_com) - [The Curious Case of aa.ns.charter.com](https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/)
@@ -14,7 +16,6 @@
 * [2026-06-28, 14:50:20](https://lobste.rs/s/vgqcgi/towards_understandable_software) - [Towards Understandable Software](https://gracefulliberty.com/articles/towards-understandable-software/)
 * [2026-06-28, 13:18:41](https://lobste.rs/s/mq245g/regular_expressions_work_everywhere) - [Regular expressions that work “everywhere”](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/)
 * [2026-06-28, 12:23:53](https://lobste.rs/s/2m10ql/how_victorialogs_stores_your_logs) - [How VictoriaLogs Stores Your Logs in a Columnar Layout](https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/)
-* [2026-06-28, 07:56:46](https://lobste.rs/s/cychnm/nourish_wayland_compositor_with) - [Nourish - a wayland compositor with infinite zoom and pan](https://github.com/y5-snowies/nourish)
 * [2026-06-28, 04:57:23](https://lobste.rs/s/qr1zhy/building_open_source_robot_vacuum_meet) - [Building an Open-Source Robot Vacuum — Meet oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
 * [2026-06-28, 03:12:48](https://lobste.rs/s/xsig5e/working_around_dragons_with_lemote) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-27, 22:42:05](https://lobste.rs/s/xz51yj/it_s_dead_jim_uefi_ca_expiry) - [It's dead, Jim! (UEFI CA expiry)](https://blog.einval.com/2026/06/27#its_dead_jim)
@@ -24,7 +25,6 @@
 * [2026-06-27, 16:19:10](https://lobste.rs/s/b2emi7/guards_guards) - [Guards! Guards](https://hauleth.dev/post/guards-guards/)
 * [2026-06-27, 15:10:14](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals) - [A peek into Reddit's anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
 * [2026-06-27, 14:18:23](https://lobste.rs/s/xmsj3r/data_access_patterns_makes_your_cpu) - [Data Access Patterns That Makes Your CPU Really Angry](https://blog.weineng.me/posts/slowest_add/)
-* [2026-06-27, 12:53:26](https://lobste.rs/s/z7eoo7/excessive_nil_pointer_checks_go) - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/)
 
 ## [Archives](archives/index.md)
 
