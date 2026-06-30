@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 15:55:13](https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified) - [Underappreciated builtin: Grand Unified Debugger](https://tusharhero.codeberg.page/underappreciated-builtin-gud.html)
+* [2026-06-30, 15:02:05](https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want) - [Parse, Don't Validate — In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
 * [2026-06-30, 13:45:03](https://lobste.rs/s/mml4wf/slint_node_js_event_loop) - [Slint and the Node.js Event Loop](https://slint.dev/blog/slint-and-the-nodejs-event-loop)
 * [2026-06-30, 13:21:28](https://lobste.rs/s/v2cbi5/stop_asking_writers_about_ai) - [stop asking writers about \"AI\"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
