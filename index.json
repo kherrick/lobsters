@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-30, 13:45:03",
+      "https://lobste.rs/s/mml4wf/slint_node_js_event_loop"
+    ],
+    [
+      "Slint and the Node.js Event Loop",
+      "https://slint.dev/blog/slint-and-the-nodejs-event-loop"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 13:21:28",
       "https://lobste.rs/s/v2cbi5/stop_asking_writers_about_ai"
     ],
@@ -17,6 +27,16 @@
     [
       "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more",
       "https://servo.org/blog/2026/06/30/may-in-servo/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 11:42:32",
+      "https://lobste.rs/s/sk7fsc/waiting_for_sql_202y_stockholm_bma"
+    ],
+    [
+      "Waiting for SQL:202y: Stockholm (BMA) meeting report",
+      "http://peter.eisentraut.org/blog/2026/06/30/waiting-for-sql-202y-stockholm-meeting-report"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-06-29, 14:47:07",
-      "https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query"
-    ],
-    [
-      "Evaluation order and nontermination in query languages",
-      "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 14:08:54",
       "https://lobste.rs/s/uofjjs/loko_scheme_0_13_0"
     ],
     [
       "Loko Scheme 0.13.0",
       "https://weinholt.se/articles/loko-scheme-0-13-0/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 13:57:28",
-      "https://lobste.rs/s/hj0exw/typst_designing_for_incrementality"
-    ],
-    [
-      "Typst: Designing for Incrementality",
-      "https://youtu.be/yWWVhbyOWWE"
     ]
   ],
   [
