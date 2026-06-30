@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-30, 03:29:10",
+      "https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh"
+    ],
+    [
+      "A native graphical shell for SSH",
+      "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 02:11:09",
       "https://lobste.rs/s/1ggr8a/memory_safe_context_switching"
     ],
@@ -67,16 +77,6 @@
     [
       "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)",
       "https://cyberstan.co.uk/drm-lpe-linux/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 18:04:35",
-      "https://lobste.rs/s/glklp0/solod_v0_2_networking_new_targets"
-    ],
-    [
-      "Solod v0.2: Networking, new targets, friendlier interop",
-      "https://antonz.org/solod-v0-2/"
     ]
   ],
   [
