@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 13:45:03](https://lobste.rs/s/mml4wf/slint_node_js_event_loop) - [Slint and the Node.js Event Loop](https://slint.dev/blog/slint-and-the-nodejs-event-loop)
 * [2026-06-30, 13:21:28](https://lobste.rs/s/v2cbi5/stop_asking_writers_about_ai) - [stop asking writers about \"AI\"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
 * [2026-06-30, 11:42:32](https://lobste.rs/s/sk7fsc/waiting_for_sql_202y_stockholm_bma) - [Waiting for SQL:202y: Stockholm (BMA) meeting report](http://peter.eisentraut.org/blog/2026/06/30/waiting-for-sql-202y-stockholm-meeting-report)
