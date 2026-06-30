@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-30, 03:29:10](https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
 * [2026-06-30, 02:11:09](https://lobste.rs/s/1ggr8a/memory_safe_context_switching) - [Memory Safe Context Switching](https://fil-c.org/context_switches)
 * [2026-06-30, 01:28:05](https://lobste.rs/s/cxxgbt/revisiting_yliluoma_s_ordered_dither) - [Revisiting Yliluoma’s ordered dither algorithm](https://30fps.net/pages/revisiting-yliluoma-2/)
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktopexperiment) - [The end of the AArch64 desktopexperiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
@@ -7,7 +8,6 @@
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-06-29, 20:34:46](https://lobste.rs/s/7fjqgc/at_uri_syntax_mess) - [The AT-URI Syntax Mess](https://bnewbold.leaflet.pub/3mph4hzvbdc2v)
 * [2026-06-29, 18:05:24](https://lobste.rs/s/hh5yyq/unprivileged_root_via_use_after_free_drm) - [Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)](https://cyberstan.co.uk/drm-lpe-linux/)
-* [2026-06-29, 18:04:35](https://lobste.rs/s/glklp0/solod_v0_2_networking_new_targets) - [Solod v0.2: Networking, new targets, friendlier interop](https://antonz.org/solod-v0-2/)
 * [2026-06-29, 17:01:58](https://lobste.rs/s/eihlve/ipv6_frag_escape_linux_lpe_reliable_jail) - [ipv6_frag_escape: Linux LPE - Reliable Jail/Container Escape](https://github.com/sgkdev/ipv6_frag_escape)
 * [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
 * [2026-06-29, 16:13:23](https://lobste.rs/s/r1uxyo/type_checked_non_empty_strings) - [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
