@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-30, 22:16:39](https://lobste.rs/s/96kp1m/jj_jj_jj_jj_jj) - [jj jj jj jj jj](https://caiustheory.com/jj-jj-jj-jj-jj/)
 * [2026-06-30, 21:33:59](https://lobste.rs/s/pzqj6b/i_ported_kubernetes_browser) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 * [2026-06-30, 19:43:05](https://lobste.rs/s/x8qug8/threat_residential_proxies) - [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies)
 * [2026-06-30, 19:04:44](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
@@ -12,7 +13,6 @@
 * [2026-06-30, 13:21:28](https://lobste.rs/s/v2cbi5/stop_asking_writers_about_ai) - [stop asking writers about \"AI\"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
 * [2026-06-30, 13:12:27](https://lobste.rs/s/gwrlsv/soatok_s_informal_guide_threat_models) - [Soatok’s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
-* [2026-06-30, 11:13:06](https://lobste.rs/s/rrtmck/diagrams_for_penrose_tiles) - [Diagrams for Penrose Tiles](https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/)
 * [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
 * [2026-06-30, 09:38:50](https://lobste.rs/s/r3ln3z/furality_ultra_club_v_writeup) - [Furality Ultra Club A/V Writeup](https://value.gay/blog/furality-ultra-av)
 * [2026-06-30, 08:47:25](https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu) - [jj_tui: terminal user interface to jujutsu focused on speed and clarity](https://tangled.org/elidowling.com/jj_tui)
