@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-30, 16:10:17",
+      "https://lobste.rs/s/jiwsyd/serving_local_ai_on_my_jetson_through"
+    ],
+    [
+      "Serving Local AI on my Jetson through Durable Streams",
+      "https://s2.dev/blog/local-ai"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 15:56:00",
+      "https://lobste.rs/s/la0dqv/run_any_dockerfile_on_vercel"
+    ],
+    [
+      "Run any Dockerfile on Vercel",
+      "https://vercel.com/blog/dockerfile-on-vercel"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 15:55:13",
       "https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified"
     ],
@@ -67,16 +87,6 @@
     [
       "Diagrams for Penrose Tiles",
       "https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 11:10:41",
-      "https://lobste.rs/s/s61wns/proving_fundamental_theorem_arithmetic"
-    ],
-    [
-      "Proving the Fundamental Theorem of Arithmetic in Agda",
-      "https://byorgey.github.io/blog/posts/2026/06/26/FTA.lagda.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter",
       "https://humphri.es/blog/WATaBoy/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 14:08:54",
-      "https://lobste.rs/s/uofjjs/loko_scheme_0_13_0"
-    ],
-    [
-      "Loko Scheme 0.13.0",
-      "https://weinholt.se/articles/loko-scheme-0-13-0/"
     ]
   ],
   [
