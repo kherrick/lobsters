@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-30, 15:55:13",
+      "https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified"
+    ],
+    [
+      "Underappreciated builtin: Grand Unified Debugger",
+      "https://tusharhero.codeberg.page/underappreciated-builtin-gud.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 15:02:05",
+      "https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want"
+    ],
+    [
+      "Parse, Don't Validate — In a Language That Doesn't Want You To",
+      "https://cekrem.github.io/posts/parse-dont-validate-typescript/"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 13:45:03",
       "https://lobste.rs/s/mml4wf/slint_node_js_event_loop"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-06-30, 11:42:32",
-      "https://lobste.rs/s/sk7fsc/waiting_for_sql_202y_stockholm_bma"
-    ],
-    [
-      "Waiting for SQL:202y: Stockholm (BMA) meeting report",
-      "http://peter.eisentraut.org/blog/2026/06/30/waiting-for-sql-202y-stockholm-meeting-report"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 11:13:06",
       "https://lobste.rs/s/rrtmck/diagrams_for_penrose_tiles"
     ],
@@ -87,6 +97,16 @@
     [
       "Furality Ultra Club A/V Writeup",
       "https://value.gay/blog/furality-ultra-av"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 09:04:34",
+      "https://lobste.rs/s/3rgtd3/rheo_0_4_0"
+    ],
+    [
+      "Rheo 0.4.0",
+      "https://rheo.ohrg.org"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-06-29, 16:13:23",
-      "https://lobste.rs/s/r1uxyo/type_checked_non_empty_strings"
-    ],
-    [
-      "Type-checked non-empty strings",
-      "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 15:07:10",
       "https://lobste.rs/s/krqeoc/wataboy_jit_ing_game_boy_instructions"
     ],
@@ -237,16 +247,6 @@
     [
       "When Impressive Performance Gains Do Not Matter",
       "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 01:37:32",
-      "https://lobste.rs/s/vv4fhi/ante_new_way_blend_borrow_checking"
-    ],
-    [
-      "Ante: New Way to Blend Borrow Checking and Reference Counting",
-      "https://verdagon.dev/blog/ante-blending-borrowing-rc"
     ]
   ]
 ]
