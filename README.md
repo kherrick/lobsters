@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktopexperiment) - [The end of the AArch64 desktopexperiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-29, 22:31:57](https://lobste.rs/s/ybcofm/spindle_s_new_microvm_engine) - [Spindle's new microVM engine](https://blog.tangled.org/spindle-microvm/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-06-29, 20:34:46](https://lobste.rs/s/7fjqgc/at_uri_syntax_mess) - [The AT-URI Syntax Mess](https://bnewbold.leaflet.pub/3mph4hzvbdc2v)
@@ -15,8 +16,6 @@
 * [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
 * [2026-06-29, 13:57:28](https://lobste.rs/s/hj0exw/typst_designing_for_incrementality) - [Typst: Designing for Incrementality](https://youtu.be/yWWVhbyOWWE)
 * [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
-* [2026-06-29, 12:46:42](https://lobste.rs/s/8qznzx/obfuscation_building_final_boss) - [Obfuscation: building the final boss of cryptography](https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html)
-* [2026-06-29, 10:22:25](https://lobste.rs/s/esy9xh/autocrypt_v2_post_quantum_reliable) - [Autocrypt v2 - Post-Quantum and Reliable Deletion](https://autocrypt2.org)
 * [2026-06-29, 07:55:57](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week)
 * [2026-06-29, 07:24:49](https://lobste.rs/s/dkky2i/canvas_patch_we_need_testers) - [Canvas patch: we need testers](https://monadicsheep.org/blog/call-for-canvas-patch-testers.html)
 * [2026-06-29, 04:26:28](https://lobste.rs/s/8xc7cl/kivo_lightweight_desktop_teleprompter) - [Kivo - A lightweight desktop teleprompter built with PySide6](https://github.com/rajtilakjee/kivo)
@@ -24,6 +23,7 @@
 * [2026-06-29, 03:08:05](https://lobste.rs/s/xgu1dh/you_might_not_need_service_worker) - [You might not need… a service worker](https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/)
 * [2026-06-29, 01:37:32](https://lobste.rs/s/vv4fhi/ante_new_way_blend_borrow_checking) - [Ante: New Way to Blend Borrow Checking and Reference Counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
+* [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2026-06-28, 14:50:20](https://lobste.rs/s/vgqcgi/towards_understandable_software) - [Towards Understandable Software](https://gracefulliberty.com/articles/towards-understandable-software/)
 
 ## [Archives](archives/index.md)
