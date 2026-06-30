@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-30, 03:29:10",
-      "https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh"
+      "2026-06-30, 07:33:16",
+      "https://lobste.rs/s/edml2s/platform_support_for_gnu_extensions"
     ],
     [
-      "A native graphical shell for SSH",
-      "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html"
+      "Platform Support for GNU Extensions to Basic Regular Expressions",
+      "https://www.wezm.net/v2/posts/2026/bre/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 06:34:57",
+      "https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025"
+    ],
+    [
+      "Investigating Linux graphics (2025)",
+      "https://roscidus.com/blog/blog/2025/06/24/graphics/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Evaluation order and nontermination in query languages",
       "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 14:15:12",
-      "https://lobste.rs/s/ugm5fn/you_don_t_know_jack_about_formal"
-    ],
-    [
-      "You Don’t Know Jack About Formal Verification",
-      "https://queue.acm.org/detail.cfm?id=3819084"
     ]
   ],
   [
