@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 19:43:05](https://lobste.rs/s/x8qug8/threat_residential_proxies) - [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies)
 * [2026-06-30, 19:04:44](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 18:39:07](https://lobste.rs/s/uaubz8/generating_p3_tiling) - [Generating the P3 Tiling](https://k-monk.org/blog/generating-the-p3-tiling/)
 * [2026-06-30, 16:10:17](https://lobste.rs/s/jiwsyd/serving_local_ai_on_my_jetson_through) - [Serving Local AI on my Jetson through Durable Streams](https://s2.dev/blog/local-ai)
