@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-30, 22:46:36](https://lobste.rs/s/38nsyj/zluda_6_release_run_cuda_on_non_nvidia_gpus) - [ZLUDA 6 release (run CUDA on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
 * [2026-06-30, 22:16:39](https://lobste.rs/s/96kp1m/jj_jj_jj_jj_jj) - [jj jj jj jj jj](https://caiustheory.com/jj-jj-jj-jj-jj/)
 * [2026-06-30, 21:33:59](https://lobste.rs/s/pzqj6b/i_ported_kubernetes_browser) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 * [2026-06-30, 19:43:05](https://lobste.rs/s/x8qug8/threat_residential_proxies) - [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies)
@@ -14,7 +15,6 @@
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
 * [2026-06-30, 13:12:27](https://lobste.rs/s/gwrlsv/soatok_s_informal_guide_threat_models) - [Soatok’s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
 * [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
-* [2026-06-30, 09:38:50](https://lobste.rs/s/r3ln3z/furality_ultra_club_v_writeup) - [Furality Ultra Club A/V Writeup](https://value.gay/blog/furality-ultra-av)
 * [2026-06-30, 08:47:25](https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu) - [jj_tui: terminal user interface to jujutsu focused on speed and clarity](https://tangled.org/elidowling.com/jj_tui)
 * [2026-06-30, 07:33:16](https://lobste.rs/s/edml2s/platform_support_for_gnu_extensions) - [Platform Support for GNU Extensions to Basic Regular Expressions](https://www.wezm.net/v2/posts/2026/bre/)
 * [2026-06-30, 06:34:57](https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025) - [Investigating Linux graphics (2025)](https://roscidus.com/blog/blog/2025/06/24/graphics/)

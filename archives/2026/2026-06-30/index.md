@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 22:46:36](https://lobste.rs/s/38nsyj/zluda_6_release_run_cuda_on_non_nvidia_gpus) - [ZLUDA 6 release (run CUDA on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
 * [2026-06-30, 22:16:39](https://lobste.rs/s/96kp1m/jj_jj_jj_jj_jj) - [jj jj jj jj jj](https://caiustheory.com/jj-jj-jj-jj-jj/)
 * [2026-06-30, 21:33:59](https://lobste.rs/s/pzqj6b/i_ported_kubernetes_browser) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 * [2026-06-30, 20:26:53](https://lobste.rs/s/wtplam/most_mcp_servers_don_t_need_exist_your_case) - [Most MCP servers don't need to exist. Your case might be an exception](https://evilmartians.com/chronicles/most-mcp-servers-dont-need-to-exist-your-case-might-be-an-exception)
