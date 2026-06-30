@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-30, 18:39:07](https://lobste.rs/s/uaubz8/generating_p3_tiling) - [Generating the P3 Tiling](https://k-monk.org/blog/generating-the-p3-tiling/)
 * [2026-06-30, 16:10:17](https://lobste.rs/s/jiwsyd/serving_local_ai_on_my_jetson_through) - [Serving Local AI on my Jetson through Durable Streams](https://s2.dev/blog/local-ai)
 * [2026-06-30, 15:56:00](https://lobste.rs/s/la0dqv/run_any_dockerfile_on_vercel) - [Run any Dockerfile on Vercel](https://vercel.com/blog/dockerfile-on-vercel)
 * [2026-06-30, 15:55:13](https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified) - [Underappreciated builtin: Grand Unified Debugger](https://tusharhero.codeberg.page/underappreciated-builtin-gud.html)
@@ -11,7 +12,6 @@
 * [2026-06-30, 11:13:06](https://lobste.rs/s/rrtmck/diagrams_for_penrose_tiles) - [Diagrams for Penrose Tiles](https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/)
 * [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
 * [2026-06-30, 09:38:50](https://lobste.rs/s/r3ln3z/furality_ultra_club_v_writeup) - [Furality Ultra Club A/V Writeup](https://value.gay/blog/furality-ultra-av)
-* [2026-06-30, 09:04:34](https://lobste.rs/s/3rgtd3/rheo_0_4_0) - [Rheo 0.4.0](https://rheo.ohrg.org)
 * [2026-06-30, 08:47:25](https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu) - [jj_tui: terminal user interface to jujutsu focused on speed and clarity](https://tangled.org/elidowling.com/jj_tui)
 * [2026-06-30, 07:33:16](https://lobste.rs/s/edml2s/platform_support_for_gnu_extensions) - [Platform Support for GNU Extensions to Basic Regular Expressions](https://www.wezm.net/v2/posts/2026/bre/)
 * [2026-06-30, 06:34:57](https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025) - [Investigating Linux graphics (2025)](https://roscidus.com/blog/blog/2025/06/24/graphics/)
