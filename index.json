@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-06-30, 15:55:13",
+      "https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified"
+    ],
+    [
+      "Underappreciated builtin: Grand Unified Debugger",
+      "https://tusharhero.codeberg.page/underappreciated-builtin-gud.html"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 15:02:05",
       "https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want"
     ],
@@ -77,16 +87,6 @@
     [
       "Diagrams for Penrose Tiles",
       "https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 11:10:41",
-      "https://lobste.rs/s/s61wns/proving_fundamental_theorem_arithmetic"
-    ],
-    [
-      "Proving the Fundamental Theorem of Arithmetic in Agda",
-      "https://byorgey.github.io/blog/posts/2026/06/26/FTA.lagda.html"
     ]
   ],
   [
