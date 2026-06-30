@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 11:42:32](https://lobste.rs/s/sk7fsc/waiting_for_sql_202y_stockholm_bma) - [Waiting for SQL:202y: Stockholm (BMA) meeting report](http://peter.eisentraut.org/blog/2026/06/30/waiting-for-sql-202y-stockholm-meeting-report)
+* [2026-06-30, 11:13:06](https://lobste.rs/s/rrtmck/diagrams_for_penrose_tiles) - [Diagrams for Penrose Tiles](https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/)
+* [2026-06-30, 11:10:41](https://lobste.rs/s/s61wns/proving_fundamental_theorem_arithmetic) - [Proving the Fundamental Theorem of Arithmetic in Agda](https://byorgey.github.io/blog/posts/2026/06/26/FTA.lagda.html)
 * [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
 * [2026-06-30, 09:38:50](https://lobste.rs/s/r3ln3z/furality_ultra_club_v_writeup) - [Furality Ultra Club A/V Writeup](https://value.gay/blog/furality-ultra-av)
 * [2026-06-30, 09:04:34](https://lobste.rs/s/3rgtd3/rheo_0_4_0) - [Rheo 0.4.0](https://rheo.ohrg.org)
