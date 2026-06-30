@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-30, 20:26:53](https://lobste.rs/s/wtplam/most_mcp_servers_don_t_need_exist_your_case) - [Most MCP servers don't need to exist. Your case might be an exception](https://evilmartians.com/chronicles/most-mcp-servers-dont-need-to-exist-your-case-might-be-an-exception)
 * [2026-06-30, 19:43:05](https://lobste.rs/s/x8qug8/threat_residential_proxies) - [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies)
 * [2026-06-30, 19:04:44](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 18:39:07](https://lobste.rs/s/uaubz8/generating_p3_tiling) - [Generating the P3 Tiling](https://k-monk.org/blog/generating-the-p3-tiling/)
@@ -19,7 +20,6 @@
 * [2026-06-30, 06:34:57](https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025) - [Investigating Linux graphics (2025)](https://roscidus.com/blog/blog/2025/06/24/graphics/)
 * [2026-06-30, 03:29:10](https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
 * [2026-06-30, 02:11:09](https://lobste.rs/s/1ggr8a/memory_safe_context_switching) - [Memory Safe Context Switching](https://fil-c.org/context_switches)
-* [2026-06-30, 01:28:05](https://lobste.rs/s/cxxgbt/revisiting_yliluoma_s_ordered_dither) - [Revisiting Yliluoma’s ordered dither algorithm](https://30fps.net/pages/revisiting-yliluoma-2/)
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktop_experiment) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-29, 22:31:57](https://lobste.rs/s/ybcofm/spindle_s_new_microvm_engine) - [Spindle's new microVM engine](https://blog.tangled.org/spindle-microvm/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
