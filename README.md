@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-30, 16:10:17](https://lobste.rs/s/jiwsyd/serving_local_ai_on_my_jetson_through) - [Serving Local AI on my Jetson through Durable Streams](https://s2.dev/blog/local-ai)
+* [2026-06-30, 15:56:00](https://lobste.rs/s/la0dqv/run_any_dockerfile_on_vercel) - [Run any Dockerfile on Vercel](https://vercel.com/blog/dockerfile-on-vercel)
 * [2026-06-30, 15:55:13](https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified) - [Underappreciated builtin: Grand Unified Debugger](https://tusharhero.codeberg.page/underappreciated-builtin-gud.html)
 * [2026-06-30, 15:02:05](https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want) - [Parse, Don't Validate — In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
 * [2026-06-30, 13:45:03](https://lobste.rs/s/mml4wf/slint_node_js_event_loop) - [Slint and the Node.js Event Loop](https://slint.dev/blog/slint-and-the-nodejs-event-loop)
@@ -7,7 +9,6 @@
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
 * [2026-06-30, 13:12:27](https://lobste.rs/s/gwrlsv/soatok_s_informal_guide_threat_models) - [Soatok’s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
 * [2026-06-30, 11:13:06](https://lobste.rs/s/rrtmck/diagrams_for_penrose_tiles) - [Diagrams for Penrose Tiles](https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/)
-* [2026-06-30, 11:10:41](https://lobste.rs/s/s61wns/proving_fundamental_theorem_arithmetic) - [Proving the Fundamental Theorem of Arithmetic in Agda](https://byorgey.github.io/blog/posts/2026/06/26/FTA.lagda.html)
 * [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
 * [2026-06-30, 09:38:50](https://lobste.rs/s/r3ln3z/furality_ultra_club_v_writeup) - [Furality Ultra Club A/V Writeup](https://value.gay/blog/furality-ultra-av)
 * [2026-06-30, 09:04:34](https://lobste.rs/s/3rgtd3/rheo_0_4_0) - [Rheo 0.4.0](https://rheo.ohrg.org)
@@ -23,7 +24,6 @@
 * [2026-06-29, 20:34:46](https://lobste.rs/s/7fjqgc/at_uri_syntax_mess) - [The AT-URI Syntax Mess](https://bnewbold.leaflet.pub/3mph4hzvbdc2v)
 * [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
 * [2026-06-29, 15:07:10](https://lobste.rs/s/krqeoc/wataboy_jit_ing_game_boy_instructions) - [WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
-* [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
 * [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
 
 ## [Archives](archives/index.md)
