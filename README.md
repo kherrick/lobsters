@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-30, 20:26:53](https://lobste.rs/s/wtplam/most_mcp_servers_don_t_need_exist_your_case) - [Most MCP servers don't need to exist. Your case might be an exception](https://evilmartians.com/chronicles/most-mcp-servers-dont-need-to-exist-your-case-might-be-an-exception)
+* [2026-06-30, 21:33:59](https://lobste.rs/s/pzqj6b/i_ported_kubernetes_browser) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 * [2026-06-30, 19:43:05](https://lobste.rs/s/x8qug8/threat_residential_proxies) - [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies)
 * [2026-06-30, 19:04:44](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 18:39:07](https://lobste.rs/s/uaubz8/generating_p3_tiling) - [Generating the P3 Tiling](https://k-monk.org/blog/generating-the-p3-tiling/)
