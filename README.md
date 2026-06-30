@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-30, 03:29:10](https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
+* [2026-06-30, 07:33:16](https://lobste.rs/s/edml2s/platform_support_for_gnu_extensions) - [Platform Support for GNU Extensions to Basic Regular Expressions](https://www.wezm.net/v2/posts/2026/bre/)
+* [2026-06-30, 06:34:57](https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025) - [Investigating Linux graphics (2025)](https://roscidus.com/blog/blog/2025/06/24/graphics/)
 * [2026-06-30, 02:11:09](https://lobste.rs/s/1ggr8a/memory_safe_context_switching) - [Memory Safe Context Switching](https://fil-c.org/context_switches)
 * [2026-06-30, 01:28:05](https://lobste.rs/s/cxxgbt/revisiting_yliluoma_s_ordered_dither) - [Revisiting Yliluoma’s ordered dither algorithm](https://30fps.net/pages/revisiting-yliluoma-2/)
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktopexperiment) - [The end of the AArch64 desktopexperiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
@@ -14,7 +15,6 @@
 * [2026-06-29, 15:07:10](https://lobste.rs/s/krqeoc/wataboy_jit_ing_game_boy_instructions) - [WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
 * [2026-06-29, 15:00:17](https://lobste.rs/s/uaoe9y/longinus_2_boundaries_one_bug_piercing) - [Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
 * [2026-06-29, 14:47:07](https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
-* [2026-06-29, 14:15:12](https://lobste.rs/s/ugm5fn/you_don_t_know_jack_about_formal) - [You Don’t Know Jack About Formal Verification](https://queue.acm.org/detail.cfm?id=3819084)
 * [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
 * [2026-06-29, 13:57:28](https://lobste.rs/s/hj0exw/typst_designing_for_incrementality) - [Typst: Designing for Incrementality](https://youtu.be/yWWVhbyOWWE)
 * [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
