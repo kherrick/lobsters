@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-01, 17:29:00](https://lobste.rs/s/z2wzap/open_source_as_infrastructure_taking) - [Open Source as Infrastructure: Taking Roads and Bridges literally](https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html)
 * [2026-07-01, 16:04:07](https://lobste.rs/s/iloa3u/pidgin_3_0_alpha_2_2_96_0_has_been_released) - [Pidgin 3.0 Alpha 2 (2.96.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-07-01, 14:19:33](https://lobste.rs/s/bsojea/gameboy_emulator_on_esp32_eink) - [GameBoy Emulator on ESP32 + Eink](https://www.youtube.com/watch?v=oPbOK90aJEo)
@@ -23,7 +24,6 @@
 * [2026-06-30, 19:04:44](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 15:55:13](https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified) - [Underappreciated builtin: Grand Unified Debugger](https://tusharhero.codeberg.page/underappreciated-builtin-gud.html)
 * [2026-06-30, 15:02:05](https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want) - [Parse, Don't Validate — In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
-* [2026-06-30, 13:21:28](https://lobste.rs/s/v2cbi5/stop_asking_writers_about_ai) - [stop asking writers about \"AI\"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
 
 ## [Archives](archives/index.md)
