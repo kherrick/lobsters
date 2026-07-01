@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-01, 10:33:38",
+      "https://lobste.rs/s/ceo3qf/low_level_haskell_cursed_way_emulate"
+    ],
+    [
+      "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC",
+      "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 10:32:50",
+      "https://lobste.rs/s/qwk5vn/building_passive_ethernet_tap"
+    ],
+    [
+      "Building a passive Ethernet tap",
+      "https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 10:22:06",
+      "https://lobste.rs/s/w01x4p/which_github_features_are_needed_code"
+    ],
+    [
+      "Which GitHub features are needed in a code forge before you can migrate?",
+      "https://lobste.rs/s/w01x4p/which_github_features_are_needed_code"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 08:01:30",
       "https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026"
     ],
@@ -21,32 +51,12 @@
   ],
   [
     [
-      "2026-07-01, 06:42:25",
-      "https://lobste.rs/s/wzswfc/structurally_fixing_injection_bugs_2012"
-    ],
-    [
-      "Structurally fixing injection bugs (2012)",
-      "https://www.more-magic.net/posts/structurally-fixing-injection-bugs.html"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 06:28:06",
       "https://lobste.rs/s/vyosfg/hanami_3_0_full_bloom"
     ],
     [
       "Hanami 3.0: In full bloom",
       "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 06:24:06",
-      "https://lobste.rs/s/thjzbz/redeploying_claude_fable_5"
-    ],
-    [
-      "Redeploying Claude Fable 5",
-      "https://www.anthropic.com/news/redeploying-fable-5"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Generating the P3 Tiling",
       "https://k-monk.org/blog/generating-the-p3-tiling/"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 15:56:00",
-      "https://lobste.rs/s/la0dqv/run_any_dockerfile_on_vercel"
-    ],
-    [
-      "Run any Dockerfile on Vercel",
-      "https://vercel.com/blog/dockerfile-on-vercel"
     ]
   ],
   [
