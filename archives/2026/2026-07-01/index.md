@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 14:00:35](https://lobste.rs/s/dvhioc/progress_report_linux_7_1_asahi_linux) - [Progress Report: Linux 7.1 - Asahi Linux](https://asahilinux.org/2026/06/progress-report-7-1/)
+* [2026-07-01, 13:38:39](https://lobste.rs/s/jcdcit/announcing_box3d) - [Announcing Box3D](https://box2d.org/posts/2026/06/announcing-box3d/)
 * [2026-07-01, 13:22:39](https://lobste.rs/s/gawnne/optimizing_algorithm_s_quadratic_by) - [Optimizing an Algorithm That’s Quadratic by Design](https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html)
 * [2026-07-01, 11:58:15](https://lobste.rs/s/pth2bm/internet_i_grew_up_with_doesn_t_exist) - [The Internet I Grew Up With Doesn’t Exist Anymore](https://cleberg.net/blog/internet.html)
 * [2026-07-01, 11:49:27](https://lobste.rs/s/vivtdh/how_jujutsu_rethinks_git_s_working_copy) - [How Jujutsu Rethinks Git's Working Copy and Conflict Model](https://www.git-tower.com/blog/jujutsu)

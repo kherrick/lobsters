@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-01, 14:00:35](https://lobste.rs/s/dvhioc/progress_report_linux_7_1_asahi_linux) - [Progress Report: Linux 7.1 - Asahi Linux](https://asahilinux.org/2026/06/progress-report-7-1/)
+* [2026-07-01, 13:38:39](https://lobste.rs/s/jcdcit/announcing_box3d) - [Announcing Box3D](https://box2d.org/posts/2026/06/announcing-box3d/)
 * [2026-07-01, 13:22:39](https://lobste.rs/s/gawnne/optimizing_algorithm_s_quadratic_by) - [Optimizing an Algorithm That’s Quadratic by Design](https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html)
 * [2026-07-01, 11:58:15](https://lobste.rs/s/pth2bm/internet_i_grew_up_with_doesn_t_exist) - [The Internet I Grew Up With Doesn’t Exist Anymore](https://cleberg.net/blog/internet.html)
 * [2026-07-01, 11:49:27](https://lobste.rs/s/vivtdh/how_jujutsu_rethinks_git_s_working_copy) - [How Jujutsu Rethinks Git's Working Copy and Conflict Model](https://www.git-tower.com/blog/jujutsu)
@@ -14,7 +16,6 @@
 * [2026-07-01, 01:38:44](https://lobste.rs/s/v7ghbn/it_s_not_me_it_s_compiler) - [It's not me, it's the compiler](https://parsa.wtf/cast/)
 * [2026-07-01, 01:32:16](https://lobste.rs/s/pdkrax/stop_killing_internet) - [Stop Killing the Internet](https://www.stopkillingtheinternet.com/)
 * [2026-07-01, 00:17:06](https://lobste.rs/s/rfkmw3/what_happened_fight_for_internet) - [What happened to the fight for the internet?](https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/)
-* [2026-06-30, 22:46:36](https://lobste.rs/s/38nsyj/zluda_6_release_run_cuda_on_non_nvidia_gpus) - [ZLUDA 6 release (run CUDA on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
 * [2026-06-30, 22:16:39](https://lobste.rs/s/96kp1m/jj_jj_jj_jj_jj) - [jj jj jj jj jj](https://caiustheory.com/jj-jj-jj-jj-jj/)
 * [2026-06-30, 19:43:05](https://lobste.rs/s/x8qug8/threat_residential_proxies) - [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies)
 * [2026-06-30, 19:04:44](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
@@ -23,7 +24,6 @@
 * [2026-06-30, 15:02:05](https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want) - [Parse, Don't Validate — In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
 * [2026-06-30, 13:21:28](https://lobste.rs/s/v2cbi5/stop_asking_writers_about_ai) - [stop asking writers about \"AI\"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
-* [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 
 ## [Archives](archives/index.md)
