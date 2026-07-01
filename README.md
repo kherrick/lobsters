@@ -2,12 +2,12 @@
 
 * [2026-07-01, 17:29:00](https://lobste.rs/s/z2wzap/open_source_as_infrastructure_taking) - [Open Source as Infrastructure: Taking Roads and Bridges literally](https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html)
 * [2026-07-01, 16:04:07](https://lobste.rs/s/iloa3u/pidgin_3_0_alpha_2_2_96_0_has_been_released) - [Pidgin 3.0 Alpha 2 (2.96.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398)
+* [2026-07-01, 15:16:54](https://lobste.rs/s/paoclp/graalvm_hello_world_program_down_just_6) - [GraalVM Hello World Program Down To \"Just\" 6.5MB](https://www.phoronix.com/news/GraalVM-Community-25.1.3)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-07-01, 14:19:33](https://lobste.rs/s/bsojea/gameboy_emulator_on_esp32_eink) - [GameBoy Emulator on ESP32 + Eink](https://www.youtube.com/watch?v=oPbOK90aJEo)
 * [2026-07-01, 14:00:35](https://lobste.rs/s/dvhioc/progress_report_linux_7_1_asahi_linux) - [Progress Report: Linux 7.1 - Asahi Linux](https://asahilinux.org/2026/06/progress-report-7-1/)
 * [2026-07-01, 13:38:39](https://lobste.rs/s/jcdcit/announcing_box3d) - [Announcing Box3D](https://box2d.org/posts/2026/06/announcing-box3d/)
 * [2026-07-01, 11:58:15](https://lobste.rs/s/pth2bm/internet_i_grew_up_with_doesn_t_exist) - [The Internet I Grew Up With Doesn’t Exist Anymore](https://cleberg.net/blog/internet.html)
-* [2026-07-01, 11:49:27](https://lobste.rs/s/vivtdh/how_jujutsu_rethinks_git_s_working_copy) - [How Jujutsu Rethinks Git's Working Copy and Conflict Model](https://www.git-tower.com/blog/jujutsu)
 * [2026-07-01, 11:29:46](https://lobste.rs/s/4liqdw/all_package_management_functionality) - [All Package Management Functionality Moved from Compiler to Build System](https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30)
 * [2026-07-01, 10:59:34](https://lobste.rs/s/knec7o/changes_godot_engine_contribution) - [Changes to Godot Engine Contribution Policies](https://godotengine.org/article/contribution-policy-2026/)
 * [2026-07-01, 10:33:38](https://lobste.rs/s/ceo3qf/low_level_haskell_cursed_way_emulate) - [Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC](https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html)
