@@ -2,6 +2,7 @@
 
 * [2026-07-01, 08:01:30](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026) - [Who's hiring? Q3 2026](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026)
 * [2026-07-01, 06:54:13](https://lobste.rs/s/ujlr19/uruky_paid_european_search_engine) - [Uruky - The Paid European Search Engine](https://robheghan.prose.sh/26_06_30_uruky)
+* [2026-07-01, 06:42:25](https://lobste.rs/s/wzswfc/structurally_fixing_injection_bugs_2012) - [Structurally fixing injection bugs (2012)](https://www.more-magic.net/posts/structurally-fixing-injection-bugs.html)
 * [2026-07-01, 06:28:06](https://lobste.rs/s/vyosfg/hanami_3_0_full_bloom) - [Hanami 3.0: In full bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
 * [2026-07-01, 06:24:06](https://lobste.rs/s/thjzbz/redeploying_claude_fable_5) - [Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5)
 * [2026-07-01, 01:38:44](https://lobste.rs/s/v7ghbn/it_s_not_me_it_s_compiler) - [It's not me, it's the compiler](https://parsa.wtf/cast/)
@@ -24,7 +25,6 @@
 * [2026-06-30, 06:34:57](https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025) - [Investigating Linux graphics (2025)](https://roscidus.com/blog/blog/2025/06/24/graphics/)
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktop_experiment) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
-* [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
 
 ## [Archives](archives/index.md)
 
