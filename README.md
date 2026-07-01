@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-01, 13:22:39](https://lobste.rs/s/gawnne/optimizing_algorithm_s_quadratic_by) - [Optimizing an Algorithm That’s Quadratic by Design](https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html)
 * [2026-07-01, 11:58:15](https://lobste.rs/s/pth2bm/internet_i_grew_up_with_doesn_t_exist) - [The Internet I Grew Up With Doesn’t Exist Anymore](https://cleberg.net/blog/internet.html)
 * [2026-07-01, 11:49:27](https://lobste.rs/s/vivtdh/how_jujutsu_rethinks_git_s_working_copy) - [How Jujutsu Rethinks Git's Working Copy and Conflict Model](https://www.git-tower.com/blog/jujutsu)
+* [2026-07-01, 11:29:46](https://lobste.rs/s/4liqdw/all_package_management_functionality) - [All Package Management Functionality Moved from Compiler to Build System](https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30)
 * [2026-07-01, 10:59:34](https://lobste.rs/s/knec7o/changes_godot_engine_contribution) - [Changes to Godot Engine Contribution Policies](https://godotengine.org/article/contribution-policy-2026/)
 * [2026-07-01, 10:33:38](https://lobste.rs/s/ceo3qf/low_level_haskell_cursed_way_emulate) - [Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC](https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html)
 * [2026-07-01, 10:32:50](https://lobste.rs/s/qwk5vn/building_passive_ethernet_tap) - [Building a passive Ethernet tap](https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/)
@@ -21,9 +23,7 @@
 * [2026-06-30, 15:02:05](https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want) - [Parse, Don't Validate — In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
 * [2026-06-30, 13:21:28](https://lobste.rs/s/v2cbi5/stop_asking_writers_about_ai) - [stop asking writers about \"AI\"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
-* [2026-06-30, 13:12:27](https://lobste.rs/s/gwrlsv/soatok_s_informal_guide_threat_models) - [Soatok’s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
 * [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
-* [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktop_experiment) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 
 ## [Archives](archives/index.md)
