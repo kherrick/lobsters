@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-01, 16:04:07](https://lobste.rs/s/iloa3u/pidgin_3_0_alpha_2_2_96_0_has_been_released) - [Pidgin 3.0 Alpha 2 (2.96.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
+* [2026-07-01, 14:19:33](https://lobste.rs/s/bsojea/gameboy_emulator_on_esp32_eink) - [GameBoy Emulator on ESP32 + Eink](https://www.youtube.com/watch?v=oPbOK90aJEo)
 * [2026-07-01, 14:00:35](https://lobste.rs/s/dvhioc/progress_report_linux_7_1_asahi_linux) - [Progress Report: Linux 7.1 - Asahi Linux](https://asahilinux.org/2026/06/progress-report-7-1/)
 * [2026-07-01, 13:38:39](https://lobste.rs/s/jcdcit/announcing_box3d) - [Announcing Box3D](https://box2d.org/posts/2026/06/announcing-box3d/)
-* [2026-07-01, 13:22:39](https://lobste.rs/s/gawnne/optimizing_algorithm_s_quadratic_by) - [Optimizing an Algorithm That’s Quadratic by Design](https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html)
 * [2026-07-01, 11:58:15](https://lobste.rs/s/pth2bm/internet_i_grew_up_with_doesn_t_exist) - [The Internet I Grew Up With Doesn’t Exist Anymore](https://cleberg.net/blog/internet.html)
 * [2026-07-01, 11:49:27](https://lobste.rs/s/vivtdh/how_jujutsu_rethinks_git_s_working_copy) - [How Jujutsu Rethinks Git's Working Copy and Conflict Model](https://www.git-tower.com/blog/jujutsu)
 * [2026-07-01, 11:29:46](https://lobste.rs/s/4liqdw/all_package_management_functionality) - [All Package Management Functionality Moved from Compiler to Build System](https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30)
@@ -24,7 +25,6 @@
 * [2026-06-30, 15:02:05](https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want) - [Parse, Don't Validate — In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
 * [2026-06-30, 13:21:28](https://lobste.rs/s/v2cbi5/stop_asking_writers_about_ai) - [stop asking writers about \"AI\"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
-* [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 
 ## [Archives](archives/index.md)
 
