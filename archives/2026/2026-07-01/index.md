@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 10:33:38](https://lobste.rs/s/ceo3qf/low_level_haskell_cursed_way_emulate) - [Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC](https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html)
+* [2026-07-01, 10:32:50](https://lobste.rs/s/qwk5vn/building_passive_ethernet_tap) - [Building a passive Ethernet tap](https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/)
+* [2026-07-01, 10:22:06](https://lobste.rs/s/w01x4p/which_github_features_are_needed_code) - [Which GitHub features are needed in a code forge before you can migrate?](https://lobste.rs/s/w01x4p/which_github_features_are_needed_code)
 * [2026-07-01, 08:01:30](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026) - [Who's hiring? Q3 2026](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026)
 * [2026-07-01, 06:54:13](https://lobste.rs/s/ujlr19/uruky_paid_european_search_engine) - [Uruky - The Paid European Search Engine](https://robheghan.prose.sh/26_06_30_uruky)
 * [2026-07-01, 06:42:25](https://lobste.rs/s/wzswfc/structurally_fixing_injection_bugs_2012) - [Structurally fixing injection bugs (2012)](https://www.more-magic.net/posts/structurally-fixing-injection-bugs.html)
