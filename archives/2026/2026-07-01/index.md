@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 11:49:27](https://lobste.rs/s/vivtdh/how_jujutsu_rethinks_git_s_working_copy) - [How Jujutsu Rethinks Git's Working Copy and Conflict Model](https://www.git-tower.com/blog/jujutsu)
+* [2026-07-01, 10:59:34](https://lobste.rs/s/knec7o/changes_godot_engine_contribution) - [Changes to Godot Engine Contribution Policies](https://godotengine.org/article/contribution-policy-2026/)
 * [2026-07-01, 10:33:38](https://lobste.rs/s/ceo3qf/low_level_haskell_cursed_way_emulate) - [Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC](https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html)
 * [2026-07-01, 10:32:50](https://lobste.rs/s/qwk5vn/building_passive_ethernet_tap) - [Building a passive Ethernet tap](https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/)
 * [2026-07-01, 10:22:06](https://lobste.rs/s/w01x4p/which_github_features_are_needed_code) - [Which GitHub features are needed in a code forge before you can migrate?](https://lobste.rs/s/w01x4p/which_github_features_are_needed_code)
