@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-07-01, 06:42:25",
+      "https://lobste.rs/s/wzswfc/structurally_fixing_injection_bugs_2012"
+    ],
+    [
+      "Structurally fixing injection bugs (2012)",
+      "https://www.more-magic.net/posts/structurally-fixing-injection-bugs.html"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 06:28:06",
       "https://lobste.rs/s/vyosfg/hanami_3_0_full_bloom"
     ],
@@ -237,16 +247,6 @@
     [
       "What's wrong with EU age verification? (Nothing)",
       "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 16:37:43",
-      "https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust"
-    ],
-    [
-      "What is `std::pin::Pin` in Rust?",
-      "https://vrong.me/blog/what-is-pinning-in-rust/"
     ]
   ]
 ]
