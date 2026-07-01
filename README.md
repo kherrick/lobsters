@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-01, 00:17:06](https://lobste.rs/s/rfkmw3/what_happened_fight_for_internet) - [What happened to the fight for the internet?](https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/)
 * [2026-06-30, 22:46:36](https://lobste.rs/s/38nsyj/zluda_6_release_run_cuda_on_non_nvidia_gpus) - [ZLUDA 6 release (run CUDA on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
 * [2026-06-30, 22:16:39](https://lobste.rs/s/96kp1m/jj_jj_jj_jj_jj) - [jj jj jj jj jj](https://caiustheory.com/jj-jj-jj-jj-jj/)
 * [2026-06-30, 21:33:59](https://lobste.rs/s/pzqj6b/i_ported_kubernetes_browser) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
@@ -21,7 +22,6 @@
 * [2026-06-30, 03:29:10](https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
 * [2026-06-30, 02:11:09](https://lobste.rs/s/1ggr8a/memory_safe_context_switching) - [Memory Safe Context Switching](https://fil-c.org/context_switches)
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktop_experiment) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
-* [2026-06-29, 22:31:57](https://lobste.rs/s/ybcofm/spindle_s_new_microvm_engine) - [Spindle's new microVM engine](https://blog.tangled.org/spindle-microvm/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
 * [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
