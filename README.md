@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-01, 06:42:25](https://lobste.rs/s/wzswfc/structurally_fixing_injection_bugs_2012) - [Structurally fixing injection bugs (2012)](https://www.more-magic.net/posts/structurally-fixing-injection-bugs.html)
+* [2026-07-01, 08:01:30](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026) - [Who's hiring? Q3 2026](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026)
+* [2026-07-01, 06:54:13](https://lobste.rs/s/ujlr19/uruky_paid_european_search_engine) - [Uruky - The Paid European Search Engine](https://robheghan.prose.sh/26_06_30_uruky)
 * [2026-07-01, 06:28:06](https://lobste.rs/s/vyosfg/hanami_3_0_full_bloom) - [Hanami 3.0: In full bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
 * [2026-07-01, 06:24:06](https://lobste.rs/s/thjzbz/redeploying_claude_fable_5) - [Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5)
 * [2026-07-01, 01:38:44](https://lobste.rs/s/v7ghbn/it_s_not_me_it_s_compiler) - [It's not me, it's the compiler](https://parsa.wtf/cast/)
@@ -20,7 +21,6 @@
 * [2026-06-30, 13:16:10](https://lobste.rs/s/t2gomd/may_servo_user_scripts_mp4_compat) - [May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more](https://servo.org/blog/2026/06/30/may-in-servo/)
 * [2026-06-30, 13:12:27](https://lobste.rs/s/gwrlsv/soatok_s_informal_guide_threat_models) - [Soatok’s Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
 * [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
-* [2026-06-30, 08:47:25](https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu) - [jj_tui: terminal user interface to jujutsu focused on speed and clarity](https://tangled.org/elidowling.com/jj_tui)
 * [2026-06-30, 06:34:57](https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025) - [Investigating Linux graphics (2025)](https://roscidus.com/blog/blog/2025/06/24/graphics/)
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktop_experiment) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
