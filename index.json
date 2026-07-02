@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-02, 01:11:56",
+      "https://lobste.rs/s/khdiby/artificial_adventures"
+    ],
+    [
+      "Artificial adventures",
+      "https://www.scattered-thoughts.net/writing/artificial-adventures/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 00:36:55",
+      "https://lobste.rs/s/0kc445/unprivileged_root_via_out_bounds_write"
+    ],
+    [
+      "Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)",
+      "https://cyberstan.co.uk/fuse-readdir-oob/"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 17:29:00",
       "https://lobste.rs/s/z2wzap/open_source_as_infrastructure_taking"
     ],
@@ -217,26 +237,6 @@
     [
       "Claude Code Is Steganographically Marking Requests",
       "https://thereallo.dev/blog/claude-code-prompt-steganography"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 15:55:13",
-      "https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified"
-    ],
-    [
-      "Underappreciated builtin: Grand Unified Debugger",
-      "https://tusharhero.codeberg.page/underappreciated-builtin-gud.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 15:02:05",
-      "https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want"
-    ],
-    [
-      "Parse, Don't Validate — In a Language That Doesn't Want You To",
-      "https://cekrem.github.io/posts/parse-dont-validate-typescript/"
     ]
   ],
   [
