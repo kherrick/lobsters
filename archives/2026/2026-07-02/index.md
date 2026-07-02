@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 05:21:42](https://lobste.rs/s/vuqsur/on_ditching_vagrant) - [On Ditching Vagrant](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
+* [2026-07-02, 05:19:10](https://lobste.rs/s/gwxqmh/control_plane_was_point_revisiting) - [The Control Plane Was the Point: Revisiting autofz in the LLM Era](https://yfu.tw/blog/en/autofz-revisited/)
 * [2026-07-02, 04:23:14](https://lobste.rs/s/q8vdre/physics_memory_aka_can_javascript_ecs) - [The Physics of Memory (aka can Javascript ECS?)](https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html)
 * [2026-07-02, 02:32:44](https://lobste.rs/s/tgjz7s/improving_token_efficiency_for_github) - [Improving token efficiency for GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot)
 * [2026-07-02, 02:31:35](https://lobste.rs/s/4ttyrk/openfeature_standardizing_feature) - [OpenFeature - Standardizing Feature Flagging for Everyone](https://openfeature.dev/)
