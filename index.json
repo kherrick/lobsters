@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-02, 20:16:47",
+      "https://lobste.rs/s/q4m3fa/newly_discovered_pamstealer_isn_t_your"
+    ],
+    [
+      "Newly discovered PamStealer isn't your typical macOS malware",
+      "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 20:05:50",
+      "https://lobste.rs/s/bm2vcf/circular_obstacle_pathfinding"
+    ],
+    [
+      "Circular Obstacle Pathfinding",
+      "https://redblobgames.github.io/circular-obstacle-pathfinding/"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 19:16:48",
       "https://lobste.rs/s/yw6zvi/how_scylladb_s_trie_based_index_delivers"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-07-02, 00:36:55",
-      "https://lobste.rs/s/0kc445/unprivileged_root_via_out_bounds_write"
-    ],
-    [
-      "Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)",
-      "https://cyberstan.co.uk/fuse-readdir-oob/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 16:04:07",
       "https://lobste.rs/s/iloa3u/pidgin_3_0_alpha_2_2_96_0_has_been_released"
     ],
@@ -207,16 +217,6 @@
     [
       "Announcing Box3D",
       "https://box2d.org/posts/2026/06/announcing-box3d/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 11:58:15",
-      "https://lobste.rs/s/pth2bm/internet_i_grew_up_with_doesn_t_exist"
-    ],
-    [
-      "The Internet I Grew Up With Doesn’t Exist Anymore",
-      "https://cleberg.net/blog/internet.html"
     ]
   ],
   [
