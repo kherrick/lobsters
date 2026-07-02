@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-02, 12:02:29",
+      "https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai"
+    ],
+    [
+      "Investigating idiosyncrasies in AI fiction",
+      "https://arxiv.org/abs/2604.03136"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 12:01:19",
       "https://lobste.rs/s/e1uduo/jj_v0_43_0_released"
     ],
@@ -117,16 +127,6 @@
     [
       "Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)",
       "https://cyberstan.co.uk/fuse-readdir-oob/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 17:29:00",
-      "https://lobste.rs/s/z2wzap/open_source_as_infrastructure_taking"
-    ],
-    [
-      "Open Source as Infrastructure: Taking Roads and Bridges literally",
-      "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html"
     ]
   ],
   [
