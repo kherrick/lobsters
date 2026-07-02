@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 16:33:28](https://lobste.rs/s/3kvccm/gitignore_isn_t_only_way_ignore_files_git) - [.gitignore Isn’t the Only Way To Ignore Files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
 * [2026-07-02, 14:04:10](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental) - [Tools or techniques for conveying mental models?](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental)
 * [2026-07-02, 13:31:04](https://lobste.rs/s/uswzil/opening_up_zero_knowledge_proof) - [Opening up ‘Zero-Knowledge Proof’ technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2026-07-02, 12:46:11](https://lobste.rs/s/omfy64/kernel_asynchronous_reads_postgresql_19) - [kernel asynchronous reads in PostgreSQL 19 (io_uring)](https://dev.to/franckpachot/iouring-buffered-reads-in-postgresql-19-iouring-mcn)

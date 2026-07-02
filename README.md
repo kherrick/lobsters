@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-02, 16:33:28](https://lobste.rs/s/3kvccm/gitignore_isn_t_only_way_ignore_files_git) - [.gitignore Isn’t the Only Way To Ignore Files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
 * [2026-07-02, 14:04:10](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental) - [Tools or techniques for conveying mental models?](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental)
 * [2026-07-02, 13:31:04](https://lobste.rs/s/uswzil/opening_up_zero_knowledge_proof) - [Opening up ‘Zero-Knowledge Proof’ technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2026-07-02, 12:46:11](https://lobste.rs/s/omfy64/kernel_asynchronous_reads_postgresql_19) - [kernel asynchronous reads in PostgreSQL 19 (io_uring)](https://dev.to/franckpachot/iouring-buffered-reads-in-postgresql-19-iouring-mcn)
@@ -13,7 +14,6 @@
 * [2026-07-02, 04:23:14](https://lobste.rs/s/q8vdre/physics_memory_aka_can_javascript_ecs) - [The Physics of Memory (aka can Javascript ECS?)](https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html)
 * [2026-07-02, 02:29:04](https://lobste.rs/s/mml3sh/creating_development_sandbox_with) - [Creating a development sandbox with crosvm](https://www.erat.org/crosvm.html)
 * [2026-07-02, 01:11:56](https://lobste.rs/s/khdiby/artificial_adventures) - [Artificial adventures](https://www.scattered-thoughts.net/writing/artificial-adventures/)
-* [2026-07-02, 00:36:55](https://lobste.rs/s/0kc445/unprivileged_root_via_out_bounds_write) - [Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)](https://cyberstan.co.uk/fuse-readdir-oob/)
 * [2026-07-01, 16:04:07](https://lobste.rs/s/iloa3u/pidgin_3_0_alpha_2_2_96_0_has_been_released) - [Pidgin 3.0 Alpha 2 (2.96.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-07-01, 14:00:35](https://lobste.rs/s/dvhioc/progress_report_linux_7_1_asahi_linux) - [Progress Report: Linux 7.1 - Asahi Linux](https://asahilinux.org/2026/06/progress-report-7-1/)
