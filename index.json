@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2026-07-02, 12:02:29",
-      "https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai"
+      "2026-07-02, 13:31:04",
+      "https://lobste.rs/s/uswzil/opening_up_zero_knowledge_proof"
     ],
     [
-      "Investigating idiosyncrasies in AI fiction",
-      "https://arxiv.org/abs/2604.03136"
+      "Opening up ‘Zero-Knowledge Proof’ technology to promote privacy in age assurance",
+      "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 12:46:11",
+      "https://lobste.rs/s/omfy64/kernel_asynchronous_reads_postgresql_19"
+    ],
+    [
+      "kernel asynchronous reads in PostgreSQL 19 (io_uring)",
+      "https://dev.to/franckpachot/iouring-buffered-reads-in-postgresql-19-iouring-mcn"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "All Package Management Functionality Moved from Compiler to Build System",
       "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 10:59:34",
-      "https://lobste.rs/s/knec7o/changes_godot_engine_contribution"
-    ],
-    [
-      "Changes to Godot Engine Contribution Policies",
-      "https://godotengine.org/article/contribution-policy-2026/"
     ]
   ],
   [
