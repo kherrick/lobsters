@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
 * [2026-07-02, 11:18:06](https://lobste.rs/s/bawlza/this_month_kde_linux_june_2026) - [This month in KDE Linux: June 2026](https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/)
+* [2026-07-02, 11:02:59](https://lobste.rs/s/agwtde/preventing_token_theft) - [Preventing token theft](https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/)
 * [2026-07-02, 10:27:01](https://lobste.rs/s/znejf4/modern_app) - [The modern app](https://dbushell.com/2026/07/02/the-modern-app/)
 * [2026-07-02, 10:05:50](https://lobste.rs/s/hejdhj/wordgard_release_0_1) - [Wordgard Release 0.1](https://marijnhaverbeke.nl/blog/wordgard-0.1.html)
 * [2026-07-02, 08:18:20](https://lobste.rs/s/aofhzo/type_definitions_retrieve_objects_from) - [Type definitions to retrieve objects from localStorage](https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/)
