@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-02, 23:19:21](https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c) - [crustc: Entirety of rustc, translated to C](https://github.com/FractalFir/crustc)
+* [2026-07-02, 22:22:06](https://lobste.rs/s/nhywor/hanakai_hanami_3_0_full_bloom) - [Hanakai, and Hanami 3.0 in Full Bloom](https://www.bounga.org/ruby/2026/07/03/hanakai-and-hanami-3-0/)
 * [2026-07-02, 21:08:50](https://lobste.rs/s/bjnev3/private_capture_public_genius) - [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
 * [2026-07-02, 20:19:52](https://lobste.rs/s/2eyryl/my_quest_see_all_tetris) - [My quest to see all of Tetris](https://antithesis.com/blog/2026/tetris-quest/)
 * [2026-07-02, 20:16:47](https://lobste.rs/s/q4m3fa/newly_discovered_pamstealer_isn_t_your) - [Newly discovered PamStealer isn't your typical macOS malware](https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/)
-* [2026-07-02, 20:05:50](https://lobste.rs/s/bm2vcf/circular_obstacle_pathfinding) - [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/)
 * [2026-07-02, 18:45:00](https://lobste.rs/s/nvwvup/since_linux_6_9_may_2024_luks_encryption) - [Since Linux 6.9 (May 2024), the LUKS encryption key remained resident in memory across suspend](https://mathstodon.xyz/@iblech/116769502749142438)
 * [2026-07-02, 18:43:32](https://lobste.rs/s/oe8pxn/no_llm_code_dependencies) - [No LLM code in dependencies](https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/)
 * [2026-07-02, 16:33:28](https://lobste.rs/s/3kvccm/gitignore_isn_t_only_way_ignore_files_git) - [.gitignore Isn’t the Only Way To Ignore Files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
@@ -23,7 +24,6 @@
 * [2026-07-01, 16:04:07](https://lobste.rs/s/iloa3u/pidgin_3_0_alpha_2_2_96_0_has_been_released) - [Pidgin 3.0 Alpha 2 (2.96.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-07-01, 13:38:39](https://lobste.rs/s/jcdcit/announcing_box3d) - [Announcing Box3D](https://box2d.org/posts/2026/06/announcing-box3d/)
-* [2026-07-01, 10:32:50](https://lobste.rs/s/qwk5vn/building_passive_ethernet_tap) - [Building a passive Ethernet tap](https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/)
 * [2026-07-01, 00:17:06](https://lobste.rs/s/rfkmw3/what_happened_fight_for_internet) - [What happened to the fight for the internet?](https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/)
 
 ## [Archives](archives/index.md)
