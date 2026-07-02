@@ -14,6 +14,7 @@
 * [2026-07-02, 04:23:14](https://lobste.rs/s/q8vdre/physics_memory_aka_can_javascript_ecs) - [The Physics of Memory (aka can Javascript ECS?)](https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html)
 * [2026-07-02, 02:29:04](https://lobste.rs/s/mml3sh/creating_development_sandbox_with) - [Creating a development sandbox with crosvm](https://www.erat.org/crosvm.html)
 * [2026-07-02, 01:11:56](https://lobste.rs/s/khdiby/artificial_adventures) - [Artificial adventures](https://www.scattered-thoughts.net/writing/artificial-adventures/)
+* [2026-07-02, 00:36:55](https://lobste.rs/s/0kc445/unprivileged_root_via_out_bounds_write) - [Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)](https://cyberstan.co.uk/fuse-readdir-oob/)
 * [2026-07-01, 16:04:07](https://lobste.rs/s/iloa3u/pidgin_3_0_alpha_2_2_96_0_has_been_released) - [Pidgin 3.0 Alpha 2 (2.96.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-07-01, 14:00:35](https://lobste.rs/s/dvhioc/progress_report_linux_7_1_asahi_linux) - [Progress Report: Linux 7.1 - Asahi Linux](https://asahilinux.org/2026/06/progress-report-7-1/)
@@ -24,7 +25,6 @@
 * [2026-07-01, 08:01:30](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026) - [Who's hiring? Q3 2026](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026)
 * [2026-07-01, 06:54:13](https://lobste.rs/s/ujlr19/uruky_paid_european_search_engine) - [Uruky - The Paid European Search Engine](https://robheghan.prose.sh/26_06_30_uruky)
 * [2026-07-01, 00:17:06](https://lobste.rs/s/rfkmw3/what_happened_fight_for_internet) - [What happened to the fight for the internet?](https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/)
-* [2026-06-30, 22:16:39](https://lobste.rs/s/96kp1m/jj_jj_jj_jj_jj) - [jj jj jj jj jj](https://caiustheory.com/jj-jj-jj-jj-jj/)
 
 ## [Archives](archives/index.md)
 
