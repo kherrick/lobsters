@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-02, 20:16:47](https://lobste.rs/s/q4m3fa/newly_discovered_pamstealer_isn_t_your) - [Newly discovered PamStealer isn't your typical macOS malware](https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/)
+* [2026-07-02, 20:19:52](https://lobste.rs/s/2eyryl/my_quest_see_all_tetris) - [My quest to see all of Tetris](https://antithesis.com/blog/2026/tetris-quest/)
 * [2026-07-02, 20:05:50](https://lobste.rs/s/bm2vcf/circular_obstacle_pathfinding) - [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/)
 * [2026-07-02, 19:16:48](https://lobste.rs/s/yw6zvi/how_scylladb_s_trie_based_index_delivers) - [How ScyllaDB's Trie-Based Index Delivers Up to 3X More Throughput](https://www.scylladb.com/2026/06/30/trie-index-3x-more-throughput/)
 * [2026-07-02, 18:45:00](https://lobste.rs/s/nvwvup/since_linux_6_9_may_2024_luks_encryption) - [Since Linux 6.9 (May 2024), the LUKS encryption key remained resident in memory across suspend](https://mathstodon.xyz/@iblech/116769502749142438)
