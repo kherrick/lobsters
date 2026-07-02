@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 20:16:47](https://lobste.rs/s/q4m3fa/newly_discovered_pamstealer_isn_t_your) - [Newly discovered PamStealer isn't your typical macOS malware](https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/)
+* [2026-07-02, 20:05:50](https://lobste.rs/s/bm2vcf/circular_obstacle_pathfinding) - [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/)
 * [2026-07-02, 19:16:48](https://lobste.rs/s/yw6zvi/how_scylladb_s_trie_based_index_delivers) - [How ScyllaDB's Trie-Based Index Delivers Up to 3X More Throughput](https://www.scylladb.com/2026/06/30/trie-index-3x-more-throughput/)
 * [2026-07-02, 18:45:00](https://lobste.rs/s/nvwvup/since_linux_6_9_may_2024_luks_encryption) - [Since Linux 6.9 (May 2024), the LUKS encryption key remained resident in memory across suspend](https://mathstodon.xyz/@iblech/116769502749142438)
 * [2026-07-02, 18:43:32](https://lobste.rs/s/oe8pxn/no_llm_code_dependencies) - [No LLM code in dependencies](https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/)
