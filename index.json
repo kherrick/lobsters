@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-02, 11:18:06",
+      "https://lobste.rs/s/bawlza/this_month_kde_linux_june_2026"
+    ],
+    [
+      "This month in KDE Linux: June 2026",
+      "https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 10:27:01",
+      "https://lobste.rs/s/znejf4/modern_app"
+    ],
+    [
+      "The modern app",
+      "https://dbushell.com/2026/07/02/the-modern-app/"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 10:05:50",
       "https://lobste.rs/s/hejdhj/wordgard_release_0_1"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2026-07-02, 05:19:10",
-      "https://lobste.rs/s/gwxqmh/control_plane_was_point_revisiting"
-    ],
-    [
-      "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
-      "https://yfu.tw/blog/en/autofz-revisited/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 04:23:14",
       "https://lobste.rs/s/q8vdre/physics_memory_aka_can_javascript_ecs"
     ],
     [
       "The Physics of Memory (aka can Javascript ECS?)",
       "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 02:32:44",
-      "https://lobste.rs/s/tgjz7s/improving_token_efficiency_for_github"
-    ],
-    [
-      "Improving token efficiency for GitHub Copilot in VS Code",
-      "https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot"
     ]
   ],
   [
