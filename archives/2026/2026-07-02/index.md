@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
 * [2026-07-02, 14:04:10](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental) - [Tools or techniques for conveying mental models?](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental)
+* [2026-07-02, 12:02:29](https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai) - [Investigating idiosyncrasies in AI fiction](https://arxiv.org/abs/2604.03136)
 * [2026-07-02, 12:01:19](https://lobste.rs/s/e1uduo/jj_v0_43_0_released) - [jj v0.43.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.43.0)
 * [2026-07-02, 11:18:06](https://lobste.rs/s/bawlza/this_month_kde_linux_june_2026) - [This month in KDE Linux: June 2026](https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/)
 * [2026-07-02, 11:02:59](https://lobste.rs/s/agwtde/preventing_token_theft) - [Preventing token theft](https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/)

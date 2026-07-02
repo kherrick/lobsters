@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-02, 14:04:10](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental) - [Tools or techniques for conveying mental models?](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental)
+* [2026-07-02, 12:02:29](https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai) - [Investigating idiosyncrasies in AI fiction](https://arxiv.org/abs/2604.03136)
 * [2026-07-02, 12:01:19](https://lobste.rs/s/e1uduo/jj_v0_43_0_released) - [jj v0.43.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.43.0)
 * [2026-07-02, 11:18:06](https://lobste.rs/s/bawlza/this_month_kde_linux_june_2026) - [This month in KDE Linux: June 2026](https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/)
 * [2026-07-02, 11:02:59](https://lobste.rs/s/agwtde/preventing_token_theft) - [Preventing token theft](https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/)
@@ -12,7 +13,6 @@
 * [2026-07-02, 02:29:04](https://lobste.rs/s/mml3sh/creating_development_sandbox_with) - [Creating a development sandbox with crosvm](https://www.erat.org/crosvm.html)
 * [2026-07-02, 01:11:56](https://lobste.rs/s/khdiby/artificial_adventures) - [Artificial adventures](https://www.scattered-thoughts.net/writing/artificial-adventures/)
 * [2026-07-02, 00:36:55](https://lobste.rs/s/0kc445/unprivileged_root_via_out_bounds_write) - [Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)](https://cyberstan.co.uk/fuse-readdir-oob/)
-* [2026-07-01, 17:29:00](https://lobste.rs/s/z2wzap/open_source_as_infrastructure_taking) - [Open Source as Infrastructure: Taking Roads and Bridges literally](https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html)
 * [2026-07-01, 16:04:07](https://lobste.rs/s/iloa3u/pidgin_3_0_alpha_2_2_96_0_has_been_released) - [Pidgin 3.0 Alpha 2 (2.96.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-07-01, 14:00:35](https://lobste.rs/s/dvhioc/progress_report_linux_7_1_asahi_linux) - [Progress Report: Linux 7.1 - Asahi Linux](https://asahilinux.org/2026/06/progress-report-7-1/)
