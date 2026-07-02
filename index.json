@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-02, 10:05:50",
+      "https://lobste.rs/s/hejdhj/wordgard_release_0_1"
+    ],
+    [
+      "Wordgard Release 0.1",
+      "https://marijnhaverbeke.nl/blog/wordgard-0.1.html"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 08:18:20",
       "https://lobste.rs/s/aofhzo/type_definitions_retrieve_objects_from"
     ],
@@ -237,16 +247,6 @@
     [
       "jj jj jj jj jj",
       "https://caiustheory.com/jj-jj-jj-jj-jj/"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 19:04:44",
-      "https://lobste.rs/s/qs2sxd/claude_code_is_steganographically"
-    ],
-    [
-      "Claude Code Is Steganographically Marking Requests",
-      "https://thereallo.dev/blog/claude-code-prompt-steganography"
     ]
   ]
 ]
