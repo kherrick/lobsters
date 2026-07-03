@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 15:32:37](https://lobste.rs/s/e6k4z1/gossamer) - [Gossamer](https://gossamer-lang.org/)
+* [2026-07-03, 15:26:27](https://lobste.rs/s/u7ls6b/self_hosted_ai_news_aggregator_using) - [Self-Hosted AI news aggregator using Cloudflare Workers, Vectorize, and Nostr](https://github.com/delirehberi/news)
 * [2026-07-03, 15:05:10](https://lobste.rs/s/fjzu4i/extralite_3_0_0_released) - [Extralite 3.0.0 Released](https://noteflakes.com/articles/2026-07-02-extralite-3)
 * [2026-07-03, 14:19:49](https://lobste.rs/s/cj4sfz/dogesh_is_python_based_interpreted) - [Dogesh is a Python-based interpreted programming language where every keyword speaks dog](https://github.com/rajtilakjee/dogesh)
 * [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
