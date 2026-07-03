@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-03, 15:05:10",
+      "https://lobste.rs/s/fjzu4i/extralite_3_0_0_released"
+    ],
+    [
+      "Extralite 3.0.0 Released",
+      "https://noteflakes.com/articles/2026-07-02-extralite-3"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 14:19:49",
       "https://lobste.rs/s/cj4sfz/dogesh_is_python_based_interpreted"
     ],
@@ -17,6 +27,16 @@
     [
       "Fourteener Lobsters",
       "https://lobste.rs/s/zwz0wh/fourteener_lobsters"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 13:38:34",
+      "https://lobste.rs/s/munamr/non_hybrid_tls_mlkem_standard_by_any_other"
+    ],
+    [
+      "A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions",
+      "https://blog.cr.yp.to/20260702-standard.html"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-07-03, 02:05:33",
-      "https://lobste.rs/s/qacs6u/core_dump_epidemiology_fixing_18_year_old"
-    ],
-    [
-      "Core dump epidemiology: fixing an 18-year-old bug",
-      "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 23:32:37",
       "https://lobste.rs/s/65hqvm/proposal_async_context_async_context_for"
     ],
@@ -157,16 +167,6 @@
     [
       "ds.css: A css framework recreating the DS / DS Lite's UI",
       "https://github.com/spiritov/ds.css"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 20:05:50",
-      "https://lobste.rs/s/bm2vcf/circular_obstacle_pathfinding"
-    ],
-    [
-      "Circular Obstacle Pathfinding",
-      "https://redblobgames.github.io/circular-obstacle-pathfinding/"
     ]
   ],
   [
