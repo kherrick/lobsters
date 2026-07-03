@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 23:32:37](https://lobste.rs/s/65hqvm/proposal_async_context_async_context_for) - [proposal-async-context: Async Context for JavaScript](https://github.com/tc39/proposal-async-context)
 * [2026-07-02, 23:19:21](https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c) - [crustc: Entirety of rustc, translated to C](https://github.com/FractalFir/crustc)
 * [2026-07-02, 23:04:59](https://lobste.rs/s/irmpmz/understanding_is_new_bottleneck) - [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html)
 * [2026-07-02, 22:22:06](https://lobste.rs/s/nhywor/hanakai_hanami_3_0_full_bloom) - [Hanakai, and Hanami 3.0 in Full Bloom](https://www.bounga.org/ruby/2026/07/03/hanakai-and-hanami-3-0/)

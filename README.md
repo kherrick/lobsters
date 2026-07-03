@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-03, 02:05:33](https://lobste.rs/s/qacs6u/core_dump_epidemiology_fixing_18_year_old) - [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/)
+* [2026-07-03, 02:39:28](https://lobste.rs/s/ovcwkm/arbitrary_code_execution_breaking) - [Arbitrary code execution breaking sandboxes in KDE Plasma](https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/)
+* [2026-07-02, 23:32:37](https://lobste.rs/s/65hqvm/proposal_async_context_async_context_for) - [proposal-async-context: Async Context for JavaScript](https://github.com/tc39/proposal-async-context)
 * [2026-07-02, 23:19:21](https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c) - [crustc: Entirety of rustc, translated to C](https://github.com/FractalFir/crustc)
 * [2026-07-02, 23:04:59](https://lobste.rs/s/irmpmz/understanding_is_new_bottleneck) - [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html)
 * [2026-07-02, 20:19:52](https://lobste.rs/s/2eyryl/my_quest_see_all_tetris) - [My quest to see all of Tetris](https://antithesis.com/blog/2026/tetris-quest/)
@@ -12,7 +13,6 @@
 * [2026-07-02, 13:31:04](https://lobste.rs/s/uswzil/opening_up_zero_knowledge_proof) - [Opening up ‘Zero-Knowledge Proof’ technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2026-07-02, 12:46:11](https://lobste.rs/s/omfy64/kernel_asynchronous_reads_postgresql_19) - [kernel asynchronous reads in PostgreSQL 19 (io_uring)](https://dev.to/franckpachot/iouring-buffered-reads-in-postgresql-19-iouring-mcn)
 * [2026-07-02, 12:01:19](https://lobste.rs/s/e1uduo/jj_v0_43_0_released) - [jj v0.43.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.43.0)
-* [2026-07-02, 11:18:06](https://lobste.rs/s/bawlza/this_month_kde_linux_june_2026) - [This month in KDE Linux: June 2026](https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/)
 * [2026-07-02, 11:02:59](https://lobste.rs/s/agwtde/preventing_token_theft) - [Preventing token theft](https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/)
 * [2026-07-02, 10:27:01](https://lobste.rs/s/znejf4/modern_app) - [The modern app](https://dbushell.com/2026/07/02/the-modern-app/)
 * [2026-07-02, 10:05:50](https://lobste.rs/s/hejdhj/wordgard_release_0_1) - [Wordgard Release 0.1](https://marijnhaverbeke.nl/blog/wordgard-0.1.html)
