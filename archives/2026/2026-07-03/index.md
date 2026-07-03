@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 22:22:40](https://lobste.rs/s/xwsfs3/espionage_against_european_parliament) - [Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/)
 * [2026-07-03, 21:58:55](https://lobste.rs/s/j8kqth/sem_new_code_understanding_primitive) - [sem: A new code understanding primitive tool at a semantic granularity](https://ataraxy-labs.github.io/sem/)
 * [2026-07-03, 21:49:26](https://lobste.rs/s/i7klfz/my_favorite_keyboards) - [My favorite keyboards](https://fabiensanglard.net/keyboards/index.html)
+* [2026-07-03, 20:03:53](https://lobste.rs/s/oaqknh/windows_kernel_browser_tab_part_i_cold) - [A Windows Kernel in a Browser Tab, Part I: Cold Boot, Fast Boot, and Four Megabytes](https://www.msuiche.com/posts/nanokrnl-cold-boot-fast-boot/)
 * [2026-07-03, 18:29:28](https://lobste.rs/s/b8mxtz/piefed_v1_7_is_released_following_users) - [PieFed v1.7 is released: Following Users, Faster Browsing & Smarter Moderation](https://join.piefed.social/2026/07/03/piefed-v1-7-is-released-following-users-faster-browsing-smarter-moderation/)
 * [2026-07-03, 16:39:02](https://lobste.rs/s/skwy7v/goodbye_forever_probably) - [Goodbye, forever, probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
 * [2026-07-03, 15:42:35](https://lobste.rs/s/cpzsag/markets_are_competitive_if_only_if_p_np) - [Markets are competitive if and only if P != NP](https://arxiv.org/abs/2602.20415)
