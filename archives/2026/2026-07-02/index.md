@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
 * [2026-07-02, 23:19:21](https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c) - [crustc: Entirety of rustc, translated to C](https://github.com/FractalFir/crustc)
+* [2026-07-02, 23:04:59](https://lobste.rs/s/irmpmz/understanding_is_new_bottleneck) - [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html)
 * [2026-07-02, 22:22:06](https://lobste.rs/s/nhywor/hanakai_hanami_3_0_full_bloom) - [Hanakai, and Hanami 3.0 in Full Bloom](https://www.bounga.org/ruby/2026/07/03/hanakai-and-hanami-3-0/)
 * [2026-07-02, 21:08:50](https://lobste.rs/s/bjnev3/private_capture_public_genius) - [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
 * [2026-07-02, 20:19:52](https://lobste.rs/s/2eyryl/my_quest_see_all_tetris) - [My quest to see all of Tetris](https://antithesis.com/blog/2026/tetris-quest/)
 * [2026-07-02, 20:16:47](https://lobste.rs/s/q4m3fa/newly_discovered_pamstealer_isn_t_your) - [Newly discovered PamStealer isn't your typical macOS malware](https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/)
+* [2026-07-02, 20:14:02](https://lobste.rs/s/loubrx/ds_css_css_framework_recreating_ds_ds_lite) - [ds.css: A css framework recreating the DS / DS Lite's UI](https://github.com/spiritov/ds.css)
 * [2026-07-02, 20:05:50](https://lobste.rs/s/bm2vcf/circular_obstacle_pathfinding) - [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/)
 * [2026-07-02, 19:16:48](https://lobste.rs/s/yw6zvi/how_scylladb_s_trie_based_index_delivers) - [How ScyllaDB's Trie-Based Index Delivers Up to 3X More Throughput](https://www.scylladb.com/2026/06/30/trie-index-3x-more-throughput/)
 * [2026-07-02, 18:45:00](https://lobste.rs/s/nvwvup/since_linux_6_9_may_2024_luks_encryption) - [Since Linux 6.9 (May 2024), the LUKS encryption key remained resident in memory across suspend](https://mathstodon.xyz/@iblech/116769502749142438)
