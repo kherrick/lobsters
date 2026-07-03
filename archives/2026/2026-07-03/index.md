@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 16:39:02](https://lobste.rs/s/skwy7v/goodbye_forever_probably) - [Goodbye, forever, probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
 * [2026-07-03, 15:42:35](https://lobste.rs/s/cpzsag/markets_are_competitive_if_only_if_p_np) - [Markets are competitive if and only if P != NP](https://arxiv.org/abs/2602.20415)
 * [2026-07-03, 15:32:37](https://lobste.rs/s/e6k4z1/gossamer) - [Gossamer](https://gossamer-lang.org/)
 * [2026-07-03, 15:26:27](https://lobste.rs/s/u7ls6b/self_hosted_ai_news_aggregator_using) - [Self-Hosted AI news aggregator using Cloudflare Workers, Vectorize, and Nostr](https://github.com/delirehberi/news)

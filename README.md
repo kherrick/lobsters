@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-03, 16:39:02](https://lobste.rs/s/skwy7v/goodbye_forever_probably) - [Goodbye, forever, probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
 * [2026-07-03, 15:42:35](https://lobste.rs/s/cpzsag/markets_are_competitive_if_only_if_p_np) - [Markets are competitive if and only if P != NP](https://arxiv.org/abs/2602.20415)
 * [2026-07-03, 15:32:37](https://lobste.rs/s/e6k4z1/gossamer) - [Gossamer](https://gossamer-lang.org/)
 * [2026-07-03, 15:26:27](https://lobste.rs/s/u7ls6b/self_hosted_ai_news_aggregator_using) - [Self-Hosted AI news aggregator using Cloudflare Workers, Vectorize, and Nostr](https://github.com/delirehberi/news)
@@ -17,7 +18,6 @@
 * [2026-07-03, 02:39:28](https://lobste.rs/s/ovcwkm/arbitrary_code_execution_breaking) - [Arbitrary code execution breaking sandboxes in KDE Plasma](https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/)
 * [2026-07-02, 23:19:21](https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c) - [crustc: Entirety of rustc, translated to C](https://github.com/FractalFir/crustc)
 * [2026-07-02, 23:04:59](https://lobste.rs/s/irmpmz/understanding_is_new_bottleneck) - [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html)
-* [2026-07-02, 20:19:52](https://lobste.rs/s/2eyryl/my_quest_see_all_tetris) - [My quest to see all of Tetris](https://antithesis.com/blog/2026/tetris-quest/)
 * [2026-07-02, 20:14:02](https://lobste.rs/s/loubrx/ds_css_css_framework_recreating_ds_ds_lite) - [ds.css: A css framework recreating the DS / DS Lite's UI](https://github.com/spiritov/ds.css)
 * [2026-07-02, 18:45:00](https://lobste.rs/s/nvwvup/since_linux_6_9_may_2024_luks_encryption) - [Since Linux 6.9 (May 2024), the LUKS encryption key remained resident in memory across suspend](https://mathstodon.xyz/@iblech/116769502749142438)
 * [2026-07-02, 18:43:32](https://lobste.rs/s/oe8pxn/no_llm_code_dependencies) - [No LLM code in dependencies](https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/)
