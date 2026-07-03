@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 13:37:09](https://lobste.rs/s/1g5bum/why_implementing_activitypub_is_hard_why) - [Why implementing ActivityPub is hard, and why it doesn't have to be](https://hackers.pub/@fedify/2026/why-activitypub-is-hard)
 * [2026-07-03, 12:50:53](https://lobste.rs/s/09tksp/short_leash_ai_coding_method_for_beating) - [The Short Leash AI Coding Method For Beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
+* [2026-07-03, 12:27:45](https://lobste.rs/s/fcg4xw/automating_rubber_stamp_what_if_agent_ran) - [Automating the Rubber Stamp: What If an Agent Ran Your Deployment Gate?](https://mattvanbird.co.uk/article/ai-deployment-agent)
 * [2026-07-03, 10:57:53](https://lobste.rs/s/fuyanm/diving_into_depths_widevine_l3) - [Diving into the depths of Widevine L3](https://neodyme.io/en/blog/widevine_l3)
 * [2026-07-03, 10:20:58](https://lobste.rs/s/yyvrj3/call_act_reject_draft_ietf_tls_mlkem_08) - [Call to act to reject draft-ietf-tls-mlkem-08 (Ends 2026-07-08)](https://nsa.2026.action.cr.yp.to/)
 * [2026-07-03, 09:57:25](https://lobste.rs/s/rhgehk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rhgehk/what_are_you_doing_this_weekend)
