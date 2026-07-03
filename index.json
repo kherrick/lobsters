@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-07-03, 15:05:10",
-      "https://lobste.rs/s/fjzu4i/extralite_3_0_0_released"
-    ],
-    [
-      "Extralite 3.0.0 Released",
-      "https://noteflakes.com/articles/2026-07-02-extralite-3"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 14:19:49",
       "https://lobste.rs/s/cj4sfz/dogesh_is_python_based_interpreted"
     ],
@@ -77,6 +67,16 @@
     [
       "Why implementing ActivityPub is hard, and why it doesn't have to be",
       "https://hackers.pub/@fedify/2026/why-activitypub-is-hard"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 13:19:56",
+      "https://lobste.rs/s/ktvazf/mask_compiles_nothing_how_hotspot_s_jit"
+    ],
+    [
+      "The mask that compiles to nothing: how HotSpot's JIT learned to reason about bits",
+      "https://questdb.com/blog/jvm-jit-known-bits/"
     ]
   ],
   [
