@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-03, 21:58:55",
+      "https://lobste.rs/s/j8kqth/sem_new_code_understanding_primitive"
+    ],
+    [
+      "sem: A new code understanding primitive tool at a semantic granularity",
+      "https://ataraxy-labs.github.io/sem/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 21:49:26",
+      "https://lobste.rs/s/i7klfz/my_favorite_keyboards"
+    ],
+    [
+      "My favorite keyboards",
+      "https://fabiensanglard.net/keyboards/index.html"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 18:29:28",
       "https://lobste.rs/s/b8mxtz/piefed_v1_7_is_released_following_users"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-07-02, 20:19:52",
-      "https://lobste.rs/s/2eyryl/my_quest_see_all_tetris"
-    ],
-    [
-      "My quest to see all of Tetris",
-      "https://antithesis.com/blog/2026/tetris-quest/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 20:14:02",
       "https://lobste.rs/s/loubrx/ds_css_css_framework_recreating_ds_ds_lite"
     ],
     [
       "ds.css: A css framework recreating the DS / DS Lite's UI",
       "https://github.com/spiritov/ds.css"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 18:45:00",
-      "https://lobste.rs/s/nvwvup/since_linux_6_9_may_2024_luks_encryption"
-    ],
-    [
-      "Since Linux 6.9 (May 2024), the LUKS encryption key remained resident in memory across suspend",
-      "https://mathstodon.xyz/@iblech/116769502749142438"
     ]
   ],
   [
