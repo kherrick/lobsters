@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 09:57:25](https://lobste.rs/s/rhgehk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rhgehk/what_are_you_doing_this_weekend)
 * [2026-07-03, 06:45:52](https://lobste.rs/s/xg4bbg/guix_substitute_guix_pull) - [‘guix substitute‘ and ‘guix pull‘ vulnerabilities](https://guix.gnu.org/en/blog/2026/guix-substitute-pull-vulnerabilities/)
 * [2026-07-03, 06:16:09](https://lobste.rs/s/jlj10f/until_heat_death_do_us_part_counting_until) - [Until_Heat_Death_Do_Us_Part: Counting until the heat death of the universe, broadcasting counter every second over 100Mbps ethernet](https://github.com/Essenceia/Until_Heat_Death_Do_Us_Part)
 * [2026-07-03, 05:25:28](https://lobste.rs/s/asi79o/clickhouse_is_winning_observability) - [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/)
