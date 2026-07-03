@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 14:19:49](https://lobste.rs/s/cj4sfz/dogesh_is_python_based_interpreted) - [Dogesh is a Python-based interpreted programming language where every keyword speaks dog](https://github.com/rajtilakjee/dogesh)
+* [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
 * [2026-07-03, 13:37:09](https://lobste.rs/s/1g5bum/why_implementing_activitypub_is_hard_why) - [Why implementing ActivityPub is hard, and why it doesn't have to be](https://hackers.pub/@fedify/2026/why-activitypub-is-hard)
 * [2026-07-03, 12:50:53](https://lobste.rs/s/09tksp/short_leash_ai_coding_method_for_beating) - [The Short Leash AI Coding Method For Beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 * [2026-07-03, 12:27:45](https://lobste.rs/s/fcg4xw/automating_rubber_stamp_what_if_agent_ran) - [Automating the Rubber Stamp: What If an Agent Ran Your Deployment Gate?](https://mattvanbird.co.uk/article/ai-deployment-agent)
