@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-03, 10:57:53](https://lobste.rs/s/fuyanm/diving_into_depths_widevine_l3) - [Diving into the depths of Widevine L3](https://neodyme.io/en/blog/widevine_l3)
+* [2026-07-03, 10:20:58](https://lobste.rs/s/yyvrj3/call_act_reject_draft_ietf_tls_mlkem_08) - [Call to act to reject draft-ietf-tls-mlkem-08 (Ends 2026-07-08)](https://nsa.2026.action.cr.yp.to/)
 * [2026-07-03, 09:57:25](https://lobste.rs/s/rhgehk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rhgehk/what_are_you_doing_this_weekend)
 * [2026-07-03, 06:45:52](https://lobste.rs/s/xg4bbg/guix_substitute_guix_pull) - [‘guix substitute‘ and ‘guix pull‘ vulnerabilities](https://guix.gnu.org/en/blog/2026/guix-substitute-pull-vulnerabilities/)
 * [2026-07-03, 06:16:09](https://lobste.rs/s/jlj10f/until_heat_death_do_us_part_counting_until) - [Until_Heat_Death_Do_Us_Part: Counting until the heat death of the universe, broadcasting counter every second over 100Mbps ethernet](https://github.com/Essenceia/Until_Heat_Death_Do_Us_Part)
@@ -21,8 +23,6 @@
 * [2026-07-02, 12:01:19](https://lobste.rs/s/e1uduo/jj_v0_43_0_released) - [jj v0.43.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.43.0)
 * [2026-07-02, 10:27:01](https://lobste.rs/s/znejf4/modern_app) - [The modern app](https://dbushell.com/2026/07/02/the-modern-app/)
 * [2026-07-02, 10:05:50](https://lobste.rs/s/hejdhj/wordgard_release_0_1) - [Wordgard Release 0.1](https://marijnhaverbeke.nl/blog/wordgard-0.1.html)
-* [2026-07-02, 05:21:42](https://lobste.rs/s/vuqsur/on_ditching_vagrant) - [On Ditching Vagrant](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
-* [2026-07-02, 04:23:14](https://lobste.rs/s/q8vdre/physics_memory_aka_can_javascript_ecs) - [The Physics of Memory (aka can Javascript ECS?)](https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html)
 * [2026-07-02, 01:11:56](https://lobste.rs/s/khdiby/artificial_adventures) - [Artificial adventures](https://www.scattered-thoughts.net/writing/artificial-adventures/)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 
