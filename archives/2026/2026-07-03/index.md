@@ -12,6 +12,7 @@
 * [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
 * [2026-07-03, 13:38:34](https://lobste.rs/s/munamr/non_hybrid_tls_mlkem_standard_by_any_other) - [A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions](https://blog.cr.yp.to/20260702-standard.html)
 * [2026-07-03, 13:37:09](https://lobste.rs/s/1g5bum/why_implementing_activitypub_is_hard_why) - [Why implementing ActivityPub is hard, and why it doesn't have to be](https://hackers.pub/@fedify/2026/why-activitypub-is-hard)
+* [2026-07-03, 13:19:56](https://lobste.rs/s/ktvazf/mask_compiles_nothing_how_hotspot_s_jit) - [The mask that compiles to nothing: how HotSpot's JIT learned to reason about bits](https://questdb.com/blog/jvm-jit-known-bits/)
 * [2026-07-03, 12:50:53](https://lobste.rs/s/09tksp/short_leash_ai_coding_method_for_beating) - [The Short Leash AI Coding Method For Beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 * [2026-07-03, 12:27:45](https://lobste.rs/s/fcg4xw/automating_rubber_stamp_what_if_agent_ran) - [Automating the Rubber Stamp: What If an Agent Ran Your Deployment Gate?](https://mattvanbird.co.uk/article/ai-deployment-agent)
 * [2026-07-03, 10:57:53](https://lobste.rs/s/fuyanm/diving_into_depths_widevine_l3) - [Diving into the depths of Widevine L3](https://neodyme.io/en/blog/widevine_l3)
