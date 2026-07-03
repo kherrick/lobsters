@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-03, 15:42:35](https://lobste.rs/s/cpzsag/markets_are_competitive_if_only_if_p_np) - [Markets are competitive if and only if P != NP](https://arxiv.org/abs/2602.20415)
 * [2026-07-03, 15:32:37](https://lobste.rs/s/e6k4z1/gossamer) - [Gossamer](https://gossamer-lang.org/)
 * [2026-07-03, 15:26:27](https://lobste.rs/s/u7ls6b/self_hosted_ai_news_aggregator_using) - [Self-Hosted AI news aggregator using Cloudflare Workers, Vectorize, and Nostr](https://github.com/delirehberi/news)
 * [2026-07-03, 15:05:10](https://lobste.rs/s/fjzu4i/extralite_3_0_0_released) - [Extralite 3.0.0 Released](https://noteflakes.com/articles/2026-07-02-extralite-3)
@@ -24,7 +25,6 @@
 * [2026-07-02, 14:04:10](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental) - [Tools or techniques for conveying mental models?](https://lobste.rs/s/ubl3i2/tools_techniques_for_conveying_mental)
 * [2026-07-02, 12:01:19](https://lobste.rs/s/e1uduo/jj_v0_43_0_released) - [jj v0.43.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.43.0)
 * [2026-07-02, 10:05:50](https://lobste.rs/s/hejdhj/wordgard_release_0_1) - [Wordgard Release 0.1](https://marijnhaverbeke.nl/blog/wordgard-0.1.html)
-* [2026-07-02, 01:11:56](https://lobste.rs/s/khdiby/artificial_adventures) - [Artificial adventures](https://www.scattered-thoughts.net/writing/artificial-adventures/)
 
 ## [Archives](archives/index.md)
 
