@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-04, 18:40:52",
+      "https://lobste.rs/s/dbopp5/diy_risc_v_ultracluster"
+    ],
+    [
+      "DIY RISC-V ultracluster",
+      "https://youtube.com/watch?v=qMR3IXF2sWw"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 18:40:12",
       "https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242"
     ],
@@ -37,16 +47,6 @@
     [
       "thundersnap v0.01: an undo button for everything",
       "https://github.com/tailscale/thundersnap/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 17:14:50",
-      "https://lobste.rs/s/govhy8/wince_dc_windows_ce_dreamcast_community"
-    ],
-    [
-      "wince-dc: Windows CE Dreamcast Community Edition",
-      "https://github.com/maximqaxd/wince-dc"
     ]
   ],
   [
