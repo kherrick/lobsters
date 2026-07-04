@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-04, 18:40:12",
+      "https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242"
+    ],
+    [
+      "Bad Epoll (CVE-2026-46242)",
+      "https://github.com/J-jaeyoung/bad-epoll"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 18:30:17",
       "https://lobste.rs/s/gylztp/thoughts_on_coding_agents_rakyll_org"
     ],
@@ -187,16 +197,6 @@
     [
       "I Don't Maintain My Homelab",
       "https://cleberg.net/blog/homelab-maintenance.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 22:22:40",
-      "https://lobste.rs/s/xwsfs3/espionage_against_european_parliament"
-    ],
-    [
-      "Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus",
-      "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/"
     ]
   ],
   [
