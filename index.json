@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-04, 11:57:02",
+      "https://lobste.rs/s/be22hc/reducing_assumptions_exploding_your"
+    ],
+    [
+      "Reducing Assumptions, Exploding Your Code",
+      "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 11:53:48",
+      "https://lobste.rs/s/ekxkqq/dunya_kirkali_your_organization_as_graph"
+    ],
+    [
+      "Dunya Kirkali - Your organization as a Graph",
+      "https://www.wearedevelopers.com/en/videos/2051/your-organization-as-a-graph"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 09:16:24",
       "https://lobste.rs/s/4tiool/what_should_personal_website_be"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-07-03, 15:42:35",
-      "https://lobste.rs/s/cpzsag/markets_are_competitive_if_only_if_p_np"
-    ],
-    [
-      "Markets are competitive if and only if P != NP",
-      "https://arxiv.org/abs/2602.20415"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 15:32:37",
       "https://lobste.rs/s/e6k4z1/gossamer"
     ],
@@ -237,16 +247,6 @@
     [
       "crustc: Entirety of rustc, translated to C",
       "https://github.com/FractalFir/crustc"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 18:43:32",
-      "https://lobste.rs/s/oe8pxn/no_llm_code_dependencies"
-    ],
-    [
-      "No LLM code in dependencies",
-      "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
     ]
   ]
 ]
