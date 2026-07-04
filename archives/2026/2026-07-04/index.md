@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 11:57:02](https://lobste.rs/s/be22hc/reducing_assumptions_exploding_your) - [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
+* [2026-07-04, 11:53:48](https://lobste.rs/s/ekxkqq/dunya_kirkali_your_organization_as_graph) - [Dunya Kirkali - Your organization as a Graph](https://www.wearedevelopers.com/en/videos/2051/your-organization-as-a-graph)
 * [2026-07-04, 09:16:24](https://lobste.rs/s/4tiool/what_should_personal_website_be) - [What should a personal website be?](https://ratfactor.com/cards/personal-website)
 * [2026-07-04, 06:43:32](https://lobste.rs/s/yvwctq/synthesis_is_harder_than_analysis) - [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
 * [2026-07-04, 06:13:30](https://lobste.rs/s/sohna2/openclaw_just_launched_official_app_for) - [OpenClaw just launched an official app for iPhone](https://9to5mac.com/2026/06/29/openclaw-just-launched-an-official-app-for-iphone-details-here/)
