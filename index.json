@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-04, 12:35:37",
+      "https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026"
+    ],
+    [
+      "Who's Hiring? - Support Edition - Q3 2026",
+      "https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 12:28:37",
+      "https://lobste.rs/s/qmnpkm/freebsd_ate_my_ram"
+    ],
+    [
+      "FreeBSD ate my ram",
+      "https://crocidb.com/post/freebsd-ate-my-ram/"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 11:57:02",
       "https://lobste.rs/s/be22hc/reducing_assumptions_exploding_your"
     ],
@@ -17,6 +37,16 @@
     [
       "Dunya Kirkali - Your organization as a Graph",
       "https://www.wearedevelopers.com/en/videos/2051/your-organization-as-a-graph"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 11:30:50",
+      "https://lobste.rs/s/avqu6k/developer_verification_lineageos"
+    ],
+    [
+      "Developer Verification – LineageOS",
+      "https://lineageos.org/Developer-Verification/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-07-04, 00:17:28",
-      "https://lobste.rs/s/p7z8ip/lemmy_development_update_june_2026_1_0_0"
-    ],
-    [
-      "Lemmy Development Update June 2026 and 1.0.0-beta.1",
-      "https://lemmy.ml/post/49561214"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 23:25:09",
       "https://lobste.rs/s/wbpoiy/magit_4_6_released"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-07-03, 15:32:37",
-      "https://lobste.rs/s/e6k4z1/gossamer"
-    ],
-    [
-      "Gossamer",
-      "https://gossamer-lang.org/"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 14:14:38",
       "https://lobste.rs/s/zwz0wh/fourteener_lobsters"
     ],
@@ -187,16 +197,6 @@
     [
       "Why implementing ActivityPub is hard, and why it doesn't have to be",
       "https://hackers.pub/@fedify/2026/why-activitypub-is-hard"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 11:46:46",
-      "https://lobste.rs/s/tmmf5m/fixing_full_bleed_css"
-    ],
-    [
-      "Fixing full-bleed CSS",
-      "https://dbushell.com/2026/07/03/fixing-full-bleed-css/"
     ]
   ],
   [
