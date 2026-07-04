@@ -6,9 +6,11 @@
 
 * [2026-07-04, 21:51:19](https://lobste.rs/s/yrmpxy/better_models_worse_tools) - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
 * [2026-07-04, 21:37:21](https://lobste.rs/s/svm2dp/returning_zig) - [Returning to Zig](https://gracefulliberty.com/articles/return-to-zig/)
+* [2026-07-04, 20:41:03](https://lobste.rs/s/5akjfx/lion_witch_audacity_recruiters) - [The Lion, The Witch, and the audacity of recruiters](https://hauleth.dev/post/the-lion-the-witch-and-the-aduacity-of-recruiter/)
 * [2026-07-04, 18:40:52](https://lobste.rs/s/dbopp5/diy_risc_v_ultracluster) - [DIY RISC-V ultracluster](https://youtube.com/watch?v=qMR3IXF2sWw)
 * [2026-07-04, 18:40:12](https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242) - [Bad Epoll (CVE-2026-46242)](https://github.com/J-jaeyoung/bad-epoll)
 * [2026-07-04, 18:30:17](https://lobste.rs/s/gylztp/thoughts_on_coding_agents_rakyll_org) - [Thoughts on coding agents · rakyll.org](https://rakyll.org/coding-agents/)
+* [2026-07-04, 18:30:17](https://lobste.rs/s/gylztp/thoughts_on_coding_agents) - [Thoughts on coding agents](https://rakyll.org/coding-agents/)
 * [2026-07-04, 18:25:49](https://lobste.rs/s/otepg9/immich_v3_0_0_released) - [Immich v3.0.0 Released](https://immich.app/blog/v3.0.0-release)
 * [2026-07-04, 17:59:10](https://lobste.rs/s/d7mfza/thundersnap_v0_01_undo_button_for) - [thundersnap v0.01: an undo button for everything](https://github.com/tailscale/thundersnap/)
 * [2026-07-04, 17:16:43](https://lobste.rs/s/07ka0h/counterexample_wegner_s_conjecture_for) - [A Counterexample to Wegner's Conjecture for Axis-Parallel Rectangles](https://arxiv.org/abs/2606.17854)

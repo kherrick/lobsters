@@ -2,8 +2,10 @@
 
 * [2026-07-04, 21:51:19](https://lobste.rs/s/yrmpxy/better_models_worse_tools) - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
 * [2026-07-04, 21:37:21](https://lobste.rs/s/svm2dp/returning_zig) - [Returning to Zig](https://gracefulliberty.com/articles/return-to-zig/)
+* [2026-07-04, 20:41:03](https://lobste.rs/s/5akjfx/lion_witch_audacity_recruiters) - [The Lion, The Witch, and the audacity of recruiters](https://hauleth.dev/post/the-lion-the-witch-and-the-aduacity-of-recruiter/)
 * [2026-07-04, 18:40:52](https://lobste.rs/s/dbopp5/diy_risc_v_ultracluster) - [DIY RISC-V ultracluster](https://youtube.com/watch?v=qMR3IXF2sWw)
 * [2026-07-04, 18:40:12](https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242) - [Bad Epoll (CVE-2026-46242)](https://github.com/J-jaeyoung/bad-epoll)
+* [2026-07-04, 18:30:17](https://lobste.rs/s/gylztp/thoughts_on_coding_agents) - [Thoughts on coding agents](https://rakyll.org/coding-agents/)
 * [2026-07-04, 18:25:49](https://lobste.rs/s/otepg9/immich_v3_0_0_released) - [Immich v3.0.0 Released](https://immich.app/blog/v3.0.0-release)
 * [2026-07-04, 17:59:10](https://lobste.rs/s/d7mfza/thundersnap_v0_01_undo_button_for) - [thundersnap v0.01: an undo button for everything](https://github.com/tailscale/thundersnap/)
 * [2026-07-04, 17:11:42](https://lobste.rs/s/ujjm68/game_boy_advance_dev_logging_console) - [Game Boy Advance Dev: Logging to the console](https://www.mattgreer.dev/blog/gba-dev-logging/)
@@ -16,15 +18,13 @@
 * [2026-07-04, 11:57:02](https://lobste.rs/s/be22hc/reducing_assumptions_exploding_your) - [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
 * [2026-07-04, 11:30:50](https://lobste.rs/s/avqu6k/developer_verification_lineageos) - [Developer Verification – LineageOS](https://lineageos.org/Developer-Verification/)
 * [2026-07-04, 09:16:24](https://lobste.rs/s/4tiool/what_should_personal_website_be) - [What should a personal website be?](https://ratfactor.com/cards/personal-website)
-* [2026-07-04, 06:43:32](https://lobste.rs/s/yvwctq/synthesis_is_harder_than_analysis) - [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
 * [2026-07-04, 04:07:54](https://lobste.rs/s/4e3g9a/why_don_t_people_use_git_properly) - [Why don't people use git properly?](https://deadsimpletech.com/blog/why-dont-people-use-git-properly)
-* [2026-07-04, 02:08:59](https://lobste.rs/s/suucvi/suffix_bwt_vs_cyclic_shift_bwt_fast) - [Suffix BWT vs cyclic shift BWT, and fast computation](https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/)
 * [2026-07-03, 23:25:09](https://lobste.rs/s/wbpoiy/magit_4_6_released) - [Magit 4.6 released](https://emacsair.me/2026/07/01/magit-4.6/)
 * [2026-07-03, 23:23:43](https://lobste.rs/s/fx5e0f/i_don_t_maintain_my_homelab) - [I Don't Maintain My Homelab](https://cleberg.net/blog/homelab-maintenance.html)
 * [2026-07-03, 21:49:26](https://lobste.rs/s/i7klfz/my_favorite_keyboards) - [My favorite keyboards](https://fabiensanglard.net/keyboards/index.html)
 * [2026-07-03, 16:39:02](https://lobste.rs/s/skwy7v/goodbye_forever_probably) - [Goodbye, forever, probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
 * [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
-* [2026-07-03, 05:25:28](https://lobste.rs/s/asi79o/clickhouse_is_winning_observability) - [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/)
+* [2026-07-03, 13:37:09](https://lobste.rs/s/1g5bum/why_implementing_activitypub_is_hard_why) - [Why implementing ActivityPub is hard, and why it doesn't have to be](https://hackers.pub/@fedify/2026/why-activitypub-is-hard)
 
 ## [Archives](archives/index.md)
 
