@@ -7,6 +7,7 @@
 * [2026-07-04, 12:35:37](https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026) - [Who's Hiring? - Support Edition - Q3 2026](https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026)
 * [2026-07-04, 12:28:37](https://lobste.rs/s/qmnpkm/freebsd_ate_my_ram) - [FreeBSD ate my ram](https://crocidb.com/post/freebsd-ate-my-ram/)
 * [2026-07-04, 11:57:02](https://lobste.rs/s/be22hc/reducing_assumptions_exploding_your) - [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
+* [2026-07-04, 11:53:48](https://lobste.rs/s/ekxkqq/your_organization_as_graph) - [Your organization as a Graph](https://www.wearedevelopers.com/en/videos/2051/your-organization-as-a-graph)
 * [2026-07-04, 11:53:48](https://lobste.rs/s/ekxkqq/dunya_kirkali_your_organization_as_graph) - [Dunya Kirkali - Your organization as a Graph](https://www.wearedevelopers.com/en/videos/2051/your-organization-as-a-graph)
 * [2026-07-04, 11:30:50](https://lobste.rs/s/avqu6k/developer_verification_lineageos) - [Developer Verification – LineageOS](https://lineageos.org/Developer-Verification/)
 * [2026-07-04, 09:16:24](https://lobste.rs/s/4tiool/what_should_personal_website_be) - [What should a personal website be?](https://ratfactor.com/cards/personal-website)
