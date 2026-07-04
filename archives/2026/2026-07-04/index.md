@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 04:07:54](https://lobste.rs/s/4e3g9a/why_don_t_people_use_git_properly) - [Why don't people use git properly?](https://deadsimpletech.com/blog/why-dont-people-use-git-properly)
 * [2026-07-04, 03:54:01](https://lobste.rs/s/pigihe/agentic_coding_notes_from_galapogos) - [Agentic coding notes from Galapogos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
 * [2026-07-04, 03:40:25](https://lobste.rs/s/qxorqp/very_average_prototypes) - [Very Average Prototypes](https://goodnameforablog.com/posts/very-average-prototypes/)
 * [2026-07-04, 02:08:59](https://lobste.rs/s/suucvi/suffix_bwt_vs_cyclic_shift_bwt_fast) - [Suffix BWT vs cyclic shift BWT, and fast computation](https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/)
