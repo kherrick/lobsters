@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-04, 18:40:52](https://lobste.rs/s/dbopp5/diy_risc_v_ultracluster) - [DIY RISC-V ultracluster](https://youtube.com/watch?v=qMR3IXF2sWw)
 * [2026-07-04, 17:59:10](https://lobste.rs/s/d7mfza/thundersnap_v0_01_undo_button_for) - [thundersnap v0.01: an undo button for everything](https://github.com/tailscale/thundersnap/)
 * [2026-07-04, 17:11:42](https://lobste.rs/s/ujjm68/game_boy_advance_dev_logging_console) - [Game Boy Advance Dev: Logging to the console](https://www.mattgreer.dev/blog/gba-dev-logging/)
 * [2026-07-04, 16:31:35](https://lobste.rs/s/t1rsta/gnu_emacs_architecture) - [The GNU Emacs Architecture](https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf)
@@ -14,7 +15,6 @@
 * [2026-07-04, 09:16:24](https://lobste.rs/s/4tiool/what_should_personal_website_be) - [What should a personal website be?](https://ratfactor.com/cards/personal-website)
 * [2026-07-04, 06:43:32](https://lobste.rs/s/yvwctq/synthesis_is_harder_than_analysis) - [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
 * [2026-07-04, 04:07:54](https://lobste.rs/s/4e3g9a/why_don_t_people_use_git_properly) - [Why don't people use git properly?](https://deadsimpletech.com/blog/why-dont-people-use-git-properly)
-* [2026-07-04, 03:40:25](https://lobste.rs/s/qxorqp/very_average_prototypes) - [Very Average Prototypes](https://goodnameforablog.com/posts/very-average-prototypes/)
 * [2026-07-04, 02:08:59](https://lobste.rs/s/suucvi/suffix_bwt_vs_cyclic_shift_bwt_fast) - [Suffix BWT vs cyclic shift BWT, and fast computation](https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/)
 * [2026-07-04, 00:51:23](https://lobste.rs/s/1r09vz/rust_handling_results_map_closure) - [Rust - Handling Results In A Map Closure](https://reemus.dev/tldr/rust-handling-results-in-map-closure)
 * [2026-07-03, 23:25:09](https://lobste.rs/s/wbpoiy/magit_4_6_released) - [Magit 4.6 released](https://emacsair.me/2026/07/01/magit-4.6/)
