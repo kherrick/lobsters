@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-04, 06:13:30",
-      "https://lobste.rs/s/sohna2/openclaw_just_launched_official_app_for"
+      "2026-07-04, 06:43:32",
+      "https://lobste.rs/s/yvwctq/synthesis_is_harder_than_analysis"
     ],
     [
-      "OpenClaw just launched an official app for iPhone",
-      "https://9to5mac.com/2026/06/29/openclaw-just-launched-an-official-app-for-iphone-details-here/"
+      "Synthesis is harder than analysis",
+      "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Rust - Handling Results In A Map Closure",
       "https://reemus.dev/tldr/rust-handling-results-in-map-closure"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 00:17:28",
-      "https://lobste.rs/s/p7z8ip/lemmy_development_update_june_2026_1_0_0"
-    ],
-    [
-      "Lemmy Development Update June 2026 and 1.0.0-beta.1",
-      "https://lemmy.ml/post/49561214"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "Why implementing ActivityPub is hard, and why it doesn't have to be",
       "https://hackers.pub/@fedify/2026/why-activitypub-is-hard"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 13:19:56",
+      "https://lobste.rs/s/ktvazf/mask_compiles_nothing_how_hotspot_s_jit"
+    ],
+    [
+      "The mask that compiles to nothing: how HotSpot's JIT learned to reason about bits",
+      "https://questdb.com/blog/jvm-jit-known-bits/"
     ]
   ],
   [
