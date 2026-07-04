@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-04, 06:13:30](https://lobste.rs/s/sohna2/openclaw_just_launched_official_app_for) - [OpenClaw just launched an official app for iPhone](https://9to5mac.com/2026/06/29/openclaw-just-launched-an-official-app-for-iphone-details-here/)
 * [2026-07-04, 04:07:54](https://lobste.rs/s/4e3g9a/why_don_t_people_use_git_properly) - [Why don't people use git properly?](https://deadsimpletech.com/blog/why-dont-people-use-git-properly)
 * [2026-07-04, 03:54:01](https://lobste.rs/s/pigihe/agentic_coding_notes_from_galapogos) - [Agentic coding notes from Galapogos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
 * [2026-07-04, 03:40:25](https://lobste.rs/s/qxorqp/very_average_prototypes) - [Very Average Prototypes](https://goodnameforablog.com/posts/very-average-prototypes/)
 * [2026-07-04, 02:08:59](https://lobste.rs/s/suucvi/suffix_bwt_vs_cyclic_shift_bwt_fast) - [Suffix BWT vs cyclic shift BWT, and fast computation](https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/)
+* [2026-07-04, 00:51:23](https://lobste.rs/s/1r09vz/rust_handling_results_map_closure) - [Rust - Handling Results In A Map Closure](https://reemus.dev/tldr/rust-handling-results-in-map-closure)
 * [2026-07-04, 00:17:28](https://lobste.rs/s/p7z8ip/lemmy_development_update_june_2026_1_0_0) - [Lemmy Development Update June 2026 and 1.0.0-beta.1](https://lemmy.ml/post/49561214)
-* [2026-07-04, 00:12:39](https://lobste.rs/s/xqqamf/pandemic_incomplete_openssl_error) - [The pandemic of incomplete OpenSSL error handling](https://blog.jak-linux.org/2026/07/03/openssl-pandemic/)
 * [2026-07-03, 23:25:09](https://lobste.rs/s/wbpoiy/magit_4_6_released) - [Magit 4.6 released](https://emacsair.me/2026/07/01/magit-4.6/)
 * [2026-07-03, 23:23:43](https://lobste.rs/s/fx5e0f/i_don_t_maintain_my_homelab) - [I Don't Maintain My Homelab](https://cleberg.net/blog/homelab-maintenance.html)
 * [2026-07-03, 22:22:40](https://lobste.rs/s/xwsfs3/espionage_against_european_parliament) - [Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/)
@@ -24,7 +25,6 @@
 * [2026-07-03, 02:39:28](https://lobste.rs/s/ovcwkm/arbitrary_code_execution_breaking) - [Arbitrary code execution breaking sandboxes in KDE Plasma](https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/)
 * [2026-07-02, 23:19:21](https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c) - [crustc: Entirety of rustc, translated to C](https://github.com/FractalFir/crustc)
 * [2026-07-02, 18:43:32](https://lobste.rs/s/oe8pxn/no_llm_code_dependencies) - [No LLM code in dependencies](https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/)
-* [2026-07-02, 12:01:19](https://lobste.rs/s/e1uduo/jj_v0_43_0_released) - [jj v0.43.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.43.0)
 
 ## [Archives](archives/index.md)
 
