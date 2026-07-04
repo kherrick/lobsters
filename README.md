@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-04, 18:40:52](https://lobste.rs/s/dbopp5/diy_risc_v_ultracluster) - [DIY RISC-V ultracluster](https://youtube.com/watch?v=qMR3IXF2sWw)
 * [2026-07-04, 18:40:12](https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242) - [Bad Epoll (CVE-2026-46242)](https://github.com/J-jaeyoung/bad-epoll)
 * [2026-07-04, 18:30:17](https://lobste.rs/s/gylztp/thoughts_on_coding_agents_rakyll_org) - [Thoughts on coding agents · rakyll.org](https://rakyll.org/coding-agents/)
 * [2026-07-04, 18:25:49](https://lobste.rs/s/otepg9/immich_v3_0_0_released) - [Immich v3.0.0 Released](https://immich.app/blog/v3.0.0-release)
 * [2026-07-04, 17:59:10](https://lobste.rs/s/d7mfza/thundersnap_v0_01_undo_button_for) - [thundersnap v0.01: an undo button for everything](https://github.com/tailscale/thundersnap/)
-* [2026-07-04, 17:14:50](https://lobste.rs/s/govhy8/wince_dc_windows_ce_dreamcast_community) - [wince-dc: Windows CE Dreamcast Community Edition](https://github.com/maximqaxd/wince-dc)
 * [2026-07-04, 17:11:42](https://lobste.rs/s/ujjm68/game_boy_advance_dev_logging_console) - [Game Boy Advance Dev: Logging to the console](https://www.mattgreer.dev/blog/gba-dev-logging/)
 * [2026-07-04, 16:31:35](https://lobste.rs/s/t1rsta/gnu_emacs_architecture) - [The GNU Emacs Architecture](https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf)
 * [2026-07-04, 16:21:03](https://lobste.rs/s/5r5ebh/secretspec_0_13_sdks_for_python_node_js_go) - [SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell](https://secretspec.dev/blog/secretspec-0-13-sdks/)
