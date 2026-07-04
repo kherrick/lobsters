@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-04, 17:59:10",
+      "https://lobste.rs/s/d7mfza/thundersnap_v0_01_undo_button_for"
+    ],
+    [
+      "thundersnap v0.01: an undo button for everything",
+      "https://github.com/tailscale/thundersnap/"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 17:11:42",
       "https://lobste.rs/s/ujjm68/game_boy_advance_dev_logging_console"
     ],
@@ -237,16 +247,6 @@
     [
       "Clickhouse is winning the Observability Wars",
       "https://matduggan.com/clickhouse-is-winning-the-observability-wars/"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 23:19:21",
-      "https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c"
-    ],
-    [
-      "crustc: Entirety of rustc, translated to C",
-      "https://github.com/FractalFir/crustc"
     ]
   ]
 ]
