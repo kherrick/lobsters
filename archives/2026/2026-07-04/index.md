@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 17:16:43](https://lobste.rs/s/07ka0h/counterexample_wegner_s_conjecture_for) - [A Counterexample to Wegner's Conjecture for Axis-Parallel Rectangles](https://arxiv.org/abs/2606.17854)
 * [2026-07-04, 16:31:35](https://lobste.rs/s/t1rsta/gnu_emacs_architecture) - [The GNU Emacs Architecture](https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf)
 * [2026-07-04, 16:21:03](https://lobste.rs/s/5r5ebh/secretspec_0_13_sdks_for_python_node_js_go) - [SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell](https://secretspec.dev/blog/secretspec-0-13-sdks/)
 * [2026-07-04, 15:28:25](https://lobste.rs/s/ctulps/endbasic_0_14_are_we_multimedia_yet) - [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)

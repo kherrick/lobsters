@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-04, 17:16:43](https://lobste.rs/s/07ka0h/counterexample_wegner_s_conjecture_for) - [A Counterexample to Wegner's Conjecture for Axis-Parallel Rectangles](https://arxiv.org/abs/2606.17854)
 * [2026-07-04, 16:31:35](https://lobste.rs/s/t1rsta/gnu_emacs_architecture) - [The GNU Emacs Architecture](https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf)
 * [2026-07-04, 16:21:03](https://lobste.rs/s/5r5ebh/secretspec_0_13_sdks_for_python_node_js_go) - [SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell](https://secretspec.dev/blog/secretspec-0-13-sdks/)
 * [2026-07-04, 15:28:25](https://lobste.rs/s/ctulps/endbasic_0_14_are_we_multimedia_yet) - [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)
@@ -21,7 +22,6 @@
 * [2026-07-03, 21:49:26](https://lobste.rs/s/i7klfz/my_favorite_keyboards) - [My favorite keyboards](https://fabiensanglard.net/keyboards/index.html)
 * [2026-07-03, 16:39:02](https://lobste.rs/s/skwy7v/goodbye_forever_probably) - [Goodbye, forever, probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
 * [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
-* [2026-07-03, 13:38:34](https://lobste.rs/s/munamr/non_hybrid_tls_mlkem_standard_by_any_other) - [A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions](https://blog.cr.yp.to/20260702-standard.html)
 * [2026-07-03, 13:37:09](https://lobste.rs/s/1g5bum/why_implementing_activitypub_is_hard_why) - [Why implementing ActivityPub is hard, and why it doesn't have to be](https://hackers.pub/@fedify/2026/why-activitypub-is-hard)
 * [2026-07-03, 05:25:28](https://lobste.rs/s/asi79o/clickhouse_is_winning_observability) - [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/)
 * [2026-07-02, 23:19:21](https://lobste.rs/s/ryny2c/crustc_entirety_rustc_translated_c) - [crustc: Entirety of rustc, translated to C](https://github.com/FractalFir/crustc)
