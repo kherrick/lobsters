@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-04, 00:12:39",
+      "https://lobste.rs/s/xqqamf/pandemic_incomplete_openssl_error"
+    ],
+    [
+      "The pandemic of incomplete OpenSSL error handling",
+      "https://blog.jak-linux.org/2026/07/03/openssl-pandemic/"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 23:25:09",
       "https://lobste.rs/s/wbpoiy/magit_4_6_released"
     ],
@@ -27,16 +37,6 @@
     [
       "My favorite keyboards",
       "https://fabiensanglard.net/keyboards/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 20:03:53",
-      "https://lobste.rs/s/oaqknh/windows_kernel_browser_tab_part_i_cold"
-    ],
-    [
-      "A Windows Kernel in a Browser Tab, Part I: Cold Boot, Fast Boot, and Four Megabytes",
-      "https://www.msuiche.com/posts/nanokrnl-cold-boot-fast-boot/"
     ]
   ],
   [
