@@ -9,6 +9,7 @@
 * [2026-07-04, 21:51:19](https://lobste.rs/s/yrmpxy/better_models_worse_tools) - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
 * [2026-07-04, 21:37:21](https://lobste.rs/s/svm2dp/returning_zig) - [Returning to Zig](https://gracefulliberty.com/articles/return-to-zig/)
 * [2026-07-04, 20:41:03](https://lobste.rs/s/5akjfx/lion_witch_audacity_recruiters) - [The Lion, The Witch, and the audacity of recruiters](https://hauleth.dev/post/the-lion-the-witch-and-the-aduacity-of-recruiter/)
+* [2026-07-04, 18:50:46](https://lobste.rs/s/utznd2/we_need_way_prove_personhood_online) - [We Need A Way To Prove Personhood Online](https://www.noemamag.com/we-need-a-way-to-prove-personhood-online)
 * [2026-07-04, 18:40:52](https://lobste.rs/s/dbopp5/diy_risc_v_ultracluster) - [DIY RISC-V ultracluster](https://youtube.com/watch?v=qMR3IXF2sWw)
 * [2026-07-04, 18:40:12](https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242) - [Bad Epoll (CVE-2026-46242)](https://github.com/J-jaeyoung/bad-epoll)
 * [2026-07-04, 18:30:17](https://lobste.rs/s/gylztp/thoughts_on_coding_agents_rakyll_org) - [Thoughts on coding agents · rakyll.org](https://rakyll.org/coding-agents/)
