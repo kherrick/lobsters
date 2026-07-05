@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-05, 20:15:08",
+      "https://lobste.rs/s/hzurnm/time_based_background_colour"
+    ],
+    [
+      "Time-based background colour transitions with Temporal and CSS color-mix",
+      "https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 19:47:30",
       "https://lobste.rs/s/ssvgqs/embedding_information_disorder"
     ],
@@ -117,16 +127,6 @@
     [
       "PEP 814: Add frozendict built-in type",
       "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 06:34:38",
-      "https://lobste.rs/s/prfycy/ps5_linux_loader_linux_payload"
-    ],
-    [
-      "ps5-linux-loader: Linux payload implementing HV exploits to run a custom bootloader",
-      "https://github.com/ps5-linux/ps5-linux-loader"
     ]
   ],
   [
