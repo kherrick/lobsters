@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-05, 22:31:25](https://lobste.rs/s/0ptuxw/dependencies_should_be_fetched_directly) - [Dependencies should be fetched directly from VCS](https://www.arp242.net/deps-vcs.html)
 * [2026-07-05, 20:15:08](https://lobste.rs/s/hzurnm/time_based_background_colour) - [Time-based background colour transitions with Temporal and CSS color-mix](https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/)
 * [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
 * [2026-07-05, 19:28:52](https://lobste.rs/s/st8bqf/version_controlled_databases_using) - [Version-controlled databases using Prolly trees](https://lwn.net/Articles/1068864/)
@@ -13,10 +14,9 @@
 * [2026-07-05, 08:24:06](https://lobste.rs/s/zhizsf/if_you_re_button_you_have_one_job) - [If you’re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 * [2026-07-05, 07:05:45](https://lobste.rs/s/ai5zlv/small_details_my_mastodon_client_i_wanted) - [small details in my mastodon client that i wanted more people to notice](https://w.on-t.work/outpost-frontend-details)
 * [2026-07-05, 06:52:10](https://lobste.rs/s/nzifa8/pep_814_add_frozendict_built_type) - [PEP 814: Add frozendict built-in type](https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html)
-* [2026-07-05, 06:34:38](https://lobste.rs/s/prfycy/ps5_linux_loader_linux_payload) - [ps5-linux-loader: Linux payload implementing HV exploits to run a custom bootloader](https://github.com/ps5-linux/ps5-linux-loader)
 * [2026-07-05, 03:13:15](https://lobste.rs/s/jchp72/scheme_is_hoot) - [Scheme is a Hoot](https://gracefulliberty.com/notes/scheme-is-a-hoot/)
 * [2026-07-04, 23:35:02](https://lobste.rs/s/d1hevp/dark_mode_with_web_standards) - [Dark mode with web standards](https://olliewilliams.xyz/blog/dark-mode/)
-* [2026-07-04, 22:14:41](https://lobste.rs/s/1evikl/how_call_linux_code_from_wine_process) - [How to call Linux code from a Wine process](https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html)
+* [2026-07-04, 21:51:19](https://lobste.rs/s/yrmpxy/better_models_worse_tools) - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
 * [2026-07-04, 21:37:21](https://lobste.rs/s/svm2dp/returning_zig) - [Returning to Zig](https://gracefulliberty.com/articles/return-to-zig/)
 * [2026-07-04, 20:41:03](https://lobste.rs/s/5akjfx/lion_witch_audacity_recruiters) - [The Lion, The Witch, and the audacity of recruiters](https://hauleth.dev/post/the-lion-the-witch-and-the-aduacity-of-recruiter/)
 * [2026-07-04, 18:40:12](https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242) - [Bad Epoll (CVE-2026-46242)](https://github.com/J-jaeyoung/bad-epoll)

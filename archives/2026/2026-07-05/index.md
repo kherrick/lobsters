@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 22:31:25](https://lobste.rs/s/0ptuxw/dependencies_should_be_fetched_directly) - [Dependencies should be fetched directly from VCS](https://www.arp242.net/deps-vcs.html)
 * [2026-07-05, 20:15:08](https://lobste.rs/s/hzurnm/time_based_background_colour) - [Time-based background colour transitions with Temporal and CSS color-mix](https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/)
 * [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
 * [2026-07-05, 19:28:52](https://lobste.rs/s/st8bqf/version_controlled_databases_using) - [Version-controlled databases using Prolly trees](https://lwn.net/Articles/1068864/)
