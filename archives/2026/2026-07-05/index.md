@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 19:28:52](https://lobste.rs/s/st8bqf/version_controlled_databases_using) - [Version-controlled databases using Prolly trees](https://lwn.net/Articles/1068864/)
+* [2026-07-05, 19:08:21](https://lobste.rs/s/dvn3hl/installing_ux_1_1_like_it_s_90s) - [Installing A/UX 1.1 like it’s the 90s](https://thomasw.dev/post/aux11/)
 * [2026-07-05, 18:40:08](https://lobste.rs/s/qyugm7/bench_press_leaking_text_nodes_with_css) - [Bench Press: Leaking Text Nodes with CSS](https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/)
 * [2026-07-05, 18:39:26](https://lobste.rs/s/4behtu/rayfish_p2p_vpn_built_on_top_iroh) - [Rayfish - P2P VPN built on top of Iroh](https://rayfish.xyz/blog/01-introducing-rayfish)
 * [2026-07-05, 17:28:12](https://lobste.rs/s/qu1bwq/work_progress_rust) - [Work In Progress Rust](https://blog.dureuill.net/articles/wip/)
