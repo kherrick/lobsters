@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-05, 09:49:19](https://lobste.rs/s/q8eiqk/how_is_zig_working_out_after_3_years_100k) - [How is Zig working out after 3 years and 100k lines of game code?](https://www.youtube.com/watch?v=HXpUShkr2VQ)
 * [2026-07-05, 08:24:06](https://lobste.rs/s/zhizsf/if_you_re_button_you_have_one_job) - [If you’re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 * [2026-07-05, 07:05:45](https://lobste.rs/s/ai5zlv/small_details_my_mastodon_client_i_wanted) - [small details in my mastodon client that i wanted more people to notice](https://w.on-t.work/outpost-frontend-details)
 * [2026-07-05, 06:34:38](https://lobste.rs/s/prfycy/ps5_linux_loader_linux_payload) - [ps5-linux-loader: Linux payload implementing HV exploits to run a custom bootloader](https://github.com/ps5-linux/ps5-linux-loader)
@@ -24,7 +25,6 @@
 * [2026-07-03, 23:25:09](https://lobste.rs/s/wbpoiy/magit_4_6_released) - [Magit 4.6 released](https://emacsair.me/2026/07/01/magit-4.6/)
 * [2026-07-03, 23:23:43](https://lobste.rs/s/fx5e0f/i_don_t_maintain_my_homelab) - [I Don't Maintain My Homelab](https://cleberg.net/blog/homelab-maintenance.html)
 * [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
-* [2026-07-03, 13:37:09](https://lobste.rs/s/1g5bum/why_implementing_activitypub_is_hard_why) - [Why implementing ActivityPub is hard, and why it doesn't have to be](https://hackers.pub/@fedify/2026/why-activitypub-is-hard)
 
 ## [Archives](archives/index.md)
 
