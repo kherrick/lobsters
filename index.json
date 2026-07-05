@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-05, 13:47:33",
+      "https://lobste.rs/s/ywehuv/run_windows_2000_on_dec_alpha_with_new_es40"
+    ],
+    [
+      "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+      "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 10:00:49",
       "https://lobste.rs/s/k9yyfs/abi_vs_api_2004"
     ],
@@ -61,6 +71,26 @@
   ],
   [
     [
+      "2026-07-04, 23:35:02",
+      "https://lobste.rs/s/d1hevp/dark_mode_with_web_standards"
+    ],
+    [
+      "Dark mode with web standards",
+      "https://olliewilliams.xyz/blog/dark-mode/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 22:14:41",
+      "https://lobste.rs/s/1evikl/how_call_linux_code_from_wine_process"
+    ],
+    [
+      "How to call Linux code from a Wine process",
+      "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 21:51:19",
       "https://lobste.rs/s/yrmpxy/better_models_worse_tools"
     ],
@@ -91,52 +121,32 @@
   ],
   [
     [
-      "2026-07-04, 18:50:46",
-      "https://lobste.rs/s/utznd2/we_need_way_prove_personhood_online"
+      "2026-07-04, 18:40:12",
+      "https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242"
     ],
     [
-      "We Need A Way To Prove Personhood Online",
-      "https://www.noemamag.com/we-need-a-way-to-prove-personhood-online"
+      "Bad Epoll (CVE-2026-46242)",
+      "https://github.com/J-jaeyoung/bad-epoll"
     ]
   ],
   [
     [
-      "2026-07-04, 18:40:52",
-      "https://lobste.rs/s/dbopp5/diy_risc_v_ultracluster"
+      "2026-07-04, 18:25:49",
+      "https://lobste.rs/s/otepg9/immich_v3_0_0_released"
     ],
     [
-      "DIY RISC-V ultracluster",
-      "https://youtube.com/watch?v=qMR3IXF2sWw"
+      "Immich v3.0.0 Released",
+      "https://immich.app/blog/v3.0.0-release"
     ]
   ],
   [
     [
-      "2026-07-04, 18:30:17",
-      "https://lobste.rs/s/gylztp/thoughts_on_coding_agents"
+      "2026-07-04, 17:59:10",
+      "https://lobste.rs/s/d7mfza/thundersnap_v0_01_undo_button_for"
     ],
     [
-      "Thoughts on coding agents",
-      "https://rakyll.org/coding-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 17:16:43",
-      "https://lobste.rs/s/07ka0h/counterexample_wegner_s_conjecture_for"
-    ],
-    [
-      "A Counterexample to Wegner's Conjecture for Axis-Parallel Rectangles",
-      "https://arxiv.org/abs/2606.17854"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 17:11:42",
-      "https://lobste.rs/s/ujjm68/game_boy_advance_dev_logging_console"
-    ],
-    [
-      "Game Boy Advance Dev: Logging to the console",
-      "https://www.mattgreer.dev/blog/gba-dev-logging/"
+      "thundersnap v0.01: an undo button for everything",
+      "https://github.com/tailscale/thundersnap/"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2026-07-04, 12:28:37",
+      "https://lobste.rs/s/qmnpkm/freebsd_ate_my_ram"
+    ],
+    [
+      "FreeBSD ate my ram",
+      "https://crocidb.com/post/freebsd-ate-my-ram/"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 11:57:02",
       "https://lobste.rs/s/be22hc/reducing_assumptions_exploding_your"
     ],
@@ -201,42 +221,22 @@
   ],
   [
     [
-      "2026-07-04, 03:40:25",
-      "https://lobste.rs/s/qxorqp/very_average_prototypes"
+      "2026-07-04, 04:07:54",
+      "https://lobste.rs/s/4e3g9a/why_don_t_people_use_git_properly"
     ],
     [
-      "Very Average Prototypes",
-      "https://goodnameforablog.com/posts/very-average-prototypes/"
+      "Why don't people use git properly?",
+      "https://deadsimpletech.com/blog/why-dont-people-use-git-properly"
     ]
   ],
   [
     [
-      "2026-07-04, 02:08:59",
-      "https://lobste.rs/s/suucvi/suffix_bwt_vs_cyclic_shift_bwt_fast"
+      "2026-07-03, 23:25:09",
+      "https://lobste.rs/s/wbpoiy/magit_4_6_released"
     ],
     [
-      "Suffix BWT vs cyclic shift BWT, and fast computation",
-      "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 21:49:26",
-      "https://lobste.rs/s/i7klfz/my_favorite_keyboards"
-    ],
-    [
-      "My favorite keyboards",
-      "https://fabiensanglard.net/keyboards/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 16:39:02",
-      "https://lobste.rs/s/skwy7v/goodbye_forever_probably"
-    ],
-    [
-      "Goodbye, forever, probably",
-      "https://whitep4nth3r.com/blog/goodbye-forever-probably/"
+      "Magit 4.6 released",
+      "https://emacsair.me/2026/07/01/magit-4.6/"
     ]
   ],
   [
