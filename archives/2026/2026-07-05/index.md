@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 17:28:12](https://lobste.rs/s/qu1bwq/work_progress_rust) - [Work In Progress Rust](https://blog.dureuill.net/articles/wip/)
 * [2026-07-05, 13:47:33](https://lobste.rs/s/ywehuv/run_windows_2000_on_dec_alpha_with_new_es40) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
 * [2026-07-05, 10:00:49](https://lobste.rs/s/k9yyfs/abi_vs_api_2004) - [ABI vs. API (2004)](https://lists.debian.org/debian-user/2004/02/msg00648.html)
 * [2026-07-05, 09:49:19](https://lobste.rs/s/q8eiqk/how_is_zig_working_out_after_3_years_100k) - [How is Zig working out after 3 years and 100k lines of game code?](https://www.youtube.com/watch?v=HXpUShkr2VQ)
