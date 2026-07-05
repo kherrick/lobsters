@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-05, 10:00:49",
+      "https://lobste.rs/s/k9yyfs/abi_vs_api_2004"
+    ],
+    [
+      "ABI vs. API (2004)",
+      "https://lists.debian.org/debian-user/2004/02/msg00648.html"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 09:49:19",
       "https://lobste.rs/s/q8eiqk/how_is_zig_working_out_after_3_years_100k"
     ],
@@ -127,16 +137,6 @@
     [
       "thundersnap v0.01: an undo button for everything",
       "https://github.com/tailscale/thundersnap/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 17:11:42",
-      "https://lobste.rs/s/ujjm68/game_boy_advance_dev_logging_console"
-    ],
-    [
-      "Game Boy Advance Dev: Logging to the console",
-      "https://www.mattgreer.dev/blog/gba-dev-logging/"
     ]
   ],
   [
