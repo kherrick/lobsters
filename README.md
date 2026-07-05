@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-05, 20:15:08](https://lobste.rs/s/hzurnm/time_based_background_colour) - [Time-based background colour transitions with Temporal and CSS color-mix](https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/)
 * [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
 * [2026-07-05, 19:28:52](https://lobste.rs/s/st8bqf/version_controlled_databases_using) - [Version-controlled databases using Prolly trees](https://lwn.net/Articles/1068864/)
 * [2026-07-05, 19:08:21](https://lobste.rs/s/dvn3hl/installing_ux_1_1_like_it_s_90s) - [Installing A/UX 1.1 like it’s the 90s](https://thomasw.dev/post/aux11/)
@@ -12,7 +13,6 @@
 * [2026-07-05, 08:24:06](https://lobste.rs/s/zhizsf/if_you_re_button_you_have_one_job) - [If you’re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 * [2026-07-05, 07:05:45](https://lobste.rs/s/ai5zlv/small_details_my_mastodon_client_i_wanted) - [small details in my mastodon client that i wanted more people to notice](https://w.on-t.work/outpost-frontend-details)
 * [2026-07-05, 06:52:10](https://lobste.rs/s/nzifa8/pep_814_add_frozendict_built_type) - [PEP 814: Add frozendict built-in type](https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html)
-* [2026-07-05, 06:34:38](https://lobste.rs/s/prfycy/ps5_linux_loader_linux_payload) - [ps5-linux-loader: Linux payload implementing HV exploits to run a custom bootloader](https://github.com/ps5-linux/ps5-linux-loader)
 * [2026-07-05, 03:13:15](https://lobste.rs/s/jchp72/scheme_is_hoot) - [Scheme is a Hoot](https://gracefulliberty.com/notes/scheme-is-a-hoot/)
 * [2026-07-04, 23:35:02](https://lobste.rs/s/d1hevp/dark_mode_with_web_standards) - [Dark mode with web standards](https://olliewilliams.xyz/blog/dark-mode/)
 * [2026-07-04, 21:51:19](https://lobste.rs/s/yrmpxy/better_models_worse_tools) - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
