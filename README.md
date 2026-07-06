@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-06, 11:31:42](https://lobste.rs/s/krej7c/faster_builds_with_elm_0_19_2) - [Faster Builds with Elm 0.19.2](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 10:06:13](https://lobste.rs/s/nwptul/fin_jellyfin_subsonic_client_for) - [fin: a Jellyfin & Subsonic client for the terminal](https://tangled.org/tsiry-sandratraina.com/fin)
 * [2026-07-06, 09:22:35](https://lobste.rs/s/eytr4y/konform_browser_140_12_0_103) - [Konform Browser 140.12.0-103](https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103)
 * [2026-07-06, 08:22:08](https://lobste.rs/s/r0xrm0/jam_programming_language) - [Jam Programming Language](https://rapha.land/jam-programming-language/)
@@ -21,7 +22,6 @@
 * [2026-07-05, 10:00:49](https://lobste.rs/s/k9yyfs/abi_vs_api_2004) - [ABI vs. API (2004)](https://lists.debian.org/debian-user/2004/02/msg00648.html)
 * [2026-07-05, 09:49:19](https://lobste.rs/s/q8eiqk/how_is_zig_working_out_after_3_years_100k) - [How is Zig working out after 3 years and 100k lines of game code?](https://www.youtube.com/watch?v=HXpUShkr2VQ)
 * [2026-07-05, 08:24:06](https://lobste.rs/s/zhizsf/if_you_re_button_you_have_one_job) - [If you’re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
-* [2026-07-05, 07:05:45](https://lobste.rs/s/ai5zlv/small_details_my_mastodon_client_i_wanted) - [small details in my mastodon client that i wanted more people to notice](https://w.on-t.work/outpost-frontend-details)
 * [2026-07-04, 21:51:19](https://lobste.rs/s/yrmpxy/better_models_worse_tools) - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
 * [2026-07-04, 21:37:21](https://lobste.rs/s/svm2dp/returning_zig) - [Returning to Zig](https://gracefulliberty.com/articles/return-to-zig/)
 * [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
