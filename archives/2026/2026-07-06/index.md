@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 20:15:25](https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 * [2026-07-06, 19:47:11](https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now) - [ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2](https://www.phoronix.com/news/Half-Life-2-ReactOS)
 * [2026-07-06, 19:17:08](https://lobste.rs/s/xvzbwu/hacking_kyocera_ky_42c) - [Hacking the Kyocera KY-42C](https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c)
 * [2026-07-06, 18:20:31](https://lobste.rs/s/jea4xl/januscape_guest_host_escape_kvm_x86) - [Januscape: Guest-to-Host Escape in KVM/x86](https://github.com/V4bel/Januscape)
