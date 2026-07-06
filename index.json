@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-07-06, 16:19:11",
+      "https://lobste.rs/s/fplb85/backstage_access_unauthenticated_sql"
+    ],
+    [
+      "Backstage access: an unauthenticated SQL injection in Front Gate Tickets",
+      "https://ian.sh/frontgate"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 15:46:35",
       "https://lobste.rs/s/qwgpts/seventy_years_parsing_theoretical"
     ],
     [
       "Seventy Years of Parsing: Theoretical and Practical Consequences",
       "https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 15:30:30",
-      "https://lobste.rs/s/rk0bl2/postgres_is_enough"
-    ],
-    [
-      "Postgres Is Enough",
-      "https://postgresisenough.dev"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-07-06, 04:46:14",
+      "https://lobste.rs/s/jbalki/forlorn_hope_fortran_modernisation"
+    ],
+    [
+      "Forlorn Hope of Fortran Modernisation",
+      "https://amenzwa.github.io/stem/PL/FortranModernisation/"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 03:25:50",
       "https://lobste.rs/s/iztgtd/speed_limit_for_computers"
     ],
@@ -217,16 +227,6 @@
     [
       "If you’re a button, you have one job",
       "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 21:51:19",
-      "https://lobste.rs/s/yrmpxy/better_models_worse_tools"
-    ],
-    [
-      "Better Models: Worse Tools",
-      "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/"
     ]
   ],
   [
