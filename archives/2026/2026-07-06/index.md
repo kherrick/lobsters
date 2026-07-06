@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 08:45:31](https://lobste.rs/s/9zllsh/how_one_pull_request_took_app_httpthis) - [How One Pull Request Took App::HTTPThis to Version 1.0](https://perlhacks.com/2026/07/how-one-pull-request-took-apphttpthis-to-version-1-0/)
+* [2026-07-06, 07:48:06](https://lobste.rs/s/j5ovrm/mr_baby_paint_accidentally_discovering) - [Mr. Baby Paint & accidentally discovering a new cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/)
 * [2026-07-06, 07:43:07](https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week)
 * [2026-07-06, 07:40:41](https://lobste.rs/s/b3elwj/web_security_docs_on_mdn) - [Web Security docs on MDN](https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/)
 * [2026-07-06, 07:32:32](https://lobste.rs/s/kzsdhf/how_skiing_accident_put_our_development) - [How a Skiing Accident Put Our Development Practices to the test](https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/)
