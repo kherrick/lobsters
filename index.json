@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-07-06, 12:53:15",
+      "https://lobste.rs/s/heyyj9/caught_git_config_crawler"
+    ],
+    [
+      "Caught a .git/config crawler",
+      "https://bruceediger.com/posts/git-config-spider/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 12:36:51",
+      "https://lobste.rs/s/qa7i6t/can_you_run_every_line_code_super_mario"
+    ],
+    [
+      "Can you run every line of code in Super Mario Bros.?",
+      "https://www.youtube.com/watch?v=o0gOALTvkcc"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 12:31:02",
+      "https://lobste.rs/s/snysfl/preempt_none_is_dead_your_postgres"
+    ],
+    [
+      "PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care",
+      "https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 11:31:42",
       "https://lobste.rs/s/krej7c/faster_builds_with_elm_0_19_2"
     ],
     [
       "Faster Builds with Elm 0.19.2",
       "https://elm-lang.org/news/faster-builds"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 11:28:23",
+      "https://lobste.rs/s/vwni9c/sneakerweb"
+    ],
+    [
+      "sneakerweb",
+      "https://sneakerweb.org/"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2026-07-06, 04:46:14",
-      "https://lobste.rs/s/jbalki/forlorn_hope_fortran_modernisation"
-    ],
-    [
-      "Forlorn Hope of Fortran Modernisation",
-      "https://amenzwa.github.io/stem/PL/FortranModernisation/"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 04:36:31",
       "https://lobste.rs/s/wl0cz3/is_starlink_secret_radar_constellation"
     ],
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2026-07-05, 23:04:41",
-      "https://lobste.rs/s/tqv8xx/composite_video_on_nes_why_s_it_so_wobbly"
-    ],
-    [
-      "Composite video on the NES: why's it so wobbly?",
-      "https://nicole.express/2026/phase-altering-by-line.html"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 19:47:30",
       "https://lobste.rs/s/ssvgqs/embedding_information_disorder"
     ],
     [
       "Embedding information in disorder",
       "https://thoughts.hmmz.org/2026-07-05.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 19:28:52",
-      "https://lobste.rs/s/st8bqf/version_controlled_databases_using"
-    ],
-    [
-      "Version-controlled databases using Prolly trees",
-      "https://lwn.net/Articles/1068864/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "ABI vs. API (2004)",
       "https://lists.debian.org/debian-user/2004/02/msg00648.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 09:49:19",
-      "https://lobste.rs/s/q8eiqk/how_is_zig_working_out_after_3_years_100k"
-    ],
-    [
-      "How is Zig working out after 3 years and 100k lines of game code?",
-      "https://www.youtube.com/watch?v=HXpUShkr2VQ"
     ]
   ],
   [
