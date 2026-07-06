@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-06, 19:47:11](https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now) - [ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2](https://www.phoronix.com/news/Half-Life-2-ReactOS)
+* [2026-07-06, 19:17:08](https://lobste.rs/s/xvzbwu/hacking_kyocera_ky_42c) - [Hacking the Kyocera KY-42C](https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c)
 * [2026-07-06, 18:20:31](https://lobste.rs/s/jea4xl/januscape_guest_host_escape_kvm_x86) - [Januscape: Guest-to-Host Escape in KVM/x86](https://github.com/V4bel/Januscape)
 * [2026-07-06, 18:04:14](https://lobste.rs/s/k4sprp/connections_math_two_kinds_random) - [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
 * [2026-07-06, 15:46:35](https://lobste.rs/s/qwgpts/seventy_years_parsing_theoretical) - [Seventy Years of Parsing: Theoretical and Practical Consequences](https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf)
@@ -17,14 +19,12 @@
 * [2026-07-06, 07:43:07](https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week)
 * [2026-07-06, 07:40:41](https://lobste.rs/s/b3elwj/web_security_docs_on_mdn) - [Web Security docs on MDN](https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/)
 * [2026-07-06, 07:32:32](https://lobste.rs/s/kzsdhf/how_skiing_accident_put_our_development) - [How a Skiing Accident Put Our Development Practices to the test](https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/)
-* [2026-07-06, 04:46:14](https://lobste.rs/s/jbalki/forlorn_hope_fortran_modernisation) - [Forlorn Hope of Fortran Modernisation](https://amenzwa.github.io/stem/PL/FortranModernisation/)
 * [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 * [2026-07-06, 00:17:01](https://lobste.rs/s/l0yqco/novel_look_at_error_handling_rust) - [A Novel Look at Error Handling in Rust](https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html)
 * [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
 * [2026-07-05, 18:39:26](https://lobste.rs/s/4behtu/rayfish_p2p_vpn_built_on_top_iroh) - [Rayfish - P2P VPN built on top of Iroh](https://rayfish.xyz/blog/01-introducing-rayfish)
 * [2026-07-05, 17:28:12](https://lobste.rs/s/qu1bwq/work_progress_rust) - [Work In Progress Rust](https://blog.dureuill.net/articles/wip/)
 * [2026-07-05, 08:24:06](https://lobste.rs/s/zhizsf/if_you_re_button_you_have_one_job) - [If you’re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
-* [2026-07-04, 21:37:21](https://lobste.rs/s/svm2dp/returning_zig) - [Returning to Zig](https://gracefulliberty.com/articles/return-to-zig/)
 
 ## [Archives](archives/index.md)
 
