@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 12:53:15](https://lobste.rs/s/heyyj9/caught_git_config_crawler) - [Caught a .git/config crawler](https://bruceediger.com/posts/git-config-spider/)
+* [2026-07-06, 12:36:51](https://lobste.rs/s/qa7i6t/can_you_run_every_line_code_super_mario) - [Can you run every line of code in Super Mario Bros.?](https://www.youtube.com/watch?v=o0gOALTvkcc)
+* [2026-07-06, 12:31:02](https://lobste.rs/s/snysfl/preempt_none_is_dead_your_postgres) - [PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care](https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/)
 * [2026-07-06, 11:31:42](https://lobste.rs/s/krej7c/faster_builds_with_elm_0_19_2) - [Faster Builds with Elm 0.19.2](https://elm-lang.org/news/faster-builds)
+* [2026-07-06, 11:28:23](https://lobste.rs/s/vwni9c/sneakerweb) - [sneakerweb](https://sneakerweb.org/)
 * [2026-07-06, 10:06:13](https://lobste.rs/s/nwptul/fin_jellyfin_subsonic_client_for) - [fin: a Jellyfin & Subsonic client for the terminal](https://tangled.org/tsiry-sandratraina.com/fin)
 * [2026-07-06, 09:22:35](https://lobste.rs/s/eytr4y/konform_browser_140_12_0_103) - [Konform Browser 140.12.0-103](https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103)
 * [2026-07-06, 08:45:31](https://lobste.rs/s/9zllsh/how_one_pull_request_took_app_httpthis) - [How One Pull Request Took App::HTTPThis to Version 1.0](https://perlhacks.com/2026/07/how-one-pull-request-took-apphttpthis-to-version-1-0/)
