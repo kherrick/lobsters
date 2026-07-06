@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-06, 00:17:01](https://lobste.rs/s/l0yqco/novel_look_at_error_handling_rust) - [A Novel Look at Error Handling in Rust](https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html)
 * [2026-07-05, 23:04:41](https://lobste.rs/s/tqv8xx/composite_video_on_nes_why_s_it_so_wobbly) - [Composite video on the NES: why's it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
 * [2026-07-05, 22:31:25](https://lobste.rs/s/0ptuxw/dependencies_should_be_fetched_directly) - [Dependencies should be fetched directly from VCS](https://www.arp242.net/deps-vcs.html)
 * [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
@@ -22,7 +23,6 @@
 * [2026-07-04, 18:40:12](https://lobste.rs/s/drf6my/bad_epoll_cve_2026_46242) - [Bad Epoll (CVE-2026-46242)](https://github.com/J-jaeyoung/bad-epoll)
 * [2026-07-04, 18:25:49](https://lobste.rs/s/otepg9/immich_v3_0_0_released) - [Immich v3.0.0 Released](https://immich.app/blog/v3.0.0-release)
 * [2026-07-04, 15:20:06](https://lobste.rs/s/xfjchg/do_wavy_walls_really_use_fewer_bricks_i) - [Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender](https://blog.tymscar.com/posts/crinklecranklewalls/)
-* [2026-07-04, 11:57:02](https://lobste.rs/s/be22hc/reducing_assumptions_exploding_your) - [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
 * [2026-07-04, 09:16:24](https://lobste.rs/s/4tiool/what_should_personal_website_be) - [What should a personal website be?](https://ratfactor.com/cards/personal-website)
 * [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
 

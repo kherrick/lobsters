@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-07-06](index.md)
+
+* [2026-07-06, 00:17:01](https://lobste.rs/s/l0yqco/novel_look_at_error_handling_rust) - [A Novel Look at Error Handling in Rust](https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html)
