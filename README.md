@@ -12,7 +12,7 @@
 * [2026-07-06, 07:43:07](https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week)
 * [2026-07-06, 07:40:41](https://lobste.rs/s/b3elwj/web_security_docs_on_mdn) - [Web Security docs on MDN](https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/)
 * [2026-07-06, 07:32:32](https://lobste.rs/s/kzsdhf/how_skiing_accident_put_our_development) - [How a Skiing Accident Put Our Development Practices to the test](https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/)
-* [2026-07-06, 04:36:31](https://lobste.rs/s/wl0cz3/is_starlink_secret_radar_constellation) - [Is Starlink A Secret Radar Constellation?](https://www.youtube.com/watch?v=jbp3kdJZ1_A)
+* [2026-07-06, 04:46:14](https://lobste.rs/s/jbalki/forlorn_hope_fortran_modernisation) - [Forlorn Hope of Fortran Modernisation](https://amenzwa.github.io/stem/PL/FortranModernisation/)
 * [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 * [2026-07-06, 00:17:01](https://lobste.rs/s/l0yqco/novel_look_at_error_handling_rust) - [A Novel Look at Error Handling in Rust](https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html)
 * [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
