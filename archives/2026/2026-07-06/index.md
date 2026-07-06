@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 18:04:14](https://lobste.rs/s/k4sprp/connections_math_two_kinds_random) - [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
 * [2026-07-06, 16:19:11](https://lobste.rs/s/fplb85/backstage_access_unauthenticated_sql) - [Backstage access: an unauthenticated SQL injection in Front Gate Tickets](https://ian.sh/frontgate)
 * [2026-07-06, 15:46:35](https://lobste.rs/s/qwgpts/seventy_years_parsing_theoretical) - [Seventy Years of Parsing: Theoretical and Practical Consequences](https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf)
 * [2026-07-06, 15:30:30](https://lobste.rs/s/rk0bl2/postgres_is_enough) - [Postgres Is Enough](https://postgresisenough.dev)

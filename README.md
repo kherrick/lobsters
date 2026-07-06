@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-06, 18:04:14](https://lobste.rs/s/k4sprp/connections_math_two_kinds_random) - [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
 * [2026-07-06, 16:19:11](https://lobste.rs/s/fplb85/backstage_access_unauthenticated_sql) - [Backstage access: an unauthenticated SQL injection in Front Gate Tickets](https://ian.sh/frontgate)
 * [2026-07-06, 15:46:35](https://lobste.rs/s/qwgpts/seventy_years_parsing_theoretical) - [Seventy Years of Parsing: Theoretical and Practical Consequences](https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf)
 * [2026-07-06, 13:44:16](https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj) - [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
@@ -24,7 +25,6 @@
 * [2026-07-05, 13:47:33](https://lobste.rs/s/ywehuv/run_windows_2000_on_dec_alpha_with_new_es40) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
 * [2026-07-05, 08:24:06](https://lobste.rs/s/zhizsf/if_you_re_button_you_have_one_job) - [If you’re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 * [2026-07-04, 21:37:21](https://lobste.rs/s/svm2dp/returning_zig) - [Returning to Zig](https://gracefulliberty.com/articles/return-to-zig/)
-* [2026-07-03, 14:14:38](https://lobste.rs/s/zwz0wh/fourteener_lobsters) - [Fourteener Lobsters](https://lobste.rs/s/zwz0wh/fourteener_lobsters)
 
 ## [Archives](archives/index.md)
 
