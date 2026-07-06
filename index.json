@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-07-06, 08:45:31",
-      "https://lobste.rs/s/9zllsh/how_one_pull_request_took_app_httpthis"
+      "2026-07-06, 10:06:13",
+      "https://lobste.rs/s/nwptul/fin_jellyfin_subsonic_client_for"
     ],
     [
-      "How One Pull Request Took App::HTTPThis to Version 1.0",
-      "https://perlhacks.com/2026/07/how-one-pull-request-took-apphttpthis-to-version-1-0/"
+      "fin: a Jellyfin & Subsonic client for the terminal",
+      "https://tangled.org/tsiry-sandratraina.com/fin"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 09:22:35",
+      "https://lobste.rs/s/eytr4y/konform_browser_140_12_0_103"
+    ],
+    [
+      "Konform Browser 140.12.0-103",
+      "https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 08:22:08",
+      "https://lobste.rs/s/r0xrm0/jam_programming_language"
+    ],
+    [
+      "Jam Programming Language",
+      "https://rapha.land/jam-programming-language/"
     ]
   ],
   [
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2026-07-06, 07:40:41",
+      "https://lobste.rs/s/b3elwj/web_security_docs_on_mdn"
+    ],
+    [
+      "Web Security docs on MDN",
+      "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 07:32:32",
       "https://lobste.rs/s/kzsdhf/how_skiing_accident_put_our_development"
     ],
     [
       "How a Skiing Accident Put Our Development Practices to the test",
       "https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 06:12:25",
-      "https://lobste.rs/s/6fhbtz/dragonfruit_68k_dragonball_palm_device"
-    ],
-    [
-      "Dragonfruit: A 68k/Dragonball Palm device emulator for ESP32 devices",
-      "https://github.com/megabytefisher/Dragonfruit"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Composite video on the NES: why's it so wobbly?",
       "https://nicole.express/2026/phase-altering-by-line.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 22:31:25",
-      "https://lobste.rs/s/0ptuxw/dependencies_should_be_fetched_directly"
-    ],
-    [
-      "Dependencies should be fetched directly from VCS",
-      "https://www.arp242.net/deps-vcs.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Returning to Zig",
       "https://gracefulliberty.com/articles/return-to-zig/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 20:41:03",
-      "https://lobste.rs/s/5akjfx/lion_witch_audacity_recruiters"
-    ],
-    [
-      "The Lion, The Witch, and the audacity of recruiters",
-      "https://hauleth.dev/post/the-lion-the-witch-and-the-aduacity-of-recruiter/"
     ]
   ],
   [
