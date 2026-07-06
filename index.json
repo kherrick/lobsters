@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-06, 19:47:11",
+      "https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now"
+    ],
+    [
+      "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
+      "https://www.phoronix.com/news/Half-Life-2-ReactOS"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 19:17:08",
+      "https://lobste.rs/s/xvzbwu/hacking_kyocera_ky_42c"
+    ],
+    [
+      "Hacking the Kyocera KY-42C",
+      "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 18:20:31",
       "https://lobste.rs/s/jea4xl/januscape_guest_host_escape_kvm_x86"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-07-06, 04:46:14",
-      "https://lobste.rs/s/jbalki/forlorn_hope_fortran_modernisation"
-    ],
-    [
-      "Forlorn Hope of Fortran Modernisation",
-      "https://amenzwa.github.io/stem/PL/FortranModernisation/"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 03:25:50",
       "https://lobste.rs/s/iztgtd/speed_limit_for_computers"
     ],
@@ -237,16 +247,6 @@
     [
       "If you’re a button, you have one job",
       "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 21:37:21",
-      "https://lobste.rs/s/svm2dp/returning_zig"
-    ],
-    [
-      "Returning to Zig",
-      "https://gracefulliberty.com/articles/return-to-zig/"
     ]
   ]
 ]
