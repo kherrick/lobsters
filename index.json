@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-06, 21:47:59",
+      "https://lobste.rs/s/tlqexc/orasort_common_prefix_skipping_adaptive"
+    ],
+    [
+      "Orasort - Common prefix skipping, adaptive sort",
+      "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 20:15:25",
       "https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse"
     ],
@@ -37,16 +47,6 @@
     [
       "Januscape: Guest-to-Host Escape in KVM/x86",
       "https://github.com/V4bel/Januscape"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 16:19:11",
-      "https://lobste.rs/s/fplb85/backstage_access_unauthenticated_sql"
-    ],
-    [
-      "Backstage access: an unauthenticated SQL injection in Front Gate Tickets",
-      "https://ian.sh/frontgate"
     ]
   ],
   [
