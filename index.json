@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-06, 07:43:07",
+      "https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 07:40:41",
+      "https://lobste.rs/s/b3elwj/web_security_docs_on_mdn"
+    ],
+    [
+      "Web Security docs on MDN",
+      "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 07:32:32",
+      "https://lobste.rs/s/kzsdhf/how_skiing_accident_put_our_development"
+    ],
+    [
+      "How a Skiing Accident Put Our Development Practices to the test",
+      "https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 06:12:25",
+      "https://lobste.rs/s/6fhbtz/dragonfruit_68k_dragonball_palm_device"
+    ],
+    [
+      "Dragonfruit: A 68k/Dragonball Palm device emulator for ESP32 devices",
+      "https://github.com/megabytefisher/Dragonfruit"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 04:46:14",
       "https://lobste.rs/s/jbalki/forlorn_hope_fortran_modernisation"
     ],
@@ -31,16 +71,6 @@
   ],
   [
     [
-      "2026-07-06, 03:21:38",
-      "https://lobste.rs/s/hngcku/metastability_recovery_cascading"
-    ],
-    [
-      "Metastability in Recovery: Cascading Recovery with a Loop",
-      "https://charap.co/metastability-in-recovery-cascading-recovery-with-a-loop/"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 00:17:01",
       "https://lobste.rs/s/l0yqco/novel_look_at_error_handling_rust"
     ],
@@ -57,6 +87,16 @@
     [
       "Composite video on the NES: why's it so wobbly?",
       "https://nicole.express/2026/phase-altering-by-line.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 22:31:25",
+      "https://lobste.rs/s/0ptuxw/dependencies_should_be_fetched_directly"
+    ],
+    [
+      "Dependencies should be fetched directly from VCS",
+      "https://www.arp242.net/deps-vcs.html"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "Installing A/UX 1.1 like it’s the 90s",
       "https://thomasw.dev/post/aux11/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 18:40:08",
-      "https://lobste.rs/s/qyugm7/bench_press_leaking_text_nodes_with_css"
-    ],
-    [
-      "Bench Press: Leaking Text Nodes with CSS",
-      "https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2026-07-05, 03:13:15",
-      "https://lobste.rs/s/jchp72/scheme_is_hoot"
-    ],
-    [
-      "Scheme is a Hoot",
-      "https://gracefulliberty.com/notes/scheme-is-a-hoot/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 23:35:02",
-      "https://lobste.rs/s/d1hevp/dark_mode_with_web_standards"
-    ],
-    [
-      "Dark mode with web standards",
-      "https://olliewilliams.xyz/blog/dark-mode/"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 21:51:19",
       "https://lobste.rs/s/yrmpxy/better_models_worse_tools"
     ],
@@ -227,16 +237,6 @@
     [
       "Bad Epoll (CVE-2026-46242)",
       "https://github.com/J-jaeyoung/bad-epoll"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 15:20:06",
-      "https://lobste.rs/s/xfjchg/do_wavy_walls_really_use_fewer_bricks_i"
-    ],
-    [
-      "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender",
-      "https://blog.tymscar.com/posts/crinklecranklewalls/"
     ]
   ],
   [
