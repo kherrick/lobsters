@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-06, 18:20:31",
+      "https://lobste.rs/s/jea4xl/januscape_guest_host_escape_kvm_x86"
+    ],
+    [
+      "Januscape: Guest-to-Host Escape in KVM/x86",
+      "https://github.com/V4bel/Januscape"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 18:04:14",
       "https://lobste.rs/s/k4sprp/connections_math_two_kinds_random"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2026-07-06, 16:19:11",
-      "https://lobste.rs/s/fplb85/backstage_access_unauthenticated_sql"
-    ],
-    [
-      "Backstage access: an unauthenticated SQL injection in Front Gate Tickets",
-      "https://ian.sh/frontgate"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 15:46:35",
       "https://lobste.rs/s/qwgpts/seventy_years_parsing_theoretical"
     ],
     [
       "Seventy Years of Parsing: Theoretical and Practical Consequences",
       "https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 15:30:30",
+      "https://lobste.rs/s/rk0bl2/postgres_is_enough"
+    ],
+    [
+      "Postgres Is Enough",
+      "https://postgresisenough.dev"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Work In Progress Rust",
       "https://blog.dureuill.net/articles/wip/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 13:47:33",
-      "https://lobste.rs/s/ywehuv/run_windows_2000_on_dec_alpha_with_new_es40"
-    ],
-    [
-      "Run Windows 2000 on a DEC Alpha with a new es40 fork",
-      "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html"
     ]
   ],
   [
