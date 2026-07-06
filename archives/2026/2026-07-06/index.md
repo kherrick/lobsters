@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 16:19:11](https://lobste.rs/s/fplb85/backstage_access_unauthenticated_sql) - [Backstage access: an unauthenticated SQL injection in Front Gate Tickets](https://ian.sh/frontgate)
 * [2026-07-06, 15:46:35](https://lobste.rs/s/qwgpts/seventy_years_parsing_theoretical) - [Seventy Years of Parsing: Theoretical and Practical Consequences](https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf)
 * [2026-07-06, 15:30:30](https://lobste.rs/s/rk0bl2/postgres_is_enough) - [Postgres Is Enough](https://postgresisenough.dev)
 * [2026-07-06, 13:44:16](https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj) - [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
