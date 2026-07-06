@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-06, 04:46:14",
+      "https://lobste.rs/s/jbalki/forlorn_hope_fortran_modernisation"
+    ],
+    [
+      "Forlorn Hope of Fortran Modernisation",
+      "https://amenzwa.github.io/stem/PL/FortranModernisation/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 04:36:31",
+      "https://lobste.rs/s/wl0cz3/is_starlink_secret_radar_constellation"
+    ],
+    [
+      "Is Starlink A Secret Radar Constellation?",
+      "https://www.youtube.com/watch?v=jbp3kdJZ1_A"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 03:25:50",
       "https://lobste.rs/s/iztgtd/speed_limit_for_computers"
     ],
@@ -37,16 +57,6 @@
     [
       "Composite video on the NES: why's it so wobbly?",
       "https://nicole.express/2026/phase-altering-by-line.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 22:31:25",
-      "https://lobste.rs/s/0ptuxw/dependencies_should_be_fetched_directly"
-    ],
-    [
-      "Dependencies should be fetched directly from VCS",
-      "https://www.arp242.net/deps-vcs.html"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "small details in my mastodon client that i wanted more people to notice",
       "https://w.on-t.work/outpost-frontend-details"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 06:52:10",
-      "https://lobste.rs/s/nzifa8/pep_814_add_frozendict_built_type"
-    ],
-    [
-      "PEP 814: Add frozendict built-in type",
-      "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html"
     ]
   ],
   [
