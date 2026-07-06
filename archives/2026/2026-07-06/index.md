@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 15:46:35](https://lobste.rs/s/qwgpts/seventy_years_parsing_theoretical) - [Seventy Years of Parsing: Theoretical and Practical Consequences](https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf)
+* [2026-07-06, 15:30:30](https://lobste.rs/s/rk0bl2/postgres_is_enough) - [Postgres Is Enough](https://postgresisenough.dev)
 * [2026-07-06, 13:44:16](https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj) - [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
 * [2026-07-06, 12:53:15](https://lobste.rs/s/heyyj9/caught_git_config_crawler) - [Caught a .git/config crawler](https://bruceediger.com/posts/git-config-spider/)
 * [2026-07-06, 12:36:51](https://lobste.rs/s/qa7i6t/can_you_run_every_line_code_super_mario) - [Can you run every line of code in Super Mario Bros.?](https://www.youtube.com/watch?v=o0gOALTvkcc)
