@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 13:44:16](https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj) - [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
 * [2026-07-06, 12:53:15](https://lobste.rs/s/heyyj9/caught_git_config_crawler) - [Caught a .git/config crawler](https://bruceediger.com/posts/git-config-spider/)
 * [2026-07-06, 12:36:51](https://lobste.rs/s/qa7i6t/can_you_run_every_line_code_super_mario) - [Can you run every line of code in Super Mario Bros.?](https://www.youtube.com/watch?v=o0gOALTvkcc)
 * [2026-07-06, 12:31:02](https://lobste.rs/s/snysfl/preempt_none_is_dead_your_postgres) - [PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care](https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/)

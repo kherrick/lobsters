@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-06, 13:44:16](https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj) - [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
 * [2026-07-06, 12:53:15](https://lobste.rs/s/heyyj9/caught_git_config_crawler) - [Caught a .git/config crawler](https://bruceediger.com/posts/git-config-spider/)
 * [2026-07-06, 12:36:51](https://lobste.rs/s/qa7i6t/can_you_run_every_line_code_super_mario) - [Can you run every line of code in Super Mario Bros.?](https://www.youtube.com/watch?v=o0gOALTvkcc)
 * [2026-07-06, 12:31:02](https://lobste.rs/s/snysfl/preempt_none_is_dead_your_postgres) - [PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care](https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/)
@@ -16,7 +17,6 @@
 * [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 * [2026-07-06, 00:17:01](https://lobste.rs/s/l0yqco/novel_look_at_error_handling_rust) - [A Novel Look at Error Handling in Rust](https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html)
 * [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
-* [2026-07-05, 19:08:21](https://lobste.rs/s/dvn3hl/installing_ux_1_1_like_it_s_90s) - [Installing A/UX 1.1 like it’s the 90s](https://thomasw.dev/post/aux11/)
 * [2026-07-05, 18:39:26](https://lobste.rs/s/4behtu/rayfish_p2p_vpn_built_on_top_iroh) - [Rayfish - P2P VPN built on top of Iroh](https://rayfish.xyz/blog/01-introducing-rayfish)
 * [2026-07-05, 17:28:12](https://lobste.rs/s/qu1bwq/work_progress_rust) - [Work In Progress Rust](https://blog.dureuill.net/articles/wip/)
 * [2026-07-05, 13:47:33](https://lobste.rs/s/ywehuv/run_windows_2000_on_dec_alpha_with_new_es40) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
