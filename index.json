@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-07, 22:02:16",
+      "https://lobste.rs/s/sglhvg/measurement_study_on_adoption_pledges"
+    ],
+    [
+      "A Measurement Study on the Adoption of Pledges and Unveils in the OpenBSD Operating System",
+      "https://arxiv.org/pdf/2607.03056"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 21:14:16",
       "https://lobste.rs/s/qlw9wg/new_research_verified_github_commit_is"
     ],
@@ -157,16 +167,6 @@
     [
       "Google’s exponential path to climate-wrecking digital bloat",
       "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 06:29:08",
-      "https://lobste.rs/s/1kpfog/eliminating_go_bound_checks_with_unsafe"
-    ],
-    [
-      "Eliminating Go bound checks with unsafe",
-      "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe"
     ]
   ],
   [
