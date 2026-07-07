@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-07, 00:43:11](https://lobste.rs/s/fw8e40/at_t_s_very_rare_security_plus_telephone) - [AT&T's very rare Security-Plus Telephone](https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html)
+* [2026-07-07, 00:36:20](https://lobste.rs/s/caofow/openssh_10_4) - [OpenSSH 10.4](https://www.openssh.org/releasenotes.html#10.4)
 * [2026-07-06, 20:15:25](https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 * [2026-07-06, 19:47:11](https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now) - [ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2](https://www.phoronix.com/news/Half-Life-2-ReactOS)
 * [2026-07-06, 19:17:08](https://lobste.rs/s/xvzbwu/hacking_kyocera_ky_42c) - [Hacking the Kyocera KY-42C](https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c)
@@ -24,7 +25,6 @@
 * [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
 * [2026-07-05, 18:39:26](https://lobste.rs/s/4behtu/rayfish_p2p_vpn_built_on_top_iroh) - [Rayfish - P2P VPN built on top of Iroh](https://rayfish.xyz/blog/01-introducing-rayfish)
 * [2026-07-05, 17:28:12](https://lobste.rs/s/qu1bwq/work_progress_rust) - [Work In Progress Rust](https://blog.dureuill.net/articles/wip/)
-* [2026-07-05, 08:24:06](https://lobste.rs/s/zhizsf/if_you_re_button_you_have_one_job) - [If you’re a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 
 ## [Archives](archives/index.md)
 
