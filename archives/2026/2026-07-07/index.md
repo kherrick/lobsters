@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 08:22:58](https://lobste.rs/s/no3kkj/why_false_sharing_alignment_should_be_128) - [Why false sharing alignment should be 128 bytes on x64](https://monoid.github.io/posts/false-sharing-alignment/)
+* [2026-07-07, 06:29:08](https://lobste.rs/s/1kpfog/eliminating_go_bound_checks_with_unsafe) - [Eliminating Go bound checks with unsafe](https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe)
 * [2026-07-07, 06:20:55](https://lobste.rs/s/5rvgim/odin_1_0_announcement) - [Odin 1.0 Announcement](https://www.youtube.com/watch?v=dLPAqXi9In0)
 * [2026-07-07, 05:39:18](https://lobste.rs/s/g2bzt2/rust_lean_verification_pipeline_with_ai) - [A Rust-to-Lean verification pipeline with AI provers: An experience report](https://arxiv.org/html/2605.30106)
 * [2026-07-07, 05:24:30](https://lobste.rs/s/poxkva/turning_chinese_iot_camera_into_owl) - [Turning a Chinese IoT camera into an owl livestream](https://blog.alexbeals.com/posts/owl-cam)

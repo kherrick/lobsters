@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-07, 08:22:58](https://lobste.rs/s/no3kkj/why_false_sharing_alignment_should_be_128) - [Why false sharing alignment should be 128 bytes on x64](https://monoid.github.io/posts/false-sharing-alignment/)
+* [2026-07-07, 06:29:08](https://lobste.rs/s/1kpfog/eliminating_go_bound_checks_with_unsafe) - [Eliminating Go bound checks with unsafe](https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe)
 * [2026-07-07, 06:20:55](https://lobste.rs/s/5rvgim/odin_1_0_announcement) - [Odin 1.0 Announcement](https://www.youtube.com/watch?v=dLPAqXi9In0)
 * [2026-07-07, 05:39:18](https://lobste.rs/s/g2bzt2/rust_lean_verification_pipeline_with_ai) - [A Rust-to-Lean verification pipeline with AI provers: An experience report](https://arxiv.org/html/2605.30106)
-* [2026-07-07, 05:24:30](https://lobste.rs/s/poxkva/turning_chinese_iot_camera_into_owl) - [Turning a Chinese IoT camera into an owl livestream](https://blog.alexbeals.com/posts/owl-cam)
-* [2026-07-07, 04:25:08](https://lobste.rs/s/jgzcye/compiling_go_program_into_native_binary) - [Compiling a Go program into a native binary for Nintendo Switch](https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html)
+* [2026-07-07, 04:25:08](https://lobste.rs/s/jgzcye/compiling_go_program_into_native_binary) - [Compiling a Go program into a native binary for Nintendo Switch (2022)](https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html)
 * [2026-07-07, 01:52:36](https://lobste.rs/s/z4apqw/radicle_p2p_git_replication_with_git) - [Radicle: P2P Git Replication with Git Native Issues and Patches](https://radicle.dev/)
 * [2026-07-07, 00:43:11](https://lobste.rs/s/fw8e40/at_t_s_very_rare_security_plus_telephone) - [AT&T's very rare Security-Plus Telephone](https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html)
 * [2026-07-07, 00:36:20](https://lobste.rs/s/caofow/openssh_10_4) - [OpenSSH 10.4](https://www.openssh.org/releasenotes.html#10.4)
@@ -24,7 +25,6 @@
 * [2026-07-06, 07:48:06](https://lobste.rs/s/j5ovrm/mr_baby_paint_accidentally_discovering) - [Mr. Baby Paint & accidentally discovering a new cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/)
 * [2026-07-06, 07:40:41](https://lobste.rs/s/b3elwj/web_security_docs_on_mdn) - [Web Security docs on MDN](https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/)
 * [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
-* [2026-07-05, 17:28:12](https://lobste.rs/s/qu1bwq/work_progress_rust) - [Work In Progress Rust](https://blog.dureuill.net/articles/wip/)
 
 ## [Archives](archives/index.md)
 
