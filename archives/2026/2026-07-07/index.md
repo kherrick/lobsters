@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 14:35:05](https://lobste.rs/s/isvjz0/github_has_restricted_access_star_data) - [GitHub Has Restricted Access to Star Data](https://www.star-history.com/blog/github-stargazer-api-restriction)
 * [2026-07-07, 13:41:01](https://lobste.rs/s/n3iqxi/i_was_wrong_about_game_development) - [I was wrong about game development](https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/)
 * [2026-07-07, 13:35:34](https://lobste.rs/s/zffug6/mechanized_type_inference_for_record) - [Mechanized type inference for record concatenation](https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation)
 * [2026-07-07, 13:13:47](https://lobste.rs/s/8d9pgd/you_shouldn_t_trust_trusted_publishing) - [You shouldn't trust Trusted Publishing](https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing)
