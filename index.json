@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-07, 11:00:34",
+      "https://lobste.rs/s/asnoqy/signed_integers_by_default"
+    ],
+    [
+      "Signed Integers By Default",
+      "https://www.gingerbill.org/article/2026/05/03/signed-by-default/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 09:56:21",
+      "https://lobste.rs/s/txjns0/reporting_19_years_hidden_linux_kernel"
+    ],
+    [
+      "Reporting a 19+ Years Hidden Linux Kernel Zero-Day for Google kernelCTF: CVE-2026-43456",
+      "https://gmo-cybersecurity.com/blog/19-years-hidden-80000-rewarded-reporting-a-linux-kernel-zero-day-for-google-kernelctf/"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 09:46:01",
       "https://lobste.rs/s/hfiihu/waterfall_cad_playground_haskell"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-07-06, 09:22:35",
-      "https://lobste.rs/s/eytr4y/konform_browser_140_12_0_103"
-    ],
-    [
-      "Konform Browser 140.12.0-103",
-      "https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 08:22:08",
       "https://lobste.rs/s/r0xrm0/jam_programming_language"
     ],
@@ -227,16 +237,6 @@
     [
       "Mr. Baby Paint & accidentally discovering a new cellular automata",
       "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 07:40:41",
-      "https://lobste.rs/s/b3elwj/web_security_docs_on_mdn"
-    ],
-    [
-      "Web Security docs on MDN",
-      "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/"
     ]
   ],
   [
