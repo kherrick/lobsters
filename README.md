@@ -5,6 +5,7 @@
 * [2026-07-07, 13:13:47](https://lobste.rs/s/8d9pgd/you_shouldn_t_trust_trusted_publishing) - [You shouldn't trust Trusted Publishing](https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing)
 * [2026-07-07, 12:49:03](https://lobste.rs/s/hq8i1h/popup_says_quiet_part_out_loud) - [The Popup That Says the Quiet Part Out Loud](https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud)
 * [2026-07-07, 12:29:11](https://lobste.rs/s/xiamhy/put_nethack_on_my_community_app_this_38) - [Put NetHack on my community app and this 38-year-old game keeps outsmarting me](https://lobste.rs/s/xiamhy/put_nethack_on_my_community_app_this_38)
+* [2026-07-07, 12:09:47](https://lobste.rs/s/hxjscx/how_i_m_using_css_view_transitions_on_this) - [How I'm using CSS View Transitions on this blog](https://blog.omgmog.net/post/how-im-using-css-view-transitions-on-this-blog/)
 * [2026-07-07, 11:00:34](https://lobste.rs/s/asnoqy/signed_integers_by_default) - [Signed Integers By Default](https://www.gingerbill.org/article/2026/05/03/signed-by-default/)
 * [2026-07-07, 09:56:21](https://lobste.rs/s/txjns0/reporting_19_years_hidden_linux_kernel) - [Reporting a 19+ Years Hidden Linux Kernel Zero-Day for Google kernelCTF: CVE-2026-43456](https://gmo-cybersecurity.com/blog/19-years-hidden-80000-rewarded-reporting-a-linux-kernel-zero-day-for-google-kernelctf/)
 * [2026-07-07, 09:46:01](https://lobste.rs/s/hfiihu/waterfall_cad_playground_haskell) - [Waterfall CAD Playground - A Haskell powered programmable-CAD environment, in the browser with WASM](https://doscienceto.it/waterpark)
@@ -23,7 +24,6 @@
 * [2026-07-06, 12:31:02](https://lobste.rs/s/snysfl/preempt_none_is_dead_your_postgres) - [PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care](https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/)
 * [2026-07-06, 11:31:42](https://lobste.rs/s/krej7c/faster_builds_with_elm_0_19_2) - [Faster Builds with Elm 0.19.2](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 11:28:23](https://lobste.rs/s/vwni9c/sneakerweb) - [sneakerweb](https://sneakerweb.org/)
-* [2026-07-06, 08:22:08](https://lobste.rs/s/r0xrm0/jam_programming_language) - [Jam Programming Language](https://rapha.land/jam-programming-language/)
 * [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 
 ## [Archives](archives/index.md)
