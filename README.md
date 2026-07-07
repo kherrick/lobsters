@@ -6,7 +6,6 @@
 * [2026-07-07, 07:33:16](https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate) - [Google’s exponential path to climate-wrecking digital bloat](https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/)
 * [2026-07-07, 06:29:08](https://lobste.rs/s/1kpfog/eliminating_go_bound_checks_with_unsafe) - [Eliminating Go bound checks with unsafe](https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe)
 * [2026-07-07, 06:20:55](https://lobste.rs/s/5rvgim/odin_1_0_announcement) - [Odin 1.0 Announcement](https://www.youtube.com/watch?v=dLPAqXi9In0)
-* [2026-07-07, 05:39:18](https://lobste.rs/s/g2bzt2/rust_lean_verification_pipeline_with_ai) - [A Rust-to-Lean verification pipeline with AI provers: An experience report](https://arxiv.org/html/2605.30106)
 * [2026-07-07, 04:25:08](https://lobste.rs/s/jgzcye/compiling_go_program_into_native_binary) - [Compiling a Go program into a native binary for Nintendo Switch (2022)](https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html)
 * [2026-07-07, 01:52:36](https://lobste.rs/s/z4apqw/radicle_p2p_git_replication_with_git) - [Radicle: P2P Git Replication with Git Native Issues and Patches](https://radicle.dev/)
 * [2026-07-07, 00:43:11](https://lobste.rs/s/fw8e40/at_t_s_very_rare_security_plus_telephone) - [AT&T's very rare Security-Plus Telephone](https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html)
@@ -24,6 +23,7 @@
 * [2026-07-06, 09:22:35](https://lobste.rs/s/eytr4y/konform_browser_140_12_0_103) - [Konform Browser 140.12.0-103](https://codeberg.org/konform-browser/source/releases/tag/140.12.0.103)
 * [2026-07-06, 08:22:08](https://lobste.rs/s/r0xrm0/jam_programming_language) - [Jam Programming Language](https://rapha.land/jam-programming-language/)
 * [2026-07-06, 07:48:06](https://lobste.rs/s/j5ovrm/mr_baby_paint_accidentally_discovering) - [Mr. Baby Paint & accidentally discovering a new cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/)
+* [2026-07-06, 07:40:41](https://lobste.rs/s/b3elwj/web_security_docs_on_mdn) - [Web Security docs on MDN](https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/)
 * [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 
 ## [Archives](archives/index.md)
