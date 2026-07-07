@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-07, 19:25:57",
-      "https://lobste.rs/s/8whjc0/ccl_categorical_configuration_language"
+      "2026-07-07, 18:41:58",
+      "https://lobste.rs/s/qklyjk/why_we_built_yet_another_postgres"
     ],
     [
-      "CCL: Categorical Configuration Language",
-      "https://github.com/chshersh/ccl"
+      "Why we built yet another Postgres connection pooler",
+      "https://pgdog.dev/blog/why-yet-another-connection-pooler"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Friction is a Feature",
       "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 16:03:10",
+      "https://lobste.rs/s/znka50/getting_started_with_anchor_positioning"
+    ],
+    [
+      "Getting Started with Anchor Positioning",
+      "https://www.joshwcomeau.com/css/anchor-positioning/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "How I'm using CSS View Transitions on this blog",
       "https://blog.omgmog.net/post/how-im-using-css-view-transitions-on-this-blog/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 11:19:11",
-      "https://lobste.rs/s/2lhx8n/finding_needle_4_gb_haystack_from_0_75_gb_s"
-    ],
-    [
-      "Finding a needle in a 4 GB haystack: from 0.75 GB/s to 49 GB/s in Go",
-      "https://segflow.github.io/post/fast-file-search-go/"
     ]
   ],
   [
