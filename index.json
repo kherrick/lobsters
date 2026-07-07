@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-07, 14:35:05",
+      "https://lobste.rs/s/isvjz0/github_has_restricted_access_star_data"
+    ],
+    [
+      "GitHub Has Restricted Access to Star Data",
+      "https://www.star-history.com/blog/github-stargazer-api-restriction"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 13:41:01",
       "https://lobste.rs/s/n3iqxi/i_was_wrong_about_game_development"
     ],
@@ -207,16 +217,6 @@
     [
       "The (Petty) Reason We Didn't End Up Using jj",
       "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 12:31:02",
-      "https://lobste.rs/s/snysfl/preempt_none_is_dead_your_postgres"
-    ],
-    [
-      "PREEMPT_NONE Is Dead; Your Postgres Probably Doesn’t Care",
-      "https://thebuild.com/blog/preempt_none-is-dead-your-postgres-probably-doesnt-care/"
     ]
   ],
   [
