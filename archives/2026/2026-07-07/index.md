@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 22:13:52](https://lobste.rs/s/xclcel/final_return_for_openbsd_anti_return) - [A Final Return for OpenBSD Anti-Return-Oriented Programming Mitigations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869668)
 * [2026-07-07, 22:02:16](https://lobste.rs/s/sglhvg/measurement_study_on_adoption_pledges) - [A Measurement Study on the Adoption of Pledges and Unveils in the OpenBSD Operating System](https://arxiv.org/pdf/2607.03056)
 * [2026-07-07, 21:14:16](https://lobste.rs/s/qlw9wg/new_research_verified_github_commit_is) - [New Research: A \"Verified\" GitHub Commit Is NOT Unique](https://www.internationalcyberdigest.com/new-research-a-verified-github-commit-is-not-unique/)
 * [2026-07-07, 19:25:57](https://lobste.rs/s/8whjc0/ccl_categorical_configuration_language) - [CCL: Categorical Configuration Language](https://github.com/chshersh/ccl)

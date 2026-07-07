@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-07, 22:13:52](https://lobste.rs/s/xclcel/final_return_for_openbsd_anti_return) - [A Final Return for OpenBSD Anti-Return-Oriented Programming Mitigations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869668)
 * [2026-07-07, 22:02:16](https://lobste.rs/s/sglhvg/measurement_study_on_adoption_pledges) - [A Measurement Study on the Adoption of Pledges and Unveils in the OpenBSD Operating System](https://arxiv.org/pdf/2607.03056)
 * [2026-07-07, 21:14:16](https://lobste.rs/s/qlw9wg/new_research_verified_github_commit_is) - [New Research: A \"Verified\" GitHub Commit Is NOT Unique](https://www.internationalcyberdigest.com/new-research-a-verified-github-commit-is-not-unique/)
 * [2026-07-07, 18:41:58](https://lobste.rs/s/qklyjk/why_we_built_yet_another_postgres) - [Why we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler)
@@ -10,7 +11,6 @@
 * [2026-07-07, 13:35:34](https://lobste.rs/s/zffug6/mechanized_type_inference_for_record) - [Mechanized type inference for record concatenation](https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation)
 * [2026-07-07, 13:13:47](https://lobste.rs/s/8d9pgd/you_shouldn_t_trust_trusted_publishing) - [You shouldn't trust Trusted Publishing](https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing)
 * [2026-07-07, 12:49:03](https://lobste.rs/s/hq8i1h/popup_says_quiet_part_out_loud) - [The Popup That Says the Quiet Part Out Loud](https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud)
-* [2026-07-07, 12:09:47](https://lobste.rs/s/hxjscx/how_i_m_using_css_view_transitions_on_this) - [How I'm using CSS View Transitions on this blog](https://blog.omgmog.net/post/how-im-using-css-view-transitions-on-this-blog/)
 * [2026-07-07, 11:19:11](https://lobste.rs/s/2lhx8n/finding_needle_4_gb_haystack_from_0_75_gb_s) - [Finding a needle in a 4 GB haystack: from 0.75 GB/s to 49 GB/s in Go](https://segflow.github.io/post/fast-file-search-go/)
 * [2026-07-07, 11:00:34](https://lobste.rs/s/asnoqy/signed_integers_by_default) - [Signed Integers By Default](https://www.gingerbill.org/article/2026/05/03/signed-by-default/)
 * [2026-07-07, 09:46:01](https://lobste.rs/s/hfiihu/waterfall_cad_playground_haskell) - [Waterfall CAD Playground - A Haskell powered programmable-CAD environment, in the browser with WASM](https://doscienceto.it/waterpark)
