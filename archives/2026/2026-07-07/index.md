@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 21:14:16](https://lobste.rs/s/qlw9wg/new_research_verified_github_commit_is) - [New Research: A \"Verified\" GitHub Commit Is NOT Unique](https://www.internationalcyberdigest.com/new-research-a-verified-github-commit-is-not-unique/)
 * [2026-07-07, 19:25:57](https://lobste.rs/s/8whjc0/ccl_categorical_configuration_language) - [CCL: Categorical Configuration Language](https://github.com/chshersh/ccl)
 * [2026-07-07, 18:41:58](https://lobste.rs/s/qklyjk/why_we_built_yet_another_postgres) - [Why we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler)
 * [2026-07-07, 17:51:14](https://lobste.rs/s/srmkur/your_rust_service_isn_t_leaking_it_could_be) - [Your Rust Service Isn't Leaking — It Could Be the Allocator](https://pranitha.dev/posts/rust-and-memory-allocators/)
