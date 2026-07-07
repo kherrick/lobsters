@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-07, 18:41:58",
-      "https://lobste.rs/s/qklyjk/why_we_built_yet_another_postgres"
+      "2026-07-07, 19:25:57",
+      "https://lobste.rs/s/8whjc0/ccl_categorical_configuration_language"
     ],
     [
-      "Why we built yet another Postgres connection pooler",
-      "https://pgdog.dev/blog/why-yet-another-connection-pooler"
+      "CCL: Categorical Configuration Language",
+      "https://github.com/chshersh/ccl"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 17:51:14",
+      "https://lobste.rs/s/srmkur/your_rust_service_isn_t_leaking_it_could_be"
+    ],
+    [
+      "Your Rust Service Isn't Leaking — It Could Be the Allocator",
+      "https://pranitha.dev/posts/rust-and-memory-allocators/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "sneakerweb",
       "https://sneakerweb.org/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 03:25:50",
-      "https://lobste.rs/s/iztgtd/speed_limit_for_computers"
-    ],
-    [
-      "A Speed Limit for Computers",
-      "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm"
     ]
   ]
 ]
