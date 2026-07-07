@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-07, 08:22:58",
+      "https://lobste.rs/s/no3kkj/why_false_sharing_alignment_should_be_128"
+    ],
+    [
+      "Why false sharing alignment should be 128 bytes on x64",
+      "https://monoid.github.io/posts/false-sharing-alignment/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 06:29:08",
+      "https://lobste.rs/s/1kpfog/eliminating_go_bound_checks_with_unsafe"
+    ],
+    [
+      "Eliminating Go bound checks with unsafe",
+      "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 06:20:55",
       "https://lobste.rs/s/5rvgim/odin_1_0_announcement"
     ],
@@ -21,21 +41,11 @@
   ],
   [
     [
-      "2026-07-07, 05:24:30",
-      "https://lobste.rs/s/poxkva/turning_chinese_iot_camera_into_owl"
-    ],
-    [
-      "Turning a Chinese IoT camera into an owl livestream",
-      "https://blog.alexbeals.com/posts/owl-cam"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 04:25:08",
       "https://lobste.rs/s/jgzcye/compiling_go_program_into_native_binary"
     ],
     [
-      "Compiling a Go program into a native binary for Nintendo Switch",
+      "Compiling a Go program into a native binary for Nintendo Switch (2022)",
       "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "A Speed Limit for Computers",
       "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 17:28:12",
-      "https://lobste.rs/s/qu1bwq/work_progress_rust"
-    ],
-    [
-      "Work In Progress Rust",
-      "https://blog.dureuill.net/articles/wip/"
     ]
   ]
 ]
