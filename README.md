@@ -10,6 +10,7 @@
 * [2026-07-07, 13:13:47](https://lobste.rs/s/8d9pgd/you_shouldn_t_trust_trusted_publishing) - [You shouldn't trust Trusted Publishing](https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing)
 * [2026-07-07, 12:49:03](https://lobste.rs/s/hq8i1h/popup_says_quiet_part_out_loud) - [The Popup That Says the Quiet Part Out Loud](https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud)
 * [2026-07-07, 12:09:47](https://lobste.rs/s/hxjscx/how_i_m_using_css_view_transitions_on_this) - [How I'm using CSS View Transitions on this blog](https://blog.omgmog.net/post/how-im-using-css-view-transitions-on-this-blog/)
+* [2026-07-07, 11:19:11](https://lobste.rs/s/2lhx8n/finding_needle_4_gb_haystack_from_0_75_gb_s) - [Finding a needle in a 4 GB haystack: from 0.75 GB/s to 49 GB/s in Go](https://segflow.github.io/post/fast-file-search-go/)
 * [2026-07-07, 11:00:34](https://lobste.rs/s/asnoqy/signed_integers_by_default) - [Signed Integers By Default](https://www.gingerbill.org/article/2026/05/03/signed-by-default/)
 * [2026-07-07, 09:46:01](https://lobste.rs/s/hfiihu/waterfall_cad_playground_haskell) - [Waterfall CAD Playground - A Haskell powered programmable-CAD environment, in the browser with WASM](https://doscienceto.it/waterpark)
 * [2026-07-07, 09:35:02](https://lobste.rs/s/709awc/together_for_healthier_clippy) - [Together for a healthier Clippy](https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/)
@@ -22,7 +23,6 @@
 * [2026-07-07, 00:36:20](https://lobste.rs/s/caofow/openssh_10_4) - [OpenSSH 10.4](https://www.openssh.org/releasenotes.html#10.4)
 * [2026-07-06, 20:15:25](https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 * [2026-07-06, 19:47:11](https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now) - [ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2](https://www.phoronix.com/news/Half-Life-2-ReactOS)
-* [2026-07-06, 13:44:16](https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj) - [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
 * [2026-07-06, 11:31:42](https://lobste.rs/s/krej7c/faster_builds_with_elm_0_19_2) - [Faster Builds with Elm 0.19.2](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 11:28:23](https://lobste.rs/s/vwni9c/sneakerweb) - [sneakerweb](https://sneakerweb.org/)
 
