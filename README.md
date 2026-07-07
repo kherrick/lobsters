@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-07, 18:41:58](https://lobste.rs/s/qklyjk/why_we_built_yet_another_postgres) - [Why we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler)
+* [2026-07-07, 19:25:57](https://lobste.rs/s/8whjc0/ccl_categorical_configuration_language) - [CCL: Categorical Configuration Language](https://github.com/chshersh/ccl)
+* [2026-07-07, 17:51:14](https://lobste.rs/s/srmkur/your_rust_service_isn_t_leaking_it_could_be) - [Your Rust Service Isn't Leaking — It Could Be the Allocator](https://pranitha.dev/posts/rust-and-memory-allocators/)
 * [2026-07-07, 16:03:16](https://lobste.rs/s/tk8spu/friction_is_feature) - [Friction is a Feature](https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html)
 * [2026-07-07, 14:35:05](https://lobste.rs/s/isvjz0/github_has_restricted_access_star_data) - [GitHub Has Restricted Access to Star Data](https://www.star-history.com/blog/github-stargazer-api-restriction)
 * [2026-07-07, 13:41:01](https://lobste.rs/s/n3iqxi/i_was_wrong_about_game_development) - [I was wrong about game development](https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/)
@@ -24,7 +25,6 @@
 * [2026-07-06, 13:44:16](https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj) - [The (Petty) Reason We Didn't End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
 * [2026-07-06, 11:31:42](https://lobste.rs/s/krej7c/faster_builds_with_elm_0_19_2) - [Faster Builds with Elm 0.19.2](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 11:28:23](https://lobste.rs/s/vwni9c/sneakerweb) - [sneakerweb](https://sneakerweb.org/)
-* [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 
 ## [Archives](archives/index.md)
 
