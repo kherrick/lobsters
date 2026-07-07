@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-07, 22:02:16](https://lobste.rs/s/sglhvg/measurement_study_on_adoption_pledges) - [A Measurement Study on the Adoption of Pledges and Unveils in the OpenBSD Operating System](https://arxiv.org/pdf/2607.03056)
 * [2026-07-07, 21:14:16](https://lobste.rs/s/qlw9wg/new_research_verified_github_commit_is) - [New Research: A \"Verified\" GitHub Commit Is NOT Unique](https://www.internationalcyberdigest.com/new-research-a-verified-github-commit-is-not-unique/)
 * [2026-07-07, 18:41:58](https://lobste.rs/s/qklyjk/why_we_built_yet_another_postgres) - [Why we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler)
 * [2026-07-07, 17:51:14](https://lobste.rs/s/srmkur/your_rust_service_isn_t_leaking_it_could_be) - [Your Rust Service Isn't Leaking — It Could Be the Allocator](https://pranitha.dev/posts/rust-and-memory-allocators/)
@@ -16,7 +17,6 @@
 * [2026-07-07, 09:35:02](https://lobste.rs/s/709awc/together_for_healthier_clippy) - [Together for a healthier Clippy](https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/)
 * [2026-07-07, 08:22:58](https://lobste.rs/s/no3kkj/why_false_sharing_alignment_should_be_128) - [Why false sharing alignment should be 128 bytes on x64](https://monoid.github.io/posts/false-sharing-alignment/)
 * [2026-07-07, 07:33:16](https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate) - [Google’s exponential path to climate-wrecking digital bloat](https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/)
-* [2026-07-07, 06:29:08](https://lobste.rs/s/1kpfog/eliminating_go_bound_checks_with_unsafe) - [Eliminating Go bound checks with unsafe](https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe)
 * [2026-07-07, 06:20:55](https://lobste.rs/s/5rvgim/odin_1_0_announcement) - [Odin 1.0 Announcement](https://www.youtube.com/watch?v=dLPAqXi9In0)
 * [2026-07-07, 04:25:08](https://lobste.rs/s/jgzcye/compiling_go_program_into_native_binary) - [Compiling a Go program into a native binary for Nintendo Switch (2022)](https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html)
 * [2026-07-07, 01:52:36](https://lobste.rs/s/z4apqw/radicle_p2p_git_replication_with_git) - [Radicle: P2P Git Replication with Git Native Issues and Patches](https://radicle.dev/)
