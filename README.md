@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-06, 22:58:20](https://lobste.rs/s/ssdcnh/securing_agentic_identity) - [Securing agentic identity](https://codon.org.uk/~mjg59/blog/p/securing-agentic-identity/)
+* [2026-07-07, 00:43:11](https://lobste.rs/s/fw8e40/at_t_s_very_rare_security_plus_telephone) - [AT&T's very rare Security-Plus Telephone](https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html)
 * [2026-07-06, 20:15:25](https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 * [2026-07-06, 19:47:11](https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now) - [ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2](https://www.phoronix.com/news/Half-Life-2-ReactOS)
 * [2026-07-06, 19:17:08](https://lobste.rs/s/xvzbwu/hacking_kyocera_ky_42c) - [Hacking the Kyocera KY-42C](https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c)
