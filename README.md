@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-07, 01:52:36](https://lobste.rs/s/z4apqw/radicle_p2p_git_replication_with_git) - [Radicle: P2P Git Replication with Git Native Issues and Patches](https://radicle.dev/)
 * [2026-07-07, 00:43:11](https://lobste.rs/s/fw8e40/at_t_s_very_rare_security_plus_telephone) - [AT&T's very rare Security-Plus Telephone](https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html)
 * [2026-07-07, 00:36:20](https://lobste.rs/s/caofow/openssh_10_4) - [OpenSSH 10.4](https://www.openssh.org/releasenotes.html#10.4)
 * [2026-07-06, 20:15:25](https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
@@ -22,7 +23,6 @@
 * [2026-07-06, 07:40:41](https://lobste.rs/s/b3elwj/web_security_docs_on_mdn) - [Web Security docs on MDN](https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/)
 * [2026-07-06, 07:32:32](https://lobste.rs/s/kzsdhf/how_skiing_accident_put_our_development) - [How a Skiing Accident Put Our Development Practices to the test](https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/)
 * [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
-* [2026-07-05, 19:47:30](https://lobste.rs/s/ssvgqs/embedding_information_disorder) - [Embedding information in disorder](https://thoughts.hmmz.org/2026-07-05.html)
 * [2026-07-05, 18:39:26](https://lobste.rs/s/4behtu/rayfish_p2p_vpn_built_on_top_iroh) - [Rayfish - P2P VPN built on top of Iroh](https://rayfish.xyz/blog/01-introducing-rayfish)
 * [2026-07-05, 17:28:12](https://lobste.rs/s/qu1bwq/work_progress_rust) - [Work In Progress Rust](https://blog.dureuill.net/articles/wip/)
 
