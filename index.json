@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-07, 06:20:55",
+      "https://lobste.rs/s/5rvgim/odin_1_0_announcement"
+    ],
+    [
+      "Odin 1.0 Announcement",
+      "https://www.youtube.com/watch?v=dLPAqXi9In0"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 05:39:18",
       "https://lobste.rs/s/g2bzt2/rust_lean_verification_pipeline_with_ai"
     ],
     [
       "A Rust-to-Lean verification pipeline with AI provers: An experience report",
       "https://arxiv.org/html/2605.30106"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 05:24:30",
+      "https://lobste.rs/s/poxkva/turning_chinese_iot_camera_into_owl"
+    ],
+    [
+      "Turning a Chinese IoT camera into an owl livestream",
+      "https://blog.alexbeals.com/posts/owl-cam"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 04:25:08",
+      "https://lobste.rs/s/jgzcye/compiling_go_program_into_native_binary"
+    ],
+    [
+      "Compiling a Go program into a native binary for Nintendo Switch",
+      "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "OpenSSH 10.4",
       "https://www.openssh.org/releasenotes.html#10.4"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 22:58:20",
-      "https://lobste.rs/s/ssdcnh/securing_agentic_identity"
-    ],
-    [
-      "Securing agentic identity",
-      "https://codon.org.uk/~mjg59/blog/p/securing-agentic-identity/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Januscape: Guest-to-Host Escape in KVM/x86",
       "https://github.com/V4bel/Januscape"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 15:46:35",
-      "https://lobste.rs/s/qwgpts/seventy_years_parsing_theoretical"
-    ],
-    [
-      "Seventy Years of Parsing: Theoretical and Practical Consequences",
-      "https://langsec.org/spw26/papers/lucas-70-years-of-parsing.pdf"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Mr. Baby Paint & accidentally discovering a new cellular automata",
       "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 07:43:07",
-      "https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/7p1a5u/what_are_you_doing_this_week"
     ]
   ],
   [
