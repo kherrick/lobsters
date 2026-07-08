@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-08, 01:02:05",
+      "https://lobste.rs/s/7hmu0w/openbsd_through_7_9_has_use_after_free"
+    ],
+    [
+      "OpenBSD through 7.9 has a use-after-free allowing local privilege escalation to root (CVE-2026-57589)",
+      "https://nvd.nist.gov/vuln/detail/cve-2026-57589"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 00:42:40",
+      "https://lobste.rs/s/swqkt0/notes_on_software_quality"
+    ],
+    [
+      "Notes on software quality",
+      "https://anthonyhobday.com/blog/20260410"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 22:13:52",
       "https://lobste.rs/s/xclcel/final_return_for_openbsd_anti_return"
     ],
@@ -107,16 +127,6 @@
     [
       "The Popup That Says the Quiet Part Out Loud",
       "https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 11:19:11",
-      "https://lobste.rs/s/2lhx8n/finding_needle_4_gb_haystack_from_0_75_gb_s"
-    ],
-    [
-      "Finding a needle in a 4 GB haystack: from 0.75 GB/s to 49 GB/s in Go",
-      "https://segflow.github.io/post/fast-file-search-go/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Faster Builds with Elm 0.19.2",
       "https://elm-lang.org/news/faster-builds"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 11:28:23",
-      "https://lobste.rs/s/vwni9c/sneakerweb"
-    ],
-    [
-      "sneakerweb",
-      "https://sneakerweb.org/"
     ]
   ]
 ]
