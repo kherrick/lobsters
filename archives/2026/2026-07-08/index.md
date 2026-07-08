@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 11:16:29](https://lobste.rs/s/dz5wld/monoid_composition_maximum_subarray_sum) - [Monoid Composition & Maximum Subarray Sum Problem](https://williamdue.github.io/blog/monoid-composition)
 * [2026-07-08, 08:58:35](https://lobste.rs/s/8dadel/accessibility_gnome) - [Accessibility in GNOME](https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/)
 * [2026-07-08, 08:57:45](https://lobste.rs/s/0byhfy/extreme_haskell_typed_expression_edsls) - [Extreme Haskell: Typed Expression EDSLs (Part 1)](https://blog.jle.im/entry/extreme-haskell-typed-expression-edsls-1.html)
 * [2026-07-08, 07:58:42](https://lobste.rs/s/geibgn/announcing_save_ctfs_fund) - [Announcing the Save CTFs Fund](https://osec.io/blog/save-ctfs-fund/)
