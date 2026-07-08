@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-08, 14:02:44](https://lobste.rs/s/qmzekw/funding_open_source_software_without) - [Funding open-source software without compromising it](https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/)
 * [2026-07-08, 13:01:25](https://lobste.rs/s/oj9lal/bug_which_only_affected_left_handed_users) - [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
 * [2026-07-08, 12:29:10](https://lobste.rs/s/wkmhrv/democratizing_abandonware) - [Democratizing Abandonware](https://geopjr.dev/blog/democratizing-abandonware)
 * [2026-07-08, 11:43:45](https://lobste.rs/s/tvvosc/noiselang_where_n_5_is_dirac_delta) - [NoiseLang: Where N = 5 is a Dirac delta](https://manualmeida.dev/articles/noiselang/)
@@ -18,7 +19,6 @@
 * [2026-07-07, 13:41:01](https://lobste.rs/s/n3iqxi/i_was_wrong_about_game_development) - [I was wrong about game development](https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/)
 * [2026-07-07, 13:35:34](https://lobste.rs/s/zffug6/mechanized_type_inference_for_record) - [Mechanized type inference for record concatenation](https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation)
 * [2026-07-07, 13:13:47](https://lobste.rs/s/8d9pgd/you_shouldn_t_trust_trusted_publishing) - [You shouldn't trust Trusted Publishing](https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing)
-* [2026-07-07, 12:49:03](https://lobste.rs/s/hq8i1h/popup_says_quiet_part_out_loud) - [The Popup That Says the Quiet Part Out Loud](https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud)
 * [2026-07-07, 11:00:34](https://lobste.rs/s/asnoqy/signed_integers_by_default) - [Signed Integers By Default](https://www.gingerbill.org/article/2026/05/03/signed-by-default/)
 * [2026-07-07, 09:46:01](https://lobste.rs/s/hfiihu/waterfall_cad_playground_haskell) - [Waterfall CAD Playground - A Haskell powered programmable-CAD environment, in the browser with WASM](https://doscienceto.it/waterpark)
 * [2026-07-07, 09:35:02](https://lobste.rs/s/709awc/together_for_healthier_clippy) - [Together for a healthier Clippy](https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/)
