@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-08, 16:57:26",
+      "https://lobste.rs/s/txmyod/announcing_typescript_7_0"
+    ],
+    [
+      "Announcing TypeScript 7.0",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 16:23:12",
       "https://lobste.rs/s/jfyhu4/best_webassembly_runtime_may_still_be_no"
     ],
@@ -187,16 +197,6 @@
     [
       "I was wrong about game development",
       "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 13:35:34",
-      "https://lobste.rs/s/zffug6/mechanized_type_inference_for_record"
-    ],
-    [
-      "Mechanized type inference for record concatenation",
-      "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation"
     ]
   ],
   [
