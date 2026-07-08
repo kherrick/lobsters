@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-08, 20:11:53](https://lobste.rs/s/rb3bii/how_multigres_supports_listen_notify) - [How Multigres Supports LISTEN/NOTIFY Across Pooled Connections](https://multigres.com)
 * [2026-07-08, 19:21:18](https://lobste.rs/s/ug9go4/introducing_meerkat_experiment_global) - [Introducing Meerkat: an experiment in global consensus](https://blog.cloudflare.com/meerkat-introduction/)
 * [2026-07-08, 16:57:26](https://lobste.rs/s/txmyod/announcing_typescript_7_0) - [Announcing TypeScript 7.0](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
 * [2026-07-08, 16:23:12](https://lobste.rs/s/jfyhu4/best_webassembly_runtime_may_still_be_no) - [The best WebAssembly runtime may still be no runtime at all](https://00f.net/2026/07/08/webassembly-compilation-to-c-2026/)
@@ -19,7 +20,6 @@
 * [2026-07-08, 03:58:54](https://lobste.rs/s/y0tvll/jim_s_truetype_qr_code_font) - [Jim's TrueType QR Code Font](https://qr.jim.sh/)
 * [2026-07-08, 01:49:39](https://lobste.rs/s/8kxouk/software_engineering_interview) - [a software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007)
 * [2026-07-08, 01:02:05](https://lobste.rs/s/7hmu0w/openbsd_through_7_9_has_use_after_free) - [OpenBSD through 7.9 has a use-after-free allowing local privilege escalation to root (CVE-2026-57589)](https://nvd.nist.gov/vuln/detail/cve-2026-57589)
-* [2026-07-07, 22:13:52](https://lobste.rs/s/xclcel/final_return_for_openbsd_anti_return) - [A Final Return for OpenBSD Anti-Return-Oriented Programming Mitigations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869668)
 * [2026-07-07, 13:41:01](https://lobste.rs/s/n3iqxi/i_was_wrong_about_game_development) - [I was wrong about game development](https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/)
 * [2026-07-07, 13:13:47](https://lobste.rs/s/8d9pgd/you_shouldn_t_trust_trusted_publishing) - [You shouldn't trust Trusted Publishing](https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing)
 * [2026-07-07, 09:35:02](https://lobste.rs/s/709awc/together_for_healthier_clippy) - [Together for a healthier Clippy](https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/)

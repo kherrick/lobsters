@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 20:11:53](https://lobste.rs/s/rb3bii/how_multigres_supports_listen_notify) - [How Multigres Supports LISTEN/NOTIFY Across Pooled Connections](https://multigres.com)
 * [2026-07-08, 19:21:18](https://lobste.rs/s/ug9go4/introducing_meerkat_experiment_global) - [Introducing Meerkat: an experiment in global consensus](https://blog.cloudflare.com/meerkat-introduction/)
 * [2026-07-08, 16:57:26](https://lobste.rs/s/txmyod/announcing_typescript_7_0) - [Announcing TypeScript 7.0](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
 * [2026-07-08, 16:30:29](https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling) - [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend)
