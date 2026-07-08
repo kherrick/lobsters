@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 16:14:15](https://lobste.rs/s/qqojdp/abject_0_8_2_released) - [Abject 0.8.2 released](https://github.com/mempko/abject)
+* [2026-07-08, 15:47:51](https://lobste.rs/s/nritf1/eve_online_s_carbon_engine_is_now_open) - [Eve Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why)
 * [2026-07-08, 15:35:59](https://lobste.rs/s/tbs5t3/botkit_standalone_activitypub_bots) - [BotKit: Standalone ActivityPub bots in TypeScript](https://botkit.fedify.dev/)
 * [2026-07-08, 14:29:42](https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being) - [Obfuscated bash script by Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-08, 14:14:56](https://lobste.rs/s/aeo7cg/propagating_exceptions_from) - [Propagating exceptions from destructors with std::exception_ptr](https://www.sandordargo.com/blog/2026/07/08/exception_ptr)
 * [2026-07-08, 14:04:11](https://lobste.rs/s/rcg4bo/gitlost_how_we_tricked_github_s_ai_agent) - [GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 * [2026-07-08, 14:02:44](https://lobste.rs/s/qmzekw/funding_open_source_software_without) - [Funding open-source software without compromising it](https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/)
+* [2026-07-08, 13:59:35](https://lobste.rs/s/zcyy2u/zine_0_12_0) - [Zine 0.12.0](https://zine-ssg.io/log/?v0.12.0#v0.12.0)
 * [2026-07-08, 13:46:22](https://lobste.rs/s/zrvoqb/unicode_s_transliteration_rules_are) - [Unicode's Transliteration Rules Are Turing-Complete](https://seriot.ch/computation/uts35/)
 * [2026-07-08, 13:01:25](https://lobste.rs/s/oj9lal/bug_which_only_affected_left_handed_users) - [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
 * [2026-07-08, 12:29:10](https://lobste.rs/s/wkmhrv/democratizing_abandonware) - [Democratizing Abandonware](https://geopjr.dev/blog/democratizing-abandonware)
