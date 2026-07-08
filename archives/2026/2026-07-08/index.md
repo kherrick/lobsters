@@ -11,6 +11,7 @@
 * [2026-07-08, 15:54:22](https://lobste.rs/s/fvpk3i/almost_always_unsigned) - [Almost Always Unsigned](https://graphitemaster.github.io/aau/)
 * [2026-07-08, 15:47:51](https://lobste.rs/s/nritf1/eve_online_s_carbon_engine_is_now_open) - [Eve Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why)
 * [2026-07-08, 15:35:59](https://lobste.rs/s/tbs5t3/botkit_standalone_activitypub_bots) - [BotKit: Standalone ActivityPub bots in TypeScript](https://botkit.fedify.dev/)
+* [2026-07-08, 15:22:19](https://lobste.rs/s/kd2o1j/lisafpga_apple_lisa_computer) - [LisaFPGA: the Apple Lisa computer implemented inside an FPGA](https://github.com/alexthecat123/LisaFPGA)
 * [2026-07-08, 14:29:42](https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being) - [Obfuscated bash script by Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-08, 14:14:56](https://lobste.rs/s/aeo7cg/propagating_exceptions_from) - [Propagating exceptions from destructors with std::exception_ptr](https://www.sandordargo.com/blog/2026/07/08/exception_ptr)
 * [2026-07-08, 14:04:11](https://lobste.rs/s/rcg4bo/gitlost_how_we_tricked_github_s_ai_agent) - [GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
