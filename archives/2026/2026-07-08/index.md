@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 12:29:10](https://lobste.rs/s/wkmhrv/democratizing_abandonware) - [Democratizing Abandonware](https://geopjr.dev/blog/democratizing-abandonware)
 * [2026-07-08, 11:43:45](https://lobste.rs/s/tvvosc/noiselang_where_n_5_is_dirac_delta) - [NoiseLang: Where N = 5 is a Dirac delta](https://manualmeida.dev/articles/noiselang/)
 * [2026-07-08, 11:16:29](https://lobste.rs/s/dz5wld/monoid_composition_maximum_subarray_sum) - [Monoid Composition & Maximum Subarray Sum Problem](https://williamdue.github.io/blog/monoid-composition)
 * [2026-07-08, 08:58:35](https://lobste.rs/s/8dadel/accessibility_gnome) - [Accessibility in GNOME](https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/)

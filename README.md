@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-08, 12:29:10](https://lobste.rs/s/wkmhrv/democratizing_abandonware) - [Democratizing Abandonware](https://geopjr.dev/blog/democratizing-abandonware)
 * [2026-07-08, 11:43:45](https://lobste.rs/s/tvvosc/noiselang_where_n_5_is_dirac_delta) - [NoiseLang: Where N = 5 is a Dirac delta](https://manualmeida.dev/articles/noiselang/)
 * [2026-07-08, 08:58:35](https://lobste.rs/s/8dadel/accessibility_gnome) - [Accessibility in GNOME](https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/)
 * [2026-07-08, 08:57:45](https://lobste.rs/s/0byhfy/extreme_haskell_typed_expression_edsls) - [Extreme Haskell: Typed Expression EDSLs (Part 1)](https://blog.jle.im/entry/extreme-haskell-typed-expression-edsls-1.html)
-* [2026-07-08, 07:24:24](https://lobste.rs/s/qjjoza/building_clang_backend_porting_doom_my) - [Building a Clang Backend and Porting Doom to my Custom Bytecode VM](https://pointersgonewild.com/2026-07-07-building-a-clang-backend-and-porting-doom-to-my-custom-bytecode-vm/)
 * [2026-07-08, 06:10:00](https://lobste.rs/s/0lgkpq/fastswan_nvidia_connectx_7_by_numbers) - [fastSwan: Nvidia ConnectX-7 by numbers](https://www.fastswan.org/Nvidia-ConnectX-7-Benchmark/)
 * [2026-07-08, 04:30:17](https://lobste.rs/s/9czcrx/licensing_can_be_joyful_legally_dubious) - [Licensing can be joyful (and legally dubious) (2024)](https://ntietz.com/blog/licensing-joy-gal/)
 * [2026-07-08, 03:58:54](https://lobste.rs/s/y0tvll/jim_s_truetype_qr_code_font) - [Jim's TrueType QR Code Font](https://qr.jim.sh/)
