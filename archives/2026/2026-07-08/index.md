@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 15:35:59](https://lobste.rs/s/tbs5t3/botkit_standalone_activitypub_bots) - [BotKit: Standalone ActivityPub bots in TypeScript](https://botkit.fedify.dev/)
+* [2026-07-08, 14:29:42](https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being) - [Obfuscated bash script by Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+* [2026-07-08, 14:14:56](https://lobste.rs/s/aeo7cg/propagating_exceptions_from) - [Propagating exceptions from destructors with std::exception_ptr](https://www.sandordargo.com/blog/2026/07/08/exception_ptr)
 * [2026-07-08, 14:04:11](https://lobste.rs/s/rcg4bo/gitlost_how_we_tricked_github_s_ai_agent) - [GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 * [2026-07-08, 14:02:44](https://lobste.rs/s/qmzekw/funding_open_source_software_without) - [Funding open-source software without compromising it](https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/)
 * [2026-07-08, 13:46:22](https://lobste.rs/s/zrvoqb/unicode_s_transliteration_rules_are) - [Unicode's Transliteration Rules Are Turing-Complete](https://seriot.ch/computation/uts35/)
