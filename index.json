@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-08, 20:11:53",
+      "https://lobste.rs/s/rb3bii/how_multigres_supports_listen_notify"
+    ],
+    [
+      "How Multigres Supports LISTEN/NOTIFY Across Pooled Connections",
+      "https://multigres.com"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 19:21:18",
       "https://lobste.rs/s/ug9go4/introducing_meerkat_experiment_global"
     ],
@@ -187,16 +197,6 @@
     [
       "OpenBSD through 7.9 has a use-after-free allowing local privilege escalation to root (CVE-2026-57589)",
       "https://nvd.nist.gov/vuln/detail/cve-2026-57589"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 22:13:52",
-      "https://lobste.rs/s/xclcel/final_return_for_openbsd_anti_return"
-    ],
-    [
-      "A Final Return for OpenBSD Anti-Return-Oriented Programming Mitigations",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869668"
     ]
   ],
   [
