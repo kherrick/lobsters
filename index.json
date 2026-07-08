@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-07-08, 14:04:11",
-      "https://lobste.rs/s/rcg4bo/gitlost_how_we_tricked_github_s_ai_agent"
-    ],
-    [
-      "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-      "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 14:02:44",
       "https://lobste.rs/s/qmzekw/funding_open_source_software_without"
     ],
@@ -137,16 +127,6 @@
     [
       "A bug which only affected left-handed users",
       "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 12:29:10",
-      "https://lobste.rs/s/wkmhrv/democratizing_abandonware"
-    ],
-    [
-      "Democratizing Abandonware",
-      "https://geopjr.dev/blog/democratizing-abandonware"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2026-07-07, 22:13:52",
+      "https://lobste.rs/s/xclcel/final_return_for_openbsd_anti_return"
+    ],
+    [
+      "A Final Return for OpenBSD Anti-Return-Oriented Programming Mitigations",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869668"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 13:41:01",
       "https://lobste.rs/s/n3iqxi/i_was_wrong_about_game_development"
     ],
@@ -227,6 +217,16 @@
     [
       "Together for a healthier Clippy",
       "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 08:22:58",
+      "https://lobste.rs/s/no3kkj/why_false_sharing_alignment_should_be_128"
+    ],
+    [
+      "Why false sharing alignment should be 128 bytes on x64",
+      "https://monoid.github.io/posts/false-sharing-alignment/"
     ]
   ],
   [
