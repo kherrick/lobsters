@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-08, 07:58:42](https://lobste.rs/s/geibgn/announcing_save_ctfs_fund) - [Announcing the Save CTFs Fund](https://osec.io/blog/save-ctfs-fund/)
 * [2026-07-08, 07:24:24](https://lobste.rs/s/qjjoza/building_clang_backend_porting_doom_my) - [Building a Clang Backend and Porting Doom to my Custom Bytecode VM](https://pointersgonewild.com/2026-07-07-building-a-clang-backend-and-porting-doom-to-my-custom-bytecode-vm/)
 * [2026-07-08, 06:10:00](https://lobste.rs/s/0lgkpq/fastswan_nvidia_connectx_7_by_numbers) - [fastSwan: Nvidia ConnectX-7 by numbers](https://www.fastswan.org/Nvidia-ConnectX-7-Benchmark/)
 * [2026-07-08, 04:30:17](https://lobste.rs/s/9czcrx/licensing_can_be_joyful_legally_dubious) - [Licensing can be joyful (and legally dubious) (2024)](https://ntietz.com/blog/licensing-joy-gal/)
@@ -9,7 +10,6 @@
 * [2026-07-08, 00:42:40](https://lobste.rs/s/swqkt0/notes_on_software_quality) - [Notes on software quality](https://anthonyhobday.com/blog/20260410)
 * [2026-07-07, 22:13:52](https://lobste.rs/s/xclcel/final_return_for_openbsd_anti_return) - [A Final Return for OpenBSD Anti-Return-Oriented Programming Mitigations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869668)
 * [2026-07-07, 22:02:16](https://lobste.rs/s/sglhvg/measurement_study_on_adoption_pledges) - [A Measurement Study on the Adoption of Pledges and Unveils in the OpenBSD Operating System](https://arxiv.org/pdf/2607.03056)
-* [2026-07-07, 18:41:58](https://lobste.rs/s/qklyjk/why_we_built_yet_another_postgres) - [Why we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler)
 * [2026-07-07, 17:51:14](https://lobste.rs/s/srmkur/your_rust_service_isn_t_leaking_it_could_be) - [Your Rust Service Isn't Leaking — It Could Be the Allocator](https://pranitha.dev/posts/rust-and-memory-allocators/)
 * [2026-07-07, 16:03:16](https://lobste.rs/s/tk8spu/friction_is_feature) - [Friction is a Feature](https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html)
 * [2026-07-07, 13:41:01](https://lobste.rs/s/n3iqxi/i_was_wrong_about_game_development) - [I was wrong about game development](https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/)
