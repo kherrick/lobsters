@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-07-08, 15:22:19",
+      "https://lobste.rs/s/kd2o1j/lisafpga_apple_lisa_computer"
+    ],
+    [
+      "LisaFPGA: the Apple Lisa computer implemented inside an FPGA",
+      "https://github.com/alexthecat123/LisaFPGA"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 14:29:42",
       "https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being"
     ],
@@ -177,16 +187,6 @@
     [
       "A Final Return for OpenBSD Anti-Return-Oriented Programming Mitigations",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869668"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 17:51:14",
-      "https://lobste.rs/s/srmkur/your_rust_service_isn_t_leaking_it_could_be"
-    ],
-    [
-      "Your Rust Service Isn't Leaking — It Could Be the Allocator",
-      "https://pranitha.dev/posts/rust-and-memory-allocators/"
     ]
   ],
   [
