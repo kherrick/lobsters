@@ -22,11 +22,11 @@
   [
     [
       "2026-07-07, 21:14:16",
-      "https://lobste.rs/s/qlw9wg/new_research_verified_github_commit_is"
+      "https://lobste.rs/s/qlw9wg/git_hash_chain_malleability"
     ],
     [
-      "New Research: A \"Verified\" GitHub Commit Is NOT Unique",
-      "https://www.internationalcyberdigest.com/new-research-a-verified-github-commit-is-not-unique/"
+      "Git Hash Chain Malleability",
+      "https://arxiv.org/abs/2607.02820"
     ]
   ],
   [
