@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 07:24:24](https://lobste.rs/s/qjjoza/building_clang_backend_porting_doom_my) - [Building a Clang Backend and Porting Doom to my Custom Bytecode VM](https://pointersgonewild.com/2026-07-07-building-a-clang-backend-and-porting-doom-to-my-custom-bytecode-vm/)
 * [2026-07-08, 06:10:00](https://lobste.rs/s/0lgkpq/fastswan_nvidia_connectx_7_by_numbers) - [fastSwan: Nvidia ConnectX-7 by numbers](https://www.fastswan.org/Nvidia-ConnectX-7-Benchmark/)
 * [2026-07-08, 04:30:17](https://lobste.rs/s/9czcrx/licensing_can_be_joyful_legally_dubious) - [Licensing can be joyful (and legally dubious) (2024)](https://ntietz.com/blog/licensing-joy-gal/)
 * [2026-07-08, 03:58:54](https://lobste.rs/s/y0tvll/jim_s_truetype_qr_code_font) - [Jim's TrueType QR Code Font](https://qr.jim.sh/)
