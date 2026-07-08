@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 22:23:24](https://lobste.rs/s/q5vga3/openmandriva_says_former_contributor) - [OpenMandriva Says Former Contributor Sabotaged Its Repositories](https://linuxiac.com/openmandriva-says-former-contributor-sabotaged-its-repositories/)
 * [2026-07-08, 21:50:54](https://lobste.rs/s/6rkdik/rewriting_bun_rust) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 21:50:46](https://lobste.rs/s/bbhgr9/spacewasm_nasa_jpl_s_wasm_interpreter_for) - [SpaceWASM: NASA/JPL's Wasm interpreter for spacecraft sequencing](https://github.com/nasa/spacewasm)
 * [2026-07-08, 21:28:16](https://lobste.rs/s/27vr6v/dirtyslide_root_on_macos_from_one_missing) - [DirtySlide - root on macOS from one missing bounds check](https://gracecondition.github.io/posts/dirtyslide/)

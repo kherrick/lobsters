@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-08, 22:23:24](https://lobste.rs/s/q5vga3/openmandriva_says_former_contributor) - [OpenMandriva Says Former Contributor Sabotaged Its Repositories](https://linuxiac.com/openmandriva-says-former-contributor-sabotaged-its-repositories/)
 * [2026-07-08, 21:50:54](https://lobste.rs/s/6rkdik/rewriting_bun_rust) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 21:50:46](https://lobste.rs/s/bbhgr9/spacewasm_nasa_jpl_s_wasm_interpreter_for) - [SpaceWASM: NASA/JPL's Wasm interpreter for spacecraft sequencing](https://github.com/nasa/spacewasm)
-* [2026-07-08, 21:28:16](https://lobste.rs/s/27vr6v/dirtyslide_root_on_macos_from_one_missing) - [DirtySlide - root on macOS from one missing bounds check](https://gracecondition.github.io/posts/dirtyslide/)
 * [2026-07-08, 16:57:26](https://lobste.rs/s/txmyod/announcing_typescript_7_0) - [Announcing TypeScript 7.0](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
 * [2026-07-08, 16:23:12](https://lobste.rs/s/jfyhu4/best_webassembly_runtime_may_still_be_no) - [The best WebAssembly runtime may still be no runtime at all](https://00f.net/2026/07/08/webassembly-compilation-to-c-2026/)
 * [2026-07-08, 15:54:22](https://lobste.rs/s/fvpk3i/almost_always_unsigned) - [Almost Always Unsigned](https://graphitemaster.github.io/aau/)
