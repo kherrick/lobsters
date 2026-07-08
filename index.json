@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-08, 19:21:18",
+      "https://lobste.rs/s/ug9go4/introducing_meerkat_experiment_global"
+    ],
+    [
+      "Introducing Meerkat: an experiment in global consensus",
+      "https://blog.cloudflare.com/meerkat-introduction/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 16:57:26",
       "https://lobste.rs/s/txmyod/announcing_typescript_7_0"
     ],
@@ -217,16 +227,6 @@
     [
       "Together for a healthier Clippy",
       "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 08:22:58",
-      "https://lobste.rs/s/no3kkj/why_false_sharing_alignment_should_be_128"
-    ],
-    [
-      "Why false sharing alignment should be 128 bytes on x64",
-      "https://monoid.github.io/posts/false-sharing-alignment/"
     ]
   ],
   [
