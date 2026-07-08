@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-08, 13:01:25",
+      "https://lobste.rs/s/oj9lal/bug_which_only_affected_left_handed_users"
+    ],
+    [
+      "A bug which only affected left-handed users",
+      "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 12:29:10",
       "https://lobste.rs/s/wkmhrv/democratizing_abandonware"
     ],
@@ -237,16 +247,6 @@
     [
       "Odin 1.0 Announcement",
       "https://www.youtube.com/watch?v=dLPAqXi9In0"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 19:47:11",
-      "https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now"
-    ],
-    [
-      "ReactOS \"Open-Source Windows\" Project Now Capable Of Running Half-Life 2",
-      "https://www.phoronix.com/news/Half-Life-2-ReactOS"
     ]
   ]
 ]
