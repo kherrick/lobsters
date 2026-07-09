@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-09, 10:43:36",
+      "https://lobste.rs/s/1wd2lx/how_achieve_pruning_when_querying_by_non"
+    ],
+    [
+      "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
+      "https://hakibenita.com/postgresql-partition-pruning"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 10:16:16",
+      "https://lobste.rs/s/wbxhhq/why_developers_are_ditching_github_for"
+    ],
+    [
+      "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 09:46:44",
       "https://lobste.rs/s/srr28p/my_thoughts_on_bun_rust_rewrite"
     ],
@@ -57,16 +77,6 @@
     [
       "Patching MechCommander’s “left arm bug” for fun and profit",
       "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 02:59:03",
-      "https://lobste.rs/s/0d1vu1/kparser_small_readable_parser_for_k"
-    ],
-    [
-      "kparser - small, readable parser for K",
-      "https://github.com/ardentsia-cgs/kparser"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "NoiseLang: Where N = 5 is a Dirac delta",
       "https://manualmeida.dev/articles/noiselang/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 08:58:35",
-      "https://lobste.rs/s/8dadel/accessibility_gnome"
-    ],
-    [
-      "Accessibility in GNOME",
-      "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/"
     ]
   ],
   [
