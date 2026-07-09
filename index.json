@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-09, 03:51:49",
+      "https://lobste.rs/s/l0dyen/patching_mechcommander_s_left_arm_bug_for"
+    ],
+    [
+      "Patching MechCommander’s “left arm bug” for fun and profit",
+      "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 02:59:03",
+      "https://lobste.rs/s/0d1vu1/kparser_small_readable_parser_for_k"
+    ],
+    [
+      "kparser - small, readable parser for K",
+      "https://github.com/ardentsia-cgs/kparser"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 00:43:32",
       "https://lobste.rs/s/dbakbg/interview_drew_devault_on_ai_free_version"
     ],
@@ -62,10 +82,10 @@
   [
     [
       "2026-07-08, 15:54:22",
-      "https://lobste.rs/s/fvpk3i/almost_always_unsigned"
+      "https://lobste.rs/s/fvpk3i/almost_always_unsigned_2022"
     ],
     [
-      "Almost Always Unsigned",
+      "Almost Always Unsigned (2022)",
       "https://graphitemaster.github.io/aau/"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "Eve Online's Carbon engine is now open source: Fenris Creations explains why",
       "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 15:35:59",
-      "https://lobste.rs/s/tbs5t3/botkit_standalone_activitypub_bots"
-    ],
-    [
-      "BotKit: Standalone ActivityPub bots in TypeScript",
-      "https://botkit.fedify.dev/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "a software engineering interview question I like: computing the median",
       "https://krisshamloo.com/blog/007"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 01:02:05",
-      "https://lobste.rs/s/7hmu0w/openbsd_through_7_9_has_use_after_free"
-    ],
-    [
-      "OpenBSD through 7.9 has a use-after-free allowing local privilege escalation to root (CVE-2026-57589)",
-      "https://nvd.nist.gov/vuln/detail/cve-2026-57589"
     ]
   ],
   [
