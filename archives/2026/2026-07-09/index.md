@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 10:43:36](https://lobste.rs/s/1wd2lx/how_achieve_pruning_when_querying_by_non) - [How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL](https://hakibenita.com/postgresql-partition-pruning)
+* [2026-07-09, 10:16:16](https://lobste.rs/s/wbxhhq/why_developers_are_ditching_github_for) - [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 * [2026-07-09, 09:46:44](https://lobste.rs/s/srr28p/my_thoughts_on_bun_rust_rewrite) - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
 * [2026-07-09, 08:23:07](https://lobste.rs/s/v5hkjy/two_case_studies_nan) - [two case studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-09, 07:45:31](https://lobste.rs/s/sy980q/peace_for_all_re_factor) - [Peace For All – Re: Factor](https://re.factorcode.org/2026/07/peace-for-all.html)
