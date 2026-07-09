@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-09, 21:53:03](https://lobste.rs/s/glngfn/tau_educational_coding_agent) - [Tau: An Educational Coding Agent](https://twotimespi.dev/)
 * [2026-07-09, 20:36:43](https://lobste.rs/s/lep7wh/how_build_circular_lcd_clock) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
 * [2026-07-09, 20:06:04](https://lobste.rs/s/eehcpl/page_weight_matters) - [Page weight matters](https://nh3.dev/blog/05-bloat)
 * [2026-07-09, 18:31:39](https://lobste.rs/s/ykabry/batch_job_elm_architecture) - [A batch job, in The Elm Architecture](https://cekrem.github.io/posts/elm-run-batch-job/)
@@ -16,7 +17,6 @@
 * [2026-07-09, 07:45:31](https://lobste.rs/s/sy980q/peace_for_all_re_factor) - [Peace For All – Re: Factor](https://re.factorcode.org/2026/07/peace-for-all.html)
 * [2026-07-09, 06:31:50](https://lobste.rs/s/sdweip/experimenting_with_random_css) - [Experimenting with random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
 * [2026-07-09, 04:49:40](https://lobste.rs/s/hufoqf/chatto_is_now_open_source) - [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
-* [2026-07-09, 03:51:49](https://lobste.rs/s/l0dyen/patching_mechcommander_s_left_arm_bug_for) - [Patching MechCommander’s “left arm bug” for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
 * [2026-07-09, 00:43:32](https://lobste.rs/s/dbakbg/interview_drew_devault_on_ai_free_version) - [Interview: Drew DeVault on an AI-free version of Vim](https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free)
 * [2026-07-08, 22:23:24](https://lobste.rs/s/q5vga3/openmandriva_says_former_contributor) - [OpenMandriva Says Former Contributor Sabotaged Its Repositories](https://linuxiac.com/openmandriva-says-former-contributor-sabotaged-its-repositories/)
 * [2026-07-08, 21:50:54](https://lobste.rs/s/6rkdik/rewriting_bun_rust) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
