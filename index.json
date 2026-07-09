@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-07-09, 17:59:53",
-      "https://lobste.rs/s/bk5sf9/statement_regarding_attempted"
-    ],
-    [
-      "Statement regarding attempted distribution sabotage",
-      "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 16:26:15",
       "https://lobste.rs/s/pg7hce/conviviality_computational_science"
     ],
@@ -97,16 +87,6 @@
     [
       "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
       "https://hakibenita.com/postgresql-partition-pruning"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 10:16:16",
-      "https://lobste.rs/s/wbxhhq/why_developers_are_ditching_github_for"
-    ],
-    [
-      "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2026-07-08, 15:54:22",
+      "https://lobste.rs/s/fvpk3i/almost_always_unsigned_2022"
+    ],
+    [
+      "Almost Always Unsigned (2022)",
+      "https://graphitemaster.github.io/aau/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 14:29:42",
       "https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being"
     ],
@@ -227,6 +217,16 @@
     [
       "Funding open-source software without compromising it",
       "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 13:46:22",
+      "https://lobste.rs/s/zrvoqb/unicode_s_transliteration_rules_are"
+    ],
+    [
+      "Unicode's Transliteration Rules Are Turing-Complete",
+      "https://seriot.ch/computation/uts35/"
     ]
   ],
   [
