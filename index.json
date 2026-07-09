@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-09, 13:52:12",
+      "https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms"
+    ],
+    [
+      "A Prolog library for interfacing with LLMs",
+      "https://github.com/vagos/llmpl"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 12:53:46",
       "https://lobste.rs/s/3eo2nv/i_did_not_kill_stanley_lieber_how_draw_with"
     ],
@@ -217,16 +227,6 @@
     [
       "A bug which only affected left-handed users",
       "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 11:43:45",
-      "https://lobste.rs/s/tvvosc/noiselang_where_n_5_is_dirac_delta"
-    ],
-    [
-      "NoiseLang: Where N = 5 is a Dirac delta",
-      "https://manualmeida.dev/articles/noiselang/"
     ]
   ],
   [
