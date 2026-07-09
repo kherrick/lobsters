@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-09, 15:41:15",
+      "https://lobste.rs/s/0mam5k/lobsters_interview_with_mitchellh"
+    ],
+    [
+      "Lobsters Interview with mitchellh",
+      "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 15:21:30",
       "https://lobste.rs/s/tedi5h/you_paid_me_long_time_linux_user_use"
     ],
@@ -17,6 +27,16 @@
     [
       "Announcing Rust 1.97.0",
       "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:48:28",
+      "https://lobste.rs/s/qnipw7/physically_based_pbr_values_database"
+    ],
+    [
+      "Physically Based - The PBR values database",
+      "https://physicallybased.info"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-07-08, 15:47:51",
-      "https://lobste.rs/s/nritf1/eve_online_s_carbon_engine_is_now_open"
-    ],
-    [
-      "Eve Online's Carbon engine is now open source: Fenris Creations explains why",
-      "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 14:29:42",
       "https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being"
     ],
@@ -237,16 +247,6 @@
     [
       "Jim's TrueType QR Code Font",
       "https://qr.jim.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 01:49:39",
-      "https://lobste.rs/s/8kxouk/software_engineering_interview"
-    ],
-    [
-      "a software engineering interview question I like: computing the median",
-      "https://krisshamloo.com/blog/007"
     ]
   ]
 ]
