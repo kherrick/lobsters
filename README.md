@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-09, 06:31:50](https://lobste.rs/s/sdweip/experimenting_with_random_css) - [Experimenting with random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
 * [2026-07-09, 05:50:10](https://lobste.rs/s/wqqmxc/keygen_church_oscuro_domine) - [Keygen Church - Oscuro Domine](https://www.keygenchurch.com)
 * [2026-07-09, 03:51:49](https://lobste.rs/s/l0dyen/patching_mechcommander_s_left_arm_bug_for) - [Patching MechCommander’s “left arm bug” for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
 * [2026-07-09, 02:59:03](https://lobste.rs/s/0d1vu1/kparser_small_readable_parser_for_k) - [kparser - small, readable parser for K](https://github.com/ardentsia-cgs/kparser)
@@ -23,7 +24,6 @@
 * [2026-07-08, 08:58:35](https://lobste.rs/s/8dadel/accessibility_gnome) - [Accessibility in GNOME](https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/)
 * [2026-07-08, 03:58:54](https://lobste.rs/s/y0tvll/jim_s_truetype_qr_code_font) - [Jim's TrueType QR Code Font](https://qr.jim.sh/)
 * [2026-07-08, 01:49:39](https://lobste.rs/s/8kxouk/software_engineering_interview) - [a software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007)
-* [2026-07-07, 09:35:02](https://lobste.rs/s/709awc/together_for_healthier_clippy) - [Together for a healthier Clippy](https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/)
 * [2026-07-07, 06:20:55](https://lobste.rs/s/5rvgim/odin_1_0_announcement) - [Odin 1.0 Announcement](https://www.youtube.com/watch?v=dLPAqXi9In0)
 
 ## [Archives](archives/index.md)

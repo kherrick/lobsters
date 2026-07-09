@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 06:31:50](https://lobste.rs/s/sdweip/experimenting_with_random_css) - [Experimenting with random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
 * [2026-07-09, 05:50:10](https://lobste.rs/s/wqqmxc/keygen_church_oscuro_domine) - [Keygen Church - Oscuro Domine](https://www.keygenchurch.com)
 * [2026-07-09, 03:51:49](https://lobste.rs/s/l0dyen/patching_mechcommander_s_left_arm_bug_for) - [Patching MechCommander’s “left arm bug” for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
 * [2026-07-09, 02:59:03](https://lobste.rs/s/0d1vu1/kparser_small_readable_parser_for_k) - [kparser - small, readable parser for K](https://github.com/ardentsia-cgs/kparser)
