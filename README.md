@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-09, 09:46:44](https://lobste.rs/s/srr28p/my_thoughts_on_bun_rust_rewrite) - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
 * [2026-07-09, 08:23:07](https://lobste.rs/s/v5hkjy/two_case_studies_nan) - [two case studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-09, 07:45:31](https://lobste.rs/s/sy980q/peace_for_all_re_factor) - [Peace For All – Re: Factor](https://re.factorcode.org/2026/07/peace-for-all.html)
 * [2026-07-09, 06:31:50](https://lobste.rs/s/sdweip/experimenting_with_random_css) - [Experimenting with random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
@@ -14,7 +15,6 @@
 * [2026-07-08, 16:23:12](https://lobste.rs/s/jfyhu4/best_webassembly_runtime_may_still_be_no) - [The best WebAssembly runtime may still be no runtime at all](https://00f.net/2026/07/08/webassembly-compilation-to-c-2026/)
 * [2026-07-08, 15:54:22](https://lobste.rs/s/fvpk3i/almost_always_unsigned_2022) - [Almost Always Unsigned (2022)](https://graphitemaster.github.io/aau/)
 * [2026-07-08, 15:47:51](https://lobste.rs/s/nritf1/eve_online_s_carbon_engine_is_now_open) - [Eve Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why)
-* [2026-07-08, 15:22:19](https://lobste.rs/s/kd2o1j/lisafpga_apple_lisa_computer) - [LisaFPGA: the Apple Lisa computer implemented inside an FPGA](https://github.com/alexthecat123/LisaFPGA)
 * [2026-07-08, 14:29:42](https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being) - [Obfuscated bash script by Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-08, 14:02:44](https://lobste.rs/s/qmzekw/funding_open_source_software_without) - [Funding open-source software without compromising it](https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/)
 * [2026-07-08, 13:59:35](https://lobste.rs/s/zcyy2u/zine_0_12_0) - [Zine 0.12.0](https://zine-ssg.io/log/?v0.12.0#v0.12.0)
