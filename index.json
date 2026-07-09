@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-09, 20:19:25",
+      "https://lobste.rs/s/gavvqf/backstory_jiki"
+    ],
+    [
+      "The Backstory of Jiki",
+      "https://jiki.io/blog/the-backstory-of-jiki"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 20:06:04",
+      "https://lobste.rs/s/eehcpl/page_weight_matters"
+    ],
+    [
+      "Page weight matters",
+      "https://nh3.dev/blog/05-bloat"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 18:31:39",
       "https://lobste.rs/s/ykabry/batch_job_elm_architecture"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-08, 15:54:22",
-      "https://lobste.rs/s/fvpk3i/almost_always_unsigned_2022"
-    ],
-    [
-      "Almost Always Unsigned (2022)",
-      "https://graphitemaster.github.io/aau/"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 14:29:42",
       "https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being"
     ],
@@ -217,16 +227,6 @@
     [
       "Funding open-source software without compromising it",
       "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 13:46:22",
-      "https://lobste.rs/s/zrvoqb/unicode_s_transliteration_rules_are"
-    ],
-    [
-      "Unicode's Transliteration Rules Are Turing-Complete",
-      "https://seriot.ch/computation/uts35/"
     ]
   ],
   [
