@@ -5,6 +5,7 @@
 * [2026-07-09, 18:31:39](https://lobste.rs/s/ykabry/batch_job_elm_architecture) - [A batch job, in The Elm Architecture](https://cekrem.github.io/posts/elm-run-batch-job/)
 * [2026-07-09, 16:26:15](https://lobste.rs/s/pg7hce/conviviality_computational_science) - [Conviviality in computational science](https://blog.khinsen.net/posts/2026/07/06/conviviality.html)
 * [2026-07-09, 15:41:15](https://lobste.rs/s/0mam5k/lobsters_interview_with_mitchellh) - [Lobsters Interview with mitchellh](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+* [2026-07-09, 15:31:14](https://lobste.rs/s/bt5rhz/review_iodeos_offers_frictionless_de) - [Review: iodéOS offers a frictionless de-Googled Android experience](https://www.osnews.com/story/145312/review-iodeos-offers-a-frictionless-de-googled-android-experience/)
 * [2026-07-09, 15:21:30](https://lobste.rs/s/tedi5h/you_paid_me_long_time_linux_user_use) - [You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went](https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/)
 * [2026-07-09, 14:56:32](https://lobste.rs/s/o9edbl/announcing_rust_1_97_0) - [Announcing Rust 1.97.0](https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/)
 * [2026-07-09, 14:48:28](https://lobste.rs/s/qnipw7/physically_based_pbr_values_database) - [Physically Based - The PBR values database](https://physicallybased.info)
@@ -24,7 +25,6 @@
 * [2026-07-08, 14:29:42](https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being) - [Obfuscated bash script by Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-08, 14:02:44](https://lobste.rs/s/qmzekw/funding_open_source_software_without) - [Funding open-source software without compromising it](https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/)
 * [2026-07-08, 13:01:25](https://lobste.rs/s/oj9lal/bug_which_only_affected_left_handed_users) - [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
-* [2026-07-08, 03:58:54](https://lobste.rs/s/y0tvll/jim_s_truetype_qr_code_font) - [Jim's TrueType QR Code Font](https://qr.jim.sh/)
 
 ## [Archives](archives/index.md)
 
