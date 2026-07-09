@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 20:19:25](https://lobste.rs/s/gavvqf/backstory_jiki) - [The Backstory of Jiki](https://jiki.io/blog/the-backstory-of-jiki)
+* [2026-07-09, 20:06:04](https://lobste.rs/s/eehcpl/page_weight_matters) - [Page weight matters](https://nh3.dev/blog/05-bloat)
 * [2026-07-09, 18:31:39](https://lobste.rs/s/ykabry/batch_job_elm_architecture) - [A batch job, in The Elm Architecture](https://cekrem.github.io/posts/elm-run-batch-job/)
 * [2026-07-09, 17:59:53](https://lobste.rs/s/bk5sf9/statement_regarding_attempted) - [Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
 * [2026-07-09, 16:26:15](https://lobste.rs/s/pg7hce/conviviality_computational_science) - [Conviviality in computational science](https://blog.khinsen.net/posts/2026/07/06/conviviality.html)
