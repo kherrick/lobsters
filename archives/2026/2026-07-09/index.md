@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 23:49:39](https://lobste.rs/s/bcf7pk/repo_local_documentation_system_for) - [Repo-Local Documentation System for Humans & Agents](https://gist.github.com/lukewilson2002/cb48062397d8b51954034d94b8c19d6d)
 * [2026-07-09, 21:53:03](https://lobste.rs/s/glngfn/tau_educational_coding_agent) - [Tau: An Educational Coding Agent](https://twotimespi.dev/)
 * [2026-07-09, 20:36:43](https://lobste.rs/s/lep7wh/how_build_circular_lcd_clock) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
 * [2026-07-09, 20:19:25](https://lobste.rs/s/gavvqf/backstory_jiki) - [The Backstory of Jiki](https://jiki.io/blog/the-backstory-of-jiki)
