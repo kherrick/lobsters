@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-10, 00:46:25](https://lobste.rs/s/e85zgh/road_lisp_why_lisp) - [A road to Lisp: Why Lisp](https://scotto.me/blog/2026-07-09-why-lisp/)
 * [2026-07-09, 23:49:39](https://lobste.rs/s/bcf7pk/repo_local_documentation_system_for) - [Repo-Local Documentation System for Humans & Agents](https://gist.github.com/lukewilson2002/cb48062397d8b51954034d94b8c19d6d)
 * [2026-07-09, 20:36:43](https://lobste.rs/s/lep7wh/how_build_circular_lcd_clock) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
 * [2026-07-09, 20:19:25](https://lobste.rs/s/gavvqf/backstory_jiki) - [The Backstory of Jiki](https://jiki.io/blog/the-backstory-of-jiki)
@@ -13,7 +14,6 @@
 * [2026-07-09, 14:48:28](https://lobste.rs/s/qnipw7/physically_based_pbr_values_database) - [Physically Based - The PBR values database](https://physicallybased.info)
 * [2026-07-09, 13:52:12](https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms) - [A Prolog library for interfacing with LLMs](https://github.com/vagos/llmpl)
 * [2026-07-09, 12:53:46](https://lobste.rs/s/3eo2nv/i_did_not_kill_stanley_lieber_how_draw_with) - [I Did Not Kill Stanley Lieber: How to draw (with 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber)
-* [2026-07-09, 10:43:36](https://lobste.rs/s/1wd2lx/how_achieve_pruning_when_querying_by_non) - [How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL](https://hakibenita.com/postgresql-partition-pruning)
 * [2026-07-09, 08:23:07](https://lobste.rs/s/v5hkjy/two_case_studies_nan) - [two case studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-09, 07:45:31](https://lobste.rs/s/sy980q/peace_for_all_re_factor) - [Peace For All – Re: Factor](https://re.factorcode.org/2026/07/peace-for-all.html)
 * [2026-07-09, 04:49:40](https://lobste.rs/s/hufoqf/chatto_is_now_open_source) - [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
