@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-10, 23:02:53",
+      "https://lobste.rs/s/kpaxih/update_on_scraper_situation"
+    ],
+    [
+      "An update on the scraper situation",
+      "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 20:52:39",
       "https://lobste.rs/s/qtui32/adding_go_browser_code_runner"
     ],
@@ -147,16 +157,6 @@
     [
       "A road to Lisp: Why Lisp",
       "https://scotto.me/blog/2026-07-09-why-lisp/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 23:49:39",
-      "https://lobste.rs/s/bcf7pk/repo_local_documentation_system_for"
-    ],
-    [
-      "Repo-Local Documentation System for Humans & Agents",
-      "https://gist.github.com/lukewilson2002/cb48062397d8b51954034d94b8c19d6d"
     ]
   ],
   [
