@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-10, 00:46:25",
+      "https://lobste.rs/s/e85zgh/road_lisp_why_lisp"
+    ],
+    [
+      "A road to Lisp: Why Lisp",
+      "https://scotto.me/blog/2026-07-09-why-lisp/"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 23:49:39",
       "https://lobste.rs/s/bcf7pk/repo_local_documentation_system_for"
     ],
@@ -127,16 +137,6 @@
     [
       "I Did Not Kill Stanley Lieber: How to draw (with 9front)",
       "https://triapul.cz/automa/i_did_not_kill_stanley_lieber"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 10:43:36",
-      "https://lobste.rs/s/1wd2lx/how_achieve_pruning_when_querying_by_non"
-    ],
-    [
-      "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
-      "https://hakibenita.com/postgresql-partition-pruning"
     ]
   ],
   [
