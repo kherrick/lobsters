@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-09, 23:49:39",
+      "https://lobste.rs/s/bcf7pk/repo_local_documentation_system_for"
+    ],
+    [
+      "Repo-Local Documentation System for Humans & Agents",
+      "https://gist.github.com/lukewilson2002/cb48062397d8b51954034d94b8c19d6d"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 20:36:43",
       "https://lobste.rs/s/lep7wh/how_build_circular_lcd_clock"
     ],
     [
       "How to build a circular LCD clock",
       "https://blinry.org/lcd-clock/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 20:19:25",
+      "https://lobste.rs/s/gavvqf/backstory_jiki"
+    ],
+    [
+      "The Backstory of Jiki",
+      "https://jiki.io/blog/the-backstory-of-jiki"
     ]
   ],
   [
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2026-07-09, 06:31:50",
-      "https://lobste.rs/s/sdweip/experimenting_with_random_css"
-    ],
-    [
-      "Experimenting with random() in CSS",
-      "https://polypane.app/blog/experimenting-with-random-in-css/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 04:49:40",
       "https://lobste.rs/s/hufoqf/chatto_is_now_open_source"
     ],
     [
       "Chatto is now Open Source",
       "https://www.hmans.dev/blog/chatto-is-open-source"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 03:51:49",
-      "https://lobste.rs/s/l0dyen/patching_mechcommander_s_left_arm_bug_for"
-    ],
-    [
-      "Patching MechCommander’s “left arm bug” for fun and profit",
-      "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/"
     ]
   ],
   [
