@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-10, 15:42:38",
+      "https://lobste.rs/s/cq3mft/practical_algorithms_for_incremental"
+    ],
+    [
+      "Practical Algorithms for Incremental Software Development Environments",
+      "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 12:01:41",
       "https://lobste.rs/s/ey7far/two_ways_design"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing TypeScript 7.0",
       "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 14:29:42",
-      "https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being"
-    ],
-    [
-      "Obfuscated bash script by Akamai being supplied to consumers via retail stores",
-      "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/"
     ]
   ]
 ]
