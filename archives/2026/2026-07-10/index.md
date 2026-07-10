@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 23:02:53](https://lobste.rs/s/kpaxih/update_on_scraper_situation) - [An update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 * [2026-07-10, 20:52:39](https://lobste.rs/s/qtui32/adding_go_browser_code_runner) - [Adding Go to a browser code runner](https://blog.lvmbdv.dev/posts/adding-go-to-a-browser-code-runner/)
 * [2026-07-10, 19:12:27](https://lobste.rs/s/6fmohi/package_management_as_org_chart) - [Package Management as Org Chart](https://nesbitt.io/2026/07/10/package-management-as-org-chart.html)
 * [2026-07-10, 19:05:12](https://lobste.rs/s/le3iri/postgres_rewritten_rust_now_passing_100) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
