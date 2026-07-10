@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-10, 10:44:48](https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend)
 * [2026-07-10, 05:28:45](https://lobste.rs/s/skiumt/let_s_build_simple_interpreter_for_apl) - [Let's build a simple interpreter for APL](https://mathspp.com/blog/lsbasi-apl-part1)
 * [2026-07-10, 03:24:53](https://lobste.rs/s/xyotoa/cpp2rust_automatic_translation_c_safe) - [Cpp2Rust: Automatic Translation of C++ to Safe Rust](https://github.com/Cpp2Rust/cpp2rust)
 * [2026-07-10, 02:14:15](https://lobste.rs/s/gd15cf/fast_image_video_fidelity_metrics_c_zig) - [Fast Image & Video Fidelity Metrics in C, Zig](https://github.com/halidecx/fmetrics)
@@ -23,7 +24,6 @@
 * [2026-07-08, 21:50:54](https://lobste.rs/s/6rkdik/rewriting_bun_rust) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 16:57:26](https://lobste.rs/s/txmyod/announcing_typescript_7_0) - [Announcing TypeScript 7.0](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
 * [2026-07-08, 14:29:42](https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being) - [Obfuscated bash script by Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
-* [2026-07-08, 14:02:44](https://lobste.rs/s/qmzekw/funding_open_source_software_without) - [Funding open-source software without compromising it](https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/)
 * [2026-07-08, 13:01:25](https://lobste.rs/s/oj9lal/bug_which_only_affected_left_handed_users) - [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
 
 ## [Archives](archives/index.md)
