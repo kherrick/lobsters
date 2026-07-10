@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 18:03:05](https://lobste.rs/s/ifefxo/debugging_performance_regressions) - [Debugging performance regressions](https://hpc.guix.info/blog/2026/07/debugging-performance-regressions/)
+* [2026-07-10, 18:00:58](https://lobste.rs/s/mcrqed/running_1000_tests_1s_2022) - [Running 1000 tests in 1s (2022)](https://marvinh.dev/blog/running-1000-test-in-1s/)
 * [2026-07-10, 17:17:58](https://lobste.rs/s/fxuz6h/what_every_python_developer_should_know) - [What Every Python Developer Should Know About the CPython ABI](https://labs.quansight.org/blog/python-abi-abi3t)
 * [2026-07-10, 16:48:37](https://lobste.rs/s/t4f6jt/after_7_years_production_scarf_has) - [After 7 years in production, Scarf has reluctantly moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
 * [2026-07-10, 16:28:11](https://lobste.rs/s/w8svjr/hannah_montana_linux_v26_0) - [Hannah Montana Linux v26.0](https://gitlab.com/DecaCagle/hannahmontanalinux26)
