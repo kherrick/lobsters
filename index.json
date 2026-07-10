@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-10, 16:48:37",
+      "https://lobste.rs/s/t4f6jt/after_7_years_production_scarf_has"
+    ],
+    [
+      "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 16:28:11",
       "https://lobste.rs/s/w8svjr/hannah_montana_linux_v26_0"
     ],
@@ -177,16 +187,6 @@
     [
       "Physically Based - The PBR values database",
       "https://physicallybased.info"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 13:52:12",
-      "https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms"
-    ],
-    [
-      "A Prolog library for interfacing with LLMs",
-      "https://github.com/vagos/llmpl"
     ]
   ],
   [
