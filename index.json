@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-10, 18:03:05",
+      "https://lobste.rs/s/ifefxo/debugging_performance_regressions"
+    ],
+    [
+      "Debugging performance regressions",
+      "https://hpc.guix.info/blog/2026/07/debugging-performance-regressions/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 18:00:58",
+      "https://lobste.rs/s/mcrqed/running_1000_tests_1s_2022"
+    ],
+    [
+      "Running 1000 tests in 1s (2022)",
+      "https://marvinh.dev/blog/running-1000-test-in-1s/"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 17:17:58",
       "https://lobste.rs/s/fxuz6h/what_every_python_developer_should_know"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-09, 18:31:39",
-      "https://lobste.rs/s/ykabry/batch_job_elm_architecture"
-    ],
-    [
-      "A batch job, in The Elm Architecture",
-      "https://cekrem.github.io/posts/elm-run-batch-job/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 16:26:15",
       "https://lobste.rs/s/pg7hce/conviviality_computational_science"
     ],
@@ -187,16 +197,6 @@
     [
       "Announcing Rust 1.97.0",
       "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 14:48:28",
-      "https://lobste.rs/s/qnipw7/physically_based_pbr_values_database"
-    ],
-    [
-      "Physically Based - The PBR values database",
-      "https://physicallybased.info"
     ]
   ],
   [
