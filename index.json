@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-11, 18:02:54",
+      "https://lobste.rs/s/ydjxee/good_tools_are_invisible"
+    ],
+    [
+      "Good Tools Are Invisible",
+      "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 12:24:51",
       "https://lobste.rs/s/wjr8hw/madame_semver_will_see_you_now"
     ],
@@ -97,16 +107,6 @@
     [
       "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
       "https://github.com/malisper/pgrust"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 18:03:05",
-      "https://lobste.rs/s/ifefxo/debugging_performance_regressions"
-    ],
-    [
-      "Debugging performance regressions",
-      "https://hpc.guix.info/blog/2026/07/debugging-performance-regressions/"
     ]
   ],
   [
