@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-11, 12:24:51](https://lobste.rs/s/wjr8hw/madame_semver_will_see_you_now) - [Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html)
 * [2026-07-11, 09:58:57](https://lobste.rs/s/my94an/working_with_ai_concrete_example) - [Working With AI: A Concrete Example](https://htmx.org/essays/working-with-ai/)
 * [2026-07-11, 09:40:40](https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress) - [AI Surveillance and Social Progress](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html)
 * [2026-07-11, 05:24:30](https://lobste.rs/s/vhbvwc/i_converted_android_app_webpage) - [I converted an Android app to a webpage](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
@@ -19,7 +20,6 @@
 * [2026-07-10, 10:44:48](https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend)
 * [2026-07-10, 03:24:53](https://lobste.rs/s/xyotoa/cpp2rust_automatic_translation_c_safe) - [Cpp2Rust: Automatic Translation of C++ to Safe Rust](https://github.com/Cpp2Rust/cpp2rust)
 * [2026-07-10, 00:46:25](https://lobste.rs/s/e85zgh/road_lisp_why_lisp) - [A road to Lisp: Why Lisp](https://scotto.me/blog/2026-07-09-why-lisp/)
-* [2026-07-09, 20:36:43](https://lobste.rs/s/lep7wh/how_build_circular_lcd_clock) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
 * [2026-07-09, 20:06:04](https://lobste.rs/s/eehcpl/page_weight_matters) - [Page weight matters](https://nh3.dev/blog/05-bloat)
 * [2026-07-09, 15:41:15](https://lobste.rs/s/0mam5k/lobsters_interview_with_mitchellh) - [Lobsters Interview with mitchellh](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
 * [2026-07-09, 15:21:30](https://lobste.rs/s/tedi5h/you_paid_me_long_time_linux_user_use) - [You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went](https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/)

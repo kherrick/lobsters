@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 12:24:51](https://lobste.rs/s/wjr8hw/madame_semver_will_see_you_now) - [Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html)
 * [2026-07-11, 09:58:57](https://lobste.rs/s/my94an/working_with_ai_concrete_example) - [Working With AI: A Concrete Example](https://htmx.org/essays/working-with-ai/)
 * [2026-07-11, 09:40:40](https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress) - [AI Surveillance and Social Progress](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html)
 * [2026-07-11, 05:24:30](https://lobste.rs/s/vhbvwc/i_converted_android_app_webpage) - [I converted an Android app to a webpage](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
