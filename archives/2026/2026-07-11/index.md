@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 18:02:54](https://lobste.rs/s/ydjxee/good_tools_are_invisible) - [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
 * [2026-07-11, 12:24:51](https://lobste.rs/s/wjr8hw/madame_semver_will_see_you_now) - [Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html)
 * [2026-07-11, 09:58:57](https://lobste.rs/s/my94an/working_with_ai_concrete_example) - [Working With AI: A Concrete Example](https://htmx.org/essays/working-with-ai/)
 * [2026-07-11, 09:40:40](https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress) - [AI Surveillance and Social Progress](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html)
