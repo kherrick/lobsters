@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 23:22:20](https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization) - [Full-Pipeline Inference Optimization for MiMo-V2.5 Series](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-11, 21:27:47](https://lobste.rs/s/dsiiu6/ai_2040_plan) - [AI 2040: Plan A](https://ai-2040.com/)
 * [2026-07-11, 21:05:50](https://lobste.rs/s/tedtzz/where_did_my_segfault_go) - [Where did my segfault go?](https://rmpr.xyz/Where-did-my-segfault-go/)
 * [2026-07-11, 20:41:48](https://lobste.rs/s/y23kkm/gamedev_zig_is_actually_pretty_good_2025) - [Gamedev in Zig is actually pretty good (2025)](https://www.youtube.com/watch?v=-xIFpg7sBVs)
