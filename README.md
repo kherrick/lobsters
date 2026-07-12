@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-12, 07:38:06](https://lobste.rs/s/oqwjp5/computer_science_off_course_programming) - [Computer Science Off Course - Programming as Theory Building](https://rss.com/podcasts/computer-science-off-course/2968986/)
+* [2026-07-12, 07:11:23](https://lobste.rs/s/n85thm/ant_lightweight_javascript_runtime) - [Ant, a lightweight JavaScript runtime](https://antjs.org/)
 * [2026-07-12, 06:40:15](https://lobste.rs/s/2vsvdm/proportional_web) - [The Proportional Web](https://owickstrom.github.io/the-proportional-web/)
 * [2026-07-12, 03:36:08](https://lobste.rs/s/wsw7tq/agent_100_lines_lisp) - [An Agent in 100 Lines of Lisp](https://thebeach.dev/posts/lisp-agent/)
 * [2026-07-12, 02:37:46](https://lobste.rs/s/elhi7o/defense_not_understanding_your_codebase) - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/)
@@ -10,7 +12,6 @@
 * [2026-07-12, 00:29:59](https://lobste.rs/s/wsn0hl/riscboy_risc_v_homebrew_portable_game) - [RISCBoy RISC-V homebrew portable game console](https://github.com/Wren6991/RISCBoy)
 * [2026-07-12, 00:29:49](https://lobste.rs/s/hlokmr/accessible_contrast_ratio_colour_grid) - [The accessible contrast ratio colour grid thing](https://beeps.website/blog/2026-07-09-accessible-contrast-ratio-colour-grid-thing/)
 * [2026-07-11, 23:54:53](https://lobste.rs/s/pdbktp/today_i_rescued_7_234_old_gifs) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
-* [2026-07-11, 23:22:20](https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization) - [Full-Pipeline Inference Optimization for MiMo-V2.5 Series](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-11, 21:05:50](https://lobste.rs/s/tedtzz/where_did_my_segfault_go) - [Where did my segfault go?](https://rmpr.xyz/Where-did-my-segfault-go/)
 * [2026-07-11, 20:41:48](https://lobste.rs/s/y23kkm/gamedev_zig_is_actually_pretty_good_2025) - [Gamedev in Zig is actually pretty good (2025)](https://www.youtube.com/watch?v=-xIFpg7sBVs)
 * [2026-07-11, 18:34:59](https://lobste.rs/s/gmzzeb/handsum_lqip_image_file_format) - [Handsum: An LQIP Image File Format](https://nigeltao.github.io/blog/2026/handsum.html)
@@ -23,7 +24,6 @@
 * [2026-07-11, 03:30:18](https://lobste.rs/s/ovbeds/i_tried_netbsd_as_desktop_it_felt_like) - [I tried NetBSD as a desktop, and it felt like stepping into the '90s in a good way](https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/)
 * [2026-07-10, 23:02:53](https://lobste.rs/s/kpaxih/update_on_scraper_situation) - [An update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 * [2026-07-10, 19:05:12](https://lobste.rs/s/le3iri/postgres_rewritten_rust_now_passing_100) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
-* [2026-07-10, 16:48:37](https://lobste.rs/s/t4f6jt/after_7_years_production_scarf_has) - [After 7 years in production, Scarf has reluctantly moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
 * [2026-07-10, 16:28:11](https://lobste.rs/s/w8svjr/hannah_montana_linux_v26_0) - [Hannah Montana Linux v26.0](https://gitlab.com/DecaCagle/hannahmontanalinux26)
 
 ## [Archives](archives/index.md)

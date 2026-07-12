@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 07:38:06](https://lobste.rs/s/oqwjp5/computer_science_off_course_programming) - [Computer Science Off Course - Programming as Theory Building](https://rss.com/podcasts/computer-science-off-course/2968986/)
+* [2026-07-12, 07:11:23](https://lobste.rs/s/n85thm/ant_lightweight_javascript_runtime) - [Ant, a lightweight JavaScript runtime](https://antjs.org/)
 * [2026-07-12, 06:40:15](https://lobste.rs/s/2vsvdm/proportional_web) - [The Proportional Web](https://owickstrom.github.io/the-proportional-web/)
 * [2026-07-12, 03:36:08](https://lobste.rs/s/wsw7tq/agent_100_lines_lisp) - [An Agent in 100 Lines of Lisp](https://thebeach.dev/posts/lisp-agent/)
 * [2026-07-12, 02:37:46](https://lobste.rs/s/elhi7o/defense_not_understanding_your_codebase) - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/)
