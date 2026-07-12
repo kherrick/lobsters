@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 14:03:38](https://lobste.rs/s/s1jwea/unauthenticated_rce_motorola_s_mr2600) - [Unauthenticated RCE in Motorola's MR2600 Router](https://mrbruh.com/motorola/)
+* [2026-07-12, 14:02:22](https://lobste.rs/s/ovkyow/ef_core_11_makes_your_split_queries_faster) - [EF Core 11 makes your split queries faster](https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea)
 * [2026-07-12, 12:18:13](https://lobste.rs/s/xgdsao/ghostel_el_terminal_emulator_powered_by) - [ghostel.el - Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 10:50:03](https://lobste.rs/s/axamxi/hacking_apple_sql_injection_remote_code) - [Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog](https://projectdiscovery.io/blog/hacking-apple-with-sql-injection)
 * [2026-07-12, 09:24:30](https://lobste.rs/s/ksmsg3/make_your_own_windows_98_oem_install) - [Make your own Windows 98 OEM Install](https://www.youtube.com/watch?v=zUm5eW_XGMU)

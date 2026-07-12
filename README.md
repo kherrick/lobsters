@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-12, 14:03:38](https://lobste.rs/s/s1jwea/unauthenticated_rce_motorola_s_mr2600) - [Unauthenticated RCE in Motorola's MR2600 Router](https://mrbruh.com/motorola/)
+* [2026-07-12, 14:02:22](https://lobste.rs/s/ovkyow/ef_core_11_makes_your_split_queries_faster) - [EF Core 11 makes your split queries faster](https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea)
 * [2026-07-12, 12:18:13](https://lobste.rs/s/xgdsao/ghostel_el_terminal_emulator_powered_by) - [ghostel.el - Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 10:50:03](https://lobste.rs/s/axamxi/hacking_apple_sql_injection_remote_code) - [Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog](https://projectdiscovery.io/blog/hacking-apple-with-sql-injection)
 * [2026-07-12, 09:24:30](https://lobste.rs/s/ksmsg3/make_your_own_windows_98_oem_install) - [Make your own Windows 98 OEM Install](https://www.youtube.com/watch?v=zUm5eW_XGMU)
@@ -13,7 +15,6 @@
 * [2026-07-12, 01:15:49](https://lobste.rs/s/zzdc8x/reaction_daemon_scans_program_outputs) - [reaction: A daemon that scans program outputs for repeated patterns, and takes action](https://framagit.org/ppom/reaction)
 * [2026-07-12, 01:01:33](https://lobste.rs/s/q4fx6x/odyssey_linux) - [Odyssey Linux](https://odysseylinux.org/)
 * [2026-07-12, 00:31:03](https://lobste.rs/s/mynquj/gap_ui_text_diff) - [gap: UI text diff](https://github.com/cdacamar/gap)
-* [2026-07-12, 00:29:59](https://lobste.rs/s/wsn0hl/riscboy_risc_v_homebrew_portable_game) - [RISCBoy RISC-V homebrew portable game console](https://github.com/Wren6991/RISCBoy)
 * [2026-07-11, 23:54:53](https://lobste.rs/s/pdbktp/today_i_rescued_7_234_old_gifs) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
 * [2026-07-11, 21:05:50](https://lobste.rs/s/tedtzz/where_did_my_segfault_go) - [Where did my segfault go?](https://rmpr.xyz/Where-did-my-segfault-go/)
 * [2026-07-11, 20:41:48](https://lobste.rs/s/y23kkm/gamedev_zig_is_actually_pretty_good_2025) - [Gamedev in Zig is actually pretty good (2025)](https://www.youtube.com/watch?v=-xIFpg7sBVs)
@@ -24,7 +25,6 @@
 * [2026-07-11, 05:24:30](https://lobste.rs/s/vhbvwc/i_converted_android_app_webpage) - [I converted an Android app to a webpage](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-11, 03:30:18](https://lobste.rs/s/ovbeds/i_tried_netbsd_as_desktop_it_felt_like) - [I tried NetBSD as a desktop, and it felt like stepping into the '90s in a good way](https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/)
 * [2026-07-10, 23:02:53](https://lobste.rs/s/kpaxih/update_on_scraper_situation) - [An update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
-* [2026-07-10, 16:28:11](https://lobste.rs/s/w8svjr/hannah_montana_linux_v26_0) - [Hannah Montana Linux v26.0](https://gitlab.com/DecaCagle/hannahmontanalinux26)
 
 ## [Archives](archives/index.md)
 
