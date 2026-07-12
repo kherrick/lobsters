@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-12, 23:06:14",
-      "https://lobste.rs/s/idlqxp/browsers_do_math_differently_on_every_os"
-    ],
-    [
-      "Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits",
-      "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 22:51:30",
       "https://lobste.rs/s/x1a86b/make_it_right_next_steps_with_ctran"
     ],
@@ -187,6 +177,16 @@
     [
       "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
       "https://framagit.org/ppom/reaction"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 01:01:33",
+      "https://lobste.rs/s/q4fx6x/odyssey_linux"
+    ],
+    [
+      "Odyssey Linux",
+      "https://odysseylinux.org/"
     ]
   ],
   [
