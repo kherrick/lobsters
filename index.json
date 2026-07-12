@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-12, 14:03:38",
+      "https://lobste.rs/s/s1jwea/unauthenticated_rce_motorola_s_mr2600"
+    ],
+    [
+      "Unauthenticated RCE in Motorola's MR2600 Router",
+      "https://mrbruh.com/motorola/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 14:02:22",
+      "https://lobste.rs/s/ovkyow/ef_core_11_makes_your_split_queries_faster"
+    ],
+    [
+      "EF Core 11 makes your split queries faster",
+      "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 12:18:13",
       "https://lobste.rs/s/xgdsao/ghostel_el_terminal_emulator_powered_by"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-07-12, 00:29:59",
-      "https://lobste.rs/s/wsn0hl/riscboy_risc_v_homebrew_portable_game"
-    ],
-    [
-      "RISCBoy RISC-V homebrew portable game console",
-      "https://github.com/Wren6991/RISCBoy"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 23:54:53",
       "https://lobste.rs/s/pdbktp/today_i_rescued_7_234_old_gifs"
     ],
@@ -237,16 +247,6 @@
     [
       "An update on the scraper situation",
       "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 16:28:11",
-      "https://lobste.rs/s/w8svjr/hannah_montana_linux_v26_0"
-    ],
-    [
-      "Hannah Montana Linux v26.0",
-      "https://gitlab.com/DecaCagle/hannahmontanalinux26"
     ]
   ]
 ]
