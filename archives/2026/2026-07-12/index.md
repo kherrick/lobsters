@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 09:24:30](https://lobste.rs/s/ksmsg3/make_your_own_windows_98_oem_install) - [Make your own Windows 98 OEM Install](https://www.youtube.com/watch?v=zUm5eW_XGMU)
 * [2026-07-12, 09:07:07](https://lobste.rs/s/shajxh/data_directed_programming_haskell_sicp2) - [Data-directed programming in Haskell (SICP2.4.3)](https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell)
 * [2026-07-12, 07:38:06](https://lobste.rs/s/oqwjp5/computer_science_off_course_programming) - [Computer Science Off Course - Programming as Theory Building](https://rss.com/podcasts/computer-science-off-course/2968986/)
 * [2026-07-12, 07:11:23](https://lobste.rs/s/n85thm/ant_lightweight_javascript_runtime) - [Ant, a lightweight JavaScript runtime](https://antjs.org/)
