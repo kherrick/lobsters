@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-12, 23:06:14](https://lobste.rs/s/idlqxp/browsers_do_math_differently_on_every_os) - [Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
 * [2026-07-12, 22:51:30](https://lobste.rs/s/x1a86b/make_it_right_next_steps_with_ctran) - [Make It Right - Next Steps With CTRAN](https://thelastpsion.com/posts/make-it-right-next-steps-with-ctran/)
 * [2026-07-12, 22:12:06](https://lobste.rs/s/7ke9cs/know_thine_enemy_critical_engagement) - [Know thine enemy: A critical engagement with AI-assisted software development](https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1)
 * [2026-07-12, 19:56:07](https://lobste.rs/s/ncsslp/infinitediffusion_bridging_learned) - [InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation](https://xandergos.github.io/terrain-diffusion/)
@@ -19,6 +18,7 @@
 * [2026-07-12, 02:37:46](https://lobste.rs/s/elhi7o/defense_not_understanding_your_codebase) - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/)
 * [2026-07-12, 02:34:31](https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop) - [Who does Anubis actually stop?](https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop)
 * [2026-07-12, 01:15:49](https://lobste.rs/s/zzdc8x/reaction_daemon_scans_program_outputs) - [reaction: A daemon that scans program outputs for repeated patterns, and takes action](https://framagit.org/ppom/reaction)
+* [2026-07-12, 01:01:33](https://lobste.rs/s/q4fx6x/odyssey_linux) - [Odyssey Linux](https://odysseylinux.org/)
 * [2026-07-11, 23:54:53](https://lobste.rs/s/pdbktp/today_i_rescued_7_234_old_gifs) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
 * [2026-07-11, 21:05:50](https://lobste.rs/s/tedtzz/where_did_my_segfault_go) - [Where did my segfault go?](https://rmpr.xyz/Where-did-my-segfault-go/)
 * [2026-07-11, 20:41:48](https://lobste.rs/s/y23kkm/gamedev_zig_is_actually_pretty_good_2025) - [Gamedev in Zig is actually pretty good (2025)](https://www.youtube.com/watch?v=-xIFpg7sBVs)
