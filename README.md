@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-12, 22:12:06](https://lobste.rs/s/7ke9cs/know_thine_enemy_critical_engagement) - [Know thine enemy: A critical engagement with AI-assisted software development](https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1)
 * [2026-07-12, 19:56:07](https://lobste.rs/s/ncsslp/infinitediffusion_bridging_learned) - [InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation](https://xandergos.github.io/terrain-diffusion/)
 * [2026-07-12, 18:58:31](https://lobste.rs/s/7840ca/closing_three_year_old_issue_using_rust) - [Closing a three-year-old issue using Rust arenas](https://giacomocavalieri.me/writing/gleam-rust-arenas)
 * [2026-07-12, 16:47:39](https://lobste.rs/s/3v4hbc/slow_software_case_for_high_latency) - [Slow Software: The Case for High-latency Systems Development](https://www.sigops.org/2026/slow-software-the-case-for-high-latency-systems-development/)
@@ -23,7 +24,6 @@
 * [2026-07-11, 18:34:59](https://lobste.rs/s/gmzzeb/handsum_lqip_image_file_format) - [Handsum: An LQIP Image File Format](https://nigeltao.github.io/blog/2026/handsum.html)
 * [2026-07-11, 18:02:54](https://lobste.rs/s/ydjxee/good_tools_are_invisible) - [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
 * [2026-07-11, 05:24:30](https://lobste.rs/s/vhbvwc/i_converted_android_app_webpage) - [I converted an Android app to a webpage](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
-* [2026-07-11, 03:30:18](https://lobste.rs/s/ovbeds/i_tried_netbsd_as_desktop_it_felt_like) - [I tried NetBSD as a desktop, and it felt like stepping into the '90s in a good way](https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/)
 * [2026-07-10, 23:02:53](https://lobste.rs/s/kpaxih/update_on_scraper_situation) - [An update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 
 ## [Archives](archives/index.md)

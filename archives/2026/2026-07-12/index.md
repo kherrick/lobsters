@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 22:12:06](https://lobste.rs/s/7ke9cs/know_thine_enemy_critical_engagement) - [Know thine enemy: A critical engagement with AI-assisted software development](https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1)
 * [2026-07-12, 19:56:07](https://lobste.rs/s/ncsslp/infinitediffusion_bridging_learned) - [InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation](https://xandergos.github.io/terrain-diffusion/)
 * [2026-07-12, 18:58:31](https://lobste.rs/s/7840ca/closing_three_year_old_issue_using_rust) - [Closing a three-year-old issue using Rust arenas](https://giacomocavalieri.me/writing/gleam-rust-arenas)
 * [2026-07-12, 16:47:39](https://lobste.rs/s/3v4hbc/slow_software_case_for_high_latency) - [Slow Software: The Case for High-latency Systems Development](https://www.sigops.org/2026/slow-software-the-case-for-high-latency-systems-development/)
