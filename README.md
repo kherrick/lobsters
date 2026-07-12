@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-12, 12:18:13](https://lobste.rs/s/xgdsao/ghostel_el_terminal_emulator_powered_by) - [ghostel.el - Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 10:50:03](https://lobste.rs/s/axamxi/hacking_apple_sql_injection_remote_code) - [Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog](https://projectdiscovery.io/blog/hacking-apple-with-sql-injection)
 * [2026-07-12, 09:24:30](https://lobste.rs/s/ksmsg3/make_your_own_windows_98_oem_install) - [Make your own Windows 98 OEM Install](https://www.youtube.com/watch?v=zUm5eW_XGMU)
 * [2026-07-12, 09:07:07](https://lobste.rs/s/shajxh/data_directed_programming_haskell_sicp2) - [Data-directed programming in Haskell (SICP2.4.3)](https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell)
@@ -13,7 +14,6 @@
 * [2026-07-12, 01:01:33](https://lobste.rs/s/q4fx6x/odyssey_linux) - [Odyssey Linux](https://odysseylinux.org/)
 * [2026-07-12, 00:31:03](https://lobste.rs/s/mynquj/gap_ui_text_diff) - [gap: UI text diff](https://github.com/cdacamar/gap)
 * [2026-07-12, 00:29:59](https://lobste.rs/s/wsn0hl/riscboy_risc_v_homebrew_portable_game) - [RISCBoy RISC-V homebrew portable game console](https://github.com/Wren6991/RISCBoy)
-* [2026-07-12, 00:29:49](https://lobste.rs/s/hlokmr/accessible_contrast_ratio_colour_grid) - [The accessible contrast ratio colour grid thing](https://beeps.website/blog/2026-07-09-accessible-contrast-ratio-colour-grid-thing/)
 * [2026-07-11, 23:54:53](https://lobste.rs/s/pdbktp/today_i_rescued_7_234_old_gifs) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
 * [2026-07-11, 21:05:50](https://lobste.rs/s/tedtzz/where_did_my_segfault_go) - [Where did my segfault go?](https://rmpr.xyz/Where-did-my-segfault-go/)
 * [2026-07-11, 20:41:48](https://lobste.rs/s/y23kkm/gamedev_zig_is_actually_pretty_good_2025) - [Gamedev in Zig is actually pretty good (2025)](https://www.youtube.com/watch?v=-xIFpg7sBVs)
