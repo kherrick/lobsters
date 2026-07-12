@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 23:54:53](https://lobste.rs/s/pdbktp/today_i_rescued_7_234_old_gifs) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
 * [2026-07-11, 23:22:20](https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization) - [Full-Pipeline Inference Optimization for MiMo-V2.5 Series](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-11, 21:27:47](https://lobste.rs/s/dsiiu6/ai_2040_plan) - [AI 2040: Plan A](https://ai-2040.com/)
 * [2026-07-11, 21:05:50](https://lobste.rs/s/tedtzz/where_did_my_segfault_go) - [Where did my segfault go?](https://rmpr.xyz/Where-did-my-segfault-go/)
