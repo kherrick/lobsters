@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-12, 01:15:49](https://lobste.rs/s/zzdc8x/reaction_daemon_scans_program_outputs) - [reaction: A daemon that scans program outputs for repeated patterns, and takes action](https://framagit.org/ppom/reaction)
+* [2026-07-12, 01:01:33](https://lobste.rs/s/q4fx6x/odyssey_linux) - [Odyssey Linux](https://odysseylinux.org/)
 * [2026-07-12, 00:31:03](https://lobste.rs/s/mynquj/gap_ui_text_diff) - [gap: UI text diff](https://github.com/cdacamar/gap)
 * [2026-07-12, 00:29:59](https://lobste.rs/s/wsn0hl/riscboy_risc_v_homebrew_portable_game) - [RISCBoy RISC-V homebrew portable game console](https://github.com/Wren6991/RISCBoy)
 * [2026-07-12, 00:29:49](https://lobste.rs/s/hlokmr/accessible_contrast_ratio_colour_grid) - [The accessible contrast ratio colour grid thing](https://beeps.website/blog/2026-07-09-accessible-contrast-ratio-colour-grid-thing/)
@@ -18,13 +20,11 @@
 * [2026-07-10, 23:02:53](https://lobste.rs/s/kpaxih/update_on_scraper_situation) - [An update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 * [2026-07-10, 20:52:39](https://lobste.rs/s/qtui32/adding_go_browser_code_runner) - [Adding Go to a browser code runner](https://blog.lvmbdv.dev/posts/adding-go-to-a-browser-code-runner/)
 * [2026-07-10, 19:05:12](https://lobste.rs/s/le3iri/postgres_rewritten_rust_now_passing_100) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
-* [2026-07-10, 18:00:58](https://lobste.rs/s/mcrqed/running_1000_tests_1s_2022) - [Running 1000 tests in 1s (2022)](https://marvinh.dev/blog/running-1000-test-in-1s/)
 * [2026-07-10, 17:17:58](https://lobste.rs/s/fxuz6h/what_every_python_developer_should_know) - [What Every Python Developer Should Know About the CPython ABI](https://labs.quansight.org/blog/python-abi-abi3t)
 * [2026-07-10, 16:48:37](https://lobste.rs/s/t4f6jt/after_7_years_production_scarf_has) - [After 7 years in production, Scarf has reluctantly moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
 * [2026-07-10, 16:28:11](https://lobste.rs/s/w8svjr/hannah_montana_linux_v26_0) - [Hannah Montana Linux v26.0](https://gitlab.com/DecaCagle/hannahmontanalinux26)
 * [2026-07-10, 10:44:48](https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend)
 * [2026-07-09, 15:41:15](https://lobste.rs/s/0mam5k/lobsters_interview_with_mitchellh) - [Lobsters Interview with mitchellh](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
-* [2026-07-09, 15:21:30](https://lobste.rs/s/tedi5h/you_paid_me_long_time_linux_user_use) - [You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went](https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/)
 
 ## [Archives](archives/index.md)
 
