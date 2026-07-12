@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-12, 01:15:49",
+      "https://lobste.rs/s/zzdc8x/reaction_daemon_scans_program_outputs"
+    ],
+    [
+      "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
+      "https://framagit.org/ppom/reaction"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 01:01:33",
+      "https://lobste.rs/s/q4fx6x/odyssey_linux"
+    ],
+    [
+      "Odyssey Linux",
+      "https://odysseylinux.org/"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 00:31:03",
       "https://lobste.rs/s/mynquj/gap_ui_text_diff"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-07-10, 18:00:58",
-      "https://lobste.rs/s/mcrqed/running_1000_tests_1s_2022"
-    ],
-    [
-      "Running 1000 tests in 1s (2022)",
-      "https://marvinh.dev/blog/running-1000-test-in-1s/"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 17:17:58",
       "https://lobste.rs/s/fxuz6h/what_every_python_developer_should_know"
     ],
@@ -237,16 +247,6 @@
     [
       "Lobsters Interview with mitchellh",
       "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 15:21:30",
-      "https://lobste.rs/s/tedi5h/you_paid_me_long_time_linux_user_use"
-    ],
-    [
-      "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went",
-      "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/"
     ]
   ]
 ]
