@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 23:43:15](https://lobste.rs/s/rtegvw/estimating_heights_new_yorkers_from) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
 * [2026-07-13, 21:28:36](https://lobste.rs/s/opbq6q/adding_second_middleware_broke_our) - [Adding a second middleware broke our typescript types](https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types)
 * [2026-07-13, 20:47:40](https://lobste.rs/s/048t8w/tftp_honey_pot_results) - [TFTP Honey pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)

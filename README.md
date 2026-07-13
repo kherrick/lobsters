@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-13, 23:43:15](https://lobste.rs/s/rtegvw/estimating_heights_new_yorkers_from) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
 * [2026-07-13, 21:28:36](https://lobste.rs/s/opbq6q/adding_second_middleware_broke_our) - [Adding a second middleware broke our typescript types](https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types)
 * [2026-07-13, 20:47:40](https://lobste.rs/s/048t8w/tftp_honey_pot_results) - [TFTP Honey pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
@@ -16,7 +17,6 @@
 * [2026-07-13, 09:44:13](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week)
 * [2026-07-13, 09:28:38](https://lobste.rs/s/4rbnnj/ipv6_over_drainage_pipe) - [IPv6 over drainage pipe](https://chaos.social/@marble/116720125530089009)
 * [2026-07-13, 07:41:04](https://lobste.rs/s/goqanz/webextension_query_any_html_table_with) - [WebExtension to query any HTML table with PRQL](https://avlasov.cabal.run/notes/001/index.html)
-* [2026-07-13, 07:15:47](https://lobste.rs/s/uoiw3u/introducing_bobbin_diskless_api_only) - [Introducing Bobbin: A diskless, API-only AppView for Tangled](https://blog.tangled.org/bobbin/)
 * [2026-07-13, 06:55:28](https://lobste.rs/s/temfk6/wwdc_26_update_on_building_mac_assed_app) - [A WWDC 26 Update on Building a Mac-assed App with SwiftUI](https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/)
 * [2026-07-13, 06:40:36](https://lobste.rs/s/sca1qx/hacker_fables_satirical_cyberpunk) - [Hacker Fables - A satirical cyberpunk novella you can read as a man page](https://hacker-fables.onrender.com)
 * [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
