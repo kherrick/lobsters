@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-13, 17:59:47",
+      "https://lobste.rs/s/lzls6z/go_flavored_concurrency_c"
+    ],
+    [
+      "Go-flavored concurrency in C",
+      "https://antonz.org/concurrency-in-c/"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 16:18:36",
       "https://lobste.rs/s/t0aqzy/human_emacs"
     ],
@@ -177,16 +187,6 @@
     [
       "Know thine enemy: A critical engagement with AI-assisted software development",
       "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 19:56:07",
-      "https://lobste.rs/s/ncsslp/infinitediffusion_bridging_learned"
-    ],
-    [
-      "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
-      "https://xandergos.github.io/terrain-diffusion/"
     ]
   ],
   [
