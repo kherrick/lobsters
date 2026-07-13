@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 16:18:36](https://lobste.rs/s/t0aqzy/human_emacs) - [Human Emacs](https://human-emacs.org/)
+* [2026-07-13, 16:01:28](https://lobste.rs/s/yf6vbc/just_let_me_write_digits) - [Just Let Me Write Digits](https://gendignoux.com/blog/2026/07/13/input-digits.html)
 * [2026-07-13, 15:35:04](https://lobste.rs/s/5t3wzn/control_ideas_not_code_antirez) - [Control the ideas, not the code - <antirez>](https://antirez.com/news/169)
+* [2026-07-13, 15:35:04](https://lobste.rs/s/5t3wzn/control_ideas_not_code) - [Control the ideas, not the code](https://antirez.com/news/169)
 * [2026-07-13, 15:29:25](https://lobste.rs/s/2q39ny/don_t_use_aria_label_on_static_text) - [Don’t Use aria-label on Static Text Elements (2024)](https://benmyers.dev/blog/dont-use-aria-label-on-static-text-elements/)
 * [2026-07-13, 15:23:52](https://lobste.rs/s/abza3v/how_early_sunos_did_diskless) - [How early SunOS did diskless workstations before NFS](https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS)
 * [2026-07-13, 14:48:34](https://lobste.rs/s/xwkpvf/how_organize_ruby_conference) - [How to Organize a Ruby Conference](https://guides.rubyevents.org/conferences/)
