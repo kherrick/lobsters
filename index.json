@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-13, 09:44:13",
+      "https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 09:28:38",
+      "https://lobste.rs/s/4rbnnj/ipv6_over_drainage_pipe"
+    ],
+    [
+      "IPv6 over drainage pipe",
+      "https://chaos.social/@marble/116720125530089009"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 09:26:14",
+      "https://lobste.rs/s/deixes/stob_cruft_index_rolling_computer"
+    ],
+    [
+      "The Stob Cruft Index: a rolling computer gathers \"cruft\"",
+      "https://www.doc.ic.ac.uk/~susan/475/cruft.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 08:52:41",
+      "https://lobste.rs/s/iiqcys/zig_creator_calls_spade_spade_anthropic"
+    ],
+    [
+      "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 07:41:04",
       "https://lobste.rs/s/goqanz/webextension_query_any_html_table_with"
     ],
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2026-07-12, 14:02:22",
-      "https://lobste.rs/s/ovkyow/ef_core_11_makes_your_split_queries_faster"
-    ],
-    [
-      "EF Core 11 makes your split queries faster",
-      "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 12:18:13",
       "https://lobste.rs/s/xgdsao/ghostel_el_terminal_emulator_powered_by"
     ],
     [
       "ghostel.el - Terminal emulator powered by libghostty",
       "https://dakra.github.io/ghostel/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 09:07:07",
-      "https://lobste.rs/s/shajxh/data_directed_programming_haskell_sicp2"
-    ],
-    [
-      "Data-directed programming in Haskell (SICP2.4.3)",
-      "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-07-11, 23:54:53",
-      "https://lobste.rs/s/pdbktp/today_i_rescued_7_234_old_gifs"
-    ],
-    [
-      "Today I Rescued 7,234 Old GIFs",
-      "https://danq.me/2026/07/10/rescuing-7234-gifs/"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 21:05:50",
       "https://lobste.rs/s/tedtzz/where_did_my_segfault_go"
     ],
     [
       "Where did my segfault go?",
       "https://rmpr.xyz/Where-did-my-segfault-go/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 20:41:48",
-      "https://lobste.rs/s/y23kkm/gamedev_zig_is_actually_pretty_good_2025"
-    ],
-    [
-      "Gamedev in Zig is actually pretty good (2025)",
-      "https://www.youtube.com/watch?v=-xIFpg7sBVs"
     ]
   ],
   [
