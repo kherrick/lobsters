@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-13, 15:35:04",
+      "https://lobste.rs/s/5t3wzn/control_ideas_not_code_antirez"
+    ],
+    [
+      "Control the ideas, not the code - <antirez>",
+      "https://antirez.com/news/169"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 15:29:25",
+      "https://lobste.rs/s/2q39ny/don_t_use_aria_label_on_static_text"
+    ],
+    [
+      "Don’t Use aria-label on Static Text Elements (2024)",
+      "https://benmyers.dev/blog/dont-use-aria-label-on-static-text-elements/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 15:23:52",
+      "https://lobste.rs/s/abza3v/how_early_sunos_did_diskless"
+    ],
+    [
+      "How early SunOS did diskless workstations before NFS",
+      "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 14:48:34",
+      "https://lobste.rs/s/xwkpvf/how_organize_ruby_conference"
+    ],
+    [
+      "How to Organize a Ruby Conference",
+      "https://guides.rubyevents.org/conferences/"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 13:20:01",
       "https://lobste.rs/s/4smkjv/engineering_high_performance_parsers"
     ],
@@ -21,16 +61,6 @@
   ],
   [
     [
-      "2026-07-13, 10:58:00",
-      "https://lobste.rs/s/bovmc5/syntax_with_purpose_programming"
-    ],
-    [
-      "Syntax with Purpose in a Programming Language",
-      "https://www.youtube.com/watch?v=_HLZoeFREFo"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 09:44:13",
       "https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week"
     ],
@@ -47,16 +77,6 @@
     [
       "IPv6 over drainage pipe",
       "https://chaos.social/@marble/116720125530089009"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 09:26:14",
-      "https://lobste.rs/s/deixes/stob_cruft_index_rolling_computer"
-    ],
-    [
-      "The Stob Cruft Index: a rolling computer gathers \"cruft\"",
-      "https://www.doc.ic.ac.uk/~susan/475/cruft.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-12, 22:51:30",
-      "https://lobste.rs/s/x1a86b/make_it_right_next_steps_with_ctran"
-    ],
-    [
-      "Make It Right - Next Steps With CTRAN",
-      "https://thelastpsion.com/posts/make-it-right-next-steps-with-ctran/"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 22:12:06",
       "https://lobste.rs/s/7ke9cs/know_thine_enemy_critical_engagement"
     ],
@@ -227,16 +237,6 @@
     [
       "Who does Anubis actually stop?",
       "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 01:15:49",
-      "https://lobste.rs/s/zzdc8x/reaction_daemon_scans_program_outputs"
-    ],
-    [
-      "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
-      "https://framagit.org/ppom/reaction"
     ]
   ],
   [
