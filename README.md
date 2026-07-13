@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-13, 11:33:27](https://lobste.rs/s/posxmd/crates_io_development_update) - [crates.io: development update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/)
 * [2026-07-13, 09:44:13](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week)
 * [2026-07-13, 09:28:38](https://lobste.rs/s/4rbnnj/ipv6_over_drainage_pipe) - [IPv6 over drainage pipe](https://chaos.social/@marble/116720125530089009)
 * [2026-07-13, 09:26:14](https://lobste.rs/s/deixes/stob_cruft_index_rolling_computer) - [The Stob Cruft Index: a rolling computer gathers \"cruft\"](https://www.doc.ic.ac.uk/~susan/475/cruft.html)
@@ -24,7 +25,6 @@
 * [2026-07-12, 02:34:31](https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop) - [Who does Anubis actually stop?](https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop)
 * [2026-07-12, 01:15:49](https://lobste.rs/s/zzdc8x/reaction_daemon_scans_program_outputs) - [reaction: A daemon that scans program outputs for repeated patterns, and takes action](https://framagit.org/ppom/reaction)
 * [2026-07-11, 21:05:50](https://lobste.rs/s/tedtzz/where_did_my_segfault_go) - [Where did my segfault go?](https://rmpr.xyz/Where-did-my-segfault-go/)
-* [2026-07-11, 18:02:54](https://lobste.rs/s/ydjxee/good_tools_are_invisible) - [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
 
 ## [Archives](archives/index.md)
 

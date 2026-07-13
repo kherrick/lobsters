@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 11:33:27](https://lobste.rs/s/posxmd/crates_io_development_update) - [crates.io: development update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/)
 * [2026-07-13, 09:44:13](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week)
 * [2026-07-13, 09:28:38](https://lobste.rs/s/4rbnnj/ipv6_over_drainage_pipe) - [IPv6 over drainage pipe](https://chaos.social/@marble/116720125530089009)
 * [2026-07-13, 09:26:14](https://lobste.rs/s/deixes/stob_cruft_index_rolling_computer) - [The Stob Cruft Index: a rolling computer gathers \"cruft\"](https://www.doc.ic.ac.uk/~susan/475/cruft.html)
