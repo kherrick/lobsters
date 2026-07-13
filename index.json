@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-13, 10:58:00",
+      "https://lobste.rs/s/bovmc5/syntax_with_purpose_programming"
+    ],
+    [
+      "Syntax with Purpose in a Programming Language",
+      "https://www.youtube.com/watch?v=_HLZoeFREFo"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 09:44:13",
       "https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2026-07-13, 08:52:41",
-      "https://lobste.rs/s/iiqcys/zig_creator_calls_spade_spade_anthropic"
-    ],
-    [
-      "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 07:41:04",
       "https://lobste.rs/s/goqanz/webextension_query_any_html_table_with"
     ],
@@ -72,10 +72,10 @@
   [
     [
       "2026-07-13, 06:55:28",
-      "https://lobste.rs/s/temfk6/wwdc_27_update_on_building_mac_assed_app"
+      "https://lobste.rs/s/temfk6/wwdc_26_update_on_building_mac_assed_app"
     ],
     [
-      "A WWDC 27 Update on Building a Mac-assed App with SwiftUI",
+      "A WWDC 26 Update on Building a Mac-assed App with SwiftUI",
       "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/"
     ]
   ],
