@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-13, 07:41:04",
+      "https://lobste.rs/s/goqanz/webextension_query_any_html_table_with"
+    ],
+    [
+      "WebExtension to query any HTML table with PRQL",
+      "https://avlasov.cabal.run/notes/001/index.html"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 07:15:47",
       "https://lobste.rs/s/uoiw3u/introducing_bobbin_diskless_api_only"
     ],
@@ -127,16 +137,6 @@
     [
       "Evan's Jujutsu Tutorial",
       "https://evmar.github.io/jjtut/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 14:03:38",
-      "https://lobste.rs/s/s1jwea/unauthenticated_rce_motorola_s_mr2600"
-    ],
-    [
-      "Unauthenticated RCE in Motorola's MR2600 Router",
-      "https://mrbruh.com/motorola/"
     ]
   ],
   [
