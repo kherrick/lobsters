@@ -1,11 +1,31 @@
 [
   [
     [
-      "2026-07-13, 15:35:04",
-      "https://lobste.rs/s/5t3wzn/control_ideas_not_code_antirez"
+      "2026-07-13, 16:18:36",
+      "https://lobste.rs/s/t0aqzy/human_emacs"
     ],
     [
-      "Control the ideas, not the code - <antirez>",
+      "Human Emacs",
+      "https://human-emacs.org/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 16:01:28",
+      "https://lobste.rs/s/yf6vbc/just_let_me_write_digits"
+    ],
+    [
+      "Just Let Me Write Digits",
+      "https://gendignoux.com/blog/2026/07/13/input-digits.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 15:35:04",
+      "https://lobste.rs/s/5t3wzn/control_ideas_not_code"
+    ],
+    [
+      "Control the ideas, not the code",
       "https://antirez.com/news/169"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-07-13, 04:33:23",
-      "https://lobste.rs/s/zzhzsp/efficient_deterministic_simulation"
-    ],
-    [
-      "Efficient deterministic simulation in the Cloud",
-      "https://youtu.be/DF3nGDi2-dc"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 03:33:01",
       "https://lobste.rs/s/1an425/quadrupling_code_performance_with"
     ],
@@ -217,16 +227,6 @@
     [
       "The Proportional Web",
       "https://owickstrom.github.io/the-proportional-web/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 02:37:46",
-      "https://lobste.rs/s/elhi7o/defense_not_understanding_your_codebase"
-    ],
-    [
-      "In defense of not understanding your codebase",
-      "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/"
     ]
   ],
   [
