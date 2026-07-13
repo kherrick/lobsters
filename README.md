@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-13, 04:33:23](https://lobste.rs/s/zzhzsp/efficient_deterministic_simulation) - [Efficient deterministic simulation in the Cloud](https://youtu.be/DF3nGDi2-dc)
 * [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
 * [2026-07-13, 00:16:59](https://lobste.rs/s/feikm9/overhauled_homelab) - [Overhauled homelab](https://timharek.no/blog/kaizen-4/)
 * [2026-07-12, 23:06:14](https://lobste.rs/s/idlqxp/browsers_do_math_differently_on_every_os) - [Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
@@ -14,7 +15,6 @@
 * [2026-07-12, 12:18:13](https://lobste.rs/s/xgdsao/ghostel_el_terminal_emulator_powered_by) - [ghostel.el - Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 10:50:03](https://lobste.rs/s/axamxi/hacking_apple_sql_injection_remote_code) - [Hacking Apple - SQL Injection to Remote Code Execution](https://projectdiscovery.io/blog/hacking-apple-with-sql-injection)
 * [2026-07-12, 09:07:07](https://lobste.rs/s/shajxh/data_directed_programming_haskell_sicp2) - [Data-directed programming in Haskell (SICP2.4.3)](https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell)
-* [2026-07-12, 07:11:23](https://lobste.rs/s/n85thm/ant_lightweight_javascript_runtime) - [Ant, a lightweight JavaScript runtime](https://antjs.org/)
 * [2026-07-12, 06:40:15](https://lobste.rs/s/2vsvdm/proportional_web) - [The Proportional Web](https://owickstrom.github.io/the-proportional-web/)
 * [2026-07-12, 03:36:08](https://lobste.rs/s/wsw7tq/agent_100_lines_lisp) - [An Agent in 100 Lines of Lisp](https://thebeach.dev/posts/lisp-agent/)
 * [2026-07-12, 02:37:46](https://lobste.rs/s/elhi7o/defense_not_understanding_your_codebase) - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/)
