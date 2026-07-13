@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-13, 04:33:23",
+      "https://lobste.rs/s/zzhzsp/efficient_deterministic_simulation"
+    ],
+    [
+      "Efficient deterministic simulation in the Cloud",
+      "https://youtu.be/DF3nGDi2-dc"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 03:33:01",
       "https://lobste.rs/s/1an425/quadrupling_code_performance_with"
     ],
@@ -137,16 +147,6 @@
     [
       "Data-directed programming in Haskell (SICP2.4.3)",
       "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 07:11:23",
-      "https://lobste.rs/s/n85thm/ant_lightweight_javascript_runtime"
-    ],
-    [
-      "Ant, a lightweight JavaScript runtime",
-      "https://antjs.org/"
     ]
   ],
   [
