@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-07-13, 18:47:11",
+      "https://lobste.rs/s/shzox9/farewell_arps_ipv4_service_on_ipv6_only"
+    ],
+    [
+      "A Farewell to ARPs: IPv4 Service on IPv6-Only Networks",
+      "https://labs.ripe.net/author/remco-van-mook/a-farewell-to-arps-ipv4-service-on-ipv6-only-networks/"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 17:59:47",
       "https://lobste.rs/s/lzls6z/go_flavored_concurrency_c"
     ],
@@ -237,16 +247,6 @@
     [
       "ghostel.el - Terminal emulator powered by libghostty",
       "https://dakra.github.io/ghostel/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 06:40:15",
-      "https://lobste.rs/s/2vsvdm/proportional_web"
-    ],
-    [
-      "The Proportional Web",
-      "https://owickstrom.github.io/the-proportional-web/"
     ]
   ]
 ]
