@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
 * [2026-07-13, 21:28:36](https://lobste.rs/s/opbq6q/adding_second_middleware_broke_our) - [Adding a second middleware broke our typescript types](https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types)
+* [2026-07-13, 20:47:40](https://lobste.rs/s/048t8w/tftp_honey_pot_results) - [TFTP Honey pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
 * [2026-07-13, 18:51:54](https://lobste.rs/s/kwesh9/freebsod_leveraging_language_models) - [FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 2 of 2)](https://www.praetorian.com/blog/llm-kernel-exploit-development/)
 * [2026-07-13, 18:50:43](https://lobste.rs/s/jhdesh/freebsod_leveraging_language_models) - [FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 1 of 2)](https://www.praetorian.com/blog/ai-vulnerability-research-freebsd-kernel/)
