@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-13, 07:15:47",
+      "https://lobste.rs/s/uoiw3u/introducing_bobbin_diskless_api_only"
+    ],
+    [
+      "Introducing Bobbin: A diskless, API-only AppView for Tangled",
+      "https://blog.tangled.org/bobbin/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 06:55:28",
+      "https://lobste.rs/s/temfk6/wwdc_27_update_on_building_mac_assed_app"
+    ],
+    [
+      "A WWDC 27 Update on Building a Mac-assed App with SwiftUI",
+      "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 06:40:36",
+      "https://lobste.rs/s/sca1qx/hacker_fables_satirical_cyberpunk"
+    ],
+    [
+      "Hacker Fables - A satirical cyberpunk novella you can read as a man page",
+      "https://hacker-fables.onrender.com"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 04:33:23",
       "https://lobste.rs/s/zzhzsp/efficient_deterministic_simulation"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-07-12, 10:50:03",
-      "https://lobste.rs/s/axamxi/hacking_apple_sql_injection_remote_code"
-    ],
-    [
-      "Hacking Apple - SQL Injection to Remote Code Execution",
-      "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 09:07:07",
       "https://lobste.rs/s/shajxh/data_directed_programming_haskell_sicp2"
     ],
@@ -157,16 +177,6 @@
     [
       "The Proportional Web",
       "https://owickstrom.github.io/the-proportional-web/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 03:36:08",
-      "https://lobste.rs/s/wsw7tq/agent_100_lines_lisp"
-    ],
-    [
-      "An Agent in 100 Lines of Lisp",
-      "https://thebeach.dev/posts/lisp-agent/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Good Tools Are Invisible",
       "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 23:02:53",
-      "https://lobste.rs/s/kpaxih/update_on_scraper_situation"
-    ],
-    [
-      "An update on the scraper situation",
-      "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
     ]
   ]
 ]
