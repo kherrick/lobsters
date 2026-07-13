@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-13, 18:51:54",
+      "https://lobste.rs/s/kwesh9/freebsod_leveraging_language_models"
+    ],
+    [
+      "FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 2 of 2)",
+      "https://www.praetorian.com/blog/llm-kernel-exploit-development/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 18:50:43",
+      "https://lobste.rs/s/jhdesh/freebsod_leveraging_language_models"
+    ],
+    [
+      "FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 1 of 2)",
+      "https://www.praetorian.com/blog/ai-vulnerability-research-freebsd-kernel/"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 17:59:47",
       "https://lobste.rs/s/lzls6z/go_flavored_concurrency_c"
     ],
@@ -227,26 +247,6 @@
     [
       "The Proportional Web",
       "https://owickstrom.github.io/the-proportional-web/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 02:34:31",
-      "https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop"
-    ],
-    [
-      "Who does Anubis actually stop?",
-      "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 21:05:50",
-      "https://lobste.rs/s/tedtzz/where_did_my_segfault_go"
-    ],
-    [
-      "Where did my segfault go?",
-      "https://rmpr.xyz/Where-did-my-segfault-go/"
     ]
   ]
 ]
