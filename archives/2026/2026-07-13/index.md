@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 18:51:54](https://lobste.rs/s/kwesh9/freebsod_leveraging_language_models) - [FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 2 of 2)](https://www.praetorian.com/blog/llm-kernel-exploit-development/)
+* [2026-07-13, 18:50:43](https://lobste.rs/s/jhdesh/freebsod_leveraging_language_models) - [FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 1 of 2)](https://www.praetorian.com/blog/ai-vulnerability-research-freebsd-kernel/)
 * [2026-07-13, 17:59:47](https://lobste.rs/s/lzls6z/go_flavored_concurrency_c) - [Go-flavored concurrency in C](https://antonz.org/concurrency-in-c/)
 * [2026-07-13, 16:18:36](https://lobste.rs/s/t0aqzy/human_emacs) - [Human Emacs](https://human-emacs.org/)
 * [2026-07-13, 16:01:28](https://lobste.rs/s/yf6vbc/just_let_me_write_digits) - [Just Let Me Write Digits](https://gendignoux.com/blog/2026/07/13/input-digits.html)
