@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-13, 00:16:59",
+      "https://lobste.rs/s/feikm9/overhauled_homelab"
+    ],
+    [
+      "Overhauled homelab",
+      "https://timharek.no/blog/kaizen-4/"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 22:51:30",
       "https://lobste.rs/s/x1a86b/make_it_right_next_steps_with_ctran"
     ],
@@ -177,16 +187,6 @@
     [
       "reaction: A daemon that scans program outputs for repeated patterns, and takes action",
       "https://framagit.org/ppom/reaction"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 01:01:33",
-      "https://lobste.rs/s/q4fx6x/odyssey_linux"
-    ],
-    [
-      "Odyssey Linux",
-      "https://odysseylinux.org/"
     ]
   ],
   [
