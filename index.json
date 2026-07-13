@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2026-07-13, 18:51:54",
-      "https://lobste.rs/s/kwesh9/freebsod_leveraging_language_models"
-    ],
-    [
-      "FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 2 of 2)",
-      "https://www.praetorian.com/blog/llm-kernel-exploit-development/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 18:50:43",
-      "https://lobste.rs/s/jhdesh/freebsod_leveraging_language_models"
-    ],
-    [
-      "FreeBSoD: Leveraging Language Models to Find and Exploit Kernel Bugs (Part 1 of 2)",
-      "https://www.praetorian.com/blog/ai-vulnerability-research-freebsd-kernel/"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 18:47:11",
       "https://lobste.rs/s/shzox9/farewell_arps_ipv4_service_on_ipv6_only"
     ],
@@ -67,16 +47,6 @@
     [
       "Just Let Me Write Digits",
       "https://gendignoux.com/blog/2026/07/13/input-digits.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 15:35:04",
-      "https://lobste.rs/s/5t3wzn/control_ideas_not_code"
-    ],
-    [
-      "Control the ideas, not the code",
-      "https://antirez.com/news/169"
     ]
   ],
   [
@@ -221,16 +191,6 @@
   ],
   [
     [
-      "2026-07-12, 22:12:06",
-      "https://lobste.rs/s/7ke9cs/know_thine_enemy_critical_engagement"
-    ],
-    [
-      "Know thine enemy: A critical engagement with AI-assisted software development",
-      "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 18:58:31",
       "https://lobste.rs/s/7840ca/closing_three_year_old_issue_using_rust"
     ],
@@ -247,6 +207,46 @@
     [
       "Evan's Jujutsu Tutorial",
       "https://evmar.github.io/jjtut/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 12:18:13",
+      "https://lobste.rs/s/xgdsao/ghostel_el_terminal_emulator_powered_by"
+    ],
+    [
+      "ghostel.el - Terminal emulator powered by libghostty",
+      "https://dakra.github.io/ghostel/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 06:40:15",
+      "https://lobste.rs/s/2vsvdm/proportional_web"
+    ],
+    [
+      "The Proportional Web",
+      "https://owickstrom.github.io/the-proportional-web/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 02:34:31",
+      "https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop"
+    ],
+    [
+      "Who does Anubis actually stop?",
+      "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 21:05:50",
+      "https://lobste.rs/s/tedtzz/where_did_my_segfault_go"
+    ],
+    [
+      "Where did my segfault go?",
+      "https://rmpr.xyz/Where-did-my-segfault-go/"
     ]
   ]
 ]
