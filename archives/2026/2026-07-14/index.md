@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 07:49:04](https://lobste.rs/s/k3frwc/job_queues_are_deceptively_tricky) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
 * [2026-07-14, 05:33:11](https://lobste.rs/s/jfx8do/collection_clock_designs) - [Collection of clock designs](https://clocks.dev)
 * [2026-07-14, 03:21:08](https://lobste.rs/s/tb3el5/git_history_command_deserves_more) - [The git history command deserves more attention](https://lalitm.com/post/git-history/)
 * [2026-07-14, 02:29:52](https://lobste.rs/s/xngweb/from_coder_curator) - [From coder to curator](https://staltz.com/from-coder-to-curator)
