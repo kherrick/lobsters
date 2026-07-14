@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-14, 08:45:13](https://lobste.rs/s/nprldj/git_absorb_git_commit_fixup_automatic) - [git-absorb: git commit --fixup, but automatic](https://github.com/tummychow/git-absorb)
 * [2026-07-14, 07:49:04](https://lobste.rs/s/k3frwc/job_queues_are_deceptively_tricky) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
 * [2026-07-14, 05:33:11](https://lobste.rs/s/jfx8do/collection_clock_designs) - [Collection of clock designs](https://clocks.dev)
 * [2026-07-14, 03:21:08](https://lobste.rs/s/tb3el5/git_history_command_deserves_more) - [The git history command deserves more attention](https://lalitm.com/post/git-history/)
 * [2026-07-14, 02:29:52](https://lobste.rs/s/xngweb/from_coder_curator) - [From coder to curator](https://staltz.com/from-coder-to-curator)
 * [2026-07-14, 01:15:04](https://lobste.rs/s/nszzsn/fred_text_editor_uses_c_for_everything) - [fred: A text editor that uses C for everything](https://www.youtube.com/watch?v=xz5aPCRxsv4)
-* [2026-07-14, 01:00:53](https://lobste.rs/s/jvvfbe/css_dos_computer_made_css) - [CSS-DOS — A computer made of CSS](https://css-dos.ahmedamer.co.uk/)
 * [2026-07-13, 23:43:15](https://lobste.rs/s/rtegvw/estimating_heights_new_yorkers_from) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
 * [2026-07-13, 21:43:24](https://lobste.rs/s/v3avrp/should_libraries_log_propagate_errors) - [Should Libraries Log or Propagate Errors?](https://lobste.rs/s/v3avrp/should_libraries_log_propagate_errors)
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
