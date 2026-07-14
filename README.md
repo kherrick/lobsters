@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-13, 23:43:15](https://lobste.rs/s/rtegvw/estimating_heights_new_yorkers_from) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
+* [2026-07-13, 21:43:24](https://lobste.rs/s/v3avrp/should_libraries_log_propagate_errors) - [Should Libraries Log or Propagate Errors?](https://lobste.rs/s/v3avrp/should_libraries_log_propagate_errors)
 * [2026-07-13, 21:28:36](https://lobste.rs/s/opbq6q/adding_second_middleware_broke_our) - [Adding a second middleware broke our typescript types](https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types)
-* [2026-07-13, 20:47:40](https://lobste.rs/s/048t8w/tftp_honey_pot_results) - [TFTP Honey pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
 * [2026-07-13, 18:47:11](https://lobste.rs/s/shzox9/farewell_arps_ipv4_service_on_ipv6_only) - [A Farewell to ARPs: IPv4 Service on IPv6-Only Networks](https://labs.ripe.net/author/remco-van-mook/a-farewell-to-arps-ipv4-service-on-ipv6-only-networks/)
 * [2026-07-13, 17:59:47](https://lobste.rs/s/lzls6z/go_flavored_concurrency_c) - [Go-flavored concurrency in C](https://antonz.org/concurrency-in-c/)
