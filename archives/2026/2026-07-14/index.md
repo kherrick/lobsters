@@ -6,6 +6,7 @@
 
 * [2026-07-14, 17:00:52](https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you) - [whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do](https://github.com/darrylmorley/whatcable)
 * [2026-07-14, 16:56:25](https://lobste.rs/s/in1oer/temper_language) - [Temper Language](https://temperlang.dev/)
+* [2026-07-14, 16:47:18](https://lobste.rs/s/k3xjvf/hypervisor_less_denuvo_bypass_for_linux) - [A Hypervisor(-less) Denuvo bypass for Linux](https://cs.rin.ru/forum/viewtopic.php?f=10&t=159989)
 * [2026-07-14, 16:35:18](https://lobste.rs/s/86lwsv/too_many_words_about_dids) - [Too many words about DIDs](https://steveklabnik.com/writing/too-many-words-about-dids/)
 * [2026-07-14, 16:00:52](https://lobste.rs/s/2gbb6l/how_my_images_are_dithered) - [How my images are dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-14, 13:46:32](https://lobste.rs/s/ucn4uw/openqa_testing_kde_linux) - [openQA Testing in KDE Linux](https://blogs.kde.org/2026/07/13/openqa-testing-in-kde-linux/)

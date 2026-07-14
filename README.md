@@ -2,6 +2,7 @@
 
 * [2026-07-14, 17:00:52](https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you) - [whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do](https://github.com/darrylmorley/whatcable)
 * [2026-07-14, 16:56:25](https://lobste.rs/s/in1oer/temper_language) - [Temper Language](https://temperlang.dev/)
+* [2026-07-14, 16:47:18](https://lobste.rs/s/k3xjvf/hypervisor_less_denuvo_bypass_for_linux) - [A Hypervisor(-less) Denuvo bypass for Linux](https://cs.rin.ru/forum/viewtopic.php?f=10&t=159989)
 * [2026-07-14, 16:35:18](https://lobste.rs/s/86lwsv/too_many_words_about_dids) - [Too many words about DIDs](https://steveklabnik.com/writing/too-many-words-about-dids/)
 * [2026-07-14, 16:00:52](https://lobste.rs/s/2gbb6l/how_my_images_are_dithered) - [How my images are dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-14, 13:46:32](https://lobste.rs/s/ucn4uw/openqa_testing_kde_linux) - [openQA Testing in KDE Linux](https://blogs.kde.org/2026/07/13/openqa-testing-in-kde-linux/)
@@ -16,7 +17,6 @@
 * [2026-07-14, 03:21:08](https://lobste.rs/s/tb3el5/git_history_command_deserves_more) - [The git history command deserves more attention](https://lalitm.com/post/git-history/)
 * [2026-07-14, 01:15:04](https://lobste.rs/s/nszzsn/fred_text_editor_uses_c_for_everything) - [fred: A text editor that uses C for everything](https://www.youtube.com/watch?v=xz5aPCRxsv4)
 * [2026-07-13, 23:43:15](https://lobste.rs/s/rtegvw/estimating_heights_new_yorkers_from) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
-* [2026-07-13, 21:43:24](https://lobste.rs/s/v3avrp/should_libraries_log_propagate_errors) - [Should Libraries Log or Propagate Errors?](https://lobste.rs/s/v3avrp/should_libraries_log_propagate_errors)
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
 * [2026-07-13, 16:18:36](https://lobste.rs/s/t0aqzy/human_emacs) - [Human Emacs](https://human-emacs.org/)
 * [2026-07-13, 16:01:28](https://lobste.rs/s/yf6vbc/just_let_me_write_digits) - [Just Let Me Write Digits](https://gendignoux.com/blog/2026/07/13/input-digits.html)
