@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 16:00:52](https://lobste.rs/s/2gbb6l/how_my_images_are_dithered) - [How my images are dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-14, 13:46:32](https://lobste.rs/s/ucn4uw/openqa_testing_kde_linux) - [openQA Testing in KDE Linux](https://blogs.kde.org/2026/07/13/openqa-testing-in-kde-linux/)
 * [2026-07-14, 13:46:17](https://lobste.rs/s/yosaol/kommit_ing_icon) - [Kommit-ing to a icon](https://nuno-icons.com/2026/07/13/kommit-ing-to-a-icon/)
 * [2026-07-14, 12:58:55](https://lobste.rs/s/6f2tzk/beautiful_type_erasure_with_c_26) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
