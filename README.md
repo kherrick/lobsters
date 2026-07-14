@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-14, 13:46:32](https://lobste.rs/s/ucn4uw/openqa_testing_kde_linux) - [openQA Testing in KDE Linux](https://blogs.kde.org/2026/07/13/openqa-testing-in-kde-linux/)
+* [2026-07-14, 13:46:17](https://lobste.rs/s/yosaol/kommit_ing_icon) - [Kommit-ing to a icon](https://nuno-icons.com/2026/07/13/kommit-ing-to-a-icon/)
 * [2026-07-14, 12:58:55](https://lobste.rs/s/6f2tzk/beautiful_type_erasure_with_c_26) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
-* [2026-07-14, 12:56:11](https://lobste.rs/s/uhzuf7/tensor_is_might) - [Tensor is the might](https://zserge.com/posts/tensor/)
 * [2026-07-14, 11:34:45](https://lobste.rs/s/el8ocy/hating_ai_2026) - [Hating AI in 2026](https://www.eamoncaddigan.net/posts/ai-in-2026/)
 * [2026-07-14, 11:31:30](https://lobste.rs/s/czbhmr/6x_faster_binary_search_from_compiled) - [6× faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
 * [2026-07-14, 09:24:36](https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
@@ -24,7 +25,6 @@
 * [2026-07-13, 11:33:27](https://lobste.rs/s/posxmd/crates_io_development_update) - [crates.io: development update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/)
 * [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
 * [2026-07-12, 18:58:31](https://lobste.rs/s/7840ca/closing_three_year_old_issue_using_rust) - [Closing a three-year-old issue using Rust arenas](https://giacomocavalieri.me/writing/gleam-rust-arenas)
-* [2026-07-12, 15:19:32](https://lobste.rs/s/beqyuc/evan_s_jujutsu_tutorial) - [Evan's Jujutsu Tutorial](https://evmar.github.io/jjtut/)
 
 ## [Archives](archives/index.md)
 
