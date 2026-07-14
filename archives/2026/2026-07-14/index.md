@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 22:02:25](https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart) - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
+* [2026-07-14, 21:47:07](https://lobste.rs/s/h7pett/qr_swastika_avoider_v0_1_0) - [qr-swastika-avoider v0.1.0](https://crates.io/crates/qr-swastika-avoider)
 * [2026-07-14, 20:48:51](https://lobste.rs/s/b55q8b/native_inotify_freebsd) - [Native inotify in FreeBSD](https://klarasystems.com/articles/native-inotify-in-freebsd/)
 * [2026-07-14, 18:47:27](https://lobste.rs/s/s8tyov/trusty_boot_key_ventoy_alternative_for) - [A Trusty Boot Key (Ventoy Alternative), for Bastille Day](https://codeberg.org/aol/trusty-boot-key)
+* [2026-07-14, 18:42:51](https://lobste.rs/s/fvupsy/emacs_docs_modern_documentation_website) - [Emacs Docs: The modern documentation website Emacs deserves](https://emacsdocs.org)
 * [2026-07-14, 18:34:27](https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 18:31:07](https://lobste.rs/s/xkk9ja/verifiable_ai_inference) - [Verifiable AI inference](https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/)
 * [2026-07-14, 18:22:24](https://lobste.rs/s/kry4v6/on_keys_essences_performance) - [On keys, essences and performance](https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/)
