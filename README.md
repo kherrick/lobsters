@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-14, 01:15:04](https://lobste.rs/s/nszzsn/fred_text_editor_uses_c_for_everything) - [fred: A text editor that uses C for everything - Handmade Network Expo 2026](https://www.youtube.com/watch?v=xz5aPCRxsv4)
 * [2026-07-13, 23:43:15](https://lobste.rs/s/rtegvw/estimating_heights_new_yorkers_from) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
 * [2026-07-13, 21:43:24](https://lobste.rs/s/v3avrp/should_libraries_log_propagate_errors) - [Should Libraries Log or Propagate Errors?](https://lobste.rs/s/v3avrp/should_libraries_log_propagate_errors)
 * [2026-07-13, 21:28:36](https://lobste.rs/s/opbq6q/adding_second_middleware_broke_our) - [Adding a second middleware broke our typescript types](https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types)
@@ -11,7 +12,6 @@
 * [2026-07-13, 15:35:04](https://lobste.rs/s/5t3wzn/control_ideas_not_code) - [Control the ideas, not the code](https://antirez.com/news/169)
 * [2026-07-13, 15:29:25](https://lobste.rs/s/2q39ny/don_t_use_aria_label_on_static_text) - [Don’t Use aria-label on Static Text Elements (2024)](https://benmyers.dev/blog/dont-use-aria-label-on-static-text-elements/)
 * [2026-07-13, 15:23:52](https://lobste.rs/s/abza3v/how_early_sunos_did_diskless) - [How early SunOS did diskless workstations before NFS](https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS)
-* [2026-07-13, 14:48:34](https://lobste.rs/s/xwkpvf/how_organize_ruby_conference) - [How to Organize a Ruby Conference](https://guides.rubyevents.org/conferences/)
 * [2026-07-13, 13:20:01](https://lobste.rs/s/4smkjv/engineering_high_performance_parsers) - [Engineering High-Performance Parsers with Data-Oriented Design](https://arshad.fyi/writings/engineering-high-performance-parsers)
 * [2026-07-13, 11:33:27](https://lobste.rs/s/posxmd/crates_io_development_update) - [crates.io: development update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/)
 * [2026-07-13, 09:44:13](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week)
