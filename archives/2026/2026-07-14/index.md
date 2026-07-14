@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 09:24:36](https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 * [2026-07-14, 08:45:13](https://lobste.rs/s/nprldj/git_absorb_git_commit_fixup_automatic) - [git-absorb: git commit --fixup, but automatic](https://github.com/tummychow/git-absorb)
 * [2026-07-14, 07:49:04](https://lobste.rs/s/k3frwc/job_queues_are_deceptively_tricky) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
 * [2026-07-14, 05:33:11](https://lobste.rs/s/jfx8do/collection_clock_designs) - [Collection of clock designs](https://clocks.dev)
