@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-14, 11:31:30](https://lobste.rs/s/czbhmr/6x_faster_binary_search_from_compiled) - [6× faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
 * [2026-07-14, 09:24:36](https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 * [2026-07-14, 08:45:13](https://lobste.rs/s/nprldj/git_absorb_git_commit_fixup_automatic) - [git-absorb: git commit --fixup, but automatic](https://github.com/tummychow/git-absorb)
 * [2026-07-14, 07:49:04](https://lobste.rs/s/k3frwc/job_queues_are_deceptively_tricky) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
@@ -19,7 +20,6 @@
 * [2026-07-13, 13:20:01](https://lobste.rs/s/4smkjv/engineering_high_performance_parsers) - [Engineering High-Performance Parsers with Data-Oriented Design](https://arshad.fyi/writings/engineering-high-performance-parsers)
 * [2026-07-13, 11:33:27](https://lobste.rs/s/posxmd/crates_io_development_update) - [crates.io: development update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/)
 * [2026-07-13, 09:44:13](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week)
-* [2026-07-13, 09:28:38](https://lobste.rs/s/4rbnnj/ipv6_over_drainage_pipe) - [IPv6 over drainage pipe](https://chaos.social/@marble/116720125530089009)
 * [2026-07-13, 06:55:28](https://lobste.rs/s/temfk6/wwdc_26_update_on_building_mac_assed_app) - [A WWDC 26 Update on Building a Mac-assed App with SwiftUI](https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/)
 * [2026-07-13, 06:40:36](https://lobste.rs/s/sca1qx/hacker_fables_satirical_cyberpunk) - [Hacker Fables - A satirical cyberpunk novella you can read as a man page](https://hacker-fables.onrender.com)
 * [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
