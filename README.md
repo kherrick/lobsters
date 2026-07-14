@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-14, 12:12:01](https://lobste.rs/s/ououkk/is_x86_ready_ace_it) - [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it)
+* [2026-07-14, 12:58:55](https://lobste.rs/s/6f2tzk/beautiful_type_erasure_with_c_26) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
+* [2026-07-14, 12:56:11](https://lobste.rs/s/uhzuf7/tensor_is_might) - [Tensor is the might](https://zserge.com/posts/tensor/)
 * [2026-07-14, 11:34:45](https://lobste.rs/s/el8ocy/hating_ai_2026) - [Hating AI in 2026](https://www.eamoncaddigan.net/posts/ai-in-2026/)
 * [2026-07-14, 11:31:30](https://lobste.rs/s/czbhmr/6x_faster_binary_search_from_compiled) - [6× faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
 * [2026-07-14, 09:24:36](https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
@@ -21,7 +22,6 @@
 * [2026-07-13, 15:23:52](https://lobste.rs/s/abza3v/how_early_sunos_did_diskless) - [How early SunOS did diskless workstations before NFS](https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS)
 * [2026-07-13, 13:20:01](https://lobste.rs/s/4smkjv/engineering_high_performance_parsers) - [Engineering High-Performance Parsers with Data-Oriented Design](https://arshad.fyi/writings/engineering-high-performance-parsers)
 * [2026-07-13, 11:33:27](https://lobste.rs/s/posxmd/crates_io_development_update) - [crates.io: development update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/)
-* [2026-07-13, 09:44:13](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week)
 * [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
 * [2026-07-12, 18:58:31](https://lobste.rs/s/7840ca/closing_three_year_old_issue_using_rust) - [Closing a three-year-old issue using Rust arenas](https://giacomocavalieri.me/writing/gleam-rust-arenas)
 * [2026-07-12, 15:19:32](https://lobste.rs/s/beqyuc/evan_s_jujutsu_tutorial) - [Evan's Jujutsu Tutorial](https://evmar.github.io/jjtut/)
