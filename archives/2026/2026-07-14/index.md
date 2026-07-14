@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 18:31:07](https://lobste.rs/s/xkk9ja/verifiable_ai_inference) - [Verifiable AI inference](https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/)
+* [2026-07-14, 18:22:24](https://lobste.rs/s/kry4v6/on_keys_essences_performance) - [On keys, essences and performance](https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/)
+* [2026-07-14, 18:07:13](https://lobste.rs/s/pw5yuk/measuring_input_latency_on_linux_x11_vs) - [Measuring input latency on Linux: X11 vs Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 * [2026-07-14, 17:00:52](https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you) - [whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do](https://github.com/darrylmorley/whatcable)
 * [2026-07-14, 16:56:25](https://lobste.rs/s/in1oer/temper_language) - [Temper Language](https://temperlang.dev/)
 * [2026-07-14, 16:47:18](https://lobste.rs/s/k3xjvf/hypervisor_less_denuvo_bypass_for_linux) - [A Hypervisor(-less) Denuvo bypass for Linux](https://cs.rin.ru/forum/viewtopic.php?f=10&t=159989)
