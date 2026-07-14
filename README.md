@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-14, 20:48:51](https://lobste.rs/s/b55q8b/native_inotify_freebsd) - [Native inotify in FreeBSD](https://klarasystems.com/articles/native-inotify-in-freebsd/)
 * [2026-07-14, 18:47:27](https://lobste.rs/s/s8tyov/trusty_boot_key_ventoy_alternative_for) - [A Trusty Boot Key (Ventoy Alternative), for Bastille Day](https://codeberg.org/aol/trusty-boot-key)
 * [2026-07-14, 18:34:27](https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 18:31:07](https://lobste.rs/s/xkk9ja/verifiable_ai_inference) - [Verifiable AI inference](https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/)
@@ -7,7 +8,6 @@
 * [2026-07-14, 18:07:13](https://lobste.rs/s/pw5yuk/measuring_input_latency_on_linux_x11_vs) - [Measuring input latency on Linux: X11 vs Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 * [2026-07-14, 17:00:52](https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you) - [whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do](https://github.com/darrylmorley/whatcable)
 * [2026-07-14, 16:56:25](https://lobste.rs/s/in1oer/temper_language) - [Temper Language](https://temperlang.dev/)
-* [2026-07-14, 16:47:18](https://lobste.rs/s/k3xjvf/hypervisor_less_denuvo_bypass_for_linux) - [A Hypervisor(-less) Denuvo bypass for Linux](https://cs.rin.ru/forum/viewtopic.php?f=10&t=159989)
 * [2026-07-14, 16:35:18](https://lobste.rs/s/86lwsv/too_many_words_about_dids) - [Too many words about DIDs](https://steveklabnik.com/writing/too-many-words-about-dids/)
 * [2026-07-14, 16:00:52](https://lobste.rs/s/2gbb6l/how_my_images_are_dithered) - [How my images are dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-14, 12:58:55](https://lobste.rs/s/6f2tzk/beautiful_type_erasure_with_c_26) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
