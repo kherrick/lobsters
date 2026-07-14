@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-14, 16:35:18](https://lobste.rs/s/86lwsv/too_many_words_about_dids) - [Too many words about DIDs](https://steveklabnik.com/writing/too-many-words-about-dids/)
 * [2026-07-14, 16:00:52](https://lobste.rs/s/2gbb6l/how_my_images_are_dithered) - [How my images are dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-14, 13:46:32](https://lobste.rs/s/ucn4uw/openqa_testing_kde_linux) - [openQA Testing in KDE Linux](https://blogs.kde.org/2026/07/13/openqa-testing-in-kde-linux/)
 * [2026-07-14, 12:58:55](https://lobste.rs/s/6f2tzk/beautiful_type_erasure_with_c_26) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
@@ -24,7 +25,6 @@
 * [2026-07-13, 13:20:01](https://lobste.rs/s/4smkjv/engineering_high_performance_parsers) - [Engineering High-Performance Parsers with Data-Oriented Design](https://arshad.fyi/writings/engineering-high-performance-parsers)
 * [2026-07-13, 11:33:27](https://lobste.rs/s/posxmd/crates_io_development_update) - [crates.io: development update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/)
 * [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
-* [2026-07-12, 18:58:31](https://lobste.rs/s/7840ca/closing_three_year_old_issue_using_rust) - [Closing a three-year-old issue using Rust arenas](https://giacomocavalieri.me/writing/gleam-rust-arenas)
 
 ## [Archives](archives/index.md)
 
