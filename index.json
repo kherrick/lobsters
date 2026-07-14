@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-14, 12:12:01",
-      "https://lobste.rs/s/ououkk/is_x86_ready_ace_it"
+      "2026-07-14, 12:58:55",
+      "https://lobste.rs/s/6f2tzk/beautiful_type_erasure_with_c_26"
     ],
     [
-      "Is x86 ready to ACE it?",
-      "https://chipsandcheese.com/p/is-x86-ready-to-ace-it"
+      "Beautiful Type Erasure with C++26 Reflection",
+      "https://ryanjk5.github.io/posts/rjk-duck/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 12:56:11",
+      "https://lobste.rs/s/uhzuf7/tensor_is_might"
+    ],
+    [
+      "Tensor is the might",
+      "https://zserge.com/posts/tensor/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "crates.io: development update",
       "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 09:44:13",
-      "https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/ozcrd0/what_are_you_doing_this_week"
     ]
   ],
   [
