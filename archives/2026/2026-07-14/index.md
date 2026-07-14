@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 18:34:27](https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 18:31:07](https://lobste.rs/s/xkk9ja/verifiable_ai_inference) - [Verifiable AI inference](https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/)
 * [2026-07-14, 18:22:24](https://lobste.rs/s/kry4v6/on_keys_essences_performance) - [On keys, essences and performance](https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/)
 * [2026-07-14, 18:07:13](https://lobste.rs/s/pw5yuk/measuring_input_latency_on_linux_x11_vs) - [Measuring input latency on Linux: X11 vs Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)

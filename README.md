@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-14, 18:34:27](https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 18:31:07](https://lobste.rs/s/xkk9ja/verifiable_ai_inference) - [Verifiable AI inference](https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/)
 * [2026-07-14, 18:22:24](https://lobste.rs/s/kry4v6/on_keys_essences_performance) - [On keys, essences and performance](https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/)
 * [2026-07-14, 18:07:13](https://lobste.rs/s/pw5yuk/measuring_input_latency_on_linux_x11_vs) - [Measuring input latency on Linux: X11 vs Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
@@ -21,7 +22,6 @@
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
 * [2026-07-13, 16:18:36](https://lobste.rs/s/t0aqzy/human_emacs) - [Human Emacs](https://human-emacs.org/)
 * [2026-07-13, 16:01:28](https://lobste.rs/s/yf6vbc/just_let_me_write_digits) - [Just Let Me Write Digits](https://gendignoux.com/blog/2026/07/13/input-digits.html)
-* [2026-07-13, 15:35:04](https://lobste.rs/s/5t3wzn/control_ideas_not_code) - [Control the ideas, not the code](https://antirez.com/news/169)
 * [2026-07-13, 15:23:52](https://lobste.rs/s/abza3v/how_early_sunos_did_diskless) - [How early SunOS did diskless workstations before NFS](https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS)
 * [2026-07-13, 11:33:27](https://lobste.rs/s/posxmd/crates_io_development_update) - [crates.io: development update](https://blog.rust-lang.org/2026/07/13/crates-io-development-update/)
 * [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
