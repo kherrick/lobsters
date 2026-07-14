@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-14, 01:15:04",
+      "https://lobste.rs/s/nszzsn/fred_text_editor_uses_c_for_everything"
+    ],
+    [
+      "fred: A text editor that uses C for everything - Handmade Network Expo 2026",
+      "https://www.youtube.com/watch?v=xz5aPCRxsv4"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 23:43:15",
       "https://lobste.rs/s/rtegvw/estimating_heights_new_yorkers_from"
     ],
@@ -107,16 +117,6 @@
     [
       "How early SunOS did diskless workstations before NFS",
       "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 14:48:34",
-      "https://lobste.rs/s/xwkpvf/how_organize_ruby_conference"
-    ],
-    [
-      "How to Organize a Ruby Conference",
-      "https://guides.rubyevents.org/conferences/"
     ]
   ],
   [
