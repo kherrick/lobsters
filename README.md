@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-15, 02:13:19](https://lobste.rs/s/hkgxnm/low_resource_computing_2026) - [Low Resource Computing 2026](https://lrc.cs.dartmouth.edu/)
 * [2026-07-15, 00:34:39](https://lobste.rs/s/q5rxuc/modern_http_request) - [A modern HTTP request](https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/)
 * [2026-07-15, 00:11:45](https://lobste.rs/s/lelroo/memory_heist) - [The Memory Heist](https://ayush.digital/blog/the-memory-heist)
 * [2026-07-14, 22:19:13](https://lobste.rs/s/ipiook/generative_colors_with_css) - [Generative colors with CSS](https://gomakethings.com/articles/generative-colors-with-css/)
@@ -24,7 +25,6 @@
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
 * [2026-07-13, 16:18:36](https://lobste.rs/s/t0aqzy/human_emacs) - [Human Emacs](https://human-emacs.org/)
 * [2026-07-13, 16:01:28](https://lobste.rs/s/yf6vbc/just_let_me_write_digits) - [Just Let Me Write Digits](https://gendignoux.com/blog/2026/07/13/input-digits.html)
-* [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
 
 ## [Archives](archives/index.md)
 
