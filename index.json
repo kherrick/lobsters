@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-07-15, 00:34:39",
+      "https://lobste.rs/s/q5rxuc/modern_http_request"
+    ],
+    [
+      "A modern HTTP request",
+      "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 00:11:45",
       "https://lobste.rs/s/lelroo/memory_heist"
     ],
@@ -97,16 +107,6 @@
     [
       "qr-swastika-avoider v0.1.0",
       "https://crates.io/crates/qr-swastika-avoider"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 20:48:51",
-      "https://lobste.rs/s/b55q8b/native_inotify_freebsd"
-    ],
-    [
-      "Native inotify in FreeBSD",
-      "https://klarasystems.com/articles/native-inotify-in-freebsd/"
     ]
   ],
   [
