@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-15, 05:04:57",
-      "https://lobste.rs/s/upgpyq/c_strings_50_year_mistake"
-    ],
-    [
-      "C Strings: A 50-Year Mistake",
-      "https://longtran2904.substack.com/p/c-strings-a-50-year-mistake"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 04:30:14",
       "https://lobste.rs/s/s4qbwh/empathy_delight_mean_nothing_when"
     ],
@@ -77,6 +67,16 @@
     [
       "qr-swastika-avoider v0.1.0",
       "https://crates.io/crates/qr-swastika-avoider"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 20:48:51",
+      "https://lobste.rs/s/b55q8b/native_inotify_freebsd"
+    ],
+    [
+      "Native inotify in FreeBSD",
+      "https://klarasystems.com/articles/native-inotify-in-freebsd/"
     ]
   ],
   [
