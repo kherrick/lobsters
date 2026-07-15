@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 18:04:19](https://lobste.rs/s/k5ibd3/killing_coding_agent_slop_with) - [Killing Coding Agent Slop With Adversarial Self-Play](https://usetelos.ai/blog/killing-coding-agent-slop)
 * [2026-07-15, 15:36:16](https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
 * [2026-07-15, 14:46:41](https://lobste.rs/s/50s8qx/how_unionize_your_tech_workplace) - [How to unionize your tech workplace](https://www.computerworld.com/article/4192438/how-to-unionize-your-tech-workplace.html)
 * [2026-07-15, 14:12:05](https://lobste.rs/s/hquwey/inventing_eliza_how_first_chatbot_shaped) - [Inventing ELIZA - How the First Chatbot Shaped the Future of AI](https://mitpress.mit.edu/9780262052481/inventing-eliza/)
