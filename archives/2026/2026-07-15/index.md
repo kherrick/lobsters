@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
 * [2026-07-15, 21:06:48](https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth) - [AI Data Centers and the Concentration of Wealth](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html)
+* [2026-07-15, 20:05:53](https://lobste.rs/s/bvvwkf/third_party_app_stores_coming_google_play) - [Third-party app stores coming to Google Play next week as Epic settlement withdrawn](https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_editions) - [SQLite should have editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 19:24:42](https://lobste.rs/s/moh5zc/lab_6) - [Lab 6](https://lab6.com)

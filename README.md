@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-15, 21:06:48](https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth) - [AI Data Centers and the Concentration of Wealth](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html)
+* [2026-07-15, 20:05:53](https://lobste.rs/s/bvvwkf/third_party_app_stores_coming_google_play) - [Third-party app stores coming to Google Play next week as Epic settlement withdrawn](https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 18:04:19](https://lobste.rs/s/k5ibd3/killing_coding_agent_slop_with) - [Killing Coding Agent Slop With Adversarial Self-Play](https://usetelos.ai/blog/killing-coding-agent-slop)
 * [2026-07-15, 16:49:43](https://lobste.rs/s/6vsam1/your_ai_is_not_tool) - [Your AI Is Not a Tool](https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool)
@@ -24,7 +25,6 @@
 * [2026-07-14, 18:34:27](https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 17:00:52](https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you) - [whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do](https://github.com/darrylmorley/whatcable)
 * [2026-07-14, 16:35:18](https://lobste.rs/s/86lwsv/too_many_words_about_dids) - [Too many words about DIDs](https://steveklabnik.com/writing/too-many-words-about-dids/)
-* [2026-07-14, 09:24:36](https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 
 ## [Archives](archives/index.md)
 
