@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 12:57:21](https://lobste.rs/s/h1r6gc/comparing_obelisk_with_temporal_restate) - [Comparing Obelisk with Temporal and Restate](https://obeli.sk/blog/comparing-obelisk-temporal-restate/)
+* [2026-07-15, 12:28:27](https://lobste.rs/s/qrtxzl/bunch_stuff_i_used_not_know_about_k_r_c) - [a bunch of stuff i used to not know about K&R C](https://sebsite.pw/w/20260712-kandr.html)
+* [2026-07-15, 12:23:36](https://lobste.rs/s/tnlxmc/i_ve_been_thinking_about_null_pointers) - [i've been thinking about null pointers](https://sebsite.pw/w/20260715-null.html)
 * [2026-07-15, 12:21:33](https://lobste.rs/s/latr8d/tower_keeps_rising) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
 * [2026-07-15, 09:58:14](https://lobste.rs/s/6vevse/over_edge_2_0_microsoft_s_design_tactics) - [Over the Edge 2.0: Microsoft’s Design Tactics Still Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-2/)
 * [2026-07-15, 09:52:06](https://lobste.rs/s/8rjl7o/order_data_defaults_performance) - [The Order of Data: defaults, performance, determinism & paging](https://binaryigor.com/the-order-of-data.html)
