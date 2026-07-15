@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-15, 00:34:39",
+      "https://lobste.rs/s/q5rxuc/modern_http_request"
+    ],
+    [
+      "A modern HTTP request",
+      "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 00:11:45",
+      "https://lobste.rs/s/lelroo/memory_heist"
+    ],
+    [
+      "The Memory Heist",
+      "https://ayush.digital/blog/the-memory-heist"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 22:19:13",
+      "https://lobste.rs/s/ipiook/generative_colors_with_css"
+    ],
+    [
+      "Generative colors with CSS",
+      "https://gomakethings.com/articles/generative-colors-with-css/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 22:02:25",
       "https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2026-07-14, 18:42:51",
-      "https://lobste.rs/s/fvupsy/emacs_docs_modern_documentation_website"
-    ],
-    [
-      "Emacs Docs: The modern documentation website Emacs deserves",
-      "https://emacsdocs.org"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 18:34:27",
       "https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go"
     ],
@@ -87,16 +107,6 @@
     [
       "Temper Language",
       "https://temperlang.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 16:47:18",
-      "https://lobste.rs/s/k3xjvf/hypervisor_less_denuvo_bypass_for_linux"
-    ],
-    [
-      "A Hypervisor(-less) Denuvo bypass for Linux",
-      "https://cs.rin.ru/forum/viewtopic.php?f=10&t=159989"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Job queues are deceptively tricky",
       "https://typesanitizer.com/blog/job-queues.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 05:33:11",
-      "https://lobste.rs/s/jfx8do/collection_clock_designs"
-    ],
-    [
-      "Collection of clock designs",
-      "https://clocks.dev"
     ]
   ],
   [
