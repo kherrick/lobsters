@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-07-15, 12:21:33",
+      "https://lobste.rs/s/latr8d/tower_keeps_rising"
+    ],
+    [
+      "The Tower Keeps Rising",
+      "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 09:58:14",
       "https://lobste.rs/s/6vevse/over_edge_2_0_microsoft_s_design_tactics"
     ],
@@ -57,6 +67,16 @@
     [
       "The Order of Data: defaults, performance, determinism & paging",
       "https://binaryigor.com/the-order-of-data.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 08:00:02",
+      "https://lobste.rs/s/fxtvgm/clickhouse_rowbinary_when_your_library"
+    ],
+    [
+      "@clickhouse/rowbinary: when your library is also a parser compiler",
+      "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler"
     ]
   ],
   [
@@ -101,12 +121,22 @@
   ],
   [
     [
-      "2026-07-15, 00:34:39",
-      "https://lobste.rs/s/q5rxuc/modern_http_request"
+      "2026-07-15, 02:02:02",
+      "https://lobste.rs/s/vlr279/full_disclosure_arbitrary_code"
     ],
     [
-      "A modern HTTP request",
-      "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/"
+      "Full disclosure: Arbitrary code execution in Cursor",
+      "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 00:11:45",
+      "https://lobste.rs/s/lelroo/memory_heist"
+    ],
+    [
+      "The Memory Heist",
+      "https://ayush.digital/blog/the-memory-heist"
     ]
   ],
   [
@@ -151,12 +181,12 @@
   ],
   [
     [
-      "2026-07-14, 16:56:25",
-      "https://lobste.rs/s/in1oer/temper_language"
+      "2026-07-14, 17:00:52",
+      "https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you"
     ],
     [
-      "Temper Language",
-      "https://temperlang.dev/"
+      "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "https://github.com/darrylmorley/whatcable"
     ]
   ],
   [
@@ -167,16 +197,6 @@
     [
       "Too many words about DIDs",
       "https://steveklabnik.com/writing/too-many-words-about-dids/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 16:00:52",
-      "https://lobste.rs/s/2gbb6l/how_my_images_are_dithered"
-    ],
-    [
-      "How my images are dithered",
-      "https://dead.garden/blog/how-my-images-are-dithered.html"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Job queues are deceptively tricky",
       "https://typesanitizer.com/blog/job-queues.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 03:21:08",
-      "https://lobste.rs/s/tb3el5/git_history_command_deserves_more"
-    ],
-    [
-      "The git history command deserves more attention",
-      "https://lalitm.com/post/git-history/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 20:03:24",
-      "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite"
-    ],
-    [
-      "lobste.rs is now running on SQLite",
-      "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite"
     ]
   ],
   [
