@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-15, 12:57:21",
+      "https://lobste.rs/s/h1r6gc/comparing_obelisk_with_temporal_restate"
+    ],
+    [
+      "Comparing Obelisk with Temporal and Restate",
+      "https://obeli.sk/blog/comparing-obelisk-temporal-restate/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 12:28:27",
+      "https://lobste.rs/s/qrtxzl/bunch_stuff_i_used_not_know_about_k_r_c"
+    ],
+    [
+      "a bunch of stuff i used to not know about K&R C",
+      "https://sebsite.pw/w/20260712-kandr.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 12:23:36",
+      "https://lobste.rs/s/tnlxmc/i_ve_been_thinking_about_null_pointers"
+    ],
+    [
+      "i've been thinking about null pointers",
+      "https://sebsite.pw/w/20260715-null.html"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 12:21:33",
       "https://lobste.rs/s/latr8d/tower_keeps_rising"
     ],
@@ -17,6 +47,16 @@
     [
       "Over the Edge 2.0: Microsoft’s Design Tactics Still Undermine Browser Choice",
       "https://research.mozilla.org/browser-competition/over-the-edge-2/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 09:52:06",
+      "https://lobste.rs/s/8rjl7o/order_data_defaults_performance"
+    ],
+    [
+      "The Order of Data: defaults, performance, determinism & paging",
+      "https://binaryigor.com/the-order-of-data.html"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2026-07-15, 00:34:39",
-      "https://lobste.rs/s/q5rxuc/modern_http_request"
-    ],
-    [
-      "A modern HTTP request",
-      "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 00:11:45",
       "https://lobste.rs/s/lelroo/memory_heist"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-07-14, 16:56:25",
-      "https://lobste.rs/s/in1oer/temper_language"
-    ],
-    [
-      "Temper Language",
-      "https://temperlang.dev/"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 16:35:18",
       "https://lobste.rs/s/86lwsv/too_many_words_about_dids"
     ],
@@ -217,26 +237,6 @@
     [
       "Job queues are deceptively tricky",
       "https://typesanitizer.com/blog/job-queues.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 03:21:08",
-      "https://lobste.rs/s/tb3el5/git_history_command_deserves_more"
-    ],
-    [
-      "The git history command deserves more attention",
-      "https://lalitm.com/post/git-history/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 20:03:24",
-      "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite"
-    ],
-    [
-      "lobste.rs is now running on SQLite",
-      "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite"
     ]
   ],
   [
