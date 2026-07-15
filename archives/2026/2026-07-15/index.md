@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 09:58:14](https://lobste.rs/s/6vevse/over_edge_2_0_microsoft_s_design_tactics) - [Over the Edge 2.0: Microsoft’s Design Tactics Still Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-2/)
 * [2026-07-15, 09:52:06](https://lobste.rs/s/8rjl7o/order_data_defaults_performance) - [The Order of Data: defaults, performance, determinism & paging](https://binaryigor.com/the-order-of-data.html)
 * [2026-07-15, 08:00:02](https://lobste.rs/s/fxtvgm/clickhouse_rowbinary_when_your_library) - [@clickhouse/rowbinary: when your library is also a parser compiler](https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler)
 * [2026-07-15, 06:03:23](https://lobste.rs/s/knrrsr/how_c_20_improved_for_loop_syntax) - [How C++20 improved the for-loop syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)

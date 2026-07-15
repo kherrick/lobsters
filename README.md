@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-15, 09:58:14](https://lobste.rs/s/6vevse/over_edge_2_0_microsoft_s_design_tactics) - [Over the Edge 2.0: Microsoft’s Design Tactics Still Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-2/)
 * [2026-07-15, 09:52:06](https://lobste.rs/s/8rjl7o/order_data_defaults_performance) - [The Order of Data: defaults, performance, determinism & paging](https://binaryigor.com/the-order-of-data.html)
 * [2026-07-15, 08:00:02](https://lobste.rs/s/fxtvgm/clickhouse_rowbinary_when_your_library) - [@clickhouse/rowbinary: when your library is also a parser compiler](https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler)
 * [2026-07-15, 06:03:23](https://lobste.rs/s/knrrsr/how_c_20_improved_for_loop_syntax) - [How C++20 improved the for-loop syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)
@@ -17,7 +18,6 @@
 * [2026-07-14, 16:56:25](https://lobste.rs/s/in1oer/temper_language) - [Temper Language](https://temperlang.dev/)
 * [2026-07-14, 16:35:18](https://lobste.rs/s/86lwsv/too_many_words_about_dids) - [Too many words about DIDs](https://steveklabnik.com/writing/too-many-words-about-dids/)
 * [2026-07-14, 16:00:52](https://lobste.rs/s/2gbb6l/how_my_images_are_dithered) - [How my images are dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
-* [2026-07-14, 11:34:45](https://lobste.rs/s/el8ocy/hating_ai_2026) - [Hating AI in 2026](https://www.eamoncaddigan.net/posts/ai-in-2026/)
 * [2026-07-14, 11:31:30](https://lobste.rs/s/czbhmr/6x_faster_binary_search_from_compiled) - [6× faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
 * [2026-07-14, 09:24:36](https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 * [2026-07-14, 08:45:13](https://lobste.rs/s/nprldj/git_absorb_git_commit_fixup_automatic) - [git-absorb: git commit --fixup, but automatic](https://github.com/tummychow/git-absorb)
