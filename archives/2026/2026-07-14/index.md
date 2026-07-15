@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 22:19:13](https://lobste.rs/s/ipiook/generative_colors_with_css) - [Generative colors with CSS](https://gomakethings.com/articles/generative-colors-with-css/)
 * [2026-07-14, 22:02:25](https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart) - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
 * [2026-07-14, 21:47:07](https://lobste.rs/s/h7pett/qr_swastika_avoider_v0_1_0) - [qr-swastika-avoider v0.1.0](https://crates.io/crates/qr-swastika-avoider)
 * [2026-07-14, 20:48:51](https://lobste.rs/s/b55q8b/native_inotify_freebsd) - [Native inotify in FreeBSD](https://klarasystems.com/articles/native-inotify-in-freebsd/)
