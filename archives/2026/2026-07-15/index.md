@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 09:52:06](https://lobste.rs/s/8rjl7o/order_data_defaults_performance) - [The Order of Data: defaults, performance, determinism & paging](https://binaryigor.com/the-order-of-data.html)
 * [2026-07-15, 08:00:02](https://lobste.rs/s/fxtvgm/clickhouse_rowbinary_when_your_library) - [@clickhouse/rowbinary: when your library is also a parser compiler](https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler)
 * [2026-07-15, 06:03:23](https://lobste.rs/s/knrrsr/how_c_20_improved_for_loop_syntax) - [How C++20 improved the for-loop syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)
 * [2026-07-15, 05:04:57](https://lobste.rs/s/upgpyq/c_strings_50_year_mistake) - [C Strings: A 50-Year Mistake](https://longtran2904.substack.com/p/c-strings-a-50-year-mistake)
