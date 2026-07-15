@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 15:36:16](https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
 * [2026-07-15, 12:57:21](https://lobste.rs/s/h1r6gc/comparing_obelisk_with_temporal_restate) - [Comparing Obelisk with Temporal and Restate](https://obeli.sk/blog/comparing-obelisk-temporal-restate/)
 * [2026-07-15, 12:33:58](https://lobste.rs/s/n1cwdh/freebsd_16_retires_last_its_gpl_code_from) - [FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free)
 * [2026-07-15, 12:28:27](https://lobste.rs/s/qrtxzl/bunch_stuff_i_used_not_know_about_k_r_c) - [a bunch of stuff i used to not know about K&R C](https://sebsite.pw/w/20260712-kandr.html)
