@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-15, 15:36:16](https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
+* [2026-07-15, 14:46:41](https://lobste.rs/s/50s8qx/how_unionize_your_tech_workplace) - [How to unionize your tech workplace](https://www.computerworld.com/article/4192438/how-to-unionize-your-tech-workplace.html)
+* [2026-07-15, 14:12:05](https://lobste.rs/s/hquwey/inventing_eliza_how_first_chatbot_shaped) - [Inventing ELIZA - How the First Chatbot Shaped the Future of AI](https://mitpress.mit.edu/9780262052481/inventing-eliza/)
 * [2026-07-15, 12:57:21](https://lobste.rs/s/h1r6gc/comparing_obelisk_with_temporal_restate) - [Comparing Obelisk with Temporal and Restate](https://obeli.sk/blog/comparing-obelisk-temporal-restate/)
 * [2026-07-15, 12:33:58](https://lobste.rs/s/n1cwdh/freebsd_16_retires_last_its_gpl_code_from) - [FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free)
 * [2026-07-15, 12:28:27](https://lobste.rs/s/qrtxzl/bunch_stuff_i_used_not_know_about_k_r_c) - [a bunch of stuff i used to not know about K&R C](https://sebsite.pw/w/20260712-kandr.html)
@@ -23,8 +25,6 @@
 * [2026-07-14, 16:35:18](https://lobste.rs/s/86lwsv/too_many_words_about_dids) - [Too many words about DIDs](https://steveklabnik.com/writing/too-many-words-about-dids/)
 * [2026-07-14, 11:31:30](https://lobste.rs/s/czbhmr/6x_faster_binary_search_from_compiled) - [6× faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
 * [2026-07-14, 09:24:36](https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
-* [2026-07-14, 07:49:04](https://lobste.rs/s/k3frwc/job_queues_are_deceptively_tricky) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
-* [2026-07-13, 16:01:28](https://lobste.rs/s/yf6vbc/just_let_me_write_digits) - [Just Let Me Write Digits](https://gendignoux.com/blog/2026/07/13/input-digits.html)
 
 ## [Archives](archives/index.md)
 
