@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-15, 21:06:48](https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth) - [AI Data Centers and the Concentration of Wealth](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 18:04:19](https://lobste.rs/s/k5ibd3/killing_coding_agent_slop_with) - [Killing Coding Agent Slop With Adversarial Self-Play](https://usetelos.ai/blog/killing-coding-agent-slop)
 * [2026-07-15, 16:49:43](https://lobste.rs/s/6vsam1/your_ai_is_not_tool) - [Your AI Is Not a Tool](https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool)
@@ -12,7 +13,6 @@
 * [2026-07-15, 12:23:36](https://lobste.rs/s/tnlxmc/i_ve_been_thinking_about_null_pointers) - [i've been thinking about null pointers](https://sebsite.pw/w/20260715-null.html)
 * [2026-07-15, 12:21:33](https://lobste.rs/s/latr8d/tower_keeps_rising) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
 * [2026-07-15, 09:58:14](https://lobste.rs/s/6vevse/over_edge_2_0_microsoft_s_design_tactics) - [Over the Edge 2.0: Microsoft’s Design Tactics Still Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-2/)
-* [2026-07-15, 08:00:02](https://lobste.rs/s/fxtvgm/clickhouse_rowbinary_when_your_library) - [@clickhouse/rowbinary: when your library is also a parser compiler](https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler)
 * [2026-07-15, 06:03:23](https://lobste.rs/s/knrrsr/how_c_20_improved_for_loop_syntax) - [How C++20 improved the for-loop syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)
 * [2026-07-15, 05:04:57](https://lobste.rs/s/upgpyq/c_strings_50_year_mistake) - [C Strings: A 50-Year Mistake](https://longtran2904.substack.com/p/c-strings-a-50-year-mistake)
 * [2026-07-15, 04:30:14](https://lobste.rs/s/s4qbwh/empathy_delight_mean_nothing_when) - [Empathy and delight mean nothing when the software is disrespectful](https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful)
