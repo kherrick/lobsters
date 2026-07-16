@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-16, 09:29:56",
+      "https://lobste.rs/s/u6hawc/gecode_6_3_0_6_4_0_are_released"
+    ],
+    [
+      "Gecode 6.3.0 and 6.4.0 are released",
+      "https://zayenz.se/blog/post/gecode-6-3-and-6-4-released/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 09:29:06",
+      "https://lobste.rs/s/rvtn4v/guix_creating_package_from_binary"
+    ],
+    [
+      "Guix: creating a package from a binary",
+      "https://aloysberger.com/posts/guix-packaging-a-binary-as-a-guix-beginner.html"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 08:29:26",
       "https://lobste.rs/s/9b49zd/bring_modern_package_management_meson_s"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-07-15, 06:03:23",
-      "https://lobste.rs/s/knrrsr/how_c_20_improved_for_loop_syntax"
-    ],
-    [
-      "How C++20 improved the for-loop syntax",
-      "https://lzon.ca/posts/tips/cpp-for-range-init/"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 05:04:57",
       "https://lobste.rs/s/upgpyq/c_strings_50_year_mistake"
     ],
     [
       "C Strings: A 50-Year Mistake",
       "https://longtran2904.substack.com/p/c-strings-a-50-year-mistake"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 04:30:14",
-      "https://lobste.rs/s/s4qbwh/empathy_delight_mean_nothing_when"
-    ],
-    [
-      "Empathy and delight mean nothing when the software is disrespectful",
-      "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful"
     ]
   ],
   [
