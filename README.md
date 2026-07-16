@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-16, 18:38:03](https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits) - [We're Going to Make Out Like Bandits](https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/)
 * [2026-07-16, 16:43:15](https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 16:43:06](https://lobste.rs/s/sg1uyo/clj_refactor_el_4_0) - [clj-refactor.el 4.0](https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html)
 * [2026-07-16, 15:29:48](https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on) - [A novel computer Scrabble engine based on probability that performs at championship level (2021)](https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content)
@@ -19,7 +20,6 @@
 * [2026-07-16, 01:13:20](https://lobste.rs/s/0ae9j5/long_tail_work_left_until_activitypub_has) - [The Long Tail of Work Left Until ActivityPub Has E2EE](https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/)
 * [2026-07-15, 23:57:58](https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite) - [Detecting Full Table Scans With SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 * [2026-07-15, 22:57:15](https://lobste.rs/s/rnc3h4/abstracting_effects_with_continuations) - [Abstracting effects with continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
-* [2026-07-15, 21:06:48](https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth) - [AI Data Centers and the Concentration of Wealth](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 16:49:43](https://lobste.rs/s/6vsam1/your_ai_is_not_tool) - [Your AI Is Not a Tool](https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool)
 * [2026-07-15, 15:36:16](https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
