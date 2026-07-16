@@ -14,6 +14,7 @@
 * [2026-07-15, 19:33:11](https://lobste.rs/s/1mwfrn/elfuse_run_arm64_x86_64_linux_elf_binaries) - [elfuse: Run Arm64/x86-64 Linux ELF binaries on macOS Apple Silicon](https://github.com/sysprog21/elfuse)
 * [2026-07-15, 16:49:43](https://lobste.rs/s/6vsam1/your_ai_is_not_tool) - [Your AI Is Not a Tool](https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool)
 * [2026-07-15, 15:36:16](https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
+* [2026-07-15, 14:46:41](https://lobste.rs/s/50s8qx/how_unionize_your_tech_workplace) - [How to unionize your tech workplace](https://www.computerworld.com/article/4192438/how-to-unionize-your-tech-workplace.html)
 * [2026-07-15, 14:12:05](https://lobste.rs/s/hquwey/inventing_eliza_how_first_chatbot_shaped) - [Inventing ELIZA - How the First Chatbot Shaped the Future of AI](https://mitpress.mit.edu/9780262052481/inventing-eliza/)
 * [2026-07-15, 12:33:58](https://lobste.rs/s/n1cwdh/freebsd_16_retires_last_its_gpl_code_from) - [FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free)
 * [2026-07-15, 12:28:27](https://lobste.rs/s/qrtxzl/bunch_stuff_i_used_not_know_about_k_r_c) - [a bunch of stuff i used to not know about K&R C](https://sebsite.pw/w/20260712-kandr.html)
@@ -24,7 +25,6 @@
 * [2026-07-15, 05:04:57](https://lobste.rs/s/upgpyq/c_strings_50_year_mistake) - [C Strings: A 50-Year Mistake](https://longtran2904.substack.com/p/c-strings-a-50-year-mistake)
 * [2026-07-15, 04:30:14](https://lobste.rs/s/s4qbwh/empathy_delight_mean_nothing_when) - [Empathy and delight mean nothing when the software is disrespectful](https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful)
 * [2026-07-14, 22:02:25](https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart) - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
-* [2026-07-14, 21:47:07](https://lobste.rs/s/h7pett/qr_swastika_avoider_v0_1_0) - [qr-swastika-avoider v0.1.0](https://crates.io/crates/qr-swastika-avoider)
 
 ## [Archives](archives/index.md)
 
