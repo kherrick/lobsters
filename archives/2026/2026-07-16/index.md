@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 10:24:46](https://lobste.rs/s/ivguzs/what_memory_compiler_actually_means_from) - [What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling](https://thecloudlet.github.io/technical/compiler/memory-compiler/](https://thecloudlet.github.io/technical/compiler/memory-compiler/)
 * [2026-07-16, 10:01:50](https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available) - [Forgejo v16.0 is available](https://forgejo.org/2026-07-release-v16-0/)
 * [2026-07-16, 09:29:56](https://lobste.rs/s/u6hawc/gecode_6_3_0_6_4_0_are_released) - [Gecode 6.3.0 and 6.4.0 are released](https://zayenz.se/blog/post/gecode-6-3-and-6-4-released/)
 * [2026-07-16, 09:29:06](https://lobste.rs/s/rvtn4v/guix_creating_package_from_binary) - [Guix: creating a package from a binary](https://aloysberger.com/posts/guix-packaging-a-binary-as-a-guix-beginner.html)
+* [2026-07-16, 08:53:16](https://lobste.rs/s/ktzzry/day_whatsapp_goes_dark) - [The Day WhatsApp goes dark](https://マリウス.com/the-day-whatsapp-goes-dark/)
 * [2026-07-16, 08:29:26](https://lobste.rs/s/9b49zd/bring_modern_package_management_meson_s) - [Bring modern package management to Meson's native wrap ecosystem](https://collider.ee/1.5.1/)
 * [2026-07-16, 05:21:50](https://lobste.rs/s/pfz6dj/filtering_engine_db_for_unpropagated) - [A Filtering engine and DB for unpropagated kernel security patches](https://patchless.natey.sh)
 * [2026-07-16, 03:19:34](https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel) - [Linus Torvalds on LLM usage in kernel development](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
