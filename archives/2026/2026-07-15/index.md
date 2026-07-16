@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 23:57:58](https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite) - [Detecting Full Table Scans With SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 * [2026-07-15, 22:57:15](https://lobste.rs/s/rnc3h4/abstracting_effects_with_continuations) - [Abstracting effects with continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
+* [2026-07-15, 21:09:33](https://lobste.rs/s/v6ukog/tls_certificate_validation_on_linux) - [TLS Certificate Validation on Linux](https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/)
 * [2026-07-15, 21:06:48](https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth) - [AI Data Centers and the Concentration of Wealth](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html)
 * [2026-07-15, 20:05:53](https://lobste.rs/s/bvvwkf/third_party_app_stores_coming_google_play) - [Third-party app stores coming to Google Play next week as Epic settlement withdrawn](https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
