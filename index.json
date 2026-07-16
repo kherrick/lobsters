@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-15, 23:57:58",
+      "https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite"
+    ],
+    [
+      "Detecting Full Table Scans With SQLite",
+      "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 22:57:15",
       "https://lobste.rs/s/rnc3h4/abstracting_effects_with_continuations"
     ],
     [
       "Abstracting effects with continuations",
       "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 21:09:33",
+      "https://lobste.rs/s/v6ukog/tls_certificate_validation_on_linux"
+    ],
+    [
+      "TLS Certificate Validation on Linux",
+      "https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-15, 02:02:02",
-      "https://lobste.rs/s/vlr279/full_disclosure_arbitrary_code"
-    ],
-    [
-      "Full disclosure: Arbitrary code execution in Cursor",
-      "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 00:11:45",
       "https://lobste.rs/s/lelroo/memory_heist"
     ],
@@ -237,16 +247,6 @@
     [
       "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
       "https://github.com/darrylmorley/whatcable"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 16:35:18",
-      "https://lobste.rs/s/86lwsv/too_many_words_about_dids"
-    ],
-    [
-      "Too many words about DIDs",
-      "https://steveklabnik.com/writing/too-many-words-about-dids/"
     ]
   ]
 ]
