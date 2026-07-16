@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-16, 13:51:27](https://lobste.rs/s/wveduf/readme_not) - [README, not](https://blog.yossarian.net/2026/07/16/README-not)
 * [2026-07-16, 13:12:52](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux) - [What gdb frontend do you prefer (linux)](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux)
 * [2026-07-16, 13:01:06](https://lobste.rs/s/xdoavp/what_memory_compiler_actually_means_from) - [What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling](https://thecloudlet.github.io/technical/compiler/memory-compiler/)
+* [2026-07-16, 12:48:52](https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing) - [Why ML/OCaml are good for writing compilers](https://flint.cs.yale.edu/cs421/case-for-ml.html)
 * [2026-07-16, 12:38:10](https://lobste.rs/s/55rpwn/whoop_4_0_without_subscription) - [WHOOP 4.0 without a subscription](https://github.com/OpenStrap/edge)
 * [2026-07-16, 11:31:41](https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going) - [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 10:01:50](https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available) - [Forgejo v16.0 is available](https://forgejo.org/2026-07-release-v16-0/)
@@ -15,7 +17,6 @@
 * [2026-07-15, 23:57:58](https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite) - [Detecting Full Table Scans With SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 * [2026-07-15, 22:57:15](https://lobste.rs/s/rnc3h4/abstracting_effects_with_continuations) - [Abstracting effects with continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
 * [2026-07-15, 21:06:48](https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth) - [AI Data Centers and the Concentration of Wealth](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html)
-* [2026-07-15, 20:05:53](https://lobste.rs/s/bvvwkf/third_party_app_stores_coming_google_play) - [Third-party app stores coming to Google Play next week as Epic settlement withdrawn](https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 16:49:43](https://lobste.rs/s/6vsam1/your_ai_is_not_tool) - [Your AI Is Not a Tool](https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool)
 * [2026-07-15, 15:36:16](https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
@@ -23,7 +24,6 @@
 * [2026-07-15, 12:28:27](https://lobste.rs/s/qrtxzl/bunch_stuff_i_used_not_know_about_k_r_c) - [a bunch of stuff i used to not know about K&R C](https://sebsite.pw/w/20260712-kandr.html)
 * [2026-07-15, 12:23:36](https://lobste.rs/s/tnlxmc/i_ve_been_thinking_about_null_pointers) - [i've been thinking about null pointers](https://sebsite.pw/w/20260715-null.html)
 * [2026-07-15, 12:21:33](https://lobste.rs/s/latr8d/tower_keeps_rising) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
-* [2026-07-15, 05:04:57](https://lobste.rs/s/upgpyq/c_strings_50_year_mistake) - [C Strings: A 50-Year Mistake](https://longtran2904.substack.com/p/c-strings-a-50-year-mistake)
 * [2026-07-14, 22:02:25](https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart) - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
 
 ## [Archives](archives/index.md)

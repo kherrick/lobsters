@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 13:51:27](https://lobste.rs/s/wveduf/readme_not) - [README, not](https://blog.yossarian.net/2026/07/16/README-not)
 * [2026-07-16, 13:12:52](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux) - [What gdb frontend do you prefer (linux)](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux)
 * [2026-07-16, 13:01:06](https://lobste.rs/s/xdoavp/what_memory_compiler_actually_means_from) - [What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling](https://thecloudlet.github.io/technical/compiler/memory-compiler/)
+* [2026-07-16, 12:48:52](https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing) - [Why ML/OCaml are good for writing compilers](https://flint.cs.yale.edu/cs421/case-for-ml.html)
 * [2026-07-16, 12:38:10](https://lobste.rs/s/55rpwn/whoop_4_0_without_subscription) - [WHOOP 4.0 without a subscription](https://github.com/OpenStrap/edge)
 * [2026-07-16, 11:31:41](https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going) - [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 10:24:46](https://lobste.rs/s/ivguzs/what_memory_compiler_actually_means_from) - [What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling](https://thecloudlet.github.io/technical/compiler/memory-compiler/](https://thecloudlet.github.io/technical/compiler/memory-compiler/)
