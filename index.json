@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-16, 13:12:52",
+      "https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux"
+    ],
+    [
+      "What gdb frontend do you prefer (linux)",
+      "https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 13:01:06",
+      "https://lobste.rs/s/xdoavp/what_memory_compiler_actually_means_from"
+    ],
+    [
+      "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling",
+      "https://thecloudlet.github.io/technical/compiler/memory-compiler/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 12:38:10",
+      "https://lobste.rs/s/55rpwn/whoop_4_0_without_subscription"
+    ],
+    [
+      "WHOOP 4.0 without a subscription",
+      "https://github.com/OpenStrap/edge"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 11:31:41",
       "https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going"
     ],
@@ -17,16 +47,6 @@
     [
       "Forgejo v16.0 is available",
       "https://forgejo.org/2026-07-release-v16-0/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 09:29:56",
-      "https://lobste.rs/s/u6hawc/gecode_6_3_0_6_4_0_are_released"
-    ],
-    [
-      "Gecode 6.3.0 and 6.4.0 are released",
-      "https://zayenz.se/blog/post/gecode-6-3-and-6-4-released/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Bring modern package management to Meson's native wrap ecosystem",
       "https://collider.ee/1.5.1/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 05:21:50",
-      "https://lobste.rs/s/pfz6dj/filtering_engine_db_for_unpropagated"
-    ],
-    [
-      "A Filtering engine and DB for unpropagated kernel security patches",
-      "https://patchless.natey.sh"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-07-15, 21:09:33",
-      "https://lobste.rs/s/v6ukog/tls_certificate_validation_on_linux"
-    ],
-    [
-      "TLS Certificate Validation on Linux",
-      "https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 21:06:48",
       "https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth"
     ],
@@ -151,22 +151,22 @@
   ],
   [
     [
+      "2026-07-15, 20:05:53",
+      "https://lobste.rs/s/bvvwkf/third_party_app_stores_coming_google_play"
+    ],
+    [
+      "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+      "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 19:34:54",
       "https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions"
     ],
     [
       "SQLite should have (Rust-style) editions",
       "https://mort.coffee/home/sqlite-editions/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 19:33:11",
-      "https://lobste.rs/s/1mwfrn/elfuse_run_arm64_x86_64_linux_elf_binaries"
-    ],
-    [
-      "elfuse: Run Arm64/x86-64 Linux ELF binaries on macOS Apple Silicon",
-      "https://github.com/sysprog21/elfuse"
     ]
   ],
   [
