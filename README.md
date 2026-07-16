@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-16, 09:29:56](https://lobste.rs/s/u6hawc/gecode_6_3_0_6_4_0_are_released) - [Gecode 6.3.0 and 6.4.0 are released](https://zayenz.se/blog/post/gecode-6-3-and-6-4-released/)
+* [2026-07-16, 09:29:06](https://lobste.rs/s/rvtn4v/guix_creating_package_from_binary) - [Guix: creating a package from a binary](https://aloysberger.com/posts/guix-packaging-a-binary-as-a-guix-beginner.html)
 * [2026-07-16, 08:29:26](https://lobste.rs/s/9b49zd/bring_modern_package_management_meson_s) - [Bring modern package management to Meson's native wrap ecosystem](https://collider.ee/1.5.1/)
 * [2026-07-16, 05:21:50](https://lobste.rs/s/pfz6dj/filtering_engine_db_for_unpropagated) - [A Filtering engine and DB for unpropagated kernel security patches](https://patchless.natey.sh)
 * [2026-07-16, 03:19:34](https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel) - [Linus Torvalds on LLM usage in kernel development](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
@@ -21,9 +23,7 @@
 * [2026-07-15, 12:28:27](https://lobste.rs/s/qrtxzl/bunch_stuff_i_used_not_know_about_k_r_c) - [a bunch of stuff i used to not know about K&R C](https://sebsite.pw/w/20260712-kandr.html)
 * [2026-07-15, 12:23:36](https://lobste.rs/s/tnlxmc/i_ve_been_thinking_about_null_pointers) - [i've been thinking about null pointers](https://sebsite.pw/w/20260715-null.html)
 * [2026-07-15, 12:21:33](https://lobste.rs/s/latr8d/tower_keeps_rising) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
-* [2026-07-15, 06:03:23](https://lobste.rs/s/knrrsr/how_c_20_improved_for_loop_syntax) - [How C++20 improved the for-loop syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)
 * [2026-07-15, 05:04:57](https://lobste.rs/s/upgpyq/c_strings_50_year_mistake) - [C Strings: A 50-Year Mistake](https://longtran2904.substack.com/p/c-strings-a-50-year-mistake)
-* [2026-07-15, 04:30:14](https://lobste.rs/s/s4qbwh/empathy_delight_mean_nothing_when) - [Empathy and delight mean nothing when the software is disrespectful](https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful)
 * [2026-07-14, 22:02:25](https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart) - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
 
 ## [Archives](archives/index.md)
