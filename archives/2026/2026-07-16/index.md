@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 13:12:52](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux) - [What gdb frontend do you prefer (linux)](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux)
+* [2026-07-16, 13:01:06](https://lobste.rs/s/xdoavp/what_memory_compiler_actually_means_from) - [What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling](https://thecloudlet.github.io/technical/compiler/memory-compiler/)
+* [2026-07-16, 12:38:10](https://lobste.rs/s/55rpwn/whoop_4_0_without_subscription) - [WHOOP 4.0 without a subscription](https://github.com/OpenStrap/edge)
 * [2026-07-16, 11:31:41](https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going) - [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 10:24:46](https://lobste.rs/s/ivguzs/what_memory_compiler_actually_means_from) - [What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling](https://thecloudlet.github.io/technical/compiler/memory-compiler/](https://thecloudlet.github.io/technical/compiler/memory-compiler/)
 * [2026-07-16, 10:01:50](https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available) - [Forgejo v16.0 is available](https://forgejo.org/2026-07-release-v16-0/)
