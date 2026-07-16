@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 03:19:34](https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel) - [Linus Torvalds on LLM usage in kernel development](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
+* [2026-07-16, 02:55:49](https://lobste.rs/s/47h4yu/shape_apps) - [The Shape of Apps](https://parakeet.co/blog/the-shape-of-apps/)
 * [2026-07-16, 02:21:03](https://lobste.rs/s/etvwzv/dailyprog_puzzle_safety_net) - [The dailyprog puzzle safety net](https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/)
 * [2026-07-16, 01:52:28](https://lobste.rs/s/f3gpoi/g_modern_net_language_with_go_kotlin_swift) - [G# — A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)

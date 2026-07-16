@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-16, 03:19:34](https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel) - [Linus Torvalds on LLM usage in kernel development](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
+* [2026-07-16, 02:55:49](https://lobste.rs/s/47h4yu/shape_apps) - [The Shape of Apps](https://parakeet.co/blog/the-shape-of-apps/)
 * [2026-07-16, 02:21:03](https://lobste.rs/s/etvwzv/dailyprog_puzzle_safety_net) - [The dailyprog puzzle safety net](https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/)
-* [2026-07-16, 01:52:28](https://lobste.rs/s/f3gpoi/g_modern_net_language_with_go_kotlin_swift) - [G# — A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
 * [2026-07-15, 23:57:58](https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite) - [Detecting Full Table Scans With SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 * [2026-07-15, 22:57:15](https://lobste.rs/s/rnc3h4/abstracting_effects_with_continuations) - [Abstracting effects with continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
 * [2026-07-15, 21:09:33](https://lobste.rs/s/v6ukog/tls_certificate_validation_on_linux) - [TLS Certificate Validation on Linux](https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/)
@@ -11,7 +12,6 @@
 * [2026-07-15, 19:33:11](https://lobste.rs/s/1mwfrn/elfuse_run_arm64_x86_64_linux_elf_binaries) - [elfuse: Run Arm64/x86-64 Linux ELF binaries on macOS Apple Silicon](https://github.com/sysprog21/elfuse)
 * [2026-07-15, 16:49:43](https://lobste.rs/s/6vsam1/your_ai_is_not_tool) - [Your AI Is Not a Tool](https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool)
 * [2026-07-15, 15:36:16](https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
-* [2026-07-15, 14:46:41](https://lobste.rs/s/50s8qx/how_unionize_your_tech_workplace) - [How to unionize your tech workplace](https://www.computerworld.com/article/4192438/how-to-unionize-your-tech-workplace.html)
 * [2026-07-15, 14:12:05](https://lobste.rs/s/hquwey/inventing_eliza_how_first_chatbot_shaped) - [Inventing ELIZA - How the First Chatbot Shaped the Future of AI](https://mitpress.mit.edu/9780262052481/inventing-eliza/)
 * [2026-07-15, 12:57:21](https://lobste.rs/s/h1r6gc/comparing_obelisk_with_temporal_restate) - [Comparing Obelisk with Temporal and Restate](https://obeli.sk/blog/comparing-obelisk-temporal-restate/)
 * [2026-07-15, 12:33:58](https://lobste.rs/s/n1cwdh/freebsd_16_retires_last_its_gpl_code_from) - [FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free)
