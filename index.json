@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-16, 02:21:03",
+      "https://lobste.rs/s/etvwzv/dailyprog_puzzle_safety_net"
+    ],
+    [
+      "The dailyprog puzzle safety net",
+      "https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 01:52:28",
+      "https://lobste.rs/s/f3gpoi/g_modern_net_language_with_go_kotlin_swift"
+    ],
+    [
+      "G# — A modern .NET language with Go, Kotlin, and Swift ergonomics",
+      "https://davidobando.github.io/gsharp/"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 23:57:58",
       "https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite"
     ],
@@ -67,16 +87,6 @@
     [
       "elfuse: Run Arm64/x86-64 Linux ELF binaries on macOS Apple Silicon",
       "https://github.com/sysprog21/elfuse"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 19:24:42",
-      "https://lobste.rs/s/moh5zc/lab_6"
-    ],
-    [
-      "Lab 6",
-      "https://lab6.com"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "qr-swastika-avoider v0.1.0",
       "https://crates.io/crates/qr-swastika-avoider"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 17:00:52",
-      "https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you"
-    ],
-    [
-      "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-      "https://github.com/darrylmorley/whatcable"
     ]
   ]
 ]
