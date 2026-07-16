@@ -10,6 +10,7 @@
 * [2026-07-16, 12:48:52](https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing) - [Why ML/OCaml are good for writing compilers](https://flint.cs.yale.edu/cs421/case-for-ml.html)
 * [2026-07-16, 12:38:10](https://lobste.rs/s/55rpwn/whoop_4_0_without_subscription) - [WHOOP 4.0 without a subscription](https://github.com/OpenStrap/edge)
 * [2026-07-16, 11:31:41](https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going) - [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig)
+* [2026-07-16, 11:27:04](https://lobste.rs/s/6wdufu/perldelta_what_is_new_for_perl_v5_44_0) - [perldelta - what is new for perl v5.44.0](https://metacpan.org/dist/perl/view/pod/perldelta.pod)
 * [2026-07-16, 10:24:46](https://lobste.rs/s/ivguzs/what_memory_compiler_actually_means_from) - [What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling](https://thecloudlet.github.io/technical/compiler/memory-compiler/](https://thecloudlet.github.io/technical/compiler/memory-compiler/)
 * [2026-07-16, 10:01:50](https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available) - [Forgejo v16.0 is available](https://forgejo.org/2026-07-release-v16-0/)
 * [2026-07-16, 09:29:56](https://lobste.rs/s/u6hawc/gecode_6_3_0_6_4_0_are_released) - [Gecode 6.3.0 and 6.4.0 are released](https://zayenz.se/blog/post/gecode-6-3-and-6-4-released/)
