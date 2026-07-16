@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 22:03:22](https://lobste.rs/s/y3qqzv/zilog_z80_has_turned_50) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 * [2026-07-16, 18:38:03](https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits) - [We're Going to Make Out Like Bandits](https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/)
 * [2026-07-16, 16:43:15](https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 16:43:06](https://lobste.rs/s/sg1uyo/clj_refactor_el_4_0) - [clj-refactor.el 4.0](https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html)
