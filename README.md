@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-16, 02:21:03](https://lobste.rs/s/etvwzv/dailyprog_puzzle_safety_net) - [The dailyprog puzzle safety net](https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/)
+* [2026-07-16, 01:52:28](https://lobste.rs/s/f3gpoi/g_modern_net_language_with_go_kotlin_swift) - [G# — A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
 * [2026-07-15, 23:57:58](https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite) - [Detecting Full Table Scans With SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 * [2026-07-15, 22:57:15](https://lobste.rs/s/rnc3h4/abstracting_effects_with_continuations) - [Abstracting effects with continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
 * [2026-07-15, 21:09:33](https://lobste.rs/s/v6ukog/tls_certificate_validation_on_linux) - [TLS Certificate Validation on Linux](https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/)
@@ -7,7 +9,6 @@
 * [2026-07-15, 20:05:53](https://lobste.rs/s/bvvwkf/third_party_app_stores_coming_google_play) - [Third-party app stores coming to Google Play next week as Epic settlement withdrawn](https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 19:33:11](https://lobste.rs/s/1mwfrn/elfuse_run_arm64_x86_64_linux_elf_binaries) - [elfuse: Run Arm64/x86-64 Linux ELF binaries on macOS Apple Silicon](https://github.com/sysprog21/elfuse)
-* [2026-07-15, 19:24:42](https://lobste.rs/s/moh5zc/lab_6) - [Lab 6](https://lab6.com)
 * [2026-07-15, 16:49:43](https://lobste.rs/s/6vsam1/your_ai_is_not_tool) - [Your AI Is Not a Tool](https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool)
 * [2026-07-15, 15:36:16](https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
 * [2026-07-15, 14:46:41](https://lobste.rs/s/50s8qx/how_unionize_your_tech_workplace) - [How to unionize your tech workplace](https://www.computerworld.com/article/4192438/how-to-unionize-your-tech-workplace.html)
@@ -24,7 +25,6 @@
 * [2026-07-15, 02:13:19](https://lobste.rs/s/hkgxnm/low_resource_computing_2026) - [Low Resource Computing 2026](https://lrc.cs.dartmouth.edu/)
 * [2026-07-14, 22:02:25](https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart) - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
 * [2026-07-14, 21:47:07](https://lobste.rs/s/h7pett/qr_swastika_avoider_v0_1_0) - [qr-swastika-avoider v0.1.0](https://crates.io/crates/qr-swastika-avoider)
-* [2026-07-14, 17:00:52](https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you) - [whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do](https://github.com/darrylmorley/whatcable)
 
 ## [Archives](archives/index.md)
 
