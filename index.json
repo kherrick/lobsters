@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-17, 02:40:50",
+      "https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote"
+    ],
+    [
+      "Earth Rotation Records Spur October Vote to Avert Negative Leap Second",
+      "https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 02:23:49",
+      "https://lobste.rs/s/fftxis/stop_guard_act_age_verification_laws"
+    ],
+    [
+      "Stop the GUARD Act and age verification laws worldwide — Free Software Foundation — Working together for free software",
+      "https://www.fsf.org/blogs/community/stop-the-guard-act"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 01:37:41",
       "https://lobste.rs/s/fdsscq/using_gcc_s_nested_functions_with_wide"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-07-16, 08:29:26",
-      "https://lobste.rs/s/9b49zd/bring_modern_package_management_meson_s"
-    ],
-    [
-      "Bring modern package management to Meson's native wrap ecosystem",
-      "https://collider.ee/1.5.1/"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 07:28:41",
       "https://lobste.rs/s/nkrgcp/you_can_t_bug_fix_your_way_out"
     ],
@@ -237,16 +247,6 @@
     [
       "SQLite should have (Rust-style) editions",
       "https://mort.coffee/home/sqlite-editions/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 12:33:58",
-      "https://lobste.rs/s/n1cwdh/freebsd_16_retires_last_its_gpl_code_from"
-    ],
-    [
-      "FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System",
-      "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free"
     ]
   ]
 ]
