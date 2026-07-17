@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-17, 04:38:25",
+      "https://lobste.rs/s/agoj2o/country_draw"
+    ],
+    [
+      "Country Draw",
+      "https://country-draw.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 02:40:50",
       "https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote"
     ],
@@ -87,16 +97,6 @@
     [
       "We're building Postgres in Rust. Using the LLVM of databases",
       "https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 15:29:48",
-      "https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on"
-    ],
-    [
-      "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
-      "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content"
     ]
   ],
   [
