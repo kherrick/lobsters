@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-17, 02:40:50](https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote) - [Earth Rotation Records Spur October Vote to Avert Negative Leap Second](https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm)
+* [2026-07-17, 02:23:49](https://lobste.rs/s/fftxis/stop_guard_act_age_verification_laws) - [Stop the GUARD Act and age verification laws worldwide — Free Software Foundation — Working together for free software](https://www.fsf.org/blogs/community/stop-the-guard-act)
 * [2026-07-17, 01:37:41](https://lobste.rs/s/fdsscq/using_gcc_s_nested_functions_with_wide) - [Using GCC's Nested Functions with Wide Pointers and no Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
 * [2026-07-17, 00:18:37](https://lobste.rs/s/4dcp6w/here_s_how_i_host_my_own_aim_server) - [Here's how I host my own AIM server](https://veronicaexplains.net/open-oscar-server/)
 * [2026-07-16, 22:03:22](https://lobste.rs/s/y3qqzv/zilog_z80_has_turned_50) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
@@ -18,13 +20,11 @@
 * [2026-07-16, 11:27:04](https://lobste.rs/s/6wdufu/perldelta_what_is_new_for_perl_v5_44_0) - [perldelta - what is new for perl v5.44.0](https://metacpan.org/dist/perl/view/pod/perldelta.pod)
 * [2026-07-16, 10:01:50](https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available) - [Forgejo v16.0 is available](https://forgejo.org/2026-07-release-v16-0/)
 * [2026-07-16, 09:29:06](https://lobste.rs/s/rvtn4v/guix_creating_package_from_binary) - [Guix: creating a package from a binary](https://aloysberger.com/posts/guix-packaging-a-binary-as-a-guix-beginner.html)
-* [2026-07-16, 08:29:26](https://lobste.rs/s/9b49zd/bring_modern_package_management_meson_s) - [Bring modern package management to Meson's native wrap ecosystem](https://collider.ee/1.5.1/)
 * [2026-07-16, 07:28:41](https://lobste.rs/s/nkrgcp/you_can_t_bug_fix_your_way_out) - [You can't bug fix your way out of the vulnpocalypse](https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/)
 * [2026-07-16, 03:19:34](https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel) - [Linus Torvalds on LLM usage in kernel development](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
 * [2026-07-15, 23:57:58](https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite) - [Detecting Full Table Scans With SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 * [2026-07-15, 22:57:15](https://lobste.rs/s/rnc3h4/abstracting_effects_with_continuations) - [Abstracting effects with continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
-* [2026-07-15, 12:33:58](https://lobste.rs/s/n1cwdh/freebsd_16_retires_last_its_gpl_code_from) - [FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free)
 
 ## [Archives](archives/index.md)
 
