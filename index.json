@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-07-17, 04:38:25",
-      "https://lobste.rs/s/agoj2o/country_draw"
-    ],
-    [
-      "Country Draw",
-      "https://country-draw.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 02:40:50",
       "https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote"
     ],
@@ -207,6 +197,16 @@
     [
       "How Our Rust-to-Zig Rewrite is Going",
       "https://rtfeldman.com/rust-to-zig"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 11:27:04",
+      "https://lobste.rs/s/6wdufu/perldelta_what_is_new_for_perl_v5_44_0"
+    ],
+    [
+      "perldelta - what is new for perl v5.44.0",
+      "https://metacpan.org/dist/perl/view/pod/perldelta.pod"
     ]
   ],
   [
