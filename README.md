@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-17, 23:03:22](https://lobste.rs/s/jvg8cy/another_taste_verse) - [Another Taste of Verse](https://www.youtube.com/watch?v=QIiU-QGzcqc&list=PLQtDWkrawhsE&index=2)
 * [2026-07-17, 22:45:28](https://lobste.rs/s/zmg7ot/topcoat_batteries_included_framework) - [topcoat: A batteries-included framework for building web apps](https://github.com/tokio-rs/topcoat)
 * [2026-07-17, 21:51:07](https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b) - [Enterprise Haskell at H-E-B](https://blog.haskell.org/enterprise-haskell-at-h-e-b/)
 * [2026-07-17, 21:07:10](https://lobste.rs/s/grutu0/lobsters_interview_with_matheusmoreira) - [Lobsters Interview with matheusmoreira about Lone Lisp](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
 * [2026-07-17, 20:55:38](https://lobste.rs/s/31bikj/java_story_official_documentary) - [The Java Story | The Official Documentary](https://www.youtube.com/watch?v=ZqGSg4b_cZA)
-* [2026-07-17, 20:49:10](https://lobste.rs/s/dt908d/epistemic_parity_reproducibility_as) - [Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy](https://cacm.acm.org/research-highlights/epistemic-parity-reproducibility-as-an-evaluation-metric-for-differential-privacy/)
 * [2026-07-17, 19:54:44](https://lobste.rs/s/ryksor/learning_few_things_about_running_sqlite) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 19:53:06](https://lobste.rs/s/nwp3sm/faulty_towers_vibe_sickness_vibe_bobsled) - [Faulty Towers, vibe sickness, and the vibe bobsled](https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/)
 * [2026-07-17, 13:26:04](https://lobste.rs/s/gxjzgq/fedichat_comic_chat_for_fediverse) - [Fedichat - Comic Chat for the Fediverse](https://lambadalambda.github.io/fedichat/client.html)
