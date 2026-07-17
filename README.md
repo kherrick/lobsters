@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-17, 06:01:54](https://lobste.rs/s/6pdyiy/pact_anonymous_credentials_for_web) - [PACT: Anonymous Credentials for the Web – Mozilla Hacks](https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/)
 * [2026-07-17, 04:38:25](https://lobste.rs/s/agoj2o/country_draw) - [Country Draw](https://country-draw.vercel.app/)
 * [2026-07-17, 02:40:50](https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote) - [Earth Rotation Records Spur October Vote to Avert Negative Leap Second](https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm)
 * [2026-07-17, 02:23:49](https://lobste.rs/s/fftxis/stop_guard_act_age_verification_laws) - [Stop the GUARD Act and age verification laws worldwide](https://www.fsf.org/blogs/community/stop-the-guard-act)
@@ -15,7 +16,6 @@
 * [2026-07-16, 13:12:52](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux) - [What gdb frontend do you prefer (linux)](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux)
 * [2026-07-16, 13:01:06](https://lobste.rs/s/xdoavp/what_memory_compiler_actually_means_from) - [What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling](https://thecloudlet.github.io/technical/compiler/memory-compiler/)
 * [2026-07-16, 12:48:52](https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing) - [Why ML/OCaml are good for writing compilers (1998)](https://flint.cs.yale.edu/cs421/case-for-ml.html)
-* [2026-07-16, 12:38:10](https://lobste.rs/s/55rpwn/whoop_4_0_without_subscription) - [WHOOP 4.0 without a subscription](https://github.com/OpenStrap/edge)
 * [2026-07-16, 11:31:41](https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going) - [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 11:27:04](https://lobste.rs/s/6wdufu/perldelta_what_is_new_for_perl_v5_44_0) - [perldelta - what is new for perl v5.44.0](https://metacpan.org/dist/perl/view/pod/perldelta.pod)
 * [2026-07-16, 10:01:50](https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available) - [Forgejo v16.0 is available](https://forgejo.org/2026-07-release-v16-0/)
