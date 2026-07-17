@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 20:55:38](https://lobste.rs/s/31bikj/java_story_official_documentary) - [The Java Story | The Official Documentary](https://www.youtube.com/watch?v=ZqGSg4b_cZA)
+* [2026-07-17, 20:49:10](https://lobste.rs/s/dt908d/epistemic_parity_reproducibility_as) - [Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy](https://cacm.acm.org/research-highlights/epistemic-parity-reproducibility-as-an-evaluation-metric-for-differential-privacy/)
 * [2026-07-17, 19:54:44](https://lobste.rs/s/ryksor/learning_few_things_about_running_sqlite) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 19:53:06](https://lobste.rs/s/nwp3sm/faulty_towers_vibe_sickness_vibe_bobsled) - [Faulty Towers, vibe sickness, and the vibe bobsled](https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/)
 * [2026-07-17, 14:19:21](https://lobste.rs/s/v0bqye/building_stabilized_chase_camera_rover) - [Building a Stabilized \"Chase Camera\" Rover](https://transistor-man.com/gimbal_camera_rover.html)
