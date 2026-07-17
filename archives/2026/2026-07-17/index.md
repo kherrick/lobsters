@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 14:19:21](https://lobste.rs/s/v0bqye/building_stabilized_chase_camera_rover) - [Building a Stabilized \"Chase Camera\" Rover](https://transistor-man.com/gimbal_camera_rover.html)
 * [2026-07-17, 13:28:04](https://lobste.rs/s/vrcctk/how_far_behind_frontier_are_leading_open) - [How Far Behind the Frontier are Leading Open Weight Models on Cyber?](https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber)
 * [2026-07-17, 13:27:36](https://lobste.rs/s/i0mnxl/journey_root_episode_i_maglev_king) - [Journey to Root, Episode I: The Maglev King](https://blog.calif.io/p/journey-to-root-episode-i-the-maglev)
 * [2026-07-17, 13:26:04](https://lobste.rs/s/gxjzgq/fedichat_comic_chat_for_fediverse) - [Fedichat - Comic Chat for the Fediverse](https://lambadalambda.github.io/fedichat/client.html)
