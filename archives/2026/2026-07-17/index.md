@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 23:33:21](https://lobste.rs/s/ecuwk1/classic_console_tech_tricks) - [Classic console tech tricks](https://www.youtube.com/playlist?list=PLLM_oC5K01gS9rqn7PotAOE-fb0zrnvdu)
+* [2026-07-17, 23:23:39](https://lobste.rs/s/uqqzei/ghc_status_report) - [GHC Status Report](https://www.youtube.com/watch?v=6bDQwW5GlnU)
 * [2026-07-17, 23:03:22](https://lobste.rs/s/jvg8cy/another_taste_verse) - [Another Taste of Verse](https://www.youtube.com/watch?v=QIiU-QGzcqc&list=PLQtDWkrawhsE&index=2)
 * [2026-07-17, 22:45:28](https://lobste.rs/s/zmg7ot/topcoat_batteries_included_framework) - [topcoat: A batteries-included framework for building web apps](https://github.com/tokio-rs/topcoat)
 * [2026-07-17, 21:51:07](https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b) - [Enterprise Haskell at H-E-B](https://blog.haskell.org/enterprise-haskell-at-h-e-b/)
