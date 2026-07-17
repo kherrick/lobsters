@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-17, 04:38:25](https://lobste.rs/s/agoj2o/country_draw) - [Country Draw](https://country-draw.vercel.app/)
 * [2026-07-17, 02:40:50](https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote) - [Earth Rotation Records Spur October Vote to Avert Negative Leap Second](https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm)
 * [2026-07-17, 02:23:49](https://lobste.rs/s/fftxis/stop_guard_act_age_verification_laws) - [Stop the GUARD Act and age verification laws worldwide](https://www.fsf.org/blogs/community/stop-the-guard-act)
 * [2026-07-17, 01:37:41](https://lobste.rs/s/fdsscq/using_gcc_s_nested_functions_with_wide) - [Using GCC's Nested Functions with Wide Pointers and no Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
@@ -9,7 +10,6 @@
 * [2026-07-16, 16:43:15](https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 16:43:06](https://lobste.rs/s/sg1uyo/clj_refactor_el_4_0) - [clj-refactor.el 4.0](https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html)
 * [2026-07-16, 15:39:50](https://lobste.rs/s/1clqwe/we_re_building_postgres_rust_using_llvm) - [We're building Postgres in Rust. Using the LLVM of databases](https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust)
-* [2026-07-16, 15:29:48](https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on) - [A novel computer Scrabble engine based on probability that performs at championship level (2021)](https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content)
 * [2026-07-16, 13:51:27](https://lobste.rs/s/wveduf/readme_not) - [README, not](https://blog.yossarian.net/2026/07/16/README-not)
 * [2026-07-16, 13:27:20](https://lobste.rs/s/prdl1l/llm_critics_are_right_i_use_llms_anyway) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
 * [2026-07-16, 13:12:52](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux) - [What gdb frontend do you prefer (linux)](https://lobste.rs/s/76tcpe/what_gdb_frontend_do_you_prefer_linux)

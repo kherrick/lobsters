@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 04:38:25](https://lobste.rs/s/agoj2o/country_draw) - [Country Draw](https://country-draw.vercel.app/)
 * [2026-07-17, 02:40:50](https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote) - [Earth Rotation Records Spur October Vote to Avert Negative Leap Second](https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm)
 * [2026-07-17, 02:23:49](https://lobste.rs/s/fftxis/stop_guard_act_age_verification_laws) - [Stop the GUARD Act and age verification laws worldwide — Free Software Foundation — Working together for free software](https://www.fsf.org/blogs/community/stop-the-guard-act)
 * [2026-07-17, 01:37:41](https://lobste.rs/s/fdsscq/using_gcc_s_nested_functions_with_wide) - [Using GCC's Nested Functions with Wide Pointers and no Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
