@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 08:31:40](https://lobste.rs/s/1vplvg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1vplvg/what_are_you_doing_this_weekend)
 * [2026-07-17, 06:01:54](https://lobste.rs/s/6pdyiy/pact_anonymous_credentials_for_web) - [PACT: Anonymous Credentials for the Web – Mozilla Hacks](https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/)
 * [2026-07-17, 04:38:25](https://lobste.rs/s/agoj2o/country_draw) - [Country Draw](https://country-draw.vercel.app/)
 * [2026-07-17, 02:40:50](https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote) - [Earth Rotation Records Spur October Vote to Avert Negative Leap Second](https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm)

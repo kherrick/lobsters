@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-17, 08:31:40](https://lobste.rs/s/1vplvg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1vplvg/what_are_you_doing_this_weekend)
 * [2026-07-17, 06:01:54](https://lobste.rs/s/6pdyiy/pact_anonymous_credentials_for_web) - [PACT: Anonymous Credentials for the Web – Mozilla Hacks](https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/)
 * [2026-07-17, 04:38:25](https://lobste.rs/s/agoj2o/country_draw) - [Country Draw](https://country-draw.vercel.app/)
 * [2026-07-17, 02:40:50](https://lobste.rs/s/jbw2ma/earth_rotation_records_spur_october_vote) - [Earth Rotation Records Spur October Vote to Avert Negative Leap Second](https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm)
@@ -22,7 +23,6 @@
 * [2026-07-16, 09:29:06](https://lobste.rs/s/rvtn4v/guix_creating_package_from_binary) - [Guix: creating a package from a binary](https://aloysberger.com/posts/guix-packaging-a-binary-as-a-guix-beginner.html)
 * [2026-07-16, 07:28:41](https://lobste.rs/s/nkrgcp/you_can_t_bug_fix_your_way_out) - [You can't bug fix your way out of the vulnpocalypse](https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/)
 * [2026-07-16, 03:19:34](https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel) - [Linus Torvalds on LLM usage in kernel development](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
-* [2026-07-15, 23:57:58](https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite) - [Detecting Full Table Scans With SQLite](https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/)
 * [2026-07-15, 22:57:15](https://lobste.rs/s/rnc3h4/abstracting_effects_with_continuations) - [Abstracting effects with continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
 * [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 
