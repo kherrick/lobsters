@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-07-17, 19:54:44",
+      "https://lobste.rs/s/ryksor/learning_few_things_about_running_sqlite"
+    ],
+    [
+      "Learning a few things about running SQLite",
+      "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 19:53:06",
+      "https://lobste.rs/s/nwp3sm/faulty_towers_vibe_sickness_vibe_bobsled"
+    ],
+    [
+      "Faulty Towers, vibe sickness, and the vibe bobsled",
+      "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 14:19:21",
       "https://lobste.rs/s/v0bqye/building_stabilized_chase_camera_rover"
     ],
     [
       "Building a Stabilized \"Chase Camera\" Rover",
       "https://transistor-man.com/gimbal_camera_rover.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 13:28:04",
-      "https://lobste.rs/s/vrcctk/how_far_behind_frontier_are_leading_open"
-    ],
-    [
-      "How Far Behind the Frontier are Leading Open Weight Models on Cyber?",
-      "https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "How Our Rust-to-Zig Rewrite is Going",
       "https://rtfeldman.com/rust-to-zig"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 11:27:04",
-      "https://lobste.rs/s/6wdufu/perldelta_what_is_new_for_perl_v5_44_0"
-    ],
-    [
-      "perldelta - what is new for perl v5.44.0",
-      "https://metacpan.org/dist/perl/view/pod/perldelta.pod"
     ]
   ],
   [
