@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-17, 21:07:10](https://lobste.rs/s/grutu0/lobsters_interview_with_matheusmoreira) - [Lobsters Interview with matheusmoreira about Lone Lisp](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
 * [2026-07-17, 20:55:38](https://lobste.rs/s/31bikj/java_story_official_documentary) - [The Java Story | The Official Documentary](https://www.youtube.com/watch?v=ZqGSg4b_cZA)
 * [2026-07-17, 20:49:10](https://lobste.rs/s/dt908d/epistemic_parity_reproducibility_as) - [Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy](https://cacm.acm.org/research-highlights/epistemic-parity-reproducibility-as-an-evaluation-metric-for-differential-privacy/)
 * [2026-07-17, 19:54:44](https://lobste.rs/s/ryksor/learning_few_things_about_running_sqlite) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 19:53:06](https://lobste.rs/s/nwp3sm/faulty_towers_vibe_sickness_vibe_bobsled) - [Faulty Towers, vibe sickness, and the vibe bobsled](https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/)
-* [2026-07-17, 13:27:36](https://lobste.rs/s/i0mnxl/journey_root_episode_i_maglev_king) - [Journey to Root, Episode I: The Maglev King](https://blog.calif.io/p/journey-to-root-episode-i-the-maglev)
 * [2026-07-17, 13:26:04](https://lobste.rs/s/gxjzgq/fedichat_comic_chat_for_fediverse) - [Fedichat - Comic Chat for the Fediverse](https://lambadalambda.github.io/fedichat/client.html)
 * [2026-07-17, 12:51:36](https://lobste.rs/s/u9lvze/we_are_changing_our_developer) - [We are Changing our Developer Productivity Experiment Design](https://metr.org/blog/2026-02-24-uplift-update/)
 * [2026-07-17, 11:21:45](https://lobste.rs/s/x3xvou/freya_0_4_rust_gui_library) - [Freya 0.4 - Rust GUI library](https://freyaui.dev/posts/0.4)
