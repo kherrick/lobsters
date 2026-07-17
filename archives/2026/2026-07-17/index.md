@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 13:28:04](https://lobste.rs/s/vrcctk/how_far_behind_frontier_are_leading_open) - [How Far Behind the Frontier are Leading Open Weight Models on Cyber?](https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber)
+* [2026-07-17, 13:27:36](https://lobste.rs/s/i0mnxl/journey_root_episode_i_maglev_king) - [Journey to Root, Episode I: The Maglev King](https://blog.calif.io/p/journey-to-root-episode-i-the-maglev)
+* [2026-07-17, 13:26:04](https://lobste.rs/s/gxjzgq/fedichat_comic_chat_for_fediverse) - [Fedichat - Comic Chat for the Fediverse](https://lambadalambda.github.io/fedichat/client.html)
 * [2026-07-17, 12:51:36](https://lobste.rs/s/u9lvze/we_are_changing_our_developer) - [We are Changing our Developer Productivity Experiment Design](https://metr.org/blog/2026-02-24-uplift-update/)
 * [2026-07-17, 11:21:45](https://lobste.rs/s/x3xvou/freya_0_4_rust_gui_library) - [Freya 0.4 - Rust GUI library](https://freyaui.dev/posts/0.4)
 * [2026-07-17, 09:16:11](https://lobste.rs/s/1lai7k/unfolding_trees_breadth_first_haskell) - [Unfolding trees breadth-first in Haskell (2025)](https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html)
