@@ -8,6 +8,7 @@
 * [2026-07-16, 18:38:03](https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits) - [We're Going to Make Out Like Bandits](https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/)
 * [2026-07-16, 16:43:15](https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 16:43:06](https://lobste.rs/s/sg1uyo/clj_refactor_el_4_0) - [clj-refactor.el 4.0](https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html)
+* [2026-07-16, 15:39:50](https://lobste.rs/s/1clqwe/we_re_building_postgres_rust_using_llvm) - [We're building Postgres in Rust. Using the LLVM of databases](https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust)
 * [2026-07-16, 15:29:48](https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on) - [A novel computer Scrabble engine based on probability that performs at championship level (2021)](https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content)
 * [2026-07-16, 13:51:27](https://lobste.rs/s/wveduf/readme_not) - [README, not](https://blog.yossarian.net/2026/07/16/README-not)
 * [2026-07-16, 13:27:20](https://lobste.rs/s/prdl1l/llm_critics_are_right_i_use_llms_anyway) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
