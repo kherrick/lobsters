@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-17, 01:37:41",
+      "https://lobste.rs/s/fdsscq/using_gcc_s_nested_functions_with_wide"
+    ],
+    [
+      "Using GCC's Nested Functions with Wide Pointers and no Trampolines II",
+      "https://uecker.codeberg.page/2026-07-14.html"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 00:18:37",
       "https://lobste.rs/s/4dcp6w/here_s_how_i_host_my_own_aim_server"
     ],
@@ -47,6 +57,16 @@
     [
       "clj-refactor.el 4.0",
       "https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 15:39:50",
+      "https://lobste.rs/s/1clqwe/we_re_building_postgres_rust_using_llvm"
+    ],
+    [
+      "We're building Postgres in Rust. Using the LLVM of databases",
+      "https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-16, 02:55:49",
-      "https://lobste.rs/s/47h4yu/shape_apps"
-    ],
-    [
-      "The Shape of Apps",
-      "https://parakeet.co/blog/the-shape-of-apps/"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 23:57:58",
       "https://lobste.rs/s/eilycs/detecting_full_table_scans_with_sqlite"
     ],
@@ -227,16 +237,6 @@
     [
       "SQLite should have (Rust-style) editions",
       "https://mort.coffee/home/sqlite-editions/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 15:36:16",
-      "https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device"
-    ],
-    [
-      "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing",
-      "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/"
     ]
   ],
   [
