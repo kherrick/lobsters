@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-18, 06:25:54](https://lobste.rs/s/pygp0p/aurora_dsql_scalable_multi_region_oltp) - [Aurora DSQL: Scalable, Multi-Region OLTP](https://arxiv.org/abs/2607.13276)
+* [2026-07-18, 06:17:08](https://lobste.rs/s/femw5f/how_does_pangram_work) - [How does Pangram work?](https://pangram.substack.com/p/how-does-pangram-work)
 * [2026-07-18, 04:31:13](https://lobste.rs/s/ihel7n/regressive_jpegs) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-18, 00:43:53](https://lobste.rs/s/ycqq4r/road_lisp_which_lisp) - [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/)
 * [2026-07-18, 00:30:44](https://lobste.rs/s/dhnwz2/scala_on_go) - [Scala on Go](https://github.com/martianoff/gala)
@@ -20,11 +22,9 @@
 * [2026-07-17, 00:18:37](https://lobste.rs/s/4dcp6w/here_s_how_i_host_my_own_aim_server) - [Here's how I host my own AIM server](https://veronicaexplains.net/open-oscar-server/)
 * [2026-07-16, 22:03:22](https://lobste.rs/s/y3qqzv/zilog_z80_has_turned_50) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 * [2026-07-16, 16:43:15](https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
-* [2026-07-16, 15:39:50](https://lobste.rs/s/1clqwe/we_re_building_postgres_rust_using_llvm) - [We're building Postgres in Rust. Using the LLVM of databases](https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust)
 * [2026-07-16, 13:51:27](https://lobste.rs/s/wveduf/readme_not) - [README, not](https://blog.yossarian.net/2026/07/16/README-not)
 * [2026-07-16, 11:31:41](https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going) - [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 03:19:34](https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel) - [Linus Torvalds on LLM usage in kernel development](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
-* [2026-07-15, 19:34:54](https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 
 ## [Archives](archives/index.md)
 
