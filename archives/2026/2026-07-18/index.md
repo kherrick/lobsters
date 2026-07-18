@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 17:03:31](https://lobste.rs/s/6v4l7x/essence_architectural_work_part_4) - [The essence of architectural work - Part 4](https://www.ufried.com/blog/essence_of_architecture_4/)
 * [2026-07-18, 16:25:19](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument) - [Reviewing AI Code Is Not A Viable Argument](https://softwaremaxims.com/blog/reviewing-ai-code)
 * [2026-07-18, 16:19:03](https://lobste.rs/s/oc7su3/apl_case_studies) - [APL Case Studies](https://www.dyalog.com/case-studies/index.htm)
 * [2026-07-18, 13:59:49](https://lobste.rs/s/bgtxi5/haunt_0_4_0_released) - [Haunt 0.4.0 released](https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446)
