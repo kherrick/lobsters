@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-07-18, 06:25:54",
-      "https://lobste.rs/s/pygp0p/aurora_dsql_scalable_multi_region_oltp"
-    ],
-    [
-      "Aurora DSQL: Scalable, Multi-Region OLTP",
-      "https://arxiv.org/abs/2607.13276"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 06:17:08",
       "https://lobste.rs/s/femw5f/how_does_pangram_work"
     ],
@@ -207,6 +197,16 @@
     [
       "Learning a few things about running SQLite",
       "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 12:51:36",
+      "https://lobste.rs/s/u9lvze/we_are_changing_our_developer"
+    ],
+    [
+      "We are Changing our Developer Productivity Experiment Design",
+      "https://metr.org/blog/2026-02-24-uplift-update/"
     ]
   ],
   [
