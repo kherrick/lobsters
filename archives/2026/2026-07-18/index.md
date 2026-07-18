@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 23:32:44](https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting) - [Human-like Neural Nets by Catapulting](https://gwern.net/llm-catapult)
 * [2026-07-18, 22:15:17](https://lobste.rs/s/ib6aav/repeatable_read_vs_snapshot_isolation) - [Repeatable Read vs Snapshot Isolation](https://jaymcor.github.io/notes/isolation_rr_si.html)
 * [2026-07-18, 21:21:41](https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on) - [Gleam has mirrored its source code on tangled (an AT-protocol based forge)](https://tangled.org/gleam.run/gleam)
 * [2026-07-18, 21:10:27](https://lobste.rs/s/tvpnsm/openssl_hollowbyte_dos_hiding_11_bytes) - [OpenSSL HollowByte: A DoS Hiding in 11 Bytes](https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/)
