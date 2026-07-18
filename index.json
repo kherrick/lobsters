@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-18, 21:21:41",
+      "https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on"
+    ],
+    [
+      "Gleam has mirrored its source code on tangled (an AT-protocol based forge)",
+      "https://tangled.org/gleam.run/gleam"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 21:10:27",
       "https://lobste.rs/s/tvpnsm/openssl_hollowbyte_dos_hiding_11_bytes"
     ],
@@ -147,16 +157,6 @@
     [
       "GitRoot",
       "https://gitroot.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 07:27:47",
-      "https://lobste.rs/s/synvhi/dosbox_on_openvms_alpha_cpu"
-    ],
-    [
-      "DOSBox on OpenVMS (Alpha CPU)",
-      "https://astr0baby.online/AXP/OpenVMS/DOSBOX/"
     ]
   ],
   [
