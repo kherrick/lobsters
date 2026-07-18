@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 16:25:19](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument) - [Reviewing AI Code Is Not A Viable Argument](https://softwaremaxims.com/blog/reviewing-ai-code)
+* [2026-07-18, 16:19:03](https://lobste.rs/s/oc7su3/apl_case_studies) - [APL Case Studies](https://www.dyalog.com/case-studies/index.htm)
 * [2026-07-18, 13:59:49](https://lobste.rs/s/bgtxi5/haunt_0_4_0_released) - [Haunt 0.4.0 released](https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446)
 * [2026-07-18, 13:51:18](https://lobste.rs/s/mklmqz/ai_mania_is_eviscerating_global) - [AI Mania Is Eviscerating Global Decisionmaking](https://hermit-tech.com)
 * [2026-07-18, 12:59:05](https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds) - [Goodbye, and thanks for all the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
