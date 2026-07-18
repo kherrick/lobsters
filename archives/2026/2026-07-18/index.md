@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 07:52:15](https://lobste.rs/s/z01edy/gitroot) - [GitRoot](https://gitroot.dev/)
+* [2026-07-18, 07:27:47](https://lobste.rs/s/synvhi/dosbox_on_openvms_alpha_cpu) - [DOSBox on OpenVMS (Alpha CPU)](https://astr0baby.online/AXP/OpenVMS/DOSBOX/)
 * [2026-07-18, 06:25:54](https://lobste.rs/s/pygp0p/aurora_dsql_scalable_multi_region_oltp) - [Aurora DSQL: Scalable, Multi-Region OLTP](https://arxiv.org/abs/2607.13276)
 * [2026-07-18, 06:17:08](https://lobste.rs/s/femw5f/how_does_pangram_work) - [How does Pangram work?](https://pangram.substack.com/p/how-does-pangram-work)
 * [2026-07-18, 04:31:13](https://lobste.rs/s/ihel7n/regressive_jpegs) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
