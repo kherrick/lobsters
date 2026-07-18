@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-18, 11:34:57",
+      "https://lobste.rs/s/jiza2f/fediverse_was_right"
+    ],
+    [
+      "The fediverse was right",
+      "https://blog.lvmbdv.dev/posts/the-fediverse-was-right/"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 11:04:52",
       "https://lobste.rs/s/p9ubuz/nextbsd_project_revived_apple_s_foss_user"
     ],
@@ -237,16 +247,6 @@
     [
       "How Our Rust-to-Zig Rewrite is Going",
       "https://rtfeldman.com/rust-to-zig"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 03:19:34",
-      "https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel"
-    ],
-    [
-      "Linus Torvalds on LLM usage in kernel development",
-      "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
     ]
   ]
 ]
