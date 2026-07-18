@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-18, 21:10:27](https://lobste.rs/s/tvpnsm/openssl_hollowbyte_dos_hiding_11_bytes) - [OpenSSL HollowByte: A DoS Hiding in 11 Bytes](https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/)
 * [2026-07-18, 19:13:21](https://lobste.rs/s/sckxug/half_second_book_on_xz_backdoor) - [\"Half a Second\" - a book on the XZ backdoor](https://www.half-second.com/)
 * [2026-07-18, 18:50:14](https://lobste.rs/s/vwocht/better_bitset_for_enum_flags) - [A better bitset for enum flags](https://www.elbeno.com/blog/?p=1836)
 * [2026-07-18, 18:15:21](https://lobste.rs/s/7ieq88/half_edge_data_structure_part2) - [Half-Edge Data Structure. Part2](https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/)
@@ -14,6 +15,7 @@
 * [2026-07-18, 09:01:53](https://lobste.rs/s/b6f3sf/powershell_over_ssh_2026_openssh_on) - [PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting](https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/)
 * [2026-07-18, 08:30:39](https://lobste.rs/s/z3hzjm/neither_gcc_nor_clang_are_compliant_with) - [neither gcc nor clang are compliant with standard c++](https://sebsite.pw/w/20260708-badstdcxx.html)
 * [2026-07-18, 07:52:15](https://lobste.rs/s/z01edy/gitroot) - [GitRoot](https://gitroot.dev/)
+* [2026-07-18, 07:27:47](https://lobste.rs/s/synvhi/dosbox_on_openvms_alpha_cpu) - [DOSBox on OpenVMS (Alpha CPU)](https://astr0baby.online/AXP/OpenVMS/DOSBOX/)
 * [2026-07-18, 06:17:08](https://lobste.rs/s/femw5f/how_does_pangram_work) - [How does Pangram work?](https://pangram.substack.com/p/how-does-pangram-work)
 * [2026-07-18, 04:31:13](https://lobste.rs/s/ihel7n/regressive_jpegs) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-18, 00:43:53](https://lobste.rs/s/ycqq4r/road_lisp_which_lisp) - [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/)
@@ -21,10 +23,8 @@
 * [2026-07-17, 22:45:28](https://lobste.rs/s/zmg7ot/topcoat_batteries_included_framework) - [topcoat: A batteries-included framework for building web apps](https://github.com/tokio-rs/topcoat)
 * [2026-07-17, 21:51:07](https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b) - [Enterprise Haskell at H-E-B](https://blog.haskell.org/enterprise-haskell-at-h-e-b/)
 * [2026-07-17, 21:07:10](https://lobste.rs/s/grutu0/lobsters_interview_with_matheusmoreira) - [Lobsters Interview with matheusmoreira about Lone Lisp](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
-* [2026-07-17, 20:55:38](https://lobste.rs/s/31bikj/java_story_official_documentary) - [The Java Story | The Official Documentary](https://www.youtube.com/watch?v=ZqGSg4b_cZA)
 * [2026-07-17, 19:54:44](https://lobste.rs/s/ryksor/learning_few_things_about_running_sqlite) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 08:31:40](https://lobste.rs/s/1vplvg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1vplvg/what_are_you_doing_this_weekend)
-* [2026-07-16, 11:31:41](https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going) - [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig)
 
 ## [Archives](archives/index.md)
 
