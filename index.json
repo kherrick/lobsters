@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-18, 19:13:21",
+      "https://lobste.rs/s/sckxug/half_second_book_on_xz_backdoor"
+    ],
+    [
+      "\"Half a Second\" - a book on the XZ backdoor",
+      "https://www.half-second.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 18:50:14",
       "https://lobste.rs/s/vwocht/better_bitset_for_enum_flags"
     ],
@@ -217,16 +227,6 @@
     [
       "Learning a few things about running SQLite",
       "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 11:21:45",
-      "https://lobste.rs/s/x3xvou/freya_0_4_rust_gui_library"
-    ],
-    [
-      "Freya 0.4 - Rust GUI library",
-      "https://freyaui.dev/posts/0.4"
     ]
   ],
   [
