@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 12:27:03](https://lobste.rs/s/gm7cmo/cache_directory_tagging_specification) - [Cache Directory Tagging Specification](https://bford.info/cachedir/)
 * [2026-07-18, 11:34:57](https://lobste.rs/s/jiza2f/fediverse_was_right) - [The fediverse was right](https://blog.lvmbdv.dev/posts/the-fediverse-was-right/)
 * [2026-07-18, 11:04:52](https://lobste.rs/s/p9ubuz/nextbsd_project_revived_apple_s_foss_user) - [NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel](https://nextbsd.org/)
 * [2026-07-18, 09:01:53](https://lobste.rs/s/b6f3sf/powershell_over_ssh_2026_openssh_on) - [PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting](https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/)

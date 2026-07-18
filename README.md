@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-18, 12:27:03](https://lobste.rs/s/gm7cmo/cache_directory_tagging_specification) - [Cache Directory Tagging Specification](https://bford.info/cachedir/)
 * [2026-07-18, 11:34:57](https://lobste.rs/s/jiza2f/fediverse_was_right) - [The fediverse was right](https://blog.lvmbdv.dev/posts/the-fediverse-was-right/)
 * [2026-07-18, 11:04:52](https://lobste.rs/s/p9ubuz/nextbsd_project_revived_apple_s_foss_user) - [NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel](https://nextbsd.org/)
 * [2026-07-18, 09:01:53](https://lobste.rs/s/b6f3sf/powershell_over_ssh_2026_openssh_on) - [PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting](https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/)
@@ -10,7 +11,6 @@
 * [2026-07-18, 06:17:08](https://lobste.rs/s/femw5f/how_does_pangram_work) - [How does Pangram work?](https://pangram.substack.com/p/how-does-pangram-work)
 * [2026-07-18, 04:31:13](https://lobste.rs/s/ihel7n/regressive_jpegs) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-18, 00:43:53](https://lobste.rs/s/ycqq4r/road_lisp_which_lisp) - [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/)
-* [2026-07-17, 23:33:21](https://lobste.rs/s/ecuwk1/classic_console_tech_tricks) - [Classic console tech tricks](https://www.youtube.com/playlist?list=PLLM_oC5K01gS9rqn7PotAOE-fb0zrnvdu)
 * [2026-07-17, 23:03:22](https://lobste.rs/s/jvg8cy/another_taste_verse) - [Another Taste of Verse](https://www.youtube.com/watch?v=QIiU-QGzcqc&list=PLQtDWkrawhsE&index=2)
 * [2026-07-17, 22:45:28](https://lobste.rs/s/zmg7ot/topcoat_batteries_included_framework) - [topcoat: A batteries-included framework for building web apps](https://github.com/tokio-rs/topcoat)
 * [2026-07-17, 21:51:07](https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b) - [Enterprise Haskell at H-E-B](https://blog.haskell.org/enterprise-haskell-at-h-e-b/)
