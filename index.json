@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-18, 07:52:15",
+      "https://lobste.rs/s/z01edy/gitroot"
+    ],
+    [
+      "GitRoot",
+      "https://gitroot.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 07:27:47",
+      "https://lobste.rs/s/synvhi/dosbox_on_openvms_alpha_cpu"
+    ],
+    [
+      "DOSBox on OpenVMS (Alpha CPU)",
+      "https://astr0baby.online/AXP/OpenVMS/DOSBOX/"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 06:25:54",
       "https://lobste.rs/s/pygp0p/aurora_dsql_scalable_multi_region_oltp"
     ],
@@ -37,16 +57,6 @@
     [
       "A Road to Lisp: Which Lisp",
       "https://scotto.me/blog/2026-07-17-which-lisp/"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 00:30:44",
-      "https://lobste.rs/s/dhnwz2/scala_on_go"
-    ],
-    [
-      "Scala on Go",
-      "https://github.com/martianoff/gala"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Faulty Towers, vibe sickness, and the vibe bobsled",
       "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 13:26:04",
-      "https://lobste.rs/s/gxjzgq/fedichat_comic_chat_for_fediverse"
-    ],
-    [
-      "Fedichat - Comic Chat for the Fediverse",
-      "https://lambadalambda.github.io/fedichat/client.html"
     ]
   ],
   [
