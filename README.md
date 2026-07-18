@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-18, 12:59:05](https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds) - [Goodbye, and thanks for all the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-18, 12:27:03](https://lobste.rs/s/gm7cmo/cache_directory_tagging_specification) - [Cache Directory Tagging Specification](https://bford.info/cachedir/)
-* [2026-07-18, 11:34:57](https://lobste.rs/s/jiza2f/fediverse_was_right) - [The fediverse was right](https://blog.lvmbdv.dev/posts/the-fediverse-was-right/)
 * [2026-07-18, 11:04:52](https://lobste.rs/s/p9ubuz/nextbsd_project_revived_apple_s_foss_user) - [NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel](https://nextbsd.org/)
 * [2026-07-18, 09:01:53](https://lobste.rs/s/b6f3sf/powershell_over_ssh_2026_openssh_on) - [PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting](https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/)
 * [2026-07-18, 08:30:39](https://lobste.rs/s/z3hzjm/neither_gcc_nor_clang_are_compliant_with) - [neither gcc nor clang are compliant with standard c++](https://sebsite.pw/w/20260708-badstdcxx.html)
