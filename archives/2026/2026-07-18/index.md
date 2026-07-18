@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 13:51:18](https://lobste.rs/s/mklmqz/ai_mania_is_eviscerating_global) - [AI Mania Is Eviscerating Global Decisionmaking](https://hermit-tech.com)
 * [2026-07-18, 12:59:05](https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds) - [Goodbye, and thanks for all the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-18, 12:27:03](https://lobste.rs/s/gm7cmo/cache_directory_tagging_specification) - [Cache Directory Tagging Specification](https://bford.info/cachedir/)
 * [2026-07-18, 11:34:57](https://lobste.rs/s/jiza2f/fediverse_was_right) - [The fediverse was right](https://blog.lvmbdv.dev/posts/the-fediverse-was-right/)
