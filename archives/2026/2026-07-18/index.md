@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 21:21:41](https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on) - [Gleam has mirrored its source code on tangled (an AT-protocol based forge)](https://tangled.org/gleam.run/gleam)
 * [2026-07-18, 21:10:27](https://lobste.rs/s/tvpnsm/openssl_hollowbyte_dos_hiding_11_bytes) - [OpenSSL HollowByte: A DoS Hiding in 11 Bytes](https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/)
 * [2026-07-18, 19:13:21](https://lobste.rs/s/sckxug/half_second_book_on_xz_backdoor) - [\"Half a Second\" - a book on the XZ backdoor](https://www.half-second.com/)
 * [2026-07-18, 18:50:14](https://lobste.rs/s/vwocht/better_bitset_for_enum_flags) - [A better bitset for enum flags](https://www.elbeno.com/blog/?p=1836)
