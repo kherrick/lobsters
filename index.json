@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-18, 08:30:39",
+      "https://lobste.rs/s/z3hzjm/neither_gcc_nor_clang_are_compliant_with"
+    ],
+    [
+      "neither gcc nor clang are compliant with standard c++",
+      "https://sebsite.pw/w/20260708-badstdcxx.html"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 07:52:15",
       "https://lobste.rs/s/z01edy/gitroot"
     ],
@@ -177,16 +187,6 @@
     [
       "PACT: Anonymous Credentials for the Web – Mozilla Hacks",
       "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 02:23:49",
-      "https://lobste.rs/s/fftxis/stop_guard_act_age_verification_laws"
-    ],
-    [
-      "Stop the GUARD Act and age verification laws worldwide",
-      "https://www.fsf.org/blogs/community/stop-the-guard-act"
     ]
   ],
   [
