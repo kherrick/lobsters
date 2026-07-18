@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 18:50:14](https://lobste.rs/s/vwocht/better_bitset_for_enum_flags) - [A better bitset for enum flags](https://www.elbeno.com/blog/?p=1836)
 * [2026-07-18, 18:15:21](https://lobste.rs/s/7ieq88/half_edge_data_structure_part2) - [Half-Edge Data Structure. Part2](https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/)
 * [2026-07-18, 18:12:17](https://lobste.rs/s/aipvbn/wp2shell_pre_authentication_rce) - [wp2shell: Pre Authentication RCE in WordPress Core](https://wp2shell.com/)
 * [2026-07-18, 17:03:31](https://lobste.rs/s/6v4l7x/essence_architectural_work_part_4) - [The essence of architectural work - Part 4](https://www.ufried.com/blog/essence_of_architecture_4/)
