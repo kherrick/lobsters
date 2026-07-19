@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-19, 18:34:40](https://lobste.rs/s/ectsvy/notification_gave_up_after_minute) - [The notification that gave up after a minute](https://jva.lol/weblog/the-notification-that-gave-up-after-a-minute/)
 * [2026-07-19, 17:35:03](https://lobste.rs/s/ymnnmv/introduction_formal_verification_with) - [Introduction to Formal Verification with Lean (Part 1)](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
 * [2026-07-19, 14:39:59](https://lobste.rs/s/oqi98d/i_built_even_better_ropebot_dog) - [I Built an Even Better Ropebot Dog](https://www.youtube.com/watch?v=GFLa1b1juUo)
 * [2026-07-19, 14:32:11](https://lobste.rs/s/ukyvbo/codesizer_why_is_binary_so_big) - [CodeSizer: Why is that binary so big?](https://github.com/Wren6991/CodeSizer)
@@ -20,7 +21,6 @@
 * [2026-07-18, 18:12:17](https://lobste.rs/s/aipvbn/wp2shell_pre_authentication_rce) - [wp2shell: Pre Authentication RCE in WordPress Core](https://wp2shell.com/)
 * [2026-07-18, 16:25:19](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument) - [Reviewing AI Code Is Not A Viable Argument (2025)](https://softwaremaxims.com/blog/reviewing-ai-code)
 * [2026-07-18, 13:59:49](https://lobste.rs/s/bgtxi5/haunt_0_4_0_released) - [Haunt 0.4.0 released](https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446)
-* [2026-07-18, 12:59:05](https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds) - [Goodbye, and thanks for all the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-18, 08:30:39](https://lobste.rs/s/z3hzjm/neither_gcc_nor_clang_are_compliant_with) - [neither gcc nor clang are compliant with standard c++](https://sebsite.pw/w/20260708-badstdcxx.html)
 * [2026-07-18, 07:52:15](https://lobste.rs/s/z01edy/gitroot) - [GitRoot](https://gitroot.dev/)
 * [2026-07-18, 04:31:13](https://lobste.rs/s/ihel7n/regressive_jpegs) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
