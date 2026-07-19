@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-19, 14:02:59",
+      "https://lobste.rs/s/jdcxr0/git_email_patch_review_addon_for"
+    ],
+    [
+      "Git email patch review addon for Thunderbird",
+      "https://mccd.space/git/thunderbird-patch-review/file/README.html.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-19, 13:21:02",
+      "https://lobste.rs/s/fq2z79/shake_blog"
+    ],
+    [
+      "Shake Blog",
+      "https://abhin4v.github.io/shake-blog/"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 13:14:39",
       "https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-07-18, 18:50:14",
-      "https://lobste.rs/s/vwocht/better_bitset_for_enum_flags"
-    ],
-    [
-      "A better bitset for enum flags",
-      "https://www.elbeno.com/blog/?p=1836"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 18:12:17",
       "https://lobste.rs/s/aipvbn/wp2shell_pre_authentication_rce"
     ],
@@ -177,16 +187,6 @@
     [
       "Goodbye, and thanks for all the Bikesheds",
       "https://queue.acm.org/detail.cfm?id=3818307"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 11:04:52",
-      "https://lobste.rs/s/p9ubuz/nextbsd_project_revived_apple_s_foss_user"
-    ],
-    [
-      "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel",
-      "https://nextbsd.org/"
     ]
   ],
   [
