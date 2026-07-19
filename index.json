@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-19, 00:51:40",
+      "https://lobste.rs/s/qp6s8s/dictionaries_tables_defconq"
+    ],
+    [
+      "Dictionaries and Tables | DefconQ",
+      "https://www.defconq.tech/docs/concepts/dictionariesTables"
+    ]
+  ],
+  [
+    [
+      "2026-07-19, 00:45:01",
+      "https://lobste.rs/s/i0nfve/studying_linux_schedulers_why_metrics"
+    ],
+    [
+      "Studying Linux Schedulers, and Why Metrics Matter",
+      "https://pradyun.net/blog/metrics_matter.html"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 23:32:44",
       "https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting"
     ],
@@ -67,16 +87,6 @@
     [
       "wp2shell: Pre Authentication RCE in WordPress Core",
       "https://wp2shell.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 17:03:31",
-      "https://lobste.rs/s/6v4l7x/essence_architectural_work_part_4"
-    ],
-    [
-      "The essence of architectural work - Part 4",
-      "https://www.ufried.com/blog/essence_of_architecture_4/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Another Taste of Verse",
       "https://www.youtube.com/watch?v=QIiU-QGzcqc&list=PLQtDWkrawhsE&index=2"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 22:45:28",
-      "https://lobste.rs/s/zmg7ot/topcoat_batteries_included_framework"
-    ],
-    [
-      "topcoat: A batteries-included framework for building web apps",
-      "https://github.com/tokio-rs/topcoat"
     ]
   ],
   [
