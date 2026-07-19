@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 17:35:03](https://lobste.rs/s/ymnnmv/introduction_formal_verification_with) - [Introduction to Formal Verification with Lean (Part 1)](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
 * [2026-07-19, 14:39:59](https://lobste.rs/s/oqi98d/i_built_even_better_ropebot_dog) - [I Built an Even Better Ropebot Dog](https://www.youtube.com/watch?v=GFLa1b1juUo)
 * [2026-07-19, 14:32:11](https://lobste.rs/s/ukyvbo/codesizer_why_is_binary_so_big) - [CodeSizer: Why is that binary so big?](https://github.com/Wren6991/CodeSizer)
 * [2026-07-19, 14:28:24](https://lobste.rs/s/t56kjo/zta_zero_token_architecture) - [ZTA: Zero Token Architecture](https://www.youtube.com/watch?v=A7WFt2JQ5sg)
