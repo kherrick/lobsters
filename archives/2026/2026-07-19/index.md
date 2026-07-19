@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 02:14:13](https://lobste.rs/s/ba0j54/software_ai_plotting_vs_pantsing) - [Software and AI - Plotting vs. Pantsing](https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html)
 * [2026-07-19, 00:51:40](https://lobste.rs/s/qp6s8s/dictionaries_tables_defconq) - [Dictionaries and Tables | DefconQ](https://www.defconq.tech/docs/concepts/dictionariesTables)
 * [2026-07-19, 00:45:01](https://lobste.rs/s/i0nfve/studying_linux_schedulers_why_metrics) - [Studying Linux Schedulers, and Why Metrics Matter](https://pradyun.net/blog/metrics_matter.html)
