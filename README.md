@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-19, 20:19:38](https://lobste.rs/s/m2shhj/zen_parallel_programming) - [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
 * [2026-07-19, 19:45:09](https://lobste.rs/s/plztql/dependable_c) - [Dependable C](https://dependablec.org/)
 * [2026-07-19, 19:31:26](https://lobste.rs/s/fdmitg/running_microvms_proxmox_ve_easy_way) - [Running microVMs in Proxmox VE, The Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
 * [2026-07-19, 18:34:40](https://lobste.rs/s/ectsvy/notification_gave_up_after_minute) - [The notification that gave up after a minute](https://jva.lol/weblog/the-notification-that-gave-up-after-a-minute/)
@@ -22,7 +23,6 @@
 * [2026-07-18, 21:21:41](https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on) - [Gleam has mirrored its source code on tangled (an AT-protocol based forge)](https://tangled.org/gleam.run/gleam)
 * [2026-07-18, 18:12:17](https://lobste.rs/s/aipvbn/wp2shell_pre_authentication_rce) - [wp2shell: Pre Authentication RCE in WordPress Core](https://wp2shell.com/)
 * [2026-07-18, 16:25:19](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument) - [Reviewing AI Code Is Not A Viable Argument (2025)](https://softwaremaxims.com/blog/reviewing-ai-code)
-* [2026-07-18, 08:30:39](https://lobste.rs/s/z3hzjm/neither_gcc_nor_clang_are_compliant_with) - [neither gcc nor clang are compliant with standard c++](https://sebsite.pw/w/20260708-badstdcxx.html)
 * [2026-07-18, 07:52:15](https://lobste.rs/s/z01edy/gitroot) - [GitRoot](https://gitroot.dev/)
 * [2026-07-18, 04:31:13](https://lobste.rs/s/ihel7n/regressive_jpegs) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 

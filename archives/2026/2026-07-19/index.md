@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 20:19:38](https://lobste.rs/s/m2shhj/zen_parallel_programming) - [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
 * [2026-07-19, 19:45:09](https://lobste.rs/s/plztql/dependable_c) - [Dependable C](https://dependablec.org/)
 * [2026-07-19, 19:31:26](https://lobste.rs/s/fdmitg/running_microvms_proxmox_ve_easy_way) - [Running microVMs in Proxmox VE, The Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
 * [2026-07-19, 18:34:40](https://lobste.rs/s/ectsvy/notification_gave_up_after_minute) - [The notification that gave up after a minute](https://jva.lol/weblog/the-notification-that-gave-up-after-a-minute/)
