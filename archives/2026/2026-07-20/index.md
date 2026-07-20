@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 08:28:45](https://lobste.rs/s/jr72dt/minimal_git_ci_using_hooks) - [Minimal Git CI using hooks](https://mccd.space/posts/26-06-29/simple-git-ci)
+* [2026-07-20, 08:25:33](https://lobste.rs/s/hq0he3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hq0he3/what_are_you_doing_this_week)
 * [2026-07-20, 07:23:27](https://lobste.rs/s/rbvwz1/claude_found_counterexample_jacobian) - [Claude found a counterexample to the Jacobian Conjecture](https://news.ycombinator.com/item?id=48973869)
 * [2026-07-20, 07:09:19](https://lobste.rs/s/a12cfy/scanline_edge_flag_algorithm_for) - [Scanline edge-flag algorithm for antialiasing](https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf)
 * [2026-07-20, 07:04:16](https://lobste.rs/s/zjnc5o/fuzzing_for_fun_unauthenticated_denial) - [Fuzzing for fun - unauthenticated denial of service in snac2](https://nullenvk.pl/posts/02-snac2-json/)
