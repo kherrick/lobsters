@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-07-20, 07:23:27",
-      "https://lobste.rs/s/rbvwz1/claude_found_counterexample_jacobian"
-    ],
-    [
-      "Claude found a counterexample to the Jacobian Conjecture",
-      "https://news.ycombinator.com/item?id=48973869"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 07:09:19",
       "https://lobste.rs/s/a12cfy/scanline_edge_flag_algorithm_for"
     ],
@@ -237,6 +227,16 @@
     [
       "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
       "https://www.neatnik.net/hardcore-indieweb"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 21:21:41",
+      "https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on"
+    ],
+    [
+      "Gleam has mirrored its source code on tangled (an AT-protocol based forge)",
+      "https://tangled.org/gleam.run/gleam"
     ]
   ],
   [
