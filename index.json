@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-20, 12:10:14",
+      "https://lobste.rs/s/21lrrw/gitolite"
+    ],
+    [
+      "Gitolite",
+      "https://gitolite.com/gitolite/index.html"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 10:30:01",
       "https://lobste.rs/s/bz0spb/building_amigaos_development"
     ],
@@ -227,16 +237,6 @@
     [
       "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
       "https://www.neatnik.net/hardcore-indieweb"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 21:21:41",
-      "https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on"
-    ],
-    [
-      "Gleam has mirrored its source code on tangled (an AT-protocol based forge)",
-      "https://tangled.org/gleam.run/gleam"
     ]
   ],
   [
