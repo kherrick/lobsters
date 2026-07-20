@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-20, 15:21:15",
+      "https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model"
+    ],
+    [
+      "InvisiCaps: The Fil-C Capability Model",
+      "https://fil-c.org/invisicaps"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 14:33:55",
       "https://lobste.rs/s/bper0d/7_sandbox_escape_vulnerabilities_across"
     ],
@@ -177,16 +187,6 @@
     [
       "Running microVMs in Proxmox VE, The Easy Way",
       "https://taoofmac.com/space/blog/2026/06/18/1845"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 14:32:11",
-      "https://lobste.rs/s/ukyvbo/codesizer_why_is_binary_so_big"
-    ],
-    [
-      "CodeSizer: Why is that binary so big?",
-      "https://github.com/Wren6991/CodeSizer"
     ]
   ],
   [
