@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-20, 21:39:00](https://lobste.rs/s/xbfsho/sleepergem_rubygems_supply_chain_attack) - [SleeperGem: RubyGems supply chain attack targets dormant maintainer accounts](https://www.aikido.dev/blog/sleepergem-rubygems-supply-chain-attack)
+* [2026-07-20, 21:32:27](https://lobste.rs/s/so9azo/jacobian_conjecture_from_wolfram) - [Jacobian Conjecture from Wolfram MathWorld](https://mathworld.wolfram.com/JacobianConjecture.html)
 * [2026-07-20, 20:21:03](https://lobste.rs/s/jgftsd/personal_anthology_goal_code) - [Personal Anthology of Goal Code](https://goalprogramming.info/personal-anthology.html)
 * [2026-07-20, 20:15:57](https://lobste.rs/s/h9zpbs/linux_kernel_0_day_journey_from_limited) - [A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W](https://1day.dev/posts/linux-kernel-0day.html)
-* [2026-07-20, 19:52:34](https://lobste.rs/s/advkuj/who_needs_real_time_database) - [Who needs a real-time database?](https://dataintellect.com/blog/who-needs-an-rdb/)
 * [2026-07-20, 16:40:40](https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup) - [A deep dive into my Forgejo setup](https://a.l3x.in/blog/welcome-to-my-forge/)
 * [2026-07-20, 16:07:19](https://lobste.rs/s/wxq96p/type_safe_servant_auth_roles) - [Type Safe Servant Auth Roles](https://blog.cofree.coffee/2026-07-20-servant-auth-roles/)
 * [2026-07-20, 15:21:15](https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model) - [InvisiCaps: The Fil-C Capability Model](https://fil-c.org/invisicaps)
@@ -22,7 +23,6 @@
 * [2026-07-19, 19:45:09](https://lobste.rs/s/plztql/dependable_c) - [Dependable C](https://dependablec.org/)
 * [2026-07-19, 19:31:26](https://lobste.rs/s/fdmitg/running_microvms_proxmox_ve_easy_way) - [Running microVMs in Proxmox VE, The Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
 * [2026-07-19, 14:02:59](https://lobste.rs/s/jdcxr0/git_email_patch_review_addon_for) - [Git email patch review addon for Thunderbird](https://mccd.space/git/thunderbird-patch-review/file/README.html.html)
-* [2026-07-19, 13:21:02](https://lobste.rs/s/fq2z79/shake_blog) - [Shake Blog](https://abhin4v.github.io/shake-blog/)
 * [2026-07-19, 13:14:39](https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently) - [What is your favorite blog to read recently?](https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently)
 * [2026-07-19, 10:40:29](https://lobste.rs/s/k6ph7c/death_rebirth_my_home_server) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
 
