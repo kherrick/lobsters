@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-20, 12:10:14](https://lobste.rs/s/21lrrw/gitolite) - [Gitolite](https://gitolite.com/gitolite/index.html)
 * [2026-07-20, 10:30:01](https://lobste.rs/s/bz0spb/building_amigaos_development) - [Building an AmigaOS Development Environment in 2026](https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html)
 * [2026-07-20, 09:02:49](https://lobste.rs/s/6zlnpk/json5e_json5_for_humans) - [JSON5E - JSON5 for Humans](https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md)
 * [2026-07-20, 08:28:45](https://lobste.rs/s/jr72dt/minimal_git_ci_using_hooks) - [Minimal Git CI using hooks](https://mccd.space/posts/26-06-29/simple-git-ci)
@@ -23,7 +24,6 @@
 * [2026-07-19, 07:50:55](https://lobste.rs/s/otiash/mathematicians_still_don_t_know_fastest) - [Mathematicians still don’t know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
 * [2026-07-19, 04:32:58](https://lobste.rs/s/0mljfd/computer_at_bottom_canal) - [The computer at the bottom of a canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
 * [2026-07-19, 04:07:17](https://lobste.rs/s/l9rap5/hardcore_indieweb_run_your_own_website) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
-* [2026-07-18, 21:21:41](https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on) - [Gleam has mirrored its source code on tangled (an AT-protocol based forge)](https://tangled.org/gleam.run/gleam)
 * [2026-07-18, 16:25:19](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument) - [Reviewing AI Code Is Not A Viable Argument (2025)](https://softwaremaxims.com/blog/reviewing-ai-code)
 
 ## [Archives](archives/index.md)
