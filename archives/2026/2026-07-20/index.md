@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 21:51:15](https://lobste.rs/s/4kp1wg/how_gnutella_scaled_handle_query_traffic) - [How Gnutella Scaled to Handle Query Traffic](https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html)
+* [2026-07-20, 21:48:43](https://lobste.rs/s/piabis/postgres_19_compression_from_pglz_lz4) - [Postgres 19 Compression: from pglz to LZ4](https://www.crunchydata.com/blog/postgres-19-compression-from-pglz-to-lz4)
 * [2026-07-20, 21:39:00](https://lobste.rs/s/xbfsho/sleepergem_rubygems_supply_chain_attack) - [SleeperGem: RubyGems supply chain attack targets dormant maintainer accounts](https://www.aikido.dev/blog/sleepergem-rubygems-supply-chain-attack)
 * [2026-07-20, 21:32:27](https://lobste.rs/s/so9azo/jacobian_conjecture_from_wolfram) - [Jacobian Conjecture from Wolfram MathWorld](https://mathworld.wolfram.com/JacobianConjecture.html)
 * [2026-07-20, 20:21:03](https://lobste.rs/s/jgftsd/personal_anthology_goal_code) - [Personal Anthology of Goal Code](https://goalprogramming.info/personal-anthology.html)
