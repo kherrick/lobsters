@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-20, 07:23:27](https://lobste.rs/s/rbvwz1/claude_found_counterexample_jacobian) - [Claude found a counterexample to the Jacobian Conjecture](https://news.ycombinator.com/item?id=48973869)
+* [2026-07-20, 07:09:19](https://lobste.rs/s/a12cfy/scanline_edge_flag_algorithm_for) - [Scanline edge-flag algorithm for antialiasing](https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf)
+* [2026-07-20, 07:04:16](https://lobste.rs/s/zjnc5o/fuzzing_for_fun_unauthenticated_denial) - [Fuzzing for fun - unauthenticated denial of service in snac2](https://nullenvk.pl/posts/02-snac2-json/)
+* [2026-07-20, 07:04:02](https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed) - [I wrote an API client for my water-cooled bed](https://tinkering.xyz/bedctl/)
 * [2026-07-20, 05:39:53](https://lobste.rs/s/zvoqic/email_encryption) - [email encryption](https://computer.rip/2026-07-19-email-encryption.html)
 * [2026-07-20, 02:46:27](https://lobste.rs/s/qyacql/who_s_responsible_for_bug_reports_on_old) - [Who’s responsible for bug reports on old software versions?](https://pointieststick.com/2026/07/19/whos-responsible-for-bug-reports-on-old-software-versions/)
 * [2026-07-20, 01:01:25](https://lobste.rs/s/u93mkb/cagire_forth_based_live_coding_sequencer) - [Cagire - Forth-based live coding sequencer](https://cagire.raphaelforment.fr)
@@ -14,17 +18,13 @@
 * [2026-07-19, 14:02:59](https://lobste.rs/s/jdcxr0/git_email_patch_review_addon_for) - [Git email patch review addon for Thunderbird](https://mccd.space/git/thunderbird-patch-review/file/README.html.html)
 * [2026-07-19, 13:21:02](https://lobste.rs/s/fq2z79/shake_blog) - [Shake Blog](https://abhin4v.github.io/shake-blog/)
 * [2026-07-19, 13:14:39](https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently) - [What is your favorite blog to read recently?](https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently)
-* [2026-07-19, 12:41:16](https://lobste.rs/s/xhjzmc/skred_is_now_midi_aware_synth_drum_machine) - [Skred is now a MIDI aware synth and drum machine construction kit](https://lobste.rs/s/xhjzmc/skred_is_now_midi_aware_synth_drum_machine)
 * [2026-07-19, 10:40:29](https://lobste.rs/s/k6ph7c/death_rebirth_my_home_server) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
 * [2026-07-19, 08:37:50](https://lobste.rs/s/01ypky/more_emulation_goodness_intel_itanium_ia) - [More emulation goodness, an Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
 * [2026-07-19, 07:50:55](https://lobste.rs/s/otiash/mathematicians_still_don_t_know_fastest) - [Mathematicians still don’t know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
 * [2026-07-19, 04:32:58](https://lobste.rs/s/0mljfd/computer_at_bottom_canal) - [The computer at the bottom of a canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
 * [2026-07-19, 04:07:17](https://lobste.rs/s/l9rap5/hardcore_indieweb_run_your_own_website) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
-* [2026-07-19, 00:45:01](https://lobste.rs/s/i0nfve/studying_linux_schedulers_why_metrics) - [Studying Linux Schedulers, and Why Metrics Matter](https://pradyun.net/blog/metrics_matter.html)
 * [2026-07-18, 21:21:41](https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on) - [Gleam has mirrored its source code on tangled (an AT-protocol based forge)](https://tangled.org/gleam.run/gleam)
-* [2026-07-18, 18:12:17](https://lobste.rs/s/aipvbn/wp2shell_pre_authentication_rce) - [wp2shell: Pre Authentication RCE in WordPress Core](https://wp2shell.com/)
 * [2026-07-18, 16:25:19](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument) - [Reviewing AI Code Is Not A Viable Argument (2025)](https://softwaremaxims.com/blog/reviewing-ai-code)
-* [2026-07-18, 07:52:15](https://lobste.rs/s/z01edy/gitroot) - [GitRoot](https://gitroot.dev/)
 
 ## [Archives](archives/index.md)
 
