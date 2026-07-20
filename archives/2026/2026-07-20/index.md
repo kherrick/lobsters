@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 14:33:55](https://lobste.rs/s/bper0d/7_sandbox_escape_vulnerabilities_across) - [7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors](https://www.pillar.security/blog/the-week-of-sandbox-escapes)
+* [2026-07-20, 14:33:37](https://lobste.rs/s/hbgzbn/rust_for_morello_always_on_memory_safety) - [Rust for Morello: Always-On Memory Safety, Even in Unsafe Code](https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf)
+* [2026-07-20, 13:58:52](https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
 * [2026-07-20, 13:57:41](https://lobste.rs/s/locapv/using_llm_based_verification_eliminate) - [Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack](https://www.basis.ai/blog/verified-nftables/)
 * [2026-07-20, 12:10:14](https://lobste.rs/s/21lrrw/gitolite) - [Gitolite](https://gitolite.com/gitolite/index.html)
 * [2026-07-20, 10:30:01](https://lobste.rs/s/bz0spb/building_amigaos_development) - [Building an AmigaOS Development Environment in 2026](https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html)
