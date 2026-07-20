@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-20, 22:16:00](https://lobste.rs/s/wfmpqr/human_mathematicians_are_being) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 21:51:15](https://lobste.rs/s/4kp1wg/how_gnutella_scaled_handle_query_traffic) - [How Gnutella Scaled to Handle Query Traffic](https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html)
 * [2026-07-20, 21:48:43](https://lobste.rs/s/piabis/postgres_19_compression_from_pglz_lz4) - [Postgres 19 Compression: from pglz to LZ4](https://www.crunchydata.com/blog/postgres-19-compression-from-pglz-to-lz4)
-* [2026-07-20, 21:39:00](https://lobste.rs/s/xbfsho/sleepergem_rubygems_supply_chain_attack) - [SleeperGem: RubyGems supply chain attack targets dormant maintainer accounts](https://www.aikido.dev/blog/sleepergem-rubygems-supply-chain-attack)
 * [2026-07-20, 21:32:27](https://lobste.rs/s/so9azo/jacobian_conjecture_from_wolfram) - [Jacobian Conjecture from Wolfram MathWorld](https://mathworld.wolfram.com/JacobianConjecture.html)
 * [2026-07-20, 20:21:03](https://lobste.rs/s/jgftsd/personal_anthology_goal_code) - [Personal Anthology of Goal Code](https://goalprogramming.info/personal-anthology.html)
 * [2026-07-20, 20:15:57](https://lobste.rs/s/h9zpbs/linux_kernel_0_day_journey_from_limited) - [A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W](https://1day.dev/posts/linux-kernel-0day.html)
@@ -13,6 +13,7 @@
 * [2026-07-20, 14:33:55](https://lobste.rs/s/bper0d/7_sandbox_escape_vulnerabilities_across) - [7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors](https://www.pillar.security/blog/the-week-of-sandbox-escapes)
 * [2026-07-20, 14:33:37](https://lobste.rs/s/hbgzbn/rust_for_morello_always_on_memory_safety) - [Rust for Morello: Always-On Memory Safety, Even in Unsafe Code](https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf)
 * [2026-07-20, 13:58:52](https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
+* [2026-07-20, 13:57:41](https://lobste.rs/s/locapv/using_llm_based_verification_eliminate) - [Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack](https://www.basis.ai/blog/verified-nftables/)
 * [2026-07-20, 12:10:14](https://lobste.rs/s/21lrrw/gitolite) - [Gitolite](https://gitolite.com/gitolite/index.html)
 * [2026-07-20, 10:30:01](https://lobste.rs/s/bz0spb/building_amigaos_development) - [Building an AmigaOS Development Environment in 2026](https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html)
 * [2026-07-20, 09:02:49](https://lobste.rs/s/6zlnpk/json5e_json5_for_humans) - [JSON5E - JSON5 for Humans](https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md)
@@ -22,7 +23,6 @@
 * [2026-07-20, 07:04:02](https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed) - [I wrote an API client for my water-cooled bed](https://tinkering.xyz/bedctl/)
 * [2026-07-20, 05:39:53](https://lobste.rs/s/zvoqic/email_encryption) - [email encryption](https://computer.rip/2026-07-19-email-encryption.html)
 * [2026-07-20, 01:01:25](https://lobste.rs/s/u93mkb/cagire_forth_based_live_coding_sequencer) - [Cagire - Forth-based live coding sequencer](https://cagire.raphaelforment.fr)
-* [2026-07-19, 19:45:09](https://lobste.rs/s/plztql/dependable_c) - [Dependable C](https://dependablec.org/)
 * [2026-07-19, 13:14:39](https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently) - [What is your favorite blog to read recently?](https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently)
 * [2026-07-19, 10:40:29](https://lobste.rs/s/k6ph7c/death_rebirth_my_home_server) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
 
