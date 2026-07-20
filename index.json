@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-20, 05:39:53",
+      "https://lobste.rs/s/zvoqic/email_encryption"
+    ],
+    [
+      "email encryption",
+      "https://computer.rip/2026-07-19-email-encryption.html"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 02:46:27",
       "https://lobste.rs/s/qyacql/who_s_responsible_for_bug_reports_on_old"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2026-07-19, 14:39:59",
+      "https://lobste.rs/s/oqi98d/i_built_even_better_ropebot_dog"
+    ],
+    [
+      "I Built an Even Better Ropebot Dog",
+      "https://www.youtube.com/watch?v=GFLa1b1juUo"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 14:32:11",
       "https://lobste.rs/s/ukyvbo/codesizer_why_is_binary_so_big"
     ],
@@ -127,16 +147,6 @@
     [
       "Skred is now a MIDI aware synth and drum machine construction kit",
       "https://lobste.rs/s/xhjzmc/skred_is_now_midi_aware_synth_drum_machine"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 11:43:23",
-      "https://lobste.rs/s/y8okbv/triton_language_for_alibaba_sail"
-    ],
-    [
-      "Triton language for Alibaba SAIL",
-      "https://github.com/t-head/triton-for-sail"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "GitRoot",
       "https://gitroot.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 04:31:13",
-      "https://lobste.rs/s/ihel7n/regressive_jpegs"
-    ],
-    [
-      "Regressive JPEGs",
-      "https://maurycyz.com/projects/bad_jpeg/"
     ]
   ]
 ]
