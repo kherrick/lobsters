@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-20, 22:46:53](https://lobste.rs/s/boyu9x/opaque_interoperable_passkey_records) - [Opaque, Interoperable Passkey Records](https://words.filippo.io/passkey-record/)
 * [2026-07-20, 22:16:00](https://lobste.rs/s/wfmpqr/human_mathematicians_are_being) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 21:51:15](https://lobste.rs/s/4kp1wg/how_gnutella_scaled_handle_query_traffic) - [How Gnutella Scaled to Handle Query Traffic](https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html)
 * [2026-07-20, 21:48:43](https://lobste.rs/s/piabis/postgres_19_compression_from_pglz_lz4) - [Postgres 19 Compression: from pglz to LZ4](https://www.crunchydata.com/blog/postgres-19-compression-from-pglz-to-lz4)
-* [2026-07-20, 21:32:27](https://lobste.rs/s/so9azo/jacobian_conjecture_from_wolfram) - [Jacobian Conjecture from Wolfram MathWorld](https://mathworld.wolfram.com/JacobianConjecture.html)
 * [2026-07-20, 20:21:03](https://lobste.rs/s/jgftsd/personal_anthology_goal_code) - [Personal Anthology of Goal Code](https://goalprogramming.info/personal-anthology.html)
 * [2026-07-20, 20:15:57](https://lobste.rs/s/h9zpbs/linux_kernel_0_day_journey_from_limited) - [A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W](https://1day.dev/posts/linux-kernel-0day.html)
 * [2026-07-20, 19:52:34](https://lobste.rs/s/advkuj/who_needs_real_time_database) - [Who needs a real-time database?](https://dataintellect.com/blog/who-needs-an-rdb/)
