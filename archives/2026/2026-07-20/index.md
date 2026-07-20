@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 17:53:50](https://lobste.rs/s/yodbwx/extending_mvcc_be_serializable_tla_2024) - [Extending MVCC to be serializable, in TLA+ (2024)](https://surfingcomplexity.blog/2024/11/03/extending-mvcc-to-be-serializable-in-tla/)
 * [2026-07-20, 16:40:40](https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup) - [A deep dive into my Forgejo setup](https://a.l3x.in/blog/welcome-to-my-forge/)
 * [2026-07-20, 16:07:19](https://lobste.rs/s/wxq96p/type_safe_servant_auth_roles) - [Type Safe Servant Auth Roles](https://blog.cofree.coffee/2026-07-20-servant-auth-roles/)
 * [2026-07-20, 15:21:15](https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model) - [InvisiCaps: The Fil-C Capability Model](https://fil-c.org/invisicaps)

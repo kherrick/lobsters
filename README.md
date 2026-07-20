@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-20, 17:53:50](https://lobste.rs/s/yodbwx/extending_mvcc_be_serializable_tla_2024) - [Extending MVCC to be serializable, in TLA+ (2024)](https://surfingcomplexity.blog/2024/11/03/extending-mvcc-to-be-serializable-in-tla/)
 * [2026-07-20, 16:40:40](https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup) - [A deep dive into my Forgejo setup](https://a.l3x.in/blog/welcome-to-my-forge/)
 * [2026-07-20, 16:07:19](https://lobste.rs/s/wxq96p/type_safe_servant_auth_roles) - [Type Safe Servant Auth Roles](https://blog.cofree.coffee/2026-07-20-servant-auth-roles/)
 * [2026-07-20, 15:21:15](https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model) - [InvisiCaps: The Fil-C Capability Model](https://fil-c.org/invisicaps)
@@ -12,7 +13,6 @@
 * [2026-07-20, 09:02:49](https://lobste.rs/s/6zlnpk/json5e_json5_for_humans) - [JSON5E - JSON5 for Humans](https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md)
 * [2026-07-20, 08:28:45](https://lobste.rs/s/jr72dt/minimal_git_ci_using_hooks) - [Minimal Git CI using hooks](https://mccd.space/posts/26-06-29/simple-git-ci)
 * [2026-07-20, 08:25:33](https://lobste.rs/s/hq0he3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hq0he3/what_are_you_doing_this_week)
-* [2026-07-20, 07:09:19](https://lobste.rs/s/a12cfy/scanline_edge_flag_algorithm_for) - [Scanline edge-flag algorithm for antialiasing](https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf)
 * [2026-07-20, 07:04:16](https://lobste.rs/s/zjnc5o/fuzzing_for_fun_unauthenticated_denial) - [Fuzzing for fun - unauthenticated denial of service in snac2](https://nullenvk.pl/posts/02-snac2-json/)
 * [2026-07-20, 07:04:02](https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed) - [I wrote an API client for my water-cooled bed](https://tinkering.xyz/bedctl/)
 * [2026-07-20, 05:39:53](https://lobste.rs/s/zvoqic/email_encryption) - [email encryption](https://computer.rip/2026-07-19-email-encryption.html)
