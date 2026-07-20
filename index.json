@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-20, 21:39:00",
+      "https://lobste.rs/s/xbfsho/sleepergem_rubygems_supply_chain_attack"
+    ],
+    [
+      "SleeperGem: RubyGems supply chain attack targets dormant maintainer accounts",
+      "https://www.aikido.dev/blog/sleepergem-rubygems-supply-chain-attack"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 21:32:27",
+      "https://lobste.rs/s/so9azo/jacobian_conjecture_from_wolfram"
+    ],
+    [
+      "Jacobian Conjecture from Wolfram MathWorld",
+      "https://mathworld.wolfram.com/JacobianConjecture.html"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 20:21:03",
       "https://lobste.rs/s/jgftsd/personal_anthology_goal_code"
     ],
@@ -17,16 +37,6 @@
     [
       "A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W",
       "https://1day.dev/posts/linux-kernel-0day.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 19:52:34",
-      "https://lobste.rs/s/advkuj/who_needs_real_time_database"
-    ],
-    [
-      "Who needs a real-time database?",
-      "https://dataintellect.com/blog/who-needs-an-rdb/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Git email patch review addon for Thunderbird",
       "https://mccd.space/git/thunderbird-patch-review/file/README.html.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 13:21:02",
-      "https://lobste.rs/s/fq2z79/shake_blog"
-    ],
-    [
-      "Shake Blog",
-      "https://abhin4v.github.io/shake-blog/"
     ]
   ],
   [
