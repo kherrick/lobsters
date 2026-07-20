@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 20:21:03](https://lobste.rs/s/jgftsd/personal_anthology_goal_code) - [Personal Anthology of Goal Code](https://goalprogramming.info/personal-anthology.html)
+* [2026-07-20, 20:15:57](https://lobste.rs/s/h9zpbs/linux_kernel_0_day_journey_from_limited) - [A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W](https://1day.dev/posts/linux-kernel-0day.html)
 * [2026-07-20, 19:52:34](https://lobste.rs/s/advkuj/who_needs_real_time_database) - [Who needs a real-time database?](https://dataintellect.com/blog/who-needs-an-rdb/)
 * [2026-07-20, 17:53:50](https://lobste.rs/s/yodbwx/extending_mvcc_be_serializable_tla_2024) - [Extending MVCC to be serializable, in TLA+ (2024)](https://surfingcomplexity.blog/2024/11/03/extending-mvcc-to-be-serializable-in-tla/)
 * [2026-07-20, 16:40:40](https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup) - [A deep dive into my Forgejo setup](https://a.l3x.in/blog/welcome-to-my-forge/)
