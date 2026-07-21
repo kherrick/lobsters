@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 15:52:21](https://lobste.rs/s/nlhmco/capture_clauses_as_effects) - [Capture Clauses as Effects](https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes)
 * [2026-07-21, 15:14:38](https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily) - [lazy-tmux: restore tmux sessions lazily, with scrollback](https://lazy-tmux.xyz)
 * [2026-07-21, 15:13:09](https://lobste.rs/s/w031bw/open_source_alternative_icloud_google) - [An open-source alternative to iCloud and Google Photos](https://github.com/Lynavo/lynavo-drive)
 * [2026-07-21, 13:32:43](https://lobste.rs/s/cvibea/low_mid_tier_mobile_for_real_world) - [Low- and Mid-Tier Mobile for the Real World](https://csswizardry.com/2026/07/low-and-mid-tier-mobile-for-the-real-world-2026/)
