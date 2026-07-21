@@ -41,6 +41,26 @@
   ],
   [
     [
+      "2026-07-21, 10:02:46",
+      "https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort"
+    ],
+    [
+      "Linux kernel will support $ORIGIN, sort of",
+      "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 09:59:57",
+      "https://lobste.rs/s/jpq033/ggg_declarative_svg_badge_generation"
+    ],
+    [
+      "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
+      "https://codeberg.org/jjba23/ggg"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 07:20:43",
       "https://lobste.rs/s/qlg8xj/kde_for_enterprise_needs_strong_pim"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-07-20, 16:07:19",
-      "https://lobste.rs/s/wxq96p/type_safe_servant_auth_roles"
-    ],
-    [
-      "Type Safe Servant Auth Roles",
-      "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 15:21:15",
       "https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model"
     ],
@@ -217,16 +227,6 @@
     [
       "Building an AmigaOS Development Environment in 2026",
       "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 09:02:49",
-      "https://lobste.rs/s/6zlnpk/json5e_json5_for_humans"
-    ],
-    [
-      "JSON5E - JSON5 for Humans",
-      "https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md"
     ]
   ],
   [
