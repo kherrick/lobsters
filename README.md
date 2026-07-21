@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-21, 20:44:50](https://lobste.rs/s/jmuobj/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much](https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/)
 * [2026-07-21, 19:57:49](https://lobste.rs/s/nv7xhn/cosmic_de_s_first_seven_months) - [COSMIC DE’s First Seven Months](https://system76.com/blog/post/cosmic-de-first-seven-months)
+* [2026-07-21, 19:33:38](https://lobste.rs/s/ovdlje/ap8l_apl) - [AP8L - apl](https://www.lexaloffle.com/bbs/?tid=152582)
 * [2026-07-21, 19:02:41](https://lobste.rs/s/7v1k7i/cosy_language) - [Cosy Language](https://cosy.com/y26/NL202603.html)
 * [2026-07-21, 18:35:19](https://lobste.rs/s/wub9oc/using_nagios_for_small_business) - [Using Nagios for small business infrastructure monitoring](https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/)
 * [2026-07-21, 18:02:26](https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere) - [“No AI” Statements Are Much More Than Mere Statements](https://journal.james-zhan.com/no-ai-statements/)
@@ -18,8 +20,6 @@
 * [2026-07-21, 03:50:28](https://lobste.rs/s/t2jxyu/432_linux_kernel_cves_published_last_24) - [432 Linux kernel CVEs published in the last 24 hours](https://lore.kernel.org/linux-cve-announce/)
 * [2026-07-21, 03:02:24](https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website) - [95 reasons for having your own website](https://bellkiosk.website/blog/reasons-to-website.html)
 * [2026-07-21, 02:23:52](https://lobste.rs/s/s13fc0/using_ssh_bastion_only_when_i_m_touching) - [Using a SSH bastion, but only when I'm touching grass](https://evertpot.com/ssh-tunnel-if-unresolvable/)
-* [2026-07-21, 00:09:48](https://lobste.rs/s/iypcjj/secrets_don_t_belong_config) - [Secrets Don’t Belong in Config](https://secretspec.dev/blog/secrets-dont-belong-in-config/)
-* [2026-07-20, 23:16:36](https://lobste.rs/s/93norp/informal_tutorial_on_joy) - [An informal tutorial on Joy](https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html)
 * [2026-07-20, 22:16:00](https://lobste.rs/s/wfmpqr/human_mathematicians_are_being) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 15:21:15](https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model) - [InvisiCaps: The Fil-C Capability Model](https://fil-c.org/invisicaps)
 * [2026-07-20, 13:58:52](https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
