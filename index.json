@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-21, 15:52:21",
+      "https://lobste.rs/s/nlhmco/capture_clauses_as_effects"
+    ],
+    [
+      "Capture Clauses as Effects",
+      "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 15:14:38",
       "https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily"
     ],
@@ -107,16 +117,6 @@
     [
       "KDE for Enterprise Needs a Strong PIM Infrastructure",
       "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 06:26:16",
-      "https://lobste.rs/s/daa59s/30_70_prs_day_how_we_managed_not_wreck_our"
-    ],
-    [
-      "30 to 70 PRs a Day: How We Managed to Not Wreck Our Systems",
-      "https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems"
     ]
   ],
   [
