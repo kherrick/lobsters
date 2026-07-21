@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
 * [2026-07-21, 20:44:50](https://lobste.rs/s/jmuobj/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much](https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/)
+* [2026-07-21, 20:39:54](https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers) - [Free Ink · An open ecosystem for e-readers](https://freeink.org/)
+* [2026-07-21, 20:38:04](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox) - [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [2026-07-21, 19:57:49](https://lobste.rs/s/nv7xhn/cosmic_de_s_first_seven_months) - [COSMIC DE’s First Seven Months](https://system76.com/blog/post/cosmic-de-first-seven-months)
 * [2026-07-21, 19:33:38](https://lobste.rs/s/ovdlje/ap8l_apl) - [AP8L - apl](https://www.lexaloffle.com/bbs/?tid=152582)
 * [2026-07-21, 19:02:41](https://lobste.rs/s/7v1k7i/cosy_language) - [Cosy Language](https://cosy.com/y26/NL202603.html)
