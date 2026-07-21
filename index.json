@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-21, 03:50:28",
+      "https://lobste.rs/s/t2jxyu/432_linux_kernel_cves_published_last_24"
+    ],
+    [
+      "432 Linux kernel CVEs published in the last 24 hours",
+      "https://lore.kernel.org/linux-cve-announce/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 03:02:24",
       "https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"
     ],
@@ -87,16 +97,6 @@
     [
       "Personal Anthology of Goal Code",
       "https://goalprogramming.info/personal-anthology.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 20:15:57",
-      "https://lobste.rs/s/h9zpbs/linux_kernel_0_day_journey_from_limited"
-    ],
-    [
-      "A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W",
-      "https://1day.dev/posts/linux-kernel-0day.html"
     ]
   ],
   [
