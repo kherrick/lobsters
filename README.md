@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-21, 22:47:54](https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini) - [Bringing the modern web to the original iPad mini](https://seg6.space/posts/resurrecting-ipad-mini)
+* [2026-07-21, 22:36:12](https://lobste.rs/s/ohl1dh/value_domain_knowledge_software) - [The Value of Domain Knowledge in Software](https://www.gustavwengel.dk/value-of-domain-knowledge)
 * [2026-07-21, 20:44:50](https://lobste.rs/s/jmuobj/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much](https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/)
 * [2026-07-21, 20:39:54](https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers) - [Free Ink · An open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 20:38:04](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox) - [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
@@ -23,7 +24,6 @@
 * [2026-07-21, 03:50:28](https://lobste.rs/s/t2jxyu/432_linux_kernel_cves_published_last_24) - [432 Linux kernel CVEs published in the last 24 hours](https://lore.kernel.org/linux-cve-announce/)
 * [2026-07-21, 03:02:24](https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website) - [95 reasons for having your own website](https://bellkiosk.website/blog/reasons-to-website.html)
 * [2026-07-20, 22:16:00](https://lobste.rs/s/wfmpqr/human_mathematicians_are_being) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
-* [2026-07-20, 15:21:15](https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model) - [InvisiCaps: The Fil-C Capability Model](https://fil-c.org/invisicaps)
 * [2026-07-20, 12:10:14](https://lobste.rs/s/21lrrw/gitolite) - [Gitolite](https://gitolite.com/gitolite/index.html)
 
 ## [Archives](archives/index.md)
