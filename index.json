@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-21, 03:02:24",
+      "https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"
+    ],
+    [
+      "95 reasons for having your own website",
+      "https://bellkiosk.website/blog/reasons-to-website.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 02:23:52",
+      "https://lobste.rs/s/s13fc0/using_ssh_bastion_only_when_i_m_touching"
+    ],
+    [
+      "Using a SSH bastion, but only when I'm touching grass",
+      "https://evertpot.com/ssh-tunnel-if-unresolvable/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 00:09:48",
       "https://lobste.rs/s/iypcjj/secrets_don_t_belong_config"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-07-20, 19:52:34",
-      "https://lobste.rs/s/advkuj/who_needs_real_time_database"
-    ],
-    [
-      "Who needs a real-time database?",
-      "https://dataintellect.com/blog/who-needs-an-rdb/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 16:40:40",
       "https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup"
     ],
@@ -147,16 +157,6 @@
     [
       "Meta Garbage Collection: Using OCaml's GC to GC Rust",
       "https://soteria-tools.com/blog/meta-garbage-collection"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:57:41",
-      "https://lobste.rs/s/locapv/using_llm_based_verification_eliminate"
-    ],
-    [
-      "Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-      "https://www.basis.ai/blog/verified-nftables/"
     ]
   ],
   [
