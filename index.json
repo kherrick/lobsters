@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-21, 16:45:27",
+      "https://lobste.rs/s/qjkrey/cron_jobs_c_from_scratch"
+    ],
+    [
+      "Cron Jobs in C from Scratch",
+      "https://www.youtube.com/watch?v=jgJqUQueYqE"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 15:52:21",
       "https://lobste.rs/s/nlhmco/capture_clauses_as_effects"
     ],
@@ -17,16 +27,6 @@
     [
       "lazy-tmux: restore tmux sessions lazily, with scrollback",
       "https://lazy-tmux.xyz"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 15:13:09",
-      "https://lobste.rs/s/w031bw/open_source_alternative_icloud_google"
-    ],
-    [
-      "An open-source alternative to iCloud and Google Photos",
-      "https://github.com/Lynavo/lynavo-drive"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
       "https://thorsell.io/2026/07/21/github-ssh-keys.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 10:03:51",
-      "https://lobste.rs/s/ivtjcv/escape_intellij_scala_kotlin_lsps_on"
-    ],
-    [
-      "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "InvisiCaps: The Fil-C Capability Model",
       "https://fil-c.org/invisicaps"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 14:33:55",
+      "https://lobste.rs/s/bper0d/7_sandbox_escape_vulnerabilities_across"
+    ],
+    [
+      "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
+      "https://www.pillar.security/blog/the-week-of-sandbox-escapes"
     ]
   ],
   [
