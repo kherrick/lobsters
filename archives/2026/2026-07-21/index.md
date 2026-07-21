@@ -6,6 +6,7 @@
 
 * [2026-07-21, 16:45:27](https://lobste.rs/s/qjkrey/cron_jobs_c_from_scratch) - [Cron Jobs in C from Scratch](https://www.youtube.com/watch?v=jgJqUQueYqE)
 * [2026-07-21, 15:52:21](https://lobste.rs/s/nlhmco/capture_clauses_as_effects) - [Capture Clauses as Effects](https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes)
+* [2026-07-21, 15:26:36](https://lobste.rs/s/ma6jft/fptalks_2026_thu_aug_6_free_online) - [FPTalks 2026 — Thu Aug 6, free, online](https://fptalks.org/talks/fptalks26.html)
 * [2026-07-21, 15:14:38](https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily) - [lazy-tmux: restore tmux sessions lazily, with scrollback](https://lazy-tmux.xyz)
 * [2026-07-21, 15:13:09](https://lobste.rs/s/w031bw/open_source_alternative_icloud_google) - [An open-source alternative to iCloud and Google Photos](https://github.com/Lynavo/lynavo-drive)
 * [2026-07-21, 13:32:43](https://lobste.rs/s/cvibea/low_mid_tier_mobile_for_real_world) - [Low- and Mid-Tier Mobile for the Real World](https://csswizardry.com/2026/07/low-and-mid-tier-mobile-for-the-real-world-2026/)
