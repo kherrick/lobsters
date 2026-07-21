@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-21, 22:47:54](https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini) - [Bringing the modern web to the original iPad mini](https://seg6.space/posts/resurrecting-ipad-mini)
 * [2026-07-21, 20:44:50](https://lobste.rs/s/jmuobj/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much](https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/)
 * [2026-07-21, 20:39:54](https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers) - [Free Ink · An open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 20:38:04](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox) - [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
@@ -11,7 +12,6 @@
 * [2026-07-21, 17:50:36](https://lobste.rs/s/xroult/web_based_jujutsu_revset_explorer) - [Web-based Jujutsu revset explorer & debugger](https://juju.bi/tools/revset)
 * [2026-07-21, 17:34:01](https://lobste.rs/s/9dpycz/k2_reference_manual_1998) - [K2 Reference Manual (1998)](https://web.archive.org/web/20050111142057/http://www.kx.com/technical/documents/kreflite.pdf)
 * [2026-07-21, 15:52:21](https://lobste.rs/s/nlhmco/capture_clauses_as_effects) - [Capture Clauses as Effects](https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes)
-* [2026-07-21, 15:26:36](https://lobste.rs/s/ma6jft/fptalks_2026_thu_aug_6_free_online) - [FPTalks 2026 — Thu Aug 6, free, online](https://fptalks.org/talks/fptalks26.html)
 * [2026-07-21, 15:14:38](https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily) - [lazy-tmux: restore tmux sessions lazily, with scrollback](https://lazy-tmux.xyz)
 * [2026-07-21, 12:31:15](https://lobste.rs/s/cxz7vd/git_end_options) - [git --end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 12:16:08](https://lobste.rs/s/s4gljc/thoughts_on_integers_2023) - [Thoughts On Integers (2023)](https://blog.xoria.org/integers/)
