@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 10:11:59](https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix) - [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html)
+* [2026-07-21, 10:03:51](https://lobste.rs/s/ivtjcv/escape_intellij_scala_kotlin_lsps_on) - [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
+* [2026-07-21, 09:59:57](https://lobste.rs/s/jpq033/ggg_declarative_svg_badge_generation) - [GGG – Declarative SVG badge generation using Guile Scheme and SXML](https://codeberg.org/jjba23/ggg)
 * [2026-07-21, 07:20:43](https://lobste.rs/s/qlg8xj/kde_for_enterprise_needs_strong_pim) - [KDE for Enterprise Needs a Strong PIM Infrastructure](https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/)
 * [2026-07-21, 06:50:14](https://lobste.rs/s/wkm8tk/why_l_new_runtime_for_k_q) - [Why l (new runtime for k and q)](https://lv1.sh/blog/why-l/)
 * [2026-07-21, 06:26:16](https://lobste.rs/s/daa59s/30_70_prs_day_how_we_managed_not_wreck_our) - [30 to 70 PRs a Day: How We Managed to Not Wreck Our Systems](https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems)
