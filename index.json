@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-07-21, 15:26:36",
+      "https://lobste.rs/s/ma6jft/fptalks_2026_thu_aug_6_free_online"
+    ],
+    [
+      "FPTalks 2026 — Thu Aug 6, free, online",
+      "https://fptalks.org/talks/fptalks26.html"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 15:14:38",
       "https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily"
     ],
@@ -197,16 +207,6 @@
     [
       "InvisiCaps: The Fil-C Capability Model",
       "https://fil-c.org/invisicaps"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 14:33:55",
-      "https://lobste.rs/s/bper0d/7_sandbox_escape_vulnerabilities_across"
-    ],
-    [
-      "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
-      "https://www.pillar.security/blog/the-week-of-sandbox-escapes"
     ]
   ],
   [
