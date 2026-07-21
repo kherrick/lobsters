@@ -8,6 +8,7 @@
 * [2026-07-21, 17:34:01](https://lobste.rs/s/9dpycz/k2_reference_manual_1998) - [K2 Reference Manual (1998)](https://web.archive.org/web/20050111142057/http://www.kx.com/technical/documents/kreflite.pdf)
 * [2026-07-21, 16:45:27](https://lobste.rs/s/qjkrey/cron_jobs_c_from_scratch) - [Cron Jobs in C from Scratch](https://www.youtube.com/watch?v=jgJqUQueYqE)
 * [2026-07-21, 15:52:21](https://lobste.rs/s/nlhmco/capture_clauses_as_effects) - [Capture Clauses as Effects](https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes)
+* [2026-07-21, 15:51:04](https://lobste.rs/s/jbe8ie/claude_is_not_compiler) - [Claude Is Not a Compiler](https://blog.exe.dev/claude-is-not-a-compiler)
 * [2026-07-21, 15:26:36](https://lobste.rs/s/ma6jft/fptalks_2026_thu_aug_6_free_online) - [FPTalks 2026 — Thu Aug 6, free, online](https://fptalks.org/talks/fptalks26.html)
 * [2026-07-21, 15:14:38](https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily) - [lazy-tmux: restore tmux sessions lazily, with scrollback](https://lazy-tmux.xyz)
 * [2026-07-21, 15:13:09](https://lobste.rs/s/w031bw/open_source_alternative_icloud_google) - [An open-source alternative to iCloud and Google Photos](https://github.com/Lynavo/lynavo-drive)
