@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-21, 18:35:19](https://lobste.rs/s/wub9oc/using_nagios_for_small_business) - [Using Nagios for small business infrastructure monitoring](https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/)
+* [2026-07-21, 18:02:26](https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere) - [“No AI” Statements Are Much More Than Mere Statements](https://journal.james-zhan.com/no-ai-statements/)
 * [2026-07-21, 17:50:36](https://lobste.rs/s/xroult/web_based_jujutsu_revset_explorer) - [Web-based Jujutsu revset explorer & debugger](https://juju.bi/tools/revset)
 * [2026-07-21, 15:52:21](https://lobste.rs/s/nlhmco/capture_clauses_as_effects) - [Capture Clauses as Effects](https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes)
 * [2026-07-21, 15:51:04](https://lobste.rs/s/jbe8ie/claude_is_not_compiler) - [Claude Is Not a Compiler](https://blog.exe.dev/claude-is-not-a-compiler)
-* [2026-07-21, 15:26:36](https://lobste.rs/s/ma6jft/fptalks_2026_thu_aug_6_free_online) - [FPTalks 2026 — Thu Aug 6, free, online](https://fptalks.org/talks/fptalks26.html)
 * [2026-07-21, 15:14:38](https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily) - [lazy-tmux: restore tmux sessions lazily, with scrollback](https://lazy-tmux.xyz)
 * [2026-07-21, 12:31:15](https://lobste.rs/s/cxz7vd/git_end_options) - [git --end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 12:16:08](https://lobste.rs/s/s4gljc/thoughts_on_integers_2023) - [Thoughts On Integers (2023)](https://blog.xoria.org/integers/)
@@ -23,7 +24,6 @@
 * [2026-07-20, 15:21:15](https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model) - [InvisiCaps: The Fil-C Capability Model](https://fil-c.org/invisicaps)
 * [2026-07-20, 13:58:52](https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
 * [2026-07-20, 12:10:14](https://lobste.rs/s/21lrrw/gitolite) - [Gitolite](https://gitolite.com/gitolite/index.html)
-* [2026-07-20, 08:28:45](https://lobste.rs/s/jr72dt/minimal_git_ci_using_hooks) - [Minimal Git CI using hooks](https://mccd.space/posts/26-06-29/simple-git-ci)
 * [2026-07-20, 07:04:02](https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed) - [I wrote an API client for my water-cooled bed](https://tinkering.xyz/bedctl/)
 
 ## [Archives](archives/index.md)

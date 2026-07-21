@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 18:35:19](https://lobste.rs/s/wub9oc/using_nagios_for_small_business) - [Using Nagios for small business infrastructure monitoring](https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/)
+* [2026-07-21, 18:02:26](https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere) - [“No AI” Statements Are Much More Than Mere Statements](https://journal.james-zhan.com/no-ai-statements/)
 * [2026-07-21, 17:50:36](https://lobste.rs/s/xroult/web_based_jujutsu_revset_explorer) - [Web-based Jujutsu revset explorer & debugger](https://juju.bi/tools/revset)
 * [2026-07-21, 17:34:01](https://lobste.rs/s/9dpycz/k2_reference_manual_1998) - [K2 Reference Manual (1998)](https://web.archive.org/web/20050111142057/http://www.kx.com/technical/documents/kreflite.pdf)
 * [2026-07-21, 16:45:27](https://lobste.rs/s/qjkrey/cron_jobs_c_from_scratch) - [Cron Jobs in C from Scratch](https://www.youtube.com/watch?v=jgJqUQueYqE)
