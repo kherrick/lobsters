@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-07-21, 17:34:01",
+      "https://lobste.rs/s/9dpycz/k2_reference_manual_1998"
+    ],
+    [
+      "K2 Reference Manual (1998)",
+      "https://web.archive.org/web/20050111142057/http://www.kx.com/technical/documents/kreflite.pdf"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 15:52:21",
       "https://lobste.rs/s/nlhmco/capture_clauses_as_effects"
     ],
@@ -217,16 +227,6 @@
     [
       "InvisiCaps: The Fil-C Capability Model",
       "https://fil-c.org/invisicaps"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:58:52",
-      "https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc"
-    ],
-    [
-      "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-      "https://soteria-tools.com/blog/meta-garbage-collection"
     ]
   ],
   [
