@@ -6,6 +6,7 @@
 
 * [2026-07-21, 22:47:54](https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini) - [Bringing the modern web to the original iPad mini](https://seg6.space/posts/resurrecting-ipad-mini)
 * [2026-07-21, 22:36:12](https://lobste.rs/s/ohl1dh/value_domain_knowledge_software) - [The Value of Domain Knowledge in Software](https://www.gustavwengel.dk/value-of-domain-knowledge)
+* [2026-07-21, 21:59:43](https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs) - [Parallelizing Compilation: In-Process vs Multi-Process](https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs)
 * [2026-07-21, 20:44:50](https://lobste.rs/s/jmuobj/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much](https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/)
 * [2026-07-21, 20:39:54](https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers) - [Free Ink · An open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 20:38:04](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox) - [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
