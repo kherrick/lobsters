@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-21, 15:14:38",
+      "https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily"
+    ],
+    [
+      "lazy-tmux: restore tmux sessions lazily, with scrollback",
+      "https://lazy-tmux.xyz"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 15:13:09",
+      "https://lobste.rs/s/w031bw/open_source_alternative_icloud_google"
+    ],
+    [
+      "An open-source alternative to iCloud and Google Photos",
+      "https://github.com/Lynavo/lynavo-drive"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 13:32:43",
       "https://lobste.rs/s/cvibea/low_mid_tier_mobile_for_real_world"
     ],
@@ -57,6 +77,16 @@
     [
       "Linux kernel will support $ORIGIN, sort of",
       "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 09:59:57",
+      "https://lobste.rs/s/jpq033/ggg_declarative_svg_badge_generation"
+    ],
+    [
+      "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
+      "https://codeberg.org/jjba23/ggg"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-07-20, 21:48:43",
-      "https://lobste.rs/s/piabis/postgres_19_compression_from_pglz_lz4"
-    ],
-    [
-      "Postgres 19 Compression: from pglz to LZ4",
-      "https://www.crunchydata.com/blog/postgres-19-compression-from-pglz-to-lz4"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 16:40:40",
       "https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-20, 14:33:55",
-      "https://lobste.rs/s/bper0d/7_sandbox_escape_vulnerabilities_across"
-    ],
-    [
-      "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
-      "https://www.pillar.security/blog/the-week-of-sandbox-escapes"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 13:58:52",
       "https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc"
     ],
@@ -217,16 +227,6 @@
     [
       "Gitolite",
       "https://gitolite.com/gitolite/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 10:30:01",
-      "https://lobste.rs/s/bz0spb/building_amigaos_development"
-    ],
-    [
-      "Building an AmigaOS Development Environment in 2026",
-      "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html"
     ]
   ],
   [
