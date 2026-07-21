@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 12:31:15](https://lobste.rs/s/cxz7vd/git_end_options) - [git --end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 12:16:08](https://lobste.rs/s/s4gljc/thoughts_on_integers_2023) - [Thoughts On Integers (2023)](https://blog.xoria.org/integers/)
 * [2026-07-21, 10:11:59](https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix) - [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html)
 * [2026-07-21, 10:03:51](https://lobste.rs/s/ivtjcv/escape_intellij_scala_kotlin_lsps_on) - [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
