@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-07-21, 20:39:54",
+      "https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers"
+    ],
+    [
+      "Free Ink · An open ecosystem for e-readers",
+      "https://freeink.org/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 20:38:04",
+      "https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox"
+    ],
+    [
+      "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+      "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 19:57:49",
       "https://lobste.rs/s/nv7xhn/cosmic_de_s_first_seven_months"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-07-21, 02:23:52",
-      "https://lobste.rs/s/s13fc0/using_ssh_bastion_only_when_i_m_touching"
-    ],
-    [
-      "Using a SSH bastion, but only when I'm touching grass",
-      "https://evertpot.com/ssh-tunnel-if-unresolvable/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 22:16:00",
       "https://lobste.rs/s/wfmpqr/human_mathematicians_are_being"
     ],
@@ -237,16 +247,6 @@
     [
       "Gitolite",
       "https://gitolite.com/gitolite/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 07:04:02",
-      "https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"
-    ],
-    [
-      "I wrote an API client for my water-cooled bed",
-      "https://tinkering.xyz/bedctl/"
     ]
   ]
 ]
