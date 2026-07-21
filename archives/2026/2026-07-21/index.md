@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 07:20:43](https://lobste.rs/s/qlg8xj/kde_for_enterprise_needs_strong_pim) - [KDE for Enterprise Needs a Strong PIM Infrastructure](https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/)
+* [2026-07-21, 06:50:14](https://lobste.rs/s/wkm8tk/why_l_new_runtime_for_k_q) - [Why l (new runtime for k and q)](https://lv1.sh/blog/why-l/)
 * [2026-07-21, 06:26:16](https://lobste.rs/s/daa59s/30_70_prs_day_how_we_managed_not_wreck_our) - [30 to 70 PRs a Day: How We Managed to Not Wreck Our Systems](https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems)
 * [2026-07-21, 06:13:09](https://lobste.rs/s/ifh0wb/security_incident_disclosure_july_2026) - [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026)
 * [2026-07-21, 03:50:28](https://lobste.rs/s/t2jxyu/432_linux_kernel_cves_published_last_24) - [432 Linux kernel CVEs published in the last 24 hours](https://lore.kernel.org/linux-cve-announce/)
