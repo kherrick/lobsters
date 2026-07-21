@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-21, 06:26:16",
+      "https://lobste.rs/s/daa59s/30_70_prs_day_how_we_managed_not_wreck_our"
+    ],
+    [
+      "30 to 70 PRs a Day: How We Managed to Not Wreck Our Systems",
+      "https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 06:13:09",
+      "https://lobste.rs/s/ifh0wb/security_incident_disclosure_july_2026"
+    ],
+    [
+      "Security incident disclosure — July 2026",
+      "https://huggingface.co/blog/security-incident-july-2026"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 03:50:28",
       "https://lobste.rs/s/t2jxyu/432_linux_kernel_cves_published_last_24"
     ],
@@ -87,16 +107,6 @@
     [
       "Postgres 19 Compression: from pglz to LZ4",
       "https://www.crunchydata.com/blog/postgres-19-compression-from-pglz-to-lz4"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 20:21:03",
-      "https://lobste.rs/s/jgftsd/personal_anthology_goal_code"
-    ],
-    [
-      "Personal Anthology of Goal Code",
-      "https://goalprogramming.info/personal-anthology.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "email encryption",
       "https://computer.rip/2026-07-19-email-encryption.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 01:01:25",
-      "https://lobste.rs/s/u93mkb/cagire_forth_based_live_coding_sequencer"
-    ],
-    [
-      "Cagire - Forth-based live coding sequencer",
-      "https://cagire.raphaelforment.fr"
     ]
   ],
   [
