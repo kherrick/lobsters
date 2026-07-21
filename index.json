@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-21, 12:31:15",
+      "https://lobste.rs/s/cxz7vd/git_end_options"
+    ],
+    [
+      "git --end-of-options",
+      "https://nesbitt.io/2026/07/21/end-of-options.html"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 12:16:08",
       "https://lobste.rs/s/s4gljc/thoughts_on_integers_2023"
     ],
@@ -237,16 +247,6 @@
     [
       "I wrote an API client for my water-cooled bed",
       "https://tinkering.xyz/bedctl/"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 05:39:53",
-      "https://lobste.rs/s/zvoqic/email_encryption"
-    ],
-    [
-      "email encryption",
-      "https://computer.rip/2026-07-19-email-encryption.html"
     ]
   ]
 ]
