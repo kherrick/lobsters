@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-22, 18:59:00",
+      "https://lobste.rs/s/miadav/dark_elevator_windows_install_service"
+    ],
+    [
+      "Dark Elevator: Windows Install Service Local Privilege Escalation (CVE-2026-50343)",
+      "https://blog.calif.io/p/dark-elevator-windows-install-service"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 17:35:25",
       "https://lobste.rs/s/l8hiip/announcing_topcoat_framework_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Linux kernel will support $ORIGIN, sort of",
       "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 03:02:24",
-      "https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"
-    ],
-    [
-      "95 reasons for having your own website",
-      "https://bellkiosk.website/blog/reasons-to-website.html"
     ]
   ]
 ]
