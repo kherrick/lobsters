@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 08:48:18](https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
 * [2026-07-22, 07:21:31](https://lobste.rs/s/egdij3/libei_integrations_xdg_remotedesktop) - [libei integrations in the XDG RemoteDesktop and InputCapture portals](http://who-t.blogspot.com/2026/07/libei-integrations-in-xdg-remotedesktop.html)
 * [2026-07-22, 06:36:31](https://lobste.rs/s/roovnv/rewriting_futhark_type_checker) - [Rewriting the Futhark type checker](https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html)
 * [2026-07-22, 06:19:17](https://lobste.rs/s/mbge4p/ecc_ddr5) - [ECC and DDR5](https://etbe.coker.com.au/2026/07/19/ecc-ddr5/)
