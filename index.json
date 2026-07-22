@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-22, 15:59:07",
+      "https://lobste.rs/s/wzncfn/unicode_variation_selector_15_some_my"
+    ],
+    [
+      "Unicode Variation Selector-15 and some of my tears",
+      "https://benjaminwil.info/weblog/variation-selector-15/"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 15:31:00",
+      "https://lobste.rs/s/zy7kbn/dcmake_new_cmake_debugger_ui"
+    ],
+    [
+      "dcmake: a new CMake debugger UI",
+      "https://nullprogram.com/blog/2026/04/07/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 15:01:49",
       "https://lobste.rs/s/53g8f7/pypi_releases_now_reject_new_files_after"
     ],
@@ -42,10 +62,10 @@
   [
     [
       "2026-07-22, 09:11:49",
-      "https://lobste.rs/s/pa54mh/log_is_non_monotonous_php_lua"
+      "https://lobste.rs/s/pa54mh/log_is_non_monotonic_php_lua"
     ],
     [
-      "log is non-monotonous in PHP and Lua",
+      "log is non-monotonic in PHP and Lua",
       "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/"
     ]
   ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-07-21, 15:52:21",
-      "https://lobste.rs/s/nlhmco/capture_clauses_as_effects"
-    ],
-    [
-      "Capture Clauses as Effects",
-      "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 12:31:15",
       "https://lobste.rs/s/cxz7vd/git_end_options"
     ],
     [
       "git --end-of-options",
       "https://nesbitt.io/2026/07/21/end-of-options.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 12:16:08",
-      "https://lobste.rs/s/s4gljc/thoughts_on_integers_2023"
-    ],
-    [
-      "Thoughts On Integers (2023)",
-      "https://blog.xoria.org/integers/"
     ]
   ],
   [
