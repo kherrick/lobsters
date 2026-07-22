@@ -11,6 +11,7 @@
 * [2026-07-21, 20:39:54](https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers) - [Free Ink · An open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 20:38:04](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox) - [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [2026-07-21, 19:57:49](https://lobste.rs/s/nv7xhn/cosmic_de_s_first_seven_months) - [COSMIC DE’s First Seven Months](https://system76.com/blog/post/cosmic-de-first-seven-months)
+* [2026-07-21, 19:33:38](https://lobste.rs/s/ovdlje/ap8l_apl_for_pico_8) - [AP8L - APL for the Pico-8](https://www.lexaloffle.com/bbs/?tid=152582)
 * [2026-07-21, 19:33:38](https://lobste.rs/s/ovdlje/ap8l_apl) - [AP8L - apl](https://www.lexaloffle.com/bbs/?tid=152582)
 * [2026-07-21, 19:02:41](https://lobste.rs/s/7v1k7i/cosy_language) - [Cosy Language](https://cosy.com/y26/NL202603.html)
 * [2026-07-21, 18:35:19](https://lobste.rs/s/wub9oc/using_nagios_for_small_business) - [Using Nagios for small business infrastructure monitoring](https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/)
