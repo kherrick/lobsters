@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-07-22, 09:11:49",
+      "https://lobste.rs/s/pa54mh/log_is_non_monotonous_php_lua"
+    ],
+    [
+      "log is non-monotonous in PHP and Lua",
+      "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 08:48:18",
       "https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe"
     ],
     [
       "So Reddit has decided that plain HTML is unsafe",
       "https://www.cole-k.com/2026/07/21/reddit/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 07:21:31",
-      "https://lobste.rs/s/egdij3/libei_integrations_xdg_remotedesktop"
-    ],
-    [
-      "libei integrations in the XDG RemoteDesktop and InputCapture portals",
-      "http://who-t.blogspot.com/2026/07/libei-integrations-in-xdg-remotedesktop.html"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "LG to Ban Residential Proxies from Smart TV Apps",
       "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 05:34:36",
+      "https://lobste.rs/s/7a2nvk/slash_pages"
+    ],
+    [
+      "Slash Pages",
+      "https://slashpages.net/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Linux kernel will support $ORIGIN, sort of",
       "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 09:59:57",
-      "https://lobste.rs/s/jpq033/ggg_declarative_svg_badge_generation"
-    ],
-    [
-      "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
-      "https://codeberg.org/jjba23/ggg"
     ]
   ],
   [
