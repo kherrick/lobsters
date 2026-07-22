@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 15:59:07](https://lobste.rs/s/wzncfn/unicode_variation_selector_15_some_my) - [Unicode Variation Selector-15 and some of my tears](https://benjaminwil.info/weblog/variation-selector-15/)
+* [2026-07-22, 15:31:00](https://lobste.rs/s/zy7kbn/dcmake_new_cmake_debugger_ui) - [dcmake: a new CMake debugger UI](https://nullprogram.com/blog/2026/04/07/)
 * [2026-07-22, 15:01:49](https://lobste.rs/s/53g8f7/pypi_releases_now_reject_new_files_after) - [PyPI releases now reject new files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
 * [2026-07-22, 14:36:24](https://lobste.rs/s/uhroxb/snake_temple_for_oric_atmos_10_lines_basic) - [Snake Temple for Oric Atmos, in 10 lines of BASIC (2022)](https://bunsen.itch.io/the-snake-temple-by-rax)
 * [2026-07-22, 12:39:57](https://lobste.rs/s/tsp3fq/unranked_systemd_crawls) - [Unranked, systemd, crawls](https://www.marginalia.nu/log/a_138_systemdocker/)
 * [2026-07-22, 10:00:55](https://lobste.rs/s/gkcjic/simd_for_collision) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
 * [2026-07-22, 09:13:54](https://lobste.rs/s/7b5n2s/old_pc_emulators_run_browser) - [Old PC emulators that run in the browser](https://www.pcjs.org/)
 * [2026-07-22, 09:11:49](https://lobste.rs/s/pa54mh/log_is_non_monotonous_php_lua) - [log is non-monotonous in PHP and Lua](https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/)
+* [2026-07-22, 09:11:49](https://lobste.rs/s/pa54mh/log_is_non_monotonic_php_lua) - [log is non-monotonic in PHP and Lua](https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/)
 * [2026-07-22, 08:48:18](https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
 * [2026-07-22, 07:21:31](https://lobste.rs/s/egdij3/libei_integrations_xdg_remotedesktop) - [libei integrations in the XDG RemoteDesktop and InputCapture portals](http://who-t.blogspot.com/2026/07/libei-integrations-in-xdg-remotedesktop.html)
 * [2026-07-22, 06:36:31](https://lobste.rs/s/roovnv/rewriting_futhark_type_checker) - [Rewriting the Futhark type checker](https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html)
