@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-22, 14:36:24](https://lobste.rs/s/uhroxb/snake_temple_for_oric_atmos_10_lines_basic) - [Snake Temple for Oric Atmos, in 10 lines of BASIC (2022)](https://bunsen.itch.io/the-snake-temple-by-rax)
+* [2026-07-22, 15:01:49](https://lobste.rs/s/53g8f7/pypi_releases_now_reject_new_files_after) - [PyPI releases now reject new files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
 * [2026-07-22, 12:39:57](https://lobste.rs/s/tsp3fq/unranked_systemd_crawls) - [Unranked, systemd, crawls](https://www.marginalia.nu/log/a_138_systemdocker/)
 * [2026-07-22, 10:00:55](https://lobste.rs/s/gkcjic/simd_for_collision) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
 * [2026-07-22, 09:13:54](https://lobste.rs/s/7b5n2s/old_pc_emulators_run_browser) - [Old PC emulators that run in the browser](https://www.pcjs.org/)
@@ -9,6 +9,7 @@
 * [2026-07-22, 06:36:31](https://lobste.rs/s/roovnv/rewriting_futhark_type_checker) - [Rewriting the Futhark type checker](https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html)
 * [2026-07-22, 06:19:17](https://lobste.rs/s/mbge4p/ecc_ddr5) - [ECC and DDR5](https://etbe.coker.com.au/2026/07/19/ecc-ddr5/)
 * [2026-07-22, 05:56:08](https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv) - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+* [2026-07-22, 05:49:05](https://lobste.rs/s/x8soyh/prefactoring_clear_way_for_your_new) - [Prefactoring: Clear the Way for Your New Feature](https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html)
 * [2026-07-22, 05:34:36](https://lobste.rs/s/7a2nvk/slash_pages) - [Slash Pages](https://slashpages.net/)
 * [2026-07-22, 02:46:37](https://lobste.rs/s/x5ewgv/some_more_things_about_django_i_ve_been) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 * [2026-07-21, 22:47:54](https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini) - [Bringing the modern web to the original iPad mini](https://seg6.space/posts/resurrecting-ipad-mini)
@@ -23,7 +24,6 @@
 * [2026-07-21, 12:16:08](https://lobste.rs/s/s4gljc/thoughts_on_integers_2023) - [Thoughts On Integers (2023)](https://blog.xoria.org/integers/)
 * [2026-07-21, 10:11:59](https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix) - [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html)
 * [2026-07-21, 10:02:46](https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
-* [2026-07-21, 03:50:28](https://lobste.rs/s/t2jxyu/432_linux_kernel_cves_published_last_24) - [432 Linux kernel CVEs published in the last 24 hours](https://lore.kernel.org/linux-cve-announce/)
 * [2026-07-21, 03:02:24](https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website) - [95 reasons for having your own website](https://bellkiosk.website/blog/reasons-to-website.html)
 
 ## [Archives](archives/index.md)
