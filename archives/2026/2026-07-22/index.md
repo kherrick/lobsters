@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 10:00:55](https://lobste.rs/s/gkcjic/simd_for_collision) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
 * [2026-07-22, 09:11:49](https://lobste.rs/s/pa54mh/log_is_non_monotonous_php_lua) - [log is non-monotonous in PHP and Lua](https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/)
 * [2026-07-22, 08:48:18](https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
 * [2026-07-22, 07:21:31](https://lobste.rs/s/egdij3/libei_integrations_xdg_remotedesktop) - [libei integrations in the XDG RemoteDesktop and InputCapture portals](http://who-t.blogspot.com/2026/07/libei-integrations-in-xdg-remotedesktop.html)

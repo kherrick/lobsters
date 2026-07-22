@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-22, 10:00:55](https://lobste.rs/s/gkcjic/simd_for_collision) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
 * [2026-07-22, 09:11:49](https://lobste.rs/s/pa54mh/log_is_non_monotonous_php_lua) - [log is non-monotonous in PHP and Lua](https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/)
 * [2026-07-22, 08:48:18](https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
 * [2026-07-22, 06:36:31](https://lobste.rs/s/roovnv/rewriting_futhark_type_checker) - [Rewriting the Futhark type checker](https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html)
@@ -9,7 +10,6 @@
 * [2026-07-22, 02:46:37](https://lobste.rs/s/x5ewgv/some_more_things_about_django_i_ve_been) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 * [2026-07-21, 22:47:54](https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini) - [Bringing the modern web to the original iPad mini](https://seg6.space/posts/resurrecting-ipad-mini)
 * [2026-07-21, 22:38:33](https://lobste.rs/s/0btjlt/engineer_s_guide_usb_type_c) - [An Engineer’s Guide to USB Type-C](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)
-* [2026-07-21, 21:59:43](https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs) - [Parallelizing Compilation: In-Process vs Multi-Process](https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs)
 * [2026-07-21, 20:44:50](https://lobste.rs/s/jmuobj/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much](https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/)
 * [2026-07-21, 20:39:54](https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers) - [Free Ink · An open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 20:38:04](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox) - [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
