@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-22, 20:24:10](https://lobste.rs/s/tltlwf/refluxfs_linux_kernel_local_privilege) - [RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)](https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600)
+* [2026-07-22, 18:59:00](https://lobste.rs/s/miadav/dark_elevator_windows_install_service) - [Dark Elevator: Windows Install Service Local Privilege Escalation (CVE-2026-50343)](https://blog.calif.io/p/dark-elevator-windows-install-service)
 * [2026-07-22, 17:35:25](https://lobste.rs/s/l8hiip/announcing_topcoat_framework_for) - [Announcing Topcoat: a framework for building full-stack reactive web apps with Rust](https://tokio.rs/blog/2026-07-22-announcing-topcoat)
 * [2026-07-22, 15:59:07](https://lobste.rs/s/wzncfn/unicode_variation_selector_15_some_my) - [Unicode Variation Selector-15 and some of my tears](https://benjaminwil.info/weblog/variation-selector-15/)
 * [2026-07-22, 15:31:00](https://lobste.rs/s/zy7kbn/dcmake_new_cmake_debugger_ui) - [dcmake: a new CMake debugger UI](https://nullprogram.com/blog/2026/04/07/)
@@ -24,7 +25,6 @@
 * [2026-07-21, 18:02:26](https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere) - [“No AI” Statements Are Much More Than Mere Statements](https://journal.james-zhan.com/no-ai-statements/)
 * [2026-07-21, 12:31:15](https://lobste.rs/s/cxz7vd/git_end_options) - [git --end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 10:11:59](https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix) - [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html)
-* [2026-07-21, 10:02:46](https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
 
 ## [Archives](archives/index.md)
 
