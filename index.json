@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-22, 07:21:31",
+      "https://lobste.rs/s/egdij3/libei_integrations_xdg_remotedesktop"
+    ],
+    [
+      "libei integrations in the XDG RemoteDesktop and InputCapture portals",
+      "http://who-t.blogspot.com/2026/07/libei-integrations-in-xdg-remotedesktop.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 06:36:31",
+      "https://lobste.rs/s/roovnv/rewriting_futhark_type_checker"
+    ],
+    [
+      "Rewriting the Futhark type checker",
+      "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 06:19:17",
       "https://lobste.rs/s/mbge4p/ecc_ddr5"
     ],
@@ -197,26 +217,6 @@
     [
       "GGG – Declarative SVG badge generation using Guile Scheme and SXML",
       "https://codeberg.org/jjba23/ggg"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 09:57:39",
-      "https://lobste.rs/s/e7x0ha/five_moments_snapping_history"
-    ],
-    [
-      "Five moments in snapping history",
-      "https://unsung.aresluna.org/five-moments-in-snapping-history/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 07:20:43",
-      "https://lobste.rs/s/qlg8xj/kde_for_enterprise_needs_strong_pim"
-    ],
-    [
-      "KDE for Enterprise Needs a Strong PIM Infrastructure",
-      "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/"
     ]
   ],
   [
