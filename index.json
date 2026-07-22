@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-22, 17:35:25",
+      "https://lobste.rs/s/l8hiip/announcing_topcoat_framework_for"
+    ],
+    [
+      "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
+      "https://tokio.rs/blog/2026-07-22-announcing-topcoat"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 15:59:07",
       "https://lobste.rs/s/wzncfn/unicode_variation_selector_15_some_my"
     ],
@@ -197,16 +207,6 @@
     [
       "“No AI” Statements Are Much More Than Mere Statements",
       "https://journal.james-zhan.com/no-ai-statements/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 17:50:36",
-      "https://lobste.rs/s/xroult/web_based_jujutsu_revset_explorer"
-    ],
-    [
-      "Web-based Jujutsu revset explorer & debugger",
-      "https://juju.bi/tools/revset"
     ]
   ],
   [
