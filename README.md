@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-22, 18:59:00](https://lobste.rs/s/miadav/dark_elevator_windows_install_service) - [Dark Elevator: Windows Install Service Local Privilege Escalation (CVE-2026-50343)](https://blog.calif.io/p/dark-elevator-windows-install-service)
 * [2026-07-22, 17:35:25](https://lobste.rs/s/l8hiip/announcing_topcoat_framework_for) - [Announcing Topcoat: a framework for building full-stack reactive web apps with Rust](https://tokio.rs/blog/2026-07-22-announcing-topcoat)
 * [2026-07-22, 15:59:07](https://lobste.rs/s/wzncfn/unicode_variation_selector_15_some_my) - [Unicode Variation Selector-15 and some of my tears](https://benjaminwil.info/weblog/variation-selector-15/)
 * [2026-07-22, 15:31:00](https://lobste.rs/s/zy7kbn/dcmake_new_cmake_debugger_ui) - [dcmake: a new CMake debugger UI](https://nullprogram.com/blog/2026/04/07/)
@@ -24,7 +25,6 @@
 * [2026-07-21, 12:31:15](https://lobste.rs/s/cxz7vd/git_end_options) - [git --end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 10:11:59](https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix) - [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html)
 * [2026-07-21, 10:02:46](https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
-* [2026-07-21, 03:02:24](https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website) - [95 reasons for having your own website](https://bellkiosk.website/blog/reasons-to-website.html)
 
 ## [Archives](archives/index.md)
 
