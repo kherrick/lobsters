@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 14:36:24](https://lobste.rs/s/uhroxb/snake_temple_for_oric_atmos_10_lines_basic) - [Snake Temple for Oric Atmos, in 10 lines of BASIC (2022)](https://bunsen.itch.io/the-snake-temple-by-rax)
+* [2026-07-22, 12:39:57](https://lobste.rs/s/tsp3fq/unranked_systemd_crawls) - [Unranked, systemd, crawls](https://www.marginalia.nu/log/a_138_systemdocker/)
 * [2026-07-22, 10:00:55](https://lobste.rs/s/gkcjic/simd_for_collision) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
+* [2026-07-22, 09:13:54](https://lobste.rs/s/7b5n2s/old_pc_emulators_run_browser) - [Old PC emulators that run in the browser](https://www.pcjs.org/)
 * [2026-07-22, 09:11:49](https://lobste.rs/s/pa54mh/log_is_non_monotonous_php_lua) - [log is non-monotonous in PHP and Lua](https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/)
 * [2026-07-22, 08:48:18](https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
 * [2026-07-22, 07:21:31](https://lobste.rs/s/egdij3/libei_integrations_xdg_remotedesktop) - [libei integrations in the XDG RemoteDesktop and InputCapture portals](http://who-t.blogspot.com/2026/07/libei-integrations-in-xdg-remotedesktop.html)
