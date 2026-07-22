@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-22, 18:59:00",
+      "https://lobste.rs/s/miadav/dark_elevator_windows_install_service"
+    ],
+    [
+      "Dark Elevator: Windows Install Service Local Privilege Escalation (CVE-2026-50343)",
+      "https://blog.calif.io/p/dark-elevator-windows-install-service"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 17:35:25",
       "https://lobste.rs/s/l8hiip/announcing_topcoat_framework_for"
     ],
@@ -237,16 +247,6 @@
     [
       "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
       "https://thorsell.io/2026/07/21/github-ssh-keys.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 10:02:46",
-      "https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort"
-    ],
-    [
-      "Linux kernel will support $ORIGIN, sort of",
-      "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of"
     ]
   ]
 ]
