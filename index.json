@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-22, 06:19:17",
+      "https://lobste.rs/s/mbge4p/ecc_ddr5"
+    ],
+    [
+      "ECC and DDR5",
+      "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 05:56:08",
       "https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"
     ],
@@ -27,6 +37,16 @@
     [
       "Bringing the modern web to the original iPad mini",
       "https://seg6.space/posts/resurrecting-ipad-mini"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 22:38:33",
+      "https://lobste.rs/s/0btjlt/engineer_s_guide_usb_type_c"
+    ],
+    [
+      "An Engineer’s Guide to USB Type-C",
+      "https://www.ti.com/lit/eb/slyy228/slyy228.pdf"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-07-21, 18:35:19",
-      "https://lobste.rs/s/wub9oc/using_nagios_for_small_business"
-    ],
-    [
-      "Using Nagios for small business infrastructure monitoring",
-      "https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 18:02:26",
       "https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere"
     ],
@@ -137,16 +147,6 @@
     [
       "Capture Clauses as Effects",
       "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 15:14:38",
-      "https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily"
-    ],
-    [
-      "lazy-tmux: restore tmux sessions lazily, with scrollback",
-      "https://lazy-tmux.xyz"
     ]
   ],
   [
