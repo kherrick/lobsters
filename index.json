@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-23, 18:42:17",
+      "https://lobste.rs/s/oscswl/agent_shell_0_63_updates"
+    ],
+    [
+      "agent-shell 0.63 updates",
+      "https://xenodium.com/agent-shell-0-63-updates"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 16:58:59",
       "https://lobste.rs/s/gtxmc4/pimpl_idiom_c_26_std_indirect_type"
     ],
@@ -207,16 +217,6 @@
     [
       "PyPI releases now reject new files after 14 days",
       "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 12:39:57",
-      "https://lobste.rs/s/tsp3fq/unranked_systemd_crawls"
-    ],
-    [
-      "Unranked, systemd, crawls",
-      "https://www.marginalia.nu/log/a_138_systemdocker/"
     ]
   ],
   [
