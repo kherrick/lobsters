@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-23, 04:51:37",
+      "https://lobste.rs/s/n0hq44/your_analytics_are_lying_you"
+    ],
+    [
+      "Your analytics are lying to you",
+      "https://ankursethi.com/blog/your-analytics-are-lying-to-you/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 04:02:57",
+      "https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction"
+    ],
+    [
+      "What Rose Petals Teach Us about Induction",
+      "https://www.oranlooney.com/post/rose-petals/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 02:34:20",
       "https://lobste.rs/s/nohrpm/algebraic_effects_handlers_portable_c99"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-07-21, 22:47:54",
-      "https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini"
-    ],
-    [
-      "Bringing the modern web to the original iPad mini",
-      "https://seg6.space/posts/resurrecting-ipad-mini"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 20:39:54",
       "https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers"
     ],
@@ -237,16 +247,6 @@
     [
       "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
       "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 10:11:59",
-      "https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"
-    ],
-    [
-      "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
-      "https://thorsell.io/2026/07/21/github-ssh-keys.html"
     ]
   ]
 ]
