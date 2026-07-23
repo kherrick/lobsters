@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 20:54:31](https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme) - [Jolt: running Clojure on Chez Scheme](https://yogthos.net/posts/2026-07-02-jolt.html)
 * [2026-07-23, 19:53:40](https://lobste.rs/s/auk6ft/improving_std_simd_swizzle_dyn) - [Improving std::simd::swizzle_dyn](https://shnatsel.github.io/improving-std-simd-swizzle-dyn/)
 * [2026-07-23, 18:42:17](https://lobste.rs/s/oscswl/agent_shell_0_63_updates) - [agent-shell 0.63 updates](https://xenodium.com/agent-shell-0-63-updates)
 * [2026-07-23, 18:04:14](https://lobste.rs/s/kq9oh7/prompt_caching_agents) - [Prompt Caching In Agents](https://earendil.com/posts/prompt-caching/)
