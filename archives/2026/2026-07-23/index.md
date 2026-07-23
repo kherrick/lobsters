@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 14:37:58](https://lobste.rs/s/wbgmem/beyond_single_number_evaluating) - [Beyond a Single Number: Evaluating Quantized Models for Deployment](https://byteshape.com/blogs/Evaluating-Quantized-Models/)
 * [2026-07-23, 13:37:15](https://lobste.rs/s/dxaogf/silent_replacement_trusted_macos_app) - [Silent Replacement of Trusted macOS App Executables](https://mysk.blog/2026/07/23/macos-overwrite-app-executables/)
 * [2026-07-23, 13:01:28](https://lobste.rs/s/mwelmm/on_accountability) - [On Accountability](https://addisoncrump.info/research/on-accountability/)
 * [2026-07-23, 12:12:50](https://lobste.rs/s/p4xo2i/software_rendering_500_lines_bare_c) - [Software rendering in 500 lines of bare C++](https://ssloy.github.io/tinyrenderer/)
 * [2026-07-23, 10:57:35](https://lobste.rs/s/rdg7lw/carbon_memory_safety_first_deep_dive) - [Carbon Memory Safety first deep dive](https://drive.google.com/file/d/1tQlzpnbWZfn2WtTFMoJgF93QteByBBwm/view)
 * [2026-07-23, 10:20:47](https://lobste.rs/s/js37j1/package_name_prefixes) - [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html)
 * [2026-07-23, 10:16:17](https://lobste.rs/s/nsnb4j/first_known_runaway_ai_agent_very_bad) - [The first known runaway AI agent - or a very bad marketing stunt?](https://martinalderson.com/posts/huggingface-openai-exploit/)
+* [2026-07-23, 09:47:37](https://lobste.rs/s/gb2xwu/spatial_languages_writing_code_2d) - [Spatial languages: writing code in 2D](https://shukla.io/blog/2026-07/cccx.html)
 * [2026-07-23, 09:31:22](https://lobste.rs/s/urhpbn/wanix_wasm_native_unix_sandboxing_for_web) - [Wanix — Wasm-native Unix sandboxing for the web](https://wanix.dev/)
 * [2026-07-23, 09:30:45](https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification) - [Justif: Knuth-Plass justification and microtypography for the web](https://justif.lyall.co/)
 * [2026-07-23, 09:26:51](https://lobste.rs/s/0ztbqb/linux_patches_introduce_knod_for_kernel) - [Linux Patches Introduce \"KNOD\" For In-Kernel Network Offloading Directly To AMD GPUs](https://www.phoronix.com/news/KNOD-Network-Offload-AMD-GPUs)
