@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-23, 02:34:20",
+      "https://lobste.rs/s/nohrpm/algebraic_effects_handlers_portable_c99"
+    ],
+    [
+      "Algebraic effects and handlers in portable C99",
+      "https://github.com/koka-lang/libhandler"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 02:26:09",
+      "https://lobste.rs/s/fmyrgy/calm_technologies_excite_me"
+    ],
+    [
+      "Calm technologies that excite me",
+      "https://abhi.now/blog/calm-technologies/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 02:09:50",
+      "https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died"
+    ],
+    [
+      "John C. Dvorak has died",
+      "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 01:54:48",
       "https://lobste.rs/s/5nhto6/i_inspected_my_take_home_interview"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-07-22, 06:19:17",
-      "https://lobste.rs/s/mbge4p/ecc_ddr5"
-    ],
-    [
-      "ECC and DDR5",
-      "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 05:56:08",
       "https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"
     ],
@@ -217,26 +237,6 @@
     [
       "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
       "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 19:57:49",
-      "https://lobste.rs/s/nv7xhn/cosmic_de_s_first_seven_months"
-    ],
-    [
-      "COSMIC DE’s First Seven Months",
-      "https://system76.com/blog/post/cosmic-de-first-seven-months"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 18:02:26",
-      "https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere"
-    ],
-    [
-      "“No AI” Statements Are Much More Than Mere Statements",
-      "https://journal.james-zhan.com/no-ai-statements/"
     ]
   ],
   [
