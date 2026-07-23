@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-23, 12:12:50](https://lobste.rs/s/p4xo2i/software_rendering_500_lines_bare_c) - [Software rendering in 500 lines of bare C++](https://ssloy.github.io/tinyrenderer/)
 * [2026-07-23, 10:57:35](https://lobste.rs/s/rdg7lw/carbon_memory_safety_first_deep_dive) - [Carbon Memory Safety first deep dive](https://drive.google.com/file/d/1tQlzpnbWZfn2WtTFMoJgF93QteByBBwm/view)
 * [2026-07-23, 10:20:47](https://lobste.rs/s/js37j1/package_name_prefixes) - [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html)
 * [2026-07-23, 10:16:17](https://lobste.rs/s/nsnb4j/first_known_runaway_ai_agent_very_bad) - [The first known runaway AI agent - or a very bad marketing stunt?](https://martinalderson.com/posts/huggingface-openai-exploit/)
@@ -17,7 +18,6 @@
 * [2026-07-22, 21:33:12](https://lobste.rs/s/lv12lc/why_care_about_programming_languages) - [Why care about programming languages](https://ebellani.github.io/blog/2026/why-care-about-programming-languages/)
 * [2026-07-22, 20:24:10](https://lobste.rs/s/tltlwf/refluxfs_linux_kernel_local_privilege) - [RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)](https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600)
 * [2026-07-22, 17:35:25](https://lobste.rs/s/l8hiip/announcing_topcoat_framework_for) - [Announcing Topcoat: a framework for building full-stack reactive web apps with Rust](https://tokio.rs/blog/2026-07-22-announcing-topcoat)
-* [2026-07-22, 15:59:07](https://lobste.rs/s/wzncfn/unicode_variation_selector_15_some_my) - [Unicode Variation Selector-15 and some of my tears](https://benjaminwil.info/weblog/variation-selector-15/)
 * [2026-07-22, 15:01:49](https://lobste.rs/s/53g8f7/pypi_releases_now_reject_new_files_after) - [PyPI releases now reject new files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
 * [2026-07-22, 12:39:57](https://lobste.rs/s/tsp3fq/unranked_systemd_crawls) - [Unranked, systemd, crawls](https://www.marginalia.nu/log/a_138_systemdocker/)
 * [2026-07-22, 10:00:55](https://lobste.rs/s/gkcjic/simd_for_collision) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
