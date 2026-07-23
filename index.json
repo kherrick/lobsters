@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-23, 12:12:50",
+      "https://lobste.rs/s/p4xo2i/software_rendering_500_lines_bare_c"
+    ],
+    [
+      "Software rendering in 500 lines of bare C++",
+      "https://ssloy.github.io/tinyrenderer/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 10:57:35",
       "https://lobste.rs/s/rdg7lw/carbon_memory_safety_first_deep_dive"
     ],
@@ -167,16 +177,6 @@
     [
       "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
       "https://tokio.rs/blog/2026-07-22-announcing-topcoat"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 15:59:07",
-      "https://lobste.rs/s/wzncfn/unicode_variation_selector_15_some_my"
-    ],
-    [
-      "Unicode Variation Selector-15 and some of my tears",
-      "https://benjaminwil.info/weblog/variation-selector-15/"
     ]
   ],
   [
