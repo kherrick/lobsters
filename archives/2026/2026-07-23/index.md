@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 16:58:59](https://lobste.rs/s/gtxmc4/pimpl_idiom_c_26_std_indirect_type) - [The PImpl idiom and the C++26 std::indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
+* [2026-07-23, 16:26:34](https://lobste.rs/s/uy8soh/how_ai_is_changing_open_source) - [How AI Is Changing Open Source](https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/)
 * [2026-07-23, 16:14:57](https://lobste.rs/s/6kkxbx/how_mvcc_transactions_work_rocksdb) - [How MVCC and Transactions Work in RocksDB](https://artem.krylysov.com/blog/2026/07/23/how-mvcc-and-transactions-work-in-rocksdb/)
 * [2026-07-23, 15:33:26](https://lobste.rs/s/gpqa52/everyone_should_know_simd) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-23, 15:02:39](https://lobste.rs/s/hebflx/i_use_sops) - [But I Use SOPS](https://secretspec.dev/blog/but-i-use-sops/)
