@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-23, 20:54:31",
+      "https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme"
+    ],
+    [
+      "Jolt: running Clojure on Chez Scheme",
+      "https://yogthos.net/posts/2026-07-02-jolt.html"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 19:53:40",
       "https://lobste.rs/s/auk6ft/improving_std_simd_swizzle_dyn"
     ],
@@ -197,16 +207,6 @@
     [
       "Protecting our FLOSS commons from LLMs",
       "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 21:33:17",
-      "https://lobste.rs/s/mush3s/taking_ocaml_eio_for_spin"
-    ],
-    [
-      "Taking OCaml and Eio for a spin",
-      "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html"
     ]
   ],
   [
