@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-23, 15:33:26",
+      "https://lobste.rs/s/gpqa52/everyone_should_know_simd"
+    ],
+    [
+      "Everyone Should Know SIMD",
+      "https://mitchellh.com/writing/everyone-should-know-simd"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 14:37:58",
       "https://lobste.rs/s/wbgmem/beyond_single_number_evaluating"
     ],
@@ -37,16 +47,6 @@
     [
       "Software rendering in 500 lines of bare C++",
       "https://ssloy.github.io/tinyrenderer/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 10:57:35",
-      "https://lobste.rs/s/rdg7lw/carbon_memory_safety_first_deep_dive"
-    ],
-    [
-      "Carbon Memory Safety first deep dive",
-      "https://drive.google.com/file/d/1tQlzpnbWZfn2WtTFMoJgF93QteByBBwm/view"
     ]
   ],
   [
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2026-07-22, 17:35:25",
-      "https://lobste.rs/s/l8hiip/announcing_topcoat_framework_for"
+      "2026-07-22, 20:24:10",
+      "https://lobste.rs/s/tltlwf/refluxfs_linux_kernel_local_privilege"
     ],
     [
-      "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust",
-      "https://tokio.rs/blog/2026-07-22-announcing-topcoat"
+      "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
+      "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600"
     ]
   ],
   [
