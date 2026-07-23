@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-07-23, 19:53:40",
-      "https://lobste.rs/s/auk6ft/improving_std_simd_swizzle_dyn"
-    ],
-    [
-      "Improving std::simd::swizzle_dyn",
-      "https://shnatsel.github.io/improving-std-simd-swizzle-dyn/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 18:50:40",
       "https://lobste.rs/s/dto1e4/software_should_work_worked"
     ],
@@ -157,6 +147,16 @@
     [
       "Spatial languages: writing code in 2D",
       "https://shukla.io/blog/2026-07/cccx.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 09:31:22",
+      "https://lobste.rs/s/urhpbn/wanix_wasm_native_unix_sandboxing_for_web"
+    ],
+    [
+      "Wanix — Wasm-native Unix sandboxing for the web",
+      "https://wanix.dev/"
     ]
   ],
   [
