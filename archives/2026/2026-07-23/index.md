@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 18:42:17](https://lobste.rs/s/oscswl/agent_shell_0_63_updates) - [agent-shell 0.63 updates](https://xenodium.com/agent-shell-0-63-updates)
 * [2026-07-23, 16:58:59](https://lobste.rs/s/gtxmc4/pimpl_idiom_c_26_std_indirect_type) - [The PImpl idiom and the C++26 std::indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
 * [2026-07-23, 16:26:34](https://lobste.rs/s/uy8soh/how_ai_is_changing_open_source) - [How AI Is Changing Open Source](https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/)
 * [2026-07-23, 16:14:57](https://lobste.rs/s/6kkxbx/how_mvcc_transactions_work_rocksdb) - [How MVCC and Transactions Work in RocksDB](https://artem.krylysov.com/blog/2026/07/23/how-mvcc-and-transactions-work-in-rocksdb/)
