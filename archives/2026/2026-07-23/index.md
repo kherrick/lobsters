@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 15:33:26](https://lobste.rs/s/gpqa52/everyone_should_know_simd) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-23, 14:37:58](https://lobste.rs/s/wbgmem/beyond_single_number_evaluating) - [Beyond a Single Number: Evaluating Quantized Models for Deployment](https://byteshape.com/blogs/Evaluating-Quantized-Models/)
 * [2026-07-23, 13:37:15](https://lobste.rs/s/dxaogf/silent_replacement_trusted_macos_app) - [Silent Replacement of Trusted macOS App Executables](https://mysk.blog/2026/07/23/macos-overwrite-app-executables/)
 * [2026-07-23, 13:01:28](https://lobste.rs/s/mwelmm/on_accountability) - [On Accountability](https://addisoncrump.info/research/on-accountability/)
