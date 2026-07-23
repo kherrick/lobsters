@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 16:14:57](https://lobste.rs/s/6kkxbx/how_mvcc_transactions_work_rocksdb) - [How MVCC and Transactions Work in RocksDB](https://artem.krylysov.com/blog/2026/07/23/how-mvcc-and-transactions-work-in-rocksdb/)
 * [2026-07-23, 15:33:26](https://lobste.rs/s/gpqa52/everyone_should_know_simd) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
+* [2026-07-23, 15:02:39](https://lobste.rs/s/hebflx/i_use_sops) - [But I Use SOPS](https://secretspec.dev/blog/but-i-use-sops/)
 * [2026-07-23, 14:37:58](https://lobste.rs/s/wbgmem/beyond_single_number_evaluating) - [Beyond a Single Number: Evaluating Quantized Models for Deployment](https://byteshape.com/blogs/Evaluating-Quantized-Models/)
 * [2026-07-23, 13:37:15](https://lobste.rs/s/dxaogf/silent_replacement_trusted_macos_app) - [Silent Replacement of Trusted macOS App Executables](https://mysk.blog/2026/07/23/macos-overwrite-app-executables/)
 * [2026-07-23, 13:01:28](https://lobste.rs/s/mwelmm/on_accountability) - [On Accountability](https://addisoncrump.info/research/on-accountability/)
