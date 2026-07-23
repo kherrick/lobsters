@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-23, 14:37:58",
+      "https://lobste.rs/s/wbgmem/beyond_single_number_evaluating"
+    ],
+    [
+      "Beyond a Single Number: Evaluating Quantized Models for Deployment",
+      "https://byteshape.com/blogs/Evaluating-Quantized-Models/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 13:37:15",
       "https://lobste.rs/s/dxaogf/silent_replacement_trusted_macos_app"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2026-07-23, 10:20:47",
-      "https://lobste.rs/s/js37j1/package_name_prefixes"
-    ],
-    [
-      "Package Name Prefixes",
-      "https://nesbitt.io/2026/07/23/package-name-prefixes.html"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 10:16:17",
       "https://lobste.rs/s/nsnb4j/first_known_runaway_ai_agent_very_bad"
     ],
     [
       "The first known runaway AI agent - or a very bad marketing stunt?",
       "https://martinalderson.com/posts/huggingface-openai-exploit/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 09:47:37",
+      "https://lobste.rs/s/gb2xwu/spatial_languages_writing_code_2d"
+    ],
+    [
+      "Spatial languages: writing code in 2D",
+      "https://shukla.io/blog/2026-07/cccx.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Why care about programming languages",
       "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 20:24:10",
-      "https://lobste.rs/s/tltlwf/refluxfs_linux_kernel_local_privilege"
-    ],
-    [
-      "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
-      "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600"
     ]
   ],
   [
