@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 19:53:40](https://lobste.rs/s/auk6ft/improving_std_simd_swizzle_dyn) - [Improving std::simd::swizzle_dyn](https://shnatsel.github.io/improving-std-simd-swizzle-dyn/)
 * [2026-07-23, 18:42:17](https://lobste.rs/s/oscswl/agent_shell_0_63_updates) - [agent-shell 0.63 updates](https://xenodium.com/agent-shell-0-63-updates)
 * [2026-07-23, 18:04:14](https://lobste.rs/s/kq9oh7/prompt_caching_agents) - [Prompt Caching In Agents](https://earendil.com/posts/prompt-caching/)
 * [2026-07-23, 16:58:59](https://lobste.rs/s/gtxmc4/pimpl_idiom_c_26_std_indirect_type) - [The PImpl idiom and the C++26 std::indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
