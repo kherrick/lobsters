@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-23, 18:04:14",
+      "https://lobste.rs/s/kq9oh7/prompt_caching_agents"
+    ],
+    [
+      "Prompt Caching In Agents",
+      "https://earendil.com/posts/prompt-caching/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 16:58:59",
       "https://lobste.rs/s/gtxmc4/pimpl_idiom_c_26_std_indirect_type"
     ],
@@ -77,16 +87,6 @@
     [
       "Software rendering in 500 lines of bare C++",
       "https://ssloy.github.io/tinyrenderer/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 10:57:35",
-      "https://lobste.rs/s/rdg7lw/carbon_memory_safety_first_deep_dive"
-    ],
-    [
-      "Carbon Memory Safety first deep dive",
-      "https://drive.google.com/file/d/1tQlzpnbWZfn2WtTFMoJgF93QteByBBwm/view"
     ]
   ],
   [
