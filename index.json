@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-24, 05:41:17",
+      "https://lobste.rs/s/oiiu0u/accessibility_errors_increased_10_from"
+    ],
+    [
+      "Accessibility errors increased 10% from 2025 to 2026",
+      "https://webaim.org/projects/million/#errors"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 05:29:28",
       "https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2026-07-24, 02:36:10",
-      "https://lobste.rs/s/nvquxy/mourning_dan_williams"
+      "2026-07-24, 05:05:03",
+      "https://lobste.rs/s/h9gdj8/freebsd_ports_frozen"
     ],
     [
-      "Mourning Dan Williams",
-      "https://lwn.net/Articles/1084545/"
+      "FreeBSD ports frozen",
+      "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Jolt: running Clojure on Chez Scheme",
       "https://yogthos.net/posts/2026-07-02-jolt.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 19:53:40",
-      "https://lobste.rs/s/auk6ft/improving_std_simd_swizzle_dyn"
-    ],
-    [
-      "Improving std::simd::swizzle_dyn",
-      "https://shnatsel.github.io/improving-std-simd-swizzle-dyn/"
     ]
   ],
   [
