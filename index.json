@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-24, 07:14:41",
-      "https://lobste.rs/s/ncpthq/existentials_on_leash"
+      "2026-07-24, 09:56:24",
+      "https://lobste.rs/s/troy2w/case_for_muds_modern_times"
     ],
     [
-      "Existentials on a Leash",
-      "https://cdfa.github.io/existentials-on-a-leash"
+      "The case for MUDs in modern times",
+      "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "FreeBSD ports frozen",
       "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 04:54:16",
+      "https://lobste.rs/s/o9vjlt/tour_mlir_dialect_stack_everyone_depends"
+    ],
+    [
+      "A tour of MLIR: The Dialect Stack Everyone Depends On",
+      "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Justif: Knuth-Plass justification and microtypography for the web",
       "https://justif.lyall.co/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 04:51:37",
-      "https://lobste.rs/s/n0hq44/your_analytics_are_lying_you"
-    ],
-    [
-      "Your analytics are lying to you",
-      "https://ankursethi.com/blog/your-analytics-are-lying-to-you/"
     ]
   ],
   [
