@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 14:24:29](https://lobste.rs/s/td8rne/don_t_take_black_pill) - [Don't take the black pill](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+* [2026-07-24, 14:01:24](https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership) - [Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
 * [2026-07-24, 13:26:36](https://lobste.rs/s/wsqti1/make_origami_circuit_board) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-24, 12:08:11](https://lobste.rs/s/syk1hi/nothing_works_everyone_is_euphoric) - [Nothing Works and Everyone Is Euphoric](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
 * [2026-07-24, 10:33:04](https://lobste.rs/s/se4h2f/spacing_prose_with_css) - [Spacing Prose with CSS](https://fantinel.dev/blog/css-prose-styling/)
 * [2026-07-24, 09:58:33](https://lobste.rs/s/agfkxd/gdpatch_versatile_godot_mod_loader) - [GDPatch: a versatile Godot mod loader](https://notnite.com/blog/gdpatch)
 * [2026-07-24, 09:56:24](https://lobste.rs/s/troy2w/case_for_muds_modern_times) - [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
+* [2026-07-24, 07:53:43](https://lobste.rs/s/blyhoc/fragments_july_21) - [Fragments of July 21](https://martinfowler.com/fragments/2026-07-21.html)
 * [2026-07-24, 07:14:41](https://lobste.rs/s/ncpthq/existentials_on_leash) - [Existentials on a Leash](https://cdfa.github.io/existentials-on-a-leash)
 * [2026-07-24, 06:37:28](https://lobste.rs/s/zobigz/query_cycles_compiler_murder_mystery) - [Query cycles: A compiler murder mystery](https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/)
 * [2026-07-24, 05:41:17](https://lobste.rs/s/oiiu0u/webaim_2026_report_on_accessibility) - [WebAIM 2026 report on Accessibility errors across the top 1M web pages](https://webaim.org/projects/million/#errors)
