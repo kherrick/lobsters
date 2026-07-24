@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 17:14:59](https://lobste.rs/s/q2kyu1/3d_gaussian_splatting_weekend) - [3D Gaussian Splatting in a Weekend](https://bfeldman.me/3dgs-weekend/)
+* [2026-07-24, 17:10:38](https://lobste.rs/s/jw5a02/ffi_call_plan_caching_for_glib) - [ffi_call_plan caching for GLib](https://blogs.gnome.org/chergert/2026/07/24/ffi_call_plan-caching-for-glib/)
 * [2026-07-24, 16:43:03](https://lobste.rs/s/g71xle/alp_adaptive_lossless_floating_point) - [ALP: Adaptive Lossless Floating-Point Compression](https://github.com/cwida/ALP)
 * [2026-07-24, 14:38:42](https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend)
 * [2026-07-24, 14:24:29](https://lobste.rs/s/td8rne/don_t_take_black_pill) - [Don't take the black pill](https://www.youtube.com/watch?v=zLZwpH5lCD4)
