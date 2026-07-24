@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-24, 13:26:36](https://lobste.rs/s/wsqti1/make_origami_circuit_board) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-24, 09:56:24](https://lobste.rs/s/troy2w/case_for_muds_modern_times) - [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
 * [2026-07-24, 05:41:17](https://lobste.rs/s/oiiu0u/webaim_2026_report_on_accessibility) - [WebAIM 2026 report on Accessibility errors across the top 1M web pages](https://webaim.org/projects/million/#errors)
 * [2026-07-24, 05:29:28](https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography) - [Making GIFs from 35mm film photography](https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html)
 * [2026-07-24, 05:08:56](https://lobste.rs/s/wj5bs5/fast_synthesis_basic_oscillators) - [Fast Synthesis of Basic Oscillators](https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html)
 * [2026-07-24, 05:05:13](https://lobste.rs/s/4cpv1m/i_regret_migrating_codeberg) - [I Regret Migrating to Codeberg](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/)
 * [2026-07-24, 05:05:03](https://lobste.rs/s/h9gdj8/freebsd_ports_frozen) - [FreeBSD ports frozen](https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/)
-* [2026-07-24, 04:54:16](https://lobste.rs/s/o9vjlt/tour_mlir_dialect_stack_everyone_depends) - [A tour of MLIR: The Dialect Stack Everyone Depends On](https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/)
 * [2026-07-23, 21:20:10](https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out) - [Fil-C: Garbage In, Memory Safety Out](https://www.youtube.com/watch?v=5F-2Y1LPRek)
 * [2026-07-23, 21:10:09](https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026) - [You should selfhost your mail (in 2026)](https://blog.haschek.at/2026/you-should-selfhost-your-mail.html)
 * [2026-07-23, 20:54:31](https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme) - [Jolt: running Clojure on Chez Scheme](https://yogthos.net/posts/2026-07-02-jolt.html)

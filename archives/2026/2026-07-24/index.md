@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 13:26:36](https://lobste.rs/s/wsqti1/make_origami_circuit_board) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-24, 12:08:11](https://lobste.rs/s/syk1hi/nothing_works_everyone_is_euphoric) - [Nothing Works and Everyone Is Euphoric](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
 * [2026-07-24, 10:33:04](https://lobste.rs/s/se4h2f/spacing_prose_with_css) - [Spacing Prose with CSS](https://fantinel.dev/blog/css-prose-styling/)
 * [2026-07-24, 09:58:33](https://lobste.rs/s/agfkxd/gdpatch_versatile_godot_mod_loader) - [GDPatch: a versatile Godot mod loader](https://notnite.com/blog/gdpatch)
