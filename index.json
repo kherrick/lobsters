@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-07-23, 19:53:40",
+      "https://lobste.rs/s/auk6ft/improving_std_simd_swizzle_dyn"
+    ],
+    [
+      "Improving std::simd::swizzle_dyn",
+      "https://shnatsel.github.io/improving-std-simd-swizzle-dyn/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 18:50:40",
       "https://lobste.rs/s/dto1e4/software_should_work_worked"
     ],
@@ -77,16 +87,6 @@
     [
       "The PImpl idiom and the C++26 std::indirect type",
       "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 16:14:57",
-      "https://lobste.rs/s/6kkxbx/how_mvcc_transactions_work_rocksdb"
-    ],
-    [
-      "How MVCC and Transactions Work in RocksDB",
-      "https://artem.krylysov.com/blog/2026/07/23/how-mvcc-and-transactions-work-in-rocksdb/"
     ]
   ],
   [
