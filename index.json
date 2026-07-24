@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-24, 13:26:36",
+      "https://lobste.rs/s/wsqti1/make_origami_circuit_board"
+    ],
+    [
+      "Make an Origami Circuit Board",
+      "https://spectrum.ieee.org/origami-circuit-boards"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 09:56:24",
       "https://lobste.rs/s/troy2w/case_for_muds_modern_times"
     ],
@@ -57,16 +67,6 @@
     [
       "FreeBSD ports frozen",
       "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 04:54:16",
-      "https://lobste.rs/s/o9vjlt/tour_mlir_dialect_stack_everyone_depends"
-    ],
-    [
-      "A tour of MLIR: The Dialect Stack Everyone Depends On",
-      "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/"
     ]
   ],
   [
