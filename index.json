@@ -1,62 +1,12 @@
 [
   [
     [
-      "2026-07-24, 12:08:11",
-      "https://lobste.rs/s/syk1hi/nothing_works_everyone_is_euphoric"
-    ],
-    [
-      "Nothing Works and Everyone Is Euphoric",
-      "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 10:33:04",
-      "https://lobste.rs/s/se4h2f/spacing_prose_with_css"
-    ],
-    [
-      "Spacing Prose with CSS",
-      "https://fantinel.dev/blog/css-prose-styling/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 09:58:33",
-      "https://lobste.rs/s/agfkxd/gdpatch_versatile_godot_mod_loader"
-    ],
-    [
-      "GDPatch: a versatile Godot mod loader",
-      "https://notnite.com/blog/gdpatch"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 09:56:24",
       "https://lobste.rs/s/troy2w/case_for_muds_modern_times"
     ],
     [
       "The case for MUDs in modern times",
       "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 07:14:41",
-      "https://lobste.rs/s/ncpthq/existentials_on_leash"
-    ],
-    [
-      "Existentials on a Leash",
-      "https://cdfa.github.io/existentials-on-a-leash"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 06:37:28",
-      "https://lobste.rs/s/zobigz/query_cycles_compiler_murder_mystery"
-    ],
-    [
-      "Query cycles: A compiler murder mystery",
-      "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/"
     ]
   ],
   [
@@ -91,6 +41,16 @@
   ],
   [
     [
+      "2026-07-24, 05:05:13",
+      "https://lobste.rs/s/4cpv1m/i_regret_migrating_codeberg"
+    ],
+    [
+      "I Regret Migrating to Codeberg",
+      "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 05:05:03",
       "https://lobste.rs/s/h9gdj8/freebsd_ports_frozen"
     ],
@@ -107,16 +67,6 @@
     [
       "A tour of MLIR: The Dialect Stack Everyone Depends On",
       "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 02:36:10",
-      "https://lobste.rs/s/nvquxy/mourning_dan_williams"
-    ],
-    [
-      "Mourning Dan Williams",
-      "https://lwn.net/Articles/1084545/"
     ]
   ],
   [
@@ -141,12 +91,42 @@
   ],
   [
     [
+      "2026-07-23, 20:54:31",
+      "https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme"
+    ],
+    [
+      "Jolt: running Clojure on Chez Scheme",
+      "https://yogthos.net/posts/2026-07-02-jolt.html"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 18:50:40",
       "https://lobste.rs/s/dto1e4/software_should_work_worked"
     ],
     [
       "Software Should Work Worked",
       "https://isaacvando.com/software-should-work-worked"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 18:42:17",
+      "https://lobste.rs/s/oscswl/agent_shell_0_63_updates"
+    ],
+    [
+      "agent-shell 0.63 updates",
+      "https://xenodium.com/agent-shell-0-63-updates"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 18:04:14",
+      "https://lobste.rs/s/kq9oh7/prompt_caching_agents"
+    ],
+    [
+      "Prompt Caching In Agents",
+      "https://earendil.com/posts/prompt-caching/"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2026-07-23, 13:01:28",
+      "https://lobste.rs/s/mwelmm/on_accountability"
+    ],
+    [
+      "On Accountability",
+      "https://addisoncrump.info/research/on-accountability/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 12:12:50",
       "https://lobste.rs/s/p4xo2i/software_rendering_500_lines_bare_c"
     ],
@@ -191,22 +181,22 @@
   ],
   [
     [
-      "2026-07-23, 09:47:37",
-      "https://lobste.rs/s/gb2xwu/spatial_languages_writing_code_2d"
+      "2026-07-23, 10:16:17",
+      "https://lobste.rs/s/nsnb4j/first_known_runaway_ai_agent_very_bad"
     ],
     [
-      "Spatial languages: writing code in 2D",
-      "https://shukla.io/blog/2026-07/cccx.html"
+      "The first known runaway AI agent - or a very bad marketing stunt?",
+      "https://martinalderson.com/posts/huggingface-openai-exploit/"
     ]
   ],
   [
     [
-      "2026-07-23, 04:51:37",
-      "https://lobste.rs/s/n0hq44/your_analytics_are_lying_you"
+      "2026-07-23, 09:30:45",
+      "https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification"
     ],
     [
-      "Your analytics are lying to you",
-      "https://ankursethi.com/blog/your-analytics-are-lying-to-you/"
+      "Justif: Knuth-Plass justification and microtypography for the web",
+      "https://justif.lyall.co/"
     ]
   ],
   [
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2026-07-22, 08:48:18",
-      "https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe"
+      "2026-07-23, 01:04:08",
+      "https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"
     ],
     [
-      "So Reddit has decided that plain HTML is unsafe",
-      "https://www.cole-k.com/2026/07/21/reddit/"
+      "Protecting our FLOSS commons from LLMs",
+      "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 21:33:12",
+      "https://lobste.rs/s/lv12lc/why_care_about_programming_languages"
+    ],
+    [
+      "Why care about programming languages",
+      "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/"
     ]
   ]
 ]
