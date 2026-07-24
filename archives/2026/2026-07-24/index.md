@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 16:43:03](https://lobste.rs/s/g71xle/alp_adaptive_lossless_floating_point) - [ALP: Adaptive Lossless Floating-Point Compression](https://github.com/cwida/ALP)
 * [2026-07-24, 14:38:42](https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend)
 * [2026-07-24, 14:24:29](https://lobste.rs/s/td8rne/don_t_take_black_pill) - [Don't take the black pill](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 * [2026-07-24, 14:01:24](https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership) - [Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
+* [2026-07-24, 13:54:04](https://lobste.rs/s/xnwxcz/interview_with_maintainer) - [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html)
 * [2026-07-24, 13:26:36](https://lobste.rs/s/wsqti1/make_origami_circuit_board) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-24, 12:08:11](https://lobste.rs/s/syk1hi/nothing_works_everyone_is_euphoric) - [Nothing Works and Everyone Is Euphoric](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
 * [2026-07-24, 10:33:04](https://lobste.rs/s/se4h2f/spacing_prose_with_css) - [Spacing Prose with CSS](https://fantinel.dev/blog/css-prose-styling/)
@@ -20,6 +22,7 @@
 * [2026-07-24, 05:29:28](https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography) - [Making GIFs from 35mm film photography](https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html)
 * [2026-07-24, 05:08:56](https://lobste.rs/s/wj5bs5/fast_synthesis_basic_oscillators) - [Fast Synthesis of Basic Oscillators](https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html)
 * [2026-07-24, 05:05:13](https://lobste.rs/s/4cpv1m/i_regret_migrating_codeberg) - [I Regret Migrating to Codeberg](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/)
+* [2026-07-24, 05:05:03](https://lobste.rs/s/h9gdj8/freebsd_ports_frozen_after_someone) - [FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary](https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/)
 * [2026-07-24, 05:05:03](https://lobste.rs/s/h9gdj8/freebsd_ports_frozen) - [FreeBSD ports frozen](https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/)
 * [2026-07-24, 04:54:16](https://lobste.rs/s/o9vjlt/tour_mlir_dialect_stack_everyone_depends) - [A tour of MLIR: The Dialect Stack Everyone Depends On](https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/)
 * [2026-07-24, 02:36:10](https://lobste.rs/s/nvquxy/mourning_dan_williams) - [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
