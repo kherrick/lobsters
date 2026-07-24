@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 14:38:42](https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend)
 * [2026-07-24, 14:24:29](https://lobste.rs/s/td8rne/don_t_take_black_pill) - [Don't take the black pill](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 * [2026-07-24, 14:01:24](https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership) - [Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
 * [2026-07-24, 13:26:36](https://lobste.rs/s/wsqti1/make_origami_circuit_board) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
