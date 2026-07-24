@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 12:08:11](https://lobste.rs/s/syk1hi/nothing_works_everyone_is_euphoric) - [Nothing Works and Everyone Is Euphoric](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
+* [2026-07-24, 10:33:04](https://lobste.rs/s/se4h2f/spacing_prose_with_css) - [Spacing Prose with CSS](https://fantinel.dev/blog/css-prose-styling/)
+* [2026-07-24, 09:58:33](https://lobste.rs/s/agfkxd/gdpatch_versatile_godot_mod_loader) - [GDPatch: a versatile Godot mod loader](https://notnite.com/blog/gdpatch)
 * [2026-07-24, 09:56:24](https://lobste.rs/s/troy2w/case_for_muds_modern_times) - [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
 * [2026-07-24, 07:14:41](https://lobste.rs/s/ncpthq/existentials_on_leash) - [Existentials on a Leash](https://cdfa.github.io/existentials-on-a-leash)
+* [2026-07-24, 06:37:28](https://lobste.rs/s/zobigz/query_cycles_compiler_murder_mystery) - [Query cycles: A compiler murder mystery](https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/)
 * [2026-07-24, 05:41:17](https://lobste.rs/s/oiiu0u/webaim_2026_report_on_accessibility) - [WebAIM 2026 report on Accessibility errors across the top 1M web pages](https://webaim.org/projects/million/#errors)
 * [2026-07-24, 05:41:17](https://lobste.rs/s/oiiu0u/accessibility_errors_increased_10_from) - [Accessibility errors increased 10% from 2025 to 2026](https://webaim.org/projects/million/#errors)
 * [2026-07-24, 05:29:28](https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography) - [Making GIFs from 35mm film photography](https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html)
