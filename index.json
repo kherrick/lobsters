@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-07-24, 20:34:19",
+      "https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move"
+    ],
+    [
+      "Watching Go's new garbage collector move through the heap",
+      "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 20:33:34",
+      "https://lobste.rs/s/9mocvp/love_letter_object_orientation"
+    ],
+    [
+      "A Love Letter to Object Orientation",
+      "https://blog.mempko.com/a-love-letter-to-object-orientation/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 20:24:48",
+      "https://lobste.rs/s/khaizc/delightful_integration_tests_rust"
+    ],
+    [
+      "Delightful integration tests in Rust",
+      "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 19:48:17",
       "https://lobste.rs/s/ighdht/postgres_listen_notify_actually_scales"
     ],
     [
       "Postgres LISTEN/NOTIFY Actually Scales",
       "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 18:40:04",
-      "https://lobste.rs/s/9ytnkn/extended_connectivity_fingerprint_apl"
-    ],
-    [
-      "Extended Connectivity Fingerprint in APL",
-      "https://butwhyisthat.substack.com/p/ecfp"
     ]
   ],
   [
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2026-07-24, 17:14:59",
-      "https://lobste.rs/s/q2kyu1/3d_gaussian_splatting_weekend"
-    ],
-    [
-      "3D Gaussian Splatting in a Weekend",
-      "https://bfeldman.me/3dgs-weekend/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 17:10:38",
       "https://lobste.rs/s/jw5a02/ffi_call_plan_caching_for_glib"
     ],
     [
       "ffi_call_plan caching for GLib",
       "https://blogs.gnome.org/chergert/2026/07/24/ffi_call_plan-caching-for-glib/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 16:43:03",
-      "https://lobste.rs/s/g71xle/alp_adaptive_lossless_floating_point"
-    ],
-    [
-      "ALP: Adaptive Lossless Floating-Point Compression",
-      "https://github.com/cwida/ALP"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-07-24, 10:33:04",
-      "https://lobste.rs/s/se4h2f/spacing_prose_with_css"
-    ],
-    [
-      "Spacing Prose with CSS",
-      "https://fantinel.dev/blog/css-prose-styling/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 09:56:24",
       "https://lobste.rs/s/troy2w/case_for_muds_modern_times"
     ],
@@ -137,16 +127,6 @@
     [
       "Query cycles: A compiler murder mystery",
       "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 05:41:17",
-      "https://lobste.rs/s/oiiu0u/webaim_2026_report_on_accessibility"
-    ],
-    [
-      "WebAIM 2026 report on Accessibility errors across the top 1M web pages",
-      "https://webaim.org/projects/million/#errors"
     ]
   ],
   [
@@ -201,22 +181,22 @@
   ],
   [
     [
+      "2026-07-23, 20:54:31",
+      "https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme"
+    ],
+    [
+      "Jolt: running Clojure on Chez Scheme",
+      "https://yogthos.net/posts/2026-07-02-jolt.html"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 18:50:40",
       "https://lobste.rs/s/dto1e4/software_should_work_worked"
     ],
     [
       "Software Should Work Worked",
       "https://isaacvando.com/software-should-work-worked"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 16:58:59",
-      "https://lobste.rs/s/gtxmc4/pimpl_idiom_c_26_std_indirect_type"
-    ],
-    [
-      "The PImpl idiom and the C++26 std::indirect type",
-      "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/"
     ]
   ],
   [
@@ -231,6 +211,26 @@
   ],
   [
     [
+      "2026-07-23, 13:01:28",
+      "https://lobste.rs/s/mwelmm/on_accountability"
+    ],
+    [
+      "On Accountability",
+      "https://addisoncrump.info/research/on-accountability/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 09:30:45",
+      "https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification"
+    ],
+    [
+      "Justif: Knuth-Plass justification and microtypography for the web",
+      "https://justif.lyall.co/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 02:26:09",
       "https://lobste.rs/s/fmyrgy/calm_technologies_excite_me"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-07-23, 01:54:48",
-      "https://lobste.rs/s/5nhto6/i_inspected_my_take_home_interview"
+      "2026-07-23, 01:04:08",
+      "https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"
     ],
     [
-      "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/"
+      "Protecting our FLOSS commons from LLMs",
+      "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"
     ]
   ]
 ]
