@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-24, 22:11:44",
+      "https://lobste.rs/s/yia0pc/systems_delays_2026"
+    ],
+    [
+      "Systems and Delays (2026)",
+      "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 20:34:19",
       "https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move"
     ],
@@ -27,6 +37,16 @@
     [
       "Delightful integration tests in Rust",
       "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 20:19:12",
+      "https://lobste.rs/s/k5ygl4/weblings_compiling_rust_wasm_from_inside"
+    ],
+    [
+      "weblings: Compiling Rust to WASM from inside WASM",
+      "https://github.com/AngelOnFira/weblings"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-24, 05:08:56",
-      "https://lobste.rs/s/wj5bs5/fast_synthesis_basic_oscillators"
-    ],
-    [
-      "Fast Synthesis of Basic Oscillators",
-      "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 05:05:03",
       "https://lobste.rs/s/h9gdj8/freebsd_ports_frozen_after_someone"
     ],
@@ -187,16 +197,6 @@
     [
       "Jolt: running Clojure on Chez Scheme",
       "https://yogthos.net/posts/2026-07-02-jolt.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 18:50:40",
-      "https://lobste.rs/s/dto1e4/software_should_work_worked"
-    ],
-    [
-      "Software Should Work Worked",
-      "https://isaacvando.com/software-should-work-worked"
     ]
   ],
   [
