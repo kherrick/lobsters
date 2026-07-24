@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-24, 16:43:03",
+      "https://lobste.rs/s/g71xle/alp_adaptive_lossless_floating_point"
+    ],
+    [
+      "ALP: Adaptive Lossless Floating-Point Compression",
+      "https://github.com/cwida/ALP"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 14:38:42",
       "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2026-07-24, 13:54:04",
+      "https://lobste.rs/s/xnwxcz/interview_with_maintainer"
+    ],
+    [
+      "Interview with a Maintainer",
+      "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 13:26:36",
       "https://lobste.rs/s/wsqti1/make_origami_circuit_board"
     ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2026-07-24, 07:53:43",
-      "https://lobste.rs/s/blyhoc/fragments_july_21"
+      "2026-07-24, 06:37:28",
+      "https://lobste.rs/s/zobigz/query_cycles_compiler_murder_mystery"
     ],
     [
-      "Fragments of July 21",
-      "https://martinfowler.com/fragments/2026-07-21.html"
+      "Query cycles: A compiler murder mystery",
+      "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/"
     ]
   ],
   [
@@ -92,10 +112,10 @@
   [
     [
       "2026-07-24, 05:05:03",
-      "https://lobste.rs/s/h9gdj8/freebsd_ports_frozen"
+      "https://lobste.rs/s/h9gdj8/freebsd_ports_frozen_after_someone"
     ],
     [
-      "FreeBSD ports frozen",
+      "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
       "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/"
     ]
   ],
@@ -137,16 +157,6 @@
     [
       "Software Should Work Worked",
       "https://isaacvando.com/software-should-work-worked"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 18:42:17",
-      "https://lobste.rs/s/oscswl/agent_shell_0_63_updates"
-    ],
-    [
-      "agent-shell 0.63 updates",
-      "https://xenodium.com/agent-shell-0-63-updates"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Calm technologies that excite me",
       "https://abhi.now/blog/calm-technologies/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 02:09:50",
-      "https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died"
-    ],
-    [
-      "John C. Dvorak has died",
-      "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html"
     ]
   ],
   [
