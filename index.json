@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-24, 19:48:17",
+      "https://lobste.rs/s/ighdht/postgres_listen_notify_actually_scales"
+    ],
+    [
+      "Postgres LISTEN/NOTIFY Actually Scales",
+      "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 18:40:04",
+      "https://lobste.rs/s/9ytnkn/extended_connectivity_fingerprint_apl"
+    ],
+    [
+      "Extended Connectivity Fingerprint in APL",
+      "https://butwhyisthat.substack.com/p/ecfp"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 17:41:20",
       "https://lobste.rs/s/uawqly/git_rebase_i_is_not_scary"
     ],
     [
       "git rebase -i is not that scary",
       "https://cachebag.sh/journal/interactive-rebasing/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 17:14:59",
+      "https://lobste.rs/s/q2kyu1/3d_gaussian_splatting_weekend"
+    ],
+    [
+      "3D Gaussian Splatting in a Weekend",
+      "https://bfeldman.me/3dgs-weekend/"
     ]
   ],
   [
@@ -77,6 +107,16 @@
     [
       "Make an Origami Circuit Board",
       "https://spectrum.ieee.org/origami-circuit-boards"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 10:33:04",
+      "https://lobste.rs/s/se4h2f/spacing_prose_with_css"
+    ],
+    [
+      "Spacing Prose with CSS",
+      "https://fantinel.dev/blog/css-prose-styling/"
     ]
   ],
   [
@@ -161,32 +201,12 @@
   ],
   [
     [
-      "2026-07-23, 20:54:31",
-      "https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme"
-    ],
-    [
-      "Jolt: running Clojure on Chez Scheme",
-      "https://yogthos.net/posts/2026-07-02-jolt.html"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 18:50:40",
       "https://lobste.rs/s/dto1e4/software_should_work_worked"
     ],
     [
       "Software Should Work Worked",
       "https://isaacvando.com/software-should-work-worked"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 18:04:14",
-      "https://lobste.rs/s/kq9oh7/prompt_caching_agents"
-    ],
-    [
-      "Prompt Caching In Agents",
-      "https://earendil.com/posts/prompt-caching/"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2026-07-23, 13:01:28",
-      "https://lobste.rs/s/mwelmm/on_accountability"
-    ],
-    [
-      "On Accountability",
-      "https://addisoncrump.info/research/on-accountability/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 09:30:45",
-      "https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification"
-    ],
-    [
-      "Justif: Knuth-Plass justification and microtypography for the web",
-      "https://justif.lyall.co/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 02:26:09",
       "https://lobste.rs/s/fmyrgy/calm_technologies_excite_me"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-07-23, 01:04:08",
-      "https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"
+      "2026-07-23, 01:54:48",
+      "https://lobste.rs/s/5nhto6/i_inspected_my_take_home_interview"
     ],
     [
-      "Protecting our FLOSS commons from LLMs",
-      "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"
+      "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/"
     ]
   ]
 ]
