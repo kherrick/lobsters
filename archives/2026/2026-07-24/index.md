@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 19:48:17](https://lobste.rs/s/ighdht/postgres_listen_notify_actually_scales) - [Postgres LISTEN/NOTIFY Actually Scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 * [2026-07-24, 18:40:04](https://lobste.rs/s/9ytnkn/extended_connectivity_fingerprint_apl) - [Extended Connectivity Fingerprint in APL](https://butwhyisthat.substack.com/p/ecfp)
 * [2026-07-24, 17:41:20](https://lobste.rs/s/uawqly/git_rebase_i_is_not_scary) - [git rebase -i is not that scary](https://cachebag.sh/journal/interactive-rebasing/)
 * [2026-07-24, 17:14:59](https://lobste.rs/s/q2kyu1/3d_gaussian_splatting_weekend) - [3D Gaussian Splatting in a Weekend](https://bfeldman.me/3dgs-weekend/)
