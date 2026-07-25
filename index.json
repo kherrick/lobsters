@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-25, 22:13:07",
+      "https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels"
+    ],
+    [
+      "Maybe we should revisit microkernels",
+      "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 21:39:39",
       "https://lobste.rs/s/bvjwbk/banner_highway_01"
     ],
@@ -207,16 +217,6 @@
     [
       "Watching Go's new garbage collector move through the heap",
       "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 20:33:34",
-      "https://lobste.rs/s/9mocvp/love_letter_object_orientation"
-    ],
-    [
-      "A Love Letter to Object Orientation",
-      "https://blog.mempko.com/a-love-letter-to-object-orientation/"
     ]
   ],
   [
