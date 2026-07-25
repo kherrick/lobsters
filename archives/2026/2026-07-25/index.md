@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 11:33:00](https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
+* [2026-07-25, 11:14:51](https://lobste.rs/s/pqkfur/emacs_writing_machine) - [Emacs Writing Machine](https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html)
 * [2026-07-25, 10:01:03](https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb) - [Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 09:59:40](https://lobste.rs/s/3ttebv/sending_packets_directly_from_bpf) - [Sending packets directly from BPF](https://lwn.net/Articles/1081696/)
 * [2026-07-25, 09:10:12](https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history) - [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
