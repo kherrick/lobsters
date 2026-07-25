@@ -1,252 +1,252 @@
 [
   [
     [
-      "2026-07-25, 00:23:02",
-      "https://lobste.rs/s/aibmo4/2026_stack_overflow_developer_survey"
+      "2026-07-25, 22:13:07",
+      "https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels"
     ],
     [
-      "2026 Stack Overflow Developer Survey",
-      "https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc"
+      "Maybe we should revisit microkernels",
+      "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html"
     ]
   ],
   [
     [
-      "2026-07-24, 21:11:50",
-      "https://lobste.rs/s/mhumdb/build_systems_discussion"
+      "2026-07-25, 21:39:39",
+      "https://lobste.rs/s/bvjwbk/banner_highway_01"
     ],
     [
-      "Build Systems Discussion",
-      "https://civboot.github.io/blog/2026-07-24-build-systems.html"
+      "Banner Highway 01",
+      "https://highway-01.banner-depot-2000.net/"
     ]
   ],
   [
     [
-      "2026-07-24, 20:33:34",
-      "https://lobste.rs/s/9mocvp/love_letter_object_orientation"
+      "2026-07-25, 21:38:29",
+      "https://lobste.rs/s/x7jtkt/memory_safety_absolutists"
     ],
     [
-      "A Love Letter to Object Orientation",
-      "https://blog.mempko.com/a-love-letter-to-object-orientation/"
+      "Memory Safety Absolutists",
+      "https://itsallaboutthebit.com/memory-safety-absolutists/"
     ]
   ],
   [
     [
-      "2026-07-24, 20:19:12",
-      "https://lobste.rs/s/k5ygl4/weblings_compiling_rust_wasm_from_inside"
+      "2026-07-25, 21:32:58",
+      "https://lobste.rs/s/sh9bbn/how_self_host_servers_your_living_room_on"
     ],
     [
-      "weblings: Compiling Rust to WASM from inside WASM",
-      "https://github.com/AngelOnFira/weblings"
+      "How to self-host servers in your living room on static IPs",
+      "https://vimuser.org/l2tp.html"
     ]
   ],
   [
     [
-      "2026-07-24, 19:48:17",
-      "https://lobste.rs/s/ighdht/postgres_listen_notify_actually_scales"
+      "2026-07-25, 20:52:49",
+      "https://lobste.rs/s/utnhmy/how_i_find_problems_solve_as_staff"
     ],
     [
-      "Postgres LISTEN/NOTIFY Actually Scales",
-      "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
+      "How I Find Problems to Solve as a Staff Engineer",
+      "https://lalitm.com/post/find-problems-staff-engineer/"
     ]
   ],
   [
     [
-      "2026-07-24, 17:14:59",
-      "https://lobste.rs/s/q2kyu1/3d_gaussian_splatting_weekend"
+      "2026-07-25, 18:19:08",
+      "https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full"
     ],
     [
-      "3D Gaussian Splatting in a Weekend",
-      "https://bfeldman.me/3dgs-weekend/"
+      "Your harddrive is probably full",
+      "https://www.marginalia.nu/log/a_139_hdd/"
     ]
   ],
   [
     [
-      "2026-07-24, 17:10:38",
-      "https://lobste.rs/s/jw5a02/ffi_call_plan_caching_for_glib"
+      "2026-07-25, 16:10:47",
+      "https://lobste.rs/s/ygobr3/general_resolution_llm_usage_debian"
     ],
     [
-      "ffi_call_plan caching for GLib",
-      "https://blogs.gnome.org/chergert/2026/07/24/ffi_call_plan-caching-for-glib/"
+      "General Resolution: LLM usage in Debian",
+      "https://www.debian.org/vote/2026/vote_002"
     ]
   ],
   [
     [
-      "2026-07-24, 14:38:42",
-      "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend"
+      "2026-07-25, 16:08:48",
+      "https://lobste.rs/s/usdhrd/verse_new_scripting_language"
     ],
     [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend"
+      "Verse: A New Scripting Language",
+      "https://youtube.com/watch?v=ebqKYLKjL6U"
     ]
   ],
   [
     [
-      "2026-07-24, 14:01:24",
-      "https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership"
+      "2026-07-25, 15:13:27",
+      "https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces"
     ],
     [
-      "Open Weights and American AI Leadership",
-      "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/"
+      "Languages as designed latent spaces",
+      "https://blog.jsbarretto.com/post/languages-as-latent-spaces"
     ]
   ],
   [
     [
-      "2026-07-24, 13:54:04",
-      "https://lobste.rs/s/xnwxcz/interview_with_maintainer"
+      "2026-07-25, 12:58:43",
+      "https://lobste.rs/s/s75zd9/zig_by_example"
     ],
     [
-      "Interview with a Maintainer",
-      "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html"
+      "Zig by Example",
+      "https://zigbyexample.neocities.org/"
     ]
   ],
   [
     [
-      "2026-07-24, 13:26:36",
-      "https://lobste.rs/s/wsqti1/make_origami_circuit_board"
+      "2026-07-25, 11:33:00",
+      "https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway"
     ],
     [
-      "Make an Origami Circuit Board",
-      "https://spectrum.ieee.org/origami-circuit-boards"
+      "A shell colon does nothing. Use it anyway",
+      "https://refp.se/articles/your-shell-and-the-magic-colon"
     ]
   ],
   [
     [
-      "2026-07-24, 09:56:24",
-      "https://lobste.rs/s/troy2w/case_for_muds_modern_times"
+      "2026-07-25, 11:14:51",
+      "https://lobste.rs/s/pqkfur/emacs_writing_machine"
     ],
     [
-      "The case for MUDs in modern times",
-      "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times"
+      "Emacs Writing Machine",
+      "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html"
     ]
   ],
   [
     [
-      "2026-07-24, 06:37:28",
-      "https://lobste.rs/s/zobigz/query_cycles_compiler_murder_mystery"
+      "2026-07-25, 10:01:03",
+      "https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb"
     ],
     [
-      "Query cycles: A compiler murder mystery",
-      "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/"
+      "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
+      "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"
     ]
   ],
   [
     [
-      "2026-07-24, 05:29:28",
-      "https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography"
+      "2026-07-25, 09:59:40",
+      "https://lobste.rs/s/3ttebv/sending_packets_directly_from_bpf"
     ],
     [
-      "Making GIFs from 35mm film photography",
-      "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html"
+      "Sending packets directly from BPF",
+      "https://lwn.net/Articles/1081696/"
     ]
   ],
   [
     [
-      "2026-07-24, 05:08:56",
-      "https://lobste.rs/s/wj5bs5/fast_synthesis_basic_oscillators"
+      "2026-07-25, 09:10:12",
+      "https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history"
     ],
     [
-      "Fast Synthesis of Basic Oscillators",
-      "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html"
+      "stinkpot: sqlite-backed shell history",
+      "https://tangled.org/oppi.li/stinkpot"
     ]
   ],
   [
     [
-      "2026-07-24, 05:05:03",
-      "https://lobste.rs/s/h9gdj8/freebsd_ports_frozen_after_someone"
+      "2026-07-25, 06:07:49",
+      "https://lobste.rs/s/ypgw9x/perils_parsing_type_inference"
     ],
     [
-      "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary",
-      "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/"
+      "the perils of parsing type inference declarations in c",
+      "https://sebsite.pw/w/20260725-auto.html"
     ]
   ],
   [
     [
-      "2026-07-23, 21:20:10",
-      "https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out"
+      "2026-07-25, 05:29:51",
+      "https://lobste.rs/s/yajc8q/i_m_running_icfp_programming_contest"
     ],
     [
-      "Fil-C: Garbage In, Memory Safety Out",
-      "https://www.youtube.com/watch?v=5F-2Y1LPRek"
+      "I'm running the ICFP programming contest",
+      "https://eieio.games/blog/im-running-the-icfp-programming-contest/"
     ]
   ],
   [
     [
-      "2026-07-23, 21:10:09",
-      "https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026"
+      "2026-07-25, 03:00:20",
+      "https://lobste.rs/s/zfvln5/we_are_not_special_2021"
     ],
     [
-      "You should selfhost your mail (in 2026)",
-      "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html"
+      "We Are Not Special (2021)",
+      "https://www.hillelwayne.com/post/we-are-not-special/"
     ]
   ],
   [
     [
-      "2026-07-23, 20:54:31",
-      "https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme"
+      "2026-07-25, 01:34:26",
+      "https://lobste.rs/s/fw69uj/microformats_building_blocks_for_data"
     ],
     [
-      "Jolt: running Clojure on Chez Scheme",
-      "https://yogthos.net/posts/2026-07-02-jolt.html"
+      "Microformats – building blocks for data-rich web pages",
+      "https://microformats.org/"
     ]
   ],
   [
     [
-      "2026-07-23, 18:50:40",
-      "https://lobste.rs/s/dto1e4/software_should_work_worked"
+      "2026-07-24, 23:04:57",
+      "https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for"
     ],
     [
-      "Software Should Work Worked",
-      "https://isaacvando.com/software-should-work-worked"
+      "Chrome registers a global shortcut for Gemini popup window",
+      "https://unsung.aresluna.org/chromes-breaking-and-entering/"
     ]
   ],
   [
     [
-      "2026-07-23, 15:33:26",
-      "https://lobste.rs/s/gpqa52/everyone_should_know_simd"
+      "2026-07-24, 22:11:44",
+      "https://lobste.rs/s/yia0pc/systems_delays_2026"
     ],
     [
-      "Everyone Should Know SIMD",
-      "https://mitchellh.com/writing/everyone-should-know-simd"
+      "Systems and Delays (2026)",
+      "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html"
     ]
   ],
   [
     [
-      "2026-07-23, 13:01:28",
-      "https://lobste.rs/s/mwelmm/on_accountability"
+      "2026-07-24, 20:34:19",
+      "https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move"
     ],
     [
-      "On Accountability",
-      "https://addisoncrump.info/research/on-accountability/"
+      "Watching Go's new garbage collector move through the heap",
+      "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html"
     ]
   ],
   [
     [
-      "2026-07-23, 09:30:45",
-      "https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification"
+      "2026-07-24, 20:24:48",
+      "https://lobste.rs/s/khaizc/delightful_integration_tests_rust"
     ],
     [
-      "Justif: Knuth-Plass justification and microtypography for the web",
-      "https://justif.lyall.co/"
+      "Delightful integration tests in Rust",
+      "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md"
     ]
   ],
   [
     [
-      "2026-07-23, 02:26:09",
-      "https://lobste.rs/s/fmyrgy/calm_technologies_excite_me"
+      "2026-07-24, 17:41:20",
+      "https://lobste.rs/s/uawqly/git_rebase_i_is_not_scary"
     ],
     [
-      "Calm technologies that excite me",
-      "https://abhi.now/blog/calm-technologies/"
+      "git rebase -i is not that scary",
+      "https://cachebag.sh/journal/interactive-rebasing/"
     ]
   ],
   [
     [
-      "2026-07-23, 01:04:08",
-      "https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"
+      "2026-07-24, 14:24:29",
+      "https://lobste.rs/s/td8rne/don_t_take_black_pill"
     ],
     [
-      "Protecting our FLOSS commons from LLMs",
-      "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"
+      "Don't take the black pill",
+      "https://www.youtube.com/watch?v=zLZwpH5lCD4"
     ]
   ]
 ]
