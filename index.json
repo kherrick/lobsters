@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-25, 09:10:12",
+      "https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history"
+    ],
+    [
+      "stinkpot: sqlite-backed shell history",
+      "https://tangled.org/oppi.li/stinkpot"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 06:07:49",
       "https://lobste.rs/s/ypgw9x/perils_parsing_type_inference"
     ],
@@ -97,6 +107,16 @@
     [
       "Delightful integration tests in Rust",
       "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 20:19:12",
+      "https://lobste.rs/s/k5ygl4/weblings_compiling_rust_wasm_from_inside"
+    ],
+    [
+      "weblings: Compiling Rust to WASM from inside WASM",
+      "https://github.com/AngelOnFira/weblings"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-07-23, 20:54:31",
-      "https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme"
-    ],
-    [
-      "Jolt: running Clojure on Chez Scheme",
-      "https://yogthos.net/posts/2026-07-02-jolt.html"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 15:33:26",
       "https://lobste.rs/s/gpqa52/everyone_should_know_simd"
     ],
     [
       "Everyone Should Know SIMD",
       "https://mitchellh.com/writing/everyone-should-know-simd"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 09:30:45",
-      "https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification"
-    ],
-    [
-      "Justif: Knuth-Plass justification and microtypography for the web",
-      "https://justif.lyall.co/"
     ]
   ]
 ]
