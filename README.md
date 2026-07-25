@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special) - [We Are Not Special](https://www.hillelwayne.com/post/we-are-not-special/)
 * [2026-07-25, 01:34:26](https://lobste.rs/s/fw69uj/microformats_building_blocks_for_data) - [Microformats – building blocks for data-rich web pages](https://microformats.org/)
 * [2026-07-25, 00:23:02](https://lobste.rs/s/aibmo4/2026_stack_overflow_developer_survey) - [2026 Stack Overflow Developer Survey](https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc)
 * [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
@@ -24,7 +25,6 @@
 * [2026-07-23, 20:54:31](https://lobste.rs/s/btplc7/jolt_running_clojure_on_chez_scheme) - [Jolt: running Clojure on Chez Scheme](https://yogthos.net/posts/2026-07-02-jolt.html)
 * [2026-07-23, 15:33:26](https://lobste.rs/s/gpqa52/everyone_should_know_simd) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-23, 09:30:45](https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification) - [Justif: Knuth-Plass justification and microtypography for the web](https://justif.lyall.co/)
-* [2026-07-23, 01:04:08](https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms) - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
 
 ## [Archives](archives/index.md)
 
