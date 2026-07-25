@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 21:38:29](https://lobste.rs/s/x7jtkt/memory_safety_absolutists) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
+* [2026-07-25, 21:32:58](https://lobste.rs/s/sh9bbn/how_self_host_servers_your_living_room_on) - [How to self-host servers in your living room on static IPs](https://vimuser.org/l2tp.html)
 * [2026-07-25, 20:52:49](https://lobste.rs/s/utnhmy/how_i_find_problems_solve_as_staff) - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 * [2026-07-25, 18:19:08](https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full) - [Your harddrive is probably full](https://www.marginalia.nu/log/a_139_hdd/)
 * [2026-07-25, 16:10:47](https://lobste.rs/s/ygobr3/general_resolution_llm_usage_debian) - [General Resolution: LLM usage in Debian](https://www.debian.org/vote/2026/vote_002)
