@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-25, 15:13:27",
+      "https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces"
+    ],
+    [
+      "Languages as designed latent spaces",
+      "https://blog.jsbarretto.com/post/languages-as-latent-spaces"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 12:58:43",
       "https://lobste.rs/s/s75zd9/zig_by_example"
     ],
@@ -237,16 +247,6 @@
     [
       "You should selfhost your mail (in 2026)",
       "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 15:33:26",
-      "https://lobste.rs/s/gpqa52/everyone_should_know_simd"
-    ],
-    [
-      "Everyone Should Know SIMD",
-      "https://mitchellh.com/writing/everyone-should-know-simd"
     ]
   ]
 ]
