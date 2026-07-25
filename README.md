@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-25, 00:23:02](https://lobste.rs/s/aibmo4/2026_stack_overflow_developer_survey) - [2026 Stack Overflow Developer Survey](https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc)
 * [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
 * [2026-07-24, 22:11:44](https://lobste.rs/s/yia0pc/systems_delays_2026) - [Systems and Delays (2026)](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
 * [2026-07-24, 20:34:19](https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move) - [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
@@ -14,7 +15,6 @@
 * [2026-07-24, 13:54:04](https://lobste.rs/s/xnwxcz/interview_with_maintainer) - [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html)
 * [2026-07-24, 13:26:36](https://lobste.rs/s/wsqti1/make_origami_circuit_board) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-24, 09:56:24](https://lobste.rs/s/troy2w/case_for_muds_modern_times) - [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
-* [2026-07-24, 06:37:28](https://lobste.rs/s/zobigz/query_cycles_compiler_murder_mystery) - [Query cycles: A compiler murder mystery](https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/)
 * [2026-07-24, 05:29:28](https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography) - [Making GIFs from 35mm film photography](https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html)
 * [2026-07-24, 05:08:56](https://lobste.rs/s/wj5bs5/fast_synthesis_basic_oscillators) - [Fast Synthesis of Basic Oscillators](https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html)
 * [2026-07-24, 05:05:03](https://lobste.rs/s/h9gdj8/freebsd_ports_frozen_after_someone) - [FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary](https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/)
