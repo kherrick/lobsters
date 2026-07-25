@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-25, 03:00:20",
+      "https://lobste.rs/s/zfvln5/we_are_not_special"
+    ],
+    [
+      "We Are Not Special",
+      "https://www.hillelwayne.com/post/we-are-not-special/"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 01:34:26",
       "https://lobste.rs/s/fw69uj/microformats_building_blocks_for_data"
     ],
@@ -237,16 +247,6 @@
     [
       "Justif: Knuth-Plass justification and microtypography for the web",
       "https://justif.lyall.co/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 01:04:08",
-      "https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"
-    ],
-    [
-      "Protecting our FLOSS commons from LLMs",
-      "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"
     ]
   ]
 ]
