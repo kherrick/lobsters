@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 18:19:08](https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full) - [Your harddrive is probably full](https://www.marginalia.nu/log/a_139_hdd/)
 * [2026-07-25, 16:10:47](https://lobste.rs/s/ygobr3/general_resolution_llm_usage_debian) - [General Resolution: LLM usage in Debian](https://www.debian.org/vote/2026/vote_002)
 * [2026-07-25, 16:08:48](https://lobste.rs/s/usdhrd/verse_new_scripting_language) - [Verse: A New Scripting Language](https://youtube.com/watch?v=ebqKYLKjL6U)
 * [2026-07-25, 15:13:27](https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces) - [Languages as designed latent spaces](https://blog.jsbarretto.com/post/languages-as-latent-spaces)
