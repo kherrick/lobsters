@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-25, 05:29:51",
+      "https://lobste.rs/s/yajc8q/i_m_running_icfp_programming_contest_2026"
+    ],
+    [
+      "I'm running the ICFP programming contest (2026)",
+      "https://eieio.games/blog/im-running-the-icfp-programming-contest/"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 03:00:20",
       "https://lobste.rs/s/zfvln5/we_are_not_special"
     ],
@@ -107,16 +117,6 @@
     [
       "git rebase -i is not that scary",
       "https://cachebag.sh/journal/interactive-rebasing/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 17:10:38",
-      "https://lobste.rs/s/jw5a02/ffi_call_plan_caching_for_glib"
-    ],
-    [
-      "ffi_call_plan caching for GLib",
-      "https://blogs.gnome.org/chergert/2026/07/24/ffi_call_plan-caching-for-glib/"
     ]
   ],
   [
