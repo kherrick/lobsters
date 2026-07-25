@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-25, 20:52:49",
+      "https://lobste.rs/s/utnhmy/how_i_find_problems_solve_as_staff"
+    ],
+    [
+      "How I Find Problems to Solve as a Staff Engineer",
+      "https://lalitm.com/post/find-problems-staff-engineer/"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 18:19:08",
       "https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full"
     ],
@@ -187,16 +197,6 @@
     [
       "Delightful integration tests in Rust",
       "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 19:48:17",
-      "https://lobste.rs/s/ighdht/postgres_listen_notify_actually_scales"
-    ],
-    [
-      "Postgres LISTEN/NOTIFY Actually Scales",
-      "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
     ]
   ],
   [
