@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 09:10:12](https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history) - [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-25, 06:07:49](https://lobste.rs/s/ypgw9x/perils_parsing_type_inference) - [the perils of parsing type inference declarations in c](https://sebsite.pw/w/20260725-auto.html)
 * [2026-07-25, 05:29:51](https://lobste.rs/s/yajc8q/i_m_running_icfp_programming_contest_2026) - [I'm running the ICFP programming contest (2026)](https://eieio.games/blog/im-running-the-icfp-programming-contest/)
 * [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special) - [We Are Not Special](https://www.hillelwayne.com/post/we-are-not-special/)
