@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-25, 11:33:00",
+      "https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway"
+    ],
+    [
+      "A shell colon does nothing. Use it anyway",
+      "https://refp.se/articles/your-shell-and-the-magic-colon"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 11:14:51",
+      "https://lobste.rs/s/pqkfur/emacs_writing_machine"
+    ],
+    [
+      "Emacs Writing Machine",
+      "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 10:01:03",
       "https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-07-23, 21:20:10",
-      "https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out"
-    ],
-    [
-      "Fil-C: Garbage In, Memory Safety Out",
-      "https://www.youtube.com/watch?v=5F-2Y1LPRek"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 21:10:09",
       "https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026"
     ],
@@ -237,16 +247,6 @@
     [
       "Everyone Should Know SIMD",
       "https://mitchellh.com/writing/everyone-should-know-simd"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 09:30:45",
-      "https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification"
-    ],
-    [
-      "Justif: Knuth-Plass justification and microtypography for the web",
-      "https://justif.lyall.co/"
     ]
   ]
 ]
