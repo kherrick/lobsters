@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-26, 04:53:21](https://lobste.rs/s/jgaxxy/beginner_j_dealing_cards) - [Beginner J: Dealing Cards](https://www.youtube.com/watch?v=eXGKK8BkCkg)
 * [2026-07-26, 03:15:08](https://lobste.rs/s/asgpfk/scanwheel_drum_style_mechanical) - [Scanwheel: a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/)
 * [2026-07-26, 00:45:08](https://lobste.rs/s/sd5em2/himalaya_v2_0_0_cli_manage_emails) - [Himalaya v2.0.0: CLI to manage emails](https://fosstodon.org/@pimalaya/116983467890532240)
 * [2026-07-25, 22:13:07](https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels) - [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
@@ -19,7 +20,6 @@
 * [2026-07-25, 06:07:49](https://lobste.rs/s/ypgw9x/perils_parsing_type_inference) - [the perils of parsing type inference declarations in c](https://sebsite.pw/w/20260725-auto.html)
 * [2026-07-25, 05:29:51](https://lobste.rs/s/yajc8q/i_m_running_icfp_programming_contest) - [I'm running the ICFP programming contest](https://eieio.games/blog/im-running-the-icfp-programming-contest/)
 * [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special_2021) - [We Are Not Special (2021)](https://www.hillelwayne.com/post/we-are-not-special/)
-* [2026-07-25, 01:34:26](https://lobste.rs/s/fw69uj/microformats_building_blocks_for_data) - [Microformats – building blocks for data-rich web pages](https://microformats.org/)
 * [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
 * [2026-07-24, 22:11:44](https://lobste.rs/s/yia0pc/systems_delays_2026) - [Systems and Delays (2026)](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
 * [2026-07-24, 20:34:19](https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move) - [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
