@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-26, 21:28:51](https://lobste.rs/s/2vuexn/secret_life_data_valkey) - [The secret life of data in Valkey](https://valkey.io/blog/secret-life-of-data/)
 * [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 * [2026-07-26, 17:39:27](https://lobste.rs/s/exipox/forth_moving_lisp_moving_forth) - [Forth Moving Lisp Moving Forth](https://letoverlambda.com/textmode.cl/guest/chap8.html)
 * [2026-07-26, 17:38:00](https://lobste.rs/s/9fqugm/openloco_version_26_07_release) - [OpenLoco version 26.07  Release](https://openloco.io/news/2026/07/openloco-v26.07.html)
@@ -24,7 +25,6 @@
 * [2026-07-25, 09:10:12](https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history) - [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special_2021) - [We Are Not Special (2021)](https://www.hillelwayne.com/post/we-are-not-special/)
 * [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
-* [2026-07-24, 20:34:19](https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move) - [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
 
 ## [Archives](archives/index.md)
 
