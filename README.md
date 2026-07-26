@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-26, 14:59:29](https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages) - [Xavier Leroy on programming, languages and formal verification](https://www.youtube.com/watch?v=9Cswiqrq6So)
+* [2026-07-26, 14:50:42](https://lobste.rs/s/67043h/dmitri_gaskin_on_jquery) - [Dmitri Gaskin on jQuery](https://www.youtube.com/watch?v=8mwKq7_JlS8)
 * [2026-07-26, 04:53:21](https://lobste.rs/s/jgaxxy/beginner_j_dealing_cards) - [Beginner J: Dealing Cards](https://www.youtube.com/watch?v=eXGKK8BkCkg)
 * [2026-07-26, 03:15:08](https://lobste.rs/s/asgpfk/scanwheel_drum_style_mechanical) - [Scanwheel: a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/)
 * [2026-07-26, 00:45:08](https://lobste.rs/s/sd5em2/himalaya_v2_0_0_cli_manage_emails) - [Himalaya v2.0.0: CLI to manage emails](https://fosstodon.org/@pimalaya/116983467890532240)
@@ -23,8 +25,6 @@
 * [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
 * [2026-07-24, 22:11:44](https://lobste.rs/s/yia0pc/systems_delays_2026) - [Systems and Delays (2026)](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
 * [2026-07-24, 20:34:19](https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move) - [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
-* [2026-07-24, 20:24:48](https://lobste.rs/s/khaizc/delightful_integration_tests_rust) - [Delightful integration tests in Rust](https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md)
-* [2026-07-24, 14:24:29](https://lobste.rs/s/td8rne/don_t_take_black_pill) - [Don't take the black pill](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 
 ## [Archives](archives/index.md)
 
