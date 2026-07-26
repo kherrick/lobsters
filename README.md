@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-26, 15:54:26](https://lobste.rs/s/1o4ba2/fast_deflate_compression_lean) - [Fast DEFLATE compression in Lean](https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/)
 * [2026-07-26, 14:59:29](https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages) - [Xavier Leroy on programming, languages and formal verification](https://www.youtube.com/watch?v=9Cswiqrq6So)
 * [2026-07-26, 14:50:42](https://lobste.rs/s/67043h/dmitri_gaskin_on_jquery) - [Dmitri Gaskin on jQuery](https://www.youtube.com/watch?v=8mwKq7_JlS8)
 * [2026-07-26, 04:53:21](https://lobste.rs/s/jgaxxy/beginner_j_dealing_cards) - [Beginner J: Dealing Cards](https://www.youtube.com/watch?v=eXGKK8BkCkg)
@@ -23,7 +24,6 @@
 * [2026-07-25, 05:29:51](https://lobste.rs/s/yajc8q/i_m_running_icfp_programming_contest) - [I'm running the ICFP programming contest](https://eieio.games/blog/im-running-the-icfp-programming-contest/)
 * [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special_2021) - [We Are Not Special (2021)](https://www.hillelwayne.com/post/we-are-not-special/)
 * [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
-* [2026-07-24, 22:11:44](https://lobste.rs/s/yia0pc/systems_delays_2026) - [Systems and Delays (2026)](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
 * [2026-07-24, 20:34:19](https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move) - [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
 
 ## [Archives](archives/index.md)
