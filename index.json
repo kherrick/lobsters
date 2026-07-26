@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-26, 21:28:51",
+      "https://lobste.rs/s/2vuexn/secret_life_data_valkey"
+    ],
+    [
+      "The secret life of data in Valkey",
+      "https://valkey.io/blog/secret-life-of-data/"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 19:26:09",
       "https://lobste.rs/s/n3dz7x/teaching_kids_forth"
     ],
@@ -237,16 +247,6 @@
     [
       "Chrome registers a global shortcut for Gemini popup window",
       "https://unsung.aresluna.org/chromes-breaking-and-entering/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 20:34:19",
-      "https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move"
-    ],
-    [
-      "Watching Go's new garbage collector move through the heap",
-      "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html"
     ]
   ]
 ]
