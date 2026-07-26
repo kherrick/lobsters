@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 * [2026-07-26, 17:39:27](https://lobste.rs/s/exipox/forth_moving_lisp_moving_forth) - [Forth Moving Lisp Moving Forth](https://letoverlambda.com/textmode.cl/guest/chap8.html)
 * [2026-07-26, 17:38:00](https://lobste.rs/s/9fqugm/openloco_version_26_07_release) - [OpenLoco version 26.07  Release](https://openloco.io/news/2026/07/openloco-v26.07.html)
 * [2026-07-26, 15:54:26](https://lobste.rs/s/1o4ba2/fast_deflate_compression_lean) - [Fast DEFLATE compression in Lean](https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/)
