@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-26, 00:45:08",
+      "https://lobste.rs/s/sd5em2/himalaya_v2_0_0_cli_manage_emails"
+    ],
+    [
+      "Himalaya v2.0.0: CLI to manage emails",
+      "https://fosstodon.org/@pimalaya/116983467890532240"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 22:13:07",
       "https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels"
     ],
@@ -227,16 +237,6 @@
     [
       "Delightful integration tests in Rust",
       "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 17:41:20",
-      "https://lobste.rs/s/uawqly/git_rebase_i_is_not_scary"
-    ],
-    [
-      "git rebase -i is not that scary",
-      "https://cachebag.sh/journal/interactive-rebasing/"
     ]
   ],
   [
