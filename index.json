@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-26, 19:26:09",
+      "https://lobste.rs/s/n3dz7x/teaching_kids_forth"
+    ],
+    [
+      "Teaching Kids Forth",
+      "https://gracefulliberty.com/articles/teaching-kids-forth/"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 17:39:27",
       "https://lobste.rs/s/exipox/forth_moving_lisp_moving_forth"
     ],
@@ -207,16 +217,6 @@
     [
       "stinkpot: sqlite-backed shell history",
       "https://tangled.org/oppi.li/stinkpot"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 05:29:51",
-      "https://lobste.rs/s/yajc8q/i_m_running_icfp_programming_contest"
-    ],
-    [
-      "I'm running the ICFP programming contest",
-      "https://eieio.games/blog/im-running-the-icfp-programming-contest/"
     ]
   ],
   [
