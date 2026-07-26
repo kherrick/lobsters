@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 22:32:54](https://lobste.rs/s/uusfyj/sqlite_wal_mode_can_lock_short_lived) - [SQLite WAL Mode Can Lock Short-Lived Readers](https://hynek.me/til/sqlite-read-only-wal-locked/)
 * [2026-07-26, 21:28:51](https://lobste.rs/s/2vuexn/secret_life_data_valkey) - [The secret life of data in Valkey](https://valkey.io/blog/secret-life-of-data/)
 * [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 * [2026-07-26, 17:39:27](https://lobste.rs/s/exipox/forth_moving_lisp_moving_forth) - [Forth Moving Lisp Moving Forth](https://letoverlambda.com/textmode.cl/guest/chap8.html)
