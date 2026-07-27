@@ -72,11 +72,11 @@
   [
     [
       "2026-07-27, 09:48:30",
-      "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation"
+      "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is"
     ],
     [
-      "lobste.rs has a js-error: here is a mitigation",
-      "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation"
+      "lobste.rs ~~has~~had a js-error: here is a mitigation",
+      "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is"
     ]
   ],
   [
@@ -151,26 +151,6 @@
   ],
   [
     [
-      "2026-07-27, 08:12:02",
-      "https://lobste.rs/s/mfccui/doom_running_on_regex_engine"
-    ],
-    [
-      "DOOM running on a regex engine",
-      "https://4rh1t3ct0r7.github.io/doom-regex/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 07:13:02",
-      "https://lobste.rs/s/dmuqxg/history_john_backus_s_fp_languages"
-    ],
-    [
-      "History of John Backus's FP languages",
-      "https://softwarepreservation.computerhistory.org/FP/"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 06:06:58",
       "https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do"
     ],
@@ -181,12 +161,32 @@
   ],
   [
     [
+      "2026-07-27, 05:39:14",
+      "https://lobste.rs/s/lhnggy/interconverting_std_function_with"
+    ],
+    [
+      "Interconverting std::function with copyable_function",
+      "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 05:25:16",
       "https://lobste.rs/s/uwhqhi/being_linux_torvalds"
     ],
     [
       "Being Linux Torvalds",
       "https://antirez.com/news/171"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 23:17:55",
+      "https://lobste.rs/s/xoxury/using_thinkpad_t480_as_mobile_phone"
+    ],
+    [
+      "Using ThinkPad T480 as a mobile phone",
+      "https://grego.site/blog/thinkphone"
     ]
   ],
   [
