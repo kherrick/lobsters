@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-27, 08:45:44](https://lobste.rs/s/v1ejq9/n_body_gravity_simulation_o_n) - [N-body gravity simulation in O(N)](https://www.youtube.com/watch?v=FhMftauQZqU)
+* [2026-07-27, 08:37:51](https://lobste.rs/s/2shapa/make_reviews_possible_again_with_this_one) - [Make Reviews Possible Again With This One Simple Trick](https://silky.github.io/posts/reviews-one-simple-trick.html)
+* [2026-07-27, 08:20:46](https://lobste.rs/s/wewd0y/pgsimcity_how_postgresql_works_3d) - [PGSimCity: How PostgreSQL Works, in 3D](https://nikolays.github.io/PGSimCity/)
+* [2026-07-27, 08:12:02](https://lobste.rs/s/mfccui/doom_running_on_regex_engine) - [DOOM running on a regex engine](https://4rh1t3ct0r7.github.io/doom-regex/)
 * [2026-07-27, 07:13:02](https://lobste.rs/s/dmuqxg/history_john_backus_s_fp_languages) - [History of John Backus's FP languages](https://softwarepreservation.computerhistory.org/FP/)
 * [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
 * [2026-07-27, 05:39:14](https://lobste.rs/s/lhnggy/interconverting_std_function_with) - [Interconverting std::function with copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
@@ -19,11 +23,7 @@
 * [2026-07-25, 21:38:29](https://lobste.rs/s/x7jtkt/memory_safety_absolutists) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 21:32:58](https://lobste.rs/s/sh9bbn/how_self_host_servers_your_living_room_on) - [How to self-host servers in your living room on static IPs](https://vimuser.org/l2tp.html)
 * [2026-07-25, 20:52:49](https://lobste.rs/s/utnhmy/how_i_find_problems_solve_as_staff) - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-* [2026-07-25, 18:19:08](https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full) - [Your harddrive is probably full](https://www.marginalia.nu/log/a_139_hdd/)
-* [2026-07-25, 16:08:48](https://lobste.rs/s/usdhrd/verse_new_scripting_language) - [Verse: A New Scripting Language](https://youtube.com/watch?v=ebqKYLKjL6U)
-* [2026-07-25, 12:58:43](https://lobste.rs/s/s75zd9/zig_by_example) - [Zig by Example](https://zigbyexample.neocities.org/)
 * [2026-07-25, 11:33:00](https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
-* [2026-07-25, 10:01:03](https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb) - [Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 09:10:12](https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history) - [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 
 ## [Archives](archives/index.md)
