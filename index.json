@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-27, 17:06:57",
+      "https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet"
+    ],
+    [
+      "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
+      "https://eaton-works.com/2026/07/27/my-eicher-hack/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 16:40:05",
+      "https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations"
+    ],
+    [
+      "Finding bugs in Raft implementations",
+      "https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 16:35:19",
       "https://lobste.rs/s/mv8t4p/quick_easy_parser_combinators"
     ],
@@ -17,16 +37,6 @@
     [
       "Open Source Must Be Fun (Or It Will Die)",
       "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 14:56:35",
-      "https://lobste.rs/s/u821ri/computer_helped_win_world_war_ii_colossus"
-    ],
-    [
-      "The Computer That Helped Win World War II: Colossus cracked Germany’s encrypted communications",
-      "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Teaching Kids Forth",
       "https://gracefulliberty.com/articles/teaching-kids-forth/"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 22:13:07",
-      "https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels"
-    ],
-    [
-      "Maybe we should revisit microkernels",
-      "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html"
     ]
   ]
 ]
