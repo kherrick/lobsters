@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-27, 14:24:58](https://lobste.rs/s/opogns/building_fast_lock_free_queue_modern_c) - [Building a Fast Lock-Free Queue in Modern C++ From Scratch](https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/)
-* [2026-07-27, 14:18:30](https://lobste.rs/s/yhzvzk/zstandard_worked_example_2022) - [Zstandard Worked Example (2022)](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
+* [2026-07-27, 15:08:21](https://lobste.rs/s/pv3hae/electromagnetic_field_2026) - [Electromagnetic Field 2026](https://media.ccc.de/c/emf2026)
+* [2026-07-27, 14:56:35](https://lobste.rs/s/u821ri/computer_helped_win_world_war_ii_colossus) - [The Computer That Helped Win World War II: Colossus cracked Germany’s encrypted communications](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
+* [2026-07-27, 14:55:38](https://lobste.rs/s/cbbit5/paged_out_issue_9) - [Paged Out - Issue #9](https://pagedout.institute/webview.php?issue=9&page=1)
+* [2026-07-27, 14:26:49](https://lobste.rs/s/gtsgzs/i_wrote_music_player_2022) - [I wrote a music player (2022)](https://www.omarpolo.com/post/amused.html)
 * [2026-07-27, 13:44:42](https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as) - [Would you like to see a “fork” of current tech as a whole?](https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as)
 * [2026-07-27, 13:34:39](https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious) - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 * [2026-07-27, 12:32:24](https://lobste.rs/s/vtev1n/how_is_bun_rewrite_rust_going) - [How is the Bun Rewrite in Rust Going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
@@ -18,13 +20,11 @@
 * [2026-07-27, 08:37:51](https://lobste.rs/s/2shapa/make_reviews_possible_again_with_this_one) - [Make Reviews Possible Again With This One Simple Trick](https://silky.github.io/posts/reviews-one-simple-trick.html)
 * [2026-07-27, 08:20:46](https://lobste.rs/s/wewd0y/pgsimcity_how_postgresql_works_3d) - [PGSimCity: How PostgreSQL Works, in 3D](https://nikolays.github.io/PGSimCity/)
 * [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
-* [2026-07-27, 05:39:14](https://lobste.rs/s/lhnggy/interconverting_std_function_with) - [Interconverting std::function with copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
 * [2026-07-27, 05:25:16](https://lobste.rs/s/uwhqhi/being_linux_torvalds) - [Being Linux Torvalds](https://antirez.com/news/171)
 * [2026-07-26, 23:17:55](https://lobste.rs/s/xoxury/using_thinkpad_t480_as_mobile_phone) - [Using ThinkPad T480 as a mobile phone](https://grego.site/blog/thinkphone)
 * [2026-07-26, 22:32:54](https://lobste.rs/s/uusfyj/sqlite_wal_mode_can_lock_short_lived) - [SQLite WAL Mode Can Lock Short-Lived Readers](https://hynek.me/til/sqlite-read-only-wal-locked/)
 * [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 * [2026-07-25, 22:13:07](https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels) - [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
-* [2026-07-25, 11:33:00](https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 
 ## [Archives](archives/index.md)
 

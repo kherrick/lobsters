@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 15:08:21](https://lobste.rs/s/pv3hae/electromagnetic_field_2026) - [Electromagnetic Field 2026](https://media.ccc.de/c/emf2026)
+* [2026-07-27, 14:56:35](https://lobste.rs/s/u821ri/computer_helped_win_world_war_ii_colossus) - [The Computer That Helped Win World War II: Colossus cracked Germany’s encrypted communications](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
+* [2026-07-27, 14:55:38](https://lobste.rs/s/cbbit5/paged_out_issue_9) - [Paged Out - Issue #9](https://pagedout.institute/webview.php?issue=9&page=1)
+* [2026-07-27, 14:26:49](https://lobste.rs/s/gtsgzs/i_wrote_music_player_2022) - [I wrote a music player (2022)](https://www.omarpolo.com/post/amused.html)
 * [2026-07-27, 14:24:58](https://lobste.rs/s/opogns/building_fast_lock_free_queue_modern_c) - [Building a Fast Lock-Free Queue in Modern C++ From Scratch](https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/)
 * [2026-07-27, 14:18:30](https://lobste.rs/s/yhzvzk/zstandard_worked_example_2022) - [Zstandard Worked Example (2022)](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
 * [2026-07-27, 13:44:42](https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as) - [Would you like to see a “fork” of current tech as a whole?](https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as)
