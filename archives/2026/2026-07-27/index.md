@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 09:55:52](https://lobste.rs/s/fdqnii/design_everyday_cryptography) - [The Design of Everyday Cryptography](https://www.dlp.rip/everyday-cryptography/)
+* [2026-07-27, 09:48:30](https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation) - [lobste.rs has a js-error: here is a mitigation](https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation)
+* [2026-07-27, 09:44:18](https://lobste.rs/s/jz5sd1/voice_from_nowhere) - [A Voice From Nowhere](https://zanlib.dev/blog/a-voice-from-nowhere/)
+* [2026-07-27, 09:26:03](https://lobste.rs/s/duxghi/fast_path_for_fixed_length_lists_parquet) - [A Fast Path for Fixed-Length Lists in Parquet](https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/)
+* [2026-07-27, 08:54:22](https://lobste.rs/s/ajqxvq/functional_programming_from_first) - [Functional programming from first principles, part 1 – motivation](https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation)
+* [2026-07-27, 08:52:37](https://lobste.rs/s/zljfgp/on_ai) - [On AI](https://jcs.org/2026/07/23/ai)
 * [2026-07-27, 08:45:44](https://lobste.rs/s/v1ejq9/n_body_gravity_simulation_o_n) - [N-body gravity simulation in O(N)](https://www.youtube.com/watch?v=FhMftauQZqU)
 * [2026-07-27, 08:37:51](https://lobste.rs/s/2shapa/make_reviews_possible_again_with_this_one) - [Make Reviews Possible Again With This One Simple Trick](https://silky.github.io/posts/reviews-one-simple-trick.html)
 * [2026-07-27, 08:20:46](https://lobste.rs/s/wewd0y/pgsimcity_how_postgresql_works_3d) - [PGSimCity: How PostgreSQL Works, in 3D](https://nikolays.github.io/PGSimCity/)
