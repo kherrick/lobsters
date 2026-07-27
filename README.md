@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-27, 17:40:23](https://lobste.rs/s/pngdot/advantages_disadvantages_windows_nt_3_1) - [Advantages and disadvantages of Windows NT 3.1](https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/)
 * [2026-07-27, 17:06:57](https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet) - [Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 16:40:05](https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations) - [Finding bugs in Raft implementations](https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/)
 * [2026-07-27, 16:35:19](https://lobste.rs/s/mv8t4p/quick_easy_parser_combinators) - [Quick & Easy Parser Combinators](https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html)
@@ -23,7 +24,6 @@
 * [2026-07-27, 08:20:46](https://lobste.rs/s/wewd0y/pgsimcity_how_postgresql_works_3d) - [PGSimCity: How PostgreSQL Works, in 3D](https://nikolays.github.io/PGSimCity/)
 * [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
 * [2026-07-27, 05:25:16](https://lobste.rs/s/uwhqhi/being_linux_torvalds) - [Being Linux Torvalds](https://antirez.com/news/171)
-* [2026-07-26, 22:32:54](https://lobste.rs/s/uusfyj/sqlite_wal_mode_can_lock_short_lived) - [SQLite WAL Mode Can Lock Short-Lived Readers](https://hynek.me/til/sqlite-read-only-wal-locked/)
 * [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 
 ## [Archives](archives/index.md)
