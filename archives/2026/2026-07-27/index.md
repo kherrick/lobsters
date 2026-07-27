@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 14:24:58](https://lobste.rs/s/opogns/building_fast_lock_free_queue_modern_c) - [Building a Fast Lock-Free Queue in Modern C++ From Scratch](https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/)
+* [2026-07-27, 14:18:30](https://lobste.rs/s/yhzvzk/zstandard_worked_example_2022) - [Zstandard Worked Example (2022)](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
+* [2026-07-27, 13:44:42](https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as) - [Would you like to see a “fork” of current tech as a whole?](https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as)
+* [2026-07-27, 13:34:39](https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious) - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 * [2026-07-27, 12:32:24](https://lobste.rs/s/vtev1n/how_is_bun_rewrite_rust_going) - [How is the Bun Rewrite in Rust Going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
 * [2026-07-27, 12:20:47](https://lobste.rs/s/bgxanw/digital_circuit_simulator_haskell) - [Digital circuit simulator in Haskell](https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell)
 * [2026-07-27, 11:34:14](https://lobste.rs/s/lgutwh/conformance_vs_comprehension) - [Conformance vs Comprehension](https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html)
