@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-07-27, 14:24:58",
-      "https://lobste.rs/s/opogns/building_fast_lock_free_queue_modern_c"
+      "2026-07-27, 15:08:21",
+      "https://lobste.rs/s/pv3hae/electromagnetic_field_2026"
     ],
     [
-      "Building a Fast Lock-Free Queue in Modern C++ From Scratch",
-      "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/"
+      "Electromagnetic Field 2026",
+      "https://media.ccc.de/c/emf2026"
     ]
   ],
   [
     [
-      "2026-07-27, 14:18:30",
-      "https://lobste.rs/s/yhzvzk/zstandard_worked_example_2022"
+      "2026-07-27, 14:56:35",
+      "https://lobste.rs/s/u821ri/computer_helped_win_world_war_ii_colossus"
     ],
     [
-      "Zstandard Worked Example (2022)",
-      "https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html"
+      "The Computer That Helped Win World War II: Colossus cracked Germany’s encrypted communications",
+      "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 14:55:38",
+      "https://lobste.rs/s/cbbit5/paged_out_issue_9"
+    ],
+    [
+      "Paged Out - Issue #9",
+      "https://pagedout.institute/webview.php?issue=9&page=1"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 14:26:49",
+      "https://lobste.rs/s/gtsgzs/i_wrote_music_player_2022"
+    ],
+    [
+      "I wrote a music player (2022)",
+      "https://www.omarpolo.com/post/amused.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-07-27, 05:39:14",
-      "https://lobste.rs/s/lhnggy/interconverting_std_function_with"
-    ],
-    [
-      "Interconverting std::function with copyable_function",
-      "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 05:25:16",
       "https://lobste.rs/s/uwhqhi/being_linux_torvalds"
     ],
@@ -237,16 +247,6 @@
     [
       "Maybe we should revisit microkernels",
       "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 11:33:00",
-      "https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway"
-    ],
-    [
-      "A shell colon does nothing. Use it anyway",
-      "https://refp.se/articles/your-shell-and-the-magic-colon"
     ]
   ]
 ]
