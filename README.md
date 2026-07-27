@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
+* [2026-07-27, 05:39:14](https://lobste.rs/s/lhnggy/interconverting_std_function_with) - [Interconverting std::function with copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
+* [2026-07-27, 05:37:02](https://lobste.rs/s/lwztjw/authoritative_dnsmasq_mikrotik) - [Authoritative dnsmasq in a MikroTik container](https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/)
+* [2026-07-27, 05:25:16](https://lobste.rs/s/uwhqhi/being_linux_torvalds) - [Being Linux Torvalds](https://antirez.com/news/171)
 * [2026-07-26, 23:17:55](https://lobste.rs/s/xoxury/using_thinkpad_t480_as_mobile_phone) - [Using ThinkPad T480 as a mobile phone](https://grego.site/blog/thinkphone)
 * [2026-07-26, 22:32:54](https://lobste.rs/s/uusfyj/sqlite_wal_mode_can_lock_short_lived) - [SQLite WAL Mode Can Lock Short-Lived Readers](https://hynek.me/til/sqlite-read-only-wal-locked/)
 * [2026-07-26, 21:28:51](https://lobste.rs/s/2vuexn/secret_life_data_valkey) - [The secret life of data in Valkey](https://valkey.io/blog/secret-life-of-data/)
@@ -10,10 +14,8 @@
 * [2026-07-26, 14:59:29](https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages) - [Xavier Leroy on programming, languages and formal verification](https://www.youtube.com/watch?v=9Cswiqrq6So)
 * [2026-07-26, 14:50:42](https://lobste.rs/s/67043h/dmitri_gaskin_on_jquery_2008) - [Dmitri Gaskin on jQuery (2008)](https://www.youtube.com/watch?v=8mwKq7_JlS8)
 * [2026-07-26, 04:53:21](https://lobste.rs/s/jgaxxy/beginner_j_dealing_cards) - [Beginner J: Dealing Cards](https://www.youtube.com/watch?v=eXGKK8BkCkg)
-* [2026-07-26, 03:15:08](https://lobste.rs/s/asgpfk/scanwheel_drum_style_mechanical) - [Scanwheel: a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/)
 * [2026-07-26, 00:45:08](https://lobste.rs/s/sd5em2/himalaya_v2_0_0_cli_manage_emails) - [Himalaya v2.0.0: CLI to manage emails](https://fosstodon.org/@pimalaya/116983467890532240)
 * [2026-07-25, 22:13:07](https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels) - [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
-* [2026-07-25, 21:39:39](https://lobste.rs/s/bvjwbk/banner_highway_01) - [Banner Highway 01](https://highway-01.banner-depot-2000.net/)
 * [2026-07-25, 21:38:29](https://lobste.rs/s/x7jtkt/memory_safety_absolutists) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 21:32:58](https://lobste.rs/s/sh9bbn/how_self_host_servers_your_living_room_on) - [How to self-host servers in your living room on static IPs](https://vimuser.org/l2tp.html)
 * [2026-07-25, 20:52:49](https://lobste.rs/s/utnhmy/how_i_find_problems_solve_as_staff) - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
@@ -23,8 +25,6 @@
 * [2026-07-25, 11:33:00](https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [2026-07-25, 10:01:03](https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb) - [Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 09:10:12](https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history) - [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
-* [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special_2021) - [We Are Not Special (2021)](https://www.hillelwayne.com/post/we-are-not-special/)
-* [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
 
 ## [Archives](archives/index.md)
 
