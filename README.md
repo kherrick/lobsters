@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-27, 07:13:02](https://lobste.rs/s/dmuqxg/history_john_backus_s_fp_languages) - [History of John Backus's FP languages](https://softwarepreservation.computerhistory.org/FP/)
 * [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
 * [2026-07-27, 05:39:14](https://lobste.rs/s/lhnggy/interconverting_std_function_with) - [Interconverting std::function with copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
 * [2026-07-27, 05:37:02](https://lobste.rs/s/lwztjw/authoritative_dnsmasq_mikrotik) - [Authoritative dnsmasq in a MikroTik container](https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/)
@@ -13,7 +14,6 @@
 * [2026-07-26, 15:54:26](https://lobste.rs/s/1o4ba2/fast_deflate_compression_lean) - [Fast DEFLATE compression in Lean](https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/)
 * [2026-07-26, 14:59:29](https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages) - [Xavier Leroy on programming, languages and formal verification](https://www.youtube.com/watch?v=9Cswiqrq6So)
 * [2026-07-26, 14:50:42](https://lobste.rs/s/67043h/dmitri_gaskin_on_jquery_2008) - [Dmitri Gaskin on jQuery (2008)](https://www.youtube.com/watch?v=8mwKq7_JlS8)
-* [2026-07-26, 04:53:21](https://lobste.rs/s/jgaxxy/beginner_j_dealing_cards) - [Beginner J: Dealing Cards](https://www.youtube.com/watch?v=eXGKK8BkCkg)
 * [2026-07-26, 00:45:08](https://lobste.rs/s/sd5em2/himalaya_v2_0_0_cli_manage_emails) - [Himalaya v2.0.0: CLI to manage emails](https://fosstodon.org/@pimalaya/116983467890532240)
 * [2026-07-25, 22:13:07](https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels) - [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
 * [2026-07-25, 21:38:29](https://lobste.rs/s/x7jtkt/memory_safety_absolutists) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
