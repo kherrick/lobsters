@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 10:54:37](https://lobste.rs/s/gicomw/productivity_mirage) - [The Productivity Mirage](https://frantic.im/mirage)
+* [2026-07-27, 10:51:46](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week)
+* [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
 * [2026-07-27, 09:55:52](https://lobste.rs/s/fdqnii/design_everyday_cryptography) - [The Design of Everyday Cryptography](https://www.dlp.rip/everyday-cryptography/)
 * [2026-07-27, 09:48:30](https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation) - [lobste.rs has a js-error: here is a mitigation](https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation)
 * [2026-07-27, 09:44:18](https://lobste.rs/s/jz5sd1/voice_from_nowhere) - [A Voice From Nowhere](https://zanlib.dev/blog/a-voice-from-nowhere/)
