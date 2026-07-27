@@ -12,6 +12,7 @@
 * [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
 * [2026-07-27, 09:55:52](https://lobste.rs/s/fdqnii/design_everyday_cryptography) - [The Design of Everyday Cryptography](https://www.dlp.rip/everyday-cryptography/)
 * [2026-07-27, 09:48:30](https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation) - [lobste.rs has a js-error: here is a mitigation](https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation)
+* [2026-07-27, 09:48:30](https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is) - [lobste.rs ~~has~~had a js-error: here is a mitigation](https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is)
 * [2026-07-27, 09:44:18](https://lobste.rs/s/jz5sd1/voice_from_nowhere) - [A Voice From Nowhere](https://zanlib.dev/blog/a-voice-from-nowhere/)
 * [2026-07-27, 09:26:03](https://lobste.rs/s/duxghi/fast_path_for_fixed_length_lists_parquet) - [A Fast Path for Fixed-Length Lists in Parquet](https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/)
 * [2026-07-27, 08:54:22](https://lobste.rs/s/ajqxvq/functional_programming_from_first) - [Functional programming from first principles, part 1 – motivation](https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation)
