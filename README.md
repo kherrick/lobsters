@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-27, 17:06:57](https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet) - [Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
+* [2026-07-27, 16:40:05](https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations) - [Finding bugs in Raft implementations](https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/)
 * [2026-07-27, 16:35:19](https://lobste.rs/s/mv8t4p/quick_easy_parser_combinators) - [Quick & Easy Parser Combinators](https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html)
 * [2026-07-27, 15:33:26](https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die) - [Open Source Must Be Fun (Or It Will Die)](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/)
-* [2026-07-27, 14:56:35](https://lobste.rs/s/u821ri/computer_helped_win_world_war_ii_colossus) - [The Computer That Helped Win World War II: Colossus cracked Germany’s encrypted communications](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 * [2026-07-27, 14:55:38](https://lobste.rs/s/cbbit5/paged_out_issue_9) - [Paged Out - Issue #9](https://pagedout.institute/webview.php?issue=9&page=1)
 * [2026-07-27, 14:26:49](https://lobste.rs/s/gtsgzs/i_wrote_music_player_2022) - [I wrote a music player (2022)](https://www.omarpolo.com/post/amused.html)
 * [2026-07-27, 13:44:42](https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as) - [Would you like to see a “fork” of current tech as a whole?](https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as)
@@ -24,7 +25,6 @@
 * [2026-07-27, 05:25:16](https://lobste.rs/s/uwhqhi/being_linux_torvalds) - [Being Linux Torvalds](https://antirez.com/news/171)
 * [2026-07-26, 22:32:54](https://lobste.rs/s/uusfyj/sqlite_wal_mode_can_lock_short_lived) - [SQLite WAL Mode Can Lock Short-Lived Readers](https://hynek.me/til/sqlite-read-only-wal-locked/)
 * [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
-* [2026-07-25, 22:13:07](https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels) - [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
 
 ## [Archives](archives/index.md)
 

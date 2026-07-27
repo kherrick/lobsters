@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 17:06:57](https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet) - [Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
+* [2026-07-27, 16:40:05](https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations) - [Finding bugs in Raft implementations](https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/)
 * [2026-07-27, 16:35:19](https://lobste.rs/s/mv8t4p/quick_easy_parser_combinators) - [Quick & Easy Parser Combinators](https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html)
 * [2026-07-27, 15:33:26](https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die) - [Open Source Must Be Fun (Or It Will Die)](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/)
 * [2026-07-27, 15:08:21](https://lobste.rs/s/pv3hae/electromagnetic_field_2026) - [Electromagnetic Field 2026](https://media.ccc.de/c/emf2026)
