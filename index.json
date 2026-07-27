@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-27, 17:40:23",
+      "https://lobste.rs/s/pngdot/advantages_disadvantages_windows_nt_3_1"
+    ],
+    [
+      "Advantages and disadvantages of Windows NT 3.1",
+      "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 17:06:57",
       "https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet"
     ],
@@ -227,16 +237,6 @@
     [
       "Being Linux Torvalds",
       "https://antirez.com/news/171"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 22:32:54",
-      "https://lobste.rs/s/uusfyj/sqlite_wal_mode_can_lock_short_lived"
-    ],
-    [
-      "SQLite WAL Mode Can Lock Short-Lived Readers",
-      "https://hynek.me/til/sqlite-read-only-wal-locked/"
     ]
   ],
   [
