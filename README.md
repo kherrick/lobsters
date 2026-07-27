@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-07-27, 15:08:21](https://lobste.rs/s/pv3hae/electromagnetic_field_2026) - [Electromagnetic Field 2026](https://media.ccc.de/c/emf2026)
+* [2026-07-27, 15:33:26](https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die) - [Open Source Must Be Fun (Or It Will Die)](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/)
 * [2026-07-27, 14:56:35](https://lobste.rs/s/u821ri/computer_helped_win_world_war_ii_colossus) - [The Computer That Helped Win World War II: Colossus cracked Germany’s encrypted communications](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 * [2026-07-27, 14:55:38](https://lobste.rs/s/cbbit5/paged_out_issue_9) - [Paged Out - Issue #9](https://pagedout.institute/webview.php?issue=9&page=1)
 * [2026-07-27, 14:26:49](https://lobste.rs/s/gtsgzs/i_wrote_music_player_2022) - [I wrote a music player (2022)](https://www.omarpolo.com/post/amused.html)
@@ -8,6 +8,7 @@
 * [2026-07-27, 13:34:39](https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious) - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 * [2026-07-27, 12:32:24](https://lobste.rs/s/vtev1n/how_is_bun_rewrite_rust_going) - [How is the Bun Rewrite in Rust Going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
 * [2026-07-27, 12:20:47](https://lobste.rs/s/bgxanw/digital_circuit_simulator_haskell) - [Digital circuit simulator in Haskell](https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell)
+* [2026-07-27, 11:34:14](https://lobste.rs/s/lgutwh/conformance_vs_comprehension) - [Conformance vs Comprehension](https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html)
 * [2026-07-27, 10:54:37](https://lobste.rs/s/gicomw/productivity_mirage) - [The Productivity Mirage](https://frantic.im/mirage)
 * [2026-07-27, 10:51:46](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week)
 * [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
@@ -21,7 +22,6 @@
 * [2026-07-27, 08:20:46](https://lobste.rs/s/wewd0y/pgsimcity_how_postgresql_works_3d) - [PGSimCity: How PostgreSQL Works, in 3D](https://nikolays.github.io/PGSimCity/)
 * [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
 * [2026-07-27, 05:25:16](https://lobste.rs/s/uwhqhi/being_linux_torvalds) - [Being Linux Torvalds](https://antirez.com/news/171)
-* [2026-07-26, 23:17:55](https://lobste.rs/s/xoxury/using_thinkpad_t480_as_mobile_phone) - [Using ThinkPad T480 as a mobile phone](https://grego.site/blog/thinkphone)
 * [2026-07-26, 22:32:54](https://lobste.rs/s/uusfyj/sqlite_wal_mode_can_lock_short_lived) - [SQLite WAL Mode Can Lock Short-Lived Readers](https://hynek.me/til/sqlite-read-only-wal-locked/)
 * [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 * [2026-07-25, 22:13:07](https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels) - [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
