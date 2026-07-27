@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-27, 14:24:58",
+      "https://lobste.rs/s/opogns/building_fast_lock_free_queue_modern_c"
+    ],
+    [
+      "Building a Fast Lock-Free Queue in Modern C++ From Scratch",
+      "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 14:18:30",
+      "https://lobste.rs/s/yhzvzk/zstandard_worked_example_2022"
+    ],
+    [
+      "Zstandard Worked Example (2022)",
+      "https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 13:44:42",
+      "https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as"
+    ],
+    [
+      "Would you like to see a “fork” of current tech as a whole?",
+      "https://lobste.rs/s/mqazme/would_you_like_see_fork_current_tech_as"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 13:34:39",
+      "https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious"
+    ],
+    [
+      "Blogging Can Just Be Stating The Obvious",
+      "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 12:32:24",
       "https://lobste.rs/s/vtev1n/how_is_bun_rewrite_rust_going"
     ],
@@ -17,16 +57,6 @@
     [
       "Digital circuit simulator in Haskell",
       "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 11:34:14",
-      "https://lobste.rs/s/lgutwh/conformance_vs_comprehension"
-    ],
-    [
-      "Conformance vs Comprehension",
-      "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "A Voice From Nowhere",
       "https://zanlib.dev/blog/a-voice-from-nowhere/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 09:26:03",
-      "https://lobste.rs/s/duxghi/fast_path_for_fixed_length_lists_parquet"
-    ],
-    [
-      "A Fast Path for Fixed-Length Lists in Parquet",
-      "https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-07-26, 14:59:29",
-      "https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages"
-    ],
-    [
-      "Xavier Leroy on programming, languages and formal verification",
-      "https://www.youtube.com/watch?v=9Cswiqrq6So"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 22:13:07",
       "https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels"
     ],
     [
       "Maybe we should revisit microkernels",
       "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 21:38:29",
-      "https://lobste.rs/s/x7jtkt/memory_safety_absolutists"
-    ],
-    [
-      "Memory Safety Absolutists",
-      "https://itsallaboutthebit.com/memory-safety-absolutists/"
     ]
   ],
   [
