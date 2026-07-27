@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-27, 18:57:58](https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even) - [Seriously, what is the large code-model even for?](https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for)
 * [2026-07-27, 17:40:23](https://lobste.rs/s/pngdot/advantages_disadvantages_windows_nt_3_1) - [Advantages and disadvantages of Windows NT 3.1](https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/)
 * [2026-07-27, 17:06:57](https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet) - [Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 16:40:05](https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations) - [Finding bugs in Raft implementations](https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/)
@@ -14,7 +15,6 @@
 * [2026-07-27, 10:54:37](https://lobste.rs/s/gicomw/productivity_mirage) - [The Productivity Mirage](https://frantic.im/mirage)
 * [2026-07-27, 10:51:46](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week)
 * [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
-* [2026-07-27, 09:55:52](https://lobste.rs/s/fdqnii/design_everyday_cryptography) - [The Design of Everyday Cryptography](https://www.dlp.rip/everyday-cryptography/)
 * [2026-07-27, 09:48:30](https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is) - [lobste.rs ~~has~~had a js-error: here is a mitigation](https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is)
 * [2026-07-27, 09:44:18](https://lobste.rs/s/jz5sd1/voice_from_nowhere) - [A Voice From Nowhere](https://zanlib.dev/blog/a-voice-from-nowhere/)
 * [2026-07-27, 08:54:22](https://lobste.rs/s/ajqxvq/functional_programming_from_first) - [Functional programming from first principles, part 1 – motivation](https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation)
