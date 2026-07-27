@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-27, 16:35:19",
+      "https://lobste.rs/s/mv8t4p/quick_easy_parser_combinators"
+    ],
+    [
+      "Quick & Easy Parser Combinators",
+      "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 15:33:26",
       "https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die"
     ],
@@ -67,16 +77,6 @@
     [
       "How is the Bun Rewrite in Rust Going?",
       "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 12:20:47",
-      "https://lobste.rs/s/bgxanw/digital_circuit_simulator_haskell"
-    ],
-    [
-      "Digital circuit simulator in Haskell",
-      "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell"
     ]
   ],
   [
