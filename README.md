@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-27, 18:57:58](https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even) - [Seriously, what is the large code-model even for?](https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for)
+* [2026-07-27, 18:35:17](https://lobste.rs/s/vptzoz/unreasonable_effectiveness) - [The Unreasonable Effectiveness of Constructive Data Modeling](https://www.youtube.com/watch?v=0BXuYlNrUmE)
 * [2026-07-27, 17:40:23](https://lobste.rs/s/pngdot/advantages_disadvantages_windows_nt_3_1) - [Advantages and disadvantages of Windows NT 3.1](https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/)
 * [2026-07-27, 17:06:57](https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet) - [Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 16:40:05](https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations) - [Finding bugs in Raft implementations](https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/)
@@ -17,7 +18,6 @@
 * [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
 * [2026-07-27, 09:48:30](https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is) - [lobste.rs ~~has~~had a js-error: here is a mitigation](https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is)
 * [2026-07-27, 09:44:18](https://lobste.rs/s/jz5sd1/voice_from_nowhere) - [A Voice From Nowhere](https://zanlib.dev/blog/a-voice-from-nowhere/)
-* [2026-07-27, 08:54:22](https://lobste.rs/s/ajqxvq/functional_programming_from_first) - [Functional programming from first principles, part 1 – motivation](https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation)
 * [2026-07-27, 08:52:37](https://lobste.rs/s/zljfgp/on_ai) - [On AI](https://jcs.org/2026/07/23/ai)
 * [2026-07-27, 08:45:44](https://lobste.rs/s/v1ejq9/n_body_gravity_simulation_o_n) - [N-body gravity simulation in O(N)](https://www.youtube.com/watch?v=FhMftauQZqU)
 * [2026-07-27, 08:37:51](https://lobste.rs/s/2shapa/make_reviews_possible_again_with_this_one) - [Make Reviews Possible Again With This One Simple Trick](https://silky.github.io/posts/reviews-one-simple-trick.html)

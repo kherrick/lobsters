@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
 * [2026-07-27, 18:57:58](https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even) - [Seriously, what is the large code-model even for?](https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for)
+* [2026-07-27, 18:35:17](https://lobste.rs/s/vptzoz/unreasonable_effectiveness) - [The Unreasonable Effectiveness of Constructive Data Modeling](https://www.youtube.com/watch?v=0BXuYlNrUmE)
 * [2026-07-27, 17:40:23](https://lobste.rs/s/pngdot/advantages_disadvantages_windows_nt_3_1) - [Advantages and disadvantages of Windows NT 3.1](https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/)
 * [2026-07-27, 17:06:57](https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet) - [Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 16:40:05](https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations) - [Finding bugs in Raft implementations](https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/)
