@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 08:57:54](https://lobste.rs/s/db0m6j/one_ring_rule_them_all_wiring_radios) - [One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way](https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way)
 * [2026-07-28, 08:05:36](https://lobste.rs/s/qzomrk/pytorch_reference_language) - [PyTorch: a reference language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
 * [2026-07-28, 07:14:10](https://lobste.rs/s/tzr3le/exercises_benchmarking_evals_part_7) - [Exercises in benchmarking and evals, part 7: DeepSWE, Senior SWE-Bench, napkin math, and winter tires](https://danluu.com/exercise-7/)
 * [2026-07-28, 03:47:42](https://lobste.rs/s/fwqdsx/most_valuable_commodity_world_is) - [The Most Valuable Commodity in the World is Friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
