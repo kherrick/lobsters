@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-28, 07:14:10](https://lobste.rs/s/tzr3le/exercises_benchmarking_evals_part_7) - [Exercises in benchmarking and evals, part 7: DeepSWE, Senior SWE-Bench, napkin math, and winter tires](https://danluu.com/exercise-7/)
+* [2026-07-28, 03:47:42](https://lobste.rs/s/fwqdsx/most_valuable_commodity_world_is) - [The Most Valuable Commodity in the World is Friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
 * [2026-07-28, 03:15:40](https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better) - [Framework 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
 * [2026-07-28, 01:02:33](https://lobste.rs/s/drtmhv/replace_your_ci_with_merge_queue) - [Replace Your CI With a Merge Queue](https://blog.exe.dev/replace-your-ci)
 * [2026-07-28, 00:43:29](https://lobste.rs/s/pzsmzv/try_new_firefox_design_nightly) - [Try the New Firefox Design in Nightly](https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/)
@@ -20,9 +22,7 @@
 * [2026-07-27, 10:51:46](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week)
 * [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
 * [2026-07-27, 08:52:37](https://lobste.rs/s/zljfgp/on_ai) - [On AI](https://jcs.org/2026/07/23/ai)
-* [2026-07-27, 08:45:44](https://lobste.rs/s/v1ejq9/n_body_gravity_simulation_o_n) - [N-body gravity simulation in O(N)](https://www.youtube.com/watch?v=FhMftauQZqU)
 * [2026-07-27, 08:37:51](https://lobste.rs/s/2shapa/make_reviews_possible_again_with_this_one) - [Make Reviews Possible Again With This One Simple Trick](https://silky.github.io/posts/reviews-one-simple-trick.html)
-* [2026-07-27, 08:20:46](https://lobste.rs/s/wewd0y/pgsimcity_how_postgresql_works_3d) - [PGSimCity: How PostgreSQL Works, in 3D](https://nikolays.github.io/PGSimCity/)
 * [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
 * [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 
