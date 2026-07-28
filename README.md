@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-28, 12:14:24](https://lobste.rs/s/7qtdhk/what_even_are_microservices) - [What even are microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
+* [2026-07-28, 12:06:54](https://lobste.rs/s/qvs2s7/golang_maps_how_swiss_tables_replaced_old) - [Golang Maps: How Swiss Tables Replaced the Old Bucket Design](https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/)
+* [2026-07-28, 11:51:29](https://lobste.rs/s/ngcurk/improving_heuristics_2015) - [Improving Heuristics (2015)](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
 * [2026-07-28, 10:32:54](https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with) - [Develop Cross-Platform CLI and GUI Tools With Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 * [2026-07-28, 10:11:18](https://lobste.rs/s/ewifzf/making_kio_copy_many_files_fast) - [Making KIO copy many files fast](https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/)
 * [2026-07-28, 08:57:54](https://lobste.rs/s/db0m6j/one_ring_rule_them_all_wiring_radios) - [One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way](https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way)
@@ -15,16 +18,13 @@
 * [2026-07-27, 16:40:05](https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations) - [Finding bugs in Raft implementations](https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/)
 * [2026-07-27, 16:35:19](https://lobste.rs/s/mv8t4p/quick_easy_parser_combinators) - [Quick & Easy Parser Combinators](https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html)
 * [2026-07-27, 15:33:26](https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die) - [Open Source Must Be Fun (Or It Will Die)](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/)
-* [2026-07-27, 14:56:35](https://lobste.rs/s/u821ri/computer_helped_win_world_war_ii_colossus) - [The Computer That Helped Win World War II: Colossus cracked Germany’s encrypted communications](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 * [2026-07-27, 14:55:38](https://lobste.rs/s/cbbit5/paged_out_issue_9) - [Paged Out - Issue #9](https://pagedout.institute/webview.php?issue=9&page=1)
 * [2026-07-27, 13:34:39](https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious) - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 * [2026-07-27, 12:32:24](https://lobste.rs/s/vtev1n/how_is_bun_rewrite_rust_going) - [How is the Bun Rewrite in Rust Going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
 * [2026-07-27, 10:54:37](https://lobste.rs/s/gicomw/productivity_mirage) - [The Productivity Mirage](https://frantic.im/mirage)
-* [2026-07-27, 10:51:46](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week)
 * [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
 * [2026-07-27, 08:52:37](https://lobste.rs/s/zljfgp/on_ai) - [On AI](https://jcs.org/2026/07/23/ai)
 * [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
-* [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 
 ## [Archives](archives/index.md)
 

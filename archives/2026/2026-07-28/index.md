@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 12:14:24](https://lobste.rs/s/7qtdhk/what_even_are_microservices) - [What even are microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
+* [2026-07-28, 12:06:54](https://lobste.rs/s/qvs2s7/golang_maps_how_swiss_tables_replaced_old) - [Golang Maps: How Swiss Tables Replaced the Old Bucket Design](https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/)
+* [2026-07-28, 11:51:29](https://lobste.rs/s/ngcurk/improving_heuristics_2015) - [Improving Heuristics (2015)](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
 * [2026-07-28, 10:32:54](https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with) - [Develop Cross-Platform CLI and GUI Tools With Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 * [2026-07-28, 10:11:18](https://lobste.rs/s/ewifzf/making_kio_copy_many_files_fast) - [Making KIO copy many files fast](https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/)
 * [2026-07-28, 08:57:54](https://lobste.rs/s/db0m6j/one_ring_rule_them_all_wiring_radios) - [One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way](https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way)
