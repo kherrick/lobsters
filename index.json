@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-28, 14:39:46",
+      "https://lobste.rs/s/nhixqy/parallel_json_parsing_on_gpu_with_compute"
+    ],
+    [
+      "Parallel JSON parsing on the GPU with compute shaders",
+      "https://github.com/friendlymatthew/slurpjson#slurpjson"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 14:38:19",
+      "https://lobste.rs/s/jyiecw/where_are_third_places_for_learners"
+    ],
+    [
+      "Where are the third places for learners?",
+      "https://kernelkennel.com/blog/where-is-the-middle-space/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 14:14:06",
       "https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-07-28, 08:05:36",
-      "https://lobste.rs/s/qzomrk/pytorch_reference_language"
-    ],
-    [
-      "PyTorch: a reference language",
-      "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 03:15:40",
       "https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better"
     ],
@@ -177,16 +187,6 @@
     [
       "Quick & Easy Parser Combinators",
       "https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 15:33:26",
-      "https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die"
-    ],
-    [
-      "Open Source Must Be Fun (Or It Will Die)",
-      "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/"
     ]
   ],
   [
