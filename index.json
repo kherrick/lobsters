@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-28, 13:33:00",
+      "https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing"
+    ],
+    [
+      "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
+      "https://blog.tymscar.com/posts/opensourcedimmer/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:25:24",
+      "https://lobste.rs/s/6gx5vy/design_flaws_issetugid_2017"
+    ],
+    [
+      "Design flaws in issetugid() (2017)",
+      "https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:10:24",
+      "https://lobste.rs/s/wdopf8/building_systems_software_with_nix"
+    ],
+    [
+      "Building (systems) software with Nix",
+      "https://hondu.co/blog/building-systems-software"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 12:57:42",
       "https://lobste.rs/s/cshefz/aux_control_let_whole_room_vote_on_music"
     ],
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2026-07-27, 18:35:17",
-      "https://lobste.rs/s/vptzoz/unreasonable_effectiveness"
-    ],
-    [
-      "The Unreasonable Effectiveness of Constructive Data Modeling",
-      "https://www.youtube.com/watch?v=0BXuYlNrUmE"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 17:40:23",
       "https://lobste.rs/s/pngdot/advantages_disadvantages_windows_nt_3_1"
     ],
     [
       "Advantages and disadvantages of Windows NT 3.1",
       "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 17:06:57",
-      "https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet"
-    ],
-    [
-      "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-      "https://eaton-works.com/2026/07/27/my-eicher-hack/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "On AI",
       "https://jcs.org/2026/07/23/ai"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 06:06:58",
-      "https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do"
-    ],
-    [
-      "What does GitHub’s security team even do?",
-      "https://orchidfiles.com/github-security-team/"
     ]
   ]
 ]
