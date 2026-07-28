@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 13:33:00](https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing) - [I Designed A Custom PCB To Avoid Pressing A Button Three Times](https://blog.tymscar.com/posts/opensourcedimmer/)
+* [2026-07-28, 13:25:24](https://lobste.rs/s/6gx5vy/design_flaws_issetugid_2017) - [Design flaws in issetugid() (2017)](https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e)
+* [2026-07-28, 13:10:24](https://lobste.rs/s/wdopf8/building_systems_software_with_nix) - [Building (systems) software with Nix](https://hondu.co/blog/building-systems-software)
 * [2026-07-28, 12:57:42](https://lobste.rs/s/cshefz/aux_control_let_whole_room_vote_on_music) - [Aux Control — Let the whole room vote on the music](https://auxcontrol.live)
 * [2026-07-28, 12:14:24](https://lobste.rs/s/7qtdhk/what_even_are_microservices) - [What even are microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
 * [2026-07-28, 12:06:54](https://lobste.rs/s/qvs2s7/golang_maps_how_swiss_tables_replaced_old) - [Golang Maps: How Swiss Tables Replaced the Old Bucket Design](https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/)

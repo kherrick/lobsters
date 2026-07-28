@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-28, 13:33:00](https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing) - [I Designed A Custom PCB To Avoid Pressing A Button Three Times](https://blog.tymscar.com/posts/opensourcedimmer/)
+* [2026-07-28, 13:25:24](https://lobste.rs/s/6gx5vy/design_flaws_issetugid_2017) - [Design flaws in issetugid() (2017)](https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e)
+* [2026-07-28, 13:10:24](https://lobste.rs/s/wdopf8/building_systems_software_with_nix) - [Building (systems) software with Nix](https://hondu.co/blog/building-systems-software)
 * [2026-07-28, 12:57:42](https://lobste.rs/s/cshefz/aux_control_let_whole_room_vote_on_music) - [Aux Control — Let the whole room vote on the music](https://auxcontrol.live)
 * [2026-07-28, 12:14:24](https://lobste.rs/s/7qtdhk/what_even_are_microservices) - [What even are microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
 * [2026-07-28, 11:51:29](https://lobste.rs/s/ngcurk/improving_heuristics_2015) - [Improving Heuristics (2015)](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
@@ -12,9 +15,7 @@
 * [2026-07-28, 00:43:29](https://lobste.rs/s/pzsmzv/try_new_firefox_design_nightly) - [Try the New Firefox Design in Nightly](https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/)
 * [2026-07-27, 22:27:54](https://lobste.rs/s/nfcclq/setup_simple_self_hosted_web_server_with) - [Setup a Simple, Self-Hosted Web Server with OpenBSD](https://btxx.org/posts/self-hosted-openbsd/)
 * [2026-07-27, 18:57:58](https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even) - [Seriously, what is the large code-model even for?](https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for)
-* [2026-07-27, 18:35:17](https://lobste.rs/s/vptzoz/unreasonable_effectiveness) - [The Unreasonable Effectiveness of Constructive Data Modeling](https://www.youtube.com/watch?v=0BXuYlNrUmE)
 * [2026-07-27, 17:40:23](https://lobste.rs/s/pngdot/advantages_disadvantages_windows_nt_3_1) - [Advantages and disadvantages of Windows NT 3.1](https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/)
-* [2026-07-27, 17:06:57](https://lobste.rs/s/pg4toy/exploiting_volvo_eicher_s_fleet) - [Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 16:40:05](https://lobste.rs/s/3he4yj/finding_bugs_raft_implementations) - [Finding bugs in Raft implementations](https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/)
 * [2026-07-27, 16:35:19](https://lobste.rs/s/mv8t4p/quick_easy_parser_combinators) - [Quick & Easy Parser Combinators](https://www.cyan.sh/blog/posts/tutorial-quick-easy-parser-combinators.html)
 * [2026-07-27, 15:33:26](https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die) - [Open Source Must Be Fun (Or It Will Die)](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/)
@@ -24,7 +25,6 @@
 * [2026-07-27, 10:54:37](https://lobste.rs/s/gicomw/productivity_mirage) - [The Productivity Mirage](https://frantic.im/mirage)
 * [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
 * [2026-07-27, 08:52:37](https://lobste.rs/s/zljfgp/on_ai) - [On AI](https://jcs.org/2026/07/23/ai)
-* [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
 
 ## [Archives](archives/index.md)
 
