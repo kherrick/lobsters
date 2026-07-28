@@ -6,6 +6,7 @@
 
 * [2026-07-27, 23:07:19](https://lobste.rs/s/lz6eoe/apple_mie_exploitation_challenge) - [Apple MIE exploitation challenge](https://blog.calif.io/p/apple-mie-exploitation-challenge)
 * [2026-07-27, 22:27:54](https://lobste.rs/s/nfcclq/setup_simple_self_hosted_web_server_with) - [Setup a Simple, Self-Hosted Web Server with OpenBSD](https://btxx.org/posts/self-hosted-openbsd/)
+* [2026-07-27, 21:35:55](https://lobste.rs/s/k0fp6p/pad_o_matic_prints_one_time_pads_at_press) - [The Pad-O-Matic prints one-time pads at the press of a button](https://spectrum.ieee.org/diy-one-time-pad-machine)
 * [2026-07-27, 20:10:59](https://lobste.rs/s/e0nmps/towards_theory_bugs_ruliology) - [Towards a Theory of Bugs: The Ruliology of the Unexpected](https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/)
 * [2026-07-27, 18:57:58](https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even) - [Seriously, what is the large code-model even for?](https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for)
 * [2026-07-27, 18:35:17](https://lobste.rs/s/vptzoz/unreasonable_effectiveness) - [The Unreasonable Effectiveness of Constructive Data Modeling](https://www.youtube.com/watch?v=0BXuYlNrUmE)
