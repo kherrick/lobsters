@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-28, 14:14:06](https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation) - [Inside Zig's Incremental Compilation](https://mlugg.co.uk/posts/incremental-compilation-internals/)
 * [2026-07-28, 13:33:00](https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing) - [I Designed A Custom PCB To Avoid Pressing A Button Three Times](https://blog.tymscar.com/posts/opensourcedimmer/)
 * [2026-07-28, 13:25:24](https://lobste.rs/s/6gx5vy/design_flaws_issetugid_2017) - [Design flaws in issetugid() (2017)](https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e)
 * [2026-07-28, 13:10:24](https://lobste.rs/s/wdopf8/building_systems_software_with_nix) - [Building (systems) software with Nix](https://hondu.co/blog/building-systems-software)
@@ -11,7 +12,6 @@
 * [2026-07-28, 08:57:54](https://lobste.rs/s/db0m6j/one_ring_rule_them_all_wiring_radios) - [One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way](https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way)
 * [2026-07-28, 08:05:36](https://lobste.rs/s/qzomrk/pytorch_reference_language) - [PyTorch: a reference language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
 * [2026-07-28, 03:15:40](https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better) - [Framework 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
-* [2026-07-28, 01:02:33](https://lobste.rs/s/drtmhv/replace_your_ci_with_merge_queue) - [Replace Your CI With a Merge Queue](https://blog.exe.dev/replace-your-ci)
 * [2026-07-28, 00:43:29](https://lobste.rs/s/pzsmzv/try_new_firefox_design_nightly) - [Try the New Firefox Design in Nightly](https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/)
 * [2026-07-27, 22:27:54](https://lobste.rs/s/nfcclq/setup_simple_self_hosted_web_server_with) - [Setup a Simple, Self-Hosted Web Server with OpenBSD](https://btxx.org/posts/self-hosted-openbsd/)
 * [2026-07-27, 18:57:58](https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even) - [Seriously, what is the large code-model even for?](https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for)

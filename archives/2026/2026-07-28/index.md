@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 14:14:06](https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation) - [Inside Zig's Incremental Compilation](https://mlugg.co.uk/posts/incremental-compilation-internals/)
 * [2026-07-28, 13:33:00](https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing) - [I Designed A Custom PCB To Avoid Pressing A Button Three Times](https://blog.tymscar.com/posts/opensourcedimmer/)
 * [2026-07-28, 13:25:24](https://lobste.rs/s/6gx5vy/design_flaws_issetugid_2017) - [Design flaws in issetugid() (2017)](https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e)
 * [2026-07-28, 13:10:24](https://lobste.rs/s/wdopf8/building_systems_software_with_nix) - [Building (systems) software with Nix](https://hondu.co/blog/building-systems-software)
