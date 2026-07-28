@@ -2,6 +2,7 @@
 
 * [2026-07-28, 03:15:40](https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better) - [Framework 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
 * [2026-07-28, 01:02:33](https://lobste.rs/s/drtmhv/replace_your_ci_with_merge_queue) - [Replace Your CI With a Merge Queue](https://blog.exe.dev/replace-your-ci)
+* [2026-07-28, 00:43:29](https://lobste.rs/s/pzsmzv/try_new_firefox_design_nightly) - [Try the New Firefox Design in Nightly](https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/)
 * [2026-07-27, 23:07:19](https://lobste.rs/s/lz6eoe/apple_mie_exploitation_challenge) - [Apple MIE exploitation challenge](https://blog.calif.io/p/apple-mie-exploitation-challenge)
 * [2026-07-27, 22:27:54](https://lobste.rs/s/nfcclq/setup_simple_self_hosted_web_server_with) - [Setup a Simple, Self-Hosted Web Server with OpenBSD](https://btxx.org/posts/self-hosted-openbsd/)
 * [2026-07-27, 18:57:58](https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even) - [Seriously, what is the large code-model even for?](https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for)
@@ -23,7 +24,6 @@
 * [2026-07-27, 08:37:51](https://lobste.rs/s/2shapa/make_reviews_possible_again_with_this_one) - [Make Reviews Possible Again With This One Simple Trick](https://silky.github.io/posts/reviews-one-simple-trick.html)
 * [2026-07-27, 08:20:46](https://lobste.rs/s/wewd0y/pgsimcity_how_postgresql_works_3d) - [PGSimCity: How PostgreSQL Works, in 3D](https://nikolays.github.io/PGSimCity/)
 * [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
-* [2026-07-27, 05:25:16](https://lobste.rs/s/uwhqhi/being_linux_torvalds) - [Being Linux Torvalds](https://antirez.com/news/171)
 * [2026-07-26, 19:26:09](https://lobste.rs/s/n3dz7x/teaching_kids_forth) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
 
 ## [Archives](archives/index.md)
