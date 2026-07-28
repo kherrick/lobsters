@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-28, 03:15:40](https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better) - [Framework 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
+* [2026-07-28, 01:02:33](https://lobste.rs/s/drtmhv/replace_your_ci_with_merge_queue) - [Replace Your CI With a Merge Queue](https://blog.exe.dev/replace-your-ci)
 * [2026-07-27, 23:07:19](https://lobste.rs/s/lz6eoe/apple_mie_exploitation_challenge) - [Apple MIE exploitation challenge](https://blog.calif.io/p/apple-mie-exploitation-challenge)
 * [2026-07-27, 22:27:54](https://lobste.rs/s/nfcclq/setup_simple_self_hosted_web_server_with) - [Setup a Simple, Self-Hosted Web Server with OpenBSD](https://btxx.org/posts/self-hosted-openbsd/)
 * [2026-07-27, 18:57:58](https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even) - [Seriously, what is the large code-model even for?](https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for)
@@ -14,7 +15,6 @@
 * [2026-07-27, 14:55:38](https://lobste.rs/s/cbbit5/paged_out_issue_9) - [Paged Out - Issue #9](https://pagedout.institute/webview.php?issue=9&page=1)
 * [2026-07-27, 13:34:39](https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious) - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 * [2026-07-27, 12:32:24](https://lobste.rs/s/vtev1n/how_is_bun_rewrite_rust_going) - [How is the Bun Rewrite in Rust Going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
-* [2026-07-27, 11:34:14](https://lobste.rs/s/lgutwh/conformance_vs_comprehension) - [Conformance vs Comprehension](https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html)
 * [2026-07-27, 10:54:37](https://lobste.rs/s/gicomw/productivity_mirage) - [The Productivity Mirage](https://frantic.im/mirage)
 * [2026-07-27, 10:51:46](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week)
 * [2026-07-27, 10:40:48](https://lobste.rs/s/h9hdzg/most_googlebots_are_fake) - [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake)
