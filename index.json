@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-28, 21:16:29",
+      "https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program"
+    ],
+    [
+      "Why Rocq is better than Lean for program verification",
+      "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 21:14:59",
+      "https://lobste.rs/s/anvtjk/state_multi_player_wayland"
+    ],
+    [
+      "State of multi-player Wayland",
+      "https://blinry.org/multi-seat-wayland/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 19:13:36",
       "https://lobste.rs/s/2dc0gb/cipher_behind_qsyrupwd_reconstructing"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-07-28, 12:06:54",
-      "https://lobste.rs/s/qvs2s7/golang_maps_how_swiss_tables_replaced_old"
-    ],
-    [
-      "Golang Maps: How Swiss Tables Replaced the Old Bucket Design",
-      "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 11:51:29",
       "https://lobste.rs/s/ngcurk/improving_heuristics_2015"
     ],
@@ -197,16 +207,6 @@
     [
       "Setup a Simple, Self-Hosted Web Server with OpenBSD",
       "https://btxx.org/posts/self-hosted-openbsd/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 18:57:58",
-      "https://lobste.rs/s/snetpk/seriously_what_is_large_code_model_even"
-    ],
-    [
-      "Seriously, what is the large code-model even for?",
-      "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for"
     ]
   ],
   [
