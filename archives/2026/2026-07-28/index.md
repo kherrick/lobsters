@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 21:16:29](https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program) - [Why Rocq is better than Lean for program verification](https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html)
+* [2026-07-28, 21:14:59](https://lobste.rs/s/anvtjk/state_multi_player_wayland) - [State of multi-player Wayland](https://blinry.org/multi-seat-wayland/)
 * [2026-07-28, 19:13:36](https://lobste.rs/s/2dc0gb/cipher_behind_qsyrupwd_reconstructing) - [The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/)
 * [2026-07-28, 18:53:28](https://lobste.rs/s/p0fdmk/mean_means_nothing) - [The mean means nothing](https://fzakaria.com/2026/07/27/the-mean-means-nothing)
 * [2026-07-28, 17:01:39](https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta) - [You Could Have Come Up With Kimi Delta Attention](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention)
