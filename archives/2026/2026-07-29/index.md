@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
 * [2026-07-29, 16:26:11](https://lobste.rs/s/1efcss/setting_timers_simple_games_feat_frame) - [Setting timers in simple games (feat. the frame rule)](https://lynn.github.io/blog/pico-timers/)
+* [2026-07-29, 16:14:46](https://lobste.rs/s/jisg7l/const_cast_necessary_evil) - [const_cast: A Necessary Evil](https://www.elbeno.com/blog/?p=1858)
 * [2026-07-29, 14:54:30](https://lobste.rs/s/s78pit/basebrowserproject) - [basebrowserproject](https://mastodon.social/@sarahjamielewis/116965925134524215)
 * [2026-07-29, 14:40:24](https://lobste.rs/s/vnfk4x/xy_is_very_fast_customizable_charting) - [xy is very fast and customizable charting library for Python](https://github.com/reflex-dev/xy)
 * [2026-07-29, 14:28:50](https://lobste.rs/s/g9bkak/some_notes_about_anthropic_s_new_results) - [Some notes about Anthropic’s new results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
