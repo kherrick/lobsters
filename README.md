@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-29, 05:14:46](https://lobste.rs/s/ax6col/writing_toy_software_is_joy_2025) - [Writing Toy Software Is A Joy (2025)](https://blog.jsbarretto.com/post/software-is-joy)
+* [2026-07-29, 04:44:39](https://lobste.rs/s/c9xa6h/manganin_tools_matter) - [Manganin: tools matter](https://blog.manganin.dev/blog/tools-matter/)
 * [2026-07-29, 01:41:06](https://lobste.rs/s/o2couk/cp_m_68k_emulator) - [CP/M-68K emulator](https://kobolt.github.io/article-264.html)
+* [2026-07-29, 01:30:21](https://lobste.rs/s/0yc3r0/lobste_rs_on_spinel) - [Lobste.rs on Spinel](https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html)
 * [2026-07-28, 22:30:05](https://lobste.rs/s/wdo7aj/proof_types_dart_using_final_classes_as) - [Proof types in Dart: Using final classes as computational witnesses](https://modulovalue.com/blog/proof-types-in-dart/)
 * [2026-07-28, 21:16:29](https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program) - [Why Rocq is better than Lean for program verification](https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html)
 * [2026-07-28, 21:14:59](https://lobste.rs/s/anvtjk/state_multi_player_wayland) - [State of multi-player Wayland](https://blinry.org/multi-seat-wayland/)
@@ -17,14 +19,12 @@
 * [2026-07-28, 13:33:00](https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing) - [I Designed A Custom PCB To Avoid Pressing A Button Three Times](https://blog.tymscar.com/posts/opensourcedimmer/)
 * [2026-07-28, 13:10:24](https://lobste.rs/s/wdopf8/building_systems_software_with_nix) - [Building (systems) software with Nix](https://hondu.co/blog/building-systems-software)
 * [2026-07-28, 12:14:24](https://lobste.rs/s/7qtdhk/what_even_are_microservices) - [What even are microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
-* [2026-07-28, 11:51:29](https://lobste.rs/s/ngcurk/improving_heuristics_2015) - [Improving Heuristics (2015)](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
 * [2026-07-28, 10:32:54](https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with) - [Develop Cross-Platform CLI and GUI Tools With Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 * [2026-07-28, 10:11:18](https://lobste.rs/s/ewifzf/making_kio_copy_many_files_fast) - [Making KIO copy many files fast](https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/)
 * [2026-07-28, 03:15:40](https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better) - [Framework 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
 * [2026-07-28, 00:43:29](https://lobste.rs/s/pzsmzv/try_new_firefox_design_nightly) - [Try the New Firefox Design in Nightly](https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/)
 * [2026-07-27, 22:27:54](https://lobste.rs/s/nfcclq/setup_simple_self_hosted_web_server_with) - [Setup a Simple, Self-Hosted Web Server with OpenBSD](https://btxx.org/posts/self-hosted-openbsd/)
 * [2026-07-27, 13:34:39](https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious) - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
-* [2026-07-27, 08:52:37](https://lobste.rs/s/zljfgp/on_ai) - [On AI](https://jcs.org/2026/07/23/ai)
 
 ## [Archives](archives/index.md)
 
