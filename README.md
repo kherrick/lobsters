@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-29, 12:35:26](https://lobste.rs/s/hrhb42/dark_night_mathematics) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
 * [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
 * [2026-07-29, 10:31:12](https://lobste.rs/s/lqs02q/streaming_ietf_moq_sessions_with_moq) - [Streaming the IETF MoQ sessions with MoQ… kinda](https://www.meetecho.com/blog/moq-ietf126/)
 * [2026-07-29, 10:29:13](https://lobste.rs/s/7pjq5g/sovereignty_is_substrate) - [Sovereignty is a substrate](https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/)
+* [2026-07-29, 09:35:39](https://lobste.rs/s/xcrvhr/safety_unsafe_world) - [Safety in an unsafe world](https://joshlf.com/posts/safety-unsafe-world/)
 * [2026-07-29, 08:07:13](https://lobste.rs/s/csff09/user_interfaces_demo_scene) - [User Interfaces of the Demo Scene](https://datagubbe.se/scenegui/)
 * [2026-07-29, 07:15:55](https://lobste.rs/s/xinbkz/c_26_reducing_undefined_behaviour) - [C++26: Reducing undefined behaviour](https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour)
 * [2026-07-29, 05:14:46](https://lobste.rs/s/ax6col/writing_toy_software_is_joy_2025) - [Writing Toy Software Is A Joy (2025)](https://blog.jsbarretto.com/post/software-is-joy)
@@ -23,8 +25,6 @@
 * [2026-07-28, 12:14:24](https://lobste.rs/s/7qtdhk/what_even_are_microservices) - [What even are microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
 * [2026-07-28, 10:32:54](https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with) - [Develop Cross-Platform CLI and GUI Tools With Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 * [2026-07-28, 03:15:40](https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better) - [Framework 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
-* [2026-07-28, 00:43:29](https://lobste.rs/s/pzsmzv/try_new_firefox_design_nightly) - [Try the New Firefox Design in Nightly](https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/)
-* [2026-07-27, 22:27:54](https://lobste.rs/s/nfcclq/setup_simple_self_hosted_web_server_with) - [Setup a Simple, Self-Hosted Web Server with OpenBSD](https://btxx.org/posts/self-hosted-openbsd/)
 
 ## [Archives](archives/index.md)
 
