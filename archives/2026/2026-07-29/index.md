@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 14:28:50](https://lobste.rs/s/g9bkak/some_notes_about_anthropic_s_new_results) - [Some notes about Anthropic’s new results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 13:42:44](https://lobste.rs/s/r9zgni/field_day_for_gleam_s_language_server) - [A field day for Gleam’s language server | Gleam v.1.18.0 release](https://gleam.run/news/a-field-day-for-gleams-language-server/)
 * [2026-07-29, 13:25:07](https://lobste.rs/s/vjelns/postgresql_mvcc_tradeoffs_compared) - [PostgreSQL MVCC: tradeoffs compared to other engines](https://boringsql.com/posts/mvcc-bad-bad/)
 * [2026-07-29, 13:22:18](https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe) - [Overengineered calculator: Zig + QBE](https://tomekw.com/overengineered-calculator-zig-qbe/)
