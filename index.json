@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-29, 16:14:46",
+      "https://lobste.rs/s/jisg7l/const_cast_necessary_evil"
+    ],
+    [
+      "const_cast: A Necessary Evil",
+      "https://www.elbeno.com/blog/?p=1858"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 14:54:30",
       "https://lobste.rs/s/s78pit/basebrowserproject"
     ],
@@ -207,16 +217,6 @@
     [
       "Dependency Cultures - Richard Feldman (Software Should Work Conf 2026)",
       "https://www.youtube.com/watch?v=E82ly38YEEQ"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 14:39:46",
-      "https://lobste.rs/s/nhixqy/parallel_json_parsing_on_gpu_with_compute"
-    ],
-    [
-      "Parallel JSON parsing on the GPU with compute shaders",
-      "https://github.com/friendlymatthew/slurpjson#slurpjson"
     ]
   ],
   [
