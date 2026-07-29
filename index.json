@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-29, 13:42:44",
+      "https://lobste.rs/s/r9zgni/field_day_for_gleam_s_language_server"
+    ],
+    [
+      "A field day for Gleam’s language server | Gleam v.1.18.0 release",
+      "https://gleam.run/news/a-field-day-for-gleams-language-server/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 13:25:07",
+      "https://lobste.rs/s/vjelns/postgresql_mvcc_tradeoffs_compared"
+    ],
+    [
+      "PostgreSQL MVCC: tradeoffs compared to other engines",
+      "https://boringsql.com/posts/mvcc-bad-bad/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 13:22:18",
+      "https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe"
+    ],
+    [
+      "Overengineered calculator: Zig + QBE",
+      "https://tomekw.com/overengineered-calculator-zig-qbe/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 13:12:17",
+      "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice"
+    ],
+    [
+      "It doesn’t matter whether “Matz is nice”",
+      "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 13:00:44",
       "https://lobste.rs/s/5z7akz/hyperbole_implicit_buttons_build_your"
     ],
@@ -37,16 +77,6 @@
     [
       "AI Mania Is Eviscerating Global Decision-Making",
       "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 10:31:12",
-      "https://lobste.rs/s/lqs02q/streaming_ietf_moq_sessions_with_moq"
-    ],
-    [
-      "Streaming the IETF MoQ sessions with MoQ… kinda",
-      "https://www.meetecho.com/blog/moq-ietf126/"
     ]
   ],
   [
@@ -131,42 +161,12 @@
   ],
   [
     [
-      "2026-07-28, 21:03:27",
-      "https://lobste.rs/s/pxczeo/anatomy_frontier_lab_agent_intrusion"
-    ],
-    [
-      "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "https://huggingface.co/blog/agent-intrusion-technical-timeline"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 18:53:28",
       "https://lobste.rs/s/p0fdmk/mean_means_nothing"
     ],
     [
       "The mean means nothing",
       "https://fzakaria.com/2026/07/27/the-mean-means-nothing"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 17:01:39",
-      "https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta"
-    ],
-    [
-      "You Could Have Come Up With Kimi Delta Attention",
-      "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 16:56:05",
-      "https://lobste.rs/s/tahynj/starling_linux_desktop_written_from"
-    ],
-    [
-      "Starling, a Linux Desktop written from scratch",
-      "https://starling.build"
     ]
   ],
   [
