@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-07-28, 14:39:46",
+      "https://lobste.rs/s/nhixqy/parallel_json_parsing_on_gpu_with_compute"
+    ],
+    [
+      "Parallel JSON parsing on the GPU with compute shaders",
+      "https://github.com/friendlymatthew/slurpjson#slurpjson"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 14:14:06",
       "https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation"
     ],
@@ -227,16 +237,6 @@
     [
       "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
       "https://blog.tymscar.com/posts/opensourcedimmer/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 13:10:24",
-      "https://lobste.rs/s/wdopf8/building_systems_software_with_nix"
-    ],
-    [
-      "Building (systems) software with Nix",
-      "https://hondu.co/blog/building-systems-software"
     ]
   ],
   [
