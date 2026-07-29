@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-29, 14:54:30",
+      "https://lobste.rs/s/s78pit/basebrowserproject"
+    ],
+    [
+      "basebrowserproject",
+      "https://mastodon.social/@sarahjamielewis/116965925134524215"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 14:40:24",
+      "https://lobste.rs/s/vnfk4x/xy_is_very_fast_customizable_charting"
+    ],
+    [
+      "xy is very fast and customizable charting library for Python",
+      "https://github.com/reflex-dev/xy"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 14:28:50",
       "https://lobste.rs/s/g9bkak/some_notes_about_anthropic_s_new_results"
     ],
@@ -52,10 +72,10 @@
   [
     [
       "2026-07-29, 13:00:44",
-      "https://lobste.rs/s/5z7akz/hyperbole_implicit_buttons_build_your"
+      "https://lobste.rs/s/5z7akz/gnu_hyperbole_implicit_buttons_build"
     ],
     [
-      "Hyperbole Implicit Buttons: Build your Hyperverse",
+      "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
       "https://www.chiply.dev/post-hyperbole-implicit-buttons"
     ]
   ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-28, 14:39:46",
-      "https://lobste.rs/s/nhixqy/parallel_json_parsing_on_gpu_with_compute"
-    ],
-    [
-      "Parallel JSON parsing on the GPU with compute shaders",
-      "https://github.com/friendlymatthew/slurpjson#slurpjson"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 14:14:06",
       "https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation"
     ],
@@ -237,16 +247,6 @@
     [
       "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
       "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 03:15:40",
-      "https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better"
-    ],
-    [
-      "Framework 13 Pro review: Much better battery, much worse price",
-      "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/"
     ]
   ]
 ]
