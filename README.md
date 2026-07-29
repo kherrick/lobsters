@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-29, 14:54:30](https://lobste.rs/s/s78pit/basebrowserproject) - [basebrowserproject](https://mastodon.social/@sarahjamielewis/116965925134524215)
+* [2026-07-29, 14:40:24](https://lobste.rs/s/vnfk4x/xy_is_very_fast_customizable_charting) - [xy is very fast and customizable charting library for Python](https://github.com/reflex-dev/xy)
 * [2026-07-29, 14:28:50](https://lobste.rs/s/g9bkak/some_notes_about_anthropic_s_new_results) - [Some notes about Anthropic’s new results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 13:42:44](https://lobste.rs/s/r9zgni/field_day_for_gleam_s_language_server) - [A field day for Gleam’s language server | Gleam v.1.18.0 release](https://gleam.run/news/a-field-day-for-gleams-language-server/)
 * [2026-07-29, 13:25:07](https://lobste.rs/s/vjelns/postgresql_mvcc_tradeoffs_compared) - [PostgreSQL MVCC: tradeoffs compared to other engines](https://boringsql.com/posts/mvcc-bad-bad/)
 * [2026-07-29, 13:22:18](https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe) - [Overengineered calculator: Zig + QBE](https://tomekw.com/overengineered-calculator-zig-qbe/)
 * [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
-* [2026-07-29, 13:00:44](https://lobste.rs/s/5z7akz/hyperbole_implicit_buttons_build_your) - [Hyperbole Implicit Buttons: Build your Hyperverse](https://www.chiply.dev/post-hyperbole-implicit-buttons)
+* [2026-07-29, 13:00:44](https://lobste.rs/s/5z7akz/gnu_hyperbole_implicit_buttons_build) - [GNU Hyperbole Implicit Buttons: Build your Hyperverse](https://www.chiply.dev/post-hyperbole-implicit-buttons)
 * [2026-07-29, 12:35:26](https://lobste.rs/s/hrhb42/dark_night_mathematics) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
 * [2026-07-29, 12:20:10](https://lobste.rs/s/rgn8u4/copilot_will_propagate_malicious_worm) - [Copilot will propagate a malicious worm from one Word document to another](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 * [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
@@ -19,12 +21,10 @@
 * [2026-07-28, 21:14:59](https://lobste.rs/s/anvtjk/state_multi_player_wayland) - [State of multi-player Wayland](https://blinry.org/multi-seat-wayland/)
 * [2026-07-28, 18:53:28](https://lobste.rs/s/p0fdmk/mean_means_nothing) - [The mean means nothing](https://fzakaria.com/2026/07/27/the-mean-means-nothing)
 * [2026-07-28, 15:18:40](https://lobste.rs/s/cxbtfq/dependency_cultures_richard_feldman) - [Dependency Cultures - Richard Feldman (Software Should Work Conf 2026)](https://www.youtube.com/watch?v=E82ly38YEEQ)
-* [2026-07-28, 14:39:46](https://lobste.rs/s/nhixqy/parallel_json_parsing_on_gpu_with_compute) - [Parallel JSON parsing on the GPU with compute shaders](https://github.com/friendlymatthew/slurpjson#slurpjson)
 * [2026-07-28, 14:14:06](https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation) - [Inside Zig's Incremental Compilation](https://mlugg.co.uk/posts/incremental-compilation-internals/)
 * [2026-07-28, 13:33:00](https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing) - [I Designed A Custom PCB To Avoid Pressing A Button Three Times](https://blog.tymscar.com/posts/opensourcedimmer/)
 * [2026-07-28, 13:10:24](https://lobste.rs/s/wdopf8/building_systems_software_with_nix) - [Building (systems) software with Nix](https://hondu.co/blog/building-systems-software)
 * [2026-07-28, 10:32:54](https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with) - [Develop Cross-Platform CLI and GUI Tools With Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
-* [2026-07-28, 03:15:40](https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better) - [Framework 13 Pro review: Much better battery, much worse price](https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/)
 
 ## [Archives](archives/index.md)
 
