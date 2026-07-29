@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2026-07-29, 04:44:39",
+      "https://lobste.rs/s/c9xa6h/manganin_tools_matter"
+    ],
+    [
+      "Manganin: tools matter",
+      "https://blog.manganin.dev/blog/tools-matter/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 01:41:06",
       "https://lobste.rs/s/o2couk/cp_m_68k_emulator"
     ],
     [
       "CP/M-68K emulator",
       "https://kobolt.github.io/article-264.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 01:30:21",
+      "https://lobste.rs/s/0yc3r0/lobste_rs_on_spinel"
+    ],
+    [
+      "Lobste.rs on Spinel",
+      "https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-07-28, 11:51:29",
-      "https://lobste.rs/s/ngcurk/improving_heuristics_2015"
-    ],
-    [
-      "Improving Heuristics (2015)",
-      "https://www.redblobgames.com/pathfinding/heuristics/differential.html"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 10:32:54",
       "https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Blogging Can Just Be Stating The Obvious",
       "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 08:52:37",
-      "https://lobste.rs/s/zljfgp/on_ai"
-    ],
-    [
-      "On AI",
-      "https://jcs.org/2026/07/23/ai"
     ]
   ]
 ]
