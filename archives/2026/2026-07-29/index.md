@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 13:00:44](https://lobste.rs/s/5z7akz/hyperbole_implicit_buttons_build_your) - [Hyperbole Implicit Buttons: Build your Hyperverse](https://www.chiply.dev/post-hyperbole-implicit-buttons)
 * [2026-07-29, 12:35:26](https://lobste.rs/s/hrhb42/dark_night_mathematics) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
+* [2026-07-29, 12:20:10](https://lobste.rs/s/rgn8u4/copilot_will_propagate_malicious_worm) - [Copilot will propagate a malicious worm from one Word document to another](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 * [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
 * [2026-07-29, 10:31:12](https://lobste.rs/s/lqs02q/streaming_ietf_moq_sessions_with_moq) - [Streaming the IETF MoQ sessions with MoQ… kinda](https://www.meetecho.com/blog/moq-ietf126/)
 * [2026-07-29, 10:29:13](https://lobste.rs/s/7pjq5g/sovereignty_is_substrate) - [Sovereignty is a substrate](https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/)
