@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 22:14:37](https://lobste.rs/s/bmlm9w/making_bmp_images_from_scratch) - [Making .BMP images from scratch](https://www.youtube.com/watch?v=13E0il2zxBA)
 * [2026-07-29, 20:22:39](https://lobste.rs/s/rulynz/strain_your_brain) - [The strain in your brain](https://anirudh.fi/strain)
+* [2026-07-29, 20:17:41](https://lobste.rs/s/pzohu2/lorenz_little_how_much_does_your_tail_cost) - [Lorenz and Little: How Much Does Your Tail Cost?](https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html)
 * [2026-07-29, 18:11:44](https://lobste.rs/s/l3sj7g/first_cheriot_silicon) - [First CHERIoT Silicon](https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html)
 * [2026-07-29, 16:26:11](https://lobste.rs/s/1efcss/setting_timers_simple_games_feat_frame) - [Setting timers in simple games (feat. the frame rule)](https://lynn.github.io/blog/pico-timers/)
 * [2026-07-29, 16:14:46](https://lobste.rs/s/jisg7l/const_cast_necessary_evil) - [const_cast: A Necessary Evil](https://www.elbeno.com/blog/?p=1858)
