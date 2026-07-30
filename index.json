@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-30, 11:38:11",
-      "https://lobste.rs/s/kdtjoe/project_software_is_complete"
+      "2026-07-30, 12:24:16",
+      "https://lobste.rs/s/l03yv1/logic_for_programmers"
     ],
     [
-      "The Project of Software is Complete",
-      "https://freddiedeboer.substack.com/p/the-project-of-software-is-complete"
+      "Logic for Programmers",
+      "https://logicforprogrammers.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 12:17:01",
+      "https://lobste.rs/s/4bvpqh/building_progressively_enhanced_forms"
+    ],
+    [
+      "Building Progressively Enhanced Forms Using htmx",
+      "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Why Rocq is better than Lean for program verification",
       "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 21:14:59",
-      "https://lobste.rs/s/anvtjk/state_multi_player_wayland"
-    ],
-    [
-      "State of multi-player Wayland",
-      "https://blinry.org/multi-seat-wayland/"
     ]
   ],
   [
