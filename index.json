@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-07-30, 02:46:57",
+      "https://lobste.rs/s/ndprns/man_computer_john_g_kemeny_1972"
+    ],
+    [
+      "Man and the Computer - John G. Kemeny (1972)",
+      "https://archive.org/details/mancomputerbyjoh0000john"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 01:40:31",
       "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most"
     ],
@@ -171,22 +181,22 @@
   ],
   [
     [
-      "2026-07-29, 10:29:13",
-      "https://lobste.rs/s/7pjq5g/sovereignty_is_substrate"
-    ],
-    [
-      "Sovereignty is a substrate",
-      "https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 08:07:13",
       "https://lobste.rs/s/csff09/user_interfaces_demo_scene"
     ],
     [
       "User Interfaces of the Demo Scene",
       "https://datagubbe.se/scenegui/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 07:15:55",
+      "https://lobste.rs/s/xinbkz/c_26_reducing_undefined_behaviour"
+    ],
+    [
+      "C++26: Reducing undefined behaviour",
+      "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Inside Zig's Incremental Compilation",
       "https://mlugg.co.uk/posts/incremental-compilation-internals/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 13:33:00",
-      "https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing"
-    ],
-    [
-      "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
-      "https://blog.tymscar.com/posts/opensourcedimmer/"
     ]
   ]
 ]
