@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-30, 19:19:14](https://lobste.rs/s/eelfmn/std_io_writer_allocating_ate_all_my_memory) - [std.Io.Writer.Allocating ate all my memory](https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)
+* [2026-07-30, 17:47:22](https://lobste.rs/s/fbqlpy/gcc_steering_committee_announces_ai) - [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
 * [2026-07-30, 16:52:25](https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public) - [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
-* [2026-07-30, 16:42:25](https://lobste.rs/s/yruyze/state_post_quantum_cryptography) - [The State of Post-Quantum Cryptography](https://www.feistyduck.com/newsletter/issue_139_the_state_of_post-quantum_cryptography)
 * [2026-07-30, 16:08:56](https://lobste.rs/s/3s9cva/scaling_numpy_on_free_threaded_python) - [Scaling NumPy on Free-Threaded Python](https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python)
 * [2026-07-30, 15:18:48](https://lobste.rs/s/opbpro/saturation_how_your_software_will_fail_at) - [Saturation: How Your Software Will Fail at Scale](https://www.youtube.com/watch?v=PHYCRubnmSM)
 * [2026-07-30, 14:36:05](https://lobste.rs/s/kkobew/kindarails2shell_critical_rce_rails_via) - [KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)](https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066)
@@ -20,7 +21,6 @@
 * [2026-07-29, 14:54:30](https://lobste.rs/s/s78pit/basebrowserproject) - [basebrowserproject](https://mastodon.social/@sarahjamielewis/116965925134524215)
 * [2026-07-29, 14:28:50](https://lobste.rs/s/g9bkak/some_notes_about_anthropic_s_new_results) - [Some notes about Anthropic’s new results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 13:42:44](https://lobste.rs/s/r9zgni/field_day_for_gleam_s_language_server) - [A field day for Gleam’s language server | Gleam v.1.18.0 release](https://gleam.run/news/a-field-day-for-gleams-language-server/)
-* [2026-07-29, 13:25:07](https://lobste.rs/s/vjelns/postgresql_mvcc_tradeoffs_compared) - [PostgreSQL MVCC: tradeoffs compared to other engines](https://boringsql.com/posts/mvcc-bad-bad/)
 * [2026-07-29, 13:22:18](https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe) - [Overengineered calculator: Zig + QBE](https://tomekw.com/overengineered-calculator-zig-qbe/)
 * [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
 * [2026-07-29, 13:00:44](https://lobste.rs/s/5z7akz/gnu_hyperbole_implicit_buttons_build) - [GNU Hyperbole Implicit Buttons: Build your Hyperverse](https://www.chiply.dev/post-hyperbole-implicit-buttons)
