@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-30, 07:52:39",
-      "https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device"
-    ],
-    [
-      "deskhop: Fast Desktop Switching Device",
-      "https://github.com/hrvach/deskhop"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 03:47:26",
       "https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined"
     ],
@@ -197,6 +187,16 @@
     [
       "User Interfaces of the Demo Scene",
       "https://datagubbe.se/scenegui/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 07:15:55",
+      "https://lobste.rs/s/xinbkz/c_26_reducing_undefined_behaviour"
+    ],
+    [
+      "C++26: Reducing undefined behaviour",
+      "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour"
     ]
   ],
   [
