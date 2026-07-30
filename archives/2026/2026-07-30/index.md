@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 12:24:16](https://lobste.rs/s/l03yv1/logic_for_programmers) - [Logic for Programmers](https://logicforprogrammers.com/)
+* [2026-07-30, 12:17:01](https://lobste.rs/s/4bvpqh/building_progressively_enhanced_forms) - [Building Progressively Enhanced Forms Using htmx](https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/)
 * [2026-07-30, 11:38:11](https://lobste.rs/s/kdtjoe/project_software_is_complete) - [The Project of Software is Complete](https://freddiedeboer.substack.com/p/the-project-of-software-is-complete)
 * [2026-07-30, 10:32:55](https://lobste.rs/s/3qpe1b/atomarine_offshore_power_compute) - [Atomarine · Offshore Power & Compute Infrastructure](https://atomarine.co/)
 * [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
