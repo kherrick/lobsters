@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-07-29, 12:20:10",
+      "https://lobste.rs/s/rgn8u4/copilot_will_propagate_malicious_worm"
+    ],
+    [
+      "Copilot will propagate a malicious worm from one Word document to another",
+      "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 10:42:50",
       "https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision"
     ],
@@ -187,16 +197,6 @@
     [
       "User Interfaces of the Demo Scene",
       "https://datagubbe.se/scenegui/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 07:15:55",
-      "https://lobste.rs/s/xinbkz/c_26_reducing_undefined_behaviour"
-    ],
-    [
-      "C++26: Reducing undefined behaviour",
-      "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour"
     ]
   ],
   [
