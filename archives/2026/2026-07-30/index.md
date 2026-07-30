@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 14:36:05](https://lobste.rs/s/kkobew/kindarails2shell_critical_rce_rails_via) - [KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)](https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066)
 * [2026-07-30, 13:57:07](https://lobste.rs/s/wxmi0v/ai_aesthetic) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 * [2026-07-30, 13:41:55](https://lobste.rs/s/01n0ss/universal_approach_mocking_with) - [A universal approach to mocking with continuations](https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/)
 * [2026-07-30, 12:24:16](https://lobste.rs/s/l03yv1/logic_for_programmers) - [Logic for Programmers](https://logicforprogrammers.com/)
