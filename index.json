@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-30, 03:47:26",
+      "https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined"
+    ],
+    [
+      "C++ float-to-int conversion can be undefined behavior",
+      "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 01:40:31",
       "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most"
     ],
@@ -217,16 +227,6 @@
     [
       "State of multi-player Wayland",
       "https://blinry.org/multi-seat-wayland/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 18:53:28",
-      "https://lobste.rs/s/p0fdmk/mean_means_nothing"
-    ],
-    [
-      "The mean means nothing",
-      "https://fzakaria.com/2026/07/27/the-mean-means-nothing"
     ]
   ],
   [
