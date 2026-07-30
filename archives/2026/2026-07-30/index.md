@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 16:42:25](https://lobste.rs/s/yruyze/state_post_quantum_cryptography) - [The State of Post-Quantum Cryptography](https://www.feistyduck.com/newsletter/issue_139_the_state_of_post-quantum_cryptography)
 * [2026-07-30, 16:08:56](https://lobste.rs/s/3s9cva/scaling_numpy_on_free_threaded_python) - [Scaling NumPy on Free-Threaded Python](https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python)
 * [2026-07-30, 15:18:48](https://lobste.rs/s/opbpro/saturation_how_your_software_will_fail_at) - [Saturation: How Your Software Will Fail at Scale](https://www.youtube.com/watch?v=PHYCRubnmSM)
 * [2026-07-30, 14:36:05](https://lobste.rs/s/kkobew/kindarails2shell_critical_rce_rails_via) - [KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)](https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066)
