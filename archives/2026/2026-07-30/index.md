@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 13:57:07](https://lobste.rs/s/wxmi0v/ai_aesthetic) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+* [2026-07-30, 13:41:55](https://lobste.rs/s/01n0ss/universal_approach_mocking_with) - [A universal approach to mocking with continuations](https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/)
 * [2026-07-30, 12:24:16](https://lobste.rs/s/l03yv1/logic_for_programmers) - [Logic for Programmers](https://logicforprogrammers.com/)
 * [2026-07-30, 12:17:01](https://lobste.rs/s/4bvpqh/building_progressively_enhanced_forms) - [Building Progressively Enhanced Forms Using htmx](https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/)
 * [2026-07-30, 11:38:11](https://lobste.rs/s/kdtjoe/project_software_is_complete) - [The Project of Software is Complete](https://freddiedeboer.substack.com/p/the-project-of-software-is-complete)
