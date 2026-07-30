@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-07-29, 20:22:39",
-      "https://lobste.rs/s/rulynz/strain_your_brain"
+      "2026-07-30, 00:07:41",
+      "https://lobste.rs/s/quqadb/sonic_s_physics_engine_isn_t_physics"
     ],
     [
-      "The strain in your brain",
-      "https://anirudh.fi/strain"
+      "Sonic's Physics Engine... Isn't a Physics Engine?",
+      "https://www.youtube.com/watch?v=6H3XGKVsizs"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 22:14:37",
+      "https://lobste.rs/s/bmlm9w/making_bmp_images_from_scratch"
+    ],
+    [
+      "Making .BMP images from scratch",
+      "https://www.youtube.com/watch?v=13E0il2zxBA"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 20:17:41",
+      "https://lobste.rs/s/pzohu2/lorenz_little_how_much_does_your_tail_cost"
+    ],
+    [
+      "Lorenz and Little: How Much Does Your Tail Cost?",
+      "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "basebrowserproject",
       "https://mastodon.social/@sarahjamielewis/116965925134524215"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 14:28:50",
-      "https://lobste.rs/s/g9bkak/some_notes_about_anthropic_s_new_results"
-    ],
-    [
-      "Some notes about Anthropic’s new results",
-      "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/"
     ]
   ],
   [
@@ -127,26 +137,6 @@
     [
       "The Dark Night of Mathematics",
       "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 12:20:10",
-      "https://lobste.rs/s/rgn8u4/copilot_will_propagate_malicious_worm"
-    ],
-    [
-      "Copilot will propagate a malicious worm from one Word document to another",
-      "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 10:42:50",
-      "https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision"
-    ],
-    [
-      "AI Mania Is Eviscerating Global Decision-Making",
-      "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
       "https://blog.tymscar.com/posts/opensourcedimmer/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 10:32:54",
+      "https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with"
+    ],
+    [
+      "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+      "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide"
     ]
   ]
 ]
