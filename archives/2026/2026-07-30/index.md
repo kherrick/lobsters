@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 16:08:56](https://lobste.rs/s/3s9cva/scaling_numpy_on_free_threaded_python) - [Scaling NumPy on Free-Threaded Python](https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python)
 * [2026-07-30, 15:18:48](https://lobste.rs/s/opbpro/saturation_how_your_software_will_fail_at) - [Saturation: How Your Software Will Fail at Scale](https://www.youtube.com/watch?v=PHYCRubnmSM)
 * [2026-07-30, 14:36:05](https://lobste.rs/s/kkobew/kindarails2shell_critical_rce_rails_via) - [KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)](https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066)
 * [2026-07-30, 13:57:07](https://lobste.rs/s/wxmi0v/ai_aesthetic) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 * [2026-07-30, 13:41:55](https://lobste.rs/s/01n0ss/universal_approach_mocking_with) - [A universal approach to mocking with continuations](https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/)
 * [2026-07-30, 12:24:16](https://lobste.rs/s/l03yv1/logic_for_programmers) - [Logic for Programmers](https://logicforprogrammers.com/)
 * [2026-07-30, 12:17:01](https://lobste.rs/s/4bvpqh/building_progressively_enhanced_forms) - [Building Progressively Enhanced Forms Using htmx](https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/)
+* [2026-07-30, 12:14:59](https://lobste.rs/s/vamsks/why_every_wikimedian_should_be_toolmaker) - [Why every Wikimedian should be a toolmaker](https://www.haykranen.nl/2026/07/30/wikimania-2026-every-wikimedian-toolmaker/)
 * [2026-07-30, 11:38:11](https://lobste.rs/s/kdtjoe/project_software_is_complete) - [The Project of Software is Complete](https://freddiedeboer.substack.com/p/the-project-of-software-is-complete)
 * [2026-07-30, 10:32:55](https://lobste.rs/s/3qpe1b/atomarine_offshore_power_compute) - [Atomarine · Offshore Power & Compute Infrastructure](https://atomarine.co/)
 * [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
