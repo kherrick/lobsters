@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 11:38:11](https://lobste.rs/s/kdtjoe/project_software_is_complete) - [The Project of Software is Complete](https://freddiedeboer.substack.com/p/the-project-of-software-is-complete)
 * [2026-07-30, 10:32:55](https://lobste.rs/s/3qpe1b/atomarine_offshore_power_compute) - [Atomarine · Offshore Power & Compute Infrastructure](https://atomarine.co/)
 * [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2026-07-30, 03:47:26](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
