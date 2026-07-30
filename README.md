@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-30, 16:52:25](https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public) - [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 16:42:25](https://lobste.rs/s/yruyze/state_post_quantum_cryptography) - [The State of Post-Quantum Cryptography](https://www.feistyduck.com/newsletter/issue_139_the_state_of_post-quantum_cryptography)
 * [2026-07-30, 16:08:56](https://lobste.rs/s/3s9cva/scaling_numpy_on_free_threaded_python) - [Scaling NumPy on Free-Threaded Python](https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python)
 * [2026-07-30, 14:36:05](https://lobste.rs/s/kkobew/kindarails2shell_critical_rce_rails_via) - [KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)](https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066)
@@ -21,7 +22,6 @@
 * [2026-07-29, 13:22:18](https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe) - [Overengineered calculator: Zig + QBE](https://tomekw.com/overengineered-calculator-zig-qbe/)
 * [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
 * [2026-07-29, 13:00:44](https://lobste.rs/s/5z7akz/gnu_hyperbole_implicit_buttons_build) - [GNU Hyperbole Implicit Buttons: Build your Hyperverse](https://www.chiply.dev/post-hyperbole-implicit-buttons)
-* [2026-07-29, 12:35:26](https://lobste.rs/s/hrhb42/dark_night_mathematics) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
 * [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
 * [2026-07-29, 08:07:13](https://lobste.rs/s/csff09/user_interfaces_demo_scene) - [User Interfaces of the Demo Scene](https://datagubbe.se/scenegui/)
 * [2026-07-28, 21:16:29](https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program) - [Why Rocq is better than Lean for program verification](https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html)
