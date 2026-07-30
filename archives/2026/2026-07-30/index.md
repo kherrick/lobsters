@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2026-07-30, 03:47:26](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
 * [2026-07-30, 03:42:59](https://lobste.rs/s/hkemqm/difference_between_button_link) - [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)
 * [2026-07-30, 02:46:57](https://lobste.rs/s/ndprns/man_computer_john_g_kemeny_1972) - [Man and the Computer - John G. Kemeny (1972)](https://archive.org/details/mancomputerbyjoh0000john)
