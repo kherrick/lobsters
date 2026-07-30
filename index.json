@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-30, 17:47:22",
-      "https://lobste.rs/s/fbqlpy/gcc_steering_committee_announces_ai"
+      "2026-07-30, 18:06:16",
+      "https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with"
     ],
     [
-      "GCC steering committee announces AI policy",
-      "https://lwn.net/Articles/1086041/"
+      "Progress toward compiling Linux with gccrs",
+      "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Scaling NumPy on Free-Threaded Python",
       "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 15:18:48",
+      "https://lobste.rs/s/opbpro/saturation_how_your_software_will_fail_at"
+    ],
+    [
+      "Saturation: How Your Software Will Fail at Scale",
+      "https://www.youtube.com/watch?v=PHYCRubnmSM"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "Building Progressively Enhanced Forms Using htmx",
       "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 12:14:59",
+      "https://lobste.rs/s/vamsks/why_every_wikimedian_should_be_toolmaker"
+    ],
+    [
+      "Why every Wikimedian should be a toolmaker",
+      "https://www.haykranen.nl/2026/07/30/wikimania-2026-every-wikimedian-toolmaker/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "AI Mania Is Eviscerating Global Decision-Making",
       "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 08:07:13",
-      "https://lobste.rs/s/csff09/user_interfaces_demo_scene"
-    ],
-    [
-      "User Interfaces of the Demo Scene",
-      "https://datagubbe.se/scenegui/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 21:16:29",
-      "https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program"
-    ],
-    [
-      "Why Rocq is better than Lean for program verification",
-      "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html"
     ]
   ]
 ]
