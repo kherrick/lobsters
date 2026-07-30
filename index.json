@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-30, 14:36:05",
+      "https://lobste.rs/s/kkobew/kindarails2shell_critical_rce_rails_via"
+    ],
+    [
+      "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
+      "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 13:57:07",
       "https://lobste.rs/s/wxmi0v/ai_aesthetic"
     ],
@@ -217,16 +227,6 @@
     [
       "Writing Toy Software Is A Joy (2025)",
       "https://blog.jsbarretto.com/post/software-is-joy"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 04:44:39",
-      "https://lobste.rs/s/c9xa6h/manganin_tools_matter"
-    ],
-    [
-      "Manganin: tools matter",
-      "https://blog.manganin.dev/blog/tools-matter/"
     ]
   ],
   [
