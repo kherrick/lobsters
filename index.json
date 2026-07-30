@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-30, 13:57:07",
+      "https://lobste.rs/s/wxmi0v/ai_aesthetic"
+    ],
+    [
+      "The AI Aesthetic",
+      "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 13:41:55",
+      "https://lobste.rs/s/01n0ss/universal_approach_mocking_with"
+    ],
+    [
+      "A universal approach to mocking with continuations",
+      "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 12:24:16",
       "https://lobste.rs/s/l03yv1/logic_for_programmers"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-07-29, 16:14:46",
-      "https://lobste.rs/s/jisg7l/const_cast_necessary_evil"
-    ],
-    [
-      "const_cast: A Necessary Evil",
-      "https://www.elbeno.com/blog/?p=1858"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 14:54:30",
       "https://lobste.rs/s/s78pit/basebrowserproject"
     ],
@@ -117,16 +127,6 @@
     [
       "Some notes about Anthropic’s new results",
       "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 14:24:20",
-      "https://lobste.rs/s/odojje/flycheck_38_might_magic"
-    ],
-    [
-      "Flycheck 38: Might & Magic",
-      "https://emacsredux.com/blog/2026/07/29/flycheck-38/"
     ]
   ],
   [
