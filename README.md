@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 05:46:14](https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026) - [How to speed up the Rust compiler in July 2026](https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html)
+* [2026-07-31, 05:05:46](https://lobste.rs/s/itp1nm/question_about_factorial_operator) - [A question about a factorial operator](https://lobste.rs/s/itp1nm/question_about_factorial_operator)
 * [2026-07-31, 04:48:48](https://lobste.rs/s/wixunw/private_data_atproto_permissioned_data) - [Private data in ATProto: Permissioned Data Proposal](https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
 * [2026-07-31, 03:25:32](https://lobste.rs/s/r2dy9y/correlated_rng) - [Correlated RNG](https://knivesforcats.online/correlated-rng/)
 * [2026-07-31, 02:46:22](https://lobste.rs/s/zsq34k/c64_demo_effects_explained_rodents_attic) - [C64 Demo Effects Explained: Rodents In The Attic](https://youtu.be/uZ1atMUOUMU)
 * [2026-07-30, 21:05:48](https://lobste.rs/s/4iadct/new_keyboard_alicjav2) - [New keyboard: Alicjav2](https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/)
-* [2026-07-30, 21:02:32](https://lobste.rs/s/uzcxat/you_have_been_mislead_about_lightbulbs) - [You have been mislead about lightbulbs](https://maurycyz.com/misc/tungsten/)
 * [2026-07-30, 19:19:14](https://lobste.rs/s/eelfmn/std_io_writer_allocating_ate_all_my_memory) - [std.Io.Writer.Allocating ate all my memory](https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)
 * [2026-07-30, 17:47:22](https://lobste.rs/s/fbqlpy/gcc_steering_committee_announces_ai) - [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
@@ -22,7 +23,6 @@
 * [2026-07-30, 01:40:31](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) - [What side projects have you enjoyed the most?](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most)
 * [2026-07-29, 20:22:39](https://lobste.rs/s/rulynz/strain_your_brain) - [The strain in your brain](https://anirudh.fi/strain)
 * [2026-07-29, 18:11:44](https://lobste.rs/s/l3sj7g/first_cheriot_silicon) - [First CHERIoT Silicon](https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html)
-* [2026-07-29, 13:22:18](https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe) - [Overengineered calculator: Zig + QBE](https://tomekw.com/overengineered-calculator-zig-qbe/)
 * [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
 * [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
 
