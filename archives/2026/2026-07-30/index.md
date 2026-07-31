@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 21:05:48](https://lobste.rs/s/4iadct/new_keyboard_alicjav2) - [New keyboard: Alicjav2](https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/)
 * [2026-07-30, 21:02:32](https://lobste.rs/s/uzcxat/you_have_been_mislead_about_lightbulbs) - [You have been mislead about lightbulbs](https://maurycyz.com/misc/tungsten/)
 * [2026-07-30, 19:19:14](https://lobste.rs/s/eelfmn/std_io_writer_allocating_ate_all_my_memory) - [std.Io.Writer.Allocating ate all my memory](https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)

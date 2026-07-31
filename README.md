@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-30, 21:05:48](https://lobste.rs/s/4iadct/new_keyboard_alicjav2) - [New keyboard: Alicjav2](https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/)
 * [2026-07-30, 21:02:32](https://lobste.rs/s/uzcxat/you_have_been_mislead_about_lightbulbs) - [You have been mislead about lightbulbs](https://maurycyz.com/misc/tungsten/)
 * [2026-07-30, 19:19:14](https://lobste.rs/s/eelfmn/std_io_writer_allocating_ate_all_my_memory) - [std.Io.Writer.Allocating ate all my memory](https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)
@@ -19,7 +20,6 @@
 * [2026-07-29, 20:22:39](https://lobste.rs/s/rulynz/strain_your_brain) - [The strain in your brain](https://anirudh.fi/strain)
 * [2026-07-29, 18:11:44](https://lobste.rs/s/l3sj7g/first_cheriot_silicon) - [First CHERIoT Silicon](https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html)
 * [2026-07-29, 16:26:11](https://lobste.rs/s/1efcss/setting_timers_simple_games_feat_frame) - [Setting timers in simple games (feat. the frame rule)](https://lynn.github.io/blog/pico-timers/)
-* [2026-07-29, 14:54:30](https://lobste.rs/s/s78pit/basebrowserproject) - [basebrowserproject](https://mastodon.social/@sarahjamielewis/116965925134524215)
 * [2026-07-29, 14:28:50](https://lobste.rs/s/g9bkak/some_notes_about_anthropic_s_new_results) - [Some notes about Anthropic’s new results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 13:22:18](https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe) - [Overengineered calculator: Zig + QBE](https://tomekw.com/overengineered-calculator-zig-qbe/)
 * [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
