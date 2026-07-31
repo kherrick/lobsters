@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 03:25:32](https://lobste.rs/s/r2dy9y/correlated_rng) - [Correlated RNG](https://knivesforcats.online/correlated-rng/)
+* [2026-07-31, 02:46:22](https://lobste.rs/s/zsq34k/c64_demo_effects_explained_rodents_attic) - [C64 Demo Effects Explained: Rodents In The Attic](https://youtu.be/uZ1atMUOUMU)
 * [2026-07-30, 21:05:48](https://lobste.rs/s/4iadct/new_keyboard_alicjav2) - [New keyboard: Alicjav2](https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/)
 * [2026-07-30, 21:02:32](https://lobste.rs/s/uzcxat/you_have_been_mislead_about_lightbulbs) - [You have been mislead about lightbulbs](https://maurycyz.com/misc/tungsten/)
 * [2026-07-30, 19:19:14](https://lobste.rs/s/eelfmn/std_io_writer_allocating_ate_all_my_memory) - [std.Io.Writer.Allocating ate all my memory](https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/)
@@ -19,8 +21,6 @@
 * [2026-07-30, 01:40:31](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) - [What side projects have you enjoyed the most?](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most)
 * [2026-07-29, 20:22:39](https://lobste.rs/s/rulynz/strain_your_brain) - [The strain in your brain](https://anirudh.fi/strain)
 * [2026-07-29, 18:11:44](https://lobste.rs/s/l3sj7g/first_cheriot_silicon) - [First CHERIoT Silicon](https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html)
-* [2026-07-29, 16:26:11](https://lobste.rs/s/1efcss/setting_timers_simple_games_feat_frame) - [Setting timers in simple games (feat. the frame rule)](https://lynn.github.io/blog/pico-timers/)
-* [2026-07-29, 14:28:50](https://lobste.rs/s/g9bkak/some_notes_about_anthropic_s_new_results) - [Some notes about Anthropic’s new results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 13:22:18](https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe) - [Overengineered calculator: Zig + QBE](https://tomekw.com/overengineered-calculator-zig-qbe/)
 * [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
 * [2026-07-29, 13:00:44](https://lobste.rs/s/5z7akz/gnu_hyperbole_implicit_buttons_build) - [GNU Hyperbole Implicit Buttons: Build your Hyperverse](https://www.chiply.dev/post-hyperbole-implicit-buttons)
