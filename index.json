@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-07-31, 16:17:44",
+      "https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines"
+    ],
+    [
+      "Why we write our own C and C++ inference engines",
+      "https://localai.io/blog/why-we-write-our-own-engines/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 16:04:41",
       "https://lobste.rs/s/bgr7fh/doom_emacs"
     ],
@@ -137,6 +147,16 @@
     [
       "what the double-fork?",
       "https://bower.sh/what-the-double-fork"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 13:01:36",
+      "https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix"
+    ],
+    [
+      "Derivations to Deployments: Practical Nix in Production",
+      "https://www.youtube.com/watch?v=WaPOtisNu1k"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-07-30, 17:47:22",
-      "https://lobste.rs/s/fbqlpy/gcc_steering_committee_announces_ai"
-    ],
-    [
-      "GCC steering committee announces AI policy",
-      "https://lwn.net/Articles/1086041/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 16:52:25",
       "https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public"
     ],
     [
       "Stacked pull requests are now in public preview",
       "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 13:57:07",
-      "https://lobste.rs/s/wxmi0v/ai_aesthetic"
-    ],
-    [
-      "The AI Aesthetic",
-      "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
     ]
   ]
 ]
