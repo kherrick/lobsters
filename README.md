@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 22:03:47](https://lobste.rs/s/0mixjj/arch_linux_disables_aur_package_adoption) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
 * [2026-07-31, 18:57:57](https://lobste.rs/s/8fep9z/interactive_raylib_with_common_lisp) - [Interactive Raylib with Common Lisp](https://www.youtube.com/watch?v=yeJRK_1rS4Y)
 * [2026-07-31, 18:27:28](https://lobste.rs/s/aj7msu/accepting_messy_git_history) - [Accepting a messy git history](https://beza1e1.tuxen.de/git_two_users.html)
 * [2026-07-31, 17:58:24](https://lobste.rs/s/uxsmk6/guix_shell_now_inside_emacs) - [Guix shell now inside Emacs](https://tusharhero.codeberg.page/guix-shell-in-emacs.html)
@@ -20,7 +21,6 @@
 * [2026-07-31, 09:37:01](https://lobste.rs/s/91tzqg/full_flattening_nested_data_parallelism) - [Full flattening of nested data parallelism](https://futhark-lang.org/blog/2026-07-31-full-flattening.html)
 * [2026-07-31, 05:46:14](https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026) - [How to speed up the Rust compiler in July 2026](https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html)
 * [2026-07-31, 05:05:46](https://lobste.rs/s/itp1nm/question_about_factorial_operator) - [A question about a factorial operator](https://lobste.rs/s/itp1nm/question_about_factorial_operator)
-* [2026-07-31, 04:48:48](https://lobste.rs/s/wixunw/private_data_atproto_permissioned_data) - [Private data in ATProto: Permissioned Data Proposal](https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
 * [2026-07-31, 03:25:32](https://lobste.rs/s/r2dy9y/correlated_rng) - [Correlated RNG](https://knivesforcats.online/correlated-rng/)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)
 * [2026-07-30, 16:52:25](https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public) - [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
