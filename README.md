@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 11:15:54](https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour) - [Go 1.27 interactive tour](https://victoriametrics.com/blog/go-1-27/)
 * [2026-07-31, 10:36:22](https://lobste.rs/s/ri8bav/stripe_just_wants_number) - [Stripe Just Wants a Number](https://blog.exe.dev/billable-facts)
 * [2026-07-31, 09:37:01](https://lobste.rs/s/91tzqg/full_flattening_nested_data_parallelism) - [Full flattening of nested data parallelism](https://futhark-lang.org/blog/2026-07-31-full-flattening.html)
 * [2026-07-31, 08:01:26](https://lobste.rs/s/sbu76n/vllm_for_baidu_kunlun) - [vLLM for Baidu Kunlun](https://github.com/baidu/vLLM-Kunlun)
@@ -21,7 +22,6 @@
 * [2026-07-30, 12:17:01](https://lobste.rs/s/4bvpqh/building_progressively_enhanced_forms) - [Building Progressively Enhanced Forms Using htmx](https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/)
 * [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2026-07-30, 03:47:26](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
-* [2026-07-30, 03:42:59](https://lobste.rs/s/hkemqm/difference_between_button_link) - [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)
 * [2026-07-30, 01:40:31](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) - [What side projects have you enjoyed the most?](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most)
 * [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
 * [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
