@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-31, 04:48:48",
+      "https://lobste.rs/s/wixunw/private_data_atproto_permissioned_data"
+    ],
+    [
+      "Private data in ATProto: Permissioned Data Proposal",
+      "https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 03:25:32",
       "https://lobste.rs/s/r2dy9y/correlated_rng"
     ],
@@ -227,16 +237,6 @@
     [
       "It doesn’t matter whether “Matz is nice”",
       "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 13:00:44",
-      "https://lobste.rs/s/5z7akz/gnu_hyperbole_implicit_buttons_build"
-    ],
-    [
-      "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-      "https://www.chiply.dev/post-hyperbole-implicit-buttons"
     ]
   ],
   [
