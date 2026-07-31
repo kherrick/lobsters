@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-31, 14:49:22",
-      "https://lobste.rs/s/1vljy2/post_quantum_certificates"
+      "2026-07-31, 15:02:41",
+      "https://lobste.rs/s/kvxee3/why_i_forked_rand"
     ],
     [
-      "Post-Quantum Certificates",
-      "https://www.netmeister.org/blog/pqc-certs.html"
+      "Why I forked rand",
+      "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 15:01:29",
+      "https://lobste.rs/s/6gl58y/how_we_built_zero_disk_s3_tiered_storage"
+    ],
+    [
+      "How We Built a Zero-Disk, S3-Tiered Storage Engine for SQLite",
+      "https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "The AI Aesthetic",
       "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 13:41:55",
-      "https://lobste.rs/s/01n0ss/universal_approach_mocking_with"
-    ],
-    [
-      "A universal approach to mocking with continuations",
-      "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/"
     ]
   ],
   [
