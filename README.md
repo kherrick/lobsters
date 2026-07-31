@@ -1,8 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 17:58:24](https://lobste.rs/s/uxsmk6/guix_shell_now_inside_emacs) - [Guix shell now inside Emacs](https://tusharhero.codeberg.page/guix-shell-in-emacs.html)
+* [2026-07-31, 17:48:22](https://lobste.rs/s/nw7rzu/wheels_we_keep_reinventing) - [The Wheels We Keep Reinventing](https://blainsmith.com/articles/reinventing-the-wheel/)
+* [2026-07-31, 17:32:20](https://lobste.rs/s/7tggvc/june_servo_real_world_compat_media) - [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
+* [2026-07-31, 17:13:16](https://lobste.rs/s/i6e5wp/dead_software_walking_ongoing_evolution) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)
 * [2026-07-31, 16:54:27](https://lobste.rs/s/ecd44o/state_chez_scheme_debian) - [The State of Chez Scheme in Debian](https://weinholt.se/articles/state-of-chezscheme-in-debian/)
 * [2026-07-31, 16:32:07](https://lobste.rs/s/m7ovw3/platform_engineering_still_matters) - [Platform engineering still matters](https://evnm.substack.com/p/platform-engineering-still-matters)
-* [2026-07-31, 16:26:31](https://lobste.rs/s/5pavqs/energizing_vacuum_tube_flip_flop_module) - [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html)
 * [2026-07-31, 16:17:44](https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines) - [Why we write our own C and C++ inference engines](https://localai.io/blog/why-we-write-our-own-engines/)
 * [2026-07-31, 15:44:13](https://lobste.rs/s/xieltq/where_env_went_wrong) - [Where .env Went Wrong](https://secretspec.dev/blog/where-env-went-wrong/)
 * [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
@@ -17,14 +20,11 @@
 * [2026-07-31, 05:05:46](https://lobste.rs/s/itp1nm/question_about_factorial_operator) - [A question about a factorial operator](https://lobste.rs/s/itp1nm/question_about_factorial_operator)
 * [2026-07-31, 04:48:48](https://lobste.rs/s/wixunw/private_data_atproto_permissioned_data) - [Private data in ATProto: Permissioned Data Proposal](https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
 * [2026-07-31, 03:25:32](https://lobste.rs/s/r2dy9y/correlated_rng) - [Correlated RNG](https://knivesforcats.online/correlated-rng/)
-* [2026-07-31, 02:46:22](https://lobste.rs/s/zsq34k/c64_demo_effects_explained_rodents_attic) - [C64 Demo Effects Explained: Rodents In The Attic](https://youtu.be/uZ1atMUOUMU)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)
 * [2026-07-30, 17:47:22](https://lobste.rs/s/fbqlpy/gcc_steering_committee_announces_ai) - [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
 * [2026-07-30, 16:52:25](https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public) - [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 13:57:07](https://lobste.rs/s/wxmi0v/ai_aesthetic) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-* [2026-07-30, 12:17:01](https://lobste.rs/s/4bvpqh/building_progressively_enhanced_forms) - [Building Progressively Enhanced Forms Using htmx](https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/)
 * [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
-* [2026-07-30, 03:47:26](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
 
 ## [Archives](archives/index.md)
 
