@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-31, 16:32:07",
+      "https://lobste.rs/s/m7ovw3/platform_engineering_still_matters"
+    ],
+    [
+      "Platform engineering still matters",
+      "https://evnm.substack.com/p/platform-engineering-still-matters"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 16:26:31",
+      "https://lobste.rs/s/5pavqs/energizing_vacuum_tube_flip_flop_module"
+    ],
+    [
+      "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
+      "http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 16:17:44",
+      "https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines"
+    ],
+    [
+      "Why we write our own C and C++ inference engines",
+      "https://localai.io/blog/why-we-write-our-own-engines/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 15:52:37",
       "https://lobste.rs/s/vlcych/asynchronous_i_o_duckdb_work_thread_work"
     ],
@@ -67,26 +97,6 @@
     [
       "what the double-fork?",
       "https://bower.sh/what-the-double-fork"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 13:01:36",
-      "https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix"
-    ],
-    [
-      "Derivations to Deployments: Practical Nix in Production",
-      "https://www.youtube.com/watch?v=WaPOtisNu1k"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 12:48:45",
-      "https://lobste.rs/s/j04gsk/project_specific_clangd_configuration"
-    ],
-    [
-      "Project-Specific clangd Configuration with a Temporary Shell",
-      "https://felix-knorr.net/posts/2026-07-31-lsp-config.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "C++ float-to-int conversion can be undefined behavior",
       "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 01:40:31",
-      "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most"
-    ],
-    [
-      "What side projects have you enjoyed the most?",
-      "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most"
     ]
   ]
 ]
