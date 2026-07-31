@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 13:01:36](https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix) - [Derivations to Deployments: Practical Nix in Production - John Murray](https://www.youtube.com/watch?v=WaPOtisNu1k)
+* [2026-07-31, 12:48:45](https://lobste.rs/s/j04gsk/project_specific_clangd_configuration) - [Project-Specific clangd Configuration with a Temporary Shell](https://felix-knorr.net/posts/2026-07-31-lsp-config.html)
 * [2026-07-31, 11:15:54](https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour) - [Go 1.27 interactive tour](https://victoriametrics.com/blog/go-1-27/)
 * [2026-07-31, 10:36:22](https://lobste.rs/s/ri8bav/stripe_just_wants_number) - [Stripe Just Wants a Number](https://blog.exe.dev/billable-facts)
 * [2026-07-31, 09:37:01](https://lobste.rs/s/91tzqg/full_flattening_nested_data_parallelism) - [Full flattening of nested data parallelism](https://futhark-lang.org/blog/2026-07-31-full-flattening.html)

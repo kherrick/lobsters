@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 13:01:36](https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix) - [Derivations to Deployments: Practical Nix in Production - John Murray](https://www.youtube.com/watch?v=WaPOtisNu1k)
+* [2026-07-31, 12:48:45](https://lobste.rs/s/j04gsk/project_specific_clangd_configuration) - [Project-Specific clangd Configuration with a Temporary Shell](https://felix-knorr.net/posts/2026-07-31-lsp-config.html)
 * [2026-07-31, 11:15:54](https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour) - [Go 1.27 interactive tour](https://victoriametrics.com/blog/go-1-27/)
 * [2026-07-31, 10:36:22](https://lobste.rs/s/ri8bav/stripe_just_wants_number) - [Stripe Just Wants a Number](https://blog.exe.dev/billable-facts)
 * [2026-07-31, 09:37:01](https://lobste.rs/s/91tzqg/full_flattening_nested_data_parallelism) - [Full flattening of nested data parallelism](https://futhark-lang.org/blog/2026-07-31-full-flattening.html)
-* [2026-07-31, 08:01:26](https://lobste.rs/s/sbu76n/vllm_for_baidu_kunlun) - [vLLM for Baidu Kunlun](https://github.com/baidu/vLLM-Kunlun)
 * [2026-07-31, 05:46:14](https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026) - [How to speed up the Rust compiler in July 2026](https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html)
 * [2026-07-31, 05:05:46](https://lobste.rs/s/itp1nm/question_about_factorial_operator) - [A question about a factorial operator](https://lobste.rs/s/itp1nm/question_about_factorial_operator)
 * [2026-07-31, 04:48:48](https://lobste.rs/s/wixunw/private_data_atproto_permissioned_data) - [Private data in ATProto: Permissioned Data Proposal](https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
@@ -23,7 +24,6 @@
 * [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2026-07-30, 03:47:26](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
 * [2026-07-30, 01:40:31](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) - [What side projects have you enjoyed the most?](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most)
-* [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
 * [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
 
 ## [Archives](archives/index.md)
