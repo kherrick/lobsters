@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-31, 08:01:26",
+      "https://lobste.rs/s/sbu76n/vllm_for_baidu_kunlun"
+    ],
+    [
+      "vLLM for Baidu Kunlun",
+      "https://github.com/baidu/vLLM-Kunlun"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 05:46:14",
       "https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026"
     ],
@@ -107,16 +117,6 @@
     [
       "Scaling NumPy on Free-Threaded Python",
       "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 15:18:48",
-      "https://lobste.rs/s/opbpro/saturation_how_your_software_will_fail_at"
-    ],
-    [
-      "Saturation: How Your Software Will Fail at Scale",
-      "https://www.youtube.com/watch?v=PHYCRubnmSM"
     ]
   ],
   [
