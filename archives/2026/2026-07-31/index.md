@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 16:54:27](https://lobste.rs/s/ecd44o/state_chez_scheme_debian) - [The State of Chez Scheme in Debian](https://weinholt.se/articles/state-of-chezscheme-in-debian/)
 * [2026-07-31, 16:32:07](https://lobste.rs/s/m7ovw3/platform_engineering_still_matters) - [Platform engineering still matters](https://evnm.substack.com/p/platform-engineering-still-matters)
 * [2026-07-31, 16:26:31](https://lobste.rs/s/5pavqs/energizing_vacuum_tube_flip_flop_module) - [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html)
 * [2026-07-31, 16:17:44](https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines) - [Why we write our own C and C++ inference engines](https://localai.io/blog/why-we-write-our-own-engines/)
