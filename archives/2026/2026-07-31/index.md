@@ -14,6 +14,7 @@
 * [2026-07-31, 16:32:07](https://lobste.rs/s/m7ovw3/platform_engineering_still_matters) - [Platform engineering still matters](https://evnm.substack.com/p/platform-engineering-still-matters)
 * [2026-07-31, 16:26:31](https://lobste.rs/s/5pavqs/energizing_vacuum_tube_flip_flop_module) - [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html)
 * [2026-07-31, 16:17:44](https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines) - [Why we write our own C and C++ inference engines](https://localai.io/blog/why-we-write-our-own-engines/)
+* [2026-07-31, 16:04:41](https://lobste.rs/s/bgr7fh/doom_emacs) - [DOOM, Emacs](https://github.com/minad/doom-on-emacs)
 * [2026-07-31, 15:52:37](https://lobste.rs/s/vlcych/asynchronous_i_o_duckdb_work_thread_work) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io.html)
 * [2026-07-31, 15:44:13](https://lobste.rs/s/xieltq/where_env_went_wrong) - [Where .env Went Wrong](https://secretspec.dev/blog/where-env-went-wrong/)
 * [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
