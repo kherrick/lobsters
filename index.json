@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-31, 16:54:27",
+      "https://lobste.rs/s/ecd44o/state_chez_scheme_debian"
+    ],
+    [
+      "The State of Chez Scheme in Debian",
+      "https://weinholt.se/articles/state-of-chezscheme-in-debian/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 16:32:07",
       "https://lobste.rs/s/m7ovw3/platform_engineering_still_matters"
     ],
@@ -27,16 +37,6 @@
     [
       "Why we write our own C and C++ inference engines",
       "https://localai.io/blog/why-we-write-our-own-engines/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 15:52:37",
-      "https://lobste.rs/s/vlcych/asynchronous_i_o_duckdb_work_thread_work"
-    ],
-    [
-      "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "https://duckdb.org/2026/07/31/asynchronous-io.html"
     ]
   ],
   [
