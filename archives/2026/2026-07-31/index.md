@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 15:52:37](https://lobste.rs/s/vlcych/asynchronous_i_o_duckdb_work_thread_work) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io.html)
+* [2026-07-31, 15:44:13](https://lobste.rs/s/xieltq/where_env_went_wrong) - [Where .env Went Wrong](https://secretspec.dev/blog/where-env-went-wrong/)
 * [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
 * [2026-07-31, 15:01:29](https://lobste.rs/s/6gl58y/how_we_built_zero_disk_s3_tiered_storage) - [How We Built a Zero-Disk, S3-Tiered Storage Engine for SQLite](https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/)
 * [2026-07-31, 14:49:22](https://lobste.rs/s/1vljy2/post_quantum_certificates) - [Post-Quantum Certificates](https://www.netmeister.org/blog/pqc-certs.html)
