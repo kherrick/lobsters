@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-31, 13:46:11",
+      "https://lobste.rs/s/qwytlf/what_double_fork"
+    ],
+    [
+      "what the double-fork?",
+      "https://bower.sh/what-the-double-fork"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 13:01:36",
       "https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix"
     ],
@@ -157,16 +167,6 @@
     [
       "Scaling NumPy on Free-Threaded Python",
       "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 14:36:05",
-      "https://lobste.rs/s/kkobew/kindarails2shell_critical_rce_rails_via"
-    ],
-    [
-      "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
-      "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066"
     ]
   ],
   [
