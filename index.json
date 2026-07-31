@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-31, 15:52:37",
+      "https://lobste.rs/s/vlcych/asynchronous_i_o_duckdb_work_thread_work"
+    ],
+    [
+      "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "https://duckdb.org/2026/07/31/asynchronous-io.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 15:44:13",
+      "https://lobste.rs/s/xieltq/where_env_went_wrong"
+    ],
+    [
+      "Where .env Went Wrong",
+      "https://secretspec.dev/blog/where-env-went-wrong/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 15:02:41",
       "https://lobste.rs/s/kvxee3/why_i_forked_rand"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-07-30, 19:19:14",
-      "https://lobste.rs/s/eelfmn/std_io_writer_allocating_ate_all_my_memory"
-    ],
-    [
-      "std.Io.Writer.Allocating ate all my memory",
-      "https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 18:06:16",
       "https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with"
     ],
@@ -197,16 +207,6 @@
     [
       "The AI Aesthetic",
       "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 12:24:16",
-      "https://lobste.rs/s/l03yv1/logic_for_programmers"
-    ],
-    [
-      "Logic for Programmers",
-      "https://logicforprogrammers.com/"
     ]
   ],
   [
