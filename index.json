@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-31, 11:15:54",
+      "https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour"
+    ],
+    [
+      "Go 1.27 interactive tour",
+      "https://victoriametrics.com/blog/go-1-27/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 10:36:22",
       "https://lobste.rs/s/ri8bav/stripe_just_wants_number"
     ],
@@ -207,16 +217,6 @@
     [
       "C++ float-to-int conversion can be undefined behavior",
       "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 03:42:59",
-      "https://lobste.rs/s/hkemqm/difference_between_button_link"
-    ],
-    [
-      "The Difference Between a Button and a Link",
-      "https://unplannedobsolescence.com/blog/buttons-vs-links/"
     ]
   ],
   [
