@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 18:27:28](https://lobste.rs/s/aj7msu/accepting_messy_git_history) - [Accepting a messy git history](https://beza1e1.tuxen.de/git_two_users.html)
 * [2026-07-31, 17:58:24](https://lobste.rs/s/uxsmk6/guix_shell_now_inside_emacs) - [Guix shell now inside Emacs](https://tusharhero.codeberg.page/guix-shell-in-emacs.html)
 * [2026-07-31, 17:48:22](https://lobste.rs/s/nw7rzu/wheels_we_keep_reinventing) - [The Wheels We Keep Reinventing](https://blainsmith.com/articles/reinventing-the-wheel/)
-* [2026-07-31, 17:32:20](https://lobste.rs/s/7tggvc/june_servo_real_world_compat_media) - [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
+* [2026-07-31, 17:26:21](https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend)
 * [2026-07-31, 17:13:16](https://lobste.rs/s/i6e5wp/dead_software_walking_ongoing_evolution) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)
 * [2026-07-31, 16:54:27](https://lobste.rs/s/ecd44o/state_chez_scheme_debian) - [The State of Chez Scheme in Debian](https://weinholt.se/articles/state-of-chezscheme-in-debian/)
 * [2026-07-31, 16:32:07](https://lobste.rs/s/m7ovw3/platform_engineering_still_matters) - [Platform engineering still matters](https://evnm.substack.com/p/platform-engineering-still-matters)
@@ -24,7 +25,6 @@
 * [2026-07-30, 17:47:22](https://lobste.rs/s/fbqlpy/gcc_steering_committee_announces_ai) - [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
 * [2026-07-30, 16:52:25](https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public) - [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 13:57:07](https://lobste.rs/s/wxmi0v/ai_aesthetic) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-* [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 
 ## [Archives](archives/index.md)
 
