@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-31, 13:01:36",
+      "https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix"
+    ],
+    [
+      "Derivations to Deployments: Practical Nix in Production - John Murray",
+      "https://www.youtube.com/watch?v=WaPOtisNu1k"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 12:48:45",
+      "https://lobste.rs/s/j04gsk/project_specific_clangd_configuration"
+    ],
+    [
+      "Project-Specific clangd Configuration with a Temporary Shell",
+      "https://felix-knorr.net/posts/2026-07-31-lsp-config.html"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 11:15:54",
       "https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour"
     ],
@@ -27,16 +47,6 @@
     [
       "Full flattening of nested data parallelism",
       "https://futhark-lang.org/blog/2026-07-31-full-flattening.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 08:01:26",
-      "https://lobste.rs/s/sbu76n/vllm_for_baidu_kunlun"
-    ],
-    [
-      "vLLM for Baidu Kunlun",
-      "https://github.com/baidu/vLLM-Kunlun"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "What side projects have you enjoyed the most?",
       "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 13:12:17",
-      "https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice"
-    ],
-    [
-      "It doesn’t matter whether “Matz is nice”",
-      "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice"
     ]
   ],
   [
