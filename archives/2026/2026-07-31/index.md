@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 18:57:57](https://lobste.rs/s/8fep9z/interactive_raylib_with_common_lisp) - [Interactive Raylib with Common Lisp](https://www.youtube.com/watch?v=yeJRK_1rS4Y)
 * [2026-07-31, 18:27:28](https://lobste.rs/s/aj7msu/accepting_messy_git_history) - [Accepting a messy git history](https://beza1e1.tuxen.de/git_two_users.html)
 * [2026-07-31, 17:58:24](https://lobste.rs/s/uxsmk6/guix_shell_now_inside_emacs) - [Guix shell now inside Emacs](https://tusharhero.codeberg.page/guix-shell-in-emacs.html)
 * [2026-07-31, 17:48:22](https://lobste.rs/s/nw7rzu/wheels_we_keep_reinventing) - [The Wheels We Keep Reinventing](https://blainsmith.com/articles/reinventing-the-wheel/)
