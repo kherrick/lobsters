@@ -8,7 +8,6 @@
 * [2026-07-31, 17:26:21](https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend)
 * [2026-07-31, 17:13:16](https://lobste.rs/s/i6e5wp/dead_software_walking_ongoing_evolution) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)
 * [2026-07-31, 16:54:27](https://lobste.rs/s/ecd44o/state_chez_scheme_debian) - [The State of Chez Scheme in Debian](https://weinholt.se/articles/state-of-chezscheme-in-debian/)
-* [2026-07-31, 16:17:44](https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines) - [Why we write our own C and C++ inference engines](https://localai.io/blog/why-we-write-our-own-engines/)
 * [2026-07-31, 16:04:41](https://lobste.rs/s/bgr7fh/doom_emacs) - [DOOM, Emacs](https://github.com/minad/doom-on-emacs)
 * [2026-07-31, 15:44:13](https://lobste.rs/s/xieltq/where_env_went_wrong) - [Where .env Went Wrong](https://secretspec.dev/blog/where-env-went-wrong/)
 * [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
@@ -25,6 +24,7 @@
 * [2026-07-31, 03:25:32](https://lobste.rs/s/r2dy9y/correlated_rng) - [Correlated RNG](https://knivesforcats.online/correlated-rng/)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)
 * [2026-07-30, 16:52:25](https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public) - [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
+* [2026-07-30, 13:57:07](https://lobste.rs/s/wxmi0v/ai_aesthetic) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ## [Archives](archives/index.md)
 
