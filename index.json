@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-31, 18:27:28",
+      "https://lobste.rs/s/aj7msu/accepting_messy_git_history"
+    ],
+    [
+      "Accepting a messy git history",
+      "https://beza1e1.tuxen.de/git_two_users.html"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 17:58:24",
       "https://lobste.rs/s/uxsmk6/guix_shell_now_inside_emacs"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-07-31, 17:32:20",
-      "https://lobste.rs/s/7tggvc/june_servo_real_world_compat_media"
+      "2026-07-31, 17:26:21",
+      "https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend"
     ],
     [
-      "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "https://servo.org/blog/2026/07/31/june-in-servo/"
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The AI Aesthetic",
       "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 07:52:39",
-      "https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device"
-    ],
-    [
-      "deskhop: Fast Desktop Switching Device",
-      "https://github.com/hrvach/deskhop"
     ]
   ]
 ]
