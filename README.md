@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 16:32:07](https://lobste.rs/s/m7ovw3/platform_engineering_still_matters) - [Platform engineering still matters](https://evnm.substack.com/p/platform-engineering-still-matters)
+* [2026-07-31, 16:26:31](https://lobste.rs/s/5pavqs/energizing_vacuum_tube_flip_flop_module) - [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html)
+* [2026-07-31, 16:17:44](https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines) - [Why we write our own C and C++ inference engines](https://localai.io/blog/why-we-write-our-own-engines/)
 * [2026-07-31, 15:52:37](https://lobste.rs/s/vlcych/asynchronous_i_o_duckdb_work_thread_work) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io.html)
 * [2026-07-31, 15:44:13](https://lobste.rs/s/xieltq/where_env_went_wrong) - [Where .env Went Wrong](https://secretspec.dev/blog/where-env-went-wrong/)
 * [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
@@ -7,8 +10,6 @@
 * [2026-07-31, 14:47:21](https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
 * [2026-07-31, 14:35:00](https://lobste.rs/s/8tnxna/methinks_it_is_weasel) - [Methinks it is a weasel](https://diatone.net/methinks)
 * [2026-07-31, 13:46:11](https://lobste.rs/s/qwytlf/what_double_fork) - [what the double-fork?](https://bower.sh/what-the-double-fork)
-* [2026-07-31, 13:01:36](https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix) - [Derivations to Deployments: Practical Nix in Production](https://www.youtube.com/watch?v=WaPOtisNu1k)
-* [2026-07-31, 12:48:45](https://lobste.rs/s/j04gsk/project_specific_clangd_configuration) - [Project-Specific clangd Configuration with a Temporary Shell](https://felix-knorr.net/posts/2026-07-31-lsp-config.html)
 * [2026-07-31, 11:15:54](https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour) - [Go 1.27 interactive tour](https://victoriametrics.com/blog/go-1-27/)
 * [2026-07-31, 10:36:22](https://lobste.rs/s/ri8bav/stripe_just_wants_number) - [Stripe Just Wants a Number](https://blog.exe.dev/billable-facts)
 * [2026-07-31, 09:37:01](https://lobste.rs/s/91tzqg/full_flattening_nested_data_parallelism) - [Full flattening of nested data parallelism](https://futhark-lang.org/blog/2026-07-31-full-flattening.html)
@@ -24,7 +25,6 @@
 * [2026-07-30, 12:17:01](https://lobste.rs/s/4bvpqh/building_progressively_enhanced_forms) - [Building Progressively Enhanced Forms Using htmx](https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/)
 * [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2026-07-30, 03:47:26](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
-* [2026-07-30, 01:40:31](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) - [What side projects have you enjoyed the most?](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most)
 
 ## [Archives](archives/index.md)
 
