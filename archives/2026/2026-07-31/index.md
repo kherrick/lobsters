@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 14:49:22](https://lobste.rs/s/1vljy2/post_quantum_certificates) - [Post-Quantum Certificates](https://www.netmeister.org/blog/pqc-certs.html)
+* [2026-07-31, 14:47:21](https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
+* [2026-07-31, 14:35:00](https://lobste.rs/s/8tnxna/methinks_it_is_weasel) - [Methinks it is a weasel](https://diatone.net/methinks)
 * [2026-07-31, 13:46:11](https://lobste.rs/s/qwytlf/what_double_fork) - [what the double-fork?](https://bower.sh/what-the-double-fork)
 * [2026-07-31, 13:01:36](https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix) - [Derivations to Deployments: Practical Nix in Production - John Murray](https://www.youtube.com/watch?v=WaPOtisNu1k)
 * [2026-07-31, 12:48:45](https://lobste.rs/s/j04gsk/project_specific_clangd_configuration) - [Project-Specific clangd Configuration with a Temporary Shell](https://felix-knorr.net/posts/2026-07-31-lsp-config.html)

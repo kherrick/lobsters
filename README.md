@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-07-31, 14:49:22](https://lobste.rs/s/1vljy2/post_quantum_certificates) - [Post-Quantum Certificates](https://www.netmeister.org/blog/pqc-certs.html)
+* [2026-07-31, 14:47:21](https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
+* [2026-07-31, 14:35:00](https://lobste.rs/s/8tnxna/methinks_it_is_weasel) - [Methinks it is a weasel](https://diatone.net/methinks)
 * [2026-07-31, 13:46:11](https://lobste.rs/s/qwytlf/what_double_fork) - [what the double-fork?](https://bower.sh/what-the-double-fork)
-* [2026-07-31, 13:01:36](https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix) - [Derivations to Deployments: Practical Nix in Production - John Murray](https://www.youtube.com/watch?v=WaPOtisNu1k)
+* [2026-07-31, 13:01:36](https://lobste.rs/s/s94kc4/derivations_deployments_practical_nix) - [Derivations to Deployments: Practical Nix in Production](https://www.youtube.com/watch?v=WaPOtisNu1k)
 * [2026-07-31, 12:48:45](https://lobste.rs/s/j04gsk/project_specific_clangd_configuration) - [Project-Specific clangd Configuration with a Temporary Shell](https://felix-knorr.net/posts/2026-07-31-lsp-config.html)
 * [2026-07-31, 11:15:54](https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour) - [Go 1.27 interactive tour](https://victoriametrics.com/blog/go-1-27/)
 * [2026-07-31, 10:36:22](https://lobste.rs/s/ri8bav/stripe_just_wants_number) - [Stripe Just Wants a Number](https://blog.exe.dev/billable-facts)
@@ -11,12 +14,10 @@
 * [2026-07-31, 04:48:48](https://lobste.rs/s/wixunw/private_data_atproto_permissioned_data) - [Private data in ATProto: Permissioned Data Proposal](https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
 * [2026-07-31, 03:25:32](https://lobste.rs/s/r2dy9y/correlated_rng) - [Correlated RNG](https://knivesforcats.online/correlated-rng/)
 * [2026-07-31, 02:46:22](https://lobste.rs/s/zsq34k/c64_demo_effects_explained_rodents_attic) - [C64 Demo Effects Explained: Rodents In The Attic](https://youtu.be/uZ1atMUOUMU)
-* [2026-07-30, 21:05:48](https://lobste.rs/s/4iadct/new_keyboard_alicjav2) - [New keyboard: Alicjav2](https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/)
 * [2026-07-30, 19:19:14](https://lobste.rs/s/eelfmn/std_io_writer_allocating_ate_all_my_memory) - [std.Io.Writer.Allocating ate all my memory](https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)
 * [2026-07-30, 17:47:22](https://lobste.rs/s/fbqlpy/gcc_steering_committee_announces_ai) - [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
 * [2026-07-30, 16:52:25](https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public) - [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
-* [2026-07-30, 16:08:56](https://lobste.rs/s/3s9cva/scaling_numpy_on_free_threaded_python) - [Scaling NumPy on Free-Threaded Python](https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python)
 * [2026-07-30, 13:57:07](https://lobste.rs/s/wxmi0v/ai_aesthetic) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 * [2026-07-30, 13:41:55](https://lobste.rs/s/01n0ss/universal_approach_mocking_with) - [A universal approach to mocking with continuations](https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/)
 * [2026-07-30, 12:24:16](https://lobste.rs/s/l03yv1/logic_for_programmers) - [Logic for Programmers](https://logicforprogrammers.com/)
@@ -24,7 +25,6 @@
 * [2026-07-30, 07:52:39](https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device) - [deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2026-07-30, 03:47:26](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
 * [2026-07-30, 01:40:31](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) - [What side projects have you enjoyed the most?](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most)
-* [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
 
 ## [Archives](archives/index.md)
 
