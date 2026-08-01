@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-01, 13:27:00](https://lobste.rs/s/tc82u0/wiff) - [wiff](https://wezfurlong.org/wiff/)
 * [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
 * [2026-08-01, 12:05:35](https://lobste.rs/s/jqh3qo/rewriting_supportmail_s_sharding_system) - [Rewriting SupportMail's sharding system](https://supportmail.dev/blog/rewriting-supportmails-sharding-system)
+* [2026-08-01, 09:02:58](https://lobste.rs/s/vawkti/norway_s_first_adventure_games) - [Norway's first adventure games](https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/)
 * [2026-08-01, 07:15:40](https://lobste.rs/s/m0pytv/development_pipeline_is_production) - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 * [2026-08-01, 05:49:28](https://lobste.rs/s/jxqf1w/elevators) - [Elevators](https://john.fun/elevators)
 * [2026-08-01, 02:20:59](https://lobste.rs/s/qpamp4/marionette_deterministic_simulation) - [marionette: deterministic simulation testing library](https://github.com/sb2bg/marionette)
@@ -15,8 +17,6 @@
 * [2026-07-31, 17:26:21](https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend)
 * [2026-07-31, 17:13:16](https://lobste.rs/s/i6e5wp/dead_software_walking_ongoing_evolution) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)
 * [2026-07-31, 16:54:27](https://lobste.rs/s/ecd44o/state_chez_scheme_debian) - [The State of Chez Scheme in Debian](https://weinholt.se/articles/state-of-chezscheme-in-debian/)
-* [2026-07-31, 16:04:41](https://lobste.rs/s/bgr7fh/doom_emacs) - [DOOM, Emacs](https://github.com/minad/doom-on-emacs)
-* [2026-07-31, 15:44:13](https://lobste.rs/s/xieltq/where_env_went_wrong) - [Where .env Went Wrong](https://secretspec.dev/blog/where-env-went-wrong/)
 * [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
 * [2026-07-31, 14:47:21](https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
 * [2026-07-31, 14:35:00](https://lobste.rs/s/8tnxna/methinks_it_is_weasel) - [Methinks it is a weasel](https://diatone.net/methinks)
