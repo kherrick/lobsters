@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 21:11:22](https://lobste.rs/s/tstkqk/llms_won_t_break_symmetric_crypto) - [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
 * [2026-08-01, 20:08:08](https://lobste.rs/s/bu14ht/first_idempotency_key) - [The First Idempotency Key](https://hatchet.run/blog/first-idempotency-key)
 * [2026-08-01, 19:44:40](https://lobste.rs/s/voozor/can_your_calculator_run_linux) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
 * [2026-08-01, 19:39:20](https://lobste.rs/s/t1wy9l/apple_screen_sharing_pre_auth_rce) - [Apple Screen Sharing Pre-Auth RCE](https://warez.sl0p.foo/apple-screensharing-rce/)
