@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-01, 17:57:00](https://lobste.rs/s/pvrnor/netbsd_11_0_released) - [NetBSD 11.0 released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 * [2026-08-01, 15:35:20](https://lobste.rs/s/znf3q8/patch_exploit_out_how_deepsec) - [Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape](http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/)
 * [2026-08-01, 13:27:00](https://lobste.rs/s/tc82u0/wiff) - [wiff](https://wezfurlong.org/wiff/)
 * [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
@@ -23,7 +24,6 @@
 * [2026-07-31, 13:46:11](https://lobste.rs/s/qwytlf/what_double_fork) - [what the double-fork?](https://bower.sh/what-the-double-fork)
 * [2026-07-31, 11:15:54](https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour) - [Go 1.27 interactive tour](https://victoriametrics.com/blog/go-1-27/)
 * [2026-07-31, 10:36:22](https://lobste.rs/s/ri8bav/stripe_just_wants_number) - [Stripe Just Wants a Number](https://blog.exe.dev/billable-facts)
-* [2026-07-31, 09:37:01](https://lobste.rs/s/91tzqg/full_flattening_nested_data_parallelism) - [Full flattening of nested data parallelism](https://futhark-lang.org/blog/2026-07-31-full-flattening.html)
 * [2026-07-31, 05:46:14](https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026) - [How to speed up the Rust compiler in July 2026](https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html)
 
 ## [Archives](archives/index.md)
