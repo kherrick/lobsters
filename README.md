@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-01, 22:47:01](https://lobste.rs/s/ectcmr/resigning_from_arch_linux) - [Resigning from Arch Linux](https://linderud.dev/blog/resigning-from-arch-linux/)
 * [2026-08-01, 21:51:11](https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug) - [Postmortem for Lean Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 * [2026-08-01, 21:11:22](https://lobste.rs/s/tstkqk/llms_won_t_break_symmetric_crypto) - [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
 * [2026-08-01, 20:08:08](https://lobste.rs/s/bu14ht/first_idempotency_key) - [The First Idempotency Key](https://hatchet.run/blog/first-idempotency-key)
@@ -8,7 +9,6 @@
 * [2026-08-01, 19:31:15](https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust) - [An old-new take on argument parsing in Rust](https://jmmv.dev/2026/07/hello-getoptsargs.html)
 * [2026-08-01, 18:39:45](https://lobste.rs/s/6yrhha/what_naur_got_wrong_from_concept_mind) - [What Naur got wrong from The concept of mind](https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind)
 * [2026-08-01, 17:57:00](https://lobste.rs/s/pvrnor/netbsd_11_0_released) - [NetBSD 11.0 released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
-* [2026-08-01, 15:35:20](https://lobste.rs/s/znf3q8/patch_exploit_out_how_deepsec) - [Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape](http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/)
 * [2026-08-01, 13:27:00](https://lobste.rs/s/tc82u0/wiff) - [wiff](https://wezfurlong.org/wiff/)
 * [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
 * [2026-08-01, 09:02:58](https://lobste.rs/s/vawkti/norway_s_first_adventure_games) - [Norway's first adventure games](https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/)
