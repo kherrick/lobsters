@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-07-31, 23:29:26](https://lobste.rs/s/xidxte/rustgrep_structural_grep_for_rust_source) - [rustgrep - structural grep for Rust source](https://radicle.network/nodes/radicle.dpc.pw/rad%3Az3wPTYCEHukxHQNU2fQ2b3eASNw8a)
+* [2026-07-31, 22:43:08](https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever) - [Let's make the worst htmx ever](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-31, 22:03:47](https://lobste.rs/s/0mixjj/arch_linux_disables_aur_package_adoption) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
 * [2026-07-31, 18:57:57](https://lobste.rs/s/8fep9z/interactive_raylib_with_common_lisp) - [Interactive Raylib with Common Lisp](https://www.youtube.com/watch?v=yeJRK_1rS4Y)
 * [2026-07-31, 18:27:28](https://lobste.rs/s/aj7msu/accepting_messy_git_history) - [Accepting a messy git history](https://beza1e1.tuxen.de/git_two_users.html)
@@ -10,7 +11,6 @@
 * [2026-07-31, 17:26:21](https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend)
 * [2026-07-31, 17:13:16](https://lobste.rs/s/i6e5wp/dead_software_walking_ongoing_evolution) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)
 * [2026-07-31, 16:54:27](https://lobste.rs/s/ecd44o/state_chez_scheme_debian) - [The State of Chez Scheme in Debian](https://weinholt.se/articles/state-of-chezscheme-in-debian/)
-* [2026-07-31, 16:04:41](https://lobste.rs/s/bgr7fh/doom_emacs) - [DOOM, Emacs](https://github.com/minad/doom-on-emacs)
 * [2026-07-31, 15:44:13](https://lobste.rs/s/xieltq/where_env_went_wrong) - [Where .env Went Wrong](https://secretspec.dev/blog/where-env-went-wrong/)
 * [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
 * [2026-07-31, 14:47:21](https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
