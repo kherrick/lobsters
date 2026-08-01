@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-01, 15:35:20](https://lobste.rs/s/znf3q8/patch_exploit_out_how_deepsec) - [Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape](http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/)
 * [2026-08-01, 13:27:00](https://lobste.rs/s/tc82u0/wiff) - [wiff](https://wezfurlong.org/wiff/)
 * [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
 * [2026-08-01, 09:02:58](https://lobste.rs/s/vawkti/norway_s_first_adventure_games) - [Norway's first adventure games](https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/)
@@ -10,7 +11,6 @@
 * [2026-07-31, 23:29:26](https://lobste.rs/s/xidxte/rustgrep_structural_grep_for_rust_source) - [rustgrep - structural grep for Rust source](https://radicle.network/nodes/radicle.dpc.pw/rad%3Az3wPTYCEHukxHQNU2fQ2b3eASNw8a)
 * [2026-07-31, 22:43:08](https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever) - [Let's make the worst htmx ever](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-31, 22:03:47](https://lobste.rs/s/0mixjj/arch_linux_disables_aur_package_adoption) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
-* [2026-07-31, 20:23:05](https://lobste.rs/s/ogfqd0/st_rust_drivers) - [ST Rust drivers](https://blog.st.com/rust-mems-drivers/)
 * [2026-07-31, 18:27:28](https://lobste.rs/s/aj7msu/accepting_messy_git_history) - [Accepting a messy git history](https://beza1e1.tuxen.de/git_two_users.html)
 * [2026-07-31, 17:58:24](https://lobste.rs/s/uxsmk6/guix_shell_now_inside_emacs) - [Guix shell now inside Emacs](https://tusharhero.codeberg.page/guix-shell-in-emacs.html)
 * [2026-07-31, 17:48:22](https://lobste.rs/s/nw7rzu/wheels_we_keep_reinventing) - [The Wheels We Keep Reinventing](https://blainsmith.com/articles/reinventing-the-wheel/)

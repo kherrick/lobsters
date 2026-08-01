@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 15:35:20](https://lobste.rs/s/znf3q8/patch_exploit_out_how_deepsec) - [Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape](http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/)
 * [2026-08-01, 13:27:00](https://lobste.rs/s/tc82u0/wiff) - [wiff](https://wezfurlong.org/wiff/)
 * [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
 * [2026-08-01, 12:05:35](https://lobste.rs/s/jqh3qo/rewriting_supportmail_s_sharding_system) - [Rewriting SupportMail's sharding system](https://supportmail.dev/blog/rewriting-supportmails-sharding-system)
