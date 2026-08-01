@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-01, 02:20:59",
+      "https://lobste.rs/s/qpamp4/marionette_deterministic_simulation"
+    ],
+    [
+      "marionette: deterministic simulation testing library",
+      "https://github.com/sb2bg/marionette"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 22:43:08",
       "https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever"
     ],
@@ -237,16 +247,6 @@
     [
       "Stacked pull requests are now in public preview",
       "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 13:57:07",
-      "https://lobste.rs/s/wxmi0v/ai_aesthetic"
-    ],
-    [
-      "The AI Aesthetic",
-      "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
     ]
   ]
 ]
