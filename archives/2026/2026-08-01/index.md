@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-01](index.md)
+
+* [2026-08-01, 02:20:59](https://lobste.rs/s/qpamp4/marionette_deterministic_simulation) - [marionette: deterministic simulation testing library](https://github.com/sb2bg/marionette)

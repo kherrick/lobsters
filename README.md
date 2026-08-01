@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-01, 02:20:59](https://lobste.rs/s/qpamp4/marionette_deterministic_simulation) - [marionette: deterministic simulation testing library](https://github.com/sb2bg/marionette)
 * [2026-07-31, 22:43:08](https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever) - [Let's make the worst htmx ever](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-31, 22:03:47](https://lobste.rs/s/0mixjj/arch_linux_disables_aur_package_adoption) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
 * [2026-07-31, 18:57:57](https://lobste.rs/s/8fep9z/interactive_raylib_with_common_lisp) - [Interactive Raylib with Common Lisp](https://www.youtube.com/watch?v=yeJRK_1rS4Y)
@@ -24,7 +25,6 @@
 * [2026-07-31, 03:25:32](https://lobste.rs/s/r2dy9y/correlated_rng) - [Correlated RNG](https://knivesforcats.online/correlated-rng/)
 * [2026-07-30, 18:06:16](https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with) - [Progress toward compiling Linux with gccrs](https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/)
 * [2026-07-30, 16:52:25](https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public) - [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
-* [2026-07-30, 13:57:07](https://lobste.rs/s/wxmi0v/ai_aesthetic) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ## [Archives](archives/index.md)
 
