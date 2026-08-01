@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-01, 15:35:20",
+      "https://lobste.rs/s/znf3q8/patch_exploit_out_how_deepsec"
+    ],
+    [
+      "Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape",
+      "http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 13:27:00",
       "https://lobste.rs/s/tc82u0/wiff"
     ],
@@ -97,16 +107,6 @@
     [
       "Arch Linux disables AUR package adoption",
       "https://lwn.net/Articles/1086489/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 20:23:05",
-      "https://lobste.rs/s/ogfqd0/st_rust_drivers"
-    ],
-    [
-      "ST Rust drivers",
-      "https://blog.st.com/rust-mems-drivers/"
     ]
   ],
   [
