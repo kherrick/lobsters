@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
 * [2026-08-01, 19:44:40](https://lobste.rs/s/voozor/can_your_calculator_run_linux) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
+* [2026-08-01, 19:39:20](https://lobste.rs/s/t1wy9l/apple_screen_sharing_pre_auth_rce) - [Apple Screen Sharing Pre-Auth RCE](https://warez.sl0p.foo/apple-screensharing-rce/)
 * [2026-08-01, 19:31:15](https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust) - [An old-new take on argument parsing in Rust](https://jmmv.dev/2026/07/hello-getoptsargs.html)
 * [2026-08-01, 18:39:45](https://lobste.rs/s/6yrhha/what_naur_got_wrong_from_concept_mind) - [What Naur got wrong from The concept of mind](https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind)
 * [2026-08-01, 17:57:00](https://lobste.rs/s/pvrnor/netbsd_11_0_released) - [NetBSD 11.0 released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
