@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
 * [2026-08-01, 12:05:35](https://lobste.rs/s/jqh3qo/rewriting_supportmail_s_sharding_system) - [Rewriting SupportMail's sharding system](https://supportmail.dev/blog/rewriting-supportmails-sharding-system)
-* [2026-08-01, 11:06:13](https://lobste.rs/s/l49j1h/we_need_more_than_metaphor_here_are) - [We need more than a metaphor: here are testable diagnostics for comprehension debt](https://www.fightforthehuman.com/we-need-more-than-a-metaphor-here-are-testable-diagnostics-for-comprehension-debt/)
 * [2026-08-01, 07:15:40](https://lobste.rs/s/m0pytv/development_pipeline_is_production) - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 * [2026-08-01, 05:49:28](https://lobste.rs/s/jxqf1w/elevators) - [Elevators](https://john.fun/elevators)
 * [2026-08-01, 02:20:59](https://lobste.rs/s/qpamp4/marionette_deterministic_simulation) - [marionette: deterministic simulation testing library](https://github.com/sb2bg/marionette)
