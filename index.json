@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-01, 21:11:22",
+      "https://lobste.rs/s/tstkqk/llms_won_t_break_symmetric_crypto"
+    ],
+    [
+      "LLMs won't break symmetric crypto",
+      "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 20:08:08",
       "https://lobste.rs/s/bu14ht/first_idempotency_key"
     ],
@@ -237,16 +247,6 @@
     [
       "Go 1.27 interactive tour",
       "https://victoriametrics.com/blog/go-1-27/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 05:46:14",
-      "https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026"
-    ],
-    [
-      "How to speed up the Rust compiler in July 2026",
-      "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html"
     ]
   ]
 ]
