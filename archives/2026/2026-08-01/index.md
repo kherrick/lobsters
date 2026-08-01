@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 18:39:45](https://lobste.rs/s/6yrhha/what_naur_got_wrong_from_concept_mind) - [What Naur got wrong from The concept of mind](https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind)
 * [2026-08-01, 17:57:00](https://lobste.rs/s/pvrnor/netbsd_11_0_released) - [NetBSD 11.0 released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 * [2026-08-01, 15:35:20](https://lobste.rs/s/znf3q8/patch_exploit_out_how_deepsec) - [Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape](http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/)
 * [2026-08-01, 13:27:00](https://lobste.rs/s/tc82u0/wiff) - [wiff](https://wezfurlong.org/wiff/)
