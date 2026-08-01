@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-01, 12:05:35](https://lobste.rs/s/jqh3qo/rewriting_supportmail_s_sharding_system) - [Rewriting SupportMail's sharding system](https://supportmail.dev/blog/rewriting-supportmails-sharding-system)
 * [2026-08-01, 11:06:13](https://lobste.rs/s/l49j1h/we_need_more_than_metaphor_here_are) - [We need more than a metaphor: here are testable diagnostics for comprehension debt](https://www.fightforthehuman.com/we-need-more-than-a-metaphor-here-are-testable-diagnostics-for-comprehension-debt/)
 * [2026-08-01, 07:15:40](https://lobste.rs/s/m0pytv/development_pipeline_is_production) - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 * [2026-08-01, 05:49:28](https://lobste.rs/s/jxqf1w/elevators) - [Elevators](https://john.fun/elevators)
 * [2026-08-01, 02:20:59](https://lobste.rs/s/qpamp4/marionette_deterministic_simulation) - [marionette: deterministic simulation testing library](https://github.com/sb2bg/marionette)
-* [2026-08-01, 01:56:29](https://lobste.rs/s/jlmnnf/ai_considerations_for_people_who_make) - [AI: Considerations for people who make decisions](https://berthub.eu/articles/posts/ai-for-decision-makers/)
 * [2026-07-31, 22:43:08](https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever) - [Let's make the worst htmx ever](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-31, 22:03:47](https://lobste.rs/s/0mixjj/arch_linux_disables_aur_package_adoption) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
 * [2026-07-31, 20:23:05](https://lobste.rs/s/ogfqd0/st_rust_drivers) - [ST Rust drivers](https://blog.st.com/rust-mems-drivers/)

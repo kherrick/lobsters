@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 12:05:35](https://lobste.rs/s/jqh3qo/rewriting_supportmail_s_sharding_system) - [Rewriting SupportMail's sharding system](https://supportmail.dev/blog/rewriting-supportmails-sharding-system)
 * [2026-08-01, 11:06:13](https://lobste.rs/s/l49j1h/we_need_more_than_metaphor_here_are) - [We need more than a metaphor: here are testable diagnostics for comprehension debt](https://www.fightforthehuman.com/we-need-more-than-a-metaphor-here-are-testable-diagnostics-for-comprehension-debt/)
 * [2026-08-01, 08:22:15](https://lobste.rs/s/a1wlwb/i_fired_my_ai_assitant) - [I Fired My AI Assitant](https://chreke.com/posts/i-fired-my-ai-assistant)
 * [2026-08-01, 07:15:40](https://lobste.rs/s/m0pytv/development_pipeline_is_production) - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
