@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-01, 19:39:20",
+      "https://lobste.rs/s/t1wy9l/apple_screen_sharing_pre_auth_rce"
+    ],
+    [
+      "Apple Screen Sharing Pre-Auth RCE",
+      "https://warez.sl0p.foo/apple-screensharing-rce/"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 19:31:15",
       "https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "Go 1.27 interactive tour",
       "https://victoriametrics.com/blog/go-1-27/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 10:36:22",
-      "https://lobste.rs/s/ri8bav/stripe_just_wants_number"
-    ],
-    [
-      "Stripe Just Wants a Number",
-      "https://blog.exe.dev/billable-facts"
     ]
   ],
   [
