@@ -12,7 +12,6 @@
 * [2026-08-01, 07:15:40](https://lobste.rs/s/m0pytv/development_pipeline_is_production) - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 * [2026-08-01, 06:24:20](https://lobste.rs/s/8qv2cy/session_you_cannot_take_with_you) - [The Session You Cannot Take With You](https://earendil.com/posts/session-portability/)
 * [2026-08-01, 05:49:28](https://lobste.rs/s/jxqf1w/elevators) - [Elevators](https://john.fun/elevators)
-* [2026-07-31, 23:29:26](https://lobste.rs/s/xidxte/rustgrep_structural_grep_for_rust_source) - [rustgrep - structural grep for Rust source](https://radicle.network/nodes/radicle.dpc.pw/rad%3Az3wPTYCEHukxHQNU2fQ2b3eASNw8a)
 * [2026-07-31, 22:43:08](https://lobste.rs/s/9yyxpk/let_s_make_worst_htmx_ever) - [Let's make the worst htmx ever](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-31, 22:03:47](https://lobste.rs/s/0mixjj/arch_linux_disables_aur_package_adoption) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
 * [2026-07-31, 18:27:28](https://lobste.rs/s/aj7msu/accepting_messy_git_history) - [Accepting a messy git history](https://beza1e1.tuxen.de/git_two_users.html)
@@ -24,6 +23,7 @@
 * [2026-07-31, 14:47:21](https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
 * [2026-07-31, 13:46:11](https://lobste.rs/s/qwytlf/what_double_fork) - [what the double-fork?](https://bower.sh/what-the-double-fork)
 * [2026-07-31, 11:15:54](https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour) - [Go 1.27 interactive tour](https://victoriametrics.com/blog/go-1-27/)
+* [2026-07-31, 10:36:22](https://lobste.rs/s/ri8bav/stripe_just_wants_number) - [Stripe Just Wants a Number](https://blog.exe.dev/billable-facts)
 * [2026-07-31, 05:46:14](https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026) - [How to speed up the Rust compiler in July 2026](https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html)
 
 ## [Archives](archives/index.md)
