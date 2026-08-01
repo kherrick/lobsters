@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-01, 05:49:28",
+      "https://lobste.rs/s/jxqf1w/elevators"
+    ],
+    [
+      "Elevators",
+      "https://john.fun/elevators"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 02:20:59",
       "https://lobste.rs/s/qpamp4/marionette_deterministic_simulation"
     ],
@@ -27,6 +37,16 @@
     [
       "Arch Linux disables AUR package adoption",
       "https://lwn.net/Articles/1086489/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 20:23:05",
+      "https://lobste.rs/s/ogfqd0/st_rust_drivers"
+    ],
+    [
+      "ST Rust drivers",
+      "https://blog.st.com/rust-mems-drivers/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Correlated RNG",
       "https://knivesforcats.online/correlated-rng/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 18:06:16",
-      "https://lobste.rs/s/cpyuub/progress_toward_compiling_linux_with"
-    ],
-    [
-      "Progress toward compiling Linux with gccrs",
-      "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 16:52:25",
-      "https://lobste.rs/s/pzl6f0/stacked_pull_requests_are_now_public"
-    ],
-    [
-      "Stacked pull requests are now in public preview",
-      "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
     ]
   ]
 ]
