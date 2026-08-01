@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-01, 19:44:40",
+      "https://lobste.rs/s/voozor/can_your_calculator_run_linux"
+    ],
+    [
+      "But can your calculator run Linux?",
+      "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 19:31:15",
+      "https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust"
+    ],
+    [
+      "An old-new take on argument parsing in Rust",
+      "https://jmmv.dev/2026/07/hello-getoptsargs.html"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 18:39:45",
       "https://lobste.rs/s/6yrhha/what_naur_got_wrong_from_concept_mind"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-08-01, 02:20:59",
-      "https://lobste.rs/s/qpamp4/marionette_deterministic_simulation"
-    ],
-    [
-      "marionette: deterministic simulation testing library",
-      "https://github.com/sb2bg/marionette"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 23:29:26",
       "https://lobste.rs/s/xidxte/rustgrep_structural_grep_for_rust_source"
     ],
@@ -167,16 +177,6 @@
     [
       "June in Servo: real world compat, media queries, SharedWorker, and more",
       "https://servo.org/blog/2026/07/31/june-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 17:26:21",
-      "https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/won0b2/what_are_you_doing_this_weekend"
     ]
   ],
   [
