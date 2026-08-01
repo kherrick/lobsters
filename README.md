@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-01, 23:19:19](https://lobste.rs/s/obipgm/week_matrix) - [A week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
 * [2026-08-01, 23:03:19](https://lobste.rs/s/2xyz5h/european_search_perspective) - [European Search Perspective](https://www.eu-searchperspective.com/)
 * [2026-08-01, 22:47:01](https://lobste.rs/s/ectcmr/resigning_from_arch_linux) - [Resigning from Arch Linux](https://linderud.dev/blog/resigning-from-arch-linux/)
 * [2026-08-01, 21:51:11](https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug) - [Postmortem for Lean Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
@@ -20,7 +21,6 @@
 * [2026-07-31, 18:27:28](https://lobste.rs/s/aj7msu/accepting_messy_git_history) - [Accepting a messy git history](https://beza1e1.tuxen.de/git_two_users.html)
 * [2026-07-31, 17:58:24](https://lobste.rs/s/uxsmk6/guix_shell_now_inside_emacs) - [Guix shell now inside Emacs](https://tusharhero.codeberg.page/guix-shell-in-emacs.html)
 * [2026-07-31, 17:48:22](https://lobste.rs/s/nw7rzu/wheels_we_keep_reinventing) - [The Wheels We Keep Reinventing](https://blainsmith.com/articles/reinventing-the-wheel/)
-* [2026-07-31, 17:32:20](https://lobste.rs/s/7tggvc/june_servo_real_world_compat_media) - [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
 * [2026-07-31, 17:13:16](https://lobste.rs/s/i6e5wp/dead_software_walking_ongoing_evolution) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)
 * [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
 * [2026-07-31, 14:47:21](https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)

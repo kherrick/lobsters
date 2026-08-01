@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 23:19:19](https://lobste.rs/s/obipgm/week_matrix) - [A week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
 * [2026-08-01, 23:03:19](https://lobste.rs/s/2xyz5h/european_search_perspective) - [European Search Perspective](https://www.eu-searchperspective.com/)
 * [2026-08-01, 22:47:01](https://lobste.rs/s/ectcmr/resigning_from_arch_linux) - [Resigning from Arch Linux](https://linderud.dev/blog/resigning-from-arch-linux/)
 * [2026-08-01, 21:51:11](https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug) - [Postmortem for Lean Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
