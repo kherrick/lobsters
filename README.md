@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-02, 18:33:03](https://lobste.rs/s/dnjdof/twenty_years_risc_os_open) - [Twenty years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 18:32:34](https://lobste.rs/s/pwarxx/rooting_firmware_analysis_hardcoded) - [The rooting, firmware analysis and hardcoded, reset-persistent credentials of the TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
 * [2026-08-02, 18:28:22](https://lobste.rs/s/jqydry/how_fast_is_c_26_s_std_hive) - [How fast is C++26’s std::hive?](https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/)
@@ -19,7 +20,6 @@
 * [2026-08-01, 23:19:19](https://lobste.rs/s/obipgm/week_matrix) - [A week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
 * [2026-08-01, 22:47:01](https://lobste.rs/s/ectcmr/resigning_from_arch_linux) - [Resigning from Arch Linux](https://linderud.dev/blog/resigning-from-arch-linux/)
 * [2026-08-01, 21:51:11](https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug) - [Postmortem for Lean Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
-* [2026-08-01, 21:11:22](https://lobste.rs/s/tstkqk/llms_won_t_break_symmetric_crypto) - [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
 * [2026-08-01, 19:44:40](https://lobste.rs/s/voozor/can_your_calculator_run_linux) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
 * [2026-08-01, 19:39:20](https://lobste.rs/s/t1wy9l/apple_screen_sharing_pre_auth_rce) - [Apple Screen Sharing Pre-Auth RCE](https://warez.sl0p.foo/apple-screensharing-rce/)
 * [2026-08-01, 19:31:15](https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust) - [An old-new take on argument parsing in Rust](https://jmmv.dev/2026/07/hello-getoptsargs.html)

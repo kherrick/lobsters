@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-02, 18:33:03](https://lobste.rs/s/dnjdof/twenty_years_risc_os_open) - [Twenty years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 18:32:34](https://lobste.rs/s/pwarxx/rooting_firmware_analysis_hardcoded) - [The rooting, firmware analysis and hardcoded, reset-persistent credentials of the TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
 * [2026-08-02, 18:28:22](https://lobste.rs/s/jqydry/how_fast_is_c_26_s_std_hive) - [How fast is C++26’s std::hive?](https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/)
