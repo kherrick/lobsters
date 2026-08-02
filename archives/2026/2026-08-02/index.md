@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 22:30:01](https://lobste.rs/s/2l3r4x/cp_m_386_cp_m_for_386_protected_mode_derived) - [CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K](https://github.com/johnsonjh/cpm386)
 * [2026-08-02, 21:42:40](https://lobste.rs/s/fu3icq/can_you_make_wii_u_gamepad_from_raspberry) - [Can you make a Wii U gamepad from a Raspberry Pi?](https://youtube.com/watch?v=si-TUEwC5_M)
 * [2026-08-02, 21:22:35](https://lobste.rs/s/j65lz5/23_languages_one_i_can_check) - [23 languages, one I can check](https://jva.lol/weblog/23-languages-one-i-can-check/)
+* [2026-08-02, 21:10:35](https://lobste.rs/s/dc9xog/controlling_your_environment_makes_you) - [Controlling Your Environment Makes You Happy (2000)](https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/)
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
+* [2026-08-02, 19:57:24](https://lobste.rs/s/ke2heu/swiftui_after_7_years_story_mediocrity) - [SwiftUI After 7 Years: A Story of Mediocrity: Will it ever stop feeling like a beta?](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
 * [2026-08-02, 18:33:03](https://lobste.rs/s/dnjdof/twenty_years_risc_os_open) - [Twenty years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 18:32:34](https://lobste.rs/s/pwarxx/rooting_firmware_analysis_hardcoded) - [The rooting, firmware analysis and hardcoded, reset-persistent credentials of the TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
 * [2026-08-02, 18:28:22](https://lobste.rs/s/jqydry/how_fast_is_c_26_s_std_hive) - [How fast is C++26’s std::hive?](https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/)
