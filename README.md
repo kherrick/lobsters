@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-02, 00:51:39](https://lobste.rs/s/xcw9eq/fixi_project) - [The Fixi Project](https://fixiproject.org/docs.html)
 * [2026-08-01, 23:19:19](https://lobste.rs/s/obipgm/week_matrix) - [A week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
 * [2026-08-01, 23:03:19](https://lobste.rs/s/2xyz5h/european_search_perspective) - [European Search Perspective](https://www.eu-searchperspective.com/)
 * [2026-08-01, 22:47:01](https://lobste.rs/s/ectcmr/resigning_from_arch_linux) - [Resigning from Arch Linux](https://linderud.dev/blog/resigning-from-arch-linux/)
 * [2026-08-01, 21:51:11](https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug) - [Postmortem for Lean Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 * [2026-08-01, 21:11:22](https://lobste.rs/s/tstkqk/llms_won_t_break_symmetric_crypto) - [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
-* [2026-08-01, 20:08:08](https://lobste.rs/s/bu14ht/first_idempotency_key) - [The First Idempotency Key](https://hatchet.run/blog/first-idempotency-key)
 * [2026-08-01, 19:44:40](https://lobste.rs/s/voozor/can_your_calculator_run_linux) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
 * [2026-08-01, 19:39:20](https://lobste.rs/s/t1wy9l/apple_screen_sharing_pre_auth_rce) - [Apple Screen Sharing Pre-Auth RCE](https://warez.sl0p.foo/apple-screensharing-rce/)
 * [2026-08-01, 19:31:15](https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust) - [An old-new take on argument parsing in Rust](https://jmmv.dev/2026/07/hello-getoptsargs.html)
