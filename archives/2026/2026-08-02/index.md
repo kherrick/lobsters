@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 18:33:03](https://lobste.rs/s/dnjdof/twenty_years_risc_os_open) - [Twenty years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 18:28:22](https://lobste.rs/s/jqydry/how_fast_is_c_26_s_std_hive) - [How fast is C++26’s std::hive?](https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/)
 * [2026-08-02, 18:05:27](https://lobste.rs/s/aqxck3/nativescope_open_source_local_studio_for) - [NativeScope — Open Source local Studio for React Native debugging](https://www.nativescope.dev)
 * [2026-08-02, 17:25:00](https://lobste.rs/s/lbmwvb/getting_started_with_google_wave_2010) - [Getting Started with Google Wave (2010)](https://www.youtube.com/watch?v=eKUAqNGVwX0)

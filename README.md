@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-02, 18:28:22](https://lobste.rs/s/jqydry/how_fast_is_c_26_s_std_hive) - [How fast is C++26’s std::hive?](https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/)
+* [2026-08-02, 18:33:03](https://lobste.rs/s/dnjdof/twenty_years_risc_os_open) - [Twenty years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 17:25:00](https://lobste.rs/s/lbmwvb/getting_started_with_google_wave_2010) - [Getting Started with Google Wave (2010)](https://www.youtube.com/watch?v=eKUAqNGVwX0)
 * [2026-08-02, 13:49:23](https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not) - [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/)
 * [2026-08-02, 13:03:14](https://lobste.rs/s/ki0ge3/guarded_methods_ocaml) - [Guarded methods in OCaml](https://xvw.lol/en/articles/oop-refl.html)
