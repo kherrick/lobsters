@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-02, 11:44:01](https://lobste.rs/s/uw1lfb/where_s_your_website) - [Where's your website?](https://www.arscyni.cc/file/warez_your_website.html)
 * [2026-08-02, 10:31:38](https://lobste.rs/s/ui2vor/prevent_cognitive_debt_by_manually) - [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
 * [2026-08-02, 09:30:48](https://lobste.rs/s/foagiq/mathematics_without_mathematicians) - [Mathematics Without Mathematicians](https://borretti.me/article/mathematics-without-mathematicians)
 * [2026-08-02, 08:35:18](https://lobste.rs/s/7emnqu/epipe_on_write_might_mean_you_re_doing_it) - [EPIPE on write might mean you're doing it wrong](https://rachelbythebay.com/w/2026/07/09/pipe/)
@@ -24,7 +25,6 @@
 * [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
 * [2026-08-01, 09:02:58](https://lobste.rs/s/vawkti/norway_s_first_adventure_games) - [Norway's first adventure games](https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/)
 * [2026-08-01, 05:49:28](https://lobste.rs/s/jxqf1w/elevators) - [Elevators](https://john.fun/elevators)
-* [2026-07-31, 15:02:41](https://lobste.rs/s/kvxee3/why_i_forked_rand) - [Why I forked rand](https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html)
 
 ## [Archives](archives/index.md)
 
