@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 21:42:40](https://lobste.rs/s/fu3icq/can_you_make_wii_u_gamepad_from_raspberry) - [Can you make a Wii U gamepad from a Raspberry Pi?](https://youtube.com/watch?v=si-TUEwC5_M)
 * [2026-08-02, 21:22:35](https://lobste.rs/s/j65lz5/23_languages_one_i_can_check) - [23 languages, one I can check](https://jva.lol/weblog/23-languages-one-i-can-check/)
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-02, 18:33:03](https://lobste.rs/s/dnjdof/twenty_years_risc_os_open) - [Twenty years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
