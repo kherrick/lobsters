@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-02, 02:56:14](https://lobste.rs/s/7ay8gq/mklinux_pimped_out_apple_workgroup) - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
 * [2026-08-02, 00:51:39](https://lobste.rs/s/xcw9eq/fixi_project) - [The Fixi Project](https://fixiproject.org/docs.html)
 * [2026-08-01, 23:19:19](https://lobste.rs/s/obipgm/week_matrix) - [A week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
 * [2026-08-01, 23:03:19](https://lobste.rs/s/2xyz5h/european_search_perspective) - [European Search Perspective](https://www.eu-searchperspective.com/)
@@ -14,7 +15,6 @@
 * [2026-08-01, 13:27:00](https://lobste.rs/s/tc82u0/wiff) - [wiff](https://wezfurlong.org/wiff/)
 * [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
 * [2026-08-01, 09:02:58](https://lobste.rs/s/vawkti/norway_s_first_adventure_games) - [Norway's first adventure games](https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/)
-* [2026-08-01, 07:15:40](https://lobste.rs/s/m0pytv/development_pipeline_is_production) - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 * [2026-08-01, 06:24:20](https://lobste.rs/s/8qv2cy/session_you_cannot_take_with_you) - [The Session You Cannot Take With You](https://earendil.com/posts/session-portability/)
 * [2026-08-01, 05:49:28](https://lobste.rs/s/jxqf1w/elevators) - [Elevators](https://john.fun/elevators)
 * [2026-07-31, 22:03:47](https://lobste.rs/s/0mixjj/arch_linux_disables_aur_package_adoption) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
