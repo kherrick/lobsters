@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 09:30:48](https://lobste.rs/s/foagiq/mathematics_without_mathematicians) - [Mathematics Without Mathematicians](https://borretti.me/article/mathematics-without-mathematicians)
 * [2026-08-02, 08:35:18](https://lobste.rs/s/7emnqu/epipe_on_write_might_mean_you_re_doing_it) - [EPIPE on write might mean you're doing it wrong](https://rachelbythebay.com/w/2026/07/09/pipe/)
 * [2026-08-02, 08:15:04](https://lobste.rs/s/n6rg1c/ten_advances_mathematics_theoretical) - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 * [2026-08-02, 06:57:42](https://lobste.rs/s/ooetqu/twenty_years_bigtable) - [Twenty Years of Bigtable](https://dl.acm.org/doi/pdf/10.1145/3788853.3803095)
