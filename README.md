@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-02, 13:49:23](https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not) - [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/)
 * [2026-08-02, 13:03:14](https://lobste.rs/s/ki0ge3/guarded_methods_ocaml) - [Guarded methods in OCaml](https://xvw.lol/en/articles/oop-refl.html)
 * [2026-08-02, 11:44:01](https://lobste.rs/s/uw1lfb/where_s_your_website) - [Where's your website?](https://www.arscyni.cc/file/warez_your_website.html)
 * [2026-08-02, 10:31:38](https://lobste.rs/s/ui2vor/prevent_cognitive_debt_by_manually) - [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
@@ -20,7 +21,6 @@
 * [2026-08-01, 19:44:40](https://lobste.rs/s/voozor/can_your_calculator_run_linux) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
 * [2026-08-01, 19:39:20](https://lobste.rs/s/t1wy9l/apple_screen_sharing_pre_auth_rce) - [Apple Screen Sharing Pre-Auth RCE](https://warez.sl0p.foo/apple-screensharing-rce/)
 * [2026-08-01, 19:31:15](https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust) - [An old-new take on argument parsing in Rust](https://jmmv.dev/2026/07/hello-getoptsargs.html)
-* [2026-08-01, 18:39:45](https://lobste.rs/s/6yrhha/what_naur_got_wrong_from_concept_mind) - [What Naur got wrong from The concept of mind](https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind)
 * [2026-08-01, 17:57:00](https://lobste.rs/s/pvrnor/netbsd_11_0_released) - [NetBSD 11.0 released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 * [2026-08-01, 13:27:00](https://lobste.rs/s/tc82u0/wiff) - [wiff](https://wezfurlong.org/wiff/)
 * [2026-08-01, 12:34:25](https://lobste.rs/s/72ni5s/test_email_verification_protocol_with) - [Test the Email Verification Protocol with an origin trial](https://developer.chrome.com/blog/email-verification-protocol-origin-trial)
