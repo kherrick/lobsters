@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 17:25:00](https://lobste.rs/s/lbmwvb/getting_started_with_google_wave_2010) - [Getting Started with Google Wave (2010)](https://www.youtube.com/watch?v=eKUAqNGVwX0)
 * [2026-08-02, 13:49:23](https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not) - [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/)
 * [2026-08-02, 13:03:14](https://lobste.rs/s/ki0ge3/guarded_methods_ocaml) - [Guarded methods in OCaml](https://xvw.lol/en/articles/oop-refl.html)
 * [2026-08-02, 11:44:01](https://lobste.rs/s/uw1lfb/where_s_your_website) - [Where's your website?](https://www.arscyni.cc/file/warez_your_website.html)
