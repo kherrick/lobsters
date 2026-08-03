@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-03, 17:35:07](https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 * [2026-08-03, 17:11:41](https://lobste.rs/s/vyy2jf/categorization_with_nlp) - [Categorization with NLP](https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/)
 * [2026-08-03, 16:51:22](https://lobste.rs/s/9nxwpi/sqlite_critical_cves_llm_slop) - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 16:27:45](https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite) - [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I)
@@ -9,6 +10,7 @@
 * [2026-08-03, 14:03:54](https://lobste.rs/s/fse0eh/wireguard_for_plan_9) - [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html)
 * [2026-08-03, 13:49:43](https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic) - [bonsai: A library for building dynamic webapps, using Js_of_ocaml](https://github.com/janestreet/bonsai)
 * [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
+* [2026-08-03, 13:14:24](https://lobste.rs/s/qpubrj/rust_don_t_panic) - [Rust: Don't Panic](https://www.youtube.com/watch?v=usRlRCNIOG0)
 * [2026-08-03, 13:01:53](https://lobste.rs/s/zxhcbu/going_backward) - [Going Backward](https://antonz.org/going-backward/)
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 * [2026-08-03, 10:20:31](https://lobste.rs/s/yy8u9m/kc3_v0_1_17_released) - [KC3 v0.1.17 released](https://www.kmx.io/blog/kc3-v0.1.17-released)
@@ -19,11 +21,9 @@
 * [2026-08-03, 07:02:41](https://lobste.rs/s/yjzexe/practical_memory_safety) - [Practical Memory Safety](https://ohadravid.github.io/posts/2026-08-unsafe-water/)
 * [2026-08-03, 04:34:48](https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released) - [9front \"THIS WAS SUPPOSED TO BE FUN\" Released](https://9front.org/releases/2026/08/02/0/)
 * [2026-08-03, 01:40:30](https://lobste.rs/s/tjgemj/your_json_is_lying_you) - [Your JSON Is Lying to You](https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/)
-* [2026-08-02, 21:10:35](https://lobste.rs/s/dc9xog/controlling_your_environment_makes_you) - [Controlling Your Environment Makes You Happy (2000)](https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/)
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-02, 17:25:00](https://lobste.rs/s/lbmwvb/getting_started_with_google_wave_2010) - [Getting Started with Google Wave (2010)](https://www.youtube.com/watch?v=eKUAqNGVwX0)
 * [2026-08-02, 13:49:23](https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not) - [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/)
-* [2026-08-02, 11:44:01](https://lobste.rs/s/uw1lfb/where_s_your_website) - [Where's your website?](https://www.arscyni.cc/file/warez_your_website.html)
 * [2026-08-02, 04:40:17](https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter) - [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 
 ## [Archives](archives/index.md)
