@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 17:35:07](https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-* [2026-08-03, 17:11:41](https://lobste.rs/s/vyy2jf/categorization_with_nlp) - [Categorization with NLP](https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/)
+* [2026-08-03, 17:16:40](https://lobste.rs/s/3umxr8/future_gnome_boxes) - [The Future of GNOME Boxes](https://blogs.gnome.org/feborges/future-of-boxes/)
 * [2026-08-03, 16:51:22](https://lobste.rs/s/9nxwpi/sqlite_critical_cves_llm_slop) - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 16:27:45](https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite) - [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I)
 * [2026-08-03, 16:01:11](https://lobste.rs/s/ib4tko/projects_i_wouldn_t_use_python_for_2026) - [Projects I Wouldn't Use Python For in 2026](https://menno.io/posts/not-python-2026/)
@@ -24,7 +25,6 @@
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-02, 17:25:00](https://lobste.rs/s/lbmwvb/getting_started_with_google_wave_2010) - [Getting Started with Google Wave (2010)](https://www.youtube.com/watch?v=eKUAqNGVwX0)
 * [2026-08-02, 13:49:23](https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not) - [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/)
-* [2026-08-02, 04:40:17](https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter) - [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 
 ## [Archives](archives/index.md)
 
