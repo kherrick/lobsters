@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-03, 14:20:18",
+      "https://lobste.rs/s/a355zh/help_wanted"
+    ],
+    [
+      "help wanted",
+      "https://lake.computer/blog/help-wanted/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 14:03:54",
+      "https://lobste.rs/s/fse0eh/wireguard_for_plan_9"
+    ],
+    [
+      "Wireguard For Plan 9",
+      "http://shithub.us/moody/wg/HEAD/info.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 13:49:43",
+      "https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic"
+    ],
+    [
+      "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+      "https://github.com/janestreet/bonsai"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 13:41:57",
       "https://lobste.rs/s/rsrjaq/modelling_actors_with_redex_part_i"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-08-03, 11:03:43",
-      "https://lobste.rs/s/ykdhx3/this_month_kde_linux_july_2026"
-    ],
-    [
-      "This Month in KDE Linux: July 2026",
-      "https://blogs.kde.org/2026/08/03/this-month-in-kde-linux-july-2026/"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 10:20:31",
       "https://lobste.rs/s/yy8u9m/kc3_v0_1_17_released"
     ],
@@ -87,16 +107,6 @@
     [
       "Retries don't fix eventual consistency",
       "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 08:23:02",
-      "https://lobste.rs/s/x4mu5m/gleam_for_python_programmers"
-    ],
-    [
-      "Gleam for Python Programmers",
-      "https://third-bit.com/gl4py/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "I'm (mostly) picking models on speed now, not intelligence",
       "https://martinalderson.com/posts/speed-vs-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 13:03:14",
-      "https://lobste.rs/s/ki0ge3/guarded_methods_ocaml"
-    ],
-    [
-      "Guarded methods in OCaml",
-      "https://xvw.lol/en/articles/oop-refl.html"
     ]
   ],
   [
