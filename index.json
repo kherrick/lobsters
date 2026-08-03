@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-08-03, 08:23:02",
-      "https://lobste.rs/s/x4mu5m/gleam_for_python_programmers"
+      "2026-08-03, 07:23:03",
+      "https://lobste.rs/s/sd9ypu/iccf_holland_annual_accounts_2024"
     ],
     [
-      "Gleam for Python Programmers",
-      "https://third-bit.com/gl4py/"
+      "ICCF Holland Annual accounts 2024",
+      "https://iccf-holland.org/jaarrekening2024_EN.pdf"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Don't be a meat proxy",
       "https://gruhn.me/blog/2026-08-03/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 07:02:41",
+      "https://lobste.rs/s/yjzexe/practical_memory_safety"
+    ],
+    [
+      "Practical Memory Safety",
+      "https://ohadravid.github.io/posts/2026-08-unsafe-water/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Resigning from Arch Linux",
       "https://linderud.dev/blog/resigning-from-arch-linux/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 19:31:15",
-      "https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust"
-    ],
-    [
-      "An old-new take on argument parsing in Rust",
-      "https://jmmv.dev/2026/07/hello-getoptsargs.html"
     ]
   ],
   [
