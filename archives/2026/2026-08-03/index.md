@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 16:51:22](https://lobste.rs/s/9nxwpi/sqlite_critical_cves_llm_slop) - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+* [2026-08-03, 15:41:38](https://lobste.rs/s/foxgva/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/foxgva/what_are_you_doing_this_week)
 * [2026-08-03, 14:20:18](https://lobste.rs/s/a355zh/help_wanted) - [help wanted](https://lake.computer/blog/help-wanted/)
 * [2026-08-03, 14:03:54](https://lobste.rs/s/fse0eh/wireguard_for_plan_9) - [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html)
 * [2026-08-03, 13:49:43](https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic) - [bonsai: A library for building dynamic webapps, using Js_of_ocaml](https://github.com/janestreet/bonsai)
