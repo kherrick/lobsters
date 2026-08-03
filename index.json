@@ -71,22 +71,22 @@
   ],
   [
     [
+      "2026-08-03, 13:49:43",
+      "https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic"
+    ],
+    [
+      "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+      "https://github.com/janestreet/bonsai"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 13:31:05",
       "https://lobste.rs/s/aftrcr/kill_cookie_banner"
     ],
     [
       "Kill the Cookie Banner",
       "https://killthecookiebanner.eu/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 13:14:24",
-      "https://lobste.rs/s/qpubrj/rust_don_t_panic"
-    ],
-    [
-      "Rust: Don't Panic",
-      "https://www.youtube.com/watch?v=usRlRCNIOG0"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "Retries don't fix eventual consistency",
       "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 08:23:02",
+      "https://lobste.rs/s/x4mu5m/gleam_for_python_programmers"
+    ],
+    [
+      "Gleam for Python Programmers",
+      "https://third-bit.com/gl4py/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Faster floating point math with Rust’s new API",
       "https://pythonspeed.com/articles/faster-float-math-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 18:28:22",
-      "https://lobste.rs/s/jqydry/how_fast_is_c_26_s_std_hive"
-    ],
-    [
-      "How fast is C++26’s std::hive?",
-      "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/"
     ]
   ],
   [
