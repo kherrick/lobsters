@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-03, 04:34:48",
+      "https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released"
+    ],
+    [
+      "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
+      "https://9front.org/releases/2026/08/02/0/"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 01:40:30",
       "https://lobste.rs/s/tjgemj/your_json_is_lying_you"
     ],
@@ -27,6 +37,16 @@
     [
       "CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K",
       "https://github.com/johnsonjh/cpm386"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 21:42:40",
+      "https://lobste.rs/s/fu3icq/can_you_make_wii_u_gamepad_from_raspberry"
+    ],
+    [
+      "Can you make a Wii U gamepad from a Raspberry Pi?",
+      "https://youtube.com/watch?v=si-TUEwC5_M"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-08-02, 04:09:09",
-      "https://lobste.rs/s/qktajv/flickboard"
-    ],
-    [
-      "FlickBoard",
-      "https://natkr.com/2026-08-02-flickboard/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 02:56:14",
       "https://lobste.rs/s/7ay8gq/mklinux_pimped_out_apple_workgroup"
     ],
@@ -217,16 +227,6 @@
     [
       "Resigning from Arch Linux",
       "https://linderud.dev/blog/resigning-from-arch-linux/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 21:51:11",
-      "https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug"
-    ],
-    [
-      "Postmortem for Lean Kernel Soundness Bug #14576",
-      "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/"
     ]
   ],
   [
