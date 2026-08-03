@@ -7,6 +7,7 @@
 * [2026-08-03, 20:18:36](https://lobste.rs/s/nybi13/asana_s_fascinating_tab_shortcuts) - [Asana’s fascinating Tab shortcuts](https://unsung.aresluna.org/asanas-fascinating-tab-shortcuts/)
 * [2026-08-03, 20:03:21](https://lobste.rs/s/yq49ge/imaging_system_simulation) - [Imaging System Simulation](https://www.amarthchen.com/nerdy-stuff/imaging-system-simulation)
 * [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
+* [2026-08-03, 18:51:41](https://lobste.rs/s/zhfwxt/branchless_rust_making_filter_4x_faster) - [Branchless Rust: Making a Filter 4x Faster by Removing an if](https://www.greyblake.com/blog/branchless-rust/)
 * [2026-08-03, 17:35:07](https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 * [2026-08-03, 17:16:40](https://lobste.rs/s/3umxr8/future_gnome_boxes) - [The Future of GNOME Boxes](https://blogs.gnome.org/feborges/future-of-boxes/)
 * [2026-08-03, 17:11:41](https://lobste.rs/s/vyy2jf/categorization_with_nlp) - [Categorization with NLP](https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/)

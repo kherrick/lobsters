@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
+* [2026-08-03, 18:51:41](https://lobste.rs/s/zhfwxt/branchless_rust_making_filter_4x_faster) - [Branchless Rust: Making a Filter 4x Faster by Removing an if](https://www.greyblake.com/blog/branchless-rust/)
 * [2026-08-03, 17:35:07](https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 * [2026-08-03, 17:16:40](https://lobste.rs/s/3umxr8/future_gnome_boxes) - [The Future of GNOME Boxes](https://blogs.gnome.org/feborges/future-of-boxes/)
 * [2026-08-03, 16:51:22](https://lobste.rs/s/9nxwpi/sqlite_critical_cves_llm_slop) - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
@@ -14,7 +15,6 @@
 * [2026-08-03, 13:14:24](https://lobste.rs/s/qpubrj/rust_don_t_panic) - [Rust: Don't Panic](https://www.youtube.com/watch?v=usRlRCNIOG0)
 * [2026-08-03, 13:01:53](https://lobste.rs/s/zxhcbu/going_backward) - [Going Backward](https://antonz.org/going-backward/)
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
-* [2026-08-03, 10:20:31](https://lobste.rs/s/yy8u9m/kc3_v0_1_17_released) - [KC3 v0.1.17 released](https://www.kmx.io/blog/kc3-v0.1.17-released)
 * [2026-08-03, 10:20:27](https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation) - [Don't Take the Black Pill (Text Adaptation)](https://andrewkelley.me/post/dont-take-black-pill.html)
 * [2026-08-03, 08:36:37](https://lobste.rs/s/t0cn1z/retries_don_t_fix_eventual_consistency) - [Retries don't fix eventual consistency](https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html)
 * [2026-08-03, 08:23:02](https://lobste.rs/s/x4mu5m/gleam_for_python_programmers) - [Gleam for Python Programmers](https://third-bit.com/gl4py/)
