@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 13:14:24](https://lobste.rs/s/qpubrj/rust_don_t_panic) - [Rust: Don't Panic](https://www.youtube.com/watch?v=usRlRCNIOG0)
+* [2026-08-03, 13:01:53](https://lobste.rs/s/zxhcbu/going_backward) - [Going Backward](https://antonz.org/going-backward/)
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 * [2026-08-03, 11:03:43](https://lobste.rs/s/ykdhx3/this_month_kde_linux_july_2026) - [This Month in KDE Linux: July 2026](https://blogs.kde.org/2026/08/03/this-month-in-kde-linux-july-2026/)
 * [2026-08-03, 10:20:31](https://lobste.rs/s/yy8u9m/kc3_v0_1_17_released) - [KC3 v0.1.17 released](https://www.kmx.io/blog/kc3-v0.1.17-released)
