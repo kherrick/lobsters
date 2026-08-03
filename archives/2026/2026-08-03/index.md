@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 22:04:36](https://lobste.rs/s/9biikj/windows_xp_2002_for_itanium_unbridled) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 * [2026-08-03, 20:18:36](https://lobste.rs/s/nybi13/asana_s_fascinating_tab_shortcuts) - [Asana’s fascinating Tab shortcuts](https://unsung.aresluna.org/asanas-fascinating-tab-shortcuts/)
 * [2026-08-03, 20:03:21](https://lobste.rs/s/yq49ge/imaging_system_simulation) - [Imaging System Simulation](https://www.amarthchen.com/nerdy-stuff/imaging-system-simulation)
 * [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)

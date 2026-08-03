@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-03, 22:04:36](https://lobste.rs/s/9biikj/windows_xp_2002_for_itanium_unbridled) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 * [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 18:51:41](https://lobste.rs/s/zhfwxt/branchless_rust_making_filter_4x_faster) - [Branchless Rust: Making a Filter 4x Faster by Removing an if](https://www.greyblake.com/blog/branchless-rust/)
 * [2026-08-03, 17:35:07](https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
@@ -12,7 +13,6 @@
 * [2026-08-03, 14:03:54](https://lobste.rs/s/fse0eh/wireguard_for_plan_9) - [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html)
 * [2026-08-03, 13:49:43](https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic) - [bonsai: A library for building dynamic webapps, using Js_of_ocaml](https://github.com/janestreet/bonsai)
 * [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
-* [2026-08-03, 13:14:24](https://lobste.rs/s/qpubrj/rust_don_t_panic) - [Rust: Don't Panic](https://www.youtube.com/watch?v=usRlRCNIOG0)
 * [2026-08-03, 13:01:53](https://lobste.rs/s/zxhcbu/going_backward) - [Going Backward](https://antonz.org/going-backward/)
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 * [2026-08-03, 10:20:27](https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation) - [Don't Take the Black Pill (Text Adaptation)](https://andrewkelley.me/post/dont-take-black-pill.html)
