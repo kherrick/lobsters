@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 17:11:41](https://lobste.rs/s/vyy2jf/categorization_with_nlp) - [Categorization with NLP](https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/)
 * [2026-08-03, 16:51:22](https://lobste.rs/s/9nxwpi/sqlite_critical_cves_llm_slop) - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+* [2026-08-03, 16:27:45](https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite) - [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I)
+* [2026-08-03, 16:01:11](https://lobste.rs/s/ib4tko/projects_i_wouldn_t_use_python_for_2026) - [Projects I Wouldn't Use Python For in 2026](https://menno.io/posts/not-python-2026/)
 * [2026-08-03, 15:41:38](https://lobste.rs/s/foxgva/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/foxgva/what_are_you_doing_this_week)
 * [2026-08-03, 14:20:18](https://lobste.rs/s/a355zh/help_wanted) - [help wanted](https://lake.computer/blog/help-wanted/)
 * [2026-08-03, 14:03:54](https://lobste.rs/s/fse0eh/wireguard_for_plan_9) - [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html)
