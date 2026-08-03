@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2026-08-03, 13:49:43",
-      "https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic"
-    ],
-    [
-      "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
-      "https://github.com/janestreet/bonsai"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 13:41:57",
-      "https://lobste.rs/s/rsrjaq/modelling_actors_with_redex_part_i"
-    ],
-    [
-      "Modelling Actors with Redex: Part I",
-      "https://eighty-twenty.org/2016/08/18/redex-iswim"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 13:40:01",
       "https://lobste.rs/s/qrrzuo/future_isn_t_evenly_distributed"
     ],
@@ -57,6 +37,16 @@
     [
       "Kill the Cookie Banner",
       "https://killthecookiebanner.eu/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 13:14:24",
+      "https://lobste.rs/s/qpubrj/rust_don_t_panic"
+    ],
+    [
+      "Rust: Don't Panic",
+      "https://www.youtube.com/watch?v=usRlRCNIOG0"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Retries don't fix eventual consistency",
       "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 08:23:02",
+      "https://lobste.rs/s/x4mu5m/gleam_for_python_programmers"
+    ],
+    [
+      "Gleam for Python Programmers",
+      "https://third-bit.com/gl4py/"
     ]
   ],
   [
