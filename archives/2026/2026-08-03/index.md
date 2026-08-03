@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 14:20:18](https://lobste.rs/s/a355zh/help_wanted) - [help wanted](https://lake.computer/blog/help-wanted/)
+* [2026-08-03, 14:03:54](https://lobste.rs/s/fse0eh/wireguard_for_plan_9) - [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html)
+* [2026-08-03, 13:49:43](https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic) - [bonsai: A library for building dynamic webapps, using Js_of_ocaml](https://github.com/janestreet/bonsai)
 * [2026-08-03, 13:41:57](https://lobste.rs/s/rsrjaq/modelling_actors_with_redex_part_i) - [Modelling Actors with Redex: Part I](https://eighty-twenty.org/2016/08/18/redex-iswim)
 * [2026-08-03, 13:40:01](https://lobste.rs/s/qrrzuo/future_isn_t_evenly_distributed) - [The Future Isn’t Evenly Distributed](https://perlhacks.com/2026/08/the-future-isnt-evenly-distributed/)
 * [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
