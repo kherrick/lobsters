@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
+* [2026-08-03, 11:03:43](https://lobste.rs/s/ykdhx3/this_month_kde_linux_july_2026) - [This Month in KDE Linux: July 2026](https://blogs.kde.org/2026/08/03/this-month-in-kde-linux-july-2026/)
 * [2026-08-03, 10:20:31](https://lobste.rs/s/yy8u9m/kc3_v0_1_17_released) - [KC3 v0.1.17 released](https://www.kmx.io/blog/kc3-v0.1.17-released)
 * [2026-08-03, 10:20:27](https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation) - [Don't Take the Black Pill (Text Adaptation)](https://andrewkelley.me/post/dont-take-black-pill.html)
 * [2026-08-03, 08:36:37](https://lobste.rs/s/t0cn1z/retries_don_t_fix_eventual_consistency) - [Retries don't fix eventual consistency](https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html)
