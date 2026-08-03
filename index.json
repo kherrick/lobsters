@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-03, 18:51:41",
+      "https://lobste.rs/s/zhfwxt/branchless_rust_making_filter_4x_faster"
+    ],
+    [
+      "Branchless Rust: Making a Filter 4x Faster by Removing an if",
+      "https://www.greyblake.com/blog/branchless-rust/"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 17:35:07",
       "https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first"
     ],
@@ -137,16 +147,6 @@
     [
       "Rust Project Goals: Immobile types and guaranteed destructors",
       "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 10:20:31",
-      "https://lobste.rs/s/yy8u9m/kc3_v0_1_17_released"
-    ],
-    [
-      "KC3 v0.1.17 released",
-      "https://www.kmx.io/blog/kc3-v0.1.17-released"
     ]
   ],
   [
