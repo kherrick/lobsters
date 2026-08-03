@@ -4,6 +4,7 @@
 * [2026-08-02, 22:30:01](https://lobste.rs/s/2l3r4x/cp_m_386_cp_m_for_386_protected_mode_derived) - [CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K](https://github.com/johnsonjh/cpm386)
 * [2026-08-02, 21:42:40](https://lobste.rs/s/fu3icq/can_you_make_wii_u_gamepad_from_raspberry) - [Can you make a Wii U gamepad from a Raspberry Pi?](https://youtube.com/watch?v=si-TUEwC5_M)
 * [2026-08-02, 21:22:35](https://lobste.rs/s/j65lz5/23_languages_one_i_can_check) - [23 languages, one I can check](https://jva.lol/weblog/23-languages-one-i-can-check/)
+* [2026-08-02, 21:10:35](https://lobste.rs/s/dc9xog/controlling_your_environment_makes_you) - [Controlling Your Environment Makes You Happy (2000)](https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/)
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-02, 18:33:03](https://lobste.rs/s/dnjdof/twenty_years_risc_os_open) - [Twenty years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 18:32:34](https://lobste.rs/s/pwarxx/rooting_firmware_analysis_hardcoded) - [The rooting, firmware analysis and hardcoded, reset-persistent credentials of the TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
@@ -22,7 +23,6 @@
 * [2026-08-02, 02:56:14](https://lobste.rs/s/7ay8gq/mklinux_pimped_out_apple_workgroup) - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
 * [2026-08-01, 22:47:01](https://lobste.rs/s/ectcmr/resigning_from_arch_linux) - [Resigning from Arch Linux](https://linderud.dev/blog/resigning-from-arch-linux/)
 * [2026-08-01, 21:51:11](https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug) - [Postmortem for Lean Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
-* [2026-08-01, 19:44:40](https://lobste.rs/s/voozor/can_your_calculator_run_linux) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
 * [2026-08-01, 19:31:15](https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust) - [An old-new take on argument parsing in Rust](https://jmmv.dev/2026/07/hello-getoptsargs.html)
 * [2026-08-01, 17:57:00](https://lobste.rs/s/pvrnor/netbsd_11_0_released) - [NetBSD 11.0 released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 
