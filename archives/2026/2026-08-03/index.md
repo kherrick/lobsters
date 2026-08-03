@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 13:41:57](https://lobste.rs/s/rsrjaq/modelling_actors_with_redex_part_i) - [Modelling Actors with Redex: Part I](https://eighty-twenty.org/2016/08/18/redex-iswim)
+* [2026-08-03, 13:40:01](https://lobste.rs/s/qrrzuo/future_isn_t_evenly_distributed) - [The Future Isn’t Evenly Distributed](https://perlhacks.com/2026/08/the-future-isnt-evenly-distributed/)
+* [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
 * [2026-08-03, 13:14:24](https://lobste.rs/s/qpubrj/rust_don_t_panic) - [Rust: Don't Panic](https://www.youtube.com/watch?v=usRlRCNIOG0)
 * [2026-08-03, 13:01:53](https://lobste.rs/s/zxhcbu/going_backward) - [Going Backward](https://antonz.org/going-backward/)
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)

@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-03, 13:14:24](https://lobste.rs/s/qpubrj/rust_don_t_panic) - [Rust: Don't Panic](https://www.youtube.com/watch?v=usRlRCNIOG0)
+* [2026-08-03, 13:41:57](https://lobste.rs/s/rsrjaq/modelling_actors_with_redex_part_i) - [Modelling Actors with Redex: Part I](https://eighty-twenty.org/2016/08/18/redex-iswim)
+* [2026-08-03, 13:40:01](https://lobste.rs/s/qrrzuo/future_isn_t_evenly_distributed) - [The Future Isn’t Evenly Distributed](https://perlhacks.com/2026/08/the-future-isnt-evenly-distributed/)
+* [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
 * [2026-08-03, 13:01:53](https://lobste.rs/s/zxhcbu/going_backward) - [Going Backward](https://antonz.org/going-backward/)
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 * [2026-08-03, 11:03:43](https://lobste.rs/s/ykdhx3/this_month_kde_linux_july_2026) - [This Month in KDE Linux: July 2026](https://blogs.kde.org/2026/08/03/this-month-in-kde-linux-july-2026/)
@@ -13,7 +15,6 @@
 * [2026-08-03, 04:34:48](https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released) - [9front \"THIS WAS SUPPOSED TO BE FUN\" Released](https://9front.org/releases/2026/08/02/0/)
 * [2026-08-03, 01:40:30](https://lobste.rs/s/tjgemj/your_json_is_lying_you) - [Your JSON Is Lying to You](https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/)
 * [2026-08-03, 00:13:19](https://lobste.rs/s/whnhpe/anxiety) - [Anxiety](https://olivia.science/anxiety/)
-* [2026-08-02, 22:30:01](https://lobste.rs/s/2l3r4x/cp_m_386_cp_m_for_386_protected_mode_derived) - [CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K](https://github.com/johnsonjh/cpm386)
 * [2026-08-02, 21:10:35](https://lobste.rs/s/dc9xog/controlling_your_environment_makes_you) - [Controlling Your Environment Makes You Happy (2000)](https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/)
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-02, 18:28:22](https://lobste.rs/s/jqydry/how_fast_is_c_26_s_std_hive) - [How fast is C++26’s std::hive?](https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/)
@@ -22,7 +23,6 @@
 * [2026-08-02, 13:03:14](https://lobste.rs/s/ki0ge3/guarded_methods_ocaml) - [Guarded methods in OCaml](https://xvw.lol/en/articles/oop-refl.html)
 * [2026-08-02, 11:44:01](https://lobste.rs/s/uw1lfb/where_s_your_website) - [Where's your website?](https://www.arscyni.cc/file/warez_your_website.html)
 * [2026-08-02, 10:31:38](https://lobste.rs/s/ui2vor/prevent_cognitive_debt_by_manually) - [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
-* [2026-08-02, 08:35:18](https://lobste.rs/s/7emnqu/epipe_on_write_might_mean_you_re_doing_it) - [EPIPE on write might mean you're doing it wrong](https://rachelbythebay.com/w/2026/07/09/pipe/)
 * [2026-08-02, 06:01:51](https://lobste.rs/s/hozhli/sizeof_is_surprisingly_difficult_parse_c) - [sizeof is surprisingly difficult to parse in c](https://sebsite.pw/w/20260802-sizeof.html)
 * [2026-08-02, 04:40:17](https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter) - [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 
