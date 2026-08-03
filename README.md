@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-03, 01:40:30](https://lobste.rs/s/tjgemj/your_json_is_lying_you) - [Your JSON Is Lying to You](https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/)
 * [2026-08-03, 00:13:19](https://lobste.rs/s/whnhpe/anxiety) - [Anxiety](https://olivia.science/anxiety/)
 * [2026-08-02, 22:30:01](https://lobste.rs/s/2l3r4x/cp_m_386_cp_m_for_386_protected_mode_derived) - [CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K](https://github.com/johnsonjh/cpm386)
-* [2026-08-02, 21:42:40](https://lobste.rs/s/fu3icq/can_you_make_wii_u_gamepad_from_raspberry) - [Can you make a Wii U gamepad from a Raspberry Pi?](https://youtube.com/watch?v=si-TUEwC5_M)
 * [2026-08-02, 21:22:35](https://lobste.rs/s/j65lz5/23_languages_one_i_can_check) - [23 languages, one I can check](https://jva.lol/weblog/23-languages-one-i-can-check/)
 * [2026-08-02, 21:10:35](https://lobste.rs/s/dc9xog/controlling_your_environment_makes_you) - [Controlling Your Environment Makes You Happy (2000)](https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/)
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
