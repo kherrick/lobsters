@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-03, 00:13:19](https://lobste.rs/s/whnhpe/anxiety) - [Anxiety](https://olivia.science/anxiety/)
 * [2026-08-02, 22:30:01](https://lobste.rs/s/2l3r4x/cp_m_386_cp_m_for_386_protected_mode_derived) - [CP/M-386: CP/M for 386 protected mode, derived from CP/M-68K](https://github.com/johnsonjh/cpm386)
 * [2026-08-02, 21:42:40](https://lobste.rs/s/fu3icq/can_you_make_wii_u_gamepad_from_raspberry) - [Can you make a Wii U gamepad from a Raspberry Pi?](https://youtube.com/watch?v=si-TUEwC5_M)
 * [2026-08-02, 21:22:35](https://lobste.rs/s/j65lz5/23_languages_one_i_can_check) - [23 languages, one I can check](https://jva.lol/weblog/23-languages-one-i-can-check/)
@@ -19,7 +20,6 @@
 * [2026-08-02, 04:40:17](https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter) - [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 * [2026-08-02, 04:09:09](https://lobste.rs/s/qktajv/flickboard) - [FlickBoard](https://natkr.com/2026-08-02-flickboard/)
 * [2026-08-02, 02:56:14](https://lobste.rs/s/7ay8gq/mklinux_pimped_out_apple_workgroup) - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
-* [2026-08-02, 00:51:39](https://lobste.rs/s/xcw9eq/fixi_project) - [The Fixi Project](https://fixiproject.org/docs.html)
 * [2026-08-01, 22:47:01](https://lobste.rs/s/ectcmr/resigning_from_arch_linux) - [Resigning from Arch Linux](https://linderud.dev/blog/resigning-from-arch-linux/)
 * [2026-08-01, 21:51:11](https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug) - [Postmortem for Lean Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 * [2026-08-01, 19:44:40](https://lobste.rs/s/voozor/can_your_calculator_run_linux) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
