@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-03, 20:18:36](https://lobste.rs/s/nybi13/asana_s_fascinating_tab_shortcuts) - [Asana’s fascinating Tab shortcuts](https://unsung.aresluna.org/asanas-fascinating-tab-shortcuts/)
+* [2026-08-03, 20:03:21](https://lobste.rs/s/yq49ge/imaging_system_simulation) - [Imaging System Simulation](https://www.amarthchen.com/nerdy-stuff/imaging-system-simulation)
 * [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 17:35:07](https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 * [2026-08-03, 17:16:40](https://lobste.rs/s/3umxr8/future_gnome_boxes) - [The Future of GNOME Boxes](https://blogs.gnome.org/feborges/future-of-boxes/)
@@ -7,7 +9,6 @@
 * [2026-08-03, 16:27:45](https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite) - [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I)
 * [2026-08-03, 16:01:11](https://lobste.rs/s/ib4tko/projects_i_wouldn_t_use_python_for_2026) - [Projects I Wouldn't Use Python For in 2026](https://menno.io/posts/not-python-2026/)
 * [2026-08-03, 15:41:38](https://lobste.rs/s/foxgva/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/foxgva/what_are_you_doing_this_week)
-* [2026-08-03, 14:20:18](https://lobste.rs/s/a355zh/help_wanted) - [help wanted](https://lake.computer/blog/help-wanted/)
 * [2026-08-03, 14:03:54](https://lobste.rs/s/fse0eh/wireguard_for_plan_9) - [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html)
 * [2026-08-03, 13:49:43](https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic) - [bonsai: A library for building dynamic webapps, using Js_of_ocaml](https://github.com/janestreet/bonsai)
 * [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
@@ -18,13 +19,12 @@
 * [2026-08-03, 10:20:27](https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation) - [Don't Take the Black Pill (Text Adaptation)](https://andrewkelley.me/post/dont-take-black-pill.html)
 * [2026-08-03, 08:36:37](https://lobste.rs/s/t0cn1z/retries_don_t_fix_eventual_consistency) - [Retries don't fix eventual consistency](https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html)
 * [2026-08-03, 08:23:02](https://lobste.rs/s/x4mu5m/gleam_for_python_programmers) - [Gleam for Python Programmers](https://third-bit.com/gl4py/)
-* [2026-08-03, 07:10:50](https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy) - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
 * [2026-08-03, 07:02:41](https://lobste.rs/s/yjzexe/practical_memory_safety) - [Practical Memory Safety](https://ohadravid.github.io/posts/2026-08-unsafe-water/)
 * [2026-08-03, 04:34:48](https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released) - [9front \"THIS WAS SUPPOSED TO BE FUN\" Released](https://9front.org/releases/2026/08/02/0/)
 * [2026-08-03, 01:40:30](https://lobste.rs/s/tjgemj/your_json_is_lying_you) - [Your JSON Is Lying to You](https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/)
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-02, 17:25:00](https://lobste.rs/s/lbmwvb/getting_started_with_google_wave_2010) - [Getting Started with Google Wave (2010)](https://www.youtube.com/watch?v=eKUAqNGVwX0)
-* [2026-08-02, 13:49:23](https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not) - [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/)
+* [2026-08-02, 04:40:17](https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter) - [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 
 ## [Archives](archives/index.md)
 
