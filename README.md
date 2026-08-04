@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-04, 00:33:37](https://lobste.rs/s/bnqvzf/programmatically_upload_attachments) - [Programmatically upload attachments to GitHub Issues, Pull Requests, and Comments](https://island94.org/2026/08/programmatically-upload-attachments-to-github-issues-pull-requests-comments)
+* [2026-08-03, 22:04:47](https://lobste.rs/s/n2wdnf/dabao_evaluation_board_for_baochip_1x) - [Dabao Evaluation Board for Baochip-1x](https://www.crowdsupply.com/baochip/dabao)
+* [2026-08-03, 22:04:36](https://lobste.rs/s/9biikj/windows_xp_2002_for_itanium_unbridled) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 * [2026-08-03, 21:35:19](https://lobste.rs/s/d1jeag/llms_reward_expertise) - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-* [2026-08-03, 20:18:36](https://lobste.rs/s/nybi13/asana_s_fascinating_tab_shortcuts) - [Asana’s fascinating Tab shortcuts](https://unsung.aresluna.org/asanas-fascinating-tab-shortcuts/)
 * [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 17:35:07](https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 * [2026-08-03, 17:16:40](https://lobste.rs/s/3umxr8/future_gnome_boxes) - [The Future of GNOME Boxes](https://blogs.gnome.org/feborges/future-of-boxes/)
@@ -24,7 +25,6 @@
 * [2026-08-03, 04:34:48](https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released) - [9front \"THIS WAS SUPPOSED TO BE FUN\" Released](https://9front.org/releases/2026/08/02/0/)
 * [2026-08-03, 01:40:30](https://lobste.rs/s/tjgemj/your_json_is_lying_you) - [Your JSON Is Lying to You](https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/)
 * [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
-* [2026-08-02, 13:49:23](https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not) - [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/)
 
 ## [Archives](archives/index.md)
 
