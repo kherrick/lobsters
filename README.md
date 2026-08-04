@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-04, 13:20:25](https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin) - [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
+* [2026-08-04, 13:02:33](https://lobste.rs/s/4w9m07/nix_sandbox_is_hidden_input) - [The Nix sandbox is a hidden input](https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input)
 * [2026-08-04, 12:55:43](https://lobste.rs/s/jtgaol/no_meat_proxy) - [No Meat Proxy](https://nomeatproxy.com/)
 * [2026-08-04, 10:51:46](https://lobste.rs/s/jvgi1u/ffmpeg_9_0) - [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
 * [2026-08-04, 10:32:42](https://lobste.rs/s/fbd5d9/content_management_for_halo_2_beyond_2005) - [Content Management for Halo 2 and Beyond(2005)](https://nikon.bungie.org/misc/gdc2005_mnoguchi/)
@@ -17,7 +18,6 @@
 * [2026-08-03, 16:51:22](https://lobste.rs/s/9nxwpi/sqlite_critical_cves_llm_slop) - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 16:27:45](https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite) - [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I)
 * [2026-08-03, 14:20:18](https://lobste.rs/s/a355zh/help_wanted) - [help wanted](https://lake.computer/blog/help-wanted/)
-* [2026-08-03, 14:03:54](https://lobste.rs/s/fse0eh/wireguard_for_plan_9) - [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html)
 * [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
 * [2026-08-03, 13:01:53](https://lobste.rs/s/zxhcbu/going_backward) - [Going Backward](https://antonz.org/going-backward/)
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
