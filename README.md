@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-04, 15:48:14](https://lobste.rs/s/6gfucn/karpenter_s_consolidation_behaviour_is) - [Karpenter's consolidation behaviour is counter-intuitive](https://blog.appliedcomputing.io/p/karpenters-consolidation-behaviour-5a6)
+* [2026-08-04, 15:20:53](https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on) - [The Lua community needs to learn to move on](https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/)
 * [2026-08-04, 13:20:25](https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin) - [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
 * [2026-08-04, 13:02:33](https://lobste.rs/s/4w9m07/nix_sandbox_is_hidden_input) - [The Nix sandbox is a hidden input](https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input)
 * [2026-08-04, 12:55:43](https://lobste.rs/s/jtgaol/no_meat_proxy) - [No Meat Proxy](https://nomeatproxy.com/)
@@ -11,7 +13,6 @@
 * [2026-08-04, 07:29:43](https://lobste.rs/s/jkv2du/borrowsanitizer) - [BorrowSanitizer](https://borrowsanitizer.com/)
 * [2026-08-04, 06:05:58](https://lobste.rs/s/yw1w8q/shieldfont) - [ShieldFont](https://shieldfont.org/)
 * [2026-08-04, 05:58:15](https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing) - [Soppo - Go, with the features it's missing](https://soppolang.dev/)
-* [2026-08-04, 01:08:29](https://lobste.rs/s/4akuz3/devtools_must_be_open_source) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
 * [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 17:35:07](https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 * [2026-08-03, 17:16:40](https://lobste.rs/s/3umxr8/future_gnome_boxes) - [The Future of GNOME Boxes](https://blogs.gnome.org/feborges/future-of-boxes/)
@@ -19,7 +20,6 @@
 * [2026-08-03, 16:27:45](https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite) - [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I)
 * [2026-08-03, 14:20:18](https://lobste.rs/s/a355zh/help_wanted) - [help wanted](https://lake.computer/blog/help-wanted/)
 * [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
-* [2026-08-03, 13:01:53](https://lobste.rs/s/zxhcbu/going_backward) - [Going Backward](https://antonz.org/going-backward/)
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 * [2026-08-03, 10:20:27](https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation) - [Don't Take the Black Pill (Text Adaptation)](https://andrewkelley.me/post/dont-take-black-pill.html)
 * [2026-08-03, 07:10:50](https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy) - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)

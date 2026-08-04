@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 15:48:14](https://lobste.rs/s/6gfucn/karpenter_s_consolidation_behaviour_is) - [Karpenter's consolidation behaviour is counter-intuitive](https://blog.appliedcomputing.io/p/karpenters-consolidation-behaviour-5a6)
+* [2026-08-04, 15:20:53](https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on) - [The Lua community needs to learn to move on](https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/)
 * [2026-08-04, 13:20:25](https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin) - [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
 * [2026-08-04, 13:02:33](https://lobste.rs/s/4w9m07/nix_sandbox_is_hidden_input) - [The Nix sandbox is a hidden input](https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input)
 * [2026-08-04, 12:55:43](https://lobste.rs/s/jtgaol/no_meat_proxy) - [No Meat Proxy](https://nomeatproxy.com/)
