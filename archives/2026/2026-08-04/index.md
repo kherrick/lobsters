@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 22:21:07](https://lobste.rs/s/ikkudb/we_finally_learned_center_div_then) - [we finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/)
+* [2026-08-04, 21:51:07](https://lobste.rs/s/qsgcgz/don_t_stop_early_case_folding_source_code) - [Don't stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/)
+* [2026-08-04, 21:40:22](https://lobste.rs/s/awdorz/designing_query_system) - [designing a query system](https://bal-e.org/speed/krabby/2026/query-system-design/)
 * [2026-08-04, 20:44:08](https://lobste.rs/s/sekrgs/nixpkgs_has_due_process_problem) - [nixpkgs has a due-process problem](https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/)
+* [2026-08-04, 20:30:17](https://lobste.rs/s/12aef8/irken_tiny_hackable_full_featured_irc) - [irken: A tiny hackable full-featured IRC client](https://codeberg.org/dlowe/irken)
 * [2026-08-04, 20:24:33](https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming) - [Born Against, or why hobby programming communities are aggressively against LLM usage](https://blog.fogus.me/llm/born-against.html)
 * [2026-08-04, 18:31:48](https://lobste.rs/s/qoptbx/security_is_hard_y_all) - [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 * [2026-08-04, 18:20:53](https://lobste.rs/s/illv4o/revised_haskell_2010_language_report) - [A Revised Haskell 2010 Language Report](https://blog.haskell.org/revised-haskell-2010-report/)
