@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 10:23:57](https://lobste.rs/s/98zvnf/tests_for_pdf) - [Tests for a PDF ·](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
 * [2026-08-04, 08:17:45](https://lobste.rs/s/8y2nn8/bibliograph_prototypical_appview_for) - [Bibliograph: A Prototypical AppView for Books](https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047)
+* [2026-08-04, 07:29:43](https://lobste.rs/s/jkv2du/borrowsanitizer) - [BorrowSanitizer](https://borrowsanitizer.com/)
 * [2026-08-04, 06:05:58](https://lobste.rs/s/yw1w8q/shieldfont) - [ShieldFont](https://shieldfont.org/)
 * [2026-08-04, 05:58:15](https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing) - [Soppo - Go, with the features it's missing](https://soppolang.dev/)
 * [2026-08-04, 05:30:36](https://lobste.rs/s/jxaxyo/versatile_pdp_11_70_emulator) - [A Versatile PDP-11/70 Emulator](https://hackaday.com/2026/08/03/a-versatile-pdp-11-70-emulator/)
