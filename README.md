@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-04, 20:44:08](https://lobste.rs/s/sekrgs/nixpkgs_has_due_process_problem) - [nixpkgs has a due-process problem](https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/)
+* [2026-08-04, 20:24:33](https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming) - [Born Against, or why hobby programming communities are aggressively against LLM usage](https://blog.fogus.me/llm/born-against.html)
 * [2026-08-04, 18:31:48](https://lobste.rs/s/qoptbx/security_is_hard_y_all) - [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 * [2026-08-04, 18:20:53](https://lobste.rs/s/illv4o/revised_haskell_2010_language_report) - [A Revised Haskell 2010 Language Report](https://blog.haskell.org/revised-haskell-2010-report/)
 * [2026-08-04, 17:45:15](https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/)
@@ -13,7 +15,6 @@
 * [2026-08-04, 10:51:46](https://lobste.rs/s/jvgi1u/ffmpeg_9_0) - [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
 * [2026-08-04, 10:23:57](https://lobste.rs/s/98zvnf/tests_for_pdf) - [Tests for a PDF](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
 * [2026-08-04, 08:36:43](https://lobste.rs/s/sj5ml2/lisp_99_lines_c_how_write_one_yourself) - [Lisp in 99 Lines of C and How to Write One Yourself](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
-* [2026-08-04, 08:17:45](https://lobste.rs/s/8y2nn8/bibliograph_prototypical_appview_for) - [Bibliograph: A Prototypical AppView for Books](https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047)
 * [2026-08-04, 07:29:43](https://lobste.rs/s/jkv2du/borrowsanitizer) - [BorrowSanitizer](https://borrowsanitizer.com/)
 * [2026-08-04, 06:05:58](https://lobste.rs/s/yw1w8q/shieldfont) - [ShieldFont](https://shieldfont.org/)
 * [2026-08-04, 05:58:15](https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing) - [Soppo - Go, with the features it's missing](https://soppolang.dev/)
@@ -23,7 +24,6 @@
 * [2026-08-03, 16:27:45](https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite) - [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I)
 * [2026-08-03, 14:20:18](https://lobste.rs/s/a355zh/help_wanted) - [help wanted](https://lake.computer/blog/help-wanted/)
 * [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
-* [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 * [2026-08-03, 07:10:50](https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy) - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
 
 ## [Archives](archives/index.md)

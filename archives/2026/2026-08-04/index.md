@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 20:44:08](https://lobste.rs/s/sekrgs/nixpkgs_has_due_process_problem) - [nixpkgs has a due-process problem](https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/)
+* [2026-08-04, 20:24:33](https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming) - [Born Against, or why hobby programming communities are aggressively against LLM usage](https://blog.fogus.me/llm/born-against.html)
 * [2026-08-04, 18:31:48](https://lobste.rs/s/qoptbx/security_is_hard_y_all) - [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 * [2026-08-04, 18:20:53](https://lobste.rs/s/illv4o/revised_haskell_2010_language_report) - [A Revised Haskell 2010 Language Report](https://blog.haskell.org/revised-haskell-2010-report/)
 * [2026-08-04, 17:45:15](https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/)
