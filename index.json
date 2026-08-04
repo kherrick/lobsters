@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-04, 01:08:29",
+      "https://lobste.rs/s/4akuz3/devtools_must_be_open_source"
+    ],
+    [
+      "Devtools must be open source",
+      "https://blog.exe.dev/devtools-must-be-open-source"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 00:33:37",
       "https://lobste.rs/s/bnqvzf/programmatically_upload_attachments"
     ],
@@ -187,16 +197,6 @@
     [
       "Retries don't fix eventual consistency",
       "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 08:23:02",
-      "https://lobste.rs/s/x4mu5m/gleam_for_python_programmers"
-    ],
-    [
-      "Gleam for Python Programmers",
-      "https://third-bit.com/gl4py/"
     ]
   ],
   [
