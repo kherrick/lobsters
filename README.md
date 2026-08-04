@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-04, 01:08:29](https://lobste.rs/s/4akuz3/devtools_must_be_open_source) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
 * [2026-08-04, 00:33:37](https://lobste.rs/s/bnqvzf/programmatically_upload_attachments) - [Programmatically upload attachments to GitHub Issues, Pull Requests, and Comments](https://island94.org/2026/08/programmatically-upload-attachments-to-github-issues-pull-requests-comments)
 * [2026-08-03, 22:04:47](https://lobste.rs/s/n2wdnf/dabao_evaluation_board_for_baochip_1x) - [Dabao Evaluation Board for Baochip-1x](https://www.crowdsupply.com/baochip/dabao)
 * [2026-08-03, 22:04:36](https://lobste.rs/s/9biikj/windows_xp_2002_for_itanium_unbridled) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
@@ -19,7 +20,6 @@
 * [2026-08-03, 11:13:13](https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types) - [Rust Project Goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 * [2026-08-03, 10:20:27](https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation) - [Don't Take the Black Pill (Text Adaptation)](https://andrewkelley.me/post/dont-take-black-pill.html)
 * [2026-08-03, 08:36:37](https://lobste.rs/s/t0cn1z/retries_don_t_fix_eventual_consistency) - [Retries don't fix eventual consistency](https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html)
-* [2026-08-03, 08:23:02](https://lobste.rs/s/x4mu5m/gleam_for_python_programmers) - [Gleam for Python Programmers](https://third-bit.com/gl4py/)
 * [2026-08-03, 07:10:50](https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy) - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
 * [2026-08-03, 07:02:41](https://lobste.rs/s/yjzexe/practical_memory_safety) - [Practical Memory Safety](https://ohadravid.github.io/posts/2026-08-unsafe-water/)
 * [2026-08-03, 04:34:48](https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released) - [9front \"THIS WAS SUPPOSED TO BE FUN\" Released](https://9front.org/releases/2026/08/02/0/)
