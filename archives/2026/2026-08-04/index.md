@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 18:31:48](https://lobste.rs/s/qoptbx/security_is_hard_y_all) - [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
+* [2026-08-04, 18:20:53](https://lobste.rs/s/illv4o/revised_haskell_2010_language_report) - [A Revised Haskell 2010 Language Report](https://blog.haskell.org/revised-haskell-2010-report/)
 * [2026-08-04, 17:45:15](https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/)
 * [2026-08-04, 17:43:22](https://lobste.rs/s/2avtyb/liquid_glass_effect_for_gnu_emacs) - [Liquid Glass effect for GNU/Emacs](https://github.com/larrasket/emacs-liquid-glass)
 * [2026-08-04, 17:06:36](https://lobste.rs/s/dpn8yn/taming_steam_arm64_client_on_pmos) - [Taming the Steam arm64 client (on pmOS)](https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/)
+* [2026-08-04, 15:56:02](https://lobste.rs/s/v5ke0d/eco_friendly_docs) - [Eco-friendly docs](https://starlight.astro.build/environmental-impact/)
 * [2026-08-04, 15:48:14](https://lobste.rs/s/6gfucn/karpenter_s_consolidation_behaviour_is) - [Karpenter's consolidation behaviour is counter-intuitive](https://blog.appliedcomputing.io/p/karpenters-consolidation-behaviour-5a6)
 * [2026-08-04, 15:20:53](https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on) - [The Lua community needs to learn to move on](https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/)
 * [2026-08-04, 13:20:25](https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin) - [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
