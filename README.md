@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-04, 10:32:42](https://lobste.rs/s/fbd5d9/content_management_for_halo_2_beyond_2005) - [Content Management for Halo 2 and Beyond(2005)](https://nikon.bungie.org/misc/gdc2005_mnoguchi/)
 * [2026-08-04, 10:23:57](https://lobste.rs/s/98zvnf/tests_for_pdf) - [Tests for a PDF ·](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
 * [2026-08-04, 08:17:45](https://lobste.rs/s/8y2nn8/bibliograph_prototypical_appview_for) - [Bibliograph: A Prototypical AppView for Books](https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047)
 * [2026-08-04, 07:29:43](https://lobste.rs/s/jkv2du/borrowsanitizer) - [BorrowSanitizer](https://borrowsanitizer.com/)
 * [2026-08-04, 06:05:58](https://lobste.rs/s/yw1w8q/shieldfont) - [ShieldFont](https://shieldfont.org/)
 * [2026-08-04, 05:58:15](https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing) - [Soppo - Go, with the features it's missing](https://soppolang.dev/)
 * [2026-08-04, 01:08:29](https://lobste.rs/s/4akuz3/devtools_must_be_open_source) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
-* [2026-08-03, 22:04:47](https://lobste.rs/s/n2wdnf/dabao_evaluation_board_for_baochip_1x) - [Dabao Evaluation Board for Baochip-1x](https://www.crowdsupply.com/baochip/dabao)
 * [2026-08-03, 22:04:36](https://lobste.rs/s/9biikj/windows_xp_2002_for_itanium_unbridled) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 * [2026-08-03, 21:35:19](https://lobste.rs/s/d1jeag/llms_reward_expertise) - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 * [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
