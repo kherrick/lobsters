@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-04, 20:44:08",
+      "https://lobste.rs/s/sekrgs/nixpkgs_has_due_process_problem"
+    ],
+    [
+      "nixpkgs has a due-process problem",
+      "https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 20:24:33",
+      "https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming"
+    ],
+    [
+      "Born Against, or why hobby programming communities are aggressively against LLM usage",
+      "https://blog.fogus.me/llm/born-against.html"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 18:31:48",
       "https://lobste.rs/s/qoptbx/security_is_hard_y_all"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-08-04, 08:17:45",
-      "https://lobste.rs/s/8y2nn8/bibliograph_prototypical_appview_for"
-    ],
-    [
-      "Bibliograph: A Prototypical AppView for Books",
-      "https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 07:29:43",
       "https://lobste.rs/s/jkv2du/borrowsanitizer"
     ],
@@ -227,16 +237,6 @@
     [
       "Kill the Cookie Banner",
       "https://killthecookiebanner.eu/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 11:13:13",
-      "https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types"
-    ],
-    [
-      "Rust Project Goals: Immobile types and guaranteed destructors",
-      "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
     ]
   ],
   [
