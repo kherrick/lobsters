@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-04, 22:21:07",
+      "https://lobste.rs/s/ikkudb/we_finally_learned_center_div_then"
+    ],
+    [
+      "we finally learned to center a div, then browsers added sidebars",
+      "https://seg6.space/posts/center-div/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 21:51:07",
+      "https://lobste.rs/s/qsgcgz/don_t_stop_early_case_folding_source_code"
+    ],
+    [
+      "Don't stop early: Case-folding source code at memory speed",
+      "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 21:40:22",
+      "https://lobste.rs/s/awdorz/designing_query_system"
+    ],
+    [
+      "designing a query system",
+      "https://bal-e.org/speed/krabby/2026/query-system-design/"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 20:44:08",
       "https://lobste.rs/s/sekrgs/nixpkgs_has_due_process_problem"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-08-04, 20:24:33",
-      "https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming"
+      "2026-08-04, 20:30:17",
+      "https://lobste.rs/s/12aef8/irken_tiny_hackable_full_featured_irc"
     ],
     [
-      "Born Against, or why hobby programming communities are aggressively against LLM usage",
-      "https://blog.fogus.me/llm/born-against.html"
+      "irken: A tiny hackable full-featured IRC client",
+      "https://codeberg.org/dlowe/irken"
     ]
   ],
   [
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2026-08-04, 13:20:25",
-      "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin"
-    ],
-    [
-      "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
-      "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 13:02:33",
       "https://lobste.rs/s/4w9m07/nix_sandbox_is_hidden_input"
     ],
     [
       "The Nix sandbox is a hidden input",
       "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 12:55:43",
-      "https://lobste.rs/s/jtgaol/no_meat_proxy"
-    ],
-    [
-      "No Meat Proxy",
-      "https://nomeatproxy.com/"
     ]
   ],
   [
@@ -151,22 +161,22 @@
   ],
   [
     [
+      "2026-08-04, 08:17:45",
+      "https://lobste.rs/s/8y2nn8/bibliograph_prototypical_appview_for"
+    ],
+    [
+      "Bibliograph: A Prototypical AppView for Books",
+      "https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 07:29:43",
       "https://lobste.rs/s/jkv2du/borrowsanitizer"
     ],
     [
       "BorrowSanitizer",
       "https://borrowsanitizer.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 06:05:58",
-      "https://lobste.rs/s/yw1w8q/shieldfont"
-    ],
-    [
-      "ShieldFont",
-      "https://shieldfont.org/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-08-03, 14:20:18",
-      "https://lobste.rs/s/a355zh/help_wanted"
-    ],
-    [
-      "help wanted",
-      "https://lake.computer/blog/help-wanted/"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 13:31:05",
       "https://lobste.rs/s/aftrcr/kill_cookie_banner"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-08-03, 07:10:50",
-      "https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy"
+      "2026-08-03, 11:13:13",
+      "https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types"
     ],
     [
-      "Don't be a meat proxy",
-      "https://gruhn.me/blog/2026-08-03/"
+      "Rust Project Goals: Immobile types and guaranteed destructors",
+      "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
     ]
   ]
 ]
