@@ -31,22 +31,22 @@
   ],
   [
     [
-      "2026-08-04, 20:44:08",
-      "https://lobste.rs/s/sekrgs/nixpkgs_has_due_process_problem"
-    ],
-    [
-      "nixpkgs has a due-process problem",
-      "https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 20:30:17",
       "https://lobste.rs/s/12aef8/irken_tiny_hackable_full_featured_irc"
     ],
     [
       "irken: A tiny hackable full-featured IRC client",
       "https://codeberg.org/dlowe/irken"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 20:24:33",
+      "https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming"
+    ],
+    [
+      "Born Against, or why hobby programming communities are aggressively against LLM usage",
+      "https://blog.fogus.me/llm/born-against.html"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-08-04, 15:56:02",
-      "https://lobste.rs/s/v5ke0d/eco_friendly_docs"
-    ],
-    [
-      "Eco-friendly docs",
-      "https://starlight.astro.build/environmental-impact/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 15:20:53",
       "https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on"
     ],
@@ -121,12 +111,32 @@
   ],
   [
     [
+      "2026-08-04, 13:20:25",
+      "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin"
+    ],
+    [
+      "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
+      "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 13:02:33",
       "https://lobste.rs/s/4w9m07/nix_sandbox_is_hidden_input"
     ],
     [
       "The Nix sandbox is a hidden input",
       "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 12:55:43",
+      "https://lobste.rs/s/jtgaol/no_meat_proxy"
+    ],
+    [
+      "No Meat Proxy",
+      "https://nomeatproxy.com/"
     ]
   ],
   [
@@ -161,22 +171,22 @@
   ],
   [
     [
-      "2026-08-04, 08:17:45",
-      "https://lobste.rs/s/8y2nn8/bibliograph_prototypical_appview_for"
-    ],
-    [
-      "Bibliograph: A Prototypical AppView for Books",
-      "https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 07:29:43",
       "https://lobste.rs/s/jkv2du/borrowsanitizer"
     ],
     [
       "BorrowSanitizer",
       "https://borrowsanitizer.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 06:05:58",
+      "https://lobste.rs/s/yw1w8q/shieldfont"
+    ],
+    [
+      "ShieldFont",
+      "https://shieldfont.org/"
     ]
   ],
   [
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2026-08-03, 16:51:22",
-      "https://lobste.rs/s/9nxwpi/sqlite_critical_cves_llm_slop"
+      "2026-08-03, 14:20:18",
+      "https://lobste.rs/s/a355zh/help_wanted"
     ],
     [
-      "SQLite Critical CVEs or LLM Slop?",
-      "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 16:27:45",
-      "https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite"
-    ],
-    [
-      "Reliability Lessons From SQLite",
-      "https://www.youtube.com/watch?v=V_qzqY1bb7I"
+      "help wanted",
+      "https://lake.computer/blog/help-wanted/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-08-03, 11:13:13",
-      "https://lobste.rs/s/sp2wji/rust_project_goals_immobile_types"
+      "2026-08-03, 07:10:50",
+      "https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy"
     ],
     [
-      "Rust Project Goals: Immobile types and guaranteed destructors",
-      "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
+      "Don't be a meat proxy",
+      "https://gruhn.me/blog/2026-08-03/"
     ]
   ]
 ]
