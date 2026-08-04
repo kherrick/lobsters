@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-04, 17:45:15",
+      "https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker"
+    ],
+    [
+      "Enabling the next iteration of the borrow checker on nightly",
+      "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 17:43:22",
+      "https://lobste.rs/s/2avtyb/liquid_glass_effect_for_gnu_emacs"
+    ],
+    [
+      "Liquid Glass effect for GNU/Emacs",
+      "https://github.com/larrasket/emacs-liquid-glass"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 17:06:36",
+      "https://lobste.rs/s/dpn8yn/taming_steam_arm64_client_on_pmos"
+    ],
+    [
+      "Taming the Steam arm64 client (on pmOS)",
+      "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 15:48:14",
       "https://lobste.rs/s/6gfucn/karpenter_s_consolidation_behaviour_is"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-08-03, 17:35:07",
-      "https://lobste.rs/s/stoy9n/celebrating_45_years_kermit_with_first"
-    ],
-    [
-      "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 17:16:40",
       "https://lobste.rs/s/3umxr8/future_gnome_boxes"
     ],
@@ -227,26 +247,6 @@
     [
       "Don't be a meat proxy",
       "https://gruhn.me/blog/2026-08-03/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 04:34:48",
-      "https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released"
-    ],
-    [
-      "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
-      "https://9front.org/releases/2026/08/02/0/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 01:40:30",
-      "https://lobste.rs/s/tjgemj/your_json_is_lying_you"
-    ],
-    [
-      "Your JSON Is Lying to You",
-      "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/"
     ]
   ]
 ]
