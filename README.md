@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-04, 06:05:58](https://lobste.rs/s/yw1w8q/shieldfont) - [ShieldFont](https://shieldfont.org/)
+* [2026-08-04, 05:58:15](https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing) - [Soppo - Go, with the features it's missing](https://soppolang.dev/)
+* [2026-08-04, 05:04:39](https://lobste.rs/s/uhk4jp/seekable_oci_lazy_loading_container) - [Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing](https://arxiv.org/abs/2607.06868)
 * [2026-08-04, 01:08:29](https://lobste.rs/s/4akuz3/devtools_must_be_open_source) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
-* [2026-08-04, 00:33:37](https://lobste.rs/s/bnqvzf/programmatically_upload_attachments) - [Programmatically upload attachments to GitHub Issues, Pull Requests, and Comments](https://island94.org/2026/08/programmatically-upload-attachments-to-github-issues-pull-requests-comments)
 * [2026-08-03, 22:04:47](https://lobste.rs/s/n2wdnf/dabao_evaluation_board_for_baochip_1x) - [Dabao Evaluation Board for Baochip-1x](https://www.crowdsupply.com/baochip/dabao)
 * [2026-08-03, 22:04:36](https://lobste.rs/s/9biikj/windows_xp_2002_for_itanium_unbridled) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 * [2026-08-03, 21:35:19](https://lobste.rs/s/d1jeag/llms_reward_expertise) - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
@@ -21,10 +23,8 @@
 * [2026-08-03, 10:20:27](https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation) - [Don't Take the Black Pill (Text Adaptation)](https://andrewkelley.me/post/dont-take-black-pill.html)
 * [2026-08-03, 08:36:37](https://lobste.rs/s/t0cn1z/retries_don_t_fix_eventual_consistency) - [Retries don't fix eventual consistency](https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html)
 * [2026-08-03, 07:10:50](https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy) - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
-* [2026-08-03, 07:02:41](https://lobste.rs/s/yjzexe/practical_memory_safety) - [Practical Memory Safety](https://ohadravid.github.io/posts/2026-08-unsafe-water/)
 * [2026-08-03, 04:34:48](https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released) - [9front \"THIS WAS SUPPOSED TO BE FUN\" Released](https://9front.org/releases/2026/08/02/0/)
 * [2026-08-03, 01:40:30](https://lobste.rs/s/tjgemj/your_json_is_lying_you) - [Your JSON Is Lying to You](https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/)
-* [2026-08-02, 20:27:23](https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new) - [Faster floating point math with Rust’s new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 
 ## [Archives](archives/index.md)
 
