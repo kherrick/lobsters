@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 10:51:46](https://lobste.rs/s/jvgi1u/ffmpeg_9_0) - [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
 * [2026-08-04, 10:32:42](https://lobste.rs/s/fbd5d9/content_management_for_halo_2_beyond_2005) - [Content Management for Halo 2 and Beyond(2005)](https://nikon.bungie.org/misc/gdc2005_mnoguchi/)
 * [2026-08-04, 10:23:57](https://lobste.rs/s/98zvnf/tests_for_pdf) - [Tests for a PDF ·](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
 * [2026-08-04, 08:17:45](https://lobste.rs/s/8y2nn8/bibliograph_prototypical_appview_for) - [Bibliograph: A Prototypical AppView for Books](https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047)

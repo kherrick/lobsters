@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-04, 10:51:46](https://lobste.rs/s/jvgi1u/ffmpeg_9_0) - [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
 * [2026-08-04, 10:32:42](https://lobste.rs/s/fbd5d9/content_management_for_halo_2_beyond_2005) - [Content Management for Halo 2 and Beyond(2005)](https://nikon.bungie.org/misc/gdc2005_mnoguchi/)
-* [2026-08-04, 10:23:57](https://lobste.rs/s/98zvnf/tests_for_pdf) - [Tests for a PDF ·](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
+* [2026-08-04, 10:23:57](https://lobste.rs/s/98zvnf/tests_for_pdf) - [Tests for a PDF](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
 * [2026-08-04, 08:17:45](https://lobste.rs/s/8y2nn8/bibliograph_prototypical_appview_for) - [Bibliograph: A Prototypical AppView for Books](https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047)
 * [2026-08-04, 07:29:43](https://lobste.rs/s/jkv2du/borrowsanitizer) - [BorrowSanitizer](https://borrowsanitizer.com/)
 * [2026-08-04, 06:05:58](https://lobste.rs/s/yw1w8q/shieldfont) - [ShieldFont](https://shieldfont.org/)
@@ -14,7 +15,6 @@
 * [2026-08-03, 17:16:40](https://lobste.rs/s/3umxr8/future_gnome_boxes) - [The Future of GNOME Boxes](https://blogs.gnome.org/feborges/future-of-boxes/)
 * [2026-08-03, 16:51:22](https://lobste.rs/s/9nxwpi/sqlite_critical_cves_llm_slop) - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 16:27:45](https://lobste.rs/s/kprcuc/reliability_lessons_from_sqlite) - [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I)
-* [2026-08-03, 16:01:11](https://lobste.rs/s/ib4tko/projects_i_wouldn_t_use_python_for_2026) - [Projects I Wouldn't Use Python For in 2026](https://menno.io/posts/not-python-2026/)
 * [2026-08-03, 15:41:38](https://lobste.rs/s/foxgva/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/foxgva/what_are_you_doing_this_week)
 * [2026-08-03, 14:20:18](https://lobste.rs/s/a355zh/help_wanted) - [help wanted](https://lake.computer/blog/help-wanted/)
 * [2026-08-03, 14:03:54](https://lobste.rs/s/fse0eh/wireguard_for_plan_9) - [Wireguard For Plan 9](http://shithub.us/moody/wg/HEAD/info.html)
