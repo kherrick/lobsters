@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 18:52:56](https://lobste.rs/s/zlipdn/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much (v2: the interval frontier)](https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/)
+* [2026-08-05, 18:29:28](https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley) - [The \"Disability Dongle\": Why Silicon Valley Hates Me and you](https://sightlessscribbles.com/disability-dongle/)
 * [2026-08-05, 16:57:55](https://lobste.rs/s/zhw8ey/union_summer_2026_update) - [Union: Summer 2026 Update](https://quantumproductions.info/articles/2026-08/union-summer-2026-update)
 * [2026-08-05, 16:54:21](https://lobste.rs/s/uq28a0/why_legendary_erdos_problems_are_falling) - [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
 * [2026-08-05, 16:28:57](https://lobste.rs/s/0j5jx5/c_26_embed) - [C++26: #embed](https://www.sandordargo.com/blog/2026/08/05/cpp26-embed)
