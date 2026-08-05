@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-05, 12:34:15",
+      "https://lobste.rs/s/fgcrj0/offensive_internet_posture"
+    ],
+    [
+      "Offensive Internet Posture",
+      "https://bruceediger.com/posts/offensive-machine/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 12:17:35",
+      "https://lobste.rs/s/wnyesi/nix_overrides_expire_themselves"
+    ],
+    [
+      "Nix Overrides That Expire Themselves",
+      "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 11:04:42",
       "https://lobste.rs/s/zyb2pm/five_point_haskell_unconditional"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-08-04, 18:20:53",
-      "https://lobste.rs/s/illv4o/revised_haskell_2010_language_report"
-    ],
-    [
-      "A Revised Haskell 2010 Language Report",
-      "https://blog.haskell.org/revised-haskell-2010-report/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 17:45:15",
       "https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker"
     ],
@@ -227,16 +237,6 @@
     [
       "Soppo - Go, with the features it's missing",
       "https://soppolang.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 19:44:50",
-      "https://lobste.rs/s/blflqs/twenty_years_pandoc"
-    ],
-    [
-      "Twenty Years of Pandoc",
-      "https://pandoc.org/twenty-years-of-pandoc.html"
     ]
   ],
   [
