@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-08-05, 16:57:55",
-      "https://lobste.rs/s/zhw8ey/union_summer_2026_update"
+      "2026-08-05, 16:54:21",
+      "https://lobste.rs/s/uq28a0/why_legendary_erdos_problems_are_falling"
     ],
     [
-      "Union: Summer 2026 Update",
-      "https://quantumproductions.info/articles/2026-08/union-summer-2026-update"
+      "Why the Legendary Erdős Problems Are Falling to AI",
+      "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 16:28:57",
+      "https://lobste.rs/s/0j5jx5/c_26_embed"
+    ],
+    [
+      "C++26: #embed",
+      "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 16:23:32",
+      "https://lobste.rs/s/1eie3y/how_compiler_explorer_runs_on_aws_2026"
+    ],
+    [
+      "How Compiler Explorer Runs on AWS in 2026",
+      "https://xania.org/202608/how-compiler-explorer-runs-on-aws"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 16:16:10",
+      "https://lobste.rs/s/izdtd6/how_find_bugs_systems_don_t_exist"
+    ],
+    [
+      "How to Find Bugs in Systems That Don't Exist",
+      "https://www.youtube.com/watch?v=zSZkLyD9ILI"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-08-04, 21:51:07",
-      "https://lobste.rs/s/qsgcgz/don_t_stop_early_case_folding_source_code"
-    ],
-    [
-      "Don't stop early: Case-folding source code at memory speed",
-      "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 21:40:22",
       "https://lobste.rs/s/awdorz/designing_query_system"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-08-04, 13:20:25",
-      "https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin"
-    ],
-    [
-      "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
-      "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 13:02:33",
       "https://lobste.rs/s/4w9m07/nix_sandbox_is_hidden_input"
     ],
     [
       "The Nix sandbox is a hidden input",
       "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 10:51:46",
-      "https://lobste.rs/s/jvgi1u/ffmpeg_9_0"
-    ],
-    [
-      "FFmpeg 9.0",
-      "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES"
     ]
   ],
   [
