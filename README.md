@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-05, 16:57:55](https://lobste.rs/s/zhw8ey/union_summer_2026_update) - [Union: Summer 2026 Update](https://quantumproductions.info/articles/2026-08/union-summer-2026-update)
+* [2026-08-05, 15:33:40](https://lobste.rs/s/gk08tu/stop_sending_me_your_errors) - [Stop Sending Me Your Errors](https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html)
 * [2026-08-05, 13:33:16](https://lobste.rs/s/wkujx7/painting_with_gaussians) - [Painting with Gaussians](https://yogthos.net/posts/2026-08-03-splat-painter.html)
 * [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
 * [2026-08-05, 12:17:35](https://lobste.rs/s/wnyesi/nix_overrides_expire_themselves) - [Nix Overrides That Expire Themselves](https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/)
@@ -22,8 +24,6 @@
 * [2026-08-04, 13:20:25](https://lobste.rs/s/culsub/intellij_idea_goes_lsp_java_kotlin) - [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
 * [2026-08-04, 13:02:33](https://lobste.rs/s/4w9m07/nix_sandbox_is_hidden_input) - [The Nix sandbox is a hidden input](https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input)
 * [2026-08-04, 10:51:46](https://lobste.rs/s/jvgi1u/ffmpeg_9_0) - [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
-* [2026-08-04, 10:23:57](https://lobste.rs/s/98zvnf/tests_for_pdf) - [Tests for a PDF](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
-* [2026-08-04, 07:29:43](https://lobste.rs/s/jkv2du/borrowsanitizer) - [BorrowSanitizer](https://borrowsanitizer.com/)
 * [2026-08-04, 05:58:15](https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing) - [Soppo - Go, with the features it's missing](https://soppolang.dev/)
 
 ## [Archives](archives/index.md)

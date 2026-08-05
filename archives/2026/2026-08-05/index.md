@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 16:57:55](https://lobste.rs/s/zhw8ey/union_summer_2026_update) - [Union: Summer 2026 Update](https://quantumproductions.info/articles/2026-08/union-summer-2026-update)
+* [2026-08-05, 15:33:40](https://lobste.rs/s/gk08tu/stop_sending_me_your_errors) - [Stop Sending Me Your Errors](https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html)
 * [2026-08-05, 13:33:16](https://lobste.rs/s/wkujx7/painting_with_gaussians) - [Painting with Gaussians](https://yogthos.net/posts/2026-08-03-splat-painter.html)
 * [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
 * [2026-08-05, 12:17:35](https://lobste.rs/s/wnyesi/nix_overrides_expire_themselves) - [Nix Overrides That Expire Themselves](https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/)
