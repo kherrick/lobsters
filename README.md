@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-05, 20:45:57](https://lobste.rs/s/mgr9lc/vision_for_cargo) - [A Vision for Cargo](https://epage.github.io/blog/2026/08/cargo-vision/)
+* [2026-08-05, 20:07:39](https://lobste.rs/s/qamm7j/i_built_blog_forgot_write) - [I Built a Blog and Forgot to Write](https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/)
+* [2026-08-05, 19:54:59](https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with) - [Proxmox officially supports Arm, with some caveats](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/)
 * [2026-08-05, 18:52:56](https://lobste.rs/s/zlipdn/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much (v2: the interval frontier)](https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/)
 * [2026-08-05, 18:29:28](https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley) - [The \"Disability Dongle\": Why Silicon Valley Hates Me and you](https://sightlessscribbles.com/disability-dongle/)
 * [2026-08-05, 16:54:21](https://lobste.rs/s/uq28a0/why_legendary_erdos_problems_are_falling) - [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
@@ -14,8 +17,6 @@
 * [2026-08-05, 10:37:51](https://lobste.rs/s/31hk9y/faster_than_ninja) - [Faster Than Ninja](https://build2.org/blog/faster-than-ninja.xhtml)
 * [2026-08-05, 06:55:36](https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy) - [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 * [2026-08-05, 02:25:51](https://lobste.rs/s/6ohotl/nehir_tiling_window_manager_for_macos) - [Nehir: a tiling window manager for macOS](https://github.com/apphane-dev/nehir)
-* [2026-08-05, 01:00:04](https://lobste.rs/s/rqjjkq/godel_escher_elisp_beauty_macros) - [Gödel, Escher, Elisp: The Beauty of Macros](https://www.chiply.dev/post-elisp-macros-are-beautiful)
-* [2026-08-04, 23:55:05](https://lobste.rs/s/dvswet/amelie_2023) - [Amélie (2023)](https://www.maxhaesslein.de/visual/objects/amelie/)
 * [2026-08-04, 22:21:07](https://lobste.rs/s/ikkudb/we_finally_learned_center_div_then) - [we finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/)
 * [2026-08-04, 21:40:22](https://lobste.rs/s/awdorz/designing_query_system) - [designing a query system](https://bal-e.org/speed/krabby/2026/query-system-design/)
 * [2026-08-04, 20:30:17](https://lobste.rs/s/12aef8/irken_tiny_hackable_full_featured_irc) - [irken: A tiny hackable full-featured IRC client](https://codeberg.org/dlowe/irken)
@@ -24,7 +25,6 @@
 * [2026-08-04, 17:45:15](https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/)
 * [2026-08-04, 17:43:22](https://lobste.rs/s/2avtyb/liquid_glass_effect_for_gnu_emacs) - [Liquid Glass effect for GNU/Emacs](https://github.com/larrasket/emacs-liquid-glass)
 * [2026-08-04, 15:20:53](https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on) - [The Lua community needs to learn to move on](https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/)
-* [2026-08-04, 05:58:15](https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing) - [Soppo - Go, with the features it's missing](https://soppolang.dev/)
 
 ## [Archives](archives/index.md)
 
