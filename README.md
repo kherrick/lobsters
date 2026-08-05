@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-05, 22:02:11](https://lobste.rs/s/tmpokv/ai_models_shock_uk_testers_by_using_fake) - [AI models shock UK testers by using fake identities to try to trick developers](https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute)
 * [2026-08-05, 20:45:57](https://lobste.rs/s/mgr9lc/vision_for_cargo) - [A Vision for Cargo](https://epage.github.io/blog/2026/08/cargo-vision/)
 * [2026-08-05, 20:07:39](https://lobste.rs/s/qamm7j/i_built_blog_forgot_write) - [I Built a Blog and Forgot to Write](https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/)
 * [2026-08-05, 19:54:59](https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with) - [Proxmox officially supports Arm, with some caveats](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/)
@@ -13,7 +14,6 @@
 * [2026-08-05, 13:33:16](https://lobste.rs/s/wkujx7/painting_with_gaussians) - [Painting with Gaussians](https://yogthos.net/posts/2026-08-03-splat-painter.html)
 * [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
 * [2026-08-05, 12:17:35](https://lobste.rs/s/wnyesi/nix_overrides_expire_themselves) - [Nix Overrides That Expire Themselves](https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/)
-* [2026-08-05, 11:04:42](https://lobste.rs/s/zyb2pm/five_point_haskell_unconditional) - [\"Five-Point Haskell\": Unconditional Election via Parametricity](https://blog.jle.im/entry/five-point-haskell-part-2-unconditional-election.html)
 * [2026-08-05, 10:37:51](https://lobste.rs/s/31hk9y/faster_than_ninja) - [Faster Than Ninja](https://build2.org/blog/faster-than-ninja.xhtml)
 * [2026-08-05, 06:55:36](https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy) - [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 * [2026-08-05, 02:25:51](https://lobste.rs/s/6ohotl/nehir_tiling_window_manager_for_macos) - [Nehir: a tiling window manager for macOS](https://github.com/apphane-dev/nehir)
