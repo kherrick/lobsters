@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
+* [2026-08-05, 12:17:35](https://lobste.rs/s/wnyesi/nix_overrides_expire_themselves) - [Nix Overrides That Expire Themselves](https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/)
 * [2026-08-05, 11:04:42](https://lobste.rs/s/zyb2pm/five_point_haskell_unconditional) - [\"Five-Point Haskell\": Unconditional Election via Parametricity](https://blog.jle.im/entry/five-point-haskell-part-2-unconditional-election.html)
 * [2026-08-05, 10:37:51](https://lobste.rs/s/31hk9y/faster_than_ninja) - [Faster Than Ninja](https://build2.org/blog/faster-than-ninja.xhtml)
 * [2026-08-05, 06:55:36](https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy) - [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
@@ -12,7 +14,6 @@
 * [2026-08-04, 20:30:17](https://lobste.rs/s/12aef8/irken_tiny_hackable_full_featured_irc) - [irken: A tiny hackable full-featured IRC client](https://codeberg.org/dlowe/irken)
 * [2026-08-04, 20:24:33](https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming) - [Born Against, or why hobby programming communities are aggressively against LLM usage](https://blog.fogus.me/llm/born-against.html)
 * [2026-08-04, 18:31:48](https://lobste.rs/s/qoptbx/security_is_hard_y_all) - [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
-* [2026-08-04, 18:20:53](https://lobste.rs/s/illv4o/revised_haskell_2010_language_report) - [A Revised Haskell 2010 Language Report](https://blog.haskell.org/revised-haskell-2010-report/)
 * [2026-08-04, 17:45:15](https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/)
 * [2026-08-04, 17:43:22](https://lobste.rs/s/2avtyb/liquid_glass_effect_for_gnu_emacs) - [Liquid Glass effect for GNU/Emacs](https://github.com/larrasket/emacs-liquid-glass)
 * [2026-08-04, 17:06:36](https://lobste.rs/s/dpn8yn/taming_steam_arm64_client_on_pmos) - [Taming the Steam arm64 client (on pmOS)](https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/)
@@ -23,7 +24,6 @@
 * [2026-08-04, 10:23:57](https://lobste.rs/s/98zvnf/tests_for_pdf) - [Tests for a PDF](https://blog.lvmbdv.dev/posts/tests-for-a-pdf/)
 * [2026-08-04, 07:29:43](https://lobste.rs/s/jkv2du/borrowsanitizer) - [BorrowSanitizer](https://borrowsanitizer.com/)
 * [2026-08-04, 05:58:15](https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing) - [Soppo - Go, with the features it's missing](https://soppolang.dev/)
-* [2026-08-03, 19:44:50](https://lobste.rs/s/blflqs/twenty_years_pandoc) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 13:31:05](https://lobste.rs/s/aftrcr/kill_cookie_banner) - [Kill the Cookie Banner](https://killthecookiebanner.eu/)
 
 ## [Archives](archives/index.md)
