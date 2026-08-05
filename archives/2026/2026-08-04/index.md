@@ -7,6 +7,7 @@
 * [2026-08-04, 23:55:05](https://lobste.rs/s/dvswet/amelie_2023) - [Amélie (2023)](https://www.maxhaesslein.de/visual/objects/amelie/)
 * [2026-08-04, 23:39:55](https://lobste.rs/s/eoqrje/add_html_details_element_allowed_comment) - [Add html <details> element to allowed comment syntax](https://lobste.rs/s/eoqrje/add_html_details_element_allowed_comment)
 * [2026-08-04, 22:21:07](https://lobste.rs/s/ikkudb/we_finally_learned_center_div_then) - [we finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/)
+* [2026-08-04, 22:08:18](https://lobste.rs/s/q7oa04/anti_fascist_piefed_features) - [Anti-fascist PieFed features](https://join.piefed.social/2026/08/04/anti-fascist-piefed-features/)
 * [2026-08-04, 21:51:07](https://lobste.rs/s/qsgcgz/don_t_stop_early_case_folding_source_code) - [Don't stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/)
 * [2026-08-04, 21:40:22](https://lobste.rs/s/awdorz/designing_query_system) - [designing a query system](https://bal-e.org/speed/krabby/2026/query-system-design/)
 * [2026-08-04, 20:44:08](https://lobste.rs/s/sekrgs/nixpkgs_has_due_process_problem) - [nixpkgs has a due-process problem](https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/)
