@@ -5,6 +5,10 @@
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
 * [2026-08-05, 16:57:55](https://lobste.rs/s/zhw8ey/union_summer_2026_update) - [Union: Summer 2026 Update](https://quantumproductions.info/articles/2026-08/union-summer-2026-update)
+* [2026-08-05, 16:54:21](https://lobste.rs/s/uq28a0/why_legendary_erdos_problems_are_falling) - [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+* [2026-08-05, 16:28:57](https://lobste.rs/s/0j5jx5/c_26_embed) - [C++26: #embed](https://www.sandordargo.com/blog/2026/08/05/cpp26-embed)
+* [2026-08-05, 16:23:32](https://lobste.rs/s/1eie3y/how_compiler_explorer_runs_on_aws_2026) - [How Compiler Explorer Runs on AWS in 2026](https://xania.org/202608/how-compiler-explorer-runs-on-aws)
+* [2026-08-05, 16:16:10](https://lobste.rs/s/izdtd6/how_find_bugs_systems_don_t_exist) - [How to Find Bugs in Systems That Don't Exist](https://www.youtube.com/watch?v=zSZkLyD9ILI)
 * [2026-08-05, 15:33:40](https://lobste.rs/s/gk08tu/stop_sending_me_your_errors) - [Stop Sending Me Your Errors](https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html)
 * [2026-08-05, 13:33:16](https://lobste.rs/s/wkujx7/painting_with_gaussians) - [Painting with Gaussians](https://yogthos.net/posts/2026-08-03-splat-painter.html)
 * [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
