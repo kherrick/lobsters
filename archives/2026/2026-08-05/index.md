@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 13:33:16](https://lobste.rs/s/wkujx7/painting_with_gaussians) - [Painting with Gaussians](https://yogthos.net/posts/2026-08-03-splat-painter.html)
 * [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
 * [2026-08-05, 12:17:35](https://lobste.rs/s/wnyesi/nix_overrides_expire_themselves) - [Nix Overrides That Expire Themselves](https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/)
 * [2026-08-05, 11:04:42](https://lobste.rs/s/zyb2pm/five_point_haskell_unconditional) - [\"Five-Point Haskell\": Unconditional Election via Parametricity](https://blog.jle.im/entry/five-point-haskell-part-2-unconditional-election.html)
