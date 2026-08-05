@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 23:55:05](https://lobste.rs/s/dvswet/amelie_2023) - [Amélie (2023)](https://www.maxhaesslein.de/visual/objects/amelie/)
 * [2026-08-04, 22:21:07](https://lobste.rs/s/ikkudb/we_finally_learned_center_div_then) - [we finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/)
 * [2026-08-04, 21:51:07](https://lobste.rs/s/qsgcgz/don_t_stop_early_case_folding_source_code) - [Don't stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/)
 * [2026-08-04, 21:40:22](https://lobste.rs/s/awdorz/designing_query_system) - [designing a query system](https://bal-e.org/speed/krabby/2026/query-system-design/)

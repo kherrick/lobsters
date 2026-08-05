@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-05](index.md)
+
+* [2026-08-05, 02:25:51](https://lobste.rs/s/6ohotl/nehir_tiling_window_manager_for_macos) - [Nehir: a tiling window manager for macOS](https://github.com/apphane-dev/nehir)
