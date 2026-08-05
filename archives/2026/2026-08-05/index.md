@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 22:23:42](https://lobste.rs/s/8cxvb2/symbolics_opengenera_go_free_for_non) - [Symbolics OpenGenera to go free for non-commercial use](https://hachyderm.io/@gmpalter/117044268951603975)
 * [2026-08-05, 22:02:11](https://lobste.rs/s/tmpokv/ai_models_shock_uk_testers_by_using_fake) - [AI models shock UK testers by using fake identities to try to trick developers](https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute)
 * [2026-08-05, 20:45:57](https://lobste.rs/s/mgr9lc/vision_for_cargo) - [A Vision for Cargo](https://epage.github.io/blog/2026/08/cargo-vision/)
 * [2026-08-05, 20:07:39](https://lobste.rs/s/qamm7j/i_built_blog_forgot_write) - [I Built a Blog and Forgot to Write](https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/)
