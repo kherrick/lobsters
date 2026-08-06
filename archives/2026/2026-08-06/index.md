@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-06](index.md)
+
+* [2026-08-06, 01:45:51](https://lobste.rs/s/l9jtnl/gnu_hurd_news_2026_q2) - [GNU Hurd news 2026-q2](https://www.gnu.org/software/hurd/news/2026-q2.html)

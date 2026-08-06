@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-06, 01:45:51](https://lobste.rs/s/l9jtnl/gnu_hurd_news_2026_q2) - [GNU Hurd news 2026-q2](https://www.gnu.org/software/hurd/news/2026-q2.html)
+* [2026-08-05, 23:58:56](https://lobste.rs/s/gblmih/mote_command) - [mote command](https://pkg.go.dev/rsc.io/cmd/mote)
 * [2026-08-05, 22:23:42](https://lobste.rs/s/8cxvb2/symbolics_opengenera_go_free_for_non) - [Symbolics OpenGenera to go free for non-commercial use](https://hachyderm.io/@gmpalter/117044268951603975)
 * [2026-08-05, 22:02:11](https://lobste.rs/s/tmpokv/ai_models_shock_uk_testers_by_using_fake) - [AI models shock UK testers by using fake identities to try to trick developers](https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute)
 * [2026-08-05, 20:45:57](https://lobste.rs/s/mgr9lc/vision_for_cargo) - [A Vision for Cargo](https://epage.github.io/blog/2026/08/cargo-vision/)
 * [2026-08-05, 20:07:39](https://lobste.rs/s/qamm7j/i_built_blog_forgot_write) - [I Built a Blog and Forgot to Write](https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/)
 * [2026-08-05, 19:54:59](https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with) - [Proxmox officially supports Arm, with some caveats](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/)
-* [2026-08-05, 18:52:56](https://lobste.rs/s/zlipdn/your_agentic_workflow_s_cache_keepalive) - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much (v2: the interval frontier)](https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/)
 * [2026-08-05, 18:29:28](https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley) - [The \"Disability Dongle\": Why Silicon Valley Hates Me and you](https://sightlessscribbles.com/disability-dongle/)
 * [2026-08-05, 16:54:21](https://lobste.rs/s/uq28a0/why_legendary_erdos_problems_are_falling) - [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
 * [2026-08-05, 16:28:57](https://lobste.rs/s/0j5jx5/c_26_embed) - [C++26: #embed](https://www.sandordargo.com/blog/2026/08/05/cpp26-embed)
@@ -23,7 +24,6 @@
 * [2026-08-04, 20:24:33](https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming) - [Born Against, or why hobby programming communities are aggressively against LLM usage](https://blog.fogus.me/llm/born-against.html)
 * [2026-08-04, 18:31:48](https://lobste.rs/s/qoptbx/security_is_hard_y_all) - [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 * [2026-08-04, 17:45:15](https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/)
-* [2026-08-04, 17:43:22](https://lobste.rs/s/2avtyb/liquid_glass_effect_for_gnu_emacs) - [Liquid Glass effect for GNU/Emacs](https://github.com/larrasket/emacs-liquid-glass)
 * [2026-08-04, 15:20:53](https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on) - [The Lua community needs to learn to move on](https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/)
 
 ## [Archives](archives/index.md)
