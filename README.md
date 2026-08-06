@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-06, 11:37:30](https://lobste.rs/s/o8ttys/following_is_valid_dos_com_executable) - [The following is a valid DOS COM executable](https://oldbytes.space/@gloriouscow/117045701876951834)
 * [2026-08-06, 09:17:43](https://lobste.rs/s/osw0v8/fiddler_web_debugger_2026) - [Fiddler Web Debugger in 2026](https://textslashplain.com/2026/08/05/fiddler-in-2026/)
+* [2026-08-06, 09:07:07](https://lobste.rs/s/mfiyoy/anthropic_ai_created_fake_profiles) - [Anthropic AI created fake profiles to deceive people in attempted hack](https://www.bbc.co.uk/news/articles/c1w1lvn7d9go)
+* [2026-08-06, 09:03:51](https://lobste.rs/s/xx83dr/jujutsu_0_44_0) - [jujutsu 0.44.0](https://github.com/jj-vcs/jj/releases/tag/v0.44.0)
 * [2026-08-06, 08:11:35](https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos) - [i wonder if you could make a useful DOS executable with just emoji](https://oldbytes.space/@gloriouscow/117044736309312697)
 * [2026-08-06, 07:10:03](https://lobste.rs/s/8bxp8n/finally_adding_recursive_functions) - [Finally adding recursive functions to Futhark](https://futhark-lang.org/blog/2026-08-05-recursion.html)
 * [2026-08-06, 05:41:02](https://lobste.rs/s/zubbzq/on_building_scalable_control_planes) - [On building scalable control planes](https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html)
@@ -14,7 +17,6 @@
 * [2026-08-05, 19:54:59](https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with) - [Proxmox officially supports Arm, with some caveats](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/)
 * [2026-08-05, 18:29:28](https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley) - [The \"Disability Dongle\": Why Silicon Valley Hates Me and you](https://sightlessscribbles.com/disability-dongle/)
 * [2026-08-05, 16:28:57](https://lobste.rs/s/0j5jx5/c_26_embed) - [C++26: #embed](https://www.sandordargo.com/blog/2026/08/05/cpp26-embed)
-* [2026-08-05, 16:16:10](https://lobste.rs/s/izdtd6/how_find_bugs_systems_don_t_exist) - [How to Find Bugs in Systems That Don't Exist](https://www.youtube.com/watch?v=zSZkLyD9ILI)
 * [2026-08-05, 15:33:40](https://lobste.rs/s/gk08tu/stop_sending_me_your_errors) - [Stop Sending Me Your Errors](https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html)
 * [2026-08-05, 13:33:16](https://lobste.rs/s/wkujx7/painting_with_gaussians) - [Painting with Gaussians](https://yogthos.net/posts/2026-08-03-splat-painter.html)
 * [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
@@ -23,8 +25,6 @@
 * [2026-08-05, 06:55:36](https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy) - [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 * [2026-08-04, 20:24:33](https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming) - [Born Against, or why hobby programming communities are aggressively against LLM usage](https://blog.fogus.me/llm/born-against.html)
 * [2026-08-04, 18:31:48](https://lobste.rs/s/qoptbx/security_is_hard_y_all) - [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
-* [2026-08-04, 17:45:15](https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/)
-* [2026-08-04, 15:20:53](https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on) - [The Lua community needs to learn to move on](https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/)
 
 ## [Archives](archives/index.md)
 
