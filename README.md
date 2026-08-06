@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-06, 13:23:03](https://lobste.rs/s/j8ytwa/how_make_nintendo_64_game_2026) - [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
 * [2026-08-06, 12:44:26](https://lobste.rs/s/titphm/setup_simple_web_server_with_bozohttpd_on) - [Setup a simple web server with bozohttpd on NetBSD](https://bozo.httpd.rocks/)
 * [2026-08-06, 12:09:42](https://lobste.rs/s/qls9sm/luajit_nyi_silently_poisoned_unrelated) - [The LuaJIT NYI That Silently Poisoned an Unrelated Hot Loop](https://streamhpc.com/blog/2026-08-05/the-luajit-nyi-that-silently-poisoned-an-unrelated-hot-loop/)
 * [2026-08-06, 11:37:30](https://lobste.rs/s/o8ttys/following_is_valid_dos_com_executable) - [The following is a valid DOS COM executable](https://oldbytes.space/@gloriouscow/117045701876951834)
@@ -24,7 +25,6 @@
 * [2026-08-05, 12:17:35](https://lobste.rs/s/wnyesi/nix_overrides_expire_themselves) - [Nix Overrides That Expire Themselves](https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/)
 * [2026-08-05, 10:37:51](https://lobste.rs/s/31hk9y/faster_than_ninja) - [Faster Than Ninja](https://build2.org/blog/faster-than-ninja.xhtml)
 * [2026-08-05, 06:55:36](https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy) - [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
-* [2026-08-04, 18:31:48](https://lobste.rs/s/qoptbx/security_is_hard_y_all) - [Security is Hard, Y’all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 
 ## [Archives](archives/index.md)
 
