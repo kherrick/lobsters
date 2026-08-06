@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-06, 05:41:02",
+      "https://lobste.rs/s/zubbzq/on_building_scalable_control_planes"
+    ],
+    [
+      "On building scalable control planes",
+      "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 04:44:44",
+      "https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny"
+    ],
+    [
+      "python string literals are kinda funny",
+      "https://sebsite.pw/w/20260806-pystrings.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 04:42:01",
+      "https://lobste.rs/s/3btbfb/comu_fits_144mhz_ch32v203_risc_v_board"
+    ],
+    [
+      "Comu Fits a 144MHz CH32V203 RISC-V Board Inside a USB-A Port",
+      "https://linuxgizmos.com/comu-fits-a-144mhz-ch32v203-risc-v-board-inside-a-usb-a-port/"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 01:45:51",
       "https://lobste.rs/s/l9jtnl/gnu_hurd_news_2026_q2"
     ],
@@ -27,16 +57,6 @@
     [
       "Symbolics OpenGenera to go free for non-commercial use",
       "https://hachyderm.io/@gmpalter/117044268951603975"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 22:02:11",
-      "https://lobste.rs/s/tmpokv/ai_models_shock_uk_testers_by_using_fake"
-    ],
-    [
-      "AI models shock UK testers by using fake identities to try to trick developers",
-      "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "we finally learned to center a div, then browsers added sidebars",
       "https://seg6.space/posts/center-div/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 21:40:22",
-      "https://lobste.rs/s/awdorz/designing_query_system"
-    ],
-    [
-      "designing a query system",
-      "https://bal-e.org/speed/krabby/2026/query-system-design/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 20:30:17",
-      "https://lobste.rs/s/12aef8/irken_tiny_hackable_full_featured_irc"
-    ],
-    [
-      "irken: A tiny hackable full-featured IRC client",
-      "https://codeberg.org/dlowe/irken"
     ]
   ],
   [
