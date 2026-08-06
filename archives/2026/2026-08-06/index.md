@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-06](index.md)
 
+* [2026-08-06, 12:44:26](https://lobste.rs/s/titphm/setup_simple_web_server_with_bozohttpd_on) - [Setup a simple web server with bozohttpd on NetBSD](https://bozo.httpd.rocks/)
+* [2026-08-06, 12:09:42](https://lobste.rs/s/qls9sm/luajit_nyi_silently_poisoned_unrelated) - [The LuaJIT NYI That Silently Poisoned an Unrelated Hot Loop](https://streamhpc.com/blog/2026-08-05/the-luajit-nyi-that-silently-poisoned-an-unrelated-hot-loop/)
 * [2026-08-06, 11:37:30](https://lobste.rs/s/o8ttys/following_is_valid_dos_com_executable) - [The following is a valid DOS COM executable](https://oldbytes.space/@gloriouscow/117045701876951834)
+* [2026-08-06, 11:22:20](https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874) - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
+* [2026-08-06, 11:11:52](https://lobste.rs/s/uwaoor/3d_svg_renderer_projects_textures) - [a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
 * [2026-08-06, 09:17:43](https://lobste.rs/s/osw0v8/fiddler_web_debugger_2026) - [Fiddler Web Debugger in 2026](https://textslashplain.com/2026/08/05/fiddler-in-2026/)
 * [2026-08-06, 09:07:07](https://lobste.rs/s/mfiyoy/anthropic_ai_created_fake_profiles) - [Anthropic AI created fake profiles to deceive people in attempted hack](https://www.bbc.co.uk/news/articles/c1w1lvn7d9go)
 * [2026-08-06, 09:03:51](https://lobste.rs/s/xx83dr/jujutsu_0_44_0) - [jujutsu 0.44.0](https://github.com/jj-vcs/jj/releases/tag/v0.44.0)
