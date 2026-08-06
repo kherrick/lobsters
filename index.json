@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-06, 12:44:26",
+      "https://lobste.rs/s/titphm/setup_simple_web_server_with_bozohttpd_on"
+    ],
+    [
+      "Setup a simple web server with bozohttpd on NetBSD",
+      "https://bozo.httpd.rocks/"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 12:09:42",
+      "https://lobste.rs/s/qls9sm/luajit_nyi_silently_poisoned_unrelated"
+    ],
+    [
+      "The LuaJIT NYI That Silently Poisoned an Unrelated Hot Loop",
+      "https://streamhpc.com/blog/2026-08-05/the-luajit-nyi-that-silently-poisoned-an-unrelated-hot-loop/"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 11:37:30",
       "https://lobste.rs/s/o8ttys/following_is_valid_dos_com_executable"
     ],
@@ -11,22 +31,32 @@
   ],
   [
     [
+      "2026-08-06, 11:22:20",
+      "https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874"
+    ],
+    [
+      "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+      "https://bobdahacker.com/blog/tldv-hack"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 11:11:52",
+      "https://lobste.rs/s/uwaoor/3d_svg_renderer_projects_textures"
+    ],
+    [
+      "a 3D SVG Renderer that projects textures without rasterization",
+      "https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 09:17:43",
       "https://lobste.rs/s/osw0v8/fiddler_web_debugger_2026"
     ],
     [
       "Fiddler Web Debugger in 2026",
       "https://textslashplain.com/2026/08/05/fiddler-in-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 09:07:07",
-      "https://lobste.rs/s/mfiyoy/anthropic_ai_created_fake_profiles"
-    ],
-    [
-      "Anthropic AI created fake profiles to deceive people in attempted hack",
-      "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-08-05, 19:54:59",
-      "https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with"
-    ],
-    [
-      "Proxmox officially supports Arm, with some caveats",
-      "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 18:29:28",
       "https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley"
     ],
@@ -167,16 +187,6 @@
     [
       "C++26: #embed",
       "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 15:33:40",
-      "https://lobste.rs/s/gk08tu/stop_sending_me_your_errors"
-    ],
-    [
-      "Stop Sending Me Your Errors",
-      "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "rust-lang/rust is adopting an LLM policy",
       "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 20:24:33",
-      "https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming"
-    ],
-    [
-      "Born Against, or why hobby programming communities are aggressively against LLM usage",
-      "https://blog.fogus.me/llm/born-against.html"
     ]
   ],
   [
