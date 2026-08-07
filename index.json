@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-08-07, 21:15:01",
-      "https://lobste.rs/s/65iyha/wyzer_wyzer_programming_language"
+      "2026-08-07, 21:22:54",
+      "https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters"
     ],
     [
-      "wyzer: The Wyzer Programming Language",
-      "https://github.com/Wyzer-Lang/wyzer"
+      "social media rabbit holes, clusters, and the relative mixing times of random walks",
+      "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html"
     ]
   ],
   [
     [
-      "2026-08-07, 21:10:37",
-      "https://lobste.rs/s/pe58bh/concurrency_vs_throughput_why_more"
+      "2026-08-07, 20:45:10",
+      "https://lobste.rs/s/ufvii3/repsych_psychological_warfare_reverse"
     ],
     [
-      "Concurrency vs. Throughput: why more parallelism can make databases slower",
-      "https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql"
+      "REpsych: Psychological warfare in reverse engineering",
+      "https://github.com/xoreaxeaxeax/repsych"
     ]
   ],
   [
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-08-07, 13:43:48",
+      "https://lobste.rs/s/51xpm8/almost_consensus_abd_edges_quorum"
+    ],
+    [
+      "Almost consensus: ABD and the edges of quorum replication",
+      "https://theconsensus.dev/p/2026/08/02/almost-consensus.html"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 10:54:46",
       "https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle"
     ],
@@ -97,16 +107,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 09:36:35",
-      "https://lobste.rs/s/3tlse7/what_is_product"
-    ],
-    [
-      "What is a product?",
-      "https://rogix.dev/what-is-a-product"
     ]
   ],
   [
