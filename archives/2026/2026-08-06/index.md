@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-06](index.md)
 
+* [2026-08-06, 22:37:07](https://lobste.rs/s/rkh2ux/ai_generated_vulnerability_patches) - [AI-generated vulnerability patches require human review](https://1password.com/blog/why-ai-generated-patches-still-require-human-review)
 * [2026-08-06, 22:27:33](https://lobste.rs/s/psnmvz/super_mario_derivations) - [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations)
 * [2026-08-06, 22:21:00](https://lobste.rs/s/hd7qxs/celld_durable_objects_self_hosted) - [celld — Durable Objects, self-hosted](https://celld.dev/)
 * [2026-08-06, 21:33:45](https://lobste.rs/s/rn4inr/web_server_deployment_model_breaks_at) - [the web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
