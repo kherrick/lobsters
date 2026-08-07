@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-07, 15:24:58](https://lobste.rs/s/rn8uva/software_understanding_sciences_is) - [Software Understanding in the Sciences is Really Uneven](https://lobste.rs/s/rn8uva/software_understanding_sciences_is)
 * [2026-08-07, 14:44:34](https://lobste.rs/s/9jwbty/ai_university) - [AI & The University](https://www.youtube.com/watch?v=ZUk2TKZIo7s)
 * [2026-08-07, 14:02:47](https://lobste.rs/s/gycikc/how_device_finds_encrypted_dns_by_itself) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
@@ -20,7 +21,6 @@
 * [2026-08-06, 13:23:03](https://lobste.rs/s/j8ytwa/how_make_nintendo_64_game_2026) - [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
 * [2026-08-06, 13:22:19](https://lobste.rs/s/4qfkrz/taste_is_all_s_left) - [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
 * [2026-08-06, 12:44:26](https://lobste.rs/s/titphm/setup_simple_web_server_with_bozohttpd_on) - [Setup a simple web server with bozohttpd on NetBSD](https://bozo.httpd.rocks/)
-* [2026-08-06, 11:37:30](https://lobste.rs/s/o8ttys/following_is_valid_dos_com_executable) - [The following is a valid DOS COM executable](https://oldbytes.space/@gloriouscow/117045701876951834)
 * [2026-08-06, 11:22:20](https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874) - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
 * [2026-08-06, 09:03:51](https://lobste.rs/s/xx83dr/jujutsu_0_44_0) - [jujutsu 0.44.0](https://github.com/jj-vcs/jj/releases/tag/v0.44.0)
 * [2026-08-06, 08:11:35](https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos) - [i wonder if you could make a useful DOS executable with just emoji](https://oldbytes.space/@gloriouscow/117044736309312697)

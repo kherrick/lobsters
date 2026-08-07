@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 15:24:58](https://lobste.rs/s/rn8uva/software_understanding_sciences_is) - [Software Understanding in the Sciences is Really Uneven](https://lobste.rs/s/rn8uva/software_understanding_sciences_is)
 * [2026-08-07, 15:07:58](https://lobste.rs/s/kuchy5/new_model_for_source_control_by_alcides) - [A new model for source control  by Alcides Fonseca](https://wiki.alcidesfonseca.com/blog/a-new-model-for-source-control/)
 * [2026-08-07, 14:44:34](https://lobste.rs/s/9jwbty/ai_university) - [AI & The University](https://www.youtube.com/watch?v=ZUk2TKZIo7s)
 * [2026-08-07, 14:02:47](https://lobste.rs/s/gycikc/how_device_finds_encrypted_dns_by_itself) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
