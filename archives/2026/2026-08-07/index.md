@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 21:22:54](https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters) - [social media rabbit holes, clusters, and the relative mixing times of random walks](https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html)
 * [2026-08-07, 21:15:01](https://lobste.rs/s/65iyha/wyzer_wyzer_programming_language) - [wyzer: The Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)
 * [2026-08-07, 21:10:37](https://lobste.rs/s/pe58bh/concurrency_vs_throughput_why_more) - [Concurrency vs. Throughput: why more parallelism can make databases slower](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql)
+* [2026-08-07, 20:45:10](https://lobste.rs/s/ufvii3/repsych_psychological_warfare_reverse) - [REpsych: Psychological warfare in reverse engineering](https://github.com/xoreaxeaxeax/repsych)
 * [2026-08-07, 20:29:37](https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu) - [Assembly Hall of Shame: Racing to the bottom of CPU performance](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 19:47:10](https://lobste.rs/s/puodea/thoroughly_understanding_c_abi) - [Thoroughly Understanding C++ ABI](https://www.ykiko.me/en/articles/692886292/)
 * [2026-08-07, 19:44:27](https://lobste.rs/s/cccby7/domain_specific_hyperspecialization) - [Domain-specific hyperspecialization (for SAT)](https://c.mov/lymphosat/)
@@ -15,6 +17,7 @@
 * [2026-08-07, 15:07:58](https://lobste.rs/s/kuchy5/new_model_for_source_control_by_alcides) - [A new model for source control  by Alcides Fonseca](https://wiki.alcidesfonseca.com/blog/a-new-model-for-source-control/)
 * [2026-08-07, 14:44:34](https://lobste.rs/s/9jwbty/ai_university) - [AI & The University](https://www.youtube.com/watch?v=ZUk2TKZIo7s)
 * [2026-08-07, 14:02:47](https://lobste.rs/s/gycikc/how_device_finds_encrypted_dns_by_itself) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
+* [2026-08-07, 13:43:48](https://lobste.rs/s/51xpm8/almost_consensus_abd_edges_quorum) - [Almost consensus: ABD and the edges of quorum replication](https://theconsensus.dev/p/2026/08/02/almost-consensus.html)
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
 * [2026-08-07, 10:39:24](https://lobste.rs/s/ed9llx/informing_http_extension_design_with) - [Informing HTTP Extension Design with Data](https://mnot.net/blog/2026/linting_the_web)
 * [2026-08-07, 10:34:37](https://lobste.rs/s/8ozwml/notes_compound_blogs_compile_when_i) - [Notes Compound, Blogs Compile: When I Update a Note vs. Publish a Post](https://www.ssp.sh/brain/sharing-as-second-brain-note-vs-a-blog-post/)
