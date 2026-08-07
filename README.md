@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-07, 04:26:26](https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park) - [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
 * [2026-08-07, 01:18:25](https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling) - [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
 * [2026-08-07, 00:36:39](https://lobste.rs/s/6i4a3w/i_got_1998_cd_rom_world_atlas_running_on) - [I got a 1998 CD-ROM world atlas running on Windows 11](https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i)
 * [2026-08-06, 22:37:07](https://lobste.rs/s/rkh2ux/ai_generated_vulnerability_patches) - [AI-generated vulnerability patches require human review](https://1password.com/blog/why-ai-generated-patches-still-require-human-review)
@@ -22,7 +23,6 @@
 * [2026-08-06, 04:44:44](https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny) - [python string literals are kinda funny](https://sebsite.pw/w/20260806-pystrings.html)
 * [2026-08-06, 01:45:51](https://lobste.rs/s/l9jtnl/gnu_hurd_news_2026_q2) - [GNU Hurd news 2026-q2](https://www.gnu.org/software/hurd/news/2026-q2.html)
 * [2026-08-05, 20:45:57](https://lobste.rs/s/mgr9lc/vision_for_cargo) - [A Vision for Cargo](https://epage.github.io/blog/2026/08/cargo-vision/)
-* [2026-08-05, 18:29:28](https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley) - [The \"Disability Dongle\": Why Silicon Valley Hates Me and you](https://sightlessscribbles.com/disability-dongle/)
 * [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
 * [2026-08-05, 06:55:36](https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy) - [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 
