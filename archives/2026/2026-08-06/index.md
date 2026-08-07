@@ -4,7 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-06](index.md)
 
+* [2026-08-06, 22:27:33](https://lobste.rs/s/psnmvz/super_mario_derivations) - [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations)
+* [2026-08-06, 22:21:00](https://lobste.rs/s/hd7qxs/celld_durable_objects_self_hosted) - [celld — Durable Objects, self-hosted](https://celld.dev/)
+* [2026-08-06, 21:33:45](https://lobste.rs/s/rn4inr/web_server_deployment_model_breaks_at) - [the web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
+* [2026-08-06, 20:12:06](https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat) - [Zig's Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
+* [2026-08-06, 19:01:58](https://lobste.rs/s/vfnwot/cl_forth_forth_2012_standard_cl) - [cl-forth: Forth 2012 Standard in CL](https://github.com/gmpalter/cl-forth)
+* [2026-08-06, 17:47:12](https://lobste.rs/s/9ofzvx/crubit_c_rust_bidirectional_interop_tool) - [Crubit, C++/Rust Bidirectional Interop Tool](https://crubit.rs)
+* [2026-08-06, 17:31:28](https://lobste.rs/s/2hatf3/zapscape_guest_host_escape_kvm_x86) - [Zapscape - Guest to host escape in KVM/x86](https://github.com/V4bel/Zapscape)
+* [2026-08-06, 15:47:45](https://lobste.rs/s/bmnusu/schrodingers_toctou_binary_you_run_is_not) - [schrodingers-toctou: The binary you run is not the program you wrote](https://github.com/xoreaxeaxeax/schrodingers-toctou)
 * [2026-08-06, 13:23:03](https://lobste.rs/s/j8ytwa/how_make_nintendo_64_game_2026) - [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
+* [2026-08-06, 13:22:19](https://lobste.rs/s/4qfkrz/taste_is_all_s_left) - [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
 * [2026-08-06, 12:44:26](https://lobste.rs/s/titphm/setup_simple_web_server_with_bozohttpd_on) - [Setup a simple web server with bozohttpd on NetBSD](https://bozo.httpd.rocks/)
 * [2026-08-06, 12:09:42](https://lobste.rs/s/qls9sm/luajit_nyi_silently_poisoned_unrelated) - [The LuaJIT NYI That Silently Poisoned an Unrelated Hot Loop](https://streamhpc.com/blog/2026-08-05/the-luajit-nyi-that-silently-poisoned-an-unrelated-hot-loop/)
 * [2026-08-06, 11:37:30](https://lobste.rs/s/o8ttys/following_is_valid_dos_com_executable) - [The following is a valid DOS COM executable](https://oldbytes.space/@gloriouscow/117045701876951834)
