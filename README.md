@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
+* [2026-08-07, 10:39:24](https://lobste.rs/s/ed9llx/informing_http_extension_design_with) - [Informing HTTP Extension Design with Data](https://mnot.net/blog/2026/linting_the_web)
 * [2026-08-07, 09:38:13](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend)
 * [2026-08-07, 09:36:35](https://lobste.rs/s/3tlse7/what_is_product) - [What is a product?](https://rogix.dev/what-is-a-product)
 * [2026-08-07, 08:25:17](https://lobste.rs/s/hhuk8a/some_ways_navigate_through_git_blame_over) - [Some ways to navigate through 'git blame' over time in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime)
@@ -16,7 +17,6 @@
 * [2026-08-06, 20:12:06](https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat) - [Zig's Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
 * [2026-08-06, 19:01:58](https://lobste.rs/s/vfnwot/cl_forth_forth_2012_standard_cl) - [cl-forth: Forth 2012 Standard in CL](https://github.com/gmpalter/cl-forth)
 * [2026-08-06, 17:47:12](https://lobste.rs/s/9ofzvx/crubit_c_rust_bidirectional_interop_tool) - [Crubit, C++/Rust Bidirectional Interop Tool](https://crubit.rs)
-* [2026-08-06, 15:47:45](https://lobste.rs/s/bmnusu/schrodingers_toctou_binary_you_run_is_not) - [schrodingers-toctou: The binary you run is not the program you wrote](https://github.com/xoreaxeaxeax/schrodingers-toctou)
 * [2026-08-06, 13:23:03](https://lobste.rs/s/j8ytwa/how_make_nintendo_64_game_2026) - [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
 * [2026-08-06, 13:22:19](https://lobste.rs/s/4qfkrz/taste_is_all_s_left) - [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
 * [2026-08-06, 12:44:26](https://lobste.rs/s/titphm/setup_simple_web_server_with_bozohttpd_on) - [Setup a simple web server with bozohttpd on NetBSD](https://bozo.httpd.rocks/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
+* [2026-08-07, 10:39:24](https://lobste.rs/s/ed9llx/informing_http_extension_design_with) - [Informing HTTP Extension Design with Data](https://mnot.net/blog/2026/linting_the_web)
 * [2026-08-07, 10:34:37](https://lobste.rs/s/8ozwml/notes_compound_blogs_compile_when_i) - [Notes Compound, Blogs Compile: When I Update a Note vs. Publish a Post](https://www.ssp.sh/brain/sharing-as-second-brain-note-vs-a-blog-post/)
 * [2026-08-07, 09:38:13](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend)
 * [2026-08-07, 09:36:35](https://lobste.rs/s/3tlse7/what_is_product) - [What is a product?](https://rogix.dev/what-is-a-product)
