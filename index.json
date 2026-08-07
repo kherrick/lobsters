@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-07, 21:10:37",
+      "https://lobste.rs/s/pe58bh/concurrency_vs_throughput_why_more"
+    ],
+    [
+      "Concurrency vs. Throughput: why more parallelism can make databases slower",
+      "https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 20:45:10",
       "https://lobste.rs/s/ufvii3/repsych_psychological_warfare_reverse"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2026-08-07, 19:44:27",
-      "https://lobste.rs/s/cccby7/domain_specific_hyperspecialization"
+      "2026-08-07, 19:47:10",
+      "https://lobste.rs/s/puodea/thoroughly_understanding_c_abi"
     ],
     [
-      "Domain-specific hyperspecialization (for SAT)",
-      "https://c.mov/lymphosat/"
+      "Thoroughly Understanding C++ ABI",
+      "https://www.ykiko.me/en/articles/692886292/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Software Understanding in the Sciences is Really Uneven",
       "https://lobste.rs/s/rn8uva/software_understanding_sciences_is"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 14:44:34",
-      "https://lobste.rs/s/9jwbty/ai_university"
-    ],
-    [
-      "AI & The University",
-      "https://www.youtube.com/watch?v=ZUk2TKZIo7s"
     ]
   ],
   [
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2026-08-07, 07:16:50",
-      "https://lobste.rs/s/9bxkgi/introducing_kitesurf_agent_first"
+      "2026-08-07, 06:59:12",
+      "https://lobste.rs/s/z0rmil/nix_evaluation_is_scheduling_problem"
     ],
     [
-      "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-      "https://blog.cloudflare.com/kitesurf/"
+      "Nix Evaluation Is a Scheduling Problem",
+      "https://notashelf.dev/posts/evix"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-08-06, 22:21:00",
-      "https://lobste.rs/s/hd7qxs/celld_durable_objects_self_hosted"
-    ],
-    [
-      "celld — Durable Objects, self-hosted",
-      "https://celld.dev/"
-    ]
-  ],
-  [
-    [
       "2026-08-06, 21:33:45",
       "https://lobste.rs/s/rn4inr/web_server_deployment_model_breaks_at"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2026-08-06, 13:22:19",
-      "https://lobste.rs/s/4qfkrz/taste_is_all_s_left"
+      "2026-08-06, 12:44:26",
+      "https://lobste.rs/s/titphm/setup_simple_web_server_with_bozohttpd_on"
     ],
     [
-      "Taste Is All That's Left",
-      "https://notashelf.dev/posts/taste-is-all-thats-left"
+      "Setup a simple web server with bozohttpd on NetBSD",
+      "https://bozo.httpd.rocks/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "i wonder if you could make a useful DOS executable with just emoji",
       "https://oldbytes.space/@gloriouscow/117044736309312697"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 04:44:44",
+      "https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny"
+    ],
+    [
+      "python string literals are kinda funny",
+      "https://sebsite.pw/w/20260806-pystrings.html"
     ]
   ]
 ]
