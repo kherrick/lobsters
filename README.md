@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-07, 01:18:25](https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling) - [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
+* [2026-08-07, 00:36:39](https://lobste.rs/s/6i4a3w/i_got_1998_cd_rom_world_atlas_running_on) - [I got a 1998 CD-ROM world atlas running on Windows 11](https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i)
 * [2026-08-06, 22:27:33](https://lobste.rs/s/psnmvz/super_mario_derivations) - [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations)
 * [2026-08-06, 22:21:00](https://lobste.rs/s/hd7qxs/celld_durable_objects_self_hosted) - [celld — Durable Objects, self-hosted](https://celld.dev/)
 * [2026-08-06, 21:33:45](https://lobste.rs/s/rn4inr/web_server_deployment_model_breaks_at) - [the web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
@@ -13,7 +15,6 @@
 * [2026-08-06, 12:44:26](https://lobste.rs/s/titphm/setup_simple_web_server_with_bozohttpd_on) - [Setup a simple web server with bozohttpd on NetBSD](https://bozo.httpd.rocks/)
 * [2026-08-06, 11:37:30](https://lobste.rs/s/o8ttys/following_is_valid_dos_com_executable) - [The following is a valid DOS COM executable](https://oldbytes.space/@gloriouscow/117045701876951834)
 * [2026-08-06, 11:22:20](https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874) - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
-* [2026-08-06, 11:11:52](https://lobste.rs/s/uwaoor/3d_svg_renderer_projects_textures) - [a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
 * [2026-08-06, 09:03:51](https://lobste.rs/s/xx83dr/jujutsu_0_44_0) - [jujutsu 0.44.0](https://github.com/jj-vcs/jj/releases/tag/v0.44.0)
 * [2026-08-06, 08:11:35](https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos) - [i wonder if you could make a useful DOS executable with just emoji](https://oldbytes.space/@gloriouscow/117044736309312697)
 * [2026-08-06, 07:10:03](https://lobste.rs/s/8bxp8n/finally_adding_recursive_functions) - [Finally adding recursive functions to Futhark](https://futhark-lang.org/blog/2026-08-05-recursion.html)
@@ -21,7 +22,6 @@
 * [2026-08-06, 01:45:51](https://lobste.rs/s/l9jtnl/gnu_hurd_news_2026_q2) - [GNU Hurd news 2026-q2](https://www.gnu.org/software/hurd/news/2026-q2.html)
 * [2026-08-05, 22:23:42](https://lobste.rs/s/8cxvb2/symbolics_opengenera_go_free_for_non) - [Symbolics OpenGenera to go free for non-commercial use](https://hachyderm.io/@gmpalter/117044268951603975)
 * [2026-08-05, 20:45:57](https://lobste.rs/s/mgr9lc/vision_for_cargo) - [A Vision for Cargo](https://epage.github.io/blog/2026/08/cargo-vision/)
-* [2026-08-05, 20:07:39](https://lobste.rs/s/qamm7j/i_built_blog_forgot_write) - [I Built a Blog and Forgot to Write](https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/)
 * [2026-08-05, 18:29:28](https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley) - [The \"Disability Dongle\": Why Silicon Valley Hates Me and you](https://sightlessscribbles.com/disability-dongle/)
 * [2026-08-05, 12:34:15](https://lobste.rs/s/fgcrj0/offensive_internet_posture) - [Offensive Internet Posture](https://bruceediger.com/posts/offensive-machine/)
 * [2026-08-05, 06:55:36](https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy) - [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
