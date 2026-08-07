@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 19:47:10](https://lobste.rs/s/puodea/thoroughly_understanding_c_abi) - [Thoroughly Understanding C++ ABI](https://www.ykiko.me/en/articles/692886292/)
+* [2026-08-07, 19:44:27](https://lobste.rs/s/cccby7/domain_specific_hyperspecialization) - [Domain-specific hyperspecialization (for SAT)](https://c.mov/lymphosat/)
+* [2026-08-07, 19:27:16](https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team) - [Am I the problem? Interviewing another team to find out](https://www.macchaffee.com/blog/2026/am-i-the-problem/)
+* [2026-08-07, 17:50:55](https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now) - [PS3 emulation is fast on ARM now](https://www.youtube.com/watch?v=-aI_XEwmKFk)
 * [2026-08-07, 15:24:58](https://lobste.rs/s/rn8uva/software_understanding_sciences_is) - [Software Understanding in the Sciences is Really Uneven](https://lobste.rs/s/rn8uva/software_understanding_sciences_is)
 * [2026-08-07, 15:07:58](https://lobste.rs/s/kuchy5/new_model_for_source_control_by_alcides) - [A new model for source control  by Alcides Fonseca](https://wiki.alcidesfonseca.com/blog/a-new-model-for-source-control/)
 * [2026-08-07, 14:44:34](https://lobste.rs/s/9jwbty/ai_university) - [AI & The University](https://www.youtube.com/watch?v=ZUk2TKZIo7s)
