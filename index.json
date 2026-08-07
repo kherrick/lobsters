@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-07, 08:25:17",
+      "https://lobste.rs/s/hhuk8a/some_ways_navigate_through_git_blame_over"
+    ],
+    [
+      "Some ways to navigate through 'git blame' over time in GNU Emacs",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 07:16:50",
+      "https://lobste.rs/s/9bxkgi/introducing_kitesurf_agent_first"
+    ],
+    [
+      "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
+      "https://blog.cloudflare.com/kitesurf/"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 06:59:12",
       "https://lobste.rs/s/z0rmil/nix_evaluation_is_scheduling_problem"
     ],
@@ -17,16 +37,6 @@
     [
       "I'm leaving OpenAI to build Jurassic Park",
       "https://taylor.town/leaving-openai"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 03:34:53",
-      "https://lobste.rs/s/dcysn8/ropbot_reimaging_code_reuse_attack"
-    ],
-    [
-      "ropbot: Reimaging Code Reuse Attack Synthesis",
-      "https://kylebot.net/papers/ropbot.pdf"
     ]
   ],
   [
@@ -51,12 +61,32 @@
   ],
   [
     [
+      "2026-08-06, 22:37:07",
+      "https://lobste.rs/s/rkh2ux/ai_generated_vulnerability_patches"
+    ],
+    [
+      "AI-generated vulnerability patches require human review",
+      "https://1password.com/blog/why-ai-generated-patches-still-require-human-review"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 22:27:33",
       "https://lobste.rs/s/psnmvz/super_mario_derivations"
     ],
     [
       "Super Mario Derivations",
       "https://fzakaria.com/2026/08/05/super-mario-derivations"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 22:21:00",
+      "https://lobste.rs/s/hd7qxs/celld_durable_objects_self_hosted"
+    ],
+    [
+      "celld — Durable Objects, self-hosted",
+      "https://celld.dev/"
     ]
   ],
   [
@@ -111,12 +141,32 @@
   ],
   [
     [
+      "2026-08-06, 15:47:45",
+      "https://lobste.rs/s/bmnusu/schrodingers_toctou_binary_you_run_is_not"
+    ],
+    [
+      "schrodingers-toctou: The binary you run is not the program you wrote",
+      "https://github.com/xoreaxeaxeax/schrodingers-toctou"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 13:23:03",
       "https://lobste.rs/s/j8ytwa/how_make_nintendo_64_game_2026"
     ],
     [
       "How to Make a Nintendo 64 Game in 2026",
       "https://phoboslab.org/log/2026/08/xibalba64-making-of"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 13:22:19",
+      "https://lobste.rs/s/4qfkrz/taste_is_all_s_left"
+    ],
+    [
+      "Taste Is All That's Left",
+      "https://notashelf.dev/posts/taste-is-all-thats-left"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2026-08-06, 11:11:52",
-      "https://lobste.rs/s/uwaoor/3d_svg_renderer_projects_textures"
-    ],
-    [
-      "a 3D SVG Renderer that projects textures without rasterization",
-      "https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects"
-    ]
-  ],
-  [
-    [
       "2026-08-06, 09:03:51",
       "https://lobste.rs/s/xx83dr/jujutsu_0_44_0"
     ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-08-06, 07:10:03",
-      "https://lobste.rs/s/8bxp8n/finally_adding_recursive_functions"
-    ],
-    [
-      "Finally adding recursive functions to Futhark",
-      "https://futhark-lang.org/blog/2026-08-05-recursion.html"
-    ]
-  ],
-  [
-    [
       "2026-08-06, 04:44:44",
       "https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny"
     ],
@@ -201,42 +231,12 @@
   ],
   [
     [
-      "2026-08-06, 01:45:51",
-      "https://lobste.rs/s/l9jtnl/gnu_hurd_news_2026_q2"
-    ],
-    [
-      "GNU Hurd news 2026-q2",
-      "https://www.gnu.org/software/hurd/news/2026-q2.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 22:23:42",
-      "https://lobste.rs/s/8cxvb2/symbolics_opengenera_go_free_for_non"
-    ],
-    [
-      "Symbolics OpenGenera to go free for non-commercial use",
-      "https://hachyderm.io/@gmpalter/117044268951603975"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 20:45:57",
       "https://lobste.rs/s/mgr9lc/vision_for_cargo"
     ],
     [
       "A Vision for Cargo",
       "https://epage.github.io/blog/2026/08/cargo-vision/"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 18:29:28",
-      "https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley"
-    ],
-    [
-      "The \"Disability Dongle\": Why Silicon Valley Hates Me and you",
-      "https://sightlessscribbles.com/disability-dongle/"
     ]
   ],
   [
