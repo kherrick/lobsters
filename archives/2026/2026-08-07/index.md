@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 21:15:01](https://lobste.rs/s/65iyha/wyzer_wyzer_programming_language) - [wyzer: The Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)
+* [2026-08-07, 21:10:37](https://lobste.rs/s/pe58bh/concurrency_vs_throughput_why_more) - [Concurrency vs. Throughput: why more parallelism can make databases slower](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql)
 * [2026-08-07, 20:29:37](https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu) - [Assembly Hall of Shame: Racing to the bottom of CPU performance](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 19:47:10](https://lobste.rs/s/puodea/thoroughly_understanding_c_abi) - [Thoroughly Understanding C++ ABI](https://www.ykiko.me/en/articles/692886292/)
 * [2026-08-07, 19:44:27](https://lobste.rs/s/cccby7/domain_specific_hyperspecialization) - [Domain-specific hyperspecialization (for SAT)](https://c.mov/lymphosat/)
