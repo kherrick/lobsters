@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-07, 14:02:47](https://lobste.rs/s/gycikc/how_device_finds_encrypted_dns_by_itself) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
-* [2026-08-07, 10:39:24](https://lobste.rs/s/ed9llx/informing_http_extension_design_with) - [Informing HTTP Extension Design with Data](https://mnot.net/blog/2026/linting_the_web)
+* [2026-08-07, 10:34:37](https://lobste.rs/s/8ozwml/notes_compound_blogs_compile_when_i) - [Notes Compound, Blogs Compile: When I Update a Note vs. Publish a Post](https://www.ssp.sh/brain/sharing-as-second-brain-note-vs-a-blog-post/)
 * [2026-08-07, 09:38:13](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend)
 * [2026-08-07, 09:36:35](https://lobste.rs/s/3tlse7/what_is_product) - [What is a product?](https://rogix.dev/what-is-a-product)
 * [2026-08-07, 08:25:17](https://lobste.rs/s/hhuk8a/some_ways_navigate_through_git_blame_over) - [Some ways to navigate through 'git blame' over time in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime)
@@ -15,7 +16,6 @@
 * [2026-08-06, 22:21:00](https://lobste.rs/s/hd7qxs/celld_durable_objects_self_hosted) - [celld — Durable Objects, self-hosted](https://celld.dev/)
 * [2026-08-06, 21:33:45](https://lobste.rs/s/rn4inr/web_server_deployment_model_breaks_at) - [the web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
 * [2026-08-06, 20:12:06](https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat) - [Zig's Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
-* [2026-08-06, 19:01:58](https://lobste.rs/s/vfnwot/cl_forth_forth_2012_standard_cl) - [cl-forth: Forth 2012 Standard in CL](https://github.com/gmpalter/cl-forth)
 * [2026-08-06, 17:47:12](https://lobste.rs/s/9ofzvx/crubit_c_rust_bidirectional_interop_tool) - [Crubit, C++/Rust Bidirectional Interop Tool](https://crubit.rs)
 * [2026-08-06, 13:23:03](https://lobste.rs/s/j8ytwa/how_make_nintendo_64_game_2026) - [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
 * [2026-08-06, 13:22:19](https://lobste.rs/s/4qfkrz/taste_is_all_s_left) - [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
