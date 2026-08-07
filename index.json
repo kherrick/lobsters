@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-07, 10:39:24",
+      "https://lobste.rs/s/ed9llx/informing_http_extension_design_with"
+    ],
+    [
+      "Informing HTTP Extension Design with Data",
+      "https://mnot.net/blog/2026/linting_the_web"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 09:38:13",
       "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend"
     ],
@@ -157,16 +167,6 @@
     [
       "Crubit, C++/Rust Bidirectional Interop Tool",
       "https://crubit.rs"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 15:47:45",
-      "https://lobste.rs/s/bmnusu/schrodingers_toctou_binary_you_run_is_not"
-    ],
-    [
-      "schrodingers-toctou: The binary you run is not the program you wrote",
-      "https://github.com/xoreaxeaxeax/schrodingers-toctou"
     ]
   ],
   [
