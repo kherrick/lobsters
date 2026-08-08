@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 23:07:20](https://lobste.rs/s/lxy0ea/faaah_filesystem_as_ai_handler) - [faaah (Filesystem As An AI Handler)](https://github.com/sebastiancarlos/faaah)
 * [2026-08-08, 21:57:01](https://lobste.rs/s/nhdcw6/magic_malicious_aging_circuits_cores) - [MAGIC: Malicious Aging in Circuits/Cores](https://dl.acm.org/doi/10.1145/2724718)
 * [2026-08-08, 21:28:56](https://lobste.rs/s/hzqxq5/atomstr_rss_atom_nostr_bridge) - [atomstr - RSS/Atom-to-Nostr bridge](https://atomstr.data.haus/)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 20:46:40](https://lobste.rs/s/tiwdxn/object_model_livelymerge) - [The Object Model in Livelymerge](https://www.inkandswitch.com/livelymerge/notebook/lm-03/)
-* [2026-08-08, 20:44:46](https://lobste.rs/s/safj18/understanding_std_counting_semaphore) - [Understanding std::counting_semaphore and std::binary_semaphore from C++20](https://www.cppstories.com/2026/semaphore/)
 * [2026-08-08, 20:20:42](https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial) - [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/)
 * [2026-08-08, 20:16:20](https://lobste.rs/s/gurxoe/turning_molecules_into_reliable) - [Turning molecules into reliable electronic devices](https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
