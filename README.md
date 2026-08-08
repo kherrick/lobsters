@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 15:34:43](https://lobste.rs/s/fgf5vr/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/)
 * [2026-08-08, 14:12:59](https://lobste.rs/s/2b5zzw/program_images_portable_scheme_backends) - [Program images and portable Scheme backends for Jolt](https://yogthos.net/posts/2026-08-07-portable-jolt.html)
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
 * [2026-08-08, 13:43:49](https://lobste.rs/s/lmnmwg/amiga_august_2026_update) - [Amiga August 2026 Update](https://amiga.com/news/20260804-amiga-update)
@@ -16,7 +17,6 @@
 * [2026-08-07, 17:50:55](https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now) - [PS3 emulation is fast on ARM now](https://www.youtube.com/watch?v=-aI_XEwmKFk)
 * [2026-08-07, 15:24:58](https://lobste.rs/s/rn8uva/software_understanding_sciences_is) - [Software Understanding in the Sciences is Really Uneven](https://lobste.rs/s/rn8uva/software_understanding_sciences_is)
 * [2026-08-07, 14:44:34](https://lobste.rs/s/9jwbty/ai_university) - [AI & The University](https://www.youtube.com/watch?v=ZUk2TKZIo7s)
-* [2026-08-07, 14:02:47](https://lobste.rs/s/gycikc/how_device_finds_encrypted_dns_by_itself) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
 * [2026-08-07, 09:38:13](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend)
 * [2026-08-07, 08:25:17](https://lobste.rs/s/hhuk8a/some_ways_navigate_through_git_blame_over) - [Some ways to navigate through 'git blame' over time in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime)
