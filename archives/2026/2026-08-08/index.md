@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 12:14:08](https://lobste.rs/s/dfkuly/skred_self_created_sound_engine_as) - [Skred (self-created sound engine) as an effects box](https://lobste.rs/s/dfkuly/skred_self_created_sound_engine_as)
 * [2026-08-08, 08:57:33](https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text) - [They don’t make ’em like Sublime Text anymore](https://dbushell.com/2026/08/07/sublime-text/)
 * [2026-08-08, 06:53:26](https://lobste.rs/s/ejx00p/building_groovie_advanced_web_based_drum) - [Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer](https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/)
 * [2026-08-08, 04:45:36](https://lobste.rs/s/robrw0/farewell_etaoin_shrdlu) - [‘Farewell, Etaoin Shrdlu’](https://archive.org/details/FarewellEtaoinShrdlu)
