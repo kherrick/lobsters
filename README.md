@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 21:57:01](https://lobste.rs/s/nhdcw6/magic_malicious_aging_circuits_cores) - [MAGIC: Malicious Aging in Circuits/Cores](https://dl.acm.org/doi/10.1145/2724718)
 * [2026-08-08, 21:28:56](https://lobste.rs/s/hzqxq5/atomstr_rss_atom_nostr_bridge) - [atomstr - RSS/Atom-to-Nostr bridge](https://atomstr.data.haus/)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 20:46:40](https://lobste.rs/s/tiwdxn/object_model_livelymerge) - [The Object Model in Livelymerge](https://www.inkandswitch.com/livelymerge/notebook/lm-03/)
@@ -13,7 +14,6 @@
 * [2026-08-08, 18:06:31](https://lobste.rs/s/bbkpzc/experiments_with_isolation_on_blue_pill) - [experiments with isolation on blue pill](https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/)
 * [2026-08-08, 17:49:26](https://lobste.rs/s/rgzoku/some_moral_technical_consequences) - [Some Moral and Technical Consequences of Automation (1960)](https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf)
 * [2026-08-08, 16:51:41](https://lobste.rs/s/bmohqw/soar_package_manager) - [Soar package manager](https://soar.qaidvoid.dev/)
-* [2026-08-08, 15:34:43](https://lobste.rs/s/fgf5vr/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/)
 * [2026-08-08, 14:12:59](https://lobste.rs/s/2b5zzw/program_images_portable_scheme_backends) - [Program images and portable Scheme backends for Jolt](https://yogthos.net/posts/2026-08-07-portable-jolt.html)
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
 * [2026-08-08, 13:43:49](https://lobste.rs/s/lmnmwg/amiga_august_2026_update) - [Amiga August 2026 Update](https://amiga.com/news/20260804-amiga-update)

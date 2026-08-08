@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 21:57:01](https://lobste.rs/s/nhdcw6/magic_malicious_aging_circuits_cores) - [MAGIC: Malicious Aging in Circuits/Cores](https://dl.acm.org/doi/10.1145/2724718)
 * [2026-08-08, 21:28:56](https://lobste.rs/s/hzqxq5/atomstr_rss_atom_nostr_bridge) - [atomstr - RSS/Atom-to-Nostr bridge](https://atomstr.data.haus/)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 20:46:40](https://lobste.rs/s/tiwdxn/object_model_livelymerge) - [The Object Model in Livelymerge](https://www.inkandswitch.com/livelymerge/notebook/lm-03/)
