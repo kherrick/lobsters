@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 20:20:42](https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial) - [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/)
+* [2026-08-08, 20:16:20](https://lobste.rs/s/gurxoe/turning_molecules_into_reliable) - [Turning molecules into reliable electronic devices](https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
 * [2026-08-08, 18:22:36](https://lobste.rs/s/lnxdje/openssh_key_structure_guide) - [OpenSSH Key Structure Guide](https://sshref.dev/)
@@ -15,8 +17,6 @@
 * [2026-08-08, 06:53:26](https://lobste.rs/s/ejx00p/building_groovie_advanced_web_based_drum) - [Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer](https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/)
 * [2026-08-08, 04:45:36](https://lobste.rs/s/robrw0/farewell_etaoin_shrdlu) - [‘Farewell, Etaoin Shrdlu’](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-* [2026-08-08, 00:52:03](https://lobste.rs/s/ekxllh/basicsync_simple_app_for_running) - [BasicSync: A simple app for running Syncthing on Android](https://github.com/chenxiaolong/BasicSync)
-* [2026-08-07, 21:22:54](https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters) - [social media rabbit holes, clusters, and the relative mixing times of random walks](https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html)
 * [2026-08-07, 20:29:37](https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu) - [Assembly Hall of Shame: Racing to the bottom of CPU performance](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 19:27:16](https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team) - [Am I the problem? Interviewing another team to find out](https://www.macchaffee.com/blog/2026/am-i-the-problem/)
 * [2026-08-07, 17:50:55](https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now) - [PS3 emulation is fast on ARM now](https://www.youtube.com/watch?v=-aI_XEwmKFk)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 20:20:42](https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial) - [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/)
+* [2026-08-08, 20:16:20](https://lobste.rs/s/gurxoe/turning_molecules_into_reliable) - [Turning molecules into reliable electronic devices](https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
 * [2026-08-08, 18:22:36](https://lobste.rs/s/lnxdje/openssh_key_structure_guide) - [OpenSSH Key Structure Guide](https://sshref.dev/)
