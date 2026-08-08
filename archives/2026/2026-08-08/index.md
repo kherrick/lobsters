@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 16:51:41](https://lobste.rs/s/bmohqw/soar_package_manager) - [Soar package manager](https://soar.qaidvoid.dev/)
 * [2026-08-08, 15:34:43](https://lobste.rs/s/fgf5vr/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/)
 * [2026-08-08, 14:12:59](https://lobste.rs/s/2b5zzw/program_images_portable_scheme_backends) - [Program images and portable Scheme backends for Jolt](https://yogthos.net/posts/2026-08-07-portable-jolt.html)
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)

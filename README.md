@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 16:51:41](https://lobste.rs/s/bmohqw/soar_package_manager) - [Soar package manager](https://soar.qaidvoid.dev/)
 * [2026-08-08, 15:34:43](https://lobste.rs/s/fgf5vr/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/)
 * [2026-08-08, 14:12:59](https://lobste.rs/s/2b5zzw/program_images_portable_scheme_backends) - [Program images and portable Scheme backends for Jolt](https://yogthos.net/posts/2026-08-07-portable-jolt.html)
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
@@ -22,7 +23,6 @@
 * [2026-08-07, 08:25:17](https://lobste.rs/s/hhuk8a/some_ways_navigate_through_git_blame_over) - [Some ways to navigate through 'git blame' over time in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime)
 * [2026-08-07, 04:26:26](https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park) - [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
 * [2026-08-07, 01:18:25](https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling) - [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
-* [2026-08-07, 00:36:39](https://lobste.rs/s/6i4a3w/i_got_1998_cd_rom_world_atlas_running_on) - [I got a 1998 CD-ROM world atlas running on Windows 11](https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i)
 * [2026-08-06, 20:12:06](https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat) - [Zig's Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
 * [2026-08-06, 11:22:20](https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874) - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
 
