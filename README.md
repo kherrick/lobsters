@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-08, 06:53:26](https://lobste.rs/s/ejx00p/building_groovie_advanced_web_based_drum) - [Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer](https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/)
+* [2026-08-08, 04:45:36](https://lobste.rs/s/robrw0/farewell_etaoin_shrdlu) - [‘Farewell, Etaoin Shrdlu’](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-08, 00:52:03](https://lobste.rs/s/ekxllh/basicsync_simple_app_for_running) - [BasicSync: A simple app for running Syncthing on Android](https://github.com/chenxiaolong/BasicSync)
 * [2026-08-07, 21:22:54](https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters) - [social media rabbit holes, clusters, and the relative mixing times of random walks](https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html)
@@ -24,7 +25,6 @@
 * [2026-08-06, 20:12:06](https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat) - [Zig's Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
 * [2026-08-06, 11:22:20](https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874) - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
 * [2026-08-06, 09:03:51](https://lobste.rs/s/xx83dr/jujutsu_0_44_0) - [jujutsu 0.44.0](https://github.com/jj-vcs/jj/releases/tag/v0.44.0)
-* [2026-08-06, 08:11:35](https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos) - [i wonder if you could make a useful DOS executable with just emoji](https://oldbytes.space/@gloriouscow/117044736309312697)
 
 ## [Archives](archives/index.md)
 
