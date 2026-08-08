@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
+* [2026-08-08, 18:22:36](https://lobste.rs/s/lnxdje/openssh_key_structure_guide) - [OpenSSH Key Structure Guide](https://sshref.dev/)
+* [2026-08-08, 18:18:28](https://lobste.rs/s/zubijk/robot_villas_rss_mastodon_bridge) - [robot.villas – RSS-to-Mastodon Bridge](https://robot.villas)
 * [2026-08-08, 18:06:31](https://lobste.rs/s/bbkpzc/experiments_with_isolation_on_blue_pill) - [experiments with isolation on blue pill](https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/)
 * [2026-08-08, 17:49:26](https://lobste.rs/s/rgzoku/some_moral_technical_consequences) - [Some Moral and Technical Consequences of Automation (1960)](https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf)
 * [2026-08-08, 16:51:41](https://lobste.rs/s/bmohqw/soar_package_manager) - [Soar package manager](https://soar.qaidvoid.dev/)
