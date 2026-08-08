@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 02:19:12](https://lobste.rs/s/2cpfey/homebrew_lab_ai_generated_self_directed) - [homebrew-lab: An AI generated, self-directed, bench-driven electronics course for hams and makers, learning analog by seeing it on a scope](https://github.com/quakkels/homebrew-lab)
+* [2026-08-08, 00:52:03](https://lobste.rs/s/ekxllh/basicsync_simple_app_for_running) - [BasicSync: A simple app for running Syncthing on Android](https://github.com/chenxiaolong/BasicSync)
 * [2026-08-07, 21:22:54](https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters) - [social media rabbit holes, clusters, and the relative mixing times of random walks](https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html)
 * [2026-08-07, 21:10:37](https://lobste.rs/s/pe58bh/concurrency_vs_throughput_why_more) - [Concurrency vs. Throughput: why more parallelism can make databases slower](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql)
 * [2026-08-07, 20:45:10](https://lobste.rs/s/ufvii3/repsych_psychological_warfare_reverse) - [REpsych: Psychological warfare in reverse engineering](https://github.com/xoreaxeaxeax/repsych)
@@ -10,7 +12,6 @@
 * [2026-08-07, 15:24:58](https://lobste.rs/s/rn8uva/software_understanding_sciences_is) - [Software Understanding in the Sciences is Really Uneven](https://lobste.rs/s/rn8uva/software_understanding_sciences_is)
 * [2026-08-07, 14:44:34](https://lobste.rs/s/9jwbty/ai_university) - [AI & The University](https://www.youtube.com/watch?v=ZUk2TKZIo7s)
 * [2026-08-07, 14:02:47](https://lobste.rs/s/gycikc/how_device_finds_encrypted_dns_by_itself) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
-* [2026-08-07, 13:43:48](https://lobste.rs/s/51xpm8/almost_consensus_abd_edges_quorum) - [Almost consensus: ABD and the edges of quorum replication](https://theconsensus.dev/p/2026/08/02/almost-consensus.html)
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
 * [2026-08-07, 09:38:13](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend)
 * [2026-08-07, 08:25:17](https://lobste.rs/s/hhuk8a/some_ways_navigate_through_git_blame_over) - [Some ways to navigate through 'git blame' over time in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime)
@@ -21,7 +22,6 @@
 * [2026-08-06, 22:27:33](https://lobste.rs/s/psnmvz/super_mario_derivations) - [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations)
 * [2026-08-06, 21:33:45](https://lobste.rs/s/rn4inr/web_server_deployment_model_breaks_at) - [the web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
 * [2026-08-06, 20:12:06](https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat) - [Zig's Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
-* [2026-08-06, 13:22:19](https://lobste.rs/s/4qfkrz/taste_is_all_s_left) - [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
 * [2026-08-06, 11:22:20](https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874) - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
 * [2026-08-06, 09:03:51](https://lobste.rs/s/xx83dr/jujutsu_0_44_0) - [jujutsu 0.44.0](https://github.com/jj-vcs/jj/releases/tag/v0.44.0)
 * [2026-08-06, 08:11:35](https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos) - [i wonder if you could make a useful DOS executable with just emoji](https://oldbytes.space/@gloriouscow/117044736309312697)
