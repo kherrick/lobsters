@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-08, 23:07:20",
+      "https://lobste.rs/s/lxy0ea/faaah_filesystem_as_ai_handler"
+    ],
+    [
+      "faaah (Filesystem As An AI Handler)",
+      "https://github.com/sebastiancarlos/faaah"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 21:57:01",
       "https://lobste.rs/s/nhdcw6/magic_malicious_aging_circuits_cores"
     ],
@@ -37,16 +47,6 @@
     [
       "The Object Model in Livelymerge",
       "https://www.inkandswitch.com/livelymerge/notebook/lm-03/"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 20:44:46",
-      "https://lobste.rs/s/safj18/understanding_std_counting_semaphore"
-    ],
-    [
-      "Understanding std::counting_semaphore and std::binary_semaphore from C++20",
-      "https://www.cppstories.com/2026/semaphore/"
     ]
   ],
   [
