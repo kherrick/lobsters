@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 08:57:33](https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text) - [They don’t make ’em like Sublime Text anymore](https://dbushell.com/2026/08/07/sublime-text/)
 * [2026-08-08, 06:53:26](https://lobste.rs/s/ejx00p/building_groovie_advanced_web_based_drum) - [Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer](https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/)
 * [2026-08-08, 04:45:36](https://lobste.rs/s/robrw0/farewell_etaoin_shrdlu) - [‘Farewell, Etaoin Shrdlu’](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-08, 00:52:03](https://lobste.rs/s/ekxllh/basicsync_simple_app_for_running) - [BasicSync: A simple app for running Syncthing on Android](https://github.com/chenxiaolong/BasicSync)
 * [2026-08-07, 21:22:54](https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters) - [social media rabbit holes, clusters, and the relative mixing times of random walks](https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html)
+* [2026-08-07, 21:10:37](https://lobste.rs/s/pe58bh/concurrency_vs_throughput_why_more) - [Concurrency vs. Throughput: why more parallelism can make databases slower](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql)
 * [2026-08-07, 20:45:10](https://lobste.rs/s/ufvii3/repsych_psychological_warfare_reverse) - [REpsych: Psychological warfare in reverse engineering](https://github.com/xoreaxeaxeax/repsych)
 * [2026-08-07, 20:29:37](https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu) - [Assembly Hall of Shame: Racing to the bottom of CPU performance](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 19:44:27](https://lobste.rs/s/cccby7/domain_specific_hyperspecialization) - [Domain-specific hyperspecialization (for SAT)](https://c.mov/lymphosat/)
@@ -16,7 +18,6 @@
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
 * [2026-08-07, 09:38:13](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend)
 * [2026-08-07, 08:25:17](https://lobste.rs/s/hhuk8a/some_ways_navigate_through_git_blame_over) - [Some ways to navigate through 'git blame' over time in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime)
-* [2026-08-07, 07:16:50](https://lobste.rs/s/9bxkgi/introducing_kitesurf_agent_first) - [Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers](https://blog.cloudflare.com/kitesurf/)
 * [2026-08-07, 04:26:26](https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park) - [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
 * [2026-08-07, 01:18:25](https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling) - [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
 * [2026-08-07, 00:36:39](https://lobste.rs/s/6i4a3w/i_got_1998_cd_rom_world_atlas_running_on) - [I got a 1998 CD-ROM world atlas running on Windows 11](https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i)
@@ -24,7 +25,6 @@
 * [2026-08-06, 21:33:45](https://lobste.rs/s/rn4inr/web_server_deployment_model_breaks_at) - [the web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
 * [2026-08-06, 20:12:06](https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat) - [Zig's Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
 * [2026-08-06, 11:22:20](https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874) - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
-* [2026-08-06, 09:03:51](https://lobste.rs/s/xx83dr/jujutsu_0_44_0) - [jujutsu 0.44.0](https://github.com/jj-vcs/jj/releases/tag/v0.44.0)
 
 ## [Archives](archives/index.md)
 
