@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
 * [2026-08-08, 18:22:36](https://lobste.rs/s/lnxdje/openssh_key_structure_guide) - [OpenSSH Key Structure Guide](https://sshref.dev/)
 * [2026-08-08, 18:18:28](https://lobste.rs/s/zubijk/robot_villas_rss_mastodon_bridge) - [robot.villas – RSS-to-Mastodon Bridge](https://robot.villas)
@@ -24,7 +25,6 @@
 * [2026-08-07, 09:38:13](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend)
 * [2026-08-07, 04:26:26](https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park) - [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
 * [2026-08-07, 01:18:25](https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling) - [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
-* [2026-08-06, 11:22:20](https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874) - [tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open](https://bobdahacker.com/blog/tldv-hack)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
 * [2026-08-08, 18:22:36](https://lobste.rs/s/lnxdje/openssh_key_structure_guide) - [OpenSSH Key Structure Guide](https://sshref.dev/)
 * [2026-08-08, 18:18:28](https://lobste.rs/s/zubijk/robot_villas_rss_mastodon_bridge) - [robot.villas – RSS-to-Mastodon Bridge](https://robot.villas)
