@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-08, 12:14:08",
+      "https://lobste.rs/s/dfkuly/skred_self_created_sound_engine_as"
+    ],
+    [
+      "Skred (self-created sound engine) as an effects box",
+      "https://lobste.rs/s/dfkuly/skred_self_created_sound_engine_as"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 08:57:33",
       "https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text"
     ],
@@ -57,16 +67,6 @@
     [
       "social media rabbit holes, clusters, and the relative mixing times of random walks",
       "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 21:10:37",
-      "https://lobste.rs/s/pe58bh/concurrency_vs_throughput_why_more"
-    ],
-    [
-      "Concurrency vs. Throughput: why more parallelism can make databases slower",
-      "https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql"
     ]
   ],
   [
