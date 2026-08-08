@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 06:53:26](https://lobste.rs/s/ejx00p/building_groovie_advanced_web_based_drum) - [Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer](https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/)
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-08, 00:52:03](https://lobste.rs/s/ekxllh/basicsync_simple_app_for_running) - [BasicSync: A simple app for running Syncthing on Android](https://github.com/chenxiaolong/BasicSync)
 * [2026-08-07, 21:22:54](https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters) - [social media rabbit holes, clusters, and the relative mixing times of random walks](https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html)
-* [2026-08-07, 21:10:37](https://lobste.rs/s/pe58bh/concurrency_vs_throughput_why_more) - [Concurrency vs. Throughput: why more parallelism can make databases slower](https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql)
 * [2026-08-07, 20:45:10](https://lobste.rs/s/ufvii3/repsych_psychological_warfare_reverse) - [REpsych: Psychological warfare in reverse engineering](https://github.com/xoreaxeaxeax/repsych)
 * [2026-08-07, 20:29:37](https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu) - [Assembly Hall of Shame: Racing to the bottom of CPU performance](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 19:44:27](https://lobste.rs/s/cccby7/domain_specific_hyperspecialization) - [Domain-specific hyperspecialization (for SAT)](https://c.mov/lymphosat/)

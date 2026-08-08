@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 06:53:26](https://lobste.rs/s/ejx00p/building_groovie_advanced_web_based_drum) - [Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer](https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/)
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-08, 02:19:12](https://lobste.rs/s/2cpfey/homebrew_lab_ai_generated_self_directed) - [homebrew-lab: An AI generated, self-directed, bench-driven electronics course for hams and makers, learning analog by seeing it on a scope](https://github.com/quakkels/homebrew-lab)
 * [2026-08-08, 00:52:03](https://lobste.rs/s/ekxllh/basicsync_simple_app_for_running) - [BasicSync: A simple app for running Syncthing on Android](https://github.com/chenxiaolong/BasicSync)
