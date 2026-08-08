@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 14:12:59](https://lobste.rs/s/2b5zzw/program_images_portable_scheme_backends) - [Program images and portable Scheme backends for Jolt](https://yogthos.net/posts/2026-08-07-portable-jolt.html)
+* [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
+* [2026-08-08, 13:43:49](https://lobste.rs/s/lmnmwg/amiga_august_2026_update) - [Amiga August 2026 Update](https://amiga.com/news/20260804-amiga-update)
 * [2026-08-08, 12:14:08](https://lobste.rs/s/dfkuly/skred_self_created_sound_engine_as) - [Skred (self-created sound engine) as an effects box](https://lobste.rs/s/dfkuly/skred_self_created_sound_engine_as)
 * [2026-08-08, 08:57:33](https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text) - [They don’t make ’em like Sublime Text anymore](https://dbushell.com/2026/08/07/sublime-text/)
 * [2026-08-08, 06:53:26](https://lobste.rs/s/ejx00p/building_groovie_advanced_web_based_drum) - [Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer](https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/)
