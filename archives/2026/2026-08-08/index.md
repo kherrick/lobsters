@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 21:28:56](https://lobste.rs/s/hzqxq5/atomstr_rss_atom_nostr_bridge) - [atomstr - RSS/Atom-to-Nostr bridge](https://atomstr.data.haus/)
+* [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 20:46:40](https://lobste.rs/s/tiwdxn/object_model_livelymerge) - [The Object Model in Livelymerge](https://www.inkandswitch.com/livelymerge/notebook/lm-03/)
 * [2026-08-08, 20:44:46](https://lobste.rs/s/safj18/understanding_std_counting_semaphore) - [Understanding std::counting_semaphore and std::binary_semaphore from C++20](https://www.cppstories.com/2026/semaphore/)
 * [2026-08-08, 20:20:42](https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial) - [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/)
