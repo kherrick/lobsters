@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-08, 18:06:31](https://lobste.rs/s/bbkpzc/experiments_with_isolation_on_blue_pill) - [experiments with isolation on blue pill](https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/)
+* [2026-08-08, 17:49:26](https://lobste.rs/s/rgzoku/some_moral_technical_consequences) - [Some Moral and Technical Consequences of Automation (1960)](https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf)
 * [2026-08-08, 16:51:41](https://lobste.rs/s/bmohqw/soar_package_manager) - [Soar package manager](https://soar.qaidvoid.dev/)
 * [2026-08-08, 15:34:43](https://lobste.rs/s/fgf5vr/enabling_next_iteration_borrow_checker) - [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/)
 * [2026-08-08, 14:12:59](https://lobste.rs/s/2b5zzw/program_images_portable_scheme_backends) - [Program images and portable Scheme backends for Jolt](https://yogthos.net/posts/2026-08-07-portable-jolt.html)
@@ -17,10 +19,8 @@
 * [2026-08-07, 19:27:16](https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team) - [Am I the problem? Interviewing another team to find out](https://www.macchaffee.com/blog/2026/am-i-the-problem/)
 * [2026-08-07, 17:50:55](https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now) - [PS3 emulation is fast on ARM now](https://www.youtube.com/watch?v=-aI_XEwmKFk)
 * [2026-08-07, 15:24:58](https://lobste.rs/s/rn8uva/software_understanding_sciences_is) - [Software Understanding in the Sciences is Really Uneven](https://lobste.rs/s/rn8uva/software_understanding_sciences_is)
-* [2026-08-07, 14:44:34](https://lobste.rs/s/9jwbty/ai_university) - [AI & The University](https://www.youtube.com/watch?v=ZUk2TKZIo7s)
 * [2026-08-07, 10:54:46](https://lobste.rs/s/mqzspg/from_constraint_models_playable_puzzle) - [From constraint models to playable puzzle games](https://zayenz.se/blog/post/constraint-generated-puzzle-games/)
 * [2026-08-07, 09:38:13](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend)
-* [2026-08-07, 08:25:17](https://lobste.rs/s/hhuk8a/some_ways_navigate_through_git_blame_over) - [Some ways to navigate through 'git blame' over time in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime)
 * [2026-08-07, 04:26:26](https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park) - [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
 * [2026-08-07, 01:18:25](https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling) - [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
 * [2026-08-06, 20:12:06](https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat) - [Zig's Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
