@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 08:16:46](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 * [2026-08-09, 07:14:28](https://lobste.rs/s/paryb7/rails_is_done) - [Rails is done](https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/)
 * [2026-08-09, 07:05:20](https://lobste.rs/s/ljwatd/investigating_power_confluent_drawings) - [Investigating Power-Confluent Drawings for Network Visualization](https://arxiv.org/pdf/1810.09948)
 * [2026-08-09, 06:50:19](https://lobste.rs/s/xkdbhe/port_enlightenment_desktop_environment) - [Port the Enlightenment desktop environment to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-09, 08:16:46](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 * [2026-08-09, 07:14:28](https://lobste.rs/s/paryb7/rails_is_done) - [Rails is done](https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/)
 * [2026-08-09, 07:05:20](https://lobste.rs/s/ljwatd/investigating_power_confluent_drawings) - [Investigating Power-Confluent Drawings for Network Visualization](https://arxiv.org/pdf/1810.09948)
 * [2026-08-09, 06:50:19](https://lobste.rs/s/xkdbhe/port_enlightenment_desktop_environment) - [Port the Enlightenment desktop environment to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment)
@@ -21,7 +22,6 @@
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
 * [2026-08-08, 13:43:49](https://lobste.rs/s/lmnmwg/amiga_august_2026_update) - [Amiga August 2026 Update](https://amiga.com/news/20260804-amiga-update)
 * [2026-08-08, 08:57:33](https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text) - [They don’t make ’em like Sublime Text anymore](https://dbushell.com/2026/08/07/sublime-text/)
-* [2026-08-08, 04:45:36](https://lobste.rs/s/robrw0/farewell_etaoin_shrdlu) - [‘Farewell, Etaoin Shrdlu’](https://archive.org/details/FarewellEtaoinShrdlu)
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-07, 20:29:37](https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu) - [Assembly Hall of Shame: Racing to the bottom of CPU performance](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 19:27:16](https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team) - [Am I the problem? Interviewing another team to find out](https://www.macchaffee.com/blog/2026/am-i-the-problem/)
