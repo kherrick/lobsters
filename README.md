@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-09, 07:14:28](https://lobste.rs/s/paryb7/rails_is_done) - [Rails is done](https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/)
+* [2026-08-09, 07:05:20](https://lobste.rs/s/ljwatd/investigating_power_confluent_drawings) - [Investigating Power-Confluent Drawings for Network Visualization](https://arxiv.org/pdf/1810.09948)
+* [2026-08-09, 06:50:19](https://lobste.rs/s/xkdbhe/port_enlightenment_desktop_environment) - [Port the Enlightenment desktop environment to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment)
 * [2026-08-09, 03:39:26](https://lobste.rs/s/ykuqrc/my_server_is_phone_now) - [my server is a phone now](https://seg6.space/posts/phone-server/)
 * [2026-08-09, 02:37:10](https://lobste.rs/s/0gmfid/triton_directx_11_driver_for_qemu) - [Triton: DirectX 11 driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 * [2026-08-09, 02:32:55](https://lobste.rs/s/cqx6f6/counting_days_revisited) - [Counting the days, revisited](https://dotat.at/@/2026-08-09-rata-die.html)
@@ -9,12 +12,10 @@
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 20:46:40](https://lobste.rs/s/tiwdxn/object_model_livelymerge) - [The Object Model in Livelymerge](https://www.inkandswitch.com/livelymerge/notebook/lm-03/)
 * [2026-08-08, 20:20:42](https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial) - [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/)
-* [2026-08-08, 20:16:20](https://lobste.rs/s/gurxoe/turning_molecules_into_reliable) - [Turning molecules into reliable electronic devices](https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
 * [2026-08-08, 18:22:36](https://lobste.rs/s/lnxdje/openssh_key_structure_guide) - [OpenSSH Key Structure Guide](https://sshref.dev/)
 * [2026-08-08, 18:18:28](https://lobste.rs/s/zubijk/robot_villas_rss_mastodon_bridge) - [robot.villas – RSS-to-Mastodon Bridge](https://robot.villas)
-* [2026-08-08, 17:49:26](https://lobste.rs/s/rgzoku/some_moral_technical_consequences) - [Some Moral and Technical Consequences of Automation (1960)](https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf)
 * [2026-08-08, 16:51:41](https://lobste.rs/s/bmohqw/soar_package_manager) - [Soar package manager](https://soar.qaidvoid.dev/)
 * [2026-08-08, 14:12:59](https://lobste.rs/s/2b5zzw/program_images_portable_scheme_backends) - [Program images and portable Scheme backends for Jolt](https://yogthos.net/posts/2026-08-07-portable-jolt.html)
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
@@ -24,7 +25,6 @@
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-07, 20:29:37](https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu) - [Assembly Hall of Shame: Racing to the bottom of CPU performance](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 19:27:16](https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team) - [Am I the problem? Interviewing another team to find out](https://www.macchaffee.com/blog/2026/am-i-the-problem/)
-* [2026-08-07, 17:50:55](https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now) - [PS3 emulation is fast on ARM now](https://www.youtube.com/watch?v=-aI_XEwmKFk)
 
 ## [Archives](archives/index.md)
 
