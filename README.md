@@ -2,6 +2,7 @@
 
 * [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 * [2026-08-09, 15:37:14](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand) - [I think the vibecoding tag has gotten out of hand](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand)
+* [2026-08-09, 15:32:54](https://lobste.rs/s/ogtybl/getting_off_modernization_treadmill) - [Getting off the Modernization Treadmill](https://www.youtube.com/watch?v=vRJVw8Di-4s)
 * [2026-08-09, 14:46:15](https://lobste.rs/s/0mrntr/on_arch_linux_scripts_hooks) - [On Arch Linux scripts and hooks](https://devblog.archlinux.page/2026/on-scripts-and-hooks/)
 * [2026-08-09, 14:43:04](https://lobste.rs/s/1ygxcp/relying_on_go) - [Relying on Go](https://antonz.org/relying-on-go/)
 * [2026-08-09, 14:07:55](https://lobste.rs/s/dd9poy/3g_at_last) - [3G at last](https://nickvsnetworking.com/3g-at-last/)
@@ -16,7 +17,6 @@
 * [2026-08-09, 02:32:55](https://lobste.rs/s/cqx6f6/counting_days_revisited) - [Counting the days, revisited](https://dotat.at/@/2026-08-09-rata-die.html)
 * [2026-08-09, 02:28:18](https://lobste.rs/s/urdoby/dithered_qr_codes) - [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
 * [2026-08-09, 00:57:13](https://lobste.rs/s/rgzrct/drei_wysiwyg_emacs_for_html) - [DREI: WYSIWYG Emacs for HTML](https://speechcode.com/blog/drei)
-* [2026-08-08, 23:56:58](https://lobste.rs/s/1ubzuf/fastlanes_unified_transport_layout) - [The FastLanes Unified Transport Layout](https://blog.dave.tf/post/fastlanes-utl/)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
