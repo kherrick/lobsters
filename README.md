@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-09, 16:16:53](https://lobste.rs/s/a5pnxx/postmarketos_2026_07_libcamera_0_7_2) - [postmarketOS in 2026-07: libcamera 0.7.2](https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/)
 * [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 * [2026-08-09, 15:37:14](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand) - [I think the vibecoding tag has gotten out of hand](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand)
 * [2026-08-09, 15:32:54](https://lobste.rs/s/ogtybl/getting_off_modernization_treadmill) - [Getting off the Modernization Treadmill](https://www.youtube.com/watch?v=vRJVw8Di-4s)
@@ -23,7 +24,6 @@
 * [2026-08-08, 18:22:36](https://lobste.rs/s/lnxdje/openssh_key_structure_guide) - [OpenSSH Key Structure Guide](https://sshref.dev/)
 * [2026-08-08, 18:18:28](https://lobste.rs/s/zubijk/robot_villas_rss_mastodon_bridge) - [robot.villas – RSS-to-Mastodon Bridge](https://robot.villas)
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
-* [2026-08-08, 08:57:33](https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text) - [They don’t make ’em like Sublime Text anymore](https://dbushell.com/2026/08/07/sublime-text/)
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
 ## [Archives](archives/index.md)

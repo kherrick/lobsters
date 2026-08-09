@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 16:16:53](https://lobste.rs/s/a5pnxx/postmarketos_2026_07_libcamera_0_7_2) - [postmarketOS in 2026-07: libcamera 0.7.2](https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/)
 * [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 * [2026-08-09, 15:37:14](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand) - [I think the vibecoding tag has gotten out of hand](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand)
 * [2026-08-09, 15:32:54](https://lobste.rs/s/ogtybl/getting_off_modernization_treadmill) - [Getting off the Modernization Treadmill](https://www.youtube.com/watch?v=vRJVw8Di-4s)
