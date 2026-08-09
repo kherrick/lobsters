@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 14:46:15](https://lobste.rs/s/0mrntr/on_arch_linux_scripts_hooks) - [On Arch Linux scripts and hooks](https://devblog.archlinux.page/2026/on-scripts-and-hooks/)
+* [2026-08-09, 14:43:04](https://lobste.rs/s/1ygxcp/relying_on_go) - [Relying on Go](https://antonz.org/relying-on-go/)
+* [2026-08-09, 14:07:55](https://lobste.rs/s/dd9poy/3g_at_last) - [3G at last](https://nickvsnetworking.com/3g-at-last/)
 * [2026-08-09, 13:56:22](https://lobste.rs/s/35dq6x/integrated_sensing_communication_isac) - [Integrated Sensing and Communication (ISAC)](https://www.ericsson.com/en/6g/isac)
 * [2026-08-09, 13:42:39](https://lobste.rs/s/rsztog/who_should_pay_for_source_code) - [Who Should Pay For Source Code Availability?](https://kristoff.it/blog/source-code-availability/)
 * [2026-08-09, 12:26:37](https://lobste.rs/s/aa229o/what_software_is_made_2015) - [What Software is Made Of (2015)](https://siderea.dreamwidth.org/1219758.html)
