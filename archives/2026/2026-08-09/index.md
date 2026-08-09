@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 17:41:59](https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026) - [IRC technology news from the first half of 2026](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/)
 * [2026-08-09, 16:16:53](https://lobste.rs/s/a5pnxx/postmarketos_2026_07_libcamera_0_7_2) - [postmarketOS in 2026-07: libcamera 0.7.2](https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/)
 * [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 * [2026-08-09, 15:37:14](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand) - [I think the vibecoding tag has gotten out of hand](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand)
