@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
+* [2026-08-09, 15:37:14](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand) - [I think the vibecoding tag has gotten out of hand](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand)
 * [2026-08-09, 14:46:15](https://lobste.rs/s/0mrntr/on_arch_linux_scripts_hooks) - [On Arch Linux scripts and hooks](https://devblog.archlinux.page/2026/on-scripts-and-hooks/)
 * [2026-08-09, 14:43:04](https://lobste.rs/s/1ygxcp/relying_on_go) - [Relying on Go](https://antonz.org/relying-on-go/)
 * [2026-08-09, 14:07:55](https://lobste.rs/s/dd9poy/3g_at_last) - [3G at last](https://nickvsnetworking.com/3g-at-last/)
@@ -16,7 +18,6 @@
 * [2026-08-09, 00:57:13](https://lobste.rs/s/rgzrct/drei_wysiwyg_emacs_for_html) - [DREI: WYSIWYG Emacs for HTML](https://speechcode.com/blog/drei)
 * [2026-08-08, 23:56:58](https://lobste.rs/s/1ubzuf/fastlanes_unified_transport_layout) - [The FastLanes Unified Transport Layout](https://blog.dave.tf/post/fastlanes-utl/)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
-* [2026-08-08, 20:46:40](https://lobste.rs/s/tiwdxn/object_model_livelymerge) - [The Object Model in Livelymerge](https://www.inkandswitch.com/livelymerge/notebook/lm-03/)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
 * [2026-08-08, 18:22:36](https://lobste.rs/s/lnxdje/openssh_key_structure_guide) - [OpenSSH Key Structure Guide](https://sshref.dev/)
@@ -24,7 +25,6 @@
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
 * [2026-08-08, 08:57:33](https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text) - [They don’t make ’em like Sublime Text anymore](https://dbushell.com/2026/08/07/sublime-text/)
 * [2026-08-08, 02:33:45](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-* [2026-08-07, 19:27:16](https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team) - [Am I the problem? Interviewing another team to find out](https://www.macchaffee.com/blog/2026/am-i-the-problem/)
 
 ## [Archives](archives/index.md)
 

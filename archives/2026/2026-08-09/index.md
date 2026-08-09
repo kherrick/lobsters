@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
+* [2026-08-09, 15:37:14](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand) - [I think the vibecoding tag has gotten out of hand](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand)
 * [2026-08-09, 14:46:15](https://lobste.rs/s/0mrntr/on_arch_linux_scripts_hooks) - [On Arch Linux scripts and hooks](https://devblog.archlinux.page/2026/on-scripts-and-hooks/)
 * [2026-08-09, 14:43:04](https://lobste.rs/s/1ygxcp/relying_on_go) - [Relying on Go](https://antonz.org/relying-on-go/)
 * [2026-08-09, 14:07:55](https://lobste.rs/s/dd9poy/3g_at_last) - [3G at last](https://nickvsnetworking.com/3g-at-last/)
