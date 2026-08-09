@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-09, 19:39:26](https://lobste.rs/s/csjn21/high_frequency_trading_firm_just_hired) - [High-frequency trading firm just hired Bjarne Stroustrup (creator of C++)](https://www.efinancialcareers.com/news/a-high-frequency-trading-firm-just-hired-bjarne-stroustrup-creator-of-c)
 * [2026-08-09, 18:38:22](https://lobste.rs/s/abl0xo/commit_message_test_plans) - [Commit message test plans](https://blog.waleedkhan.name/commit-message-test-plans/)
 * [2026-08-09, 17:41:59](https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026) - [IRC technology news from the first half of 2026](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/)
 * [2026-08-09, 16:16:53](https://lobste.rs/s/a5pnxx/postmarketos_2026_07_libcamera_0_7_2) - [postmarketOS in 2026-07: libcamera 0.7.2](https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/)
@@ -20,6 +19,7 @@
 * [2026-08-09, 02:37:10](https://lobste.rs/s/0gmfid/triton_directx_11_driver_for_qemu) - [Triton: DirectX 11 driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 * [2026-08-09, 02:32:55](https://lobste.rs/s/cqx6f6/counting_days_revisited) - [Counting the days, revisited](https://dotat.at/@/2026-08-09-rata-die.html)
 * [2026-08-09, 02:28:18](https://lobste.rs/s/urdoby/dithered_qr_codes) - [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
+* [2026-08-09, 00:57:13](https://lobste.rs/s/rgzrct/drei_wysiwyg_emacs_for_html) - [DREI: WYSIWYG Emacs for HTML](https://speechcode.com/blog/drei)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
