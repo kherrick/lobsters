@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 19:39:26](https://lobste.rs/s/csjn21/high_frequency_trading_firm_just_hired) - [High-frequency trading firm just hired Bjarne Stroustrup (creator of C++)](https://www.efinancialcareers.com/news/a-high-frequency-trading-firm-just-hired-bjarne-stroustrup-creator-of-c)
+* [2026-08-09, 18:59:54](https://lobste.rs/s/fajexk/ship_small_diffs_2017) - [Ship Small Diffs (2017)](https://mcfunley.com/ship-small-diffs)
+* [2026-08-09, 18:38:22](https://lobste.rs/s/abl0xo/commit_message_test_plans) - [Commit message test plans](https://blog.waleedkhan.name/commit-message-test-plans/)
 * [2026-08-09, 17:41:59](https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026) - [IRC technology news from the first half of 2026](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/)
 * [2026-08-09, 16:16:53](https://lobste.rs/s/a5pnxx/postmarketos_2026_07_libcamera_0_7_2) - [postmarketOS in 2026-07: libcamera 0.7.2](https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/)
 * [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
