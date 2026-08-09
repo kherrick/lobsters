@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 12:26:37](https://lobste.rs/s/aa229o/what_software_is_made_2015) - [What Software is Made Of (2015)](https://siderea.dreamwidth.org/1219758.html)
 * [2026-08-09, 11:28:08](https://lobste.rs/s/m70pcl/ddisasm_fast_accurate_disassembler) - [ddisasm: A fast and accurate disassembler](https://github.com/GrammaTech/ddisasm)
 * [2026-08-09, 08:16:46](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 * [2026-08-09, 07:14:28](https://lobste.rs/s/paryb7/rails_is_done) - [Rails is done](https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/)
