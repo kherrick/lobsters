@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-09, 22:14:17",
+      "https://lobste.rs/s/vowt4d/i_got_email_about_resistance"
+    ],
+    [
+      "I got an email about resistance",
+      "https://www.seangoedecke.com/i-got-an-email-about-resistance/"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 22:07:43",
+      "https://lobste.rs/s/ahyxwp/sqlite_with_fine_toothed_comb"
+    ],
+    [
+      "SQLite with a Fine-Toothed Comb",
+      "https://blog.regehr.org/archives/1292"
+    ]
+  ],
+  [
+    [
       "2026-08-09, 18:38:22",
       "https://lobste.rs/s/abl0xo/commit_message_test_plans"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-08-09, 00:57:13",
-      "https://lobste.rs/s/rgzrct/drei_wysiwyg_emacs_for_html"
-    ],
-    [
-      "DREI: WYSIWYG Emacs for HTML",
-      "https://speechcode.com/blog/drei"
-    ]
-  ],
-  [
-    [
       "2026-08-08, 21:11:53",
       "https://lobste.rs/s/lv7kzs/multistack_concatenative_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "some software talks i like",
       "https://char.lt/blog/2026/08/talks-i-like/"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 02:33:45",
-      "https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded"
-    ],
-    [
-      "The Nixpkgs core team has disbanded",
-      "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"
     ]
   ]
 ]
