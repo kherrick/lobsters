@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-09, 11:28:08",
+      "https://lobste.rs/s/m70pcl/ddisasm_fast_accurate_disassembler"
+    ],
+    [
+      "ddisasm: A fast and accurate disassembler",
+      "https://github.com/GrammaTech/ddisasm"
+    ]
+  ],
+  [
+    [
       "2026-08-09, 08:16:46",
       "https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug"
     ],
@@ -227,16 +237,6 @@
     [
       "The Nixpkgs core team has disbanded",
       "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 20:29:37",
-      "https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu"
-    ],
-    [
-      "Assembly Hall of Shame: Racing to the bottom of CPU performance",
-      "https://github.com/xoreaxeaxeax/asm-hall-of-shame"
     ]
   ],
   [
