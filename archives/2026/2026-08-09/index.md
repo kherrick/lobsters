@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 13:56:22](https://lobste.rs/s/35dq6x/integrated_sensing_communication_isac) - [Integrated Sensing and Communication (ISAC)](https://www.ericsson.com/en/6g/isac)
+* [2026-08-09, 13:42:39](https://lobste.rs/s/rsztog/who_should_pay_for_source_code) - [Who Should Pay For Source Code Availability?](https://kristoff.it/blog/source-code-availability/)
 * [2026-08-09, 12:26:37](https://lobste.rs/s/aa229o/what_software_is_made_2015) - [What Software is Made Of (2015)](https://siderea.dreamwidth.org/1219758.html)
 * [2026-08-09, 11:28:08](https://lobste.rs/s/m70pcl/ddisasm_fast_accurate_disassembler) - [ddisasm: A fast and accurate disassembler](https://github.com/GrammaTech/ddisasm)
 * [2026-08-09, 08:16:46](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
