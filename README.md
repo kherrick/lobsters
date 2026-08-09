@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-09, 00:57:13](https://lobste.rs/s/rgzrct/drei_wysiwyg_emacs_for_html) - [DREI: WYSIWYG Emacs for HTML](https://speechcode.com/blog/drei)
+* [2026-08-08, 23:56:58](https://lobste.rs/s/1ubzuf/fastlanes_unified_transport_layout) - [The FastLanes Unified Transport Layout](https://blog.dave.tf/post/fastlanes-utl/)
 * [2026-08-08, 23:07:20](https://lobste.rs/s/lxy0ea/faaah_filesystem_as_ai_handler) - [faaah (Filesystem As An AI Handler)](https://github.com/sebastiancarlos/faaah)
-* [2026-08-08, 21:57:01](https://lobste.rs/s/nhdcw6/magic_malicious_aging_circuits_cores) - [MAGIC: Malicious Aging in Circuits/Cores](https://dl.acm.org/doi/10.1145/2724718)
-* [2026-08-08, 21:28:56](https://lobste.rs/s/hzqxq5/atomstr_rss_atom_nostr_bridge) - [atomstr - RSS/Atom-to-Nostr bridge](https://atomstr.data.haus/)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 20:46:40](https://lobste.rs/s/tiwdxn/object_model_livelymerge) - [The Object Model in Livelymerge](https://www.inkandswitch.com/livelymerge/notebook/lm-03/)
 * [2026-08-08, 20:20:42](https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial) - [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/)
