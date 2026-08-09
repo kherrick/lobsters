@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 22:14:17](https://lobste.rs/s/vowt4d/i_got_email_about_resistance) - [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
+* [2026-08-09, 22:07:43](https://lobste.rs/s/ahyxwp/sqlite_with_fine_toothed_comb) - [SQLite with a Fine-Toothed Comb](https://blog.regehr.org/archives/1292)
 * [2026-08-09, 19:39:26](https://lobste.rs/s/csjn21/high_frequency_trading_firm_just_hired) - [High-frequency trading firm just hired Bjarne Stroustrup (creator of C++)](https://www.efinancialcareers.com/news/a-high-frequency-trading-firm-just-hired-bjarne-stroustrup-creator-of-c)
 * [2026-08-09, 18:59:54](https://lobste.rs/s/fajexk/ship_small_diffs_2017) - [Ship Small Diffs (2017)](https://mcfunley.com/ship-small-diffs)
 * [2026-08-09, 18:38:22](https://lobste.rs/s/abl0xo/commit_message_test_plans) - [Commit message test plans](https://blog.waleedkhan.name/commit-message-test-plans/)
