@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-10, 14:14:12",
-      "https://lobste.rs/s/ivasfo/performance_profiling_mutter_gnome"
+      "2026-08-10, 14:47:28",
+      "https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels"
     ],
     [
-      "Performance profiling Mutter, GNOME Shell & apps with Tracy",
-      "https://www.youtube.com/watch?v=KFp3iCdlP7c"
+      "Re-balancing Deflate Compression Levels",
+      "https://blog.klauspost.com/rebalancing-deflate-compression-levels/"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-08-10, 11:04:33",
-      "https://lobste.rs/s/sjxzgt/promise_none_them_kept"
-    ],
-    [
-      "The Promise None of Them Kept",
-      "https://webframp.com/posts/the-promise-none-of-them-kept/"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 10:37:20",
       "https://lobste.rs/s/stehhb/easy_sandboxing_on_linux_with_bubblewrap"
     ],
@@ -77,6 +67,16 @@
     [
       "Firefox Containers Preview",
       "https://blog.mozilla.org/en/firefox/firefox-containers-preview/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 09:29:47",
+      "https://lobste.rs/s/32ptwj/llms_xfwl4"
+    ],
+    [
+      "LLMs and xfwl4",
+      "https://www.spurint.org/journal/2026/07/llms-and-xfwl4"
     ]
   ],
   [
