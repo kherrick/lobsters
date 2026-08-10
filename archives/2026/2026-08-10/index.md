@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 18:21:20](https://lobste.rs/s/ctwrrt/we_re_not_done_with_point_clouds) - [We're not done with point clouds](https://claytonwramsey.com/blog/mvt/)
 * [2026-08-10, 17:31:01](https://lobste.rs/s/fl7dcm/gtk_adwaita_markdown_editor_600_lines) - [Gtk+Adwaita Markdown Editor in ~600 lines](https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31)
 * [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
 * [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)

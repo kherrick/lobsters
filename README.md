@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-10, 18:21:20](https://lobste.rs/s/ctwrrt/we_re_not_done_with_point_clouds) - [We're not done with point clouds](https://claytonwramsey.com/blog/mvt/)
 * [2026-08-10, 17:31:01](https://lobste.rs/s/fl7dcm/gtk_adwaita_markdown_editor_600_lines) - [Gtk+Adwaita Markdown Editor in ~600 lines](https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31)
 * [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
 * [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
@@ -17,7 +18,6 @@
 * [2026-08-10, 07:43:32](https://lobste.rs/s/rgpvd6/light_dark_system_theme_setting_design) - [Light/Dark/System Theme Setting Design](https://vale.rocks/micros/20260810-0330)
 * [2026-08-10, 04:13:40](https://lobste.rs/s/ssljs6/ibm_i_os_400_database_operating_system) - [IBM i (OS/400) The Database Operating System](https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/)
 * [2026-08-10, 03:40:35](https://lobste.rs/s/wew6tz/undo_redo_systems_collaborative_editing) - [Undo/redo systems and collaborative editing (2024)](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
-* [2026-08-10, 00:58:44](https://lobste.rs/s/noa9x5/profile_guided_optimization_go) - [Profile-guided optimization in Go](https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/)
 * [2026-08-09, 23:06:03](https://lobste.rs/s/09l5py/nixpkgs_multiverse_every_version_ever) - [nixpkgs-multiverse: every version that ever existed](https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed)
 * [2026-08-09, 22:14:17](https://lobste.rs/s/vowt4d/i_got_email_about_resistance) - [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
 * [2026-08-09, 17:41:59](https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026) - [IRC technology news from the first half of 2026](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/)
