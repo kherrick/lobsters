@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 23:49:30](https://lobste.rs/s/sh2bax/crashing_through_defenses_exploiting) - [Crashing Through Defenses: Exploiting Segfaults and Chaining around Intel CET](https://github.com/signal-sfop/sfop/blob/main/SFOP_s%26p_paper.pdf)
 * [2026-08-09, 23:06:03](https://lobste.rs/s/09l5py/nixpkgs_multiverse_every_version_ever) - [nixpkgs-multiverse: every version that ever existed](https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed)
 * [2026-08-09, 22:14:17](https://lobste.rs/s/vowt4d/i_got_email_about_resistance) - [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
 * [2026-08-09, 22:07:43](https://lobste.rs/s/ahyxwp/sqlite_with_fine_toothed_comb) - [SQLite with a Fine-Toothed Comb](https://blog.regehr.org/archives/1292)

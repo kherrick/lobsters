@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-09, 23:49:30](https://lobste.rs/s/sh2bax/crashing_through_defenses_exploiting) - [Crashing Through Defenses: Exploiting Segfaults and Chaining around Intel CET](https://github.com/signal-sfop/sfop/blob/main/SFOP_s%26p_paper.pdf)
 * [2026-08-09, 23:06:03](https://lobste.rs/s/09l5py/nixpkgs_multiverse_every_version_ever) - [nixpkgs-multiverse: every version that ever existed](https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed)
 * [2026-08-09, 22:14:17](https://lobste.rs/s/vowt4d/i_got_email_about_resistance) - [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
 * [2026-08-09, 22:07:43](https://lobste.rs/s/ahyxwp/sqlite_with_fine_toothed_comb) - [SQLite with a Fine-Toothed Comb](https://blog.regehr.org/archives/1292)
@@ -23,7 +24,6 @@
 * [2026-08-09, 02:28:18](https://lobste.rs/s/urdoby/dithered_qr_codes) - [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
-* [2026-08-08, 18:52:15](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020) - [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser)
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
 
 ## [Archives](archives/index.md)
