@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 21:47:24](https://lobste.rs/s/kwo9cn/making_need_for_speed_2015_with_game_maker) - [Making Need For Speed 2015 with Game Maker](https://www.youtube.com/watch?v=ffGqjOBowIc)
 * [2026-08-10, 20:29:07](https://lobste.rs/s/gkuj8b/remaking_party_house) - [Remaking Party House](https://herecomesthemoon.net/2026/08/remaking-party-house/)
 * [2026-08-10, 20:17:31](https://lobste.rs/s/nvmbfe/moving_integer_division_floating_point) - [Moving integer division to floating-point is trivial](http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html)
 * [2026-08-10, 19:29:51](https://lobste.rs/s/tvfhvm/early_days_history_interactive) - [The Early Days: A History of Interactive Computing](https://obsolescence.dev/interactive-computing-history.html)

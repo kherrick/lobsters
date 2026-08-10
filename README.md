@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-10, 21:47:24](https://lobste.rs/s/kwo9cn/making_need_for_speed_2015_with_game_maker) - [Making Need For Speed 2015 with Game Maker](https://www.youtube.com/watch?v=ffGqjOBowIc)
 * [2026-08-10, 20:17:31](https://lobste.rs/s/nvmbfe/moving_integer_division_floating_point) - [Moving integer division to floating-point is trivial](http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html)
 * [2026-08-10, 19:29:51](https://lobste.rs/s/tvfhvm/early_days_history_interactive) - [The Early Days: A History of Interactive Computing](https://obsolescence.dev/interactive-computing-history.html)
 * [2026-08-10, 19:18:34](https://lobste.rs/s/pq7dtk/c_toolchain_from_357_bytes_bazel) - [A C++ toolchain from 357 bytes in Bazel](https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel)
@@ -24,7 +25,6 @@
 * [2026-08-09, 17:41:59](https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026) - [IRC technology news from the first half of 2026](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/)
 * [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 * [2026-08-09, 13:42:39](https://lobste.rs/s/rsztog/who_should_pay_for_source_code) - [Who Should Pay For Source Code Availability?](https://kristoff.it/blog/source-code-availability/)
-* [2026-08-09, 08:16:46](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 
 ## [Archives](archives/index.md)
 
