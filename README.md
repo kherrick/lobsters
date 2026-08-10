@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-10, 05:57:28](https://lobste.rs/s/tykvbi/make_pds_your_own_customization_metrics) - [Make the PDS Your Own: Customization and Metrics](https://atproto.com/blog/pds-customization-and-metrics)
 * [2026-08-10, 04:13:40](https://lobste.rs/s/ssljs6/ibm_i_os_400_database_operating_system) - [IBM i (OS/400) The Database Operating System](https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/)
 * [2026-08-10, 03:40:35](https://lobste.rs/s/wew6tz/undo_redo_systems_collaborative_editing) - [Undo/redo systems and collaborative editing (2024)](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
 * [2026-08-10, 00:58:44](https://lobste.rs/s/noa9x5/profile_guided_optimization_go) - [Profile-guided optimization in Go](https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/)
@@ -22,7 +23,6 @@
 * [2026-08-09, 03:39:26](https://lobste.rs/s/ykuqrc/my_server_is_phone_now) - [my server is a phone now](https://seg6.space/posts/phone-server/)
 * [2026-08-09, 02:32:55](https://lobste.rs/s/cqx6f6/counting_days_revisited) - [Counting the days, revisited](https://dotat.at/@/2026-08-09-rata-die.html)
 * [2026-08-09, 02:28:18](https://lobste.rs/s/urdoby/dithered_qr_codes) - [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
-* [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
 * [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 13:48:36](https://lobste.rs/s/cmrfrj/some_software_talks_i_like) - [some software talks i like](https://char.lt/blog/2026/08/talks-i-like/)
 
