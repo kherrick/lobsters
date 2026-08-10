@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
 * [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
 * [2026-08-10, 14:47:28](https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels) - [Re-balancing Deflate Compression Levels](https://blog.klauspost.com/rebalancing-deflate-compression-levels/)
 * [2026-08-10, 14:34:57](https://lobste.rs/s/olo2k9/nixpkgs_isn_t_doing_too_hot) - [nixpkgs isn't doing too hot](https://foxgirl.engineering/blog/nixpkgs-not-hot/)

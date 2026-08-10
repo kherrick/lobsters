@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
 * [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
 * [2026-08-10, 14:47:28](https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels) - [Re-balancing Deflate Compression Levels (2016)](https://blog.klauspost.com/rebalancing-deflate-compression-levels/)
 * [2026-08-10, 14:34:57](https://lobste.rs/s/olo2k9/nixpkgs_isn_t_doing_too_hot) - [nixpkgs isn't doing too hot](https://foxgirl.engineering/blog/nixpkgs-not-hot/)
@@ -9,7 +10,6 @@
 * [2026-08-10, 11:21:36](https://lobste.rs/s/guqk6b/fast_haskell_scripts_on_github_actions) - [Fast Haskell Scripts on GitHub Actions](https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/)
 * [2026-08-10, 10:37:20](https://lobste.rs/s/stehhb/easy_sandboxing_on_linux_with_bubblewrap) - [Easy Sandboxing on Linux with Bubblewrap](https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/)
 * [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
-* [2026-08-10, 09:29:47](https://lobste.rs/s/32ptwj/llms_xfwl4) - [LLMs and xfwl4](https://www.spurint.org/journal/2026/07/llms-and-xfwl4)
 * [2026-08-10, 08:04:12](https://lobste.rs/s/ulinck/toggles_considered_harmful) - [Toggles Considered Harmful](https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/)
 * [2026-08-10, 07:56:03](https://lobste.rs/s/p3mmqr/ambiguity_c89_which_will_never_be_fixed) - [an ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-10, 07:47:36](https://lobste.rs/s/4waghh/how_do_programming_languages_impact) - [How do programming languages impact token efficiency and correctness?](https://danluu.com/pl-tokens/)
