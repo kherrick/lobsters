@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
 * [2026-08-10, 14:47:28](https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels) - [Re-balancing Deflate Compression Levels](https://blog.klauspost.com/rebalancing-deflate-compression-levels/)
+* [2026-08-10, 14:34:57](https://lobste.rs/s/olo2k9/nixpkgs_isn_t_doing_too_hot) - [nixpkgs isn't doing too hot](https://foxgirl.engineering/blog/nixpkgs-not-hot/)
 * [2026-08-10, 14:14:12](https://lobste.rs/s/ivasfo/performance_profiling_mutter_gnome) - [Performance profiling Mutter, GNOME Shell & apps with Tracy](https://www.youtube.com/watch?v=KFp3iCdlP7c)
 * [2026-08-10, 13:30:18](https://lobste.rs/s/ipt1em/github_actions_needs_oidc_audience) - [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
 * [2026-08-10, 12:46:03](https://lobste.rs/s/cn7jyo/django_is_moving_annual_release_cycle) - [Django is moving to an annual release cycle](https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/)

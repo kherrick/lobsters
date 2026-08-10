@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-10, 14:47:28](https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels) - [Re-balancing Deflate Compression Levels](https://blog.klauspost.com/rebalancing-deflate-compression-levels/)
+* [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
+* [2026-08-10, 14:47:28](https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels) - [Re-balancing Deflate Compression Levels (2016)](https://blog.klauspost.com/rebalancing-deflate-compression-levels/)
+* [2026-08-10, 14:34:57](https://lobste.rs/s/olo2k9/nixpkgs_isn_t_doing_too_hot) - [nixpkgs isn't doing too hot](https://foxgirl.engineering/blog/nixpkgs-not-hot/)
 * [2026-08-10, 13:30:18](https://lobste.rs/s/ipt1em/github_actions_needs_oidc_audience) - [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
 * [2026-08-10, 12:46:03](https://lobste.rs/s/cn7jyo/django_is_moving_annual_release_cycle) - [Django is moving to an annual release cycle](https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/)
 * [2026-08-10, 11:41:16](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week)
@@ -12,7 +14,6 @@
 * [2026-08-10, 07:56:03](https://lobste.rs/s/p3mmqr/ambiguity_c89_which_will_never_be_fixed) - [an ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-10, 07:47:36](https://lobste.rs/s/4waghh/how_do_programming_languages_impact) - [How do programming languages impact token efficiency and correctness?](https://danluu.com/pl-tokens/)
 * [2026-08-10, 07:43:32](https://lobste.rs/s/rgpvd6/light_dark_system_theme_setting_design) - [Light/Dark/System Theme Setting Design](https://vale.rocks/micros/20260810-0330)
-* [2026-08-10, 05:57:28](https://lobste.rs/s/tykvbi/make_pds_your_own_customization_metrics) - [Make the PDS Your Own: Customization and Metrics](https://atproto.com/blog/pds-customization-and-metrics)
 * [2026-08-10, 04:13:40](https://lobste.rs/s/ssljs6/ibm_i_os_400_database_operating_system) - [IBM i (OS/400) The Database Operating System](https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/)
 * [2026-08-10, 03:40:35](https://lobste.rs/s/wew6tz/undo_redo_systems_collaborative_editing) - [Undo/redo systems and collaborative editing (2024)](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
 * [2026-08-10, 00:58:44](https://lobste.rs/s/noa9x5/profile_guided_optimization_go) - [Profile-guided optimization in Go](https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/)
@@ -24,7 +25,6 @@
 * [2026-08-09, 14:43:04](https://lobste.rs/s/1ygxcp/relying_on_go) - [Relying on Go](https://antonz.org/relying-on-go/)
 * [2026-08-09, 13:42:39](https://lobste.rs/s/rsztog/who_should_pay_for_source_code) - [Who Should Pay For Source Code Availability?](https://kristoff.it/blog/source-code-availability/)
 * [2026-08-09, 08:16:46](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
-* [2026-08-09, 02:28:18](https://lobste.rs/s/urdoby/dithered_qr_codes) - [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
 
 ## [Archives](archives/index.md)
 
