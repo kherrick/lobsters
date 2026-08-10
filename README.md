@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-10, 03:40:35](https://lobste.rs/s/wew6tz/undo_redo_systems_collaborative_editing) - [Undo/redo systems and collaborative editing (2024)](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
 * [2026-08-10, 00:58:44](https://lobste.rs/s/noa9x5/profile_guided_optimization_go) - [Profile-guided optimization in Go](https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/)
 * [2026-08-09, 23:06:03](https://lobste.rs/s/09l5py/nixpkgs_multiverse_every_version_ever) - [nixpkgs-multiverse: every version that ever existed](https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed)
 * [2026-08-09, 22:14:17](https://lobste.rs/s/vowt4d/i_got_email_about_resistance) - [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
@@ -19,7 +20,6 @@
 * [2026-08-09, 07:14:28](https://lobste.rs/s/paryb7/rails_is_done) - [Rails is done](https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/)
 * [2026-08-09, 06:50:19](https://lobste.rs/s/xkdbhe/port_enlightenment_desktop_environment) - [Port the Enlightenment desktop environment to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment)
 * [2026-08-09, 03:39:26](https://lobste.rs/s/ykuqrc/my_server_is_phone_now) - [my server is a phone now](https://seg6.space/posts/phone-server/)
-* [2026-08-09, 02:37:10](https://lobste.rs/s/0gmfid/triton_directx_11_driver_for_qemu) - [Triton: DirectX 11 driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 * [2026-08-09, 02:32:55](https://lobste.rs/s/cqx6f6/counting_days_revisited) - [Counting the days, revisited](https://dotat.at/@/2026-08-09-rata-die.html)
 * [2026-08-09, 02:28:18](https://lobste.rs/s/urdoby/dithered_qr_codes) - [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
 * [2026-08-08, 21:11:53](https://lobste.rs/s/lv7kzs/multistack_concatenative_programming) - [Multistack Concatenative Programming Languages](https://www.sheeeeeeeep.art/multistack-catlangs.html)
