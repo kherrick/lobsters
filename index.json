@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-10, 15:29:34",
+      "https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight"
+    ],
+    [
+      "a pure css implementation of some sunlight streaming in through the window",
+      "https://github.com/jackyzha0/sunlit"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 14:47:28",
       "https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels"
     ],
     [
-      "Re-balancing Deflate Compression Levels",
+      "Re-balancing Deflate Compression Levels (2016)",
       "https://blog.klauspost.com/rebalancing-deflate-compression-levels/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 14:34:57",
+      "https://lobste.rs/s/olo2k9/nixpkgs_isn_t_doing_too_hot"
+    ],
+    [
+      "nixpkgs isn't doing too hot",
+      "https://foxgirl.engineering/blog/nixpkgs-not-hot/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-08-10, 05:57:28",
-      "https://lobste.rs/s/tykvbi/make_pds_your_own_customization_metrics"
-    ],
-    [
-      "Make the PDS Your Own: Customization and Metrics",
-      "https://atproto.com/blog/pds-customization-and-metrics"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 04:13:40",
       "https://lobste.rs/s/ssljs6/ibm_i_os_400_database_operating_system"
     ],
@@ -237,16 +247,6 @@
     [
       "Tracking down a Zsh history data loss bug",
       "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/"
-    ]
-  ],
-  [
-    [
-      "2026-08-09, 02:28:18",
-      "https://lobste.rs/s/urdoby/dithered_qr_codes"
-    ],
-    [
-      "Dithered QR codes",
-      "https://www.andrewt.net/dithered-qr-codes/wtf/"
     ]
   ]
 ]
