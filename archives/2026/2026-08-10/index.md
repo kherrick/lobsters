@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 14:14:12](https://lobste.rs/s/ivasfo/performance_profiling_mutter_gnome) - [Performance profiling Mutter, GNOME Shell & apps with Tracy](https://www.youtube.com/watch?v=KFp3iCdlP7c)
+* [2026-08-10, 13:30:18](https://lobste.rs/s/ipt1em/github_actions_needs_oidc_audience) - [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
 * [2026-08-10, 12:46:03](https://lobste.rs/s/cn7jyo/django_is_moving_annual_release_cycle) - [Django is moving to an annual release cycle](https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/)
 * [2026-08-10, 11:41:16](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week)
 * [2026-08-10, 11:21:36](https://lobste.rs/s/guqk6b/fast_haskell_scripts_on_github_actions) - [Fast Haskell Scripts on GitHub Actions](https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/)
