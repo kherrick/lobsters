@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 20:29:07](https://lobste.rs/s/gkuj8b/remaking_party_house) - [Remaking Party House](https://herecomesthemoon.net/2026/08/remaking-party-house/)
+* [2026-08-10, 19:29:51](https://lobste.rs/s/tvfhvm/early_days_history_interactive) - [The Early Days: A History of Interactive Computing](https://obsolescence.dev/interactive-computing-history.html)
 * [2026-08-10, 19:18:34](https://lobste.rs/s/pq7dtk/c_toolchain_from_357_bytes_bazel) - [A C++ toolchain from 357 bytes in Bazel](https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel)
+* [2026-08-10, 18:39:53](https://lobste.rs/s/9j3n3b/restricting_trait_implementability) - [Restricting trait implementability and field mutability](https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/)
 * [2026-08-10, 18:21:20](https://lobste.rs/s/ctwrrt/we_re_not_done_with_point_clouds) - [We're not done with point clouds](https://claytonwramsey.com/blog/mvt/)
 * [2026-08-10, 18:09:05](https://lobste.rs/s/nkoni1/dark_mode_toggles_two_states_are_enough) - [Dark mode toggles: two states are enough](https://lea.verou.me/blog/2026/dark-mode-toggles/)
 * [2026-08-10, 17:31:01](https://lobste.rs/s/fl7dcm/gtk_adwaita_markdown_editor_600_lines) - [Gtk+Adwaita Markdown Editor in ~600 lines](https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31)

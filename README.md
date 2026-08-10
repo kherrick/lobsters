@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-10, 20:29:07](https://lobste.rs/s/gkuj8b/remaking_party_house) - [Remaking Party House](https://herecomesthemoon.net/2026/08/remaking-party-house/)
+* [2026-08-10, 19:29:51](https://lobste.rs/s/tvfhvm/early_days_history_interactive) - [The Early Days: A History of Interactive Computing](https://obsolescence.dev/interactive-computing-history.html)
 * [2026-08-10, 19:18:34](https://lobste.rs/s/pq7dtk/c_toolchain_from_357_bytes_bazel) - [A C++ toolchain from 357 bytes in Bazel](https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel)
+* [2026-08-10, 18:39:53](https://lobste.rs/s/9j3n3b/restricting_trait_implementability) - [Restricting trait implementability and field mutability](https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/)
 * [2026-08-10, 18:21:20](https://lobste.rs/s/ctwrrt/we_re_not_done_with_point_clouds) - [We're not done with point clouds](https://claytonwramsey.com/blog/mvt/)
 * [2026-08-10, 18:09:05](https://lobste.rs/s/nkoni1/dark_mode_toggles_two_states_are_enough) - [Dark mode toggles: two states are enough](https://lea.verou.me/blog/2026/dark-mode-toggles/)
 * [2026-08-10, 17:31:01](https://lobste.rs/s/fl7dcm/gtk_adwaita_markdown_editor_600_lines) - [Gtk+Adwaita Markdown Editor in ~600 lines](https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31)
@@ -17,12 +20,9 @@
 * [2026-08-10, 07:56:03](https://lobste.rs/s/p3mmqr/ambiguity_c89_which_will_never_be_fixed) - [an ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-10, 07:47:36](https://lobste.rs/s/4waghh/how_do_programming_languages_impact) - [How do programming languages impact token efficiency and correctness?](https://danluu.com/pl-tokens/)
 * [2026-08-10, 04:13:40](https://lobste.rs/s/ssljs6/ibm_i_os_400_database_operating_system) - [IBM i (OS/400) The Database Operating System](https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/)
-* [2026-08-10, 03:40:35](https://lobste.rs/s/wew6tz/undo_redo_systems_collaborative_editing) - [Undo/redo systems and collaborative editing (2024)](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
 * [2026-08-09, 23:06:03](https://lobste.rs/s/09l5py/nixpkgs_multiverse_every_version_ever) - [nixpkgs-multiverse: every version that ever existed](https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed)
-* [2026-08-09, 22:14:17](https://lobste.rs/s/vowt4d/i_got_email_about_resistance) - [I got an email about resistance](https://www.seangoedecke.com/i-got-an-email-about-resistance/)
 * [2026-08-09, 17:41:59](https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026) - [IRC technology news from the first half of 2026](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/)
 * [2026-08-09, 15:44:17](https://lobste.rs/s/jnbujx/mea_culpa_dark_hours) - [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
-* [2026-08-09, 14:43:04](https://lobste.rs/s/1ygxcp/relying_on_go) - [Relying on Go](https://antonz.org/relying-on-go/)
 * [2026-08-09, 13:42:39](https://lobste.rs/s/rsztog/who_should_pay_for_source_code) - [Who Should Pay For Source Code Availability?](https://kristoff.it/blog/source-code-availability/)
 * [2026-08-09, 08:16:46](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 
