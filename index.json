@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-08-10, 20:29:07",
-      "https://lobste.rs/s/gkuj8b/remaking_party_house"
-    ],
-    [
-      "Remaking Party House",
-      "https://herecomesthemoon.net/2026/08/remaking-party-house/"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 19:29:51",
       "https://lobste.rs/s/tvfhvm/early_days_history_interactive"
     ],
@@ -37,6 +27,16 @@
     [
       "Restricting trait implementability and field mutability",
       "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 18:31:12",
+      "https://lobste.rs/s/dd80wh/mathematical_beauty_hyperbezier_curves"
+    ],
+    [
+      "The mathematical beauty of hyperbezier curves",
+      "https://linebender.org/blog/hyperbezier/"
     ]
   ],
   [
