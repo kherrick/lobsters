@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 11:41:16](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week)
+* [2026-08-10, 11:21:36](https://lobste.rs/s/guqk6b/fast_haskell_scripts_on_github_actions) - [Fast Haskell Scripts on GitHub Actions](https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/)
 * [2026-08-10, 11:04:33](https://lobste.rs/s/sjxzgt/promise_none_them_kept) - [The Promise None of Them Kept](https://webframp.com/posts/the-promise-none-of-them-kept/)
 * [2026-08-10, 10:37:20](https://lobste.rs/s/stehhb/easy_sandboxing_on_linux_with_bubblewrap) - [Easy Sandboxing on Linux with Bubblewrap](https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/)
 * [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)

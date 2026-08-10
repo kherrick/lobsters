@@ -1,13 +1,15 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-10, 11:41:16](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week)
+* [2026-08-10, 11:21:36](https://lobste.rs/s/guqk6b/fast_haskell_scripts_on_github_actions) - [Fast Haskell Scripts on GitHub Actions](https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/)
 * [2026-08-10, 11:04:33](https://lobste.rs/s/sjxzgt/promise_none_them_kept) - [The Promise None of Them Kept](https://webframp.com/posts/the-promise-none-of-them-kept/)
 * [2026-08-10, 10:37:20](https://lobste.rs/s/stehhb/easy_sandboxing_on_linux_with_bubblewrap) - [Easy Sandboxing on Linux with Bubblewrap](https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/)
 * [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
+* [2026-08-10, 09:29:47](https://lobste.rs/s/32ptwj/llms_xfwl4) - [LLMs and xfwl4](https://www.spurint.org/journal/2026/07/llms-and-xfwl4)
 * [2026-08-10, 08:04:12](https://lobste.rs/s/ulinck/toggles_considered_harmful) - [Toggles Considered Harmful](https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/)
 * [2026-08-10, 07:56:03](https://lobste.rs/s/p3mmqr/ambiguity_c89_which_will_never_be_fixed) - [an ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-10, 07:47:36](https://lobste.rs/s/4waghh/how_do_programming_languages_impact) - [How do programming languages impact token efficiency and correctness?](https://danluu.com/pl-tokens/)
 * [2026-08-10, 07:43:32](https://lobste.rs/s/rgpvd6/light_dark_system_theme_setting_design) - [Light/Dark/System Theme Setting Design](https://vale.rocks/micros/20260810-0330)
-* [2026-08-10, 05:57:28](https://lobste.rs/s/tykvbi/make_pds_your_own_customization_metrics) - [Make the PDS Your Own: Customization and Metrics](https://atproto.com/blog/pds-customization-and-metrics)
 * [2026-08-10, 04:13:40](https://lobste.rs/s/ssljs6/ibm_i_os_400_database_operating_system) - [IBM i (OS/400) The Database Operating System](https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/)
 * [2026-08-10, 03:40:35](https://lobste.rs/s/wew6tz/undo_redo_systems_collaborative_editing) - [Undo/redo systems and collaborative editing (2024)](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
 * [2026-08-10, 00:58:44](https://lobste.rs/s/noa9x5/profile_guided_optimization_go) - [Profile-guided optimization in Go](https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/)
@@ -22,9 +24,7 @@
 * [2026-08-09, 13:42:39](https://lobste.rs/s/rsztog/who_should_pay_for_source_code) - [Who Should Pay For Source Code Availability?](https://kristoff.it/blog/source-code-availability/)
 * [2026-08-09, 08:16:46](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 * [2026-08-09, 07:14:28](https://lobste.rs/s/paryb7/rails_is_done) - [Rails is done](https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/)
-* [2026-08-09, 03:39:26](https://lobste.rs/s/ykuqrc/my_server_is_phone_now) - [my server is a phone now](https://seg6.space/posts/phone-server/)
 * [2026-08-09, 02:28:18](https://lobste.rs/s/urdoby/dithered_qr_codes) - [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
-* [2026-08-08, 19:23:48](https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 
 ## [Archives](archives/index.md)
 
