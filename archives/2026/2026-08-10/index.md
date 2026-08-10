@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 11:04:33](https://lobste.rs/s/sjxzgt/promise_none_them_kept) - [The Promise None of Them Kept](https://webframp.com/posts/the-promise-none-of-them-kept/)
+* [2026-08-10, 10:37:20](https://lobste.rs/s/stehhb/easy_sandboxing_on_linux_with_bubblewrap) - [Easy Sandboxing on Linux with Bubblewrap](https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/)
 * [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 * [2026-08-10, 09:29:47](https://lobste.rs/s/32ptwj/llms_xfwl4) - [LLMs and xfwl4](https://www.spurint.org/journal/2026/07/llms-and-xfwl4)
 * [2026-08-10, 08:04:12](https://lobste.rs/s/ulinck/toggles_considered_harmful) - [Toggles Considered Harmful](https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/)
