@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-10, 20:17:31",
+      "https://lobste.rs/s/nvmbfe/moving_integer_division_floating_point"
+    ],
+    [
+      "Moving integer division to floating-point is trivial",
+      "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 19:29:51",
       "https://lobste.rs/s/tvfhvm/early_days_history_interactive"
     ],
@@ -87,16 +97,6 @@
     [
       "a pure css implementation of some sunlight streaming in through the window",
       "https://github.com/jackyzha0/sunlit"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 14:47:28",
-      "https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels"
-    ],
-    [
-      "Re-balancing Deflate Compression Levels (2016)",
-      "https://blog.klauspost.com/rebalancing-deflate-compression-levels/"
     ]
   ],
   [
