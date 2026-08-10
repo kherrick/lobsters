@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
+* [2026-08-10, 09:29:47](https://lobste.rs/s/32ptwj/llms_xfwl4) - [LLMs and xfwl4](https://www.spurint.org/journal/2026/07/llms-and-xfwl4)
 * [2026-08-10, 08:04:12](https://lobste.rs/s/ulinck/toggles_considered_harmful) - [Toggles Considered Harmful](https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/)
 * [2026-08-10, 07:56:03](https://lobste.rs/s/p3mmqr/ambiguity_c89_which_will_never_be_fixed) - [an ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-10, 07:47:36](https://lobste.rs/s/4waghh/how_do_programming_languages_impact) - [How do programming languages impact token efficiency and correctness?](https://danluu.com/pl-tokens/)
