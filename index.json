@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-10, 11:41:16",
+      "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 11:21:36",
+      "https://lobste.rs/s/guqk6b/fast_haskell_scripts_on_github_actions"
+    ],
+    [
+      "Fast Haskell Scripts on GitHub Actions",
+      "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 11:04:33",
       "https://lobste.rs/s/sjxzgt/promise_none_them_kept"
     ],
@@ -27,6 +47,16 @@
     [
       "Firefox Containers Preview",
       "https://blog.mozilla.org/en/firefox/firefox-containers-preview/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 09:29:47",
+      "https://lobste.rs/s/32ptwj/llms_xfwl4"
+    ],
+    [
+      "LLMs and xfwl4",
+      "https://www.spurint.org/journal/2026/07/llms-and-xfwl4"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Light/Dark/System Theme Setting Design",
       "https://vale.rocks/micros/20260810-0330"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 05:57:28",
-      "https://lobste.rs/s/tykvbi/make_pds_your_own_customization_metrics"
-    ],
-    [
-      "Make the PDS Your Own: Customization and Metrics",
-      "https://atproto.com/blog/pds-customization-and-metrics"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-08-09, 03:39:26",
-      "https://lobste.rs/s/ykuqrc/my_server_is_phone_now"
-    ],
-    [
-      "my server is a phone now",
-      "https://seg6.space/posts/phone-server/"
-    ]
-  ],
-  [
-    [
       "2026-08-09, 02:28:18",
       "https://lobste.rs/s/urdoby/dithered_qr_codes"
     ],
     [
       "Dithered QR codes",
       "https://www.andrewt.net/dithered-qr-codes/wtf/"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 19:23:48",
-      "https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all"
-    ],
-    [
-      "\"Code was never the hard part\" is an insult to all programmers",
-      "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"
     ]
   ]
 ]
