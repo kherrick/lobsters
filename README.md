@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-10, 20:17:31](https://lobste.rs/s/nvmbfe/moving_integer_division_floating_point) - [Moving integer division to floating-point is trivial](http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html)
 * [2026-08-10, 19:29:51](https://lobste.rs/s/tvfhvm/early_days_history_interactive) - [The Early Days: A History of Interactive Computing](https://obsolescence.dev/interactive-computing-history.html)
 * [2026-08-10, 19:18:34](https://lobste.rs/s/pq7dtk/c_toolchain_from_357_bytes_bazel) - [A C++ toolchain from 357 bytes in Bazel](https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel)
 * [2026-08-10, 18:39:53](https://lobste.rs/s/9j3n3b/restricting_trait_implementability) - [Restricting trait implementability and field mutability](https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/)
@@ -9,7 +10,6 @@
 * [2026-08-10, 17:31:01](https://lobste.rs/s/fl7dcm/gtk_adwaita_markdown_editor_600_lines) - [Gtk+Adwaita Markdown Editor in ~600 lines](https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31)
 * [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
 * [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
-* [2026-08-10, 14:47:28](https://lobste.rs/s/edtmqj/re_balancing_deflate_compression_levels) - [Re-balancing Deflate Compression Levels (2016)](https://blog.klauspost.com/rebalancing-deflate-compression-levels/)
 * [2026-08-10, 13:30:18](https://lobste.rs/s/ipt1em/github_actions_needs_oidc_audience) - [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
 * [2026-08-10, 12:46:03](https://lobste.rs/s/cn7jyo/django_is_moving_annual_release_cycle) - [Django is moving to an annual release cycle](https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/)
 * [2026-08-10, 11:41:16](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3qwloh/what_are_you_doing_this_week)
