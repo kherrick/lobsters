@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 09:02:29](https://lobste.rs/s/ci7bnd/there_s_dungeon_under_this_blog) - [There's a dungeon under this blog](https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/)
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
 * [2026-08-11, 04:31:12](https://lobste.rs/s/uuo1wt/solving_advent_code_on_fpgas_with_haskell) - [Solving Advent Of Code on FPGAs with Haskell Clash](https://midirus.com/blog/advent-of-fpga)
 * [2026-08-11, 03:36:25](https://lobste.rs/s/oppmip/bevy_s_sixth_birthday) - [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/)
