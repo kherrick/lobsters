@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
+* [2026-08-11, 04:31:12](https://lobste.rs/s/uuo1wt/solving_advent_code_on_fpgas_with_haskell) - [Solving Advent Of Code on FPGAs with Haskell Clash](https://midirus.com/blog/advent-of-fpga)
 * [2026-08-11, 03:27:08](https://lobste.rs/s/kkqqdn/no_local_models_will_not_win) - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
+* [2026-08-11, 03:10:05](https://lobste.rs/s/csc385/odd_comments_strange_doings_unix) - [Odd Comments and Strange Doings in Unix](https://9p.io/who/dmr/odd.html)
 * [2026-08-11, 01:49:16](https://lobste.rs/s/8sojbt/more_than_two_thirds_zeros_riemann_zeta) - [More than two thirds of the zeros of the Riemann zeta function lie on the critical line](https://www.anthropic.com/research/riemann-zeta)
 * [2026-08-11, 00:24:07](https://lobste.rs/s/gxhfny/chicken_scheme_6_0_released) - [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
 * [2026-08-10, 22:33:28](https://lobste.rs/s/bgvipl/watch_out_for_cache_read_costs) - [Watch out for cache read costs](https://martinalderson.com/posts/watch-out-for-cache-read-costs/)
@@ -23,8 +25,6 @@
 * [2026-08-10, 08:04:12](https://lobste.rs/s/ulinck/toggles_considered_harmful) - [Toggles Considered Harmful](https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/)
 * [2026-08-10, 07:56:03](https://lobste.rs/s/p3mmqr/ambiguity_c89_which_will_never_be_fixed) - [an ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-10, 07:47:36](https://lobste.rs/s/4waghh/how_do_programming_languages_impact) - [How do programming languages impact token efficiency and correctness?](https://danluu.com/pl-tokens/)
-* [2026-08-09, 23:06:03](https://lobste.rs/s/09l5py/nixpkgs_multiverse_every_version_ever) - [nixpkgs-multiverse: every version that ever existed](https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed)
-* [2026-08-09, 17:41:59](https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026) - [IRC technology news from the first half of 2026](https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/)
 
 ## [Archives](archives/index.md)
 
