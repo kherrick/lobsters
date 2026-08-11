@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-11, 12:41:37",
+      "https://lobste.rs/s/aeur9s/noob_learns_fft"
+    ],
+    [
+      "A noob learns FFT",
+      "https://entropicthoughts.com/fft"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 12:22:26",
+      "https://lobste.rs/s/pqq2gi/briar_is_maintenance_mode"
+    ],
+    [
+      "Briar is in maintenance mode",
+      "https://briarproject.org/news/2026-maintenance-mode/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 12:13:18",
+      "https://lobste.rs/s/9iliea/making_etched_holograms_with_pen_plotter"
+    ],
+    [
+      "Making [etched] holograms with a pen plotter",
+      "https://blog.jordan.matelsky.com/Penplotter-holography/"
+    ]
+  ],
+  [
+    [
       "2026-08-11, 10:11:38",
       "https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline"
     ],
@@ -17,6 +47,16 @@
     [
       "There's a dungeon under this blog",
       "https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 06:40:53",
+      "https://lobste.rs/s/tgpjez/squeak_6_1"
+    ],
+    [
+      "Squeak 6.1",
+      "https://squeak.org/release_notes/6.1/"
     ]
   ],
   [
@@ -111,26 +151,6 @@
   ],
   [
     [
-      "2026-08-10, 20:29:07",
-      "https://lobste.rs/s/gkuj8b/remaking_party_house"
-    ],
-    [
-      "Remaking Party House",
-      "https://herecomesthemoon.net/2026/08/remaking-party-house/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 18:39:53",
-      "https://lobste.rs/s/9j3n3b/restricting_trait_implementability"
-    ],
-    [
-      "Restricting trait implementability and field mutability",
-      "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 18:31:12",
       "https://lobste.rs/s/dd80wh/mathematical_beauty_hyperbezier_curves"
     ],
@@ -147,16 +167,6 @@
     [
       "We're not done with point clouds",
       "https://claytonwramsey.com/blog/mvt/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 17:31:01",
-      "https://lobste.rs/s/fl7dcm/gtk_adwaita_markdown_editor_600_lines"
-    ],
-    [
-      "Gtk+Adwaita Markdown Editor in ~600 lines",
-      "https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Django is moving to an annual release cycle",
       "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 11:41:16",
-      "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/3qwloh/what_are_you_doing_this_week"
     ]
   ],
   [
