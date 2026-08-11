@@ -1,15 +1,16 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-11, 16:00:14](https://lobste.rs/s/7hm8yf/performance_impact_alignment) - [Performance impact of Alignment](https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html)
+* [2026-08-11, 14:44:05](https://lobste.rs/s/z5v07a/cleaning_costs_examining_openbsd_fret) - [Cleaning costs, or, examining the OpenBSD -fret-clean flag](https://briancallahan.net/blog/20260811.html)
 * [2026-08-11, 14:20:29](https://lobste.rs/s/8k3c7u/msword_port_microsoft_word_1_1a_x64) - [msword: Port of Microsoft Word 1.1a to x64](https://github.com/jmarshall23/msword)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
 * [2026-08-11, 12:41:37](https://lobste.rs/s/aeur9s/noob_learns_fft) - [A noob learns FFT](https://entropicthoughts.com/fft)
 * [2026-08-11, 12:22:26](https://lobste.rs/s/pqq2gi/briar_is_maintenance_mode) - [Briar is in maintenance mode](https://briarproject.org/news/2026-maintenance-mode/)
 * [2026-08-11, 12:13:18](https://lobste.rs/s/9iliea/making_etched_holograms_with_pen_plotter) - [Making [etched] holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
-* [2026-08-11, 10:11:38](https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline) - [An inter-mesh deployment pipeline](https://blog.zm.is/an-inter-mesh-deployment-pipeline/)
 * [2026-08-11, 09:02:29](https://lobste.rs/s/ci7bnd/there_s_dungeon_under_this_blog) - [There's a dungeon under this blog](https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/)
+* [2026-08-11, 06:40:53](https://lobste.rs/s/tgpjez/squeak_6_1) - [Squeak 6.1](https://squeak.org/release_notes/6.1/)
 * [2026-08-11, 05:40:00](https://lobste.rs/s/ogrb7f/modeling_state_transitions_postgres) - [Modeling State Transitions in Postgres](https://thoughtbot.com/blog/modeling-state-transitions-in-postgres)
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
-* [2026-08-11, 04:31:12](https://lobste.rs/s/uuo1wt/solving_advent_code_on_fpgas_with_haskell) - [Solving Advent Of Code on FPGAs with Haskell Clash](https://midirus.com/blog/advent-of-fpga)
 * [2026-08-11, 03:36:25](https://lobste.rs/s/oppmip/bevy_s_sixth_birthday) - [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/)
 * [2026-08-11, 03:27:08](https://lobste.rs/s/kkqqdn/no_local_models_will_not_win) - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
 * [2026-08-11, 03:10:05](https://lobste.rs/s/csc385/odd_comments_strange_doings_unix) - [Odd Comments and Strange Doings in Unix](https://9p.io/who/dmr/odd.html)
@@ -24,7 +25,6 @@
 * [2026-08-10, 12:46:03](https://lobste.rs/s/cn7jyo/django_is_moving_annual_release_cycle) - [Django is moving to an annual release cycle](https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/)
 * [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 * [2026-08-10, 08:04:12](https://lobste.rs/s/ulinck/toggles_considered_harmful) - [Toggles Considered Harmful](https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/)
-* [2026-08-10, 07:56:03](https://lobste.rs/s/p3mmqr/ambiguity_c89_which_will_never_be_fixed) - [an ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 
 ## [Archives](archives/index.md)
 
