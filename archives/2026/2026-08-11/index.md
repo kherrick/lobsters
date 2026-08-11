@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
 * [2026-08-11, 03:36:25](https://lobste.rs/s/oppmip/bevy_s_sixth_birthday) - [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/)
+* [2026-08-11, 03:27:08](https://lobste.rs/s/kkqqdn/no_local_models_will_not_win) - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
+* [2026-08-11, 01:49:16](https://lobste.rs/s/8sojbt/more_than_two_thirds_zeros_riemann_zeta) - [More than two thirds of the zeros of the Riemann zeta function lie on the critical line](https://www.anthropic.com/research/riemann-zeta)
 * [2026-08-11, 00:37:12](https://lobste.rs/s/wbv6vk/sonic_pi_5) - [Sonic Pi 5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)
 * [2026-08-11, 00:24:07](https://lobste.rs/s/gxhfny/chicken_scheme_6_0_released) - [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
