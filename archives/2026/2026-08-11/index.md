@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
+* [2026-08-11, 16:59:09](https://lobste.rs/s/r8qb5p/mojo_1_0_is_here) - [Mojo 1.0 is here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 * [2026-08-11, 16:42:55](https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve) - [The fastest double-to-string algorithm you’ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
 * [2026-08-11, 16:00:14](https://lobste.rs/s/7hm8yf/performance_impact_alignment) - [Performance impact of Alignment](https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html)
 * [2026-08-11, 15:53:46](https://lobste.rs/s/4unr6j/reducing_graphics_api_complexity_clean) - [Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs](https://www.youtube.com/watch?v=aQv9pUl9PBM)
