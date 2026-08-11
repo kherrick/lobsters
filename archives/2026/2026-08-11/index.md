@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 19:35:12](https://lobste.rs/s/gixxh0/compression_is_prediction) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
 * [2026-08-11, 16:59:09](https://lobste.rs/s/r8qb5p/mojo_1_0_is_here) - [Mojo 1.0 is here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 * [2026-08-11, 16:42:55](https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve) - [The fastest double-to-string algorithm you’ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
