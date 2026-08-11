@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 12:41:37](https://lobste.rs/s/aeur9s/noob_learns_fft) - [A noob learns FFT](https://entropicthoughts.com/fft)
+* [2026-08-11, 12:22:26](https://lobste.rs/s/pqq2gi/briar_is_maintenance_mode) - [Briar is in maintenance mode](https://briarproject.org/news/2026-maintenance-mode/)
+* [2026-08-11, 12:13:18](https://lobste.rs/s/9iliea/making_etched_holograms_with_pen_plotter) - [Making [etched] holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 * [2026-08-11, 10:11:38](https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline) - [An inter-mesh deployment pipeline](https://blog.zm.is/an-inter-mesh-deployment-pipeline/)
 * [2026-08-11, 09:02:29](https://lobste.rs/s/ci7bnd/there_s_dungeon_under_this_blog) - [There's a dungeon under this blog](https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/)
+* [2026-08-11, 06:40:53](https://lobste.rs/s/tgpjez/squeak_6_1) - [Squeak 6.1](https://squeak.org/release_notes/6.1/)
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
 * [2026-08-11, 04:31:12](https://lobste.rs/s/uuo1wt/solving_advent_code_on_fpgas_with_haskell) - [Solving Advent Of Code on FPGAs with Haskell Clash](https://midirus.com/blog/advent-of-fpga)
 * [2026-08-11, 03:36:25](https://lobste.rs/s/oppmip/bevy_s_sixth_birthday) - [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/)
