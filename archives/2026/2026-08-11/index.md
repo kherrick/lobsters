@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 16:42:55](https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve) - [The fastest double-to-string algorithm you’ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
 * [2026-08-11, 16:00:14](https://lobste.rs/s/7hm8yf/performance_impact_alignment) - [Performance impact of Alignment](https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html)
+* [2026-08-11, 15:53:46](https://lobste.rs/s/4unr6j/reducing_graphics_api_complexity_clean) - [Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs](https://www.youtube.com/watch?v=aQv9pUl9PBM)
 * [2026-08-11, 14:44:05](https://lobste.rs/s/z5v07a/cleaning_costs_examining_openbsd_fret) - [Cleaning costs, or, examining the OpenBSD -fret-clean flag](https://briancallahan.net/blog/20260811.html)
 * [2026-08-11, 14:20:29](https://lobste.rs/s/8k3c7u/msword_port_microsoft_word_1_1a_x64) - [msword: Port of Microsoft Word 1.1a to x64](https://github.com/jmarshall23/msword)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)

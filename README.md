@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-11, 16:42:55](https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve) - [The fastest double-to-string algorithm you’ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
 * [2026-08-11, 16:00:14](https://lobste.rs/s/7hm8yf/performance_impact_alignment) - [Performance impact of Alignment](https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html)
+* [2026-08-11, 15:53:46](https://lobste.rs/s/4unr6j/reducing_graphics_api_complexity_clean) - [Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs](https://www.youtube.com/watch?v=aQv9pUl9PBM)
 * [2026-08-11, 14:44:05](https://lobste.rs/s/z5v07a/cleaning_costs_examining_openbsd_fret) - [Cleaning costs, or, examining the OpenBSD -fret-clean flag](https://briancallahan.net/blog/20260811.html)
 * [2026-08-11, 14:20:29](https://lobste.rs/s/8k3c7u/msword_port_microsoft_word_1_1a_x64) - [msword: Port of Microsoft Word 1.1a to x64](https://github.com/jmarshall23/msword)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
@@ -14,7 +16,6 @@
 * [2026-08-11, 03:36:25](https://lobste.rs/s/oppmip/bevy_s_sixth_birthday) - [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/)
 * [2026-08-11, 03:27:08](https://lobste.rs/s/kkqqdn/no_local_models_will_not_win) - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
 * [2026-08-11, 03:10:05](https://lobste.rs/s/csc385/odd_comments_strange_doings_unix) - [Odd Comments and Strange Doings in Unix](https://9p.io/who/dmr/odd.html)
-* [2026-08-11, 01:49:16](https://lobste.rs/s/8sojbt/more_than_two_thirds_zeros_riemann_zeta) - [More than two thirds of the zeros of the Riemann zeta function lie on the critical line](https://www.anthropic.com/research/riemann-zeta)
 * [2026-08-11, 00:24:07](https://lobste.rs/s/gxhfny/chicken_scheme_6_0_released) - [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
 * [2026-08-10, 22:33:28](https://lobste.rs/s/bgvipl/watch_out_for_cache_read_costs) - [Watch out for cache read costs](https://martinalderson.com/posts/watch-out-for-cache-read-costs/)
 * [2026-08-10, 21:32:57](https://lobste.rs/s/imdlp6/breaking_up_lines_is_hard_do) - [Breaking up (lines) is hard to do](https://www.b-list.org/weblog/2026/aug/10/newlines/)
@@ -22,7 +23,6 @@
 * [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
 * [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
 * [2026-08-10, 13:30:18](https://lobste.rs/s/ipt1em/github_actions_needs_oidc_audience) - [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
-* [2026-08-10, 12:46:03](https://lobste.rs/s/cn7jyo/django_is_moving_annual_release_cycle) - [Django is moving to an annual release cycle](https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/)
 * [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 * [2026-08-10, 08:04:12](https://lobste.rs/s/ulinck/toggles_considered_harmful) - [Toggles Considered Harmful](https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/)
 
