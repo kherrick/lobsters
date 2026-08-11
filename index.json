@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-08-11, 03:36:25",
-      "https://lobste.rs/s/oppmip/bevy_s_sixth_birthday"
+      "2026-08-11, 05:37:40",
+      "https://lobste.rs/s/gyxkma/reviewing_code_is_skill"
     ],
     [
-      "Bevy's Sixth Birthday",
-      "https://bevy.org/news/bevys-sixth-birthday/"
+      "Reviewing code is a skill",
+      "https://typesanitizer.com/blog/code-review.html"
     ]
   ],
   [
     [
-      "2026-08-11, 00:37:12",
-      "https://lobste.rs/s/wbv6vk/sonic_pi_5"
+      "2026-08-11, 03:27:08",
+      "https://lobste.rs/s/kkqqdn/no_local_models_will_not_win"
     ],
     [
-      "Sonic Pi 5",
-      "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392"
+      "No, local models will not win",
+      "https://www.seangoedecke.com/local-models-will-not-win/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 01:49:16",
+      "https://lobste.rs/s/8sojbt/more_than_two_thirds_zeros_riemann_zeta"
+    ],
+    [
+      "More than two thirds of the zeros of the Riemann zeta function lie on the critical line",
+      "https://www.anthropic.com/research/riemann-zeta"
     ]
   ],
   [
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2026-08-10, 21:47:24",
-      "https://lobste.rs/s/kwo9cn/making_need_for_speed_2015_with_game_maker"
+      "2026-08-10, 22:33:28",
+      "https://lobste.rs/s/bgvipl/watch_out_for_cache_read_costs"
     ],
     [
-      "Making Need For Speed 2015 with Game Maker",
-      "https://www.youtube.com/watch?v=ffGqjOBowIc"
+      "Watch out for cache read costs",
+      "https://martinalderson.com/posts/watch-out-for-cache-read-costs/"
     ]
   ],
   [
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2026-08-10, 20:17:31",
-      "https://lobste.rs/s/nvmbfe/moving_integer_division_floating_point"
+      "2026-08-10, 20:29:07",
+      "https://lobste.rs/s/gkuj8b/remaking_party_house"
     ],
     [
-      "Moving integer division to floating-point is trivial",
-      "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 19:29:51",
-      "https://lobste.rs/s/tvfhvm/early_days_history_interactive"
-    ],
-    [
-      "The Early Days: A History of Interactive Computing",
-      "https://obsolescence.dev/interactive-computing-history.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 19:18:34",
-      "https://lobste.rs/s/pq7dtk/c_toolchain_from_357_bytes_bazel"
-    ],
-    [
-      "A C++ toolchain from 357 bytes in Bazel",
-      "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel"
+      "Remaking Party House",
+      "https://herecomesthemoon.net/2026/08/remaking-party-house/"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "Dark mode toggles: two states are enough",
       "https://lea.verou.me/blog/2026/dark-mode-toggles/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 17:31:01",
+      "https://lobste.rs/s/fl7dcm/gtk_adwaita_markdown_editor_600_lines"
+    ],
+    [
+      "Gtk+Adwaita Markdown Editor in ~600 lines",
+      "https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-08-10, 07:47:36",
+      "https://lobste.rs/s/4waghh/how_do_programming_languages_impact"
+    ],
+    [
+      "How do programming languages impact token efficiency and correctness?",
+      "https://danluu.com/pl-tokens/"
+    ]
+  ],
+  [
+    [
       "2026-08-09, 23:06:03",
       "https://lobste.rs/s/09l5py/nixpkgs_multiverse_every_version_ever"
     ],
@@ -237,16 +247,6 @@
     [
       "IRC technology news from the first half of 2026",
       "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/"
-    ]
-  ],
-  [
-    [
-      "2026-08-09, 13:42:39",
-      "https://lobste.rs/s/rsztog/who_should_pay_for_source_code"
-    ],
-    [
-      "Who Should Pay For Source Code Availability?",
-      "https://kristoff.it/blog/source-code-availability/"
     ]
   ]
 ]
