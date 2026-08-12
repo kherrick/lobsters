@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-12, 08:53:15](https://lobste.rs/s/ixbcym/analyzing_my_lobsters_submissions) - [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/)
 * [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
 * [2026-08-12, 06:45:23](https://lobste.rs/s/k4ri7d/c_26_std_indirect) - [C++26: std::indirect](https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect)
 * [2026-08-12, 06:43:46](https://lobste.rs/s/ohc3cr/unpacking_ioncube) - [Unpacking ionCube](https://dustri.org/b/unpacking-ioncube.html)
@@ -24,7 +25,6 @@
 * [2026-08-11, 03:36:25](https://lobste.rs/s/oppmip/bevy_s_sixth_birthday) - [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/)
 * [2026-08-11, 03:27:08](https://lobste.rs/s/kkqqdn/no_local_models_will_not_win) - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
 * [2026-08-11, 00:24:07](https://lobste.rs/s/gxhfny/chicken_scheme_6_0_released) - [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
-* [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
 
 ## [Archives](archives/index.md)
 
