@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-12, 15:01:27",
+      "https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal"
+    ],
+    [
+      "How Tailscale helped find the SQLite WAL-Reset bug",
+      "https://tailscale.com/blog/sqlite-wal-reset-bug"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 13:39:39",
       "https://lobste.rs/s/lbaw4d/bypassing_android_hardware_attestation"
     ],
@@ -27,16 +37,6 @@
     [
       "I'm done using AI",
       "https://brettcodes.com/im-done-using-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 13:02:21",
-      "https://lobste.rs/s/l3ephx/numba_browser_unlocking_new_scientific"
-    ],
-    [
-      "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
-      "https://notebook.link/blog/numba-in-the-browser"
     ]
   ],
   [
