@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
+* [2026-08-12, 16:40:35](https://lobste.rs/s/g94aro/decrypting_flume_water_monitor_traffic) - [Decrypting Flume Water Monitor Traffic](https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/)
 * [2026-08-12, 16:03:22](https://lobste.rs/s/bcfzer/hacking_nameof) - [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
 * [2026-08-12, 15:50:16](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem) - [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
 * [2026-08-12, 15:50:07](https://lobste.rs/s/uyyfhi/apple_limits_bug_bounty_submissions) - [Apple Limits Bug Bounty Submissions After a Barrage of AI Entries](https://www.pcmag.com/news/apple-limits-bug-bounty-submissions-after-a-barrage-of-ai-entries)
