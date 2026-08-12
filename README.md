@@ -3,6 +3,7 @@
 * [2026-08-12, 18:20:26](https://lobste.rs/s/bccwjx/critical_review_xilem_2026) - [A critical review of Xilem in 2026](https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg)
 * [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
 * [2026-08-12, 17:59:51](https://lobste.rs/s/xwo03g/why_tiny_jpegs_look_different_chrome) - [Why tiny JPEGs look different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/)
+* [2026-08-12, 16:40:35](https://lobste.rs/s/g94aro/decrypting_flume_water_monitor_traffic) - [Decrypting Flume Water Monitor Traffic](https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/)
 * [2026-08-12, 16:03:22](https://lobste.rs/s/bcfzer/hacking_nameof) - [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
 * [2026-08-12, 15:50:16](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem) - [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
 * [2026-08-12, 15:01:27](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal) - [How Tailscale helped find the SQLite WAL-Reset bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
@@ -22,7 +23,6 @@
 * [2026-08-11, 23:46:21](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026) - [Who's Hiring? - Not-A-Coder Edition - Aug 2026](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026)
 * [2026-08-11, 19:35:12](https://lobste.rs/s/gixxh0/compression_is_prediction) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
-* [2026-08-11, 16:42:55](https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve) - [The fastest double-to-string algorithm you’ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
 
