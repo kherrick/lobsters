@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-12, 05:20:40](https://lobste.rs/s/0rtina/why_go_is_ideal_language_for_ai_assisted) - [Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 * [2026-08-12, 03:00:38](https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days) - [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
+* [2026-08-12, 02:52:02](https://lobste.rs/s/xgnakx/rangefrom_part_1) - [RangeFrom, Part 1․․](https://erk.dev/2026/08/12/rangefrom-part-1)
 * [2026-08-12, 00:29:31](https://lobste.rs/s/glicgx/text_watermarking_for_non_academics) - [Text Watermarking for Non-Academics](https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/)
 * [2026-08-11, 23:46:21](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026) - [Who's Hiring? - Not-A-Coder Edition - Aug 2026](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026)
 * [2026-08-11, 19:35:12](https://lobste.rs/s/gixxh0/compression_is_prediction) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
@@ -22,9 +24,7 @@
 * [2026-08-11, 03:10:05](https://lobste.rs/s/csc385/odd_comments_strange_doings_unix) - [Odd Comments and Strange Doings in Unix](https://9p.io/who/dmr/odd.html)
 * [2026-08-11, 00:24:07](https://lobste.rs/s/gxhfny/chicken_scheme_6_0_released) - [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
 * [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
-* [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
 * [2026-08-10, 13:30:18](https://lobste.rs/s/ipt1em/github_actions_needs_oidc_audience) - [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
-* [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 
 ## [Archives](archives/index.md)
 
