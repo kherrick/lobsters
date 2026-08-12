@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-12, 06:57:55",
-      "https://lobste.rs/s/cdibqx/cloudflare_os_is_it_worth"
+      "2026-08-12, 07:10:32",
+      "https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification"
     ],
     [
-      "Cloudflare OS, is it worth?",
-      "https://blog.emre.xyz/posts/2be69f5e/"
+      "Introducing Automatic Key Verification",
+      "https://signal.org/blog/automatic-key-verification/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "C++26: std::indirect",
       "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 06:43:46",
+      "https://lobste.rs/s/ohc3cr/unpacking_ioncube"
+    ],
+    [
+      "Unpacking ionCube",
+      "https://dustri.org/b/unpacking-ioncube.html"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://lobste.rs/s/0rtina/why_go_is_ideal_language_for_ai_assisted"
     ],
     [
-      "Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog",
+      "Why Go is an Ideal Language for AI-Assisted Software Engineering",
       "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "RangeFrom, Part 1․․",
       "https://erk.dev/2026/08/12/rangefrom-part-1"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 00:29:31",
-      "https://lobste.rs/s/glicgx/text_watermarking_for_non_academics"
-    ],
-    [
-      "Text Watermarking for Non-Academics",
-      "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/"
     ]
   ],
   [
