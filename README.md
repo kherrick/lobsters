@@ -2,8 +2,9 @@
 
 * [2026-08-12, 13:39:39](https://lobste.rs/s/lbaw4d/bypassing_android_hardware_attestation) - [Bypassing Android Hardware Attestation from the Analyst's Chair](https://blog.quarkslab.com/bypassing-android-hardware-attestation.html)
 * [2026-08-12, 13:15:29](https://lobste.rs/s/pu96ia/fearless_simd_v0_7_64_bit_integers) - [fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0](https://linebender.org/blog/fearless-simd-0-7/)
+* [2026-08-12, 13:09:40](https://lobste.rs/s/rfiuko/i_m_done_using_ai) - [I'm done using AI](https://brettcodes.com/im-done-using-ai/)
+* [2026-08-12, 13:02:21](https://lobste.rs/s/l3ephx/numba_browser_unlocking_new_scientific) - [Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite](https://notebook.link/blog/numba-in-the-browser)
 * [2026-08-12, 12:59:17](https://lobste.rs/s/864m3v/mindful_coding_purpose_intention) - [Mindful coding: Purpose and intention](https://var0.xyz/posts/mindful-coding-purpose-and-intention.html)
-* [2026-08-12, 12:43:02](https://lobste.rs/s/pxca92/new_delphi_community_edition_florence) - [New Delphi Community Edition \"Florence\"](https://blog.marcocantu.com/blog/2026-august-delphi-ce-florence.html)
 * [2026-08-12, 12:40:12](https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
 * [2026-08-12, 11:29:26](https://lobste.rs/s/wjiyxu/deadbugz_currently_active_mcp_supply) - [Deadbugz: Currently Active MCP Supply-Chain Campaign](https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign)
 * [2026-08-12, 11:27:11](https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes) - [Guide to (not) fucking up QR codes](https://infosec.exchange/@rebane2001/117078420917152774)
@@ -24,7 +25,6 @@
 * [2026-08-11, 12:22:26](https://lobste.rs/s/pqq2gi/briar_is_maintenance_mode) - [Briar is in maintenance mode](https://briarproject.org/news/2026-maintenance-mode/)
 * [2026-08-11, 12:13:18](https://lobste.rs/s/9iliea/making_etched_holograms_with_pen_plotter) - [Making [etched] holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
-* [2026-08-11, 00:24:07](https://lobste.rs/s/gxhfny/chicken_scheme_6_0_released) - [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
 
 ## [Archives](archives/index.md)
 

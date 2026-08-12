@@ -6,6 +6,8 @@
 
 * [2026-08-12, 13:39:39](https://lobste.rs/s/lbaw4d/bypassing_android_hardware_attestation) - [Bypassing Android Hardware Attestation from the Analyst's Chair](https://blog.quarkslab.com/bypassing-android-hardware-attestation.html)
 * [2026-08-12, 13:15:29](https://lobste.rs/s/pu96ia/fearless_simd_v0_7_64_bit_integers) - [fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0](https://linebender.org/blog/fearless-simd-0-7/)
+* [2026-08-12, 13:09:40](https://lobste.rs/s/rfiuko/i_m_done_using_ai) - [I'm done using AI](https://brettcodes.com/im-done-using-ai/)
+* [2026-08-12, 13:02:21](https://lobste.rs/s/l3ephx/numba_browser_unlocking_new_scientific) - [Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite](https://notebook.link/blog/numba-in-the-browser)
 * [2026-08-12, 12:59:17](https://lobste.rs/s/864m3v/mindful_coding_purpose_intention) - [Mindful coding: Purpose and intention](https://var0.xyz/posts/mindful-coding-purpose-and-intention.html)
 * [2026-08-12, 12:43:02](https://lobste.rs/s/pxca92/new_delphi_community_edition_florence) - [New Delphi Community Edition \"Florence\"](https://blog.marcocantu.com/blog/2026-august-delphi-ce-florence.html)
 * [2026-08-12, 12:40:12](https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
