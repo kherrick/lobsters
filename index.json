@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-12, 03:00:38",
+      "https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days"
+    ],
+    [
+      "Making a game on a custom bytecode VM in 7 days and 3kB",
+      "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 00:29:31",
       "https://lobste.rs/s/glicgx/text_watermarking_for_non_academics"
     ],
     [
       "Text Watermarking for Non-Academics",
       "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 23:46:21",
+      "https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026"
+    ],
+    [
+      "Who's Hiring? - Not-A-Coder Edition - Aug 2026",
+      "https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs",
       "https://www.youtube.com/watch?v=aQv9pUl9PBM"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 14:44:05",
-      "https://lobste.rs/s/z5v07a/cleaning_costs_examining_openbsd_fret"
-    ],
-    [
-      "Cleaning costs, or, examining the OpenBSD -fret-clean flag",
-      "https://briancallahan.net/blog/20260811.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Firefox Containers Preview",
       "https://blog.mozilla.org/en/firefox/firefox-containers-preview/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 08:04:12",
-      "https://lobste.rs/s/ulinck/toggles_considered_harmful"
-    ],
-    [
-      "Toggles Considered Harmful",
-      "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/"
     ]
   ]
 ]
