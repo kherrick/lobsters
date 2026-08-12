@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 13:39:39](https://lobste.rs/s/lbaw4d/bypassing_android_hardware_attestation) - [Bypassing Android Hardware Attestation from the Analyst's Chair](https://blog.quarkslab.com/bypassing-android-hardware-attestation.html)
+* [2026-08-12, 13:15:29](https://lobste.rs/s/pu96ia/fearless_simd_v0_7_64_bit_integers) - [fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0](https://linebender.org/blog/fearless-simd-0-7/)
+* [2026-08-12, 12:59:17](https://lobste.rs/s/864m3v/mindful_coding_purpose_intention) - [Mindful coding: Purpose and intention](https://var0.xyz/posts/mindful-coding-purpose-and-intention.html)
+* [2026-08-12, 12:43:02](https://lobste.rs/s/pxca92/new_delphi_community_edition_florence) - [New Delphi Community Edition \"Florence\"](https://blog.marcocantu.com/blog/2026-august-delphi-ce-florence.html)
+* [2026-08-12, 12:40:12](https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
 * [2026-08-12, 11:29:26](https://lobste.rs/s/wjiyxu/deadbugz_currently_active_mcp_supply) - [Deadbugz: Currently Active MCP Supply-Chain Campaign](https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign)
 * [2026-08-12, 11:27:11](https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes) - [Guide to (not) fucking up QR codes](https://infosec.exchange/@rebane2001/117078420917152774)
 * [2026-08-12, 08:53:15](https://lobste.rs/s/ixbcym/analyzing_my_lobsters_submissions) - [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/)
