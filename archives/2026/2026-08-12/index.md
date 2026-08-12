@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-12](index.md)
+
+* [2026-08-12, 00:29:31](https://lobste.rs/s/glicgx/text_watermarking_for_non_academics) - [Text Watermarking for Non-Academics](https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/)
