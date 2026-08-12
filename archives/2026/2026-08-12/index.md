@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
 * [2026-08-12, 11:29:26](https://lobste.rs/s/wjiyxu/deadbugz_currently_active_mcp_supply) - [Deadbugz: Currently Active MCP Supply-Chain Campaign](https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign)
+* [2026-08-12, 11:27:11](https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes) - [Guide to (not) fucking up QR codes](https://infosec.exchange/@rebane2001/117078420917152774)
 * [2026-08-12, 08:53:15](https://lobste.rs/s/ixbcym/analyzing_my_lobsters_submissions) - [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/)
 * [2026-08-12, 08:43:18](https://lobste.rs/s/9yslt6/on_ai_coding_its_discontents) - [On AI Coding and Its Discontents](https://calnewport.com/on-ai-coding-and-its-discontents/)
 * [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
