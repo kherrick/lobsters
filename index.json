@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-12, 16:03:22",
+      "https://lobste.rs/s/bcfzer/hacking_nameof"
+    ],
+    [
+      "Hacking in the 'nameOf'",
+      "https://committing-crimes.com/articles/2026-08-04-java-nameof"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 15:50:16",
       "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"
     ],
@@ -137,16 +147,6 @@
     [
       "C++26: std::indirect",
       "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 06:43:46",
-      "https://lobste.rs/s/ohc3cr/unpacking_ioncube"
-    ],
-    [
-      "Unpacking ionCube",
-      "https://dustri.org/b/unpacking-ioncube.html"
     ]
   ],
   [
