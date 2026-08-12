@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-12, 03:00:38](https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days) - [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
 * [2026-08-12, 00:29:31](https://lobste.rs/s/glicgx/text_watermarking_for_non_academics) - [Text Watermarking for Non-Academics](https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/)
+* [2026-08-11, 23:46:21](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026) - [Who's Hiring? - Not-A-Coder Edition - Aug 2026](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026)
 * [2026-08-11, 19:35:12](https://lobste.rs/s/gixxh0/compression_is_prediction) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
 * [2026-08-11, 16:59:09](https://lobste.rs/s/r8qb5p/mojo_1_0_is_here) - [Mojo 1.0 is here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 * [2026-08-11, 16:42:55](https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve) - [The fastest double-to-string algorithm you’ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
 * [2026-08-11, 16:00:14](https://lobste.rs/s/7hm8yf/performance_impact_alignment) - [Performance impact of Alignment](https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html)
 * [2026-08-11, 15:53:46](https://lobste.rs/s/4unr6j/reducing_graphics_api_complexity_clean) - [Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs](https://www.youtube.com/watch?v=aQv9pUl9PBM)
-* [2026-08-11, 14:44:05](https://lobste.rs/s/z5v07a/cleaning_costs_examining_openbsd_fret) - [Cleaning costs, or, examining the OpenBSD -fret-clean flag](https://briancallahan.net/blog/20260811.html)
 * [2026-08-11, 14:20:29](https://lobste.rs/s/8k3c7u/msword_port_microsoft_word_1_1a_x64) - [msword: Port of Microsoft Word 1.1a to x64](https://github.com/jmarshall23/msword)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
 * [2026-08-11, 12:41:37](https://lobste.rs/s/aeur9s/noob_learns_fft) - [A noob learns FFT](https://entropicthoughts.com/fft)
@@ -24,7 +25,6 @@
 * [2026-08-10, 15:29:34](https://lobste.rs/s/lkp7x3/pure_css_implementation_some_sunlight) - [a pure css implementation of some sunlight streaming in through the window](https://github.com/jackyzha0/sunlit)
 * [2026-08-10, 13:30:18](https://lobste.rs/s/ipt1em/github_actions_needs_oidc_audience) - [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
 * [2026-08-10, 09:37:18](https://lobste.rs/s/ja2gzr/firefox_containers_preview) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
-* [2026-08-10, 08:04:12](https://lobste.rs/s/ulinck/toggles_considered_harmful) - [Toggles Considered Harmful](https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/)
 
 ## [Archives](archives/index.md)
 

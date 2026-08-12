@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 23:46:21](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026) - [Who's Hiring? - Not-A-Coder Edition - Aug 2026](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026)
 * [2026-08-11, 19:35:12](https://lobste.rs/s/gixxh0/compression_is_prediction) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
 * [2026-08-11, 16:59:09](https://lobste.rs/s/r8qb5p/mojo_1_0_is_here) - [Mojo 1.0 is here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
