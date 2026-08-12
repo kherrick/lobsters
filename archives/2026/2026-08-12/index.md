@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 16:03:22](https://lobste.rs/s/bcfzer/hacking_nameof) - [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
 * [2026-08-12, 15:50:16](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem) - [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
 * [2026-08-12, 15:50:07](https://lobste.rs/s/uyyfhi/apple_limits_bug_bounty_submissions) - [Apple Limits Bug Bounty Submissions After a Barrage of AI Entries](https://www.pcmag.com/news/apple-limits-bug-bounty-submissions-after-a-barrage-of-ai-entries)
 * [2026-08-12, 15:01:27](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal) - [How Tailscale helped find the SQLite WAL-Reset bug](https://tailscale.com/blog/sqlite-wal-reset-bug)

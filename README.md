@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-12, 16:03:22](https://lobste.rs/s/bcfzer/hacking_nameof) - [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
 * [2026-08-12, 15:50:16](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem) - [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
 * [2026-08-12, 15:50:07](https://lobste.rs/s/uyyfhi/apple_limits_bug_bounty_submissions) - [Apple Limits Bug Bounty Submissions After a Barrage of AI Entries](https://www.pcmag.com/news/apple-limits-bug-bounty-submissions-after-a-barrage-of-ai-entries)
 * [2026-08-12, 15:01:27](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal) - [How Tailscale helped find the SQLite WAL-Reset bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
@@ -14,7 +15,6 @@
 * [2026-08-12, 08:43:18](https://lobste.rs/s/9yslt6/on_ai_coding_its_discontents) - [On AI Coding and Its Discontents](https://calnewport.com/on-ai-coding-and-its-discontents/)
 * [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
 * [2026-08-12, 06:45:23](https://lobste.rs/s/k4ri7d/c_26_std_indirect) - [C++26: std::indirect](https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect)
-* [2026-08-12, 06:43:46](https://lobste.rs/s/ohc3cr/unpacking_ioncube) - [Unpacking ionCube](https://dustri.org/b/unpacking-ioncube.html)
 * [2026-08-12, 06:31:43](https://lobste.rs/s/bp6bmx/tail_call_interpreters_rust) - [Tail-Call Interpreters in Rust](https://lordgoati.us/blog/tail-call/)
 * [2026-08-12, 05:20:40](https://lobste.rs/s/0rtina/why_go_is_ideal_language_for_ai_assisted) - [Why Go is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 * [2026-08-12, 03:00:38](https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days) - [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
