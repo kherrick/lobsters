@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-08-12, 18:05:37",
+      "https://lobste.rs/s/octplv/i_found_kvm_guest_host_heap_corruption_bug"
+    ],
+    [
+      "I found a KVM guest-to-host heap corruption bug and someone else got there first",
+      "https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 17:59:51",
       "https://lobste.rs/s/xwo03g/why_tiny_jpegs_look_different_chrome"
     ],
@@ -217,16 +227,6 @@
     [
       "My Anti AI computer",
       "https://punkx.org/jackdoe/home.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 16:42:55",
-      "https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve"
-    ],
-    [
-      "The fastest double-to-string algorithm you’ve never heard of",
-      "https://vitaut.net/posts/2026/yy-dtoa/"
     ]
   ],
   [
