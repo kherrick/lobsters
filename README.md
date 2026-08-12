@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-12, 06:57:55](https://lobste.rs/s/cdibqx/cloudflare_os_is_it_worth) - [Cloudflare OS, is it worth?](https://blog.emre.xyz/posts/2be69f5e/)
+* [2026-08-12, 06:45:23](https://lobste.rs/s/k4ri7d/c_26_std_indirect) - [C++26: std::indirect](https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect)
+* [2026-08-12, 06:31:43](https://lobste.rs/s/bp6bmx/tail_call_interpreters_rust) - [Tail-Call Interpreters in Rust](https://lordgoati.us/blog/tail-call/)
 * [2026-08-12, 05:20:40](https://lobste.rs/s/0rtina/why_go_is_ideal_language_for_ai_assisted) - [Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 * [2026-08-12, 03:00:38](https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days) - [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
 * [2026-08-12, 02:52:02](https://lobste.rs/s/xgnakx/rangefrom_part_1) - [RangeFrom, Part 1․․](https://erk.dev/2026/08/12/rangefrom-part-1)
@@ -17,14 +20,11 @@
 * [2026-08-11, 12:22:26](https://lobste.rs/s/pqq2gi/briar_is_maintenance_mode) - [Briar is in maintenance mode](https://briarproject.org/news/2026-maintenance-mode/)
 * [2026-08-11, 12:13:18](https://lobste.rs/s/9iliea/making_etched_holograms_with_pen_plotter) - [Making [etched] holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 * [2026-08-11, 09:02:29](https://lobste.rs/s/ci7bnd/there_s_dungeon_under_this_blog) - [There's a dungeon under this blog](https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/)
-* [2026-08-11, 06:40:53](https://lobste.rs/s/tgpjez/squeak_6_1) - [Squeak 6.1](https://squeak.org/release_notes/6.1/)
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
 * [2026-08-11, 03:36:25](https://lobste.rs/s/oppmip/bevy_s_sixth_birthday) - [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/)
 * [2026-08-11, 03:27:08](https://lobste.rs/s/kkqqdn/no_local_models_will_not_win) - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
-* [2026-08-11, 03:10:05](https://lobste.rs/s/csc385/odd_comments_strange_doings_unix) - [Odd Comments and Strange Doings in Unix](https://9p.io/who/dmr/odd.html)
 * [2026-08-11, 00:24:07](https://lobste.rs/s/gxhfny/chicken_scheme_6_0_released) - [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
 * [2026-08-10, 16:47:33](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies) - [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/)
-* [2026-08-10, 13:30:18](https://lobste.rs/s/ipt1em/github_actions_needs_oidc_audience) - [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
 
 ## [Archives](archives/index.md)
 
