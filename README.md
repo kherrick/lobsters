@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-12, 11:29:26](https://lobste.rs/s/wjiyxu/deadbugz_currently_active_mcp_supply) - [Deadbugz: Currently Active MCP Supply-Chain Campaign](https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign)
 * [2026-08-12, 08:53:15](https://lobste.rs/s/ixbcym/analyzing_my_lobsters_submissions) - [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/)
+* [2026-08-12, 08:43:18](https://lobste.rs/s/9yslt6/on_ai_coding_its_discontents) - [On AI Coding and Its Discontents](https://calnewport.com/on-ai-coding-and-its-discontents/)
 * [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
+* [2026-08-12, 06:57:55](https://lobste.rs/s/cdibqx/cloudflare_os_is_it_worth) - [Cloudflare OS, is it worth?](https://blog.emre.xyz/posts/2be69f5e/)
 * [2026-08-12, 06:45:23](https://lobste.rs/s/k4ri7d/c_26_std_indirect) - [C++26: std::indirect](https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect)
 * [2026-08-12, 06:43:46](https://lobste.rs/s/ohc3cr/unpacking_ioncube) - [Unpacking ionCube](https://dustri.org/b/unpacking-ioncube.html)
 * [2026-08-12, 06:31:43](https://lobste.rs/s/bp6bmx/tail_call_interpreters_rust) - [Tail-Call Interpreters in Rust](https://lordgoati.us/blog/tail-call/)
@@ -13,7 +16,6 @@
 * [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
 * [2026-08-11, 16:59:09](https://lobste.rs/s/r8qb5p/mojo_1_0_is_here) - [Mojo 1.0 is here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 * [2026-08-11, 16:42:55](https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve) - [The fastest double-to-string algorithm you’ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
-* [2026-08-11, 16:00:14](https://lobste.rs/s/7hm8yf/performance_impact_alignment) - [Performance impact of Alignment](https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html)
 * [2026-08-11, 15:53:46](https://lobste.rs/s/4unr6j/reducing_graphics_api_complexity_clean) - [Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs](https://www.youtube.com/watch?v=aQv9pUl9PBM)
 * [2026-08-11, 14:20:29](https://lobste.rs/s/8k3c7u/msword_port_microsoft_word_1_1a_x64) - [msword: Port of Microsoft Word 1.1a to x64](https://github.com/jmarshall23/msword)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
@@ -22,8 +24,6 @@
 * [2026-08-11, 12:13:18](https://lobste.rs/s/9iliea/making_etched_holograms_with_pen_plotter) - [Making [etched] holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 * [2026-08-11, 09:02:29](https://lobste.rs/s/ci7bnd/there_s_dungeon_under_this_blog) - [There's a dungeon under this blog](https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/)
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
-* [2026-08-11, 03:36:25](https://lobste.rs/s/oppmip/bevy_s_sixth_birthday) - [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/)
-* [2026-08-11, 03:27:08](https://lobste.rs/s/kkqqdn/no_local_models_will_not_win) - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/)
 * [2026-08-11, 00:24:07](https://lobste.rs/s/gxhfny/chicken_scheme_6_0_released) - [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
 
 ## [Archives](archives/index.md)
