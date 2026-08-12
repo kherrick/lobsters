@@ -18,11 +18,11 @@
 * [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
 * [2026-08-12, 06:45:23](https://lobste.rs/s/k4ri7d/c_26_std_indirect) - [C++26: std::indirect](https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect)
 * [2026-08-12, 06:31:43](https://lobste.rs/s/bp6bmx/tail_call_interpreters_rust) - [Tail-Call Interpreters in Rust](https://lordgoati.us/blog/tail-call/)
-* [2026-08-12, 05:20:40](https://lobste.rs/s/0rtina/why_go_is_ideal_language_for_ai_assisted) - [Why Go is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 * [2026-08-12, 03:00:38](https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days) - [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
 * [2026-08-11, 23:46:21](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026) - [Who's Hiring? - Not-A-Coder Edition - Aug 2026](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026)
 * [2026-08-11, 19:35:12](https://lobste.rs/s/gixxh0/compression_is_prediction) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
+* [2026-08-11, 16:42:55](https://lobste.rs/s/vzza5g/fastest_double_string_algorithm_you_ve) - [The fastest double-to-string algorithm you’ve never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
 * [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
 
