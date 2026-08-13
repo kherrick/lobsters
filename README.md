@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-13, 07:51:17](https://lobste.rs/s/0o3xpp/on_hacking) - [On Hacking](https://stallman.org/articles/on-hacking.html)
 * [2026-08-13, 05:28:40](https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda) - [python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
 * [2026-08-13, 04:29:53](https://lobste.rs/s/p4oxjz/how_should_futhark_expose_irregular) - [How should Futhark expose irregular arrays to the programmer?](https://futhark-lang.org/blog/2026-08-12-flatmap.html)
 * [2026-08-13, 03:28:15](https://lobste.rs/s/6dw7pl/beszel) - [beszel](https://github.com/henrygd/beszel)
 * [2026-08-13, 03:08:30](https://lobste.rs/s/xic1nn/does_anyone_run_postgres_without) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-13, 00:55:03](https://lobste.rs/s/keiw21/github_stacks_jujutsu) - [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/)
+* [2026-08-12, 19:27:17](https://lobste.rs/s/go39b7/zed_introducing_delta) - [Zed: Introducing Delta](https://zed.dev/blog/introducing-delta)
 * [2026-08-12, 18:20:26](https://lobste.rs/s/bccwjx/critical_review_xilem_2026) - [A critical review of Xilem in 2026](https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg)
 * [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
 * [2026-08-12, 17:59:51](https://lobste.rs/s/xwo03g/why_tiny_jpegs_look_different_chrome) - [Why tiny JPEGs look different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/)
@@ -21,9 +23,7 @@
 * [2026-08-12, 08:43:18](https://lobste.rs/s/9yslt6/on_ai_coding_its_discontents) - [On AI Coding and Its Discontents](https://calnewport.com/on-ai-coding-and-its-discontents/)
 * [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
 * [2026-08-12, 06:45:23](https://lobste.rs/s/k4ri7d/c_26_std_indirect) - [C++26: std::indirect](https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect)
-* [2026-08-12, 03:00:38](https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days) - [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
 * [2026-08-11, 19:35:12](https://lobste.rs/s/gixxh0/compression_is_prediction) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-* [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
 
 ## [Archives](archives/index.md)

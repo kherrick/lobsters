@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 19:27:17](https://lobste.rs/s/go39b7/zed_introducing_delta) - [Zed: Introducing Delta](https://zed.dev/blog/introducing-delta)
 * [2026-08-12, 18:20:26](https://lobste.rs/s/bccwjx/critical_review_xilem_2026) - [A critical review of Xilem in 2026](https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg)
 * [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
 * [2026-08-12, 18:05:37](https://lobste.rs/s/octplv/i_found_kvm_guest_host_heap_corruption_bug) - [I found a KVM guest-to-host heap corruption bug and someone else got there first](https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/)
