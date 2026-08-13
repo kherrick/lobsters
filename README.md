@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-13, 21:08:07](https://lobste.rs/s/utpgi9/preview_roc_0_1_0) - [A preview of Roc 0.1.0](https://youtu.be/a7qEOtkkDb8)
 * [2026-08-13, 19:07:37](https://lobste.rs/s/e9v9qi/c3_0_8_3_feature_flags) - [C3 0.8.3 Feature flags](https://c3-lang.org/blog/c3_0_8_3_feature_flags/)
 * [2026-08-13, 19:00:48](https://lobste.rs/s/iarwcp/write_sql_optimizer_using_egg_2023) - [Write a SQL Optimizer using Egg (2023)](https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg)
 * [2026-08-13, 17:43:13](https://lobste.rs/s/tssf5y/i_want_extern_fil_c) - [I want extern \"fil-c\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
@@ -19,7 +20,6 @@
 * [2026-08-13, 03:08:30](https://lobste.rs/s/xic1nn/does_anyone_run_postgres_without) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-13, 00:55:03](https://lobste.rs/s/keiw21/github_stacks_jujutsu) - [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/)
 * [2026-08-12, 18:20:26](https://lobste.rs/s/bccwjx/critical_review_xilem_2026) - [A critical review of Xilem in 2026](https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg)
-* [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
 * [2026-08-12, 15:50:16](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem) - [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
 * [2026-08-12, 15:01:27](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal) - [How Tailscale helped find the SQLite WAL-Reset bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 * [2026-08-12, 13:09:40](https://lobste.rs/s/rfiuko/i_m_done_using_ai) - [I'm done using AI](https://brettcodes.com/im-done-using-ai/)
