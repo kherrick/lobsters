@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-13, 14:30:59](https://lobste.rs/s/lt89di/adopting_memory_safety_fine_grained) - [Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI](https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/)
+* [2026-08-13, 14:03:13](https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software) - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 * [2026-08-13, 11:56:09](https://lobste.rs/s/v2xrcm/sqlite_how_it_works_by_richard_hipp_2024) - [SQLite: How it works, by Richard Hipp (2024)](https://www.youtube.com/watch?v=ZSKLA81tBis)
 * [2026-08-13, 11:11:09](https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission) - [A \"secure-ish\" Pi setup with permission, sandbox, and auto-review](https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox)
 * [2026-08-13, 11:09:17](https://lobste.rs/s/saesgf/digitizing_super_8_film_yourself) - [Digitizing super 8 film yourself](https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html)
+* [2026-08-13, 10:48:29](https://lobste.rs/s/nyk5kd/let_them_write_rfcs) - [Let Them Write RFCs](https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/)
 * [2026-08-13, 10:46:34](https://lobste.rs/s/p02oa2/what_s_new_flutter_3_47) - [What’s new in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 * [2026-08-13, 09:33:19](https://lobste.rs/s/tkzdj2/why_vibe_code_lisp) - [Why vibe code in Lisp?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-13, 07:51:17](https://lobste.rs/s/0o3xpp/on_hacking) - [On Hacking](https://stallman.org/articles/on-hacking.html)
@@ -22,7 +23,6 @@
 * [2026-08-12, 12:59:17](https://lobste.rs/s/864m3v/mindful_coding_purpose_intention) - [Mindful coding: Purpose and intention](https://var0.xyz/posts/mindful-coding-purpose-and-intention.html)
 * [2026-08-12, 12:40:12](https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
 * [2026-08-12, 11:27:11](https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes) - [Guide to (not) fucking up QR codes](https://infosec.exchange/@rebane2001/117078420917152774)
-* [2026-08-12, 08:53:15](https://lobste.rs/s/ixbcym/analyzing_my_lobsters_submissions) - [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/)
 * [2026-08-12, 08:43:18](https://lobste.rs/s/9yslt6/on_ai_coding_its_discontents) - [On AI Coding and Its Discontents](https://calnewport.com/on-ai-coding-and-its-discontents/)
 * [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
 
