@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-13, 11:11:09",
+      "https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission"
+    ],
+    [
+      "A \"secure-ish\" Pi setup with permission, sandbox, and auto-review",
+      "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 11:09:17",
+      "https://lobste.rs/s/saesgf/digitizing_super_8_film_yourself"
+    ],
+    [
+      "Digitizing super 8 film yourself",
+      "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 10:48:29",
+      "https://lobste.rs/s/nyk5kd/let_them_write_rfcs"
+    ],
+    [
+      "Let Them Write RFCs",
+      "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 10:46:34",
       "https://lobste.rs/s/p02oa2/what_s_new_flutter_3_47"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-08-12, 19:27:17",
-      "https://lobste.rs/s/go39b7/zed_introducing_delta"
-    ],
-    [
-      "Zed: Introducing Delta",
-      "https://zed.dev/blog/introducing-delta"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 18:20:26",
       "https://lobste.rs/s/bccwjx/critical_review_xilem_2026"
     ],
@@ -117,16 +137,6 @@
     [
       "Why tiny JPEGs look different in Chrome",
       "https://guillaumetech.github.io/posts/jpg-scaling-chrome/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 16:40:35",
-      "https://lobste.rs/s/g94aro/decrypting_flume_water_monitor_traffic"
-    ],
-    [
-      "Decrypting Flume Water Monitor Traffic",
-      "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Introducing Automatic Key Verification",
       "https://signal.org/blog/automatic-key-verification/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 06:45:23",
-      "https://lobste.rs/s/k4ri7d/c_26_std_indirect"
-    ],
-    [
-      "C++26: std::indirect",
-      "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect"
     ]
   ]
 ]
