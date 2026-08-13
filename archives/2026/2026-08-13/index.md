@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 05:28:40](https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda) - [python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
+* [2026-08-13, 04:29:53](https://lobste.rs/s/p4oxjz/how_should_futhark_expose_irregular) - [How should Futhark expose irregular arrays to the programmer?](https://futhark-lang.org/blog/2026-08-12-flatmap.html)
 * [2026-08-13, 03:28:15](https://lobste.rs/s/6dw7pl/beszel) - [beszel](https://github.com/henrygd/beszel)
 * [2026-08-13, 03:08:30](https://lobste.rs/s/xic1nn/does_anyone_run_postgres_without) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-13, 02:43:46](https://lobste.rs/s/m0ure0/introducing_chestnut) - [Introducing chestnut](https://blog.comma.ai/chestnut/)

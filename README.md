@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-13, 05:28:40](https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda) - [python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
+* [2026-08-13, 04:29:53](https://lobste.rs/s/p4oxjz/how_should_futhark_expose_irregular) - [How should Futhark expose irregular arrays to the programmer?](https://futhark-lang.org/blog/2026-08-12-flatmap.html)
 * [2026-08-13, 03:28:15](https://lobste.rs/s/6dw7pl/beszel) - [beszel](https://github.com/henrygd/beszel)
 * [2026-08-13, 03:08:30](https://lobste.rs/s/xic1nn/does_anyone_run_postgres_without) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
-* [2026-08-13, 02:43:46](https://lobste.rs/s/m0ure0/introducing_chestnut) - [Introducing chestnut](https://blog.comma.ai/chestnut/)
 * [2026-08-13, 00:55:03](https://lobste.rs/s/keiw21/github_stacks_jujutsu) - [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/)
 * [2026-08-12, 18:20:26](https://lobste.rs/s/bccwjx/critical_review_xilem_2026) - [A critical review of Xilem in 2026](https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg)
 * [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
@@ -14,7 +15,6 @@
 * [2026-08-12, 13:15:29](https://lobste.rs/s/pu96ia/fearless_simd_v0_7_64_bit_integers) - [fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0](https://linebender.org/blog/fearless-simd-0-7/)
 * [2026-08-12, 13:09:40](https://lobste.rs/s/rfiuko/i_m_done_using_ai) - [I'm done using AI](https://brettcodes.com/im-done-using-ai/)
 * [2026-08-12, 12:59:17](https://lobste.rs/s/864m3v/mindful_coding_purpose_intention) - [Mindful coding: Purpose and intention](https://var0.xyz/posts/mindful-coding-purpose-and-intention.html)
-* [2026-08-12, 12:43:02](https://lobste.rs/s/pxca92/new_delphi_community_edition_florence) - [New Delphi Community Edition \"Florence\"](https://blog.marcocantu.com/blog/2026-august-delphi-ce-florence.html)
 * [2026-08-12, 12:40:12](https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
 * [2026-08-12, 11:27:11](https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes) - [Guide to (not) fucking up QR codes](https://infosec.exchange/@rebane2001/117078420917152774)
 * [2026-08-12, 08:53:15](https://lobste.rs/s/ixbcym/analyzing_my_lobsters_submissions) - [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/)
