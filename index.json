@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-13, 14:30:59",
+      "https://lobste.rs/s/lt89di/adopting_memory_safety_fine_grained"
+    ],
+    [
+      "Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI",
+      "https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 11:56:09",
       "https://lobste.rs/s/v2xrcm/sqlite_how_it_works_by_richard_hipp_2024"
     ],
@@ -137,16 +147,6 @@
     [
       "Why tiny JPEGs look different in Chrome",
       "https://guillaumetech.github.io/posts/jpg-scaling-chrome/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 16:03:22",
-      "https://lobste.rs/s/bcfzer/hacking_nameof"
-    ],
-    [
-      "Hacking in the 'nameOf'",
-      "https://committing-crimes.com/articles/2026-08-04-java-nameof"
     ]
   ],
   [
