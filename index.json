@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-13, 00:55:03",
+      "https://lobste.rs/s/keiw21/github_stacks_jujutsu"
+    ],
+    [
+      "GitHub Stacks in Jujutsu",
+      "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 18:20:26",
       "https://lobste.rs/s/bccwjx/critical_review_xilem_2026"
     ],
@@ -237,16 +247,6 @@
     [
       "GNOME Shell Design Dreams",
       "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 05:37:40",
-      "https://lobste.rs/s/gyxkma/reviewing_code_is_skill"
-    ],
-    [
-      "Reviewing code is a skill",
-      "https://typesanitizer.com/blog/code-review.html"
     ]
   ]
 ]
