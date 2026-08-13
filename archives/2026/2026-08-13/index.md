@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 11:11:09](https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission) - [A \"secure-ish\" Pi setup with permission, sandbox, and auto-review](https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox)
+* [2026-08-13, 11:09:17](https://lobste.rs/s/saesgf/digitizing_super_8_film_yourself) - [Digitizing super 8 film yourself](https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html)
+* [2026-08-13, 10:48:29](https://lobste.rs/s/nyk5kd/let_them_write_rfcs) - [Let Them Write RFCs](https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/)
 * [2026-08-13, 10:46:34](https://lobste.rs/s/p02oa2/what_s_new_flutter_3_47) - [What’s new in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 * [2026-08-13, 09:33:19](https://lobste.rs/s/tkzdj2/why_vibe_code_lisp) - [Why vibe code in Lisp?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-13, 07:51:17](https://lobste.rs/s/0o3xpp/on_hacking) - [On Hacking](https://stallman.org/articles/on-hacking.html)

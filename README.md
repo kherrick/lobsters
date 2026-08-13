@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-13, 11:11:09](https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission) - [A \"secure-ish\" Pi setup with permission, sandbox, and auto-review](https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox)
+* [2026-08-13, 11:09:17](https://lobste.rs/s/saesgf/digitizing_super_8_film_yourself) - [Digitizing super 8 film yourself](https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html)
+* [2026-08-13, 10:48:29](https://lobste.rs/s/nyk5kd/let_them_write_rfcs) - [Let Them Write RFCs](https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/)
 * [2026-08-13, 10:46:34](https://lobste.rs/s/p02oa2/what_s_new_flutter_3_47) - [What’s new in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 * [2026-08-13, 09:33:19](https://lobste.rs/s/tkzdj2/why_vibe_code_lisp) - [Why vibe code in Lisp?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-13, 07:51:17](https://lobste.rs/s/0o3xpp/on_hacking) - [On Hacking](https://stallman.org/articles/on-hacking.html)
@@ -8,11 +11,9 @@
 * [2026-08-13, 03:28:15](https://lobste.rs/s/6dw7pl/beszel) - [beszel](https://github.com/henrygd/beszel)
 * [2026-08-13, 03:08:30](https://lobste.rs/s/xic1nn/does_anyone_run_postgres_without) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-13, 00:55:03](https://lobste.rs/s/keiw21/github_stacks_jujutsu) - [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/)
-* [2026-08-12, 19:27:17](https://lobste.rs/s/go39b7/zed_introducing_delta) - [Zed: Introducing Delta](https://zed.dev/blog/introducing-delta)
 * [2026-08-12, 18:20:26](https://lobste.rs/s/bccwjx/critical_review_xilem_2026) - [A critical review of Xilem in 2026](https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg)
 * [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
 * [2026-08-12, 17:59:51](https://lobste.rs/s/xwo03g/why_tiny_jpegs_look_different_chrome) - [Why tiny JPEGs look different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/)
-* [2026-08-12, 16:40:35](https://lobste.rs/s/g94aro/decrypting_flume_water_monitor_traffic) - [Decrypting Flume Water Monitor Traffic](https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/)
 * [2026-08-12, 16:03:22](https://lobste.rs/s/bcfzer/hacking_nameof) - [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
 * [2026-08-12, 15:50:16](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem) - [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
 * [2026-08-12, 15:01:27](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal) - [How Tailscale helped find the SQLite WAL-Reset bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
@@ -24,7 +25,6 @@
 * [2026-08-12, 08:53:15](https://lobste.rs/s/ixbcym/analyzing_my_lobsters_submissions) - [Analyzing My Lobsters Submissions](https://abhinavsarkar.net/notes/2026-lobsters-submissions/)
 * [2026-08-12, 08:43:18](https://lobste.rs/s/9yslt6/on_ai_coding_its_discontents) - [On AI Coding and Its Discontents](https://calnewport.com/on-ai-coding-and-its-discontents/)
 * [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
-* [2026-08-12, 06:45:23](https://lobste.rs/s/k4ri7d/c_26_std_indirect) - [C++26: std::indirect](https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect)
 
 ## [Archives](archives/index.md)
 
