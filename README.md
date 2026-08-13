@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-13, 14:30:59](https://lobste.rs/s/lt89di/adopting_memory_safety_fine_grained) - [Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI](https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/)
 * [2026-08-13, 11:56:09](https://lobste.rs/s/v2xrcm/sqlite_how_it_works_by_richard_hipp_2024) - [SQLite: How it works, by Richard Hipp (2024)](https://www.youtube.com/watch?v=ZSKLA81tBis)
 * [2026-08-13, 11:11:09](https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission) - [A \"secure-ish\" Pi setup with permission, sandbox, and auto-review](https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox)
 * [2026-08-13, 11:09:17](https://lobste.rs/s/saesgf/digitizing_super_8_film_yourself) - [Digitizing super 8 film yourself](https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html)
@@ -14,7 +15,6 @@
 * [2026-08-12, 18:20:26](https://lobste.rs/s/bccwjx/critical_review_xilem_2026) - [A critical review of Xilem in 2026](https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg)
 * [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
 * [2026-08-12, 17:59:51](https://lobste.rs/s/xwo03g/why_tiny_jpegs_look_different_chrome) - [Why tiny JPEGs look different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/)
-* [2026-08-12, 16:03:22](https://lobste.rs/s/bcfzer/hacking_nameof) - [Hacking in the 'nameOf'](https://committing-crimes.com/articles/2026-08-04-java-nameof)
 * [2026-08-12, 15:50:16](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem) - [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
 * [2026-08-12, 15:01:27](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal) - [How Tailscale helped find the SQLite WAL-Reset bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 * [2026-08-12, 13:15:29](https://lobste.rs/s/pu96ia/fearless_simd_v0_7_64_bit_integers) - [fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0](https://linebender.org/blog/fearless-simd-0-7/)
