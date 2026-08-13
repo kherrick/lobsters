@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-13, 07:51:17",
+      "https://lobste.rs/s/0o3xpp/on_hacking"
+    ],
+    [
+      "On Hacking",
+      "https://stallman.org/articles/on-hacking.html"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 05:28:40",
       "https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"
     ],
@@ -47,6 +57,16 @@
     [
       "GitHub Stacks in Jujutsu",
       "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 19:27:17",
+      "https://lobste.rs/s/go39b7/zed_introducing_delta"
+    ],
+    [
+      "Zed: Introducing Delta",
+      "https://zed.dev/blog/introducing-delta"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-08-12, 03:00:38",
-      "https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days"
-    ],
-    [
-      "Making a game on a custom bytecode VM in 7 days and 3kB",
-      "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 19:35:12",
       "https://lobste.rs/s/gixxh0/compression_is_prediction"
     ],
     [
       "Compression is prediction",
       "https://ngrok.com/blog/compression-is-prediction"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 17:31:53",
-      "https://lobste.rs/s/unffzk/my_anti_ai_computer"
-    ],
-    [
-      "My Anti AI computer",
-      "https://punkx.org/jackdoe/home.html"
     ]
   ],
   [
