@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 19:07:37](https://lobste.rs/s/e9v9qi/c3_0_8_3_feature_flags) - [C3 0.8.3 Feature flags](https://c3-lang.org/blog/c3_0_8_3_feature_flags/)
+* [2026-08-13, 19:00:48](https://lobste.rs/s/iarwcp/write_sql_optimizer_using_egg_2023) - [Write a SQL Optimizer using Egg (2023)](https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg)
 * [2026-08-13, 17:43:13](https://lobste.rs/s/tssf5y/i_want_extern_fil_c) - [I want extern \"fil-c\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
 * [2026-08-13, 16:24:02](https://lobste.rs/s/rn4sp8/eurozig) - [EuroZig](http://eurozig.eu/)
 * [2026-08-13, 16:06:04](https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram) - [Unlocking _everything_ on the CPU with DRAM scrambling](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
