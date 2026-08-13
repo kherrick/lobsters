@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-13, 00:55:03](https://lobste.rs/s/keiw21/github_stacks_jujutsu) - [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/)
 * [2026-08-12, 18:20:26](https://lobste.rs/s/bccwjx/critical_review_xilem_2026) - [A critical review of Xilem in 2026](https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg)
 * [2026-08-12, 18:20:17](https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts) - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts)
 * [2026-08-12, 18:05:37](https://lobste.rs/s/octplv/i_found_kvm_guest_host_heap_corruption_bug) - [I found a KVM guest-to-host heap corruption bug and someone else got there first](https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/)
@@ -24,7 +25,6 @@
 * [2026-08-11, 19:35:12](https://lobste.rs/s/gixxh0/compression_is_prediction) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 17:31:53](https://lobste.rs/s/unffzk/my_anti_ai_computer) - [My Anti AI computer](https://punkx.org/jackdoe/home.html)
 * [2026-08-11, 14:08:21](https://lobste.rs/s/b3uky6/gnome_shell_design_dreams) - [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
-* [2026-08-11, 05:37:40](https://lobste.rs/s/gyxkma/reviewing_code_is_skill) - [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
 
 ## [Archives](archives/index.md)
 
