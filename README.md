@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-13, 16:24:02](https://lobste.rs/s/rn4sp8/eurozig) - [EuroZig](http://eurozig.eu/)
+* [2026-08-13, 15:27:59](https://lobste.rs/s/juj7bi/zoomsday_zoom_zero_click) - [ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation](https://a.security/blog/asecurity-zoomsday)
 * [2026-08-13, 14:03:13](https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software) - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 * [2026-08-13, 11:56:09](https://lobste.rs/s/v2xrcm/sqlite_how_it_works_by_richard_hipp_2024) - [SQLite: How it works, by Richard Hipp (2024)](https://www.youtube.com/watch?v=ZSKLA81tBis)
 * [2026-08-13, 11:11:09](https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission) - [A \"secure-ish\" Pi setup with permission, sandbox, and auto-review](https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox)
@@ -23,8 +25,6 @@
 * [2026-08-12, 12:59:17](https://lobste.rs/s/864m3v/mindful_coding_purpose_intention) - [Mindful coding: Purpose and intention](https://var0.xyz/posts/mindful-coding-purpose-and-intention.html)
 * [2026-08-12, 12:40:12](https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
 * [2026-08-12, 11:27:11](https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes) - [Guide to (not) fucking up QR codes](https://infosec.exchange/@rebane2001/117078420917152774)
-* [2026-08-12, 08:43:18](https://lobste.rs/s/9yslt6/on_ai_coding_its_discontents) - [On AI Coding and Its Discontents](https://calnewport.com/on-ai-coding-and-its-discontents/)
-* [2026-08-12, 07:10:32](https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification) - [Introducing Automatic Key Verification](https://signal.org/blog/automatic-key-verification/)
 
 ## [Archives](archives/index.md)
 
