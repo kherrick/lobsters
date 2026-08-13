@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-13, 10:46:34",
+      "https://lobste.rs/s/p02oa2/what_s_new_flutter_3_47"
+    ],
+    [
+      "What’s new in Flutter 3.47",
+      "https://flutter.dev/blog/whats-new-in-flutter-3-47"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 09:33:19",
+      "https://lobste.rs/s/tkzdj2/why_vibe_code_lisp"
+    ],
+    [
+      "Why vibe code in Lisp?",
+      "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 07:51:17",
       "https://lobste.rs/s/0o3xpp/on_hacking"
     ],
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2026-08-12, 19:27:17",
+      "https://lobste.rs/s/go39b7/zed_introducing_delta"
+    ],
+    [
+      "Zed: Introducing Delta",
+      "https://zed.dev/blog/introducing-delta"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 18:20:26",
       "https://lobste.rs/s/bccwjx/critical_review_xilem_2026"
     ],
@@ -71,12 +101,12 @@
   ],
   [
     [
-      "2026-08-12, 18:05:37",
-      "https://lobste.rs/s/octplv/i_found_kvm_guest_host_heap_corruption_bug"
+      "2026-08-12, 18:20:17",
+      "https://lobste.rs/s/xvezmx/tabs_spaces_hand_tools_seat_belts"
     ],
     [
-      "I found a KVM guest-to-host heap corruption bug and someone else got there first",
-      "https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/"
+      "Tabs, Spaces, Hand Tools, and Seat Belts",
+      "https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts"
     ]
   ],
   [
@@ -141,22 +171,22 @@
   ],
   [
     [
+      "2026-08-12, 13:09:40",
+      "https://lobste.rs/s/rfiuko/i_m_done_using_ai"
+    ],
+    [
+      "I'm done using AI",
+      "https://brettcodes.com/im-done-using-ai/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 12:59:17",
       "https://lobste.rs/s/864m3v/mindful_coding_purpose_intention"
     ],
     [
       "Mindful coding: Purpose and intention",
       "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 12:43:02",
-      "https://lobste.rs/s/pxca92/new_delphi_community_edition_florence"
-    ],
-    [
-      "New Delphi Community Edition \"Florence\"",
-      "https://blog.marcocantu.com/blog/2026-august-delphi-ce-florence.html"
     ]
   ],
   [
@@ -191,6 +221,16 @@
   ],
   [
     [
+      "2026-08-12, 08:43:18",
+      "https://lobste.rs/s/9yslt6/on_ai_coding_its_discontents"
+    ],
+    [
+      "On AI Coding and Its Discontents",
+      "https://calnewport.com/on-ai-coding-and-its-discontents/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 07:10:32",
       "https://lobste.rs/s/b3y5qs/introducing_automatic_key_verification"
     ],
@@ -207,46 +247,6 @@
     [
       "C++26: std::indirect",
       "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 06:31:43",
-      "https://lobste.rs/s/bp6bmx/tail_call_interpreters_rust"
-    ],
-    [
-      "Tail-Call Interpreters in Rust",
-      "https://lordgoati.us/blog/tail-call/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 03:00:38",
-      "https://lobste.rs/s/he9kpd/making_game_on_custom_bytecode_vm_7_days"
-    ],
-    [
-      "Making a game on a custom bytecode VM in 7 days and 3kB",
-      "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 19:35:12",
-      "https://lobste.rs/s/gixxh0/compression_is_prediction"
-    ],
-    [
-      "Compression is prediction",
-      "https://ngrok.com/blog/compression-is-prediction"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 14:08:21",
-      "https://lobste.rs/s/b3uky6/gnome_shell_design_dreams"
-    ],
-    [
-      "GNOME Shell Design Dreams",
-      "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/"
     ]
   ]
 ]
