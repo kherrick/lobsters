@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 17:43:13](https://lobste.rs/s/tssf5y/i_want_extern_fil_c) - [I want extern \"fil-c\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
 * [2026-08-13, 16:24:02](https://lobste.rs/s/rn4sp8/eurozig) - [EuroZig](http://eurozig.eu/)
+* [2026-08-13, 16:06:04](https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram) - [Unlocking _everything_ on the CPU with DRAM scrambling](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
 * [2026-08-13, 15:27:59](https://lobste.rs/s/juj7bi/zoomsday_zoom_zero_click) - [ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation](https://a.security/blog/asecurity-zoomsday)
 * [2026-08-13, 14:30:59](https://lobste.rs/s/lt89di/adopting_memory_safety_fine_grained) - [Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI](https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/)
 * [2026-08-13, 14:03:13](https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software) - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
