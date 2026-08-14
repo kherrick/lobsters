@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-14, 16:08:17](https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing) - [Unexpected (to me) behaviour in Lisp sub-typing](https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/)
 * [2026-08-14, 15:54:54](https://lobste.rs/s/klffhr/guilt_driven_development) - [Guilt-Driven Development](https://markuseliasson.se/article/guilt-driven-development)
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 * [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
@@ -22,7 +23,6 @@
 * [2026-08-13, 16:24:02](https://lobste.rs/s/rn4sp8/eurozig) - [EuroZig](http://eurozig.eu/)
 * [2026-08-13, 16:06:04](https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram) - [Unlocking _everything_ on the CPU with DRAM scrambling](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
 * [2026-08-13, 14:03:13](https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software) - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
-* [2026-08-13, 10:46:34](https://lobste.rs/s/p02oa2/what_s_new_flutter_3_47) - [What’s new in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 * [2026-08-13, 05:28:40](https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda) - [python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
 * [2026-08-13, 00:55:03](https://lobste.rs/s/keiw21/github_stacks_jujutsu) - [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/)
 
