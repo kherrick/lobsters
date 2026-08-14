@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-14, 07:27:13",
+      "https://lobste.rs/s/ybo5gr/i_made_world_s_first_link_compressor"
+    ],
+    [
+      "I Made the World's First \"Link Compressor\"",
+      "https://www.youtube.com/watch?v=TOr1Vvji6jA"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 04:08:33",
       "https://lobste.rs/s/4d7o9o/logging_into_linux_machine_from_flip"
     ],
     [
       "Logging into a Linux machine from a flip phone over Bluetooth (2020)",
       "https://www.youtube.com/watch?v=eETHOyuSiMA"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 02:57:22",
+      "https://lobste.rs/s/zoexyi/speeding_up_small_ruby_hashes"
+    ],
+    [
+      "Speeding Up (small) Ruby Hashes",
+      "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-08-13, 15:27:59",
-      "https://lobste.rs/s/juj7bi/zoomsday_zoom_zero_click"
-    ],
-    [
-      "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation",
-      "https://a.security/blog/asecurity-zoomsday"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 14:03:13",
       "https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software"
     ],
@@ -147,16 +157,6 @@
     [
       "SQLite: How it works, by Richard Hipp (2024)",
       "https://www.youtube.com/watch?v=ZSKLA81tBis"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 11:11:09",
-      "https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission"
-    ],
-    [
-      "A \"secure-ish\" Pi setup with permission, sandbox, and auto-review",
-      "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox"
     ]
   ],
   [
