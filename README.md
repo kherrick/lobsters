@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-14, 10:00:04](https://lobste.rs/s/fliek2/computing_graph_dominators) - [Computing graph dominators](https://neugierig.org/software/blog/2026/08/dominators.html)
+* [2026-08-14, 09:52:20](https://lobste.rs/s/2dsufc/comments_code_vs_pr_description) - [Comments in the code vs PR description](https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607)
+* [2026-08-14, 09:43:51](https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when) - [SlopScan: Displays a \"slop score\" when viewing public git repositories](https://addons.mozilla.org/en-US/firefox/addon/slopscan/)
+* [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
 * [2026-08-14, 07:27:13](https://lobste.rs/s/ybo5gr/i_made_world_s_first_link_compressor) - [I Made the World's First \"Link Compressor\"](https://www.youtube.com/watch?v=TOr1Vvji6jA)
 * [2026-08-14, 04:08:33](https://lobste.rs/s/4d7o9o/logging_into_linux_machine_from_flip) - [Logging into a Linux machine from a flip phone over Bluetooth (2020)](https://www.youtube.com/watch?v=eETHOyuSiMA)
 * [2026-08-14, 02:57:22](https://lobste.rs/s/zoexyi/speeding_up_small_ruby_hashes) - [Speeding Up (small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
@@ -9,7 +13,6 @@
 * [2026-08-13, 21:08:07](https://lobste.rs/s/utpgi9/preview_roc_0_1_0) - [A preview of Roc 0.1.0](https://youtu.be/a7qEOtkkDb8)
 * [2026-08-13, 19:08:29](https://lobste.rs/s/avlnjl/sveltekit_3_release_candidate_is_here) - [The SvelteKit 3 Release Candidate is here](https://svelte.dev/blog/sveltekit-3-release-candidate)
 * [2026-08-13, 19:07:37](https://lobste.rs/s/e9v9qi/c3_0_8_3_feature_flags) - [C3 0.8.3 Feature flags](https://c3-lang.org/blog/c3_0_8_3_feature_flags/)
-* [2026-08-13, 19:00:48](https://lobste.rs/s/iarwcp/write_sql_optimizer_using_egg_2023) - [Write a SQL Optimizer using Egg (2023)](https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg)
 * [2026-08-13, 18:23:30](https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust) - [OxiSH: SSH server written in Rust](https://github.com/djc/oxish)
 * [2026-08-13, 17:43:13](https://lobste.rs/s/tssf5y/i_want_extern_fil_c) - [I want extern \"fil-c\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
 * [2026-08-13, 16:24:02](https://lobste.rs/s/rn4sp8/eurozig) - [EuroZig](http://eurozig.eu/)
@@ -18,13 +21,10 @@
 * [2026-08-13, 11:56:09](https://lobste.rs/s/v2xrcm/sqlite_how_it_works_by_richard_hipp_2024) - [SQLite: How it works, by Richard Hipp (2024)](https://www.youtube.com/watch?v=ZSKLA81tBis)
 * [2026-08-13, 10:48:29](https://lobste.rs/s/nyk5kd/let_them_write_rfcs) - [Let Them Write RFCs](https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/)
 * [2026-08-13, 10:46:34](https://lobste.rs/s/p02oa2/what_s_new_flutter_3_47) - [What’s new in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
-* [2026-08-13, 07:51:17](https://lobste.rs/s/0o3xpp/on_hacking) - [On Hacking](https://stallman.org/articles/on-hacking.html)
 * [2026-08-13, 05:28:40](https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda) - [python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
 * [2026-08-13, 03:08:30](https://lobste.rs/s/xic1nn/does_anyone_run_postgres_without) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-13, 00:55:03](https://lobste.rs/s/keiw21/github_stacks_jujutsu) - [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/)
-* [2026-08-12, 15:50:16](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem) - [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
 * [2026-08-12, 15:01:27](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal) - [How Tailscale helped find the SQLite WAL-Reset bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
-* [2026-08-12, 12:40:12](https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
 
 ## [Archives](archives/index.md)
 
