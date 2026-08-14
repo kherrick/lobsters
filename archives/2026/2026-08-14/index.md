@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+* [2026-08-14, 19:05:12](https://lobste.rs/s/j9mwib/we_implemented_ipv8_internet_draft_linux) - [We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
+* [2026-08-14, 18:44:17](https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring) - [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
 * [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-14, 16:57:36](https://lobste.rs/s/dfel1t/find_out_who_s_tracking_you_with) - [Find out who’s tracking you with DecryptAds](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 * [2026-08-14, 16:08:17](https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing) - [Unexpected (to me) behaviour in Lisp sub-typing](https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/)
