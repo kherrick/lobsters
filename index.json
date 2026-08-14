@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-14, 10:00:04",
+      "https://lobste.rs/s/fliek2/computing_graph_dominators"
+    ],
+    [
+      "Computing graph dominators",
+      "https://neugierig.org/software/blog/2026/08/dominators.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 09:52:20",
+      "https://lobste.rs/s/2dsufc/comments_code_vs_pr_description"
+    ],
+    [
+      "Comments in the code vs PR description",
+      "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 09:43:51",
+      "https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when"
+    ],
+    [
+      "SlopScan: Displays a \"slop score\" when viewing public git repositories",
+      "https://addons.mozilla.org/en-US/firefox/addon/slopscan/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 09:10:45",
+      "https://lobste.rs/s/aqmagt/art_chip_8"
+    ],
+    [
+      "The Art of CHIP-8",
+      "https://beyondloom.com/blog/artofchip8.html"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 07:27:13",
       "https://lobste.rs/s/ybo5gr/i_made_world_s_first_link_compressor"
     ],
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-08-13, 19:00:48",
-      "https://lobste.rs/s/iarwcp/write_sql_optimizer_using_egg_2023"
-    ],
-    [
-      "Write a SQL Optimizer using Egg (2023)",
-      "https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 18:23:30",
       "https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-08-13, 07:51:17",
-      "https://lobste.rs/s/0o3xpp/on_hacking"
-    ],
-    [
-      "On Hacking",
-      "https://stallman.org/articles/on-hacking.html"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 05:28:40",
       "https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-08-12, 15:50:16",
-      "https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"
-    ],
-    [
-      "My Homelab Got Hacked - A Postmortem",
-      "https://phunky.cafe/my-homelab-got-hacked/"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 15:01:27",
       "https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal"
     ],
     [
       "How Tailscale helped find the SQLite WAL-Reset bug",
       "https://tailscale.com/blog/sqlite-wal-reset-bug"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 12:40:12",
-      "https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux"
-    ],
-    [
-      "I hate packaging my software for Linux",
-      "https://getfresh.dev/docs/blog/packaging-for-linux/"
     ]
   ]
 ]
