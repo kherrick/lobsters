@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-14, 00:06:09](https://lobste.rs/s/0fokml/write_for_people) - [Write for people](https://newsletter.vickiboykis.com/archive/write-for-people/)
 * [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
 * [2026-08-13, 21:08:07](https://lobste.rs/s/utpgi9/preview_roc_0_1_0) - [A preview of Roc 0.1.0](https://youtu.be/a7qEOtkkDb8)
 * [2026-08-13, 19:08:29](https://lobste.rs/s/avlnjl/sveltekit_3_release_candidate_is_here) - [The SvelteKit 3 Release Candidate is here](https://svelte.dev/blog/sveltekit-3-release-candidate)
@@ -9,7 +10,6 @@
 * [2026-08-13, 17:43:13](https://lobste.rs/s/tssf5y/i_want_extern_fil_c) - [I want extern \"fil-c\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
 * [2026-08-13, 16:24:02](https://lobste.rs/s/rn4sp8/eurozig) - [EuroZig](http://eurozig.eu/)
 * [2026-08-13, 16:06:04](https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram) - [Unlocking _everything_ on the CPU with DRAM scrambling](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
-* [2026-08-13, 15:27:59](https://lobste.rs/s/juj7bi/zoomsday_zoom_zero_click) - [ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation](https://a.security/blog/asecurity-zoomsday)
 * [2026-08-13, 14:30:59](https://lobste.rs/s/lt89di/adopting_memory_safety_fine_grained) - [Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI](https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/)
 * [2026-08-13, 14:03:13](https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software) - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 * [2026-08-13, 11:56:09](https://lobste.rs/s/v2xrcm/sqlite_how_it_works_by_richard_hipp_2024) - [SQLite: How it works, by Richard Hipp (2024)](https://www.youtube.com/watch?v=ZSKLA81tBis)

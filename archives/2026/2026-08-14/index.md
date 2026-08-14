@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-14](index.md)
+
+* [2026-08-14, 00:06:09](https://lobste.rs/s/0fokml/write_for_people) - [Write for people](https://newsletter.vickiboykis.com/archive/write-for-people/)
