@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-14, 20:09:56](https://lobste.rs/s/pfopxj/2026_eurollvm) - [2026 EuroLLVM](http://www.youtube.com/playlist?list=PL_R5A0lGi1ABJTIK5_5MkvHDb12mUmpSz)
 * [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 * [2026-08-14, 19:05:12](https://lobste.rs/s/j9mwib/we_implemented_ipv8_internet_draft_linux) - [We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
 * [2026-08-14, 18:44:17](https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring) - [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
@@ -15,7 +16,6 @@
 * [2026-08-14, 09:43:51](https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when) - [SlopScan: Displays a \"slop score\" when viewing public git repositories](https://addons.mozilla.org/en-US/firefox/addon/slopscan/)
 * [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
 * [2026-08-14, 07:27:13](https://lobste.rs/s/ybo5gr/i_made_world_s_first_link_compressor) - [I Made the World's First \"Link Compressor\"](https://www.youtube.com/watch?v=TOr1Vvji6jA)
-* [2026-08-14, 02:57:22](https://lobste.rs/s/zoexyi/speeding_up_small_ruby_hashes) - [Speeding Up (small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
 * [2026-08-14, 00:06:09](https://lobste.rs/s/0fokml/write_for_people) - [Write for people](https://newsletter.vickiboykis.com/archive/write-for-people/)
 * [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
 * [2026-08-13, 21:08:07](https://lobste.rs/s/utpgi9/preview_roc_0_1_0) - [A preview of Roc 0.1.0](https://youtu.be/a7qEOtkkDb8)

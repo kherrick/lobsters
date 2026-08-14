@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 20:09:56](https://lobste.rs/s/pfopxj/2026_eurollvm) - [2026 EuroLLVM](http://www.youtube.com/playlist?list=PL_R5A0lGi1ABJTIK5_5MkvHDb12mUmpSz)
 * [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 * [2026-08-14, 19:05:12](https://lobste.rs/s/j9mwib/we_implemented_ipv8_internet_draft_linux) - [We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
 * [2026-08-14, 18:44:17](https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring) - [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
