@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
+* [2026-08-14, 16:57:36](https://lobste.rs/s/dfel1t/find_out_who_s_tracking_you_with) - [Find out who’s tracking you with DecryptAds](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 * [2026-08-14, 16:08:17](https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing) - [Unexpected (to me) behaviour in Lisp sub-typing](https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/)
 * [2026-08-14, 15:54:54](https://lobste.rs/s/klffhr/guilt_driven_development) - [Guilt-Driven Development](https://markuseliasson.se/article/guilt-driven-development)
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)

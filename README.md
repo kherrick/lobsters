@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
+* [2026-08-14, 16:57:36](https://lobste.rs/s/dfel1t/find_out_who_s_tracking_you_with) - [Find out who’s tracking you with DecryptAds](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 * [2026-08-14, 16:08:17](https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing) - [Unexpected (to me) behaviour in Lisp sub-typing](https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/)
-* [2026-08-14, 15:54:54](https://lobste.rs/s/klffhr/guilt_driven_development) - [Guilt-Driven Development](https://markuseliasson.se/article/guilt-driven-development)
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 * [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
 * [2026-08-14, 10:44:25](https://lobste.rs/s/t4bkix/introducing_bluesky_protocol_services) - [Introducing Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
@@ -17,7 +18,6 @@
 * [2026-08-13, 23:09:16](https://lobste.rs/s/d857ms/long_division_story) - [A long division story](https://kolja.rs/algorithm-d)
 * [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
 * [2026-08-13, 21:08:07](https://lobste.rs/s/utpgi9/preview_roc_0_1_0) - [A preview of Roc 0.1.0](https://youtu.be/a7qEOtkkDb8)
-* [2026-08-13, 19:07:37](https://lobste.rs/s/e9v9qi/c3_0_8_3_feature_flags) - [C3 0.8.3 Feature flags](https://c3-lang.org/blog/c3_0_8_3_feature_flags/)
 * [2026-08-13, 18:23:30](https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust) - [OxiSH: SSH server written in Rust](https://github.com/djc/oxish)
 * [2026-08-13, 17:43:13](https://lobste.rs/s/tssf5y/i_want_extern_fil_c) - [I want extern \"fil-c\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
 * [2026-08-13, 16:24:02](https://lobste.rs/s/rn4sp8/eurozig) - [EuroZig](http://eurozig.eu/)
