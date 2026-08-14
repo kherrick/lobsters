@@ -2,6 +2,7 @@
 
 * [2026-08-14, 04:08:33](https://lobste.rs/s/4d7o9o/logging_into_linux_machine_from_flip) - [Logging into a Linux machine from a flip phone over Bluetooth (2020)](https://www.youtube.com/watch?v=eETHOyuSiMA)
 * [2026-08-14, 00:06:09](https://lobste.rs/s/0fokml/write_for_people) - [Write for people](https://newsletter.vickiboykis.com/archive/write-for-people/)
+* [2026-08-13, 23:09:16](https://lobste.rs/s/d857ms/long_division_story) - [A long division story](https://kolja.rs/algorithm-d)
 * [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
 * [2026-08-13, 21:08:07](https://lobste.rs/s/utpgi9/preview_roc_0_1_0) - [A preview of Roc 0.1.0](https://youtu.be/a7qEOtkkDb8)
 * [2026-08-13, 19:08:29](https://lobste.rs/s/avlnjl/sveltekit_3_release_candidate_is_here) - [The SvelteKit 3 Release Candidate is here](https://svelte.dev/blog/sveltekit-3-release-candidate)
@@ -17,7 +18,6 @@
 * [2026-08-13, 11:11:09](https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission) - [A \"secure-ish\" Pi setup with permission, sandbox, and auto-review](https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox)
 * [2026-08-13, 10:48:29](https://lobste.rs/s/nyk5kd/let_them_write_rfcs) - [Let Them Write RFCs](https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/)
 * [2026-08-13, 10:46:34](https://lobste.rs/s/p02oa2/what_s_new_flutter_3_47) - [What’s new in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
-* [2026-08-13, 09:33:19](https://lobste.rs/s/tkzdj2/why_vibe_code_lisp) - [Why vibe code in Lisp?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-13, 07:51:17](https://lobste.rs/s/0o3xpp/on_hacking) - [On Hacking](https://stallman.org/articles/on-hacking.html)
 * [2026-08-13, 05:28:40](https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda) - [python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
 * [2026-08-13, 03:08:30](https://lobste.rs/s/xic1nn/does_anyone_run_postgres_without) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)

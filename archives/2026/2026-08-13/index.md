@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 23:09:16](https://lobste.rs/s/d857ms/long_division_story) - [A long division story](https://kolja.rs/algorithm-d)
 * [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
 * [2026-08-13, 21:08:07](https://lobste.rs/s/utpgi9/preview_roc_0_1_0) - [A preview of Roc 0.1.0](https://youtu.be/a7qEOtkkDb8)
 * [2026-08-13, 19:08:29](https://lobste.rs/s/avlnjl/sveltekit_3_release_candidate_is_here) - [The SvelteKit 3 Release Candidate is here](https://svelte.dev/blog/sveltekit-3-release-candidate)
