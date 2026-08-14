@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-08-14, 17:03:04",
+      "https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual"
+    ],
+    [
+      "Thunderbird’s Desktop Calendar Visual Redesign",
+      "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 16:57:36",
+      "https://lobste.rs/s/dfel1t/find_out_who_s_tracking_you_with"
+    ],
+    [
+      "Find out who’s tracking you with DecryptAds",
+      "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 16:08:17",
       "https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing"
     ],
     [
       "Unexpected (to me) behaviour in Lisp sub-typing",
       "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 15:54:54",
-      "https://lobste.rs/s/klffhr/guilt_driven_development"
-    ],
-    [
-      "Guilt-Driven Development",
-      "https://markuseliasson.se/article/guilt-driven-development"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "A preview of Roc 0.1.0",
       "https://youtu.be/a7qEOtkkDb8"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 19:07:37",
-      "https://lobste.rs/s/e9v9qi/c3_0_8_3_feature_flags"
-    ],
-    [
-      "C3 0.8.3 Feature flags",
-      "https://c3-lang.org/blog/c3_0_8_3_feature_flags/"
     ]
   ],
   [
