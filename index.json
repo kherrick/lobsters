@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-13, 23:09:13",
+      "https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess"
+    ],
+    [
+      "Let's not call it \"tech debt,\" it's just \"mess\"",
+      "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 21:08:07",
       "https://lobste.rs/s/utpgi9/preview_roc_0_1_0"
     ],
@@ -37,6 +47,16 @@
     [
       "Write a SQL Optimizer using Egg (2023)",
       "https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 18:23:30",
+      "https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust"
+    ],
+    [
+      "OxiSH: SSH server written in Rust",
+      "https://github.com/djc/oxish"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-08-13, 11:09:17",
-      "https://lobste.rs/s/saesgf/digitizing_super_8_film_yourself"
-    ],
-    [
-      "Digitizing super 8 film yourself",
-      "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 10:48:29",
       "https://lobste.rs/s/nyk5kd/let_them_write_rfcs"
     ],
@@ -197,16 +207,6 @@
     [
       "GitHub Stacks in Jujutsu",
       "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 18:20:26",
-      "https://lobste.rs/s/bccwjx/critical_review_xilem_2026"
-    ],
-    [
-      "A critical review of Xilem in 2026",
-      "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg"
     ]
   ],
   [
