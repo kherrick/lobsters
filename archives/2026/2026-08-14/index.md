@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 15:54:54](https://lobste.rs/s/klffhr/guilt_driven_development) - [Guilt-Driven Development](https://markuseliasson.se/article/guilt-driven-development)
+* [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 * [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
 * [2026-08-14, 10:44:25](https://lobste.rs/s/t4bkix/introducing_bluesky_protocol_services) - [Introducing Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 * [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
