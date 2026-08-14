@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 10:44:25](https://lobste.rs/s/t4bkix/introducing_bluesky_protocol_services) - [Introducing Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+* [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
 * [2026-08-14, 10:00:04](https://lobste.rs/s/fliek2/computing_graph_dominators) - [Computing graph dominators](https://neugierig.org/software/blog/2026/08/dominators.html)
 * [2026-08-14, 09:52:20](https://lobste.rs/s/2dsufc/comments_code_vs_pr_description) - [Comments in the code vs PR description](https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607)
 * [2026-08-14, 09:43:51](https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when) - [SlopScan: Displays a \"slop score\" when viewing public git repositories](https://addons.mozilla.org/en-US/firefox/addon/slopscan/)

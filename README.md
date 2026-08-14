@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-14, 10:00:04](https://lobste.rs/s/fliek2/computing_graph_dominators) - [Computing graph dominators](https://neugierig.org/software/blog/2026/08/dominators.html)
+* [2026-08-14, 10:44:25](https://lobste.rs/s/t4bkix/introducing_bluesky_protocol_services) - [Introducing Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+* [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
 * [2026-08-14, 09:52:20](https://lobste.rs/s/2dsufc/comments_code_vs_pr_description) - [Comments in the code vs PR description](https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607)
 * [2026-08-14, 09:43:51](https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when) - [SlopScan: Displays a \"slop score\" when viewing public git repositories](https://addons.mozilla.org/en-US/firefox/addon/slopscan/)
 * [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
@@ -24,7 +25,6 @@
 * [2026-08-13, 05:28:40](https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda) - [python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
 * [2026-08-13, 03:08:30](https://lobste.rs/s/xic1nn/does_anyone_run_postgres_without) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-13, 00:55:03](https://lobste.rs/s/keiw21/github_stacks_jujutsu) - [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/)
-* [2026-08-12, 15:01:27](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal) - [How Tailscale helped find the SQLite WAL-Reset bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 
 ## [Archives](archives/index.md)
 
