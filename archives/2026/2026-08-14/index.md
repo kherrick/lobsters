@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
 * [2026-08-14, 10:44:25](https://lobste.rs/s/t4bkix/introducing_bluesky_protocol_services) - [Introducing Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 * [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
 * [2026-08-14, 10:00:04](https://lobste.rs/s/fliek2/computing_graph_dominators) - [Computing graph dominators](https://neugierig.org/software/blog/2026/08/dominators.html)
