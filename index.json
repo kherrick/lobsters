@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-08-14, 15:54:54",
+      "https://lobste.rs/s/klffhr/guilt_driven_development"
+    ],
+    [
+      "Guilt-Driven Development",
+      "https://markuseliasson.se/article/guilt-driven-development"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 15:18:11",
       "https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet"
     ],
@@ -237,16 +247,6 @@
     [
       "python's pre-declared constants are kinda weird",
       "https://sebsite.pw/w/20260801-pythonconstants.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 00:55:03",
-      "https://lobste.rs/s/keiw21/github_stacks_jujutsu"
-    ],
-    [
-      "GitHub Stacks in Jujutsu",
-      "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/"
     ]
   ]
 ]
