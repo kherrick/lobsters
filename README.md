@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-15, 16:17:13](https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily) - [Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902)
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
@@ -24,7 +25,6 @@
 * [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
 * [2026-08-14, 09:43:51](https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when) - [SlopScan: Displays a \"slop score\" when viewing public git repositories](https://addons.mozilla.org/en-US/firefox/addon/slopscan/)
 * [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
-* [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
 
 ## [Archives](archives/index.md)
 

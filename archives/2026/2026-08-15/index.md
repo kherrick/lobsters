@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 16:17:13](https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily) - [Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902)
 * [2026-08-15, 14:39:29](https://lobste.rs/s/qxbof3/qwen3_8_27b_release_day_demos) - [Qwen3.8-27B - Release Day Demos](https://loktar00.github.io/qwen3-8-27b-demos/)
 * [2026-08-15, 13:32:28](https://lobste.rs/s/r7yaau/technology_optimism_hour) - [Technology optimism hour](https://macwright.com/2026/08/14/optimism-hour)
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
