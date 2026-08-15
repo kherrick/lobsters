@@ -1,9 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-15, 23:22:28](https://lobste.rs/s/djlv1s/what_do_you_think_lazypromise_as) - [What do you think of LazyPromise as a lightweight alternative to Effect?](https://github.com/lazy-promise/lazy-promise)
+* [2026-08-15, 23:11:43](https://lobste.rs/s/wwf3th/programming_paradigm_for) - [A Programming Paradigm for Spatiotemporal Composability](https://github.com/cordiverse/paper/blob/main/paper.pdf)
 * [2026-08-15, 21:18:32](https://lobste.rs/s/jyhsng/zig_day_seattle_wa) - [Zig Day Seattle, WA](https://zig.day/usa/seattle/)
 * [2026-08-15, 20:01:21](https://lobste.rs/s/khcojf/recap_software_should_work_2026) - [Recap: Software Should Work 2026](https://bencornia.com/blog/recap-software-should-work-2026)
 * [2026-08-15, 18:07:08](https://lobste.rs/s/7hkk7s/power_relations) - [Power Relations](https://corbinsimpson.com/words/power-relations.html)
 * [2026-08-15, 17:13:34](https://lobste.rs/s/8r7thh/ironies_automation_1983) - [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
+* [2026-08-15, 16:17:13](https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily) - [Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902)
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
@@ -15,7 +18,6 @@
 * [2026-08-15, 05:12:40](https://lobste.rs/s/ues1ak/improving_system_safety_with_temporal) - [Improving system safety with Temporal Logic of Actions (TLA+)](https://depot.dev/blog/tla-verification)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 * [2026-08-15, 04:45:34](https://lobste.rs/s/bedqru/how_2004_runescape_fit_multiplayer_rpg) - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
-* [2026-08-15, 04:45:19](https://lobste.rs/s/nqmm3r/kernel_only_runs_nes_emulator) - [Kernel that only runs an NES emulator](https://github.com/vmartinv/nek)
 * [2026-08-15, 00:42:34](https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment) - [RVA23 vs ARMv9 a Small Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
 * [2026-08-14, 22:04:19](https://lobste.rs/s/ueyokn/what_you_gain_by_building_your_own_game) - [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
 * [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
@@ -23,8 +25,6 @@
 * [2026-08-14, 18:44:17](https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring) - [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
 * [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
-* [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
-* [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
 
 ## [Archives](archives/index.md)
 
