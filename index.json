@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-08-15, 04:45:19",
+      "https://lobste.rs/s/nqmm3r/kernel_only_runs_nes_emulator"
+    ],
+    [
+      "Kernel that only runs an NES emulator",
+      "https://github.com/vmartinv/nek"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 00:42:34",
       "https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment"
     ],
@@ -227,16 +237,6 @@
     [
       "Curl Performance",
       "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 10:39:05",
-      "https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend"
     ]
   ],
   [
