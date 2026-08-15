@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-15, 04:45:34](https://lobste.rs/s/bedqru/how_2004_runescape_fit_multiplayer_rpg) - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
+* [2026-08-15, 04:45:19](https://lobste.rs/s/nqmm3r/kernel_only_runs_nes_emulator) - [Kernel that only runs an NES emulator](https://github.com/vmartinv/nek)
 * [2026-08-15, 00:42:34](https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment) - [RVA23 vs ARMv9 a Small Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
 * [2026-08-14, 23:58:27](https://lobste.rs/s/fjwpeh/my_comment_section_is_static_html) - [My comment section is static HTML](https://jva.lol/weblog/my-comment-section-is-static-html/)
 * [2026-08-14, 22:51:27](https://lobste.rs/s/7tjseu/anecdote_against_slop_artifacts) - [An Anecdote Against Slop Artifacts](https://www.markusde.ca/pages/noslop.html)
@@ -18,12 +20,10 @@
 * [2026-08-14, 09:52:20](https://lobste.rs/s/2dsufc/comments_code_vs_pr_description) - [Comments in the code vs PR description](https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607)
 * [2026-08-14, 09:43:51](https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when) - [SlopScan: Displays a \"slop score\" when viewing public git repositories](https://addons.mozilla.org/en-US/firefox/addon/slopscan/)
 * [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
-* [2026-08-14, 00:06:09](https://lobste.rs/s/0fokml/write_for_people) - [Write for people](https://newsletter.vickiboykis.com/archive/write-for-people/)
 * [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
 * [2026-08-13, 18:23:30](https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust) - [OxiSH: SSH server written in Rust](https://github.com/djc/oxish)
 * [2026-08-13, 17:43:13](https://lobste.rs/s/tssf5y/i_want_extern_fil_c) - [I want extern \"fil-c\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
 * [2026-08-13, 16:06:04](https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram) - [Unlocking _everything_ on the CPU with DRAM scrambling](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
-* [2026-08-13, 14:03:13](https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software) - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 * [2026-08-13, 05:28:40](https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda) - [python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
 
 ## [Archives](archives/index.md)
