@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 23:58:27](https://lobste.rs/s/fjwpeh/my_comment_section_is_static_html) - [My comment section is static HTML](https://jva.lol/weblog/my-comment-section-is-static-html/)
+* [2026-08-14, 22:51:27](https://lobste.rs/s/7tjseu/anecdote_against_slop_artifacts) - [An Anecdote Against Slop Artifacts](https://www.markusde.ca/pages/noslop.html)
 * [2026-08-14, 22:04:19](https://lobste.rs/s/ueyokn/what_you_gain_by_building_your_own_game) - [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
 * [2026-08-14, 21:16:20](https://lobste.rs/s/d33eeg/destiny_s_networked_mission) - [Destiny's Networked Mission Architecture](https://www.gdcvault.com/play/1022247/Shared-World-Shooter-Destiny-s)
 * [2026-08-14, 20:09:56](https://lobste.rs/s/pfopxj/2026_eurollvm) - [2026 EuroLLVM](http://www.youtube.com/playlist?list=PL_R5A0lGi1ABJTIK5_5MkvHDb12mUmpSz)
