@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-08-15, 05:12:40",
+      "https://lobste.rs/s/ues1ak/improving_system_safety_with_temporal"
+    ],
+    [
+      "Improving system safety with Temporal Logic of Actions (TLA+)",
+      "https://depot.dev/blog/tla-verification"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 05:08:35",
       "https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"
     ],
@@ -237,16 +247,6 @@
     [
       "I want extern \"fil-c\"",
       "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 16:06:04",
-      "https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram"
-    ],
-    [
-      "Unlocking _everything_ on the CPU with DRAM scrambling",
-      "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
     ]
   ]
 ]
