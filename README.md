@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
+* [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+* [2026-08-15, 12:37:40](https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends) - [Flirt: GitHub and Mailing List backends](https://blog.buenzli.dev/flirt-github-and-mailing-list/)
 * [2026-08-15, 10:42:53](https://lobste.rs/s/fsbumg/serokell_s_work_on_ghc_dependent_types) - [Serokell’s Work on GHC: Dependent Types, Part 5](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5)
 * [2026-08-15, 10:31:01](https://lobste.rs/s/xnxzhd/free_lunch_is_over_fundamental_turn) - [The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)](http://www.gotw.ca/publications/concurrency-ddj.htm)
 * [2026-08-15, 08:53:23](https://lobste.rs/s/1r13yd/nixpkgs_multiverse_fast_mode) - [nixpkgs-multiverse: fast mode](https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode)
@@ -15,8 +18,6 @@
 * [2026-08-14, 19:05:12](https://lobste.rs/s/j9mwib/we_implemented_ipv8_internet_draft_linux) - [We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
 * [2026-08-14, 18:44:17](https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring) - [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
 * [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
-* [2026-08-14, 16:08:17](https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing) - [Unexpected (to me) behaviour in Lisp sub-typing](https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/)
-* [2026-08-14, 15:54:54](https://lobste.rs/s/klffhr/guilt_driven_development) - [Guilt-Driven Development](https://markuseliasson.se/article/guilt-driven-development)
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 * [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
 * [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
@@ -24,7 +25,6 @@
 * [2026-08-14, 09:43:51](https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when) - [SlopScan: Displays a \"slop score\" when viewing public git repositories](https://addons.mozilla.org/en-US/firefox/addon/slopscan/)
 * [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
 * [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
-* [2026-08-13, 17:43:13](https://lobste.rs/s/tssf5y/i_want_extern_fil_c) - [I want extern \"fil-c\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
 
 ## [Archives](archives/index.md)
 

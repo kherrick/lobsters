@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
+* [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+* [2026-08-15, 12:37:40](https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends) - [Flirt: GitHub and Mailing List backends](https://blog.buenzli.dev/flirt-github-and-mailing-list/)
 * [2026-08-15, 10:42:53](https://lobste.rs/s/fsbumg/serokell_s_work_on_ghc_dependent_types) - [Serokell’s Work on GHC: Dependent Types, Part 5](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5)
 * [2026-08-15, 10:40:55](https://lobste.rs/s/yi398w/training_ai_scientists_replicate) - [Training AI Scientists to Replicate Research](https://inherentlabs.ai/research/training-to-replicate)
 * [2026-08-15, 10:31:01](https://lobste.rs/s/xnxzhd/free_lunch_is_over_fundamental_turn) - [The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)](http://www.gotw.ca/publications/concurrency-ddj.htm)
