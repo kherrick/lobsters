@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-15, 05:12:40](https://lobste.rs/s/ues1ak/improving_system_safety_with_temporal) - [Improving system safety with Temporal Logic of Actions (TLA+)](https://depot.dev/blog/tla-verification)
+* [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 * [2026-08-15, 04:45:34](https://lobste.rs/s/bedqru/how_2004_runescape_fit_multiplayer_rpg) - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
-* [2026-08-15, 04:45:19](https://lobste.rs/s/nqmm3r/kernel_only_runs_nes_emulator) - [Kernel that only runs an NES emulator](https://github.com/vmartinv/nek)
 * [2026-08-15, 00:42:34](https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment) - [RVA23 vs ARMv9 a Small Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
 * [2026-08-14, 23:58:27](https://lobste.rs/s/fjwpeh/my_comment_section_is_static_html) - [My comment section is static HTML](https://jva.lol/weblog/my-comment-section-is-static-html/)
 * [2026-08-14, 22:51:27](https://lobste.rs/s/7tjseu/anecdote_against_slop_artifacts) - [An Anecdote Against Slop Artifacts](https://www.markusde.ca/pages/noslop.html)
@@ -11,7 +12,6 @@
 * [2026-08-14, 18:44:17](https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring) - [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
 * [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-14, 16:57:36](https://lobste.rs/s/dfel1t/find_out_who_s_tracking_you_with) - [Find out who’s tracking you with DecryptAds](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
-* [2026-08-14, 16:08:17](https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing) - [Unexpected (to me) behaviour in Lisp sub-typing](https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/)
 * [2026-08-14, 15:54:54](https://lobste.rs/s/klffhr/guilt_driven_development) - [Guilt-Driven Development](https://markuseliasson.se/article/guilt-driven-development)
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 * [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
