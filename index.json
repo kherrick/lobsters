@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-15, 08:53:23",
+      "https://lobste.rs/s/1r13yd/nixpkgs_multiverse_fast_mode"
+    ],
+    [
+      "nixpkgs-multiverse: fast mode",
+      "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 07:09:11",
       "https://lobste.rs/s/ex5nww/demystifying_type_some_un_paradoxing"
     ],
@@ -207,16 +217,6 @@
     [
       "Let's not call it \"tech debt,\" it's just \"mess\"",
       "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 18:23:30",
-      "https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust"
-    ],
-    [
-      "OxiSH: SSH server written in Rust",
-      "https://github.com/djc/oxish"
     ]
   ],
   [
