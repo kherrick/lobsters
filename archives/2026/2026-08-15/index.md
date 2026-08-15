@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 10:42:53](https://lobste.rs/s/fsbumg/serokell_s_work_on_ghc_dependent_types) - [Serokell’s Work on GHC: Dependent Types, Part 5](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5)
+* [2026-08-15, 10:40:55](https://lobste.rs/s/yi398w/training_ai_scientists_replicate) - [Training AI Scientists to Replicate Research](https://inherentlabs.ai/research/training-to-replicate)
+* [2026-08-15, 10:31:01](https://lobste.rs/s/xnxzhd/free_lunch_is_over_fundamental_turn) - [The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)](http://www.gotw.ca/publications/concurrency-ddj.htm)
 * [2026-08-15, 08:53:23](https://lobste.rs/s/1r13yd/nixpkgs_multiverse_fast_mode) - [nixpkgs-multiverse: fast mode](https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode)
 * [2026-08-15, 07:09:11](https://lobste.rs/s/ex5nww/demystifying_type_some_un_paradoxing) - [Demystifying Type (and some Un-Paradoxing)](https://sifter.org/~simon/journal/20260814.html)
 * [2026-08-15, 05:12:40](https://lobste.rs/s/ues1ak/improving_system_safety_with_temporal) - [Improving system safety with Temporal Logic of Actions (TLA+)](https://depot.dev/blog/tla-verification)
