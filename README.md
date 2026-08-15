@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-15, 20:01:21](https://lobste.rs/s/khcojf/recap_software_should_work_2026) - [Recap: Software Should Work 2026](https://bencornia.com/blog/recap-software-should-work-2026)
 * [2026-08-15, 18:07:08](https://lobste.rs/s/7hkk7s/power_relations) - [Power Relations](https://corbinsimpson.com/words/power-relations.html)
 * [2026-08-15, 17:13:34](https://lobste.rs/s/8r7thh/ironies_automation_1983) - [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
 * [2026-08-15, 16:17:13](https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily) - [Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902)
@@ -23,7 +24,6 @@
 * [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 * [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
-* [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
 * [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
 
 ## [Archives](archives/index.md)

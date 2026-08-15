@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 20:01:21](https://lobste.rs/s/khcojf/recap_software_should_work_2026) - [Recap: Software Should Work 2026](https://bencornia.com/blog/recap-software-should-work-2026)
 * [2026-08-15, 18:07:08](https://lobste.rs/s/7hkk7s/power_relations) - [Power Relations](https://corbinsimpson.com/words/power-relations.html)
 * [2026-08-15, 17:13:34](https://lobste.rs/s/8r7thh/ironies_automation_1983) - [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
 * [2026-08-15, 16:17:13](https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily) - [Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902)
