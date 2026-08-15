@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-15, 14:39:29](https://lobste.rs/s/qxbof3/qwen3_8_27b_release_day_demos) - [Qwen3.8-27B - Release Day Demos](https://loktar00.github.io/qwen3-8-27b-demos/)
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
@@ -22,6 +21,7 @@
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 * [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
 * [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
+* [2026-08-14, 09:52:20](https://lobste.rs/s/2dsufc/comments_code_vs_pr_description) - [Comments in the code vs PR description](https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607)
 * [2026-08-14, 09:43:51](https://lobste.rs/s/lf4syc/slopscan_displays_slop_score_when) - [SlopScan: Displays a \"slop score\" when viewing public git repositories](https://addons.mozilla.org/en-US/firefox/addon/slopscan/)
 * [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
 * [2026-08-13, 23:09:13](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess) - [Let's not call it \"tech debt,\" it's just \"mess\"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/)
