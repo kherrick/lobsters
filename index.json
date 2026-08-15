@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-15, 23:22:28",
+      "https://lobste.rs/s/djlv1s/what_do_you_think_lazypromise_as"
+    ],
+    [
+      "What do you think of LazyPromise as a lightweight alternative to Effect?",
+      "https://github.com/lazy-promise/lazy-promise"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 23:11:43",
+      "https://lobste.rs/s/wwf3th/programming_paradigm_for"
+    ],
+    [
+      "A Programming Paradigm for Spatiotemporal Composability",
+      "https://github.com/cordiverse/paper/blob/main/paper.pdf"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 21:18:32",
       "https://lobste.rs/s/jyhsng/zig_day_seattle_wa"
     ],
@@ -37,6 +57,16 @@
     [
       "Ironies of Automation (1983)",
       "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 16:17:13",
+      "https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily"
+    ],
+    [
+      "Are Latent Reasoning Models Easily Interpretable?",
+      "https://arxiv.org/abs/2604.04902"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-08-15, 04:45:19",
-      "https://lobste.rs/s/nqmm3r/kernel_only_runs_nes_emulator"
-    ],
-    [
-      "Kernel that only runs an NES emulator",
-      "https://github.com/vmartinv/nek"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 00:42:34",
       "https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment"
     ],
@@ -227,26 +247,6 @@
     [
       "There Is Still No Silver Bullet",
       "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 11:33:57",
-      "https://lobste.rs/s/avjfxw/curl_performance"
-    ],
-    [
-      "Curl Performance",
-      "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 09:10:45",
-      "https://lobste.rs/s/aqmagt/art_chip_8"
-    ],
-    [
-      "The Art of CHIP-8",
-      "https://beyondloom.com/blog/artofchip8.html"
     ]
   ]
 ]
