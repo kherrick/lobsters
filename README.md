@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-15, 14:39:29](https://lobste.rs/s/qxbof3/qwen3_8_27b_release_day_demos) - [Qwen3.8-27B - Release Day Demos](https://loktar00.github.io/qwen3-8-27b-demos/)
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
@@ -13,7 +14,6 @@
 * [2026-08-15, 04:45:34](https://lobste.rs/s/bedqru/how_2004_runescape_fit_multiplayer_rpg) - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
 * [2026-08-15, 00:42:34](https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment) - [RVA23 vs ARMv9 a Small Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
 * [2026-08-14, 23:58:27](https://lobste.rs/s/fjwpeh/my_comment_section_is_static_html) - [My comment section is static HTML](https://jva.lol/weblog/my-comment-section-is-static-html/)
-* [2026-08-14, 22:51:27](https://lobste.rs/s/7tjseu/anecdote_against_slop_artifacts) - [An Anecdote Against Slop Artifacts](https://www.markusde.ca/pages/noslop.html)
 * [2026-08-14, 22:04:19](https://lobste.rs/s/ueyokn/what_you_gain_by_building_your_own_game) - [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
 * [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 * [2026-08-14, 19:05:12](https://lobste.rs/s/j9mwib/we_implemented_ipv8_internet_draft_linux) - [We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
