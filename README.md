@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-15, 05:12:40](https://lobste.rs/s/ues1ak/improving_system_safety_with_temporal) - [Improving system safety with Temporal Logic of Actions (TLA+)](https://depot.dev/blog/tla-verification)
+* [2026-08-15, 07:09:11](https://lobste.rs/s/ex5nww/demystifying_type_some_un_paradoxing) - [Demystifying Type (and some Un-Paradoxing)](https://sifter.org/~simon/journal/20260814.html)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 * [2026-08-15, 00:42:34](https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment) - [RVA23 vs ARMv9 a Small Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
 * [2026-08-14, 23:58:27](https://lobste.rs/s/fjwpeh/my_comment_section_is_static_html) - [My comment section is static HTML](https://jva.lol/weblog/my-comment-section-is-static-html/)
