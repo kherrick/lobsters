@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-15, 13:01:04",
+      "https://lobste.rs/s/hxur8w/how_is_compression_prediction"
+    ],
+    [
+      "How Is Compression Prediction?",
+      "https://lukefleed.xyz/posts/compression/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 12:50:05",
+      "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark"
+    ],
+    [
+      "Everything is about to “go dark”",
+      "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 12:37:40",
+      "https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends"
+    ],
+    [
+      "Flirt: GitHub and Mailing List backends",
+      "https://blog.buenzli.dev/flirt-github-and-mailing-list/"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 10:42:53",
       "https://lobste.rs/s/fsbumg/serokell_s_work_on_ghc_dependent_types"
     ],
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2026-08-14, 16:08:17",
-      "https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing"
-    ],
-    [
-      "Unexpected (to me) behaviour in Lisp sub-typing",
-      "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 15:54:54",
-      "https://lobste.rs/s/klffhr/guilt_driven_development"
-    ],
-    [
-      "Guilt-Driven Development",
-      "https://markuseliasson.se/article/guilt-driven-development"
-    ]
-  ],
-  [
-    [
       "2026-08-14, 15:18:11",
       "https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet"
     ],
@@ -237,16 +247,6 @@
     [
       "Let's not call it \"tech debt,\" it's just \"mess\"",
       "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 17:43:13",
-      "https://lobste.rs/s/tssf5y/i_want_extern_fil_c"
-    ],
-    [
-      "I want extern \"fil-c\"",
-      "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/"
     ]
   ]
 ]
