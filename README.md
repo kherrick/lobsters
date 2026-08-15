@@ -16,7 +16,6 @@
 * [2026-08-15, 04:45:34](https://lobste.rs/s/bedqru/how_2004_runescape_fit_multiplayer_rpg) - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
 * [2026-08-15, 04:45:19](https://lobste.rs/s/nqmm3r/kernel_only_runs_nes_emulator) - [Kernel that only runs an NES emulator](https://github.com/vmartinv/nek)
 * [2026-08-15, 00:42:34](https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment) - [RVA23 vs ARMv9 a Small Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
-* [2026-08-14, 23:58:27](https://lobste.rs/s/fjwpeh/my_comment_section_is_static_html) - [My comment section is static HTML](https://jva.lol/weblog/my-comment-section-is-static-html/)
 * [2026-08-14, 22:04:19](https://lobste.rs/s/ueyokn/what_you_gain_by_building_your_own_game) - [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
 * [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 * [2026-08-14, 19:05:12](https://lobste.rs/s/j9mwib/we_implemented_ipv8_internet_draft_linux) - [We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
@@ -24,6 +23,7 @@
 * [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 * [2026-08-14, 11:33:57](https://lobste.rs/s/avjfxw/curl_performance) - [Curl Performance](https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/)
+* [2026-08-14, 10:39:05](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/n3pkuh/what_are_you_doing_this_weekend)
 * [2026-08-14, 09:10:45](https://lobste.rs/s/aqmagt/art_chip_8) - [The Art of CHIP-8](https://beyondloom.com/blog/artofchip8.html)
 
 ## [Archives](archives/index.md)
