@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-08-15, 05:12:40",
+      "https://lobste.rs/s/ues1ak/improving_system_safety_with_temporal"
+    ],
+    [
+      "Improving system safety with Temporal Logic of Actions (TLA+)",
+      "https://depot.dev/blog/tla-verification"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 05:08:35",
+      "https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"
+    ],
+    [
+      "Firefox is now the last major browser that still supports uBlock Origin",
+      "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 04:45:34",
       "https://lobste.rs/s/bedqru/how_2004_runescape_fit_multiplayer_rpg"
     ],
     [
       "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev",
       "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 04:45:19",
-      "https://lobste.rs/s/nqmm3r/kernel_only_runs_nes_emulator"
-    ],
-    [
-      "Kernel that only runs an NES emulator",
-      "https://github.com/vmartinv/nek"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Find out who’s tracking you with DecryptAds",
       "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 16:08:17",
-      "https://lobste.rs/s/zkgab8/unexpected_me_behaviour_lisp_sub_typing"
-    ],
-    [
-      "Unexpected (to me) behaviour in Lisp sub-typing",
-      "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/"
     ]
   ],
   [
