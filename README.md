@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-16, 17:05:15](https://lobste.rs/s/zjg7ux/anti_social_media) - [Anti-Social Media](https://christianheilmann.com/2026/08/11/anti-social-media/)
 * [2026-08-16, 16:45:45](https://lobste.rs/s/0emxj9/cve_2026_33696_from_schema_name_rce_n8n) - [CVE-2026-33696: From a Schema Name to RCE in n8n](https://simonkoeck.com/writeups/n8n-gsuiteadmin-prototype-pollution-rce)
 * [2026-08-16, 16:38:26](https://lobste.rs/s/pb8wvr/nokia_dct3_emulator_open_source_emulator) - [nokia-dct3-emulator: Open-source emulator + analysis toolkit for Nokia DCT3 phones](https://github.com/djr-747/nokia-dct3-emulator)
 * [2026-08-16, 16:26:05](https://lobste.rs/s/ii5tun/every_fucking_website) - [Every Fucking Website](https://op.tngl.io/every-fucking-website/)
@@ -22,7 +23,6 @@
 * [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 * [2026-08-15, 12:37:40](https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends) - [Flirt: GitHub and Mailing List backends](https://blog.buenzli.dev/flirt-github-and-mailing-list/)
-* [2026-08-15, 08:53:23](https://lobste.rs/s/1r13yd/nixpkgs_multiverse_fast_mode) - [nixpkgs-multiverse: fast mode](https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 * [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 
