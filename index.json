@@ -1,11 +1,21 @@
 [
   [
     [
-      "2026-08-16, 03:13:12",
-      "https://lobste.rs/s/qlvnlu/aiki_alpha_milestone_26_update"
+      "2026-08-16, 03:41:17",
+      "https://lobste.rs/s/rexoqj/what_s_missing_have_reproducible_builds"
     ],
     [
-      "Aiki: Alpha Milestone 26 Update",
+      "What's missing to have reproducible builds on PyPI",
+      "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 03:13:12",
+      "https://lobste.rs/s/qlvnlu/aiki_reaches_recursive_self"
+    ],
+    [
+      "Aiki reaches recursive self-interpretation",
       "https://decuser.github.io/posts/aiki-alpha-mileston26-update/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "RISC-V: They Should Have Known Better",
       "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 19:05:12",
-      "https://lobste.rs/s/j9mwib/we_implemented_ipv8_internet_draft_linux"
-    ],
-    [
-      "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
-      "https://goonhost.rocks/blog/implementing-ipv8-internet-draft"
     ]
   ],
   [
