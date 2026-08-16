@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-16, 09:33:44](https://lobste.rs/s/cdzcx4/essence_architectural_work_part_5) - [The essence of architectural work - Part 5](https://www.ufried.com/blog/essence_of_architecture_5/)
 * [2026-08-16, 07:54:16](https://lobste.rs/s/fk1u5s/on_knowledge_representation) - [On Knowledge Representation](https://sifter.org/~simon/journal/20130713.h.html)
 * [2026-08-16, 07:17:26](https://lobste.rs/s/5rh6fs/haskell_origins_evolution_future) - [Haskell: origins, evolution, and future](https://www.youtube.com/watch?v=MQeIerDsReA&t=673s)
 * [2026-08-16, 05:21:04](https://lobste.rs/s/iuqkgi/software_engineering_fundamentals) - [Software Engineering fundamentals matter more than ever](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
@@ -20,7 +21,6 @@
 * [2026-08-15, 08:53:23](https://lobste.rs/s/1r13yd/nixpkgs_multiverse_fast_mode) - [nixpkgs-multiverse: fast mode](https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode)
 * [2026-08-15, 07:09:11](https://lobste.rs/s/ex5nww/demystifying_type_some_un_paradoxing) - [Demystifying Type (and some Un-Paradoxing)](https://sifter.org/~simon/journal/20260814.html)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
-* [2026-08-15, 04:45:34](https://lobste.rs/s/bedqru/how_2004_runescape_fit_multiplayer_rpg) - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
 * [2026-08-15, 00:42:34](https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment) - [RVA23 vs ARMv9 a Small Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
 * [2026-08-14, 22:04:19](https://lobste.rs/s/ueyokn/what_you_gain_by_building_your_own_game) - [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
 * [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
