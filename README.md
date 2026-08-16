@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-16, 03:13:12](https://lobste.rs/s/qlvnlu/aiki_alpha_milestone_26_update) - [Aiki: Alpha Milestone 26 Update](https://decuser.github.io/posts/aiki-alpha-mileston26-update/)
 * [2026-08-15, 23:22:28](https://lobste.rs/s/djlv1s/what_do_you_think_lazypromise_as) - [What do you think of LazyPromise as a lightweight alternative to Effect?](https://github.com/lazy-promise/lazy-promise)
 * [2026-08-15, 23:11:43](https://lobste.rs/s/wwf3th/programming_paradigm_for) - [A Programming Paradigm for Spatiotemporal Composability](https://github.com/cordiverse/paper/blob/main/paper.pdf)
 * [2026-08-15, 21:18:32](https://lobste.rs/s/jyhsng/zig_day_seattle_wa_3) - [Zig Day Seattle, WA #3](https://zig.day/usa/seattle/3/)
@@ -24,7 +25,6 @@
 * [2026-08-14, 19:05:12](https://lobste.rs/s/j9mwib/we_implemented_ipv8_internet_draft_linux) - [We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
 * [2026-08-14, 18:44:17](https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring) - [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
 * [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
-* [2026-08-14, 15:18:11](https://lobste.rs/s/pf0hfr/there_is_still_no_silver_bullet) - [There Is Still No Silver Bullet](https://cekrem.github.io/posts/there-is-still-no-silver-bullet/)
 
 ## [Archives](archives/index.md)
 
