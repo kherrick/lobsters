@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-16, 18:18:51](https://lobste.rs/s/8izobt/you_can_just_choose_how_many_bugs_you_want) - [You can just choose how many bugs you want now](https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/)
-* [2026-08-16, 17:41:00](https://lobste.rs/s/zegnlh/algorithmic_art_from_discovery_drop_with) - [Algorithmic Art: From Discovery to a Drop with a Leading Studio](https://art.camilleroux.com/writing/algorithmic-art-from-discovery-to-a-drop/)
 * [2026-08-16, 17:28:27](https://lobste.rs/s/zeqgd4/third_world_embedded_engineer_responds) - [A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"](https://rvembedded.com/blog_post/12/)
 * [2026-08-16, 17:05:15](https://lobste.rs/s/zjg7ux/anti_social_media) - [Anti-Social Media](https://christianheilmann.com/2026/08/11/anti-social-media/)
 * [2026-08-16, 16:45:45](https://lobste.rs/s/0emxj9/cve_2026_33696_from_schema_name_rce_n8n) - [CVE-2026-33696: From a Schema Name to RCE in n8n](https://simonkoeck.com/writeups/n8n-gsuiteadmin-prototype-pollution-rce)
@@ -24,6 +23,7 @@
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+* [2026-08-15, 12:37:40](https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends) - [Flirt: GitHub and Mailing List backends](https://blog.buenzli.dev/flirt-github-and-mailing-list/)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 
 ## [Archives](archives/index.md)
