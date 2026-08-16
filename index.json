@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-16, 13:59:09",
+      "https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from"
+    ],
+    [
+      "Protecting the Rust standard library from accidental breakage",
+      "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 11:54:11",
       "https://lobste.rs/s/dxfl0r/monitoring_systemd_services_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Firefox is now the last major browser that still supports uBlock Origin",
       "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 22:04:19",
-      "https://lobste.rs/s/ueyokn/what_you_gain_by_building_your_own_game"
-    ],
-    [
-      "What You Gain by Building Your Own Game Engine",
-      "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html"
     ]
   ],
   [
