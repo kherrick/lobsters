@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-16, 19:56:03",
+      "https://lobste.rs/s/xhliz8/human_interface_guidelines_from_various"
+    ],
+    [
+      "Human Interface Guidelines from various platforms",
+      "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 18:18:51",
       "https://lobste.rs/s/8izobt/you_can_just_choose_how_many_bugs_you_want"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-08-16, 07:54:16",
-      "https://lobste.rs/s/fk1u5s/on_knowledge_representation"
-    ],
-    [
-      "On Knowledge Representation",
-      "https://sifter.org/~simon/journal/20130713.h.html"
-    ]
-  ],
-  [
-    [
       "2026-08-16, 07:17:26",
       "https://lobste.rs/s/5rh6fs/haskell_origins_evolution_future"
     ],
@@ -157,6 +157,16 @@
     [
       "Aiki reaches recursive self-interpretation",
       "https://decuser.github.io/posts/aiki-alpha-mileston26-update/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 23:22:28",
+      "https://lobste.rs/s/djlv1s/what_do_you_think_lazypromise_as"
+    ],
+    [
+      "What do you think of LazyPromise as a lightweight alternative to Effect?",
+      "https://github.com/lazy-promise/lazy-promise"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Everything is about to “go dark”",
       "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 12:37:40",
-      "https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends"
-    ],
-    [
-      "Flirt: GitHub and Mailing List backends",
-      "https://blog.buenzli.dev/flirt-github-and-mailing-list/"
     ]
   ],
   [
