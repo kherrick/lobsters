@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 16:45:45](https://lobste.rs/s/0emxj9/cve_2026_33696_from_schema_name_rce_n8n) - [CVE-2026-33696: From a Schema Name to RCE in n8n](https://simonkoeck.com/writeups/n8n-gsuiteadmin-prototype-pollution-rce)
+* [2026-08-16, 16:38:26](https://lobste.rs/s/pb8wvr/nokia_dct3_emulator_open_source_emulator) - [nokia-dct3-emulator: Open-source emulator + analysis toolkit for Nokia DCT3 phones](https://github.com/djr-747/nokia-dct3-emulator)
 * [2026-08-16, 16:26:05](https://lobste.rs/s/ii5tun/every_fucking_website) - [Every Fucking Website](https://op.tngl.io/every-fucking-website/)
 * [2026-08-16, 16:23:20](https://lobste.rs/s/wqkycj/people_acm_russ_cox) - [People of ACM - Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 * [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
