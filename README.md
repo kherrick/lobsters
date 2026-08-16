@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-16, 19:56:03](https://lobste.rs/s/xhliz8/human_interface_guidelines_from_various) - [Human Interface Guidelines from various platforms](https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/)
 * [2026-08-16, 18:18:51](https://lobste.rs/s/8izobt/you_can_just_choose_how_many_bugs_you_want) - [You can just choose how many bugs you want now](https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/)
 * [2026-08-16, 17:28:27](https://lobste.rs/s/zeqgd4/third_world_embedded_engineer_responds) - [A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"](https://rvembedded.com/blog_post/12/)
 * [2026-08-16, 17:05:15](https://lobste.rs/s/zjg7ux/anti_social_media) - [Anti-Social Media](https://christianheilmann.com/2026/08/11/anti-social-media/)
@@ -11,11 +12,11 @@
 * [2026-08-16, 13:59:09](https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from) - [Protecting the Rust standard library from accidental breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/)
 * [2026-08-16, 11:54:11](https://lobste.rs/s/dxfl0r/monitoring_systemd_services_with) - [Monitoring SystemD services with Healthchecks.io](https://passbe.com/2022/healthchecks-io-systemd-checks/)
 * [2026-08-16, 10:30:43](https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface) - [A Tour of Magit's Status Interface](https://heiwiper.com/posts/magit-status-tour/)
-* [2026-08-16, 07:54:16](https://lobste.rs/s/fk1u5s/on_knowledge_representation) - [On Knowledge Representation](https://sifter.org/~simon/journal/20130713.h.html)
 * [2026-08-16, 07:17:26](https://lobste.rs/s/5rh6fs/haskell_origins_evolution_future) - [Haskell: origins, evolution, and future](https://www.youtube.com/watch?v=MQeIerDsReA&t=673s)
 * [2026-08-16, 05:21:04](https://lobste.rs/s/iuqkgi/software_engineering_fundamentals) - [Software Engineering fundamentals matter more than ever](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
 * [2026-08-16, 03:41:17](https://lobste.rs/s/rexoqj/what_s_missing_have_reproducible_builds) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
 * [2026-08-16, 03:13:12](https://lobste.rs/s/qlvnlu/aiki_reaches_recursive_self) - [Aiki reaches recursive self-interpretation](https://decuser.github.io/posts/aiki-alpha-mileston26-update/)
+* [2026-08-15, 23:22:28](https://lobste.rs/s/djlv1s/what_do_you_think_lazypromise_as) - [What do you think of LazyPromise as a lightweight alternative to Effect?](https://github.com/lazy-promise/lazy-promise)
 * [2026-08-15, 23:11:43](https://lobste.rs/s/wwf3th/programming_paradigm_for) - [A Programming Paradigm for Spatiotemporal Composability](https://github.com/cordiverse/paper/blob/main/paper.pdf)
 * [2026-08-15, 21:18:32](https://lobste.rs/s/jyhsng/zig_day_seattle_wa_3) - [Zig Day Seattle, WA #3](https://zig.day/usa/seattle/3/)
 * [2026-08-15, 20:01:21](https://lobste.rs/s/khcojf/recap_software_should_work_2026) - [Recap: Software Should Work 2026](https://bencornia.com/blog/recap-software-should-work-2026)
@@ -23,7 +24,6 @@
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-* [2026-08-15, 12:37:40](https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends) - [Flirt: GitHub and Mailing List backends](https://blog.buenzli.dev/flirt-github-and-mailing-list/)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 19:56:03](https://lobste.rs/s/xhliz8/human_interface_guidelines_from_various) - [Human Interface Guidelines from various platforms](https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/)
 * [2026-08-16, 18:18:51](https://lobste.rs/s/8izobt/you_can_just_choose_how_many_bugs_you_want) - [You can just choose how many bugs you want now](https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/)
 * [2026-08-16, 17:41:00](https://lobste.rs/s/zegnlh/algorithmic_art_from_discovery_drop_with) - [Algorithmic Art: From Discovery to a Drop with a Leading Studio](https://art.camilleroux.com/writing/algorithmic-art-from-discovery-to-a-drop/)
 * [2026-08-16, 17:28:27](https://lobste.rs/s/zeqgd4/third_world_embedded_engineer_responds) - [A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"](https://rvembedded.com/blog_post/12/)
