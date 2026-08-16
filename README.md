@@ -2,7 +2,7 @@
 
 * [2026-08-15, 23:22:28](https://lobste.rs/s/djlv1s/what_do_you_think_lazypromise_as) - [What do you think of LazyPromise as a lightweight alternative to Effect?](https://github.com/lazy-promise/lazy-promise)
 * [2026-08-15, 23:11:43](https://lobste.rs/s/wwf3th/programming_paradigm_for) - [A Programming Paradigm for Spatiotemporal Composability](https://github.com/cordiverse/paper/blob/main/paper.pdf)
-* [2026-08-15, 21:18:32](https://lobste.rs/s/jyhsng/zig_day_seattle_wa) - [Zig Day Seattle, WA](https://zig.day/usa/seattle/)
+* [2026-08-15, 21:18:32](https://lobste.rs/s/jyhsng/zig_day_seattle_wa_3) - [Zig Day Seattle, WA #3](https://zig.day/usa/seattle/3/)
 * [2026-08-15, 20:01:21](https://lobste.rs/s/khcojf/recap_software_should_work_2026) - [Recap: Software Should Work 2026](https://bencornia.com/blog/recap-software-should-work-2026)
 * [2026-08-15, 18:07:08](https://lobste.rs/s/7hkk7s/power_relations) - [Power Relations](https://corbinsimpson.com/words/power-relations.html)
 * [2026-08-15, 17:13:34](https://lobste.rs/s/8r7thh/ironies_automation_1983) - [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
