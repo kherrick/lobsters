@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-08-16, 05:21:04",
+      "https://lobste.rs/s/iuqkgi/software_engineering_fundamentals"
+    ],
+    [
+      "Software Engineering fundamentals matter more than ever",
+      "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 03:41:17",
       "https://lobste.rs/s/rexoqj/what_s_missing_have_reproducible_builds"
     ],
@@ -111,12 +121,22 @@
   ],
   [
     [
-      "2026-08-15, 16:17:13",
-      "https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily"
+      "2026-08-15, 17:13:34",
+      "https://lobste.rs/s/8r7thh/ironies_automation_1983"
     ],
     [
-      "Are Latent Reasoning Models Easily Interpretable?",
-      "https://arxiv.org/abs/2604.04902"
+      "Ironies of Automation (1983)",
+      "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 13:29:59",
+      "https://lobste.rs/s/fooyux/why_i_remain_skeptic"
+    ],
+    [
+      "Why I remain a skeptic",
+      "https://blog.jsbarretto.com/post/i-remain-a-skeptic"
     ]
   ],
   [
@@ -127,6 +147,16 @@
     [
       "How Is Compression Prediction?",
       "https://lukefleed.xyz/posts/compression/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 12:50:05",
+      "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark"
+    ],
+    [
+      "Everything is about to “go dark”",
+      "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-08-15, 07:09:11",
-      "https://lobste.rs/s/ex5nww/demystifying_type_some_un_paradoxing"
-    ],
-    [
-      "Demystifying Type (and some Un-Paradoxing)",
-      "https://sifter.org/~simon/journal/20260814.html"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 05:08:35",
       "https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"
     ],
@@ -197,16 +217,6 @@
     [
       "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
       "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 00:42:34",
-      "https://lobste.rs/s/lhkquh/rva23_vs_armv9_small_experiment"
-    ],
-    [
-      "RVA23 vs ARMv9 a Small Experiment",
-      "https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "ActivityPub Won by Being Boring",
       "https://o.ee/blog/activitypub-won-by-being-boring/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 17:03:04",
-      "https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual"
-    ],
-    [
-      "Thunderbird’s Desktop Calendar Visual Redesign",
-      "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/"
     ]
   ]
 ]
