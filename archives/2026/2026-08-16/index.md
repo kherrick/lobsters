@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 23:48:45](https://lobste.rs/s/vnpw9j/pony_s_arena_allocator) - [Pony's Arena Allocator](https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/)
 * [2026-08-16, 20:52:12](https://lobste.rs/s/ln3dao/faster_way_calculate_day_week) - [A faster way to calculate the day-of-the-week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 20:11:41](https://lobste.rs/s/cgpbme/models_are_getting_dumber_on_purpose) - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 * [2026-08-16, 19:56:03](https://lobste.rs/s/xhliz8/human_interface_guidelines_from_various) - [Human Interface Guidelines from various platforms](https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/)
