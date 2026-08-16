@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 16:26:05](https://lobste.rs/s/ii5tun/every_fucking_website) - [Every Fucking Website](https://op.tngl.io/every-fucking-website/)
+* [2026-08-16, 16:23:20](https://lobste.rs/s/wqkycj/people_acm_russ_cox) - [People of ACM - Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 * [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
 * [2026-08-16, 13:59:09](https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from) - [Protecting the Rust standard library from accidental breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/)
 * [2026-08-16, 11:54:11](https://lobste.rs/s/dxfl0r/monitoring_systemd_services_with) - [Monitoring SystemD services with Healthchecks.io](https://passbe.com/2022/healthchecks-io-systemd-checks/)
