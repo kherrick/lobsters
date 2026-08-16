@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-16, 17:41:00",
+      "https://lobste.rs/s/zegnlh/algorithmic_art_from_discovery_drop_with"
+    ],
+    [
+      "Algorithmic Art: From Discovery to a Drop with a Leading Studio",
+      "https://art.camilleroux.com/writing/algorithmic-art-from-discovery-to-a-drop/"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 17:28:27",
+      "https://lobste.rs/s/zeqgd4/third_world_embedded_engineer_responds"
+    ],
+    [
+      "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
+      "https://rvembedded.com/blog_post/12/"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 17:05:15",
       "https://lobste.rs/s/zjg7ux/anti_social_media"
     ],
@@ -87,16 +107,6 @@
     [
       "A Tour of Magit's Status Interface",
       "https://heiwiper.com/posts/magit-status-tour/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 07:54:16",
-      "https://lobste.rs/s/fk1u5s/on_knowledge_representation"
-    ],
-    [
-      "On Knowledge Representation",
-      "https://sifter.org/~simon/journal/20130713.h.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Firefox is now the last major browser that still supports uBlock Origin",
       "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 19:12:53",
-      "https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better"
-    ],
-    [
-      "RISC-V: They Should Have Known Better",
-      "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV"
     ]
   ]
 ]
