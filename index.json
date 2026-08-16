@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-16, 14:05:05",
+      "https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i"
+    ],
+    [
+      "I thought I was building a C replacement. I was wrong",
+      "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 13:59:09",
       "https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from"
     ],
@@ -197,16 +207,6 @@
     [
       "Serokell’s Work on GHC: Dependent Types, Part 5",
       "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 10:31:01",
-      "https://lobste.rs/s/xnxzhd/free_lunch_is_over_fundamental_turn"
-    ],
-    [
-      "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
-      "http://www.gotw.ca/publications/concurrency-ddj.htm"
     ]
   ],
   [
