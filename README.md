@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-16, 05:21:04](https://lobste.rs/s/iuqkgi/software_engineering_fundamentals) - [Software Engineering fundamentals matter more than ever](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
 * [2026-08-16, 03:41:17](https://lobste.rs/s/rexoqj/what_s_missing_have_reproducible_builds) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
 * [2026-08-16, 03:13:12](https://lobste.rs/s/qlvnlu/aiki_reaches_recursive_self) - [Aiki reaches recursive self-interpretation](https://decuser.github.io/posts/aiki-alpha-mileston26-update/)
 * [2026-08-15, 23:22:28](https://lobste.rs/s/djlv1s/what_do_you_think_lazypromise_as) - [What do you think of LazyPromise as a lightweight alternative to Effect?](https://github.com/lazy-promise/lazy-promise)
@@ -8,7 +9,6 @@
 * [2026-08-15, 20:01:21](https://lobste.rs/s/khcojf/recap_software_should_work_2026) - [Recap: Software Should Work 2026](https://bencornia.com/blog/recap-software-should-work-2026)
 * [2026-08-15, 18:07:08](https://lobste.rs/s/7hkk7s/power_relations) - [Power Relations](https://corbinsimpson.com/words/power-relations.html)
 * [2026-08-15, 17:13:34](https://lobste.rs/s/8r7thh/ironies_automation_1983) - [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
-* [2026-08-15, 16:17:13](https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily) - [Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902)
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 13:01:04](https://lobste.rs/s/hxur8w/how_is_compression_prediction) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
