@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 17:41:00](https://lobste.rs/s/zegnlh/algorithmic_art_from_discovery_drop_with) - [Algorithmic Art: From Discovery to a Drop with a Leading Studio](https://art.camilleroux.com/writing/algorithmic-art-from-discovery-to-a-drop/)
+* [2026-08-16, 17:28:27](https://lobste.rs/s/zeqgd4/third_world_embedded_engineer_responds) - [A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"](https://rvembedded.com/blog_post/12/)
 * [2026-08-16, 17:05:15](https://lobste.rs/s/zjg7ux/anti_social_media) - [Anti-Social Media](https://christianheilmann.com/2026/08/11/anti-social-media/)
 * [2026-08-16, 16:45:45](https://lobste.rs/s/0emxj9/cve_2026_33696_from_schema_name_rce_n8n) - [CVE-2026-33696: From a Schema Name to RCE in n8n](https://simonkoeck.com/writeups/n8n-gsuiteadmin-prototype-pollution-rce)
 * [2026-08-16, 16:38:26](https://lobste.rs/s/pb8wvr/nokia_dct3_emulator_open_source_emulator) - [nokia-dct3-emulator: Open-source emulator + analysis toolkit for Nokia DCT3 phones](https://github.com/djr-747/nokia-dct3-emulator)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-16, 17:41:00](https://lobste.rs/s/zegnlh/algorithmic_art_from_discovery_drop_with) - [Algorithmic Art: From Discovery to a Drop with a Leading Studio](https://art.camilleroux.com/writing/algorithmic-art-from-discovery-to-a-drop/)
+* [2026-08-16, 17:28:27](https://lobste.rs/s/zeqgd4/third_world_embedded_engineer_responds) - [A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"](https://rvembedded.com/blog_post/12/)
 * [2026-08-16, 17:05:15](https://lobste.rs/s/zjg7ux/anti_social_media) - [Anti-Social Media](https://christianheilmann.com/2026/08/11/anti-social-media/)
 * [2026-08-16, 16:45:45](https://lobste.rs/s/0emxj9/cve_2026_33696_from_schema_name_rce_n8n) - [CVE-2026-33696: From a Schema Name to RCE in n8n](https://simonkoeck.com/writeups/n8n-gsuiteadmin-prototype-pollution-rce)
 * [2026-08-16, 16:38:26](https://lobste.rs/s/pb8wvr/nokia_dct3_emulator_open_source_emulator) - [nokia-dct3-emulator: Open-source emulator + analysis toolkit for Nokia DCT3 phones](https://github.com/djr-747/nokia-dct3-emulator)
@@ -9,7 +11,6 @@
 * [2026-08-16, 13:59:09](https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from) - [Protecting the Rust standard library from accidental breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/)
 * [2026-08-16, 11:54:11](https://lobste.rs/s/dxfl0r/monitoring_systemd_services_with) - [Monitoring SystemD services with Healthchecks.io](https://passbe.com/2022/healthchecks-io-systemd-checks/)
 * [2026-08-16, 10:30:43](https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface) - [A Tour of Magit's Status Interface](https://heiwiper.com/posts/magit-status-tour/)
-* [2026-08-16, 07:54:16](https://lobste.rs/s/fk1u5s/on_knowledge_representation) - [On Knowledge Representation](https://sifter.org/~simon/journal/20130713.h.html)
 * [2026-08-16, 07:17:26](https://lobste.rs/s/5rh6fs/haskell_origins_evolution_future) - [Haskell: origins, evolution, and future](https://www.youtube.com/watch?v=MQeIerDsReA&t=673s)
 * [2026-08-16, 05:21:04](https://lobste.rs/s/iuqkgi/software_engineering_fundamentals) - [Software Engineering fundamentals matter more than ever](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
 * [2026-08-16, 03:41:17](https://lobste.rs/s/rexoqj/what_s_missing_have_reproducible_builds) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
@@ -24,7 +25,6 @@
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 * [2026-08-15, 12:37:40](https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends) - [Flirt: GitHub and Mailing List backends](https://blog.buenzli.dev/flirt-github-and-mailing-list/)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
-* [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 
 ## [Archives](archives/index.md)
 
