@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-16, 07:54:16](https://lobste.rs/s/fk1u5s/on_knowledge_representation) - [On Knowledge Representation](https://sifter.org/~simon/journal/20130713.h.html)
 * [2026-08-16, 07:17:26](https://lobste.rs/s/5rh6fs/haskell_origins_evolution_future) - [Haskell: origins, evolution, and future](https://www.youtube.com/watch?v=MQeIerDsReA&t=673s)
 * [2026-08-16, 05:21:04](https://lobste.rs/s/iuqkgi/software_engineering_fundamentals) - [Software Engineering fundamentals matter more than ever](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
 * [2026-08-16, 03:41:17](https://lobste.rs/s/rexoqj/what_s_missing_have_reproducible_builds) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
@@ -24,7 +25,6 @@
 * [2026-08-14, 22:04:19](https://lobste.rs/s/ueyokn/what_you_gain_by_building_your_own_game) - [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
 * [2026-08-14, 19:12:53](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 * [2026-08-14, 18:44:17](https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring) - [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
-* [2026-08-14, 17:03:04](https://lobste.rs/s/lxuwtv/thunderbird_s_desktop_calendar_visual) - [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 
 ## [Archives](archives/index.md)
 
