@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-17, 18:43:40",
+      "https://lobste.rs/s/ttrnw5/how_go_detects_struct_copies_with_sync"
+    ],
+    [
+      "How Go detects struct copies with sync.noCopy",
+      "https://func25.dev/posts/go-sync-nocopy/"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 17:12:44",
       "https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"
     ],
@@ -217,16 +227,6 @@
     [
       "Every Fucking Website",
       "https://op.tngl.io/every-fucking-website/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 16:23:20",
-      "https://lobste.rs/s/wqkycj/people_acm_russ_cox"
-    ],
-    [
-      "People of ACM - Russ Cox",
-      "https://www.acm.org/articles/people-of-acm/2026/russ-cox"
     ]
   ],
   [
