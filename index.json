@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-17, 16:13:25",
+      "https://lobste.rs/s/wya4zt/preview_duckdb_v2_0"
+    ],
+    [
+      "A Preview of DuckDB v2.0",
+      "https://duckdb.org/2026/08/17/duckdb-20-highlights.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 16:10:21",
+      "https://lobste.rs/s/ltm5qj/starting_decompilation_project_from"
+    ],
+    [
+      "Starting a Decompilation Project from Zero: Claude Code and 51% of a 2001 GBA Game",
+      "https://gambiconf.substack.com/p/starting-a-decompilation-project"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 14:39:34",
       "https://lobste.rs/s/k7myyp/qwen_3_8_27b_is_excellent_it_defaults"
     ],
@@ -37,16 +57,6 @@
     [
       "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
       "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 13:01:50",
-      "https://lobste.rs/s/mekgva/stratum_1_ptp_grandmaster_cm4_sr1723u10"
-    ],
-    [
-      "Stratum 1 PTP Grandmaster: CM4 + SR1723U10 (Part 1)",
-      "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Four levels of in-place initialization",
       "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 07:49:03",
-      "https://lobste.rs/s/irgjfw/build_time_systemd_schedule"
-    ],
-    [
-      "Build-time systemd schedule",
-      "https://gvolpe.com/blog/systemd-schedule/"
     ]
   ],
   [
