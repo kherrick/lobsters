@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-17, 17:12:44](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 * [2026-08-17, 16:13:25](https://lobste.rs/s/wya4zt/preview_duckdb_v2_0) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)
 * [2026-08-17, 16:10:21](https://lobste.rs/s/ltm5qj/starting_decompilation_project_from) - [Starting a Decompilation Project from Zero: Claude Code and 51% of a 2001 GBA Game](https://gambiconf.substack.com/p/starting-a-decompilation-project)
 * [2026-08-17, 14:39:34](https://lobste.rs/s/k7myyp/qwen_3_8_27b_is_excellent_it_defaults) - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
@@ -17,7 +18,6 @@
 * [2026-08-17, 07:30:46](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week)
 * [2026-08-17, 04:12:33](https://lobste.rs/s/qcasbd/scm_rights_api_quirks_2019) - [SCM_RIGHTS API quirks (2019)](https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc)
 * [2026-08-17, 00:08:04](https://lobste.rs/s/joyawz/ai_software_development_what_does_data) - [AI Software Development – What Does The Data Say?](https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/)
-* [2026-08-16, 23:48:45](https://lobste.rs/s/vnpw9j/pony_s_arena_allocator) - [Pony's Arena Allocator](https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/)
 * [2026-08-16, 20:52:12](https://lobste.rs/s/ln3dao/faster_way_calculate_day_week) - [A faster way to calculate the day-of-the-week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 20:11:41](https://lobste.rs/s/cgpbme/models_are_getting_dumber_on_purpose) - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 * [2026-08-16, 18:18:51](https://lobste.rs/s/8izobt/you_can_just_choose_how_many_bugs_you_want) - [You can just choose how many bugs you want now](https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/)

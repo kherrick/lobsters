@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 17:12:44](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 * [2026-08-17, 16:13:25](https://lobste.rs/s/wya4zt/preview_duckdb_v2_0) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)
 * [2026-08-17, 16:10:21](https://lobste.rs/s/ltm5qj/starting_decompilation_project_from) - [Starting a Decompilation Project from Zero: Claude Code and 51% of a 2001 GBA Game](https://gambiconf.substack.com/p/starting-a-decompilation-project)
 * [2026-08-17, 14:39:34](https://lobste.rs/s/k7myyp/qwen_3_8_27b_is_excellent_it_defaults) - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
