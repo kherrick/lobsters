@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-17, 13:16:09",
+      "https://lobste.rs/s/pnt80b/esp32_firmware_development_with_docker"
+    ],
+    [
+      "ESP32 Firmware Development with Docker Sandboxes",
+      "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:03:59",
+      "https://lobste.rs/s/qewt1y/anthropic_s_watermark_text_adulteration"
+    ],
+    [
+      "Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+      "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:01:19",
+      "https://lobste.rs/s/lnnv4x/facts_curated_knowledge_for_humans"
+    ],
+    [
+      "Facts: Curated Knowledge for Humans and Agents",
+      "https://gist.github.com/iamalnewkirk/22ae2d8c8cc1b8790236da9edf2f7b73"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 12:41:57",
       "https://lobste.rs/s/gk7fpf/appleworks_on_apple_ii"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-08-17, 00:20:07",
-      "https://lobste.rs/s/xculjp/limits_ai_1985"
-    ],
-    [
-      "The Limits of AI (1985)",
-      "https://www.youtube.com/watch?v=ePsQksj99LM"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 00:08:04",
       "https://lobste.rs/s/joyawz/ai_software_development_what_does_data"
     ],
@@ -177,26 +197,6 @@
     [
       "You can just choose how many bugs you want now",
       "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 17:28:27",
-      "https://lobste.rs/s/zeqgd4/third_world_embedded_engineer_responds"
-    ],
-    [
-      "A Third World Embedded Engineer Responds to \"RISC-V: They Should Have Known Better\"",
-      "https://rvembedded.com/blog_post/12/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 17:05:15",
-      "https://lobste.rs/s/zjg7ux/anti_social_media"
-    ],
-    [
-      "Anti-Social Media",
-      "https://christianheilmann.com/2026/08/11/anti-social-media/"
     ]
   ],
   [
