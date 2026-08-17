@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-17, 14:03:05](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github) - [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
 * [2026-08-17, 13:49:54](https://lobste.rs/s/fxv1u9/beyond_wasi_running_any_rust_application) - [Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0](https://labs.leaningtech.com/blog/browserpod-rust.html)
 * [2026-08-17, 13:33:00](https://lobste.rs/s/gwc2me/when_down_arrow_is_not_upside_down_up_arrow) - [When the Down Arrow is not an Upside-Down Up Arrow (2022)](https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/)
+* [2026-08-17, 13:01:50](https://lobste.rs/s/mekgva/stratum_1_ptp_grandmaster_cm4_sr1723u10) - [Stratum 1 PTP Grandmaster: CM4 + SR1723U10 (Part 1)](https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/)
 * [2026-08-17, 12:41:57](https://lobste.rs/s/gk7fpf/appleworks_on_apple_ii) - [AppleWorks on the Apple II](https://stonetools.ghost.io/appleworks-apple2/)
 * [2026-08-17, 12:24:02](https://lobste.rs/s/o5vcbw/muqss_cpu_scheduler_for_linux_7_2_by_con) - [MuQSS CPU scheduler for Linux 7.2 by Con Kolivas](https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/)
 * [2026-08-17, 11:13:33](https://lobste.rs/s/6i1at9/writing_fast_compiler) - [Writing a Fast Compiler](https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html)
@@ -13,7 +15,6 @@
 * [2026-08-17, 07:47:10](https://lobste.rs/s/i9u22k/what_comes_after_foss) - [(What Comes) After FOSS?](https://infrastructureinsights.fund/projects/what-comes-after-foss/)
 * [2026-08-17, 07:30:46](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week)
 * [2026-08-17, 04:12:33](https://lobste.rs/s/qcasbd/scm_rights_api_quirks_2019) - [SCM_RIGHTS API quirks (2019)](https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc)
-* [2026-08-17, 00:20:07](https://lobste.rs/s/xculjp/limits_ai_1985) - [The Limits of AI (1985)](https://www.youtube.com/watch?v=ePsQksj99LM)
 * [2026-08-17, 00:08:04](https://lobste.rs/s/joyawz/ai_software_development_what_does_data) - [AI Software Development – What Does The Data Say?](https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/)
 * [2026-08-16, 23:48:45](https://lobste.rs/s/vnpw9j/pony_s_arena_allocator) - [Pony's Arena Allocator](https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/)
 * [2026-08-16, 20:52:12](https://lobste.rs/s/ln3dao/faster_way_calculate_day_week) - [A faster way to calculate the day-of-the-week](https://www.benjoffe.com/fast-day-of-week)
@@ -24,7 +25,6 @@
 * [2026-08-16, 16:23:20](https://lobste.rs/s/wqkycj/people_acm_russ_cox) - [People of ACM - Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 * [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
 * [2026-08-16, 13:59:09](https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from) - [Protecting the Rust standard library from accidental breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/)
-* [2026-08-16, 10:30:43](https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface) - [A Tour of Magit's Status Interface](https://heiwiper.com/posts/magit-status-tour/)
 
 ## [Archives](archives/index.md)
 

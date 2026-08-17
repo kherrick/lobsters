@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 14:03:05](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github) - [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
 * [2026-08-17, 13:49:54](https://lobste.rs/s/fxv1u9/beyond_wasi_running_any_rust_application) - [Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0](https://labs.leaningtech.com/blog/browserpod-rust.html)
 * [2026-08-17, 13:33:00](https://lobste.rs/s/gwc2me/when_down_arrow_is_not_upside_down_up_arrow) - [When the Down Arrow is not an Upside-Down Up Arrow (2022)](https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/)
 * [2026-08-17, 13:16:09](https://lobste.rs/s/pnt80b/esp32_firmware_development_with_docker) - [ESP32 Firmware Development with Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/)
 * [2026-08-17, 13:03:59](https://lobste.rs/s/qewt1y/anthropic_s_watermark_text_adulteration) - [Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+* [2026-08-17, 13:01:50](https://lobste.rs/s/mekgva/stratum_1_ptp_grandmaster_cm4_sr1723u10) - [Stratum 1 PTP Grandmaster: CM4 + SR1723U10 (Part 1)](https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/)
 * [2026-08-17, 13:01:19](https://lobste.rs/s/lnnv4x/facts_curated_knowledge_for_humans) - [Facts: Curated Knowledge for Humans and Agents](https://gist.github.com/iamalnewkirk/22ae2d8c8cc1b8790236da9edf2f7b73)
 * [2026-08-17, 12:41:57](https://lobste.rs/s/gk7fpf/appleworks_on_apple_ii) - [AppleWorks on the Apple II](https://stonetools.ghost.io/appleworks-apple2/)
 * [2026-08-17, 12:24:02](https://lobste.rs/s/o5vcbw/muqss_cpu_scheduler_for_linux_7_2_by_con) - [MuQSS CPU scheduler for Linux 7.2 by Con Kolivas](https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/)
