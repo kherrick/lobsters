@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-17, 14:03:05",
+      "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github"
+    ],
+    [
+      "Does it make sense to switch to a Github Alternative ?",
+      "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 13:49:54",
       "https://lobste.rs/s/fxv1u9/beyond_wasi_running_any_rust_application"
     ],
@@ -17,6 +27,16 @@
     [
       "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
       "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:01:50",
+      "https://lobste.rs/s/mekgva/stratum_1_ptp_grandmaster_cm4_sr1723u10"
+    ],
+    [
+      "Stratum 1 PTP Grandmaster: CM4 + SR1723U10 (Part 1)",
+      "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-08-17, 00:20:07",
-      "https://lobste.rs/s/xculjp/limits_ai_1985"
-    ],
-    [
-      "The Limits of AI (1985)",
-      "https://www.youtube.com/watch?v=ePsQksj99LM"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 00:08:04",
       "https://lobste.rs/s/joyawz/ai_software_development_what_does_data"
     ],
@@ -237,16 +247,6 @@
     [
       "Protecting the Rust standard library from accidental breakage",
       "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 10:30:43",
-      "https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface"
-    ],
-    [
-      "A Tour of Magit's Status Interface",
-      "https://heiwiper.com/posts/magit-status-tour/"
     ]
   ]
 ]
