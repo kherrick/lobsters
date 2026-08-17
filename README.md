@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-17, 18:43:40](https://lobste.rs/s/ttrnw5/how_go_detects_struct_copies_with_sync) - [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/)
+* [2026-08-17, 20:14:47](https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read) - [AI;DR (AI; Didn’t Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 * [2026-08-17, 17:12:44](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 * [2026-08-17, 16:13:25](https://lobste.rs/s/wya4zt/preview_duckdb_v2_0) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)
 * [2026-08-17, 16:10:21](https://lobste.rs/s/ltm5qj/starting_decompilation_project_from) - [Starting a Decompilation Project from Zero: Claude Code and 51% of a 2001 GBA Game](https://gambiconf.substack.com/p/starting-a-decompilation-project)
