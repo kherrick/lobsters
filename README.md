@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-17, 07:30:46](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week)
+* [2026-08-17, 06:49:34](https://lobste.rs/s/th88mx/agents_orbs) - [Agents in Orbs](https://ampcode.com/news/agents-in-orbs)
 * [2026-08-17, 04:43:41](https://lobste.rs/s/sfuvd2/simd_90s_programming_intel_s_pentium_mmx) - [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
 * [2026-08-17, 04:12:33](https://lobste.rs/s/qcasbd/scm_rights_api_quirks_2019) - [SCM_RIGHTS API quirks (2019)](https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc)
 * [2026-08-17, 00:20:30](https://lobste.rs/s/g1rpmg/webmaster_manifesto_for_everyone) - [WEBMASTER@ a manifesto for everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
@@ -19,9 +21,7 @@
 * [2026-08-16, 13:59:09](https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from) - [Protecting the Rust standard library from accidental breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/)
 * [2026-08-16, 11:54:11](https://lobste.rs/s/dxfl0r/monitoring_systemd_services_with) - [Monitoring SystemD services with Healthchecks.io](https://passbe.com/2022/healthchecks-io-systemd-checks/)
 * [2026-08-16, 10:30:43](https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface) - [A Tour of Magit's Status Interface](https://heiwiper.com/posts/magit-status-tour/)
-* [2026-08-16, 07:17:26](https://lobste.rs/s/5rh6fs/haskell_origins_evolution_future) - [Haskell: origins, evolution, and future](https://www.youtube.com/watch?v=MQeIerDsReA&t=673s)
 * [2026-08-16, 03:41:17](https://lobste.rs/s/rexoqj/what_s_missing_have_reproducible_builds) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
-* [2026-08-15, 21:18:32](https://lobste.rs/s/jyhsng/zig_day_seattle_wa_3) - [Zig Day Seattle, WA #3](https://zig.day/usa/seattle/3/)
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 12:50:05](https://lobste.rs/s/w5rmwi/everything_is_about_go_dark) - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
