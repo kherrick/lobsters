@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 12:41:57](https://lobste.rs/s/gk7fpf/appleworks_on_apple_ii) - [AppleWorks on the Apple II](https://stonetools.ghost.io/appleworks-apple2/)
+* [2026-08-17, 12:24:02](https://lobste.rs/s/o5vcbw/muqss_cpu_scheduler_for_linux_7_2_by_con) - [MuQSS CPU scheduler for Linux 7.2 by Con Kolivas](https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/)
 * [2026-08-17, 11:13:33](https://lobste.rs/s/6i1at9/writing_fast_compiler) - [Writing a Fast Compiler](https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html)
 * [2026-08-17, 11:11:39](https://lobste.rs/s/os20fa/vetted_ai_code_is_hard_justify) - [Vetted AI code is hard to justify](https://amoffat.github.io/blog/vetting-burnout.html)
 * [2026-08-17, 10:35:27](https://lobste.rs/s/usr2t2/thinking_about_tests_assertions) - [Thinking about tests: assertions and matchers](https://zverok.space/blog/2026-08-16-assertions-and-matchers.html)

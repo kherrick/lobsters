@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-17, 12:41:57](https://lobste.rs/s/gk7fpf/appleworks_on_apple_ii) - [AppleWorks on the Apple II](https://stonetools.ghost.io/appleworks-apple2/)
+* [2026-08-17, 12:24:02](https://lobste.rs/s/o5vcbw/muqss_cpu_scheduler_for_linux_7_2_by_con) - [MuQSS CPU scheduler for Linux 7.2 by Con Kolivas](https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/)
 * [2026-08-17, 11:13:33](https://lobste.rs/s/6i1at9/writing_fast_compiler) - [Writing a Fast Compiler](https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html)
 * [2026-08-17, 11:11:39](https://lobste.rs/s/os20fa/vetted_ai_code_is_hard_justify) - [Vetted AI code is hard to justify](https://amoffat.github.io/blog/vetting-burnout.html)
 * [2026-08-17, 10:35:27](https://lobste.rs/s/usr2t2/thinking_about_tests_assertions) - [Thinking about tests: assertions and matchers](https://zverok.space/blog/2026-08-16-assertions-and-matchers.html)
@@ -23,8 +25,6 @@
 * [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
 * [2026-08-16, 13:59:09](https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from) - [Protecting the Rust standard library from accidental breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/)
 * [2026-08-16, 10:30:43](https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface) - [A Tour of Magit's Status Interface](https://heiwiper.com/posts/magit-status-tour/)
-* [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
-* [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 
 ## [Archives](archives/index.md)
 
