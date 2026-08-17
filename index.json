@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-17, 10:35:27",
+      "https://lobste.rs/s/usr2t2/thinking_about_tests_assertions"
+    ],
+    [
+      "Thinking about tests: assertions and matchers",
+      "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 09:53:54",
       "https://lobste.rs/s/nrnwc6/passphrase_less_reboots_using_kexec"
     ],
@@ -57,16 +67,6 @@
     [
       "Agents in Orbs",
       "https://ampcode.com/news/agents-in-orbs"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 04:43:41",
-      "https://lobste.rs/s/sfuvd2/simd_90s_programming_intel_s_pentium_mmx"
-    ],
-    [
-      "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "https://pikuma.com/blog/programming-intel-pentium-mmx-simd"
     ]
   ],
   [
