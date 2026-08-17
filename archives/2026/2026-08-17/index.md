@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 09:53:54](https://lobste.rs/s/nrnwc6/passphrase_less_reboots_using_kexec) - [Passphrase-less reboots using kexec under NixOS](https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/)
 * [2026-08-17, 07:50:22](https://lobste.rs/s/snhfrq/four_levels_place_initialization) - [Four levels of in-place initialization](https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/)
 * [2026-08-17, 07:49:03](https://lobste.rs/s/irgjfw/build_time_systemd_schedule) - [Build-time systemd schedule](https://gvolpe.com/blog/systemd-schedule/)
 * [2026-08-17, 07:47:10](https://lobste.rs/s/i9u22k/what_comes_after_foss) - [(What Comes) After FOSS?](https://infrastructureinsights.fund/projects/what-comes-after-foss/)

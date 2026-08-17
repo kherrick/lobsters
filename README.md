@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-17, 09:53:54](https://lobste.rs/s/nrnwc6/passphrase_less_reboots_using_kexec) - [Passphrase-less reboots using kexec under NixOS](https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/)
 * [2026-08-17, 07:50:22](https://lobste.rs/s/snhfrq/four_levels_place_initialization) - [Four levels of in-place initialization](https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/)
 * [2026-08-17, 07:49:03](https://lobste.rs/s/irgjfw/build_time_systemd_schedule) - [Build-time systemd schedule](https://gvolpe.com/blog/systemd-schedule/)
 * [2026-08-17, 07:47:10](https://lobste.rs/s/i9u22k/what_comes_after_foss) - [(What Comes) After FOSS?](https://infrastructureinsights.fund/projects/what-comes-after-foss/)
@@ -21,7 +22,6 @@
 * [2026-08-16, 16:23:20](https://lobste.rs/s/wqkycj/people_acm_russ_cox) - [People of ACM - Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 * [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
 * [2026-08-16, 13:59:09](https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from) - [Protecting the Rust standard library from accidental breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/)
-* [2026-08-16, 11:54:11](https://lobste.rs/s/dxfl0r/monitoring_systemd_services_with) - [Monitoring SystemD services with Healthchecks.io](https://passbe.com/2022/healthchecks-io-systemd-checks/)
 * [2026-08-16, 10:30:43](https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface) - [A Tour of Magit's Status Interface](https://heiwiper.com/posts/magit-status-tour/)
 * [2026-08-15, 13:29:59](https://lobste.rs/s/fooyux/why_i_remain_skeptic) - [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)
 * [2026-08-15, 05:08:35](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
