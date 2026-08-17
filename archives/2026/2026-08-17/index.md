@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 07:50:22](https://lobste.rs/s/snhfrq/four_levels_place_initialization) - [Four levels of in-place initialization](https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/)
+* [2026-08-17, 07:49:03](https://lobste.rs/s/irgjfw/build_time_systemd_schedule) - [Build-time systemd schedule](https://gvolpe.com/blog/systemd-schedule/)
+* [2026-08-17, 07:47:10](https://lobste.rs/s/i9u22k/what_comes_after_foss) - [(What Comes) After FOSS?](https://infrastructureinsights.fund/projects/what-comes-after-foss/)
 * [2026-08-17, 07:30:46](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week)
 * [2026-08-17, 06:49:34](https://lobste.rs/s/th88mx/agents_orbs) - [Agents in Orbs](https://ampcode.com/news/agents-in-orbs)
 * [2026-08-17, 04:43:41](https://lobste.rs/s/sfuvd2/simd_90s_programming_intel_s_pentium_mmx) - [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
