@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-17, 09:53:54",
+      "https://lobste.rs/s/nrnwc6/passphrase_less_reboots_using_kexec"
+    ],
+    [
+      "Passphrase-less reboots using kexec under NixOS",
+      "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 07:50:22",
       "https://lobste.rs/s/snhfrq/four_levels_place_initialization"
     ],
@@ -207,16 +217,6 @@
     [
       "Protecting the Rust standard library from accidental breakage",
       "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 11:54:11",
-      "https://lobste.rs/s/dxfl0r/monitoring_systemd_services_with"
-    ],
-    [
-      "Monitoring SystemD services with Healthchecks.io",
-      "https://passbe.com/2022/healthchecks-io-systemd-checks/"
     ]
   ],
   [
