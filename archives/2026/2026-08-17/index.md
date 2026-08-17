@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 * [2026-08-17, 20:14:47](https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read) - [AI;DR (AI; Didn’t Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 * [2026-08-17, 18:43:40](https://lobste.rs/s/ttrnw5/how_go_detects_struct_copies_with_sync) - [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/)
