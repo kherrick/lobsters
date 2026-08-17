@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-17, 14:39:34](https://lobste.rs/s/k7myyp/qwen_3_8_27b_is_excellent_it_defaults) - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 * [2026-08-17, 14:03:05](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github) - [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
 * [2026-08-17, 13:49:54](https://lobste.rs/s/fxv1u9/beyond_wasi_running_any_rust_application) - [Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0](https://labs.leaningtech.com/blog/browserpod-rust.html)
 * [2026-08-17, 13:33:00](https://lobste.rs/s/gwc2me/when_down_arrow_is_not_upside_down_up_arrow) - [When the Down Arrow is not an Upside-Down Up Arrow (2022)](https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/)
@@ -19,7 +20,6 @@
 * [2026-08-16, 23:48:45](https://lobste.rs/s/vnpw9j/pony_s_arena_allocator) - [Pony's Arena Allocator](https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/)
 * [2026-08-16, 20:52:12](https://lobste.rs/s/ln3dao/faster_way_calculate_day_week) - [A faster way to calculate the day-of-the-week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 20:11:41](https://lobste.rs/s/cgpbme/models_are_getting_dumber_on_purpose) - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
-* [2026-08-16, 19:56:03](https://lobste.rs/s/xhliz8/human_interface_guidelines_from_various) - [Human Interface Guidelines from various platforms](https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/)
 * [2026-08-16, 18:18:51](https://lobste.rs/s/8izobt/you_can_just_choose_how_many_bugs_you_want) - [You can just choose how many bugs you want now](https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/)
 * [2026-08-16, 16:26:05](https://lobste.rs/s/ii5tun/every_fucking_website) - [Every Fucking Website](https://op.tngl.io/every-fucking-website/)
 * [2026-08-16, 16:23:20](https://lobste.rs/s/wqkycj/people_acm_russ_cox) - [People of ACM - Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
