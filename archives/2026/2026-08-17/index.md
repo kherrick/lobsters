@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 16:13:25](https://lobste.rs/s/wya4zt/preview_duckdb_v2_0) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)
+* [2026-08-17, 16:10:21](https://lobste.rs/s/ltm5qj/starting_decompilation_project_from) - [Starting a Decompilation Project from Zero: Claude Code and 51% of a 2001 GBA Game](https://gambiconf.substack.com/p/starting-a-decompilation-project)
 * [2026-08-17, 14:39:34](https://lobste.rs/s/k7myyp/qwen_3_8_27b_is_excellent_it_defaults) - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 * [2026-08-17, 14:03:05](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github) - [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
 * [2026-08-17, 13:49:54](https://lobste.rs/s/fxv1u9/beyond_wasi_running_any_rust_application) - [Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0](https://labs.leaningtech.com/blog/browserpod-rust.html)
