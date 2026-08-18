@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
 * [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+* [2026-08-17, 22:42:21](https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler) - [Retrofitting a build system into a compiler](https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 * [2026-08-17, 21:45:53](https://lobste.rs/s/bx8zu1/practical_workflow_for_llm_assisted) - [A practical workflow for LLM-assisted development](https://yogthos.net/posts/2026-08-17-llm-workflow.html)
 * [2026-08-17, 20:14:47](https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read) - [AI;DR (AI; Didn’t Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)

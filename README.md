@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-18, 00:57:16](https://lobste.rs/s/lqelb1/why_bqn_wins) - [Why BQN Wins](https://github.com/codereport/max-odd-binary/blob/main/WHY_BQN_WINS.md)
 * [2026-08-18, 00:47:13](https://lobste.rs/s/wlofzl/benchmarkpocalypse) - [The benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+* [2026-08-17, 22:42:21](https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler) - [Retrofitting a build system into a compiler](https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 * [2026-08-17, 20:14:47](https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read) - [AI;DR (AI; Didn’t Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 * [2026-08-17, 17:54:19](https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at) - [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/)
 * [2026-08-17, 17:12:44](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
-* [2026-08-17, 16:49:04](https://lobste.rs/s/5odlru/how_ai_text_watermarking_works_visual) - [How AI text watermarking works: a visual guide](https://declaude.org/watermarking/)
 * [2026-08-17, 16:13:25](https://lobste.rs/s/wya4zt/preview_duckdb_v2_0) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)
 * [2026-08-17, 14:39:34](https://lobste.rs/s/k7myyp/qwen_3_8_27b_is_excellent_it_defaults) - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 * [2026-08-17, 14:03:05](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github) - [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
@@ -24,7 +25,6 @@
 * [2026-08-16, 20:52:12](https://lobste.rs/s/ln3dao/faster_way_calculate_day_week) - [A faster way to calculate the day-of-the-week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 16:26:05](https://lobste.rs/s/ii5tun/every_fucking_website) - [Every Fucking Website](https://op.tngl.io/every-fucking-website/)
 * [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
-* [2026-08-16, 13:59:09](https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from) - [Protecting the Rust standard library from accidental breakage](https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/)
 
 ## [Archives](archives/index.md)
 
