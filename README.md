@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
+* [2026-08-18, 18:39:18](https://lobste.rs/s/aqwiot/organizing_layer_8_building_tech) - [Organizing in Layer 8 – Building Tech in Democratic Socialists of America](https://www.youtube.com/watch?v=-koLM6yT5FY)
 * [2026-08-18, 18:39:06](https://lobste.rs/s/omsqyf/experiment_reducing_target_directory) - [Experiment in reducing target directory size on nightly](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/)
 * [2026-08-18, 18:16:56](https://lobste.rs/s/3dqrwr/kakoune_code_editor) - [Kakoune code editor](https://kakoune.org/)
 * [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
@@ -23,7 +24,6 @@
 * [2026-08-17, 17:12:44](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 * [2026-08-17, 16:13:25](https://lobste.rs/s/wya4zt/preview_duckdb_v2_0) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)
 * [2026-08-17, 14:03:05](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github) - [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
-* [2026-08-17, 13:33:00](https://lobste.rs/s/gwc2me/when_down_arrow_is_not_upside_down_up_arrow) - [When the Down Arrow is not an Upside-Down Up Arrow (2022)](https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/)
 * [2026-08-17, 11:11:39](https://lobste.rs/s/os20fa/vetted_ai_code_is_hard_justify) - [Vetted AI code is hard to justify](https://amoffat.github.io/blog/vetting-burnout.html)
 
 ## [Archives](archives/index.md)

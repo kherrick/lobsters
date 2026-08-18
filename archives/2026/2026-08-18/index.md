@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
 * [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
+* [2026-08-18, 18:39:18](https://lobste.rs/s/aqwiot/organizing_layer_8_building_tech) - [Organizing in Layer 8 – Building Tech in Democratic Socialists of America](https://www.youtube.com/watch?v=-koLM6yT5FY)
 * [2026-08-18, 18:39:06](https://lobste.rs/s/omsqyf/experiment_reducing_target_directory) - [Experiment in reducing target directory size on nightly](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/)
 * [2026-08-18, 18:16:56](https://lobste.rs/s/3dqrwr/kakoune_code_editor) - [Kakoune code editor](https://kakoune.org/)
 * [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
