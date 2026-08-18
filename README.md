@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-18, 02:46:21](https://lobste.rs/s/tfjoxv/actual_budget) - [Actual Budget](https://actualbudget.org/)
 * [2026-08-18, 00:57:16](https://lobste.rs/s/lqelb1/why_bqn_wins) - [Why BQN Wins](https://github.com/codereport/max-odd-binary/blob/main/WHY_BQN_WINS.md)
 * [2026-08-18, 00:47:13](https://lobste.rs/s/wlofzl/benchmarkpocalypse) - [The benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
@@ -21,7 +22,6 @@
 * [2026-08-17, 09:53:54](https://lobste.rs/s/nrnwc6/passphrase_less_reboots_using_kexec) - [Passphrase-less reboots using kexec under NixOS](https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/)
 * [2026-08-17, 07:50:22](https://lobste.rs/s/snhfrq/four_levels_place_initialization) - [Four levels of in-place initialization](https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/)
 * [2026-08-17, 07:30:46](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week)
-* [2026-08-17, 00:08:04](https://lobste.rs/s/joyawz/ai_software_development_what_does_data) - [AI Software Development – What Does The Data Say?](https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/)
 * [2026-08-16, 20:52:12](https://lobste.rs/s/ln3dao/faster_way_calculate_day_week) - [A faster way to calculate the day-of-the-week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 16:26:05](https://lobste.rs/s/ii5tun/every_fucking_website) - [Every Fucking Website](https://op.tngl.io/every-fucking-website/)
 * [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
