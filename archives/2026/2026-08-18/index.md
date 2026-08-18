@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
+* [2026-08-18, 12:29:02](https://lobste.rs/s/hisxut/fairphone_6_postmarketos_working_main) - [Fairphone 6 + PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+* [2026-08-18, 12:16:41](https://lobste.rs/s/agafnk/gpu_offload_rust_portable_safe_fast) - [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/pdf/2608.13759)
 * [2026-08-18, 12:11:07](https://lobste.rs/s/8vihvm/shading_motion) - [Shading Motion](https://blog.maximeheckel.com/posts/shading-motion/)
 * [2026-08-18, 12:10:59](https://lobste.rs/s/6prwje/tsampi_bft_leaderless_one_round_voting) - [Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality](https://www.tsampi.com/tsampi-bft-1.1.pdf)
+* [2026-08-18, 11:42:04](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)
 * [2026-08-18, 05:28:48](https://lobste.rs/s/qhs0pn/encoding_vcmpps_vcmppd) - [Encoding vcmpps and vcmppd](https://www.corsix.org/content/encoding-vcmpps-vcmppd)
