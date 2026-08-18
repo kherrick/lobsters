@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
+* [2026-08-18, 18:39:18](https://lobste.rs/s/aqwiot/organizing_layer_8_building_tech) - [Organizing in Layer 8 – Building Tech in Democratic Socialists of America](https://www.youtube.com/watch?v=-koLM6yT5FY)
 * [2026-08-18, 18:39:06](https://lobste.rs/s/omsqyf/experiment_reducing_target_directory) - [Experiment in reducing target directory size on nightly](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/)
 * [2026-08-18, 18:16:56](https://lobste.rs/s/3dqrwr/kakoune_code_editor) - [Kakoune code editor](https://kakoune.org/)
 * [2026-08-18, 17:51:23](https://lobste.rs/s/tmlrxs/hyper_customized_one_off_software_for) - [Hyper-Customized One-Off Software for Cheap](https://blog.gnoack.org/post/hyper-customized-one-off-software)
@@ -16,7 +17,6 @@
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)
 * [2026-08-18, 02:46:21](https://lobste.rs/s/tfjoxv/actual_budget) - [Actual Budget](https://actualbudget.org/)
-* [2026-08-18, 02:36:25](https://lobste.rs/s/jin8t5/selective_applicative_functors) - [Selective Applicative Functors](https://blog.veritates.love/selective-applicatives-theoretical-basis)
 * [2026-08-18, 00:47:13](https://lobste.rs/s/wlofzl/benchmarkpocalypse) - [The benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
