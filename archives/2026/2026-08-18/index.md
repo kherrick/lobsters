@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
+* [2026-08-18, 18:39:06](https://lobste.rs/s/omsqyf/experiment_reducing_target_directory) - [Experiment in reducing target directory size on nightly](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/)
 * [2026-08-18, 18:16:56](https://lobste.rs/s/3dqrwr/kakoune_code_editor) - [Kakoune code editor](https://kakoune.org/)
 * [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:07:47](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework) - [Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
