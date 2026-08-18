@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-18, 12:11:07](https://lobste.rs/s/8vihvm/shading_motion) - [Shading Motion](https://blog.maximeheckel.com/posts/shading-motion/)
+* [2026-08-18, 12:10:59](https://lobste.rs/s/6prwje/tsampi_bft_leaderless_one_round_voting) - [Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality](https://www.tsampi.com/tsampi-bft-1.1.pdf)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)
 * [2026-08-18, 05:28:48](https://lobste.rs/s/qhs0pn/encoding_vcmpps_vcmppd) - [Encoding vcmpps and vcmppd](https://www.corsix.org/content/encoding-vcmpps-vcmppd)
@@ -7,7 +9,6 @@
 * [2026-08-18, 02:36:25](https://lobste.rs/s/jin8t5/selective_applicative_functors) - [Selective Applicative Functors](https://blog.veritates.love/selective-applicatives-theoretical-basis)
 * [2026-08-18, 00:47:13](https://lobste.rs/s/wlofzl/benchmarkpocalypse) - [The benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
-* [2026-08-17, 22:42:21](https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler) - [Retrofitting a build system into a compiler](https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 * [2026-08-17, 21:45:53](https://lobste.rs/s/bx8zu1/practical_workflow_for_llm_assisted) - [A practical workflow for LLM-assisted development](https://yogthos.net/posts/2026-08-17-llm-workflow.html)
 * [2026-08-17, 20:14:47](https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read) - [AI;DR (AI; Didn’t Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
@@ -21,7 +22,6 @@
 * [2026-08-17, 11:11:39](https://lobste.rs/s/os20fa/vetted_ai_code_is_hard_justify) - [Vetted AI code is hard to justify](https://amoffat.github.io/blog/vetting-burnout.html)
 * [2026-08-17, 10:35:27](https://lobste.rs/s/usr2t2/thinking_about_tests_assertions) - [Thinking about tests: assertions and matchers](https://zverok.space/blog/2026-08-16-assertions-and-matchers.html)
 * [2026-08-17, 09:53:54](https://lobste.rs/s/nrnwc6/passphrase_less_reboots_using_kexec) - [Passphrase-less reboots using kexec under NixOS](https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/)
-* [2026-08-17, 07:50:22](https://lobste.rs/s/snhfrq/four_levels_place_initialization) - [Four levels of in-place initialization](https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/)
 * [2026-08-16, 20:52:12](https://lobste.rs/s/ln3dao/faster_way_calculate_day_week) - [A faster way to calculate the day-of-the-week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 16:26:05](https://lobste.rs/s/ii5tun/every_fucking_website) - [Every Fucking Website](https://op.tngl.io/every-fucking-website/)
 * [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
