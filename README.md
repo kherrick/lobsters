@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-18, 22:57:41](https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability) - [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 * [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
 * [2026-08-18, 18:39:18](https://lobste.rs/s/aqwiot/organizing_layer_8_building_tech) - [Organizing in Layer 8 – Building Tech in Democratic Socialists of America](https://www.youtube.com/watch?v=-koLM6yT5FY)
 * [2026-08-18, 18:39:06](https://lobste.rs/s/omsqyf/experiment_reducing_target_directory) - [Experiment in reducing target directory size on nightly](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/)
@@ -23,7 +24,6 @@
 * [2026-08-17, 20:14:47](https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read) - [AI;DR (AI; Didn’t Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 * [2026-08-17, 17:54:19](https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at) - [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/)
 * [2026-08-17, 17:12:44](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
-* [2026-08-17, 16:13:25](https://lobste.rs/s/wya4zt/preview_duckdb_v2_0) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)
 * [2026-08-17, 14:03:05](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github) - [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
 
 ## [Archives](archives/index.md)
