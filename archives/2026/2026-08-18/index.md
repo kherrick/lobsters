@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 15:07:47](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework) - [Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
 * [2026-08-18, 14:31:11](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026) - [What software do you use daily in 2026?](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026)
 * [2026-08-18, 14:24:05](https://lobste.rs/s/wj7pei/css_js_arena_bamboo_stylex_panda_on_pixel) - [CSS-in-JS Arena Bamboo, StyleX and Panda on Pixel-Identical Apps](https://github.com/gajus/css-in-js-arena)
 * [2026-08-18, 14:08:36](https://lobste.rs/s/khm6np/why_i_reimplemented_lvm_with_worse) - [Why I reimplemented LVM (with worse guarantees)](https://depot.dev/blog/why-i-reimplemented-lvm)
