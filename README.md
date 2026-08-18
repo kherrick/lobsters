@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-18, 18:16:56](https://lobste.rs/s/3dqrwr/kakoune_code_editor) - [Kakoune code editor](https://kakoune.org/)
 * [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:07:47](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework) - [Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
 * [2026-08-18, 14:31:11](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026) - [What software do you use daily in 2026?](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026)
-* [2026-08-18, 14:24:05](https://lobste.rs/s/wj7pei/css_js_arena_bamboo_stylex_panda_on_pixel) - [CSS-in-JS Arena Bamboo, StyleX and Panda on Pixel-Identical Apps](https://github.com/gajus/css-in-js-arena)
 * [2026-08-18, 14:08:36](https://lobste.rs/s/khm6np/why_i_reimplemented_lvm_with_worse) - [Why I reimplemented LVM (with worse guarantees)](https://depot.dev/blog/why-i-reimplemented-lvm)
 * [2026-08-18, 13:30:46](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox) - [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
