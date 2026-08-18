@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-18, 22:57:41",
+      "https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability"
+    ],
+    [
+      "When str.lower() is a security vulnerability in Python",
+      "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 19:20:45",
       "https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates"
     ],
@@ -227,16 +237,6 @@
     [
       "GitHub has alternatives, but no replacement",
       "https://lalitm.com/post/github-alternatives/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 16:13:25",
-      "https://lobste.rs/s/wya4zt/preview_duckdb_v2_0"
-    ],
-    [
-      "A Preview of DuckDB v2.0",
-      "https://duckdb.org/2026/08/17/duckdb-20-highlights.html"
     ]
   ],
   [
