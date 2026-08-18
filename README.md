@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)
 * [2026-08-18, 02:46:21](https://lobste.rs/s/tfjoxv/actual_budget) - [Actual Budget](https://actualbudget.org/)
 * [2026-08-18, 00:57:16](https://lobste.rs/s/lqelb1/why_bqn_wins) - [Why BQN Wins](https://github.com/codereport/max-odd-binary/blob/main/WHY_BQN_WINS.md)
 * [2026-08-18, 00:47:13](https://lobste.rs/s/wlofzl/benchmarkpocalypse) - [The benchmarkpocalypse](https://danluu.com/benchpocalypse/)
@@ -14,7 +15,6 @@
 * [2026-08-17, 14:39:34](https://lobste.rs/s/k7myyp/qwen_3_8_27b_is_excellent_it_defaults) - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 * [2026-08-17, 14:03:05](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github) - [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
 * [2026-08-17, 13:33:00](https://lobste.rs/s/gwc2me/when_down_arrow_is_not_upside_down_up_arrow) - [When the Down Arrow is not an Upside-Down Up Arrow (2022)](https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/)
-* [2026-08-17, 12:41:57](https://lobste.rs/s/gk7fpf/appleworks_on_apple_ii) - [AppleWorks on the Apple II](https://stonetools.ghost.io/appleworks-apple2/)
 * [2026-08-17, 12:24:02](https://lobste.rs/s/o5vcbw/muqss_cpu_scheduler_for_linux_7_2_by_con) - [MuQSS CPU scheduler for Linux 7.2 by Con Kolivas](https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/)
 * [2026-08-17, 11:13:33](https://lobste.rs/s/6i1at9/writing_fast_compiler) - [Writing a Fast Compiler](https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html)
 * [2026-08-17, 11:11:39](https://lobste.rs/s/os20fa/vetted_ai_code_is_hard_justify) - [Vetted AI code is hard to justify](https://amoffat.github.io/blog/vetting-burnout.html)
