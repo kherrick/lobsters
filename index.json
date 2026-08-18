@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-08-18, 02:36:25",
+      "https://lobste.rs/s/jin8t5/selective_applicative_functors"
+    ],
+    [
+      "Selective Applicative Functors",
+      "https://blog.veritates.love/selective-applicatives-theoretical-basis"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 00:57:16",
       "https://lobste.rs/s/lqelb1/why_bqn_wins"
     ],
@@ -207,16 +217,6 @@
     [
       "Passphrase-less reboots using kexec under NixOS",
       "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 07:50:22",
-      "https://lobste.rs/s/snhfrq/four_levels_place_initialization"
-    ],
-    [
-      "Four levels of in-place initialization",
-      "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/"
     ]
   ],
   [
