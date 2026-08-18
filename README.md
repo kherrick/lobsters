@@ -1,10 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-18, 14:31:11](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026) - [What software do you use daily in 2026?](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026)
+* [2026-08-18, 14:24:05](https://lobste.rs/s/wj7pei/css_js_arena_bamboo_stylex_panda_on_pixel) - [CSS-in-JS Arena Bamboo, StyleX and Panda on Pixel-Identical Apps](https://github.com/gajus/css-in-js-arena)
+* [2026-08-18, 14:08:36](https://lobste.rs/s/khm6np/why_i_reimplemented_lvm_with_worse) - [Why I reimplemented LVM (with worse guarantees)](https://depot.dev/blog/why-i-reimplemented-lvm)
 * [2026-08-18, 13:30:46](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox) - [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
 * [2026-08-18, 12:29:02](https://lobste.rs/s/hisxut/fairphone_6_postmarketos_working_main) - [Fairphone 6 + PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
 * [2026-08-18, 12:16:41](https://lobste.rs/s/agafnk/gpu_offload_rust_portable_safe_fast) - [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/pdf/2608.13759)
-* [2026-08-18, 12:10:59](https://lobste.rs/s/6prwje/tsampi_bft_leaderless_one_round_voting) - [Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality](https://www.tsampi.com/tsampi-bft-1.1.pdf)
+* [2026-08-18, 12:11:07](https://lobste.rs/s/8vihvm/shading_motion) - [Shading Motion](https://blog.maximeheckel.com/posts/shading-motion/)
 * [2026-08-18, 11:42:04](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)
@@ -13,7 +16,6 @@
 * [2026-08-18, 00:47:13](https://lobste.rs/s/wlofzl/benchmarkpocalypse) - [The benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-* [2026-08-17, 21:45:53](https://lobste.rs/s/bx8zu1/practical_workflow_for_llm_assisted) - [A practical workflow for LLM-assisted development](https://yogthos.net/posts/2026-08-17-llm-workflow.html)
 * [2026-08-17, 20:14:47](https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read) - [AI;DR (AI; Didn’t Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 * [2026-08-17, 17:54:19](https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at) - [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/)
 * [2026-08-17, 17:12:44](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
@@ -23,8 +25,6 @@
 * [2026-08-17, 13:33:00](https://lobste.rs/s/gwc2me/when_down_arrow_is_not_upside_down_up_arrow) - [When the Down Arrow is not an Upside-Down Up Arrow (2022)](https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/)
 * [2026-08-17, 11:13:33](https://lobste.rs/s/6i1at9/writing_fast_compiler) - [Writing a Fast Compiler](https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html)
 * [2026-08-17, 11:11:39](https://lobste.rs/s/os20fa/vetted_ai_code_is_hard_justify) - [Vetted AI code is hard to justify](https://amoffat.github.io/blog/vetting-burnout.html)
-* [2026-08-17, 09:53:54](https://lobste.rs/s/nrnwc6/passphrase_less_reboots_using_kexec) - [Passphrase-less reboots using kexec under NixOS](https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/)
-* [2026-08-16, 14:05:05](https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i) - [I thought I was building a C replacement. I was wrong](https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/)
 
 ## [Archives](archives/index.md)
 
