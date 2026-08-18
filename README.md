@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:07:47](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework) - [Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
 * [2026-08-18, 14:31:11](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026) - [What software do you use daily in 2026?](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026)
 * [2026-08-18, 14:24:05](https://lobste.rs/s/wj7pei/css_js_arena_bamboo_stylex_panda_on_pixel) - [CSS-in-JS Arena Bamboo, StyleX and Panda on Pixel-Identical Apps](https://github.com/gajus/css-in-js-arena)
@@ -13,7 +14,6 @@
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)
 * [2026-08-18, 02:46:21](https://lobste.rs/s/tfjoxv/actual_budget) - [Actual Budget](https://actualbudget.org/)
-* [2026-08-18, 02:36:25](https://lobste.rs/s/jin8t5/selective_applicative_functors) - [Selective Applicative Functors](https://blog.veritates.love/selective-applicatives-theoretical-basis)
 * [2026-08-18, 00:47:13](https://lobste.rs/s/wlofzl/benchmarkpocalypse) - [The benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
