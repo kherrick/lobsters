@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-19, 10:16:54](https://lobste.rs/s/9oy4ao/liquid_types_as_behavioural_sandbox_for) - [Liquid Types as a behavioural sandbox for agents](https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/)
+* [2026-08-19, 09:34:14](https://lobste.rs/s/dajsxn/solo_so_loader_for_static_linux_binaries) - [Solo: a .so loader for static Linux binaries](https://github.com/pg83/solo)
 * [2026-08-19, 07:29:33](https://lobste.rs/s/xftgtd/filename_when_none_exists) - [a filename when none exists](https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/)
-* [2026-08-19, 06:42:07](https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024) - [Fargate Is Not Firecracker (2024)](https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/)
 * [2026-08-19, 06:27:30](https://lobste.rs/s/rjxezi/palomar_registry_lean_verified) - [Palomar – a registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 * [2026-08-19, 06:20:33](https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
 * [2026-08-19, 05:25:07](https://lobste.rs/s/l5rmvg/susan_kare_designing_icons_graphics_for) - [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
@@ -19,7 +20,6 @@
 * [2026-08-18, 14:31:11](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026) - [What software do you use daily in 2026?](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026)
 * [2026-08-18, 13:30:46](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox) - [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
-* [2026-08-18, 12:29:02](https://lobste.rs/s/hisxut/fairphone_6_postmarketos_working_main) - [Fairphone 6 + PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
 * [2026-08-18, 11:42:04](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 10:16:54](https://lobste.rs/s/9oy4ao/liquid_types_as_behavioural_sandbox_for) - [Liquid Types as a behavioural sandbox for agents](https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/)
+* [2026-08-19, 09:34:14](https://lobste.rs/s/dajsxn/solo_so_loader_for_static_linux_binaries) - [Solo: a .so loader for static Linux binaries](https://github.com/pg83/solo)
 * [2026-08-19, 07:29:33](https://lobste.rs/s/xftgtd/filename_when_none_exists) - [a filename when none exists](https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/)
 * [2026-08-19, 06:42:07](https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024) - [Fargate Is Not Firecracker (2024)](https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/)
 * [2026-08-19, 06:27:30](https://lobste.rs/s/rjxezi/palomar_registry_lean_verified) - [Palomar – a registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
