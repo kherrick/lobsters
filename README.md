@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-19, 05:25:07](https://lobste.rs/s/l5rmvg/susan_kare_designing_icons_graphics_for) - [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-19, 02:36:55](https://lobste.rs/s/sfiihp/how_i_developed_am29000_c_compiler_web) - [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html)
 * [2026-08-19, 02:05:35](https://lobste.rs/s/r8x9et/claude_i_built_app) - [Claude and I built an app](https://folkwolf.net/claude-and-i-built-an-app/)
@@ -17,7 +18,6 @@
 * [2026-08-18, 13:30:46](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox) - [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
 * [2026-08-18, 12:29:02](https://lobste.rs/s/hisxut/fairphone_6_postmarketos_working_main) - [Fairphone 6 + PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
-* [2026-08-18, 12:11:07](https://lobste.rs/s/8vihvm/shading_motion) - [Shading Motion](https://blog.maximeheckel.com/posts/shading-motion/)
 * [2026-08-18, 11:42:04](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 05:25:07](https://lobste.rs/s/l5rmvg/susan_kare_designing_icons_graphics_for) - [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-19, 02:36:55](https://lobste.rs/s/sfiihp/how_i_developed_am29000_c_compiler_web) - [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html)
 * [2026-08-19, 02:05:35](https://lobste.rs/s/r8x9et/claude_i_built_app) - [Claude and I built an app](https://folkwolf.net/claude-and-i-built-an-app/)
