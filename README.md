@@ -2,6 +2,7 @@
 
 * [2026-08-19, 13:01:00](https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages) - [Why I still hand write my commit messages](https://www.jvt.me/posts/2026/08/17/hand-write-commits/)
 * [2026-08-19, 12:43:32](https://lobste.rs/s/rdcyoc/aiki_alpha_2_released) - [Aiki Alpha 2 Released](https://decuser.github.io/posts/aiki-alpha-2-release/)
+* [2026-08-19, 12:33:03](https://lobste.rs/s/yaoves/on_capacity_performance_reliability) - [On the Capacity, Performance, and Reliability of microSD Cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
 * [2026-08-19, 10:55:29](https://lobste.rs/s/5gcd3t/html_can_do) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-19, 10:16:54](https://lobste.rs/s/9oy4ao/liquid_types_as_behavioural_sandbox_for) - [Liquid Types as a behavioural sandbox for agents](https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/)
 * [2026-08-19, 09:34:14](https://lobste.rs/s/dajsxn/solo_so_loader_for_static_linux_binaries) - [Solo: a .so loader for static Linux binaries](https://github.com/pg83/solo)
@@ -12,7 +13,6 @@
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-19, 02:36:55](https://lobste.rs/s/sfiihp/how_i_developed_am29000_c_compiler_web) - [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html)
 * [2026-08-19, 00:03:41](https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation) - [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
-* [2026-08-18, 23:39:30](https://lobste.rs/s/5kw58e/alibaba_s_tsmc_built_5nm_risc_v_chip) - [Alibaba's TSMC-Built 5nm RISC-V Chip, XuanTie C950, Now Runs Qwen-3.8 27B Model Natively, Unlocking Massive Vertical Integration Tailwinds](https://wccftech.com/alibabas-tsmc-built-5nm-risc-v-chip-xuantie-c950-now-runs-qwen-3-8-27b-model-natively-unlocking-massive-vertical-integration-tailwinds/)
 * [2026-08-18, 22:57:41](https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability) - [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 * [2026-08-18, 20:18:46](https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026) - [Incident Report for GitHub outage on 2026-08-17](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 * [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)

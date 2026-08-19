@@ -6,6 +6,7 @@
 
 * [2026-08-19, 13:01:00](https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages) - [Why I still hand write my commit messages](https://www.jvt.me/posts/2026/08/17/hand-write-commits/)
 * [2026-08-19, 12:43:32](https://lobste.rs/s/rdcyoc/aiki_alpha_2_released) - [Aiki Alpha 2 Released](https://decuser.github.io/posts/aiki-alpha-2-release/)
+* [2026-08-19, 12:33:03](https://lobste.rs/s/yaoves/on_capacity_performance_reliability) - [On the Capacity, Performance, and Reliability of microSD Cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
 * [2026-08-19, 10:55:29](https://lobste.rs/s/5gcd3t/html_can_do) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-19, 10:43:41](https://lobste.rs/s/4d8og2/who_are_token_brokers) - [Who Are the Token Brokers?](https://vectoral.com/blog/who-are-the-token-brokers)
 * [2026-08-19, 10:16:54](https://lobste.rs/s/9oy4ao/liquid_types_as_behavioural_sandbox_for) - [Liquid Types as a behavioural sandbox for agents](https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/)
