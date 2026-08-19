@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-19, 22:05:09](https://lobste.rs/s/ppvyr1/packing_malware_rosetta_2) - [Packing Malware in Rosetta 2](https://kernelkennel.com/blog/summercon2026-rosetta/)
+* [2026-08-19, 22:10:12](https://lobste.rs/s/7v1wvd/reclaim_terminal) - [Reclaim the terminal](https://nishantjosh.dev/blogs/reclaim-the-terminal/)
+* [2026-08-19, 20:59:50](https://lobste.rs/s/hdef54/easy_use_entity_component_system_ecs) - [Easy to use Entity Component System (ECS) crafted with Odin](https://github.com/helioscout/moecs)
 * [2026-08-19, 20:28:07](https://lobste.rs/s/wvwqro/sing_song_speakable_encoding_for_long) - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/)
 * [2026-08-19, 18:23:56](https://lobste.rs/s/vpmzvx/ploopy_external_trackball) - [Ploopy A+ (external trackball)](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 * [2026-08-19, 18:15:04](https://lobste.rs/s/q0wkpe/go_1_27_release_notes) - [Go 1.27 Release Notes](https://go.dev/doc/go1.27)
@@ -19,7 +20,6 @@
 * [2026-08-19, 05:25:07](https://lobste.rs/s/l5rmvg/designing_icons_graphics_for_original) - [Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-19, 00:03:41](https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation) - [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
-* [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
 * [2026-08-18, 18:16:56](https://lobste.rs/s/3dqrwr/kakoune_code_editor) - [Kakoune code editor](https://kakoune.org/)
 * [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:07:47](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework) - [Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
