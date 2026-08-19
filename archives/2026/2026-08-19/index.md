@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 17:07:12](https://lobste.rs/s/3tbpsd/capri_type_safe_atomic_gleam_bindings_for) - [capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM](https://capri.hexdocs.pm/)
 * [2026-08-19, 16:32:36](https://lobste.rs/s/lxo74i/introducing_microlighter) - [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
 * [2026-08-19, 15:54:25](https://lobste.rs/s/qmx2sh/extreme_programming_gentle) - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
 * [2026-08-19, 15:18:20](https://lobste.rs/s/vt7qpp/opinions_about_compiler_building) - [Opinions About Compiler Building](https://programmingsimplicity.substack.com/p/opinions-about-compiler-building)
