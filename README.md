@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-19, 20:59:50](https://lobste.rs/s/hdef54/easy_use_entity_component_system_ecs) - [Easy to use Entity Component System (ECS) crafted with Odin](https://github.com/helioscout/moecs)
+* [2026-08-19, 22:05:09](https://lobste.rs/s/ppvyr1/packing_malware_rosetta_2) - [Packing Malware in Rosetta 2](https://kernelkennel.com/blog/summercon2026-rosetta/)
 * [2026-08-19, 20:28:07](https://lobste.rs/s/wvwqro/sing_song_speakable_encoding_for_long) - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/)
 * [2026-08-19, 18:23:56](https://lobste.rs/s/vpmzvx/ploopy_external_trackball) - [Ploopy A+ (external trackball)](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 * [2026-08-19, 18:15:04](https://lobste.rs/s/q0wkpe/go_1_27_release_notes) - [Go 1.27 Release Notes](https://go.dev/doc/go1.27)
