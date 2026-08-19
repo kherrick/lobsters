@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 16:32:36](https://lobste.rs/s/lxo74i/introducing_microlighter) - [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
+* [2026-08-19, 15:54:25](https://lobste.rs/s/qmx2sh/extreme_programming_gentle) - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
 * [2026-08-19, 15:18:20](https://lobste.rs/s/vt7qpp/opinions_about_compiler_building) - [Opinions About Compiler Building](https://programmingsimplicity.substack.com/p/opinions-about-compiler-building)
 * [2026-08-19, 15:17:39](https://lobste.rs/s/gmherj/sqlite_for_everything) - [SQLite for Everything](https://joecode.com/2026-08-19-sqlite3/)
 * [2026-08-19, 14:17:38](https://lobste.rs/s/th7q3y/geolocating_random_islet_image_using) - [Geolocating Random Islet Image Using Geometry & CUDA GPU Programming](https://yassa9.github.io/osint/gralhix-004/)
