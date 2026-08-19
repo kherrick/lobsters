@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-19](index.md)
+
+* [2026-08-19, 00:03:41](https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation) - [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
 * [2026-08-18, 22:57:41](https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability) - [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+* [2026-08-18, 20:18:46](https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026) - [Incident Report for GitHub outage on 2026-08-17](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 * [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
 * [2026-08-18, 18:39:18](https://lobste.rs/s/aqwiot/organizing_layer_8_building_tech) - [Organizing in Layer 8 – Building Tech in Democratic Socialists of America](https://www.youtube.com/watch?v=-koLM6yT5FY)
 * [2026-08-18, 18:39:06](https://lobste.rs/s/omsqyf/experiment_reducing_target_directory) - [Experiment in reducing target directory size on nightly](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/)
