@@ -111,22 +111,22 @@
   ],
   [
     [
+      "2026-08-19, 15:18:20",
+      "https://lobste.rs/s/vt7qpp/opinions_about_compiler_building"
+    ],
+    [
+      "Opinions About Compiler Building",
+      "https://programmingsimplicity.substack.com/p/opinions-about-compiler-building"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 15:17:39",
       "https://lobste.rs/s/gmherj/sqlite_for_everything"
     ],
     [
       "SQLite for Everything",
       "https://joecode.com/2026-08-19-sqlite3/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 13:01:00",
-      "https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages"
-    ],
-    [
-      "Why I still hand write my commit messages",
-      "https://www.jvt.me/posts/2026/08/17/hand-write-commits/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-08-19, 09:34:14",
-      "https://lobste.rs/s/dajsxn/solo_so_loader_for_static_linux_binaries"
-    ],
-    [
-      "Solo: a .so loader for static Linux binaries",
-      "https://github.com/pg83/solo"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 07:29:33",
       "https://lobste.rs/s/xftgtd/filename_when_none_exists"
     ],
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2026-08-19, 06:20:33",
-      "https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good"
+      "2026-08-19, 06:42:07",
+      "https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024"
     ],
     [
-      "Bun 1.4 Rust rewrite is not looking good",
-      "https://tipiirai.com/writing/bun-rust-rewrite-worries"
+      "Fargate Is Not Firecracker (2024)",
+      "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Mastodon 5.0: Laying the foundation",
       "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 19:20:45",
+      "https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates"
+    ],
+    [
+      "Odin's New Inline Assembly Templates",
+      "https://odin-lang.org/docs/inline-asm/"
     ]
   ],
   [
