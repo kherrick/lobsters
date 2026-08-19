@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-19, 02:36:55](https://lobste.rs/s/sfiihp/how_i_developed_am29000_c_compiler_web) - [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html)
 * [2026-08-19, 02:05:35](https://lobste.rs/s/r8x9et/claude_i_built_app) - [Claude and I built an app](https://folkwolf.net/claude-and-i-built-an-app/)
 * [2026-08-19, 00:03:41](https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation) - [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
 * [2026-08-18, 22:57:41](https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability) - [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
@@ -18,7 +19,6 @@
 * [2026-08-18, 11:42:04](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 07:37:53](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc) - [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/)
-* [2026-08-18, 00:47:13](https://lobste.rs/s/wlofzl/benchmarkpocalypse) - [The benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 22:58:03](https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 * [2026-08-17, 20:14:47](https://lobste.rs/s/fx9pic/ai_dr_ai_didn_t_read) - [AI;DR (AI; Didn’t Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
