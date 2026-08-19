@@ -14,7 +14,7 @@
 * [2026-08-19, 07:29:33](https://lobste.rs/s/xftgtd/filename_when_none_exists) - [a filename when none exists](https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/)
 * [2026-08-19, 06:42:07](https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024) - [Fargate Is Not Firecracker (2024)](https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/)
 * [2026-08-19, 06:20:33](https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
-* [2026-08-19, 05:25:07](https://lobste.rs/s/l5rmvg/susan_kare_designing_icons_graphics_for) - [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
+* [2026-08-19, 05:25:07](https://lobste.rs/s/l5rmvg/designing_icons_graphics_for_original) - [Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-19, 00:03:41](https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation) - [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
 * [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
