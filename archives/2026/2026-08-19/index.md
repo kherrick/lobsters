@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 20:28:07](https://lobste.rs/s/wvwqro/sing_song_speakable_encoding_for_long) - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/)
 * [2026-08-19, 18:23:56](https://lobste.rs/s/vpmzvx/ploopy_external_trackball) - [Ploopy A+ (external trackball)](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 * [2026-08-19, 18:15:04](https://lobste.rs/s/q0wkpe/go_1_27_release_notes) - [Go 1.27 Release Notes](https://go.dev/doc/go1.27)
 * [2026-08-19, 17:53:45](https://lobste.rs/s/smrw3n/go_1_27_is_released_go_programming) - [Go 1.27 is released - The Go Programming Language](https://go.dev/blog/go1.27)
+* [2026-08-19, 17:53:45](https://lobste.rs/s/smrw3n/go_1_27_is_released) - [Go 1.27 is released](https://go.dev/blog/go1.27)
 * [2026-08-19, 17:07:12](https://lobste.rs/s/3tbpsd/capri_type_safe_atomic_gleam_bindings_for) - [capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM](https://capri.hexdocs.pm/)
 * [2026-08-19, 16:55:49](https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool) - [Plain Text Accounting is Pretty Cool](https://sumnerevans.com/posts/money/plain-text-accounting/)
 * [2026-08-19, 16:32:36](https://lobste.rs/s/lxo74i/introducing_microlighter) - [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
