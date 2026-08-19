@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-19, 15:18:20](https://lobste.rs/s/vt7qpp/opinions_about_compiler_building) - [Opinions About Compiler Building](https://programmingsimplicity.substack.com/p/opinions-about-compiler-building)
+* [2026-08-19, 15:17:39](https://lobste.rs/s/gmherj/sqlite_for_everything) - [SQLite for Everything](https://joecode.com/2026-08-19-sqlite3/)
 * [2026-08-19, 14:17:38](https://lobste.rs/s/th7q3y/geolocating_random_islet_image_using) - [Geolocating Random Islet Image Using Geometry & CUDA GPU Programming](https://yassa9.github.io/osint/gralhix-004/)
 * [2026-08-19, 13:01:00](https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages) - [Why I still hand write my commit messages](https://www.jvt.me/posts/2026/08/17/hand-write-commits/)
-* [2026-08-19, 12:43:32](https://lobste.rs/s/rdcyoc/aiki_alpha_2_released) - [Aiki Alpha 2 Released](https://decuser.github.io/posts/aiki-alpha-2-release/)
 * [2026-08-19, 12:33:03](https://lobste.rs/s/yaoves/on_capacity_performance_reliability) - [On the Capacity, Performance, and Reliability of microSD Cards](https://www.bahjeez.com/the-great-microsd-card-survey/)
 * [2026-08-19, 10:55:29](https://lobste.rs/s/5gcd3t/html_can_do) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-19, 10:16:54](https://lobste.rs/s/9oy4ao/liquid_types_as_behavioural_sandbox_for) - [Liquid Types as a behavioural sandbox for agents](https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/)
@@ -14,7 +15,6 @@
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-19, 00:03:41](https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation) - [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
 * [2026-08-18, 22:57:41](https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability) - [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
-* [2026-08-18, 20:18:46](https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026) - [Incident Report for GitHub outage on 2026-08-17](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 * [2026-08-18, 19:20:45](https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates) - [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
 * [2026-08-18, 18:16:56](https://lobste.rs/s/3dqrwr/kakoune_code_editor) - [Kakoune code editor](https://kakoune.org/)
 * [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)

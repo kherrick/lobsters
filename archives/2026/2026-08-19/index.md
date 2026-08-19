@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 15:18:20](https://lobste.rs/s/vt7qpp/opinions_about_compiler_building) - [Opinions About Compiler Building](https://programmingsimplicity.substack.com/p/opinions-about-compiler-building)
+* [2026-08-19, 15:17:39](https://lobste.rs/s/gmherj/sqlite_for_everything) - [SQLite for Everything](https://joecode.com/2026-08-19-sqlite3/)
 * [2026-08-19, 14:17:38](https://lobste.rs/s/th7q3y/geolocating_random_islet_image_using) - [Geolocating Random Islet Image Using Geometry & CUDA GPU Programming](https://yassa9.github.io/osint/gralhix-004/)
 * [2026-08-19, 13:01:00](https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages) - [Why I still hand write my commit messages](https://www.jvt.me/posts/2026/08/17/hand-write-commits/)
 * [2026-08-19, 12:43:32](https://lobste.rs/s/rdcyoc/aiki_alpha_2_released) - [Aiki Alpha 2 Released](https://decuser.github.io/posts/aiki-alpha-2-release/)
