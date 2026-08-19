@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-19, 22:05:09",
-      "https://lobste.rs/s/ppvyr1/packing_malware_rosetta_2"
+      "2026-08-19, 22:10:12",
+      "https://lobste.rs/s/7v1wvd/reclaim_terminal"
     ],
     [
-      "Packing Malware in Rosetta 2",
-      "https://kernelkennel.com/blog/summercon2026-rosetta/"
+      "Reclaim the terminal",
+      "https://nishantjosh.dev/blogs/reclaim-the-terminal/"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 20:59:50",
+      "https://lobste.rs/s/hdef54/easy_use_entity_component_system_ecs"
+    ],
+    [
+      "Easy to use Entity Component System (ECS) crafted with Odin",
+      "https://github.com/helioscout/moecs"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Mastodon 5.0: Laying the foundation",
       "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 19:20:45",
-      "https://lobste.rs/s/loltt2/odin_s_new_inline_assembly_templates"
-    ],
-    [
-      "Odin's New Inline Assembly Templates",
-      "https://odin-lang.org/docs/inline-asm/"
     ]
   ],
   [
