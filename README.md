@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-19, 17:07:12](https://lobste.rs/s/3tbpsd/capri_type_safe_atomic_gleam_bindings_for) - [capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM](https://capri.hexdocs.pm/)
+* [2026-08-19, 16:55:49](https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool) - [Plain Text Accounting is Pretty Cool](https://sumnerevans.com/posts/money/plain-text-accounting/)
 * [2026-08-19, 16:32:36](https://lobste.rs/s/lxo74i/introducing_microlighter) - [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
 * [2026-08-19, 15:54:25](https://lobste.rs/s/qmx2sh/extreme_programming_gentle) - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
 * [2026-08-19, 15:18:20](https://lobste.rs/s/vt7qpp/opinions_about_compiler_building) - [Opinions About Compiler Building](https://programmingsimplicity.substack.com/p/opinions-about-compiler-building)
@@ -24,7 +25,6 @@
 * [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
 * [2026-08-18, 11:42:04](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
-* [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 
 ## [Archives](archives/index.md)
 
