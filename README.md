@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-19, 22:10:12](https://lobste.rs/s/7v1wvd/reclaim_terminal) - [Reclaim the terminal](https://nishantjosh.dev/blogs/reclaim-the-terminal/)
+* [2026-08-19, 22:05:09](https://lobste.rs/s/ppvyr1/packing_malware_rosetta_2) - [Packing Malware in Rosetta 2](https://kernelkennel.com/blog/summercon2026-rosetta/)
 * [2026-08-19, 20:59:50](https://lobste.rs/s/hdef54/easy_use_entity_component_system_ecs) - [Easy to use Entity Component System (ECS) crafted with Odin](https://github.com/helioscout/moecs)
 * [2026-08-19, 20:28:07](https://lobste.rs/s/wvwqro/sing_song_speakable_encoding_for_long) - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/)
 * [2026-08-19, 18:23:56](https://lobste.rs/s/vpmzvx/ploopy_external_trackball) - [Ploopy A+ (external trackball)](https://blog.ploopy.co/the-aplus-is-finally-here-499)
@@ -15,7 +16,6 @@
 * [2026-08-19, 10:55:29](https://lobste.rs/s/5gcd3t/html_can_do) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-19, 09:34:14](https://lobste.rs/s/dajsxn/solo_so_loader_for_static_linux_binaries) - [Solo: a .so loader for static Linux binaries](https://github.com/pg83/solo)
 * [2026-08-19, 07:29:33](https://lobste.rs/s/xftgtd/filename_when_none_exists) - [a filename when none exists](https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/)
-* [2026-08-19, 06:42:07](https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024) - [Fargate Is Not Firecracker (2024)](https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/)
 * [2026-08-19, 06:20:33](https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
 * [2026-08-19, 05:25:07](https://lobste.rs/s/l5rmvg/designing_icons_graphics_for_original) - [Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
