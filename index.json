@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-08-19, 06:42:07",
+      "https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024"
+    ],
+    [
+      "Fargate Is Not Firecracker (2024)",
+      "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 06:27:30",
       "https://lobste.rs/s/rjxezi/palomar_registry_lean_verified"
     ],
@@ -137,16 +147,6 @@
     [
       "Odin's New Inline Assembly Templates",
       "https://odin-lang.org/docs/inline-asm/"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 18:39:06",
-      "https://lobste.rs/s/omsqyf/experiment_reducing_target_directory"
-    ],
-    [
-      "Experiment in reducing target directory size on nightly",
-      "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/"
     ]
   ],
   [
