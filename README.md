@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-19, 13:01:00](https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages) - [Why I still hand write my commit messages](https://www.jvt.me/posts/2026/08/17/hand-write-commits/)
+* [2026-08-19, 12:43:32](https://lobste.rs/s/rdcyoc/aiki_alpha_2_released) - [Aiki Alpha 2 Released](https://decuser.github.io/posts/aiki-alpha-2-release/)
 * [2026-08-19, 10:55:29](https://lobste.rs/s/5gcd3t/html_can_do) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-19, 10:16:54](https://lobste.rs/s/9oy4ao/liquid_types_as_behavioural_sandbox_for) - [Liquid Types as a behavioural sandbox for agents](https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/)
 * [2026-08-19, 09:34:14](https://lobste.rs/s/dajsxn/solo_so_loader_for_static_linux_binaries) - [Solo: a .so loader for static Linux binaries](https://github.com/pg83/solo)
 * [2026-08-19, 07:29:33](https://lobste.rs/s/xftgtd/filename_when_none_exists) - [a filename when none exists](https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/)
 * [2026-08-19, 06:42:07](https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024) - [Fargate Is Not Firecracker (2024)](https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/)
-* [2026-08-19, 06:27:30](https://lobste.rs/s/rjxezi/palomar_registry_lean_verified) - [Palomar – a registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 * [2026-08-19, 06:20:33](https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
 * [2026-08-19, 05:25:07](https://lobste.rs/s/l5rmvg/susan_kare_designing_icons_graphics_for) - [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
@@ -24,7 +25,6 @@
 * [2026-08-18, 11:42:04](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-17, 21:46:01](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-* [2026-08-17, 17:12:44](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 
 ## [Archives](archives/index.md)
 
