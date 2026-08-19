@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-19, 18:23:56](https://lobste.rs/s/vpmzvx/ploopy_external_trackball) - [Ploopy A+ (external trackball)](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 * [2026-08-19, 18:15:04](https://lobste.rs/s/q0wkpe/go_1_27_release_notes) - [Go 1.27 Release Notes](https://go.dev/doc/go1.27)
 * [2026-08-19, 17:53:45](https://lobste.rs/s/smrw3n/go_1_27_is_released_go_programming) - [Go 1.27 is released - The Go Programming Language](https://go.dev/blog/go1.27)
 * [2026-08-19, 17:07:12](https://lobste.rs/s/3tbpsd/capri_type_safe_atomic_gleam_bindings_for) - [capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM](https://capri.hexdocs.pm/)
@@ -22,7 +23,6 @@
 * [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:07:47](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework) - [Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
 * [2026-08-18, 14:31:11](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026) - [What software do you use daily in 2026?](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026)
-* [2026-08-18, 13:30:46](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox) - [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 
