@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-19, 17:53:45](https://lobste.rs/s/smrw3n/go_1_27_is_released_go_programming) - [Go 1.27 is released - The Go Programming Language](https://go.dev/blog/go1.27)
 * [2026-08-19, 17:07:12](https://lobste.rs/s/3tbpsd/capri_type_safe_atomic_gleam_bindings_for) - [capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM](https://capri.hexdocs.pm/)
 * [2026-08-19, 16:55:49](https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool) - [Plain Text Accounting is Pretty Cool](https://sumnerevans.com/posts/money/plain-text-accounting/)
 * [2026-08-19, 16:32:36](https://lobste.rs/s/lxo74i/introducing_microlighter) - [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
@@ -23,7 +24,6 @@
 * [2026-08-18, 14:31:11](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026) - [What software do you use daily in 2026?](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026)
 * [2026-08-18, 13:30:46](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox) - [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
-* [2026-08-18, 11:42:04](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 08:34:54](https://lobste.rs/s/ykq7ym/rethinking_database_programming) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 
 ## [Archives](archives/index.md)

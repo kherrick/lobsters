@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 17:53:45](https://lobste.rs/s/smrw3n/go_1_27_is_released_go_programming) - [Go 1.27 is released - The Go Programming Language](https://go.dev/blog/go1.27)
 * [2026-08-19, 17:07:12](https://lobste.rs/s/3tbpsd/capri_type_safe_atomic_gleam_bindings_for) - [capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM](https://capri.hexdocs.pm/)
 * [2026-08-19, 16:55:49](https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool) - [Plain Text Accounting is Pretty Cool](https://sumnerevans.com/posts/money/plain-text-accounting/)
 * [2026-08-19, 16:32:36](https://lobste.rs/s/lxo74i/introducing_microlighter) - [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
