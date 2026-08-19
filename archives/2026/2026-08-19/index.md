@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 07:29:33](https://lobste.rs/s/xftgtd/filename_when_none_exists) - [a filename when none exists](https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/)
 * [2026-08-19, 06:42:07](https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024) - [Fargate Is Not Firecracker (2024)](https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/)
 * [2026-08-19, 06:27:30](https://lobste.rs/s/rjxezi/palomar_registry_lean_verified) - [Palomar – a registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 * [2026-08-19, 06:20:33](https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
