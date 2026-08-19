@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-19, 20:59:50",
+      "https://lobste.rs/s/hdef54/easy_use_entity_component_system_ecs"
+    ],
+    [
+      "Easy to use Entity Component System (ECS) crafted with Odin",
+      "https://github.com/helioscout/moecs"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 20:28:07",
       "https://lobste.rs/s/wvwqro/sing_song_speakable_encoding_for_long"
     ],
@@ -237,16 +247,6 @@
     [
       "How I browse the Web with uBlock (Hard Mode)",
       "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 08:34:54",
-      "https://lobste.rs/s/ykq7ym/rethinking_database_programming"
-    ],
-    [
-      "Rethinking Database Programming",
-      "https://acadia.engineering/blog/rethinking-database-programming"
     ]
   ]
 ]
