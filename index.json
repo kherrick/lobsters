@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-08-20, 15:31:17",
+      "https://lobste.rs/s/mxnn9v/double_double_31_digits_precision"
+    ],
+    [
+      "Double-double: 31 digits of precision without leaving the FPU",
+      "https://marekfiser.com/blog/double-double-arithmetic"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 15:24:43",
       "https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh"
     ],
@@ -197,16 +207,6 @@
     [
       "Plain Text Accounting is Pretty Cool",
       "https://sumnerevans.com/posts/money/plain-text-accounting/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 16:32:36",
-      "https://lobste.rs/s/lxo74i/introducing_microlighter"
-    ],
-    [
-      "Introducing Microlighter",
-      "https://daverupert.com/2026/08/microlighter/"
     ]
   ],
   [
