@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 22:18:54](https://lobste.rs/s/ygsics/decoding_magic_school_lunar_s_save_game) - [Decoding Magic School Lunar's Save Game Format](http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format)
 * [2026-08-20, 20:48:12](https://lobste.rs/s/yigyaq/zero_knowledge_proofs_aren_t_age) - [Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets](https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets)
 * [2026-08-20, 17:22:35](https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped) - [Everyone Says Assembly Is Untyped—Everyone Is Wrong - gingerBill](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-20, 16:58:11](https://lobste.rs/s/ikhwaz/emacs_31_1_will_release_on_8_24) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246)
