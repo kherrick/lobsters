@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-20, 17:22:35](https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped) - [Everyone Says Assembly Is Untyped—Everyone Is Wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
-* [2026-08-20, 16:58:11](https://lobste.rs/s/ikhwaz/emacs_31_1_will_release_on_8_24) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246)
 * [2026-08-20, 16:11:49](https://lobste.rs/s/ikeag0/personal_computer_for_children_all) - [A Personal Computer For Children Of All Cultures (2019)](https://www.deconstructconf.com/2019/ramsey-nasser-a-personal-computer-for-children-of-all-cultures)
+* [2026-08-20, 15:31:17](https://lobste.rs/s/mxnn9v/double_double_31_digits_precision) - [Double-double: 31 digits of precision without leaving the FPU](https://marekfiser.com/blog/double-double-arithmetic)
 * [2026-08-20, 15:24:43](https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://www.ethanheilman.com/x/33/index.html)
 * [2026-08-20, 14:37:52](https://lobste.rs/s/eesu8d/bun_1_4) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
 * [2026-08-20, 14:35:27](https://lobste.rs/s/8cq6jl/going_freestanding) - [Going freestanding](https://antonz.org/going-freestanding/)
