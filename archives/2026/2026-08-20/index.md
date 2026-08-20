@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 15:31:17](https://lobste.rs/s/mxnn9v/double_double_31_digits_precision) - [Double-double: 31 digits of precision without leaving the FPU](https://marekfiser.com/blog/double-double-arithmetic)
+* [2026-08-20, 15:24:43](https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://www.ethanheilman.com/x/33/index.html)
 * [2026-08-20, 14:43:45](https://lobste.rs/s/fsd1mf/idea_processor_what_is_use_case) - [The Idea Processor, or “What is the use case?”](https://forum.malleable.systems/t/the-idea-processor-or-what-is-the-use-case/357)
+* [2026-08-20, 14:37:52](https://lobste.rs/s/eesu8d/bun_1_4) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
 * [2026-08-20, 14:35:27](https://lobste.rs/s/8cq6jl/going_freestanding) - [Going freestanding](https://antonz.org/going-freestanding/)
 * [2026-08-20, 14:34:50](https://lobste.rs/s/0rggrb/opus_is_minimal_statically_scoped_lisp) - [Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)](https://github.com/yaoshiu/opus)
 * [2026-08-20, 13:32:05](https://lobste.rs/s/exrno8/x_org_server_26_1_rc1_prepares_for_first) - [X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years - Phoronix](https://www.phoronix.com/news/X.Org-Server-26.1-RC1)
