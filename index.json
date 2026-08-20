@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-20, 13:32:05",
+      "https://lobste.rs/s/exrno8/x_org_server_26_1_rc1_prepares_for_first"
+    ],
+    [
+      "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years - Phoronix",
+      "https://www.phoronix.com/news/X.Org-Server-26.1-RC1"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 13:03:09",
+      "https://lobste.rs/s/q8whub/20x_ci_traffic_without_getting_slower_how"
+    ],
+    [
+      "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
+      "https://www.datadoghq.com/blog/engineering/gitretriever/"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 12:57:51",
       "https://lobste.rs/s/b0olmy/aliexpress_keeps_multipoint_bluetooth"
     ],
@@ -11,32 +31,22 @@
   ],
   [
     [
-      "2026-08-20, 12:45:37",
-      "https://lobste.rs/s/mlishw/nasa_s_system_modeling_language_fpp"
-    ],
-    [
-      "NASA's System Modeling Language, FPP",
-      "https://ieeexplore.ieee.org/document/9843754"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 12:39:27",
-      "https://lobste.rs/s/otifxs/ai_didn_t_erase_junior_s_value_it_increased"
-    ],
-    [
-      "AI didn't erase the junior's value. It increased it",
-      "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 12:32:22",
       "https://lobste.rs/s/vcqcgl/why_compiling_rust_webassembly_is_slow"
     ],
     [
       "Why compiling Rust to WebAssembly is slow",
       "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 12:21:41",
+      "https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into"
+    ],
+    [
+      "How a joke domain purchase turned into geopolitical warfare",
+      "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
     ]
   ],
   [
@@ -52,11 +62,11 @@
   [
     [
       "2026-08-20, 09:54:06",
-      "https://lobste.rs/s/dns8du/rust_supply_chain_attack_arrayref_0_3_10"
+      "https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref"
     ],
     [
-      "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
-      "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack"
+      "Supply chain attack on arrayref",
+      "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "What Zig felt like, coming from Rust",
       "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 06:40:47",
-      "https://lobste.rs/s/fboohk/parsing_ip_addresses_c_at_crazy_speeds"
-    ],
-    [
-      "Parsing IP addresses in C# at crazy speeds",
-      "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/"
     ]
   ],
   [
