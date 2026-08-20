@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-08-20, 14:43:45",
-      "https://lobste.rs/s/fsd1mf/idea_processor_what_is_use_case"
+      "2026-08-20, 15:31:17",
+      "https://lobste.rs/s/mxnn9v/double_double_31_digits_precision"
     ],
     [
-      "The Idea Processor, or “What is the use case?”",
-      "https://forum.malleable.systems/t/the-idea-processor-or-what-is-the-use-case/357"
+      "Double-double: 31 digits of precision without leaving the FPU",
+      "https://marekfiser.com/blog/double-double-arithmetic"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 15:24:43",
+      "https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh"
+    ],
+    [
+      "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+      "https://www.ethanheilman.com/x/33/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 14:37:52",
+      "https://lobste.rs/s/eesu8d/bun_1_4"
+    ],
+    [
+      "Bun 1.4",
+      "https://bun.com/blog/bun-v1.4"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://lobste.rs/s/exrno8/x_org_server_26_1_rc1_prepares_for_first"
     ],
     [
-      "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years - Phoronix",
+      "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
       "https://www.phoronix.com/news/X.Org-Server-26.1-RC1"
     ]
   ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-08-19, 09:34:14",
-      "https://lobste.rs/s/dajsxn/solo_so_loader_for_static_linux_binaries"
-    ],
-    [
-      "Solo: a .so loader for static Linux binaries",
-      "https://github.com/pg83/solo"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 06:20:33",
       "https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good"
     ],
     [
       "Bun 1.4 Rust rewrite is not looking good",
       "https://tipiirai.com/writing/bun-rust-rewrite-worries"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 00:03:41",
-      "https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation"
-    ],
-    [
-      "Mastodon 5.0: Laying the foundation",
-      "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/"
     ]
   ]
 ]
