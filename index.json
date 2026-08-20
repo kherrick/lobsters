@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-20, 22:18:54",
+      "https://lobste.rs/s/ygsics/decoding_magic_school_lunar_s_save_game"
+    ],
+    [
+      "Decoding Magic School Lunar's Save Game Format",
+      "http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 20:48:12",
       "https://lobste.rs/s/yigyaq/zero_knowledge_proofs_aren_t_age"
     ],
@@ -17,6 +27,16 @@
     [
       "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
       "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 16:58:11",
+      "https://lobste.rs/s/ikhwaz/emacs_31_1_will_release_on_8_24"
+    ],
+    [
+      "Emacs 31.1 will release on 8/24",
+      "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-08-19, 18:23:56",
-      "https://lobste.rs/s/vpmzvx/ploopy_external_trackball"
-    ],
-    [
-      "Ploopy A+ (external trackball)",
-      "https://blog.ploopy.co/the-aplus-is-finally-here-499"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 17:53:45",
       "https://lobste.rs/s/smrw3n/go_1_27_is_released"
     ],
@@ -207,16 +217,6 @@
     [
       "Plain Text Accounting is Pretty Cool",
       "https://sumnerevans.com/posts/money/plain-text-accounting/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 15:17:39",
-      "https://lobste.rs/s/gmherj/sqlite_for_everything"
-    ],
-    [
-      "SQLite for Everything",
-      "https://joecode.com/2026-08-19-sqlite3/"
     ]
   ],
   [
