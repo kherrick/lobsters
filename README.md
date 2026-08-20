@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-20, 17:22:35](https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped) - [Everyone Says Assembly Is Untyped—Everyone Is Wrong - gingerBill](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-20, 16:11:49](https://lobste.rs/s/ikeag0/personal_computer_for_children_all) - [A Personal Computer For Children Of All Cultures](https://www.deconstructconf.com/2019/ramsey-nasser-a-personal-computer-for-children-of-all-cultures)
 * [2026-08-20, 15:31:17](https://lobste.rs/s/mxnn9v/double_double_31_digits_precision) - [Double-double: 31 digits of precision without leaving the FPU](https://marekfiser.com/blog/double-double-arithmetic)
 * [2026-08-20, 15:24:43](https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://www.ethanheilman.com/x/33/index.html)
 * [2026-08-20, 14:37:52](https://lobste.rs/s/eesu8d/bun_1_4) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
-* [2026-08-20, 14:35:27](https://lobste.rs/s/8cq6jl/going_freestanding) - [Going freestanding](https://antonz.org/going-freestanding/)
 * [2026-08-20, 14:34:50](https://lobste.rs/s/0rggrb/opus_is_minimal_statically_scoped_lisp) - [Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)](https://github.com/yaoshiu/opus)
 * [2026-08-20, 13:32:05](https://lobste.rs/s/exrno8/x_org_server_26_1_rc1_prepares_for_first) - [X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years](https://www.phoronix.com/news/X.Org-Server-26.1-RC1)
 * [2026-08-20, 12:57:51](https://lobste.rs/s/b0olmy/aliexpress_keeps_multipoint_bluetooth) - [AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
