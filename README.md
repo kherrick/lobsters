@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-20, 10:49:58](https://lobste.rs/s/8mjvrb/pitfalls_benchmarking_on_modern_systems) - [Pitfalls of Benchmarking on Modern Systems](https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/)
 * [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/rust_supply_chain_attack_arrayref_0_3_10) - [Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat](https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack)
 * [2026-08-20, 09:02:49](https://lobste.rs/s/ope7za/reverse_engineering_find_my_people_stalk) - [Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can](https://zerotistic.blog/posts/find-my-people-linux/)
 * [2026-08-20, 07:53:17](https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
@@ -24,7 +25,6 @@
 * [2026-08-19, 06:20:33](https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-19, 00:03:41](https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation) - [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
-* [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
 
 ## [Archives](archives/index.md)
 
