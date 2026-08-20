@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-20, 06:40:47](https://lobste.rs/s/fboohk/parsing_ip_addresses_c_at_crazy_speeds) - [Parsing IP addresses in C# at crazy speeds](https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/)
+* [2026-08-20, 05:24:48](https://lobste.rs/s/psxjb4/understanding_limitations_pubsub) - [Understanding the limitations of Pubsub systems](https://dl.acm.org/doi/pdf/10.1145/3713082.3730397)
 * [2026-08-20, 05:00:50](https://lobste.rs/s/d52jy6/poisoned_postgres_connection_pools) - [Poisoned Postgres connection pools](https://planetscale.com/blog/postgres-poisoned-connection-pools)
 * [2026-08-20, 04:52:18](https://lobste.rs/s/ixxtwz/goroutines_101_basic_walkthrough) - [Goroutines 101: A basic walkthrough](https://func25.dev/posts/go-goroutines-basics/)
 * [2026-08-19, 22:10:12](https://lobste.rs/s/7v1wvd/reclaim_terminal) - [Reclaim the terminal](https://nishantjosh.dev/blogs/reclaim-the-terminal/)
@@ -13,7 +14,6 @@
 * [2026-08-19, 16:55:49](https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool) - [Plain Text Accounting is Pretty Cool](https://sumnerevans.com/posts/money/plain-text-accounting/)
 * [2026-08-19, 16:32:36](https://lobste.rs/s/lxo74i/introducing_microlighter) - [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
 * [2026-08-19, 15:54:25](https://lobste.rs/s/qmx2sh/extreme_programming_gentle) - [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/)
-* [2026-08-19, 15:18:20](https://lobste.rs/s/vt7qpp/opinions_about_compiler_building) - [Opinions About Compiler Building](https://programmingsimplicity.substack.com/p/opinions-about-compiler-building)
 * [2026-08-19, 15:17:39](https://lobste.rs/s/gmherj/sqlite_for_everything) - [SQLite for Everything](https://joecode.com/2026-08-19-sqlite3/)
 * [2026-08-19, 13:01:00](https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages) - [Why I still hand write my commit messages](https://www.jvt.me/posts/2026/08/17/hand-write-commits/)
 * [2026-08-19, 10:55:29](https://lobste.rs/s/5gcd3t/html_can_do) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
