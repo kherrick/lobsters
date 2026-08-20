@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 13:32:05](https://lobste.rs/s/exrno8/x_org_server_26_1_rc1_prepares_for_first) - [X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years - Phoronix](https://www.phoronix.com/news/X.Org-Server-26.1-RC1)
+* [2026-08-20, 13:03:09](https://lobste.rs/s/q8whub/20x_ci_traffic_without_getting_slower_how) - [20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog](https://www.datadoghq.com/blog/engineering/gitretriever/)
 * [2026-08-20, 12:57:51](https://lobste.rs/s/b0olmy/aliexpress_keeps_multipoint_bluetooth) - [AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 12:45:37](https://lobste.rs/s/mlishw/nasa_s_system_modeling_language_fpp) - [NASA's System Modeling Language, FPP](https://ieeexplore.ieee.org/document/9843754)
 * [2026-08-20, 12:39:27](https://lobste.rs/s/otifxs/ai_didn_t_erase_junior_s_value_it_increased) - [AI didn't erase the junior's value. It increased it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 * [2026-08-20, 12:32:22](https://lobste.rs/s/vcqcgl/why_compiling_rust_webassembly_is_slow) - [Why compiling Rust to WebAssembly is slow](https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/)
+* [2026-08-20, 12:21:41](https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into) - [How a joke domain purchase turned into geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 * [2026-08-20, 11:53:16](https://lobste.rs/s/xgxp9m/if_this_is_true_hyperscalers_are_toast) - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
 * [2026-08-20, 10:49:58](https://lobste.rs/s/8mjvrb/pitfalls_benchmarking_on_modern_systems) - [Pitfalls of Benchmarking on Modern Systems](https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/)
+* [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref) - [Supply chain attack on arrayref](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/)
 * [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/rust_supply_chain_attack_arrayref_0_3_10) - [Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat](https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack)
 * [2026-08-20, 09:02:49](https://lobste.rs/s/ope7za/reverse_engineering_find_my_people_stalk) - [Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can](https://zerotistic.blog/posts/find-my-people-linux/)
 * [2026-08-20, 07:53:17](https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
