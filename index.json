@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-20, 16:11:49",
+      "https://lobste.rs/s/ikeag0/personal_computer_for_children_all"
+    ],
+    [
+      "A Personal Computer For Children Of All Cultures",
+      "https://www.deconstructconf.com/2019/ramsey-nasser-a-personal-computer-for-children-of-all-cultures"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 15:31:17",
       "https://lobste.rs/s/mxnn9v/double_double_31_digits_precision"
     ],
@@ -57,16 +67,6 @@
     [
       "X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years",
       "https://www.phoronix.com/news/X.Org-Server-26.1-RC1"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 13:03:09",
-      "https://lobste.rs/s/q8whub/20x_ci_traffic_without_getting_slower_how"
-    ],
-    [
-      "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
-      "https://www.datadoghq.com/blog/engineering/gitretriever/"
     ]
   ],
   [
