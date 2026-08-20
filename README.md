@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-20, 09:02:49](https://lobste.rs/s/ope7za/reverse_engineering_find_my_people_stalk) - [Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can](https://zerotistic.blog/posts/find-my-people-linux/)
+* [2026-08-20, 07:53:17](https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 * [2026-08-20, 06:40:47](https://lobste.rs/s/fboohk/parsing_ip_addresses_c_at_crazy_speeds) - [Parsing IP addresses in C# at crazy speeds](https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/)
 * [2026-08-20, 05:24:48](https://lobste.rs/s/psxjb4/understanding_limitations_pubsub) - [Understanding the limitations of Pubsub systems](https://dl.acm.org/doi/pdf/10.1145/3713082.3730397)
-* [2026-08-20, 05:00:50](https://lobste.rs/s/d52jy6/poisoned_postgres_connection_pools) - [Poisoned Postgres connection pools](https://planetscale.com/blog/postgres-poisoned-connection-pools)
 * [2026-08-20, 04:52:18](https://lobste.rs/s/ixxtwz/goroutines_101_basic_walkthrough) - [Goroutines 101: A basic walkthrough](https://func25.dev/posts/go-goroutines-basics/)
 * [2026-08-19, 22:10:12](https://lobste.rs/s/7v1wvd/reclaim_terminal) - [Reclaim the terminal](https://nishantjosh.dev/blogs/reclaim-the-terminal/)
 * [2026-08-19, 22:05:09](https://lobste.rs/s/ppvyr1/packing_malware_rosetta_2) - [Packing Malware in Rosetta 2](https://kernelkennel.com/blog/summercon2026-rosetta/)
@@ -23,7 +24,6 @@
 * [2026-08-19, 04:44:39](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-19, 00:03:41](https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation) - [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
 * [2026-08-18, 16:34:21](https://lobste.rs/s/01lxuf/mojo_is_now_open_source) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
-* [2026-08-18, 14:31:11](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026) - [What software do you use daily in 2026?](https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026)
 * [2026-08-18, 12:30:18](https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode) - [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
 
 ## [Archives](archives/index.md)
