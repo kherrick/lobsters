@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-21, 06:44:53",
+      "https://lobste.rs/s/khphqe/bringing_primary_constructors_dart"
+    ],
+    [
+      "Bringing Primary Constructors to Dart",
+      "https://dart.dev/blog/bringing-primary-constructors-to-dart"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 05:14:08",
       "https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde"
     ],
@@ -67,6 +77,16 @@
     [
       "Emacs 31.1 will release on 8/24",
       "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 16:11:49",
+      "https://lobste.rs/s/ikeag0/personal_computer_for_children_all"
+    ],
+    [
+      "A Personal Computer For Children Of All Cultures (2019)",
+      "https://www.deconstructconf.com/2019/ramsey-nasser-a-personal-computer-for-children-of-all-cultures"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-08-19, 17:53:45",
-      "https://lobste.rs/s/smrw3n/go_1_27_is_released"
-    ],
-    [
-      "Go 1.27 is released",
-      "https://go.dev/blog/go1.27"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 16:55:49",
       "https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool"
     ],
     [
       "Plain Text Accounting is Pretty Cool",
       "https://sumnerevans.com/posts/money/plain-text-accounting/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 13:01:00",
-      "https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages"
-    ],
-    [
-      "Why I still hand write my commit messages",
-      "https://www.jvt.me/posts/2026/08/17/hand-write-commits/"
     ]
   ],
   [
