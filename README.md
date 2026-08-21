@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-21, 20:24:46](https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus) - [Homebrew 68K Machine Has A PCI Bus](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/)
 * [2026-08-21, 17:23:02](https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime) - [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)
 * [2026-08-21, 16:15:41](https://lobste.rs/s/ry92nr/unfortunately_you_sometimes_need_do) - [Unfortunately you sometimes need to do the thing](https://griffinberlste.in/blog/do-the-thing/)
 * [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
@@ -24,7 +25,6 @@
 * [2026-08-20, 12:57:51](https://lobste.rs/s/b0olmy/aliexpress_keeps_multipoint_bluetooth) - [AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 12:21:41](https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into) - [How a joke domain purchase turned into geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 * [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref) - [Supply chain attack on arrayref](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/)
-* [2026-08-20, 07:53:17](https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 
 ## [Archives](archives/index.md)
 
