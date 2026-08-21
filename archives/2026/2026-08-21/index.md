@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 18:32:43](https://lobste.rs/s/5ddcd1/war_is_not_god_neither_is_ai) - [War is not god, neither is AI](https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/)
 * [2026-08-21, 17:23:02](https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime) - [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)
 * [2026-08-21, 16:15:41](https://lobste.rs/s/ry92nr/unfortunately_you_sometimes_need_do) - [Unfortunately you sometimes need to do the thing](https://griffinberlste.in/blog/do-the-thing/)
 * [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly | Rust Blog](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
