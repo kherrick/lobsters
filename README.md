@@ -20,9 +20,9 @@
 * [2026-08-20, 16:58:11](https://lobste.rs/s/ikhwaz/emacs_31_1_will_release_on_8_24) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246)
 * [2026-08-20, 15:24:43](https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://www.ethanheilman.com/x/33/index.html)
 * [2026-08-20, 14:37:52](https://lobste.rs/s/eesu8d/bun_1_4) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
+* [2026-08-20, 14:34:50](https://lobste.rs/s/0rggrb/opus_is_minimal_statically_scoped_lisp) - [Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)](https://github.com/yaoshiu/opus)
 * [2026-08-20, 12:57:51](https://lobste.rs/s/b0olmy/aliexpress_keeps_multipoint_bluetooth) - [AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 12:21:41](https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into) - [How a joke domain purchase turned into geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
-* [2026-08-20, 11:53:16](https://lobste.rs/s/xgxp9m/if_this_is_true_hyperscalers_are_toast) - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
 * [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref) - [Supply chain attack on arrayref](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/)
 * [2026-08-20, 07:53:17](https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 
