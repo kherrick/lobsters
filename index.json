@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-21, 13:11:08",
+      "https://lobste.rs/s/chhsuf/data_races_memory_model_go"
+    ],
+    [
+      "Data races and the memory model in Go",
+      "https://func25.dev/posts/go-memory-visibility/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 12:47:30",
       "https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Reclaim the terminal",
       "https://nishantjosh.dev/blogs/reclaim-the-terminal/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 16:55:49",
-      "https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool"
-    ],
-    [
-      "Plain Text Accounting is Pretty Cool",
-      "https://sumnerevans.com/posts/money/plain-text-accounting/"
     ]
   ],
   [
