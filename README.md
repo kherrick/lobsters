@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly | Rust Blog](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
 * [2026-08-21, 14:32:54](https://lobste.rs/s/5mlinc/small_native_web_tricks_worth) - [Small, native web tricks worth remembering](https://htmlcat.net)
 * [2026-08-21, 14:29:38](https://lobste.rs/s/am0xtj/rust_glancer_alternative_lsp_for_rust) - [rust-glancer: An alternative LSP for Rust with focus on low memory usage](https://rust-glancer.github.io/blog/hello-world/)
 * [2026-08-21, 13:11:08](https://lobste.rs/s/chhsuf/data_races_memory_model_go) - [Data races and the memory model in Go](https://func25.dev/posts/go-memory-visibility/)
@@ -19,7 +20,6 @@
 * [2026-08-20, 16:58:11](https://lobste.rs/s/ikhwaz/emacs_31_1_will_release_on_8_24) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246)
 * [2026-08-20, 15:24:43](https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://www.ethanheilman.com/x/33/index.html)
 * [2026-08-20, 14:37:52](https://lobste.rs/s/eesu8d/bun_1_4) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
-* [2026-08-20, 14:34:50](https://lobste.rs/s/0rggrb/opus_is_minimal_statically_scoped_lisp) - [Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)](https://github.com/yaoshiu/opus)
 * [2026-08-20, 12:57:51](https://lobste.rs/s/b0olmy/aliexpress_keeps_multipoint_bluetooth) - [AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 12:21:41](https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into) - [How a joke domain purchase turned into geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 * [2026-08-20, 11:53:16](https://lobste.rs/s/xgxp9m/if_this_is_true_hyperscalers_are_toast) - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)

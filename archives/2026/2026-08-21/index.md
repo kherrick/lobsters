@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly | Rust Blog](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
 * [2026-08-21, 14:32:54](https://lobste.rs/s/5mlinc/small_native_web_tricks_worth) - [Small, native web tricks worth remembering](https://htmlcat.net)
 * [2026-08-21, 14:29:38](https://lobste.rs/s/am0xtj/rust_glancer_alternative_lsp_for_rust) - [rust-glancer: An alternative LSP for Rust with focus on low memory usage](https://rust-glancer.github.io/blog/hello-world/)
 * [2026-08-21, 13:11:08](https://lobste.rs/s/chhsuf/data_races_memory_model_go) - [Data races and the memory model in Go](https://func25.dev/posts/go-memory-visibility/)
