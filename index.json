@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-21, 14:32:54",
+      "https://lobste.rs/s/5mlinc/small_native_web_tricks_worth"
+    ],
+    [
+      "Small, native web tricks worth remembering",
+      "https://htmlcat.net"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 14:29:38",
+      "https://lobste.rs/s/am0xtj/rust_glancer_alternative_lsp_for_rust"
+    ],
+    [
+      "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
+      "https://rust-glancer.github.io/blog/hello-world/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 13:11:08",
       "https://lobste.rs/s/chhsuf/data_races_memory_model_go"
     ],
@@ -37,6 +57,16 @@
     [
       "I accidentally logged hundreds of thousands of phone calls to military bases",
       "https://lina.sh/blog/hijacking-e164-arpa"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 12:03:04",
+      "https://lobste.rs/s/zcgvtz/music_theory_for_programmers"
+    ],
+    [
+      "Music theory for programmers",
+      "https://runjs.app/blog/music-theory-for-programmers"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-08-20, 12:32:22",
-      "https://lobste.rs/s/vcqcgl/why_compiling_rust_webassembly_is_slow"
-    ],
-    [
-      "Why compiling Rust to WebAssembly is slow",
-      "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 12:21:41",
       "https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into"
     ],
@@ -227,26 +247,6 @@
     [
       "What Zig felt like, coming from Rust",
       "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 22:10:12",
-      "https://lobste.rs/s/7v1wvd/reclaim_terminal"
-    ],
-    [
-      "Reclaim the terminal",
-      "https://nishantjosh.dev/blogs/reclaim-the-terminal/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 10:55:29",
-      "https://lobste.rs/s/5gcd3t/html_can_do"
-    ],
-    [
-      "HTML Can Do That",
-      "https://chrisburnell.com/html-can-do-that/"
     ]
   ]
 ]
