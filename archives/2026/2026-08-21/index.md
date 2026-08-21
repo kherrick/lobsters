@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 13:11:08](https://lobste.rs/s/chhsuf/data_races_memory_model_go) - [Data races and the memory model in Go](https://func25.dev/posts/go-memory-visibility/)
 * [2026-08-21, 12:47:30](https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for) - [Japan tried to build an operating system for the entire world, then the US government intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 * [2026-08-21, 12:08:34](https://lobste.rs/s/c9xng0/road_acid_transactions_cassandra_6) - [The road to ACID transactions in Cassandra 6](https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html)
 * [2026-08-21, 12:05:00](https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds) - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)

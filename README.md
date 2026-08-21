@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-21, 13:11:08](https://lobste.rs/s/chhsuf/data_races_memory_model_go) - [Data races and the memory model in Go](https://func25.dev/posts/go-memory-visibility/)
 * [2026-08-21, 12:47:30](https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for) - [Japan tried to build an operating system for the entire world, then the US government intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 * [2026-08-21, 12:08:34](https://lobste.rs/s/c9xng0/road_acid_transactions_cassandra_6) - [The road to ACID transactions in Cassandra 6](https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html)
 * [2026-08-21, 12:05:00](https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds) - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
@@ -23,7 +24,6 @@
 * [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref) - [Supply chain attack on arrayref](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/)
 * [2026-08-20, 07:53:17](https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 * [2026-08-19, 22:10:12](https://lobste.rs/s/7v1wvd/reclaim_terminal) - [Reclaim the terminal](https://nishantjosh.dev/blogs/reclaim-the-terminal/)
-* [2026-08-19, 16:55:49](https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool) - [Plain Text Accounting is Pretty Cool](https://sumnerevans.com/posts/money/plain-text-accounting/)
 * [2026-08-19, 10:55:29](https://lobste.rs/s/5gcd3t/html_can_do) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 
 ## [Archives](archives/index.md)
