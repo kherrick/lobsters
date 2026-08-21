@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-21, 06:44:53",
-      "https://lobste.rs/s/khphqe/bringing_primary_constructors_dart"
+      "2026-08-21, 07:47:50",
+      "https://lobste.rs/s/qxvz7f/better_batteries"
     ],
     [
-      "Bringing Primary Constructors to Dart",
-      "https://dart.dev/blog/bringing-primary-constructors-to-dart"
+      "Better Batteries",
+      "https://matklad.github.io/2026/08/20/better-batteries.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 07:16:33",
+      "https://lobste.rs/s/vvdveb/vibe_coding_personal_apps_mid_2026"
+    ],
+    [
+      "Vibe coding personal apps in mid-2026",
+      "https://www.flourish.org/2026/08/personal-apps/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Supply chain attack on arrayref",
       "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 09:02:49",
-      "https://lobste.rs/s/ope7za/reverse_engineering_find_my_people_stalk"
-    ],
-    [
-      "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",
-      "https://zerotistic.blog/posts/find-my-people-linux/"
     ]
   ],
   [
