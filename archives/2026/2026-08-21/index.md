@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-21](index.md)
+
+* [2026-08-21, 00:38:21](https://lobste.rs/s/hbjeir/announcing_rust_1_98_0) - [Announcing Rust 1.98.0](https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/)

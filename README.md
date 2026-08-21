@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-21, 00:38:21](https://lobste.rs/s/hbjeir/announcing_rust_1_98_0) - [Announcing Rust 1.98.0](https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/)
 * [2026-08-20, 22:18:54](https://lobste.rs/s/ygsics/decoding_magic_school_lunar_s_save_game) - [Decoding Magic School Lunar's Save Game Format](http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format)
 * [2026-08-20, 20:48:12](https://lobste.rs/s/yigyaq/zero_knowledge_proofs_aren_t_age) - [Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets](https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets)
 * [2026-08-20, 17:22:35](https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped) - [Everyone Says Assembly Is Untyped—Everyone Is Wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
@@ -19,7 +20,6 @@
 * [2026-08-20, 05:24:48](https://lobste.rs/s/psxjb4/understanding_limitations_pubsub) - [Understanding the limitations of Pubsub systems](https://dl.acm.org/doi/pdf/10.1145/3713082.3730397)
 * [2026-08-19, 22:10:12](https://lobste.rs/s/7v1wvd/reclaim_terminal) - [Reclaim the terminal](https://nishantjosh.dev/blogs/reclaim-the-terminal/)
 * [2026-08-19, 20:28:07](https://lobste.rs/s/wvwqro/sing_song_speakable_encoding_for_long) - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/)
-* [2026-08-19, 18:23:56](https://lobste.rs/s/vpmzvx/ploopy_external_trackball) - [Ploopy A+ (external trackball)](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 * [2026-08-19, 17:53:45](https://lobste.rs/s/smrw3n/go_1_27_is_released) - [Go 1.27 is released](https://go.dev/blog/go1.27)
 * [2026-08-19, 16:55:49](https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool) - [Plain Text Accounting is Pretty Cool](https://sumnerevans.com/posts/money/plain-text-accounting/)
 * [2026-08-19, 13:01:00](https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages) - [Why I still hand write my commit messages](https://www.jvt.me/posts/2026/08/17/hand-write-commits/)
