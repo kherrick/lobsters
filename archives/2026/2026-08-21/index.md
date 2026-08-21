@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 10:37:21](https://lobste.rs/s/dxjbaj/bazzite_deck_44_launches_today) - [Bazzite Deck 44 Launches Today](https://universal-blue.discourse.group/t/bazzites-biggest-update-deck-44-has-launched-happy-birthday-to-universal-blue/12373)
 * [2026-08-21, 07:47:50](https://lobste.rs/s/qxvz7f/better_batteries) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
 * [2026-08-21, 07:16:33](https://lobste.rs/s/vvdveb/vibe_coding_personal_apps_mid_2026) - [Vibe coding personal apps in mid-2026](https://www.flourish.org/2026/08/personal-apps/)
 * [2026-08-21, 06:44:53](https://lobste.rs/s/khphqe/bringing_primary_constructors_dart) - [Bringing Primary Constructors to Dart](https://dart.dev/blog/bringing-primary-constructors-to-dart)
