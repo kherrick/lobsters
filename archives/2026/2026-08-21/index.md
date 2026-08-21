@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 17:23:02](https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime) - [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)
+* [2026-08-21, 16:15:41](https://lobste.rs/s/ry92nr/unfortunately_you_sometimes_need_do) - [Unfortunately you sometimes need to do the thing](https://griffinberlste.in/blog/do-the-thing/)
 * [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly | Rust Blog](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
 * [2026-08-21, 14:32:54](https://lobste.rs/s/5mlinc/small_native_web_tricks_worth) - [Small, native web tricks worth remembering](https://htmlcat.net)
 * [2026-08-21, 14:29:38](https://lobste.rs/s/am0xtj/rust_glancer_alternative_lsp_for_rust) - [rust-glancer: An alternative LSP for Rust with focus on low memory usage](https://rust-glancer.github.io/blog/hello-world/)
