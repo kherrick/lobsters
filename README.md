@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-21, 11:47:03](https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend)
 * [2026-08-21, 10:37:21](https://lobste.rs/s/dxjbaj/bazzite_deck_44_launches_today) - [Bazzite Deck 44 Launches Today](https://universal-blue.discourse.group/t/bazzites-biggest-update-deck-44-has-launched-happy-birthday-to-universal-blue/12373)
 * [2026-08-21, 07:47:50](https://lobste.rs/s/qxvz7f/better_batteries) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
 * [2026-08-21, 07:16:33](https://lobste.rs/s/vvdveb/vibe_coding_personal_apps_mid_2026) - [Vibe coding personal apps in mid-2026](https://www.flourish.org/2026/08/personal-apps/)
@@ -22,7 +23,6 @@
 * [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref) - [Supply chain attack on arrayref](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/)
 * [2026-08-20, 07:53:17](https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 * [2026-08-19, 22:10:12](https://lobste.rs/s/7v1wvd/reclaim_terminal) - [Reclaim the terminal](https://nishantjosh.dev/blogs/reclaim-the-terminal/)
-* [2026-08-19, 20:28:07](https://lobste.rs/s/wvwqro/sing_song_speakable_encoding_for_long) - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/)
 * [2026-08-19, 16:55:49](https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool) - [Plain Text Accounting is Pretty Cool](https://sumnerevans.com/posts/money/plain-text-accounting/)
 * [2026-08-19, 10:55:29](https://lobste.rs/s/5gcd3t/html_can_do) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 
