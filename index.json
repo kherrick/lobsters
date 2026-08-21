@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-08-21, 12:32:51",
+      "https://lobste.rs/s/faggqv/atproto_spaces_alpha_is_live"
+    ],
+    [
+      "The Atproto Spaces Alpha is Live",
+      "https://atproto.com/blog/atproto-spaces-alpha"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 12:08:34",
       "https://lobste.rs/s/c9xng0/road_acid_transactions_cassandra_6"
     ],
@@ -197,16 +207,6 @@
     [
       "Bun 1.4",
       "https://bun.com/blog/bun-v1.4"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 14:34:50",
-      "https://lobste.rs/s/0rggrb/opus_is_minimal_statically_scoped_lisp"
-    ],
-    [
-      "Opus is a minimal, statically-scoped Lisp dialect based on the semantics of f-expressions (the Kernel language)",
-      "https://github.com/yaoshiu/opus"
     ]
   ],
   [
