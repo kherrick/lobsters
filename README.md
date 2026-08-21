@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-21, 02:42:17](https://lobste.rs/s/pfnai9/survival_guide_for_censored_internet) - [Survival Guide for a Censored Internet](https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/)
 * [2026-08-21, 00:38:21](https://lobste.rs/s/hbjeir/announcing_rust_1_98_0) - [Announcing Rust 1.98.0](https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/)
 * [2026-08-20, 22:18:54](https://lobste.rs/s/ygsics/decoding_magic_school_lunar_s_save_game) - [Decoding Magic School Lunar's Save Game Format](http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format)
 * [2026-08-20, 20:48:12](https://lobste.rs/s/yigyaq/zero_knowledge_proofs_aren_t_age) - [Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets](https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets)
@@ -17,7 +18,6 @@
 * [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref) - [Supply chain attack on arrayref](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/)
 * [2026-08-20, 09:02:49](https://lobste.rs/s/ope7za/reverse_engineering_find_my_people_stalk) - [Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can](https://zerotistic.blog/posts/find-my-people-linux/)
 * [2026-08-20, 07:53:17](https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
-* [2026-08-20, 05:24:48](https://lobste.rs/s/psxjb4/understanding_limitations_pubsub) - [Understanding the limitations of Pubsub systems](https://dl.acm.org/doi/pdf/10.1145/3713082.3730397)
 * [2026-08-19, 22:10:12](https://lobste.rs/s/7v1wvd/reclaim_terminal) - [Reclaim the terminal](https://nishantjosh.dev/blogs/reclaim-the-terminal/)
 * [2026-08-19, 20:28:07](https://lobste.rs/s/wvwqro/sing_song_speakable_encoding_for_long) - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/)
 * [2026-08-19, 17:53:45](https://lobste.rs/s/smrw3n/go_1_27_is_released) - [Go 1.27 is released](https://go.dev/blog/go1.27)
