@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-21, 20:24:46",
+      "https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus"
+    ],
+    [
+      "Homebrew 68K Machine Has A PCI Bus",
+      "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 17:23:02",
       "https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime"
     ],
@@ -237,16 +247,6 @@
     [
       "Supply chain attack on arrayref",
       "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 07:53:17",
-      "https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust"
-    ],
-    [
-      "What Zig felt like, coming from Rust",
-      "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
     ]
   ]
 ]
