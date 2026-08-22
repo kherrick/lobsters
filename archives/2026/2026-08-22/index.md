@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
 * [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
 * [2026-08-22, 15:56:18](https://lobste.rs/s/qvlroc/nss_userhosts_hosts_files_for) - [nss-userhosts - hosts files for unprivileged users](https://codeberg.org/felixs/nss-userhosts)
 * [2026-08-22, 15:25:07](https://lobste.rs/s/2mvgzt/injectionbunny_ntfs3_suid_injection_for) - [InjectionBunny, a NTFS3 SUID injection for privilege escalation](https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9)
