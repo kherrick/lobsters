@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 18:41:43](https://lobste.rs/s/qpm7tl/pikvm_project_has_gained_support_for_web) - [PiKVM project has gained support for web-camera forwarding](https://docs.pikvm.org/camera/)
 * [2026-08-22, 18:24:43](https://lobste.rs/s/ssw0gv/arcade_fighting_game_over_ssh) - [An arcade fighting game over SSH](https://sshfighter.com)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
