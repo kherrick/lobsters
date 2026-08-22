@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
+* [2026-08-22, 15:56:18](https://lobste.rs/s/qvlroc/nss_userhosts_hosts_files_for) - [nss-userhosts - hosts files for unprivileged users](https://codeberg.org/felixs/nss-userhosts)
 * [2026-08-22, 15:25:07](https://lobste.rs/s/2mvgzt/injectionbunny_ntfs3_suid_injection_for) - [InjectionBunny, a NTFS3 SUID injection for privilege escalation](https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9)
 * [2026-08-22, 14:31:21](https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be) - [There continue to be reasons for software to be slow](https://typesanitizer.com/blog/performance-issues.html)
-* [2026-08-22, 13:48:24](https://lobste.rs/s/r77bda/stalking_wily_hacker_40_years_later) - [Stalking the Wily Hacker: 40 years later](https://youtu.be/656058JxTM0)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 * [2026-08-22, 10:18:39](https://lobste.rs/s/ilfiqa/robot_comment_classifier) - [Robot comment classifier](https://entropicthoughts.com/ai-comment-classifier)
 * [2026-08-22, 09:53:02](https://lobste.rs/s/qtsnvd/schrodinger_email) - [The Schrödinger Email](https://yashgarg.dev/posts/the-schrodinger-email/)
@@ -16,7 +17,6 @@
 * [2026-08-21, 20:24:46](https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus) - [Homebrew 68K Machine Has A PCI Bus](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/)
 * [2026-08-21, 17:23:02](https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime) - [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)
 * [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
-* [2026-08-21, 14:32:54](https://lobste.rs/s/5mlinc/small_native_web_tricks_worth) - [Small, native web tricks worth remembering](https://htmlcat.net)
 * [2026-08-21, 14:29:38](https://lobste.rs/s/am0xtj/rust_glancer_alternative_lsp_for_rust) - [rust-glancer: An alternative LSP for Rust with focus on low memory usage](https://rust-glancer.github.io/blog/hello-world/)
 * [2026-08-21, 13:11:08](https://lobste.rs/s/chhsuf/data_races_memory_model_go) - [Data races and the memory model in Go](https://func25.dev/posts/go-memory-visibility/)
 * [2026-08-21, 12:47:30](https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for) - [Japan tried to build an operating system for the entire world, then the US government intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
