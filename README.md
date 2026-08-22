@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 05:19:19](https://lobste.rs/s/zfew3n/roomy_is_generally_available) - [Roomy is generally available](https://blog.roomy.space/3mplw6vvw4s23)
 * [2026-08-22, 05:08:21](https://lobste.rs/s/bhzp2z/turning_my_casio_f_91w_into_contactless) - [Turning My CASIO F-91W Into a Contactless Payment Device](https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device)
 * [2026-08-22, 04:19:40](https://lobste.rs/s/lmpkkr/programming_language_semantics_memory) - [Programming Language Semantics and Memory Safety](https://burakemir.ch/post/formal-semantics/)
 * [2026-08-21, 21:16:52](https://lobste.rs/s/gwktul/zero_knowledge_proof_wasta_with) - [Zero-Knowledge Proof of Wasta with Applications in Lebanon](https://eprint.gacr.info/2025/003.pdf)
@@ -18,7 +19,6 @@
 * [2026-08-21, 11:47:03](https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend)
 * [2026-08-21, 10:37:21](https://lobste.rs/s/dxjbaj/bazzite_deck_44_launches_today) - [Bazzite Deck 44 Launches Today](https://universal-blue.discourse.group/t/bazzites-biggest-update-deck-44-has-launched-happy-birthday-to-universal-blue/12373)
 * [2026-08-21, 07:47:50](https://lobste.rs/s/qxvz7f/better_batteries) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
-* [2026-08-21, 07:16:33](https://lobste.rs/s/vvdveb/vibe_coding_personal_apps_mid_2026) - [Vibe coding personal apps in mid-2026](https://www.flourish.org/2026/08/personal-apps/)
 * [2026-08-21, 05:14:08](https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde) - [Btrfs Snapshot Integration in KDE](https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/)
 * [2026-08-21, 00:38:21](https://lobste.rs/s/hbjeir/announcing_rust_1_98_0) - [Announcing Rust 1.98.0](https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/)
 * [2026-08-20, 17:22:35](https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped) - [Everyone Says Assembly Is Untyped—Everyone Is Wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
