@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-08-22, 16:04:51",
+      "https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu"
+    ],
+    [
+      "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+      "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 15:56:18",
       "https://lobste.rs/s/qvlroc/nss_userhosts_hosts_files_for"
     ],
@@ -71,12 +81,32 @@
   ],
   [
     [
+      "2026-08-22, 14:31:21",
+      "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be"
+    ],
+    [
+      "There continue to be reasons for software to be slow",
+      "https://typesanitizer.com/blog/performance-issues.html"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 12:41:39",
       "https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work"
     ],
     [
       "You should never be angry at work",
       "https://www.seangoedecke.com/you-should-never-be-angry-at-work/"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 10:18:39",
+      "https://lobste.rs/s/ilfiqa/robot_comment_classifier"
+    ],
+    [
+      "Robot comment classifier",
+      "https://entropicthoughts.com/ai-comment-classifier"
     ]
   ],
   [
@@ -97,6 +127,16 @@
     [
       "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
       "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 06:52:31",
+      "https://lobste.rs/s/kyb21s/stop_making_tuis"
+    ],
+    [
+      "Stop Making TUIs",
+      "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/"
     ]
   ],
   [
@@ -151,22 +191,12 @@
   ],
   [
     [
-      "2026-08-22, 03:13:04",
-      "https://lobste.rs/s/twaqbs/guitar_tuner_2015"
+      "2026-08-21, 17:23:02",
+      "https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime"
     ],
     [
-      "Guitar Tuner (2015)",
-      "https://aerotwist.com/blog/guitar-tuner/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 20:24:46",
-      "https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus"
-    ],
-    [
-      "Homebrew 68K Machine Has A PCI Bus",
-      "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/"
+      "Felony Bench: Be AI, Do Crime",
+      "https://www.felonybench.com/"
     ]
   ],
   [
@@ -177,16 +207,6 @@
     [
       "Enabling the next-generation trait solver on nightly",
       "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 13:11:08",
-      "https://lobste.rs/s/chhsuf/data_races_memory_model_go"
-    ],
-    [
-      "Data races and the memory model in Go",
-      "https://func25.dev/posts/go-memory-visibility/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Better Batteries",
       "https://matklad.github.io/2026/08/20/better-batteries.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 05:14:08",
-      "https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde"
-    ],
-    [
-      "Btrfs Snapshot Integration in KDE",
-      "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 00:38:21",
-      "https://lobste.rs/s/hbjeir/announcing_rust_1_98_0"
-    ],
-    [
-      "Announcing Rust 1.98.0",
-      "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/"
     ]
   ]
 ]
