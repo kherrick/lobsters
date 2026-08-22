@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 21:16:52](https://lobste.rs/s/gwktul/zero_knowledge_proof_wasta_with) - [Zero-Knowledge Proof of Wasta with Applications in Lebanon](https://eprint.gacr.info/2025/003.pdf)
 * [2026-08-21, 20:54:08](https://lobste.rs/s/pdx6jg/exim_4_100_released) - [Exim 4.100 released](https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html)
 * [2026-08-21, 20:24:46](https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus) - [Homebrew 68K Machine Has A PCI Bus](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/)
 * [2026-08-21, 18:32:43](https://lobste.rs/s/5ddcd1/war_is_not_god_neither_is_ai) - [War is not god, neither is AI](https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/)
