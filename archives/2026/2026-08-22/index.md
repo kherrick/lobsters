@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 12:50:41](https://lobste.rs/s/jwzbqi/espressif_releases_linux_bsp_for_esp32) - [Espressif releases Linux BSP for ESP32-S31 RISC-V boards](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/)
+* [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 * [2026-08-22, 10:18:39](https://lobste.rs/s/ilfiqa/robot_comment_classifier) - [Robot comment classifier](https://entropicthoughts.com/ai-comment-classifier)
 * [2026-08-22, 09:53:02](https://lobste.rs/s/qtsnvd/schrodinger_email) - [The Schrödinger Email](https://yashgarg.dev/posts/the-schrodinger-email/)
 * [2026-08-22, 07:27:26](https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet) - [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
