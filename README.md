@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 18:41:43](https://lobste.rs/s/qpm7tl/pikvm_project_has_gained_support_for_web) - [PiKVM project has gained support for web-camera forwarding](https://docs.pikvm.org/camera/)
 * [2026-08-22, 18:24:43](https://lobste.rs/s/ssw0gv/arcade_fighting_game_over_ssh) - [An arcade fighting game over SSH](https://sshfighter.com)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
 * [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
@@ -16,7 +17,6 @@
 * [2026-08-22, 05:19:19](https://lobste.rs/s/zfew3n/roomy_is_generally_available) - [Roomy is generally available](https://blog.roomy.space/3mplw6vvw4s23)
 * [2026-08-22, 05:08:21](https://lobste.rs/s/bhzp2z/turning_my_casio_f_91w_into_contactless) - [Turning My CASIO F-91W Into a Contactless Payment Device](https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device)
 * [2026-08-22, 04:19:40](https://lobste.rs/s/lmpkkr/programming_language_semantics_memory) - [Programming Language Semantics and Memory Safety](https://burakemir.ch/post/formal-semantics/)
-* [2026-08-21, 20:24:46](https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus) - [Homebrew 68K Machine Has A PCI Bus](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/)
 * [2026-08-21, 17:23:02](https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime) - [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)
 * [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
 * [2026-08-21, 14:29:38](https://lobste.rs/s/am0xtj/rust_glancer_alternative_lsp_for_rust) - [rust-glancer: An alternative LSP for Rust with focus on low memory usage](https://rust-glancer.github.io/blog/hello-world/)
