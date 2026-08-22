@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 13:48:24](https://lobste.rs/s/r77bda/stalking_wily_hacker_40_years_later) - [Stalking the Wily Hacker: 40 years later](https://youtu.be/656058JxTM0)
 * [2026-08-22, 12:50:41](https://lobste.rs/s/jwzbqi/espressif_releases_linux_bsp_for_esp32) - [Espressif releases Linux BSP for ESP32-S31 RISC-V boards](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 * [2026-08-22, 10:18:39](https://lobste.rs/s/ilfiqa/robot_comment_classifier) - [Robot comment classifier](https://entropicthoughts.com/ai-comment-classifier)

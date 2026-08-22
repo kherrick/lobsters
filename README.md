@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 13:48:24](https://lobste.rs/s/r77bda/stalking_wily_hacker_40_years_later) - [Stalking the Wily Hacker: 40 years later](https://youtu.be/656058JxTM0)
 * [2026-08-22, 12:50:41](https://lobste.rs/s/jwzbqi/espressif_releases_linux_bsp_for_esp32) - [Espressif releases Linux BSP for ESP32-S31 RISC-V boards](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 * [2026-08-22, 10:18:39](https://lobste.rs/s/ilfiqa/robot_comment_classifier) - [Robot comment classifier](https://entropicthoughts.com/ai-comment-classifier)
@@ -11,7 +12,6 @@
 * [2026-08-22, 05:19:19](https://lobste.rs/s/zfew3n/roomy_is_generally_available) - [Roomy is generally available](https://blog.roomy.space/3mplw6vvw4s23)
 * [2026-08-22, 05:08:21](https://lobste.rs/s/bhzp2z/turning_my_casio_f_91w_into_contactless) - [Turning My CASIO F-91W Into a Contactless Payment Device](https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device)
 * [2026-08-22, 04:19:40](https://lobste.rs/s/lmpkkr/programming_language_semantics_memory) - [Programming Language Semantics and Memory Safety](https://burakemir.ch/post/formal-semantics/)
-* [2026-08-21, 20:54:08](https://lobste.rs/s/pdx6jg/exim_4_100_released) - [Exim 4.100 released](https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html)
 * [2026-08-21, 20:24:46](https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus) - [Homebrew 68K Machine Has A PCI Bus](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/)
 * [2026-08-21, 17:23:02](https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime) - [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)
 * [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
