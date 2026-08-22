@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-21, 20:24:46](https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus) - [Homebrew 68K Machine Has A PCI Bus](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/)
+* [2026-08-21, 17:25:57](https://lobste.rs/s/leneb2/pit_success_interview_with_rico_mariani) - [The Pit of Success - An interview with Rico Mariani](https://youtu.be/48Rig6v-xYU)
 * [2026-08-21, 17:23:02](https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime) - [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)
 * [2026-08-21, 16:15:41](https://lobste.rs/s/ry92nr/unfortunately_you_sometimes_need_do) - [Unfortunately you sometimes need to do the thing](https://griffinberlste.in/blog/do-the-thing/)
 * [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
@@ -22,7 +23,6 @@
 * [2026-08-20, 17:22:35](https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped) - [Everyone Says Assembly Is Untyped—Everyone Is Wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-20, 15:24:43](https://lobste.rs/s/n7kpm6/open_sourcing_openpubkey_ssh_opkssh) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://www.ethanheilman.com/x/33/index.html)
 * [2026-08-20, 14:37:52](https://lobste.rs/s/eesu8d/bun_1_4) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
-* [2026-08-20, 12:57:51](https://lobste.rs/s/b0olmy/aliexpress_keeps_multipoint_bluetooth) - [AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 12:21:41](https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into) - [How a joke domain purchase turned into geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 * [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref) - [Supply chain attack on arrayref](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/)
 
