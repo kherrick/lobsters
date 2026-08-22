@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 21:21:43](https://lobste.rs/s/ate5gb/kde_linux_experiences) - [KDE Linux experiences](https://akselmo.dev/posts/kde-linux-experiences/)
 * [2026-08-22, 20:11:30](https://lobste.rs/s/xkngcm/hdiutil_is_deprecated_macos_27_golden) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 18:41:43](https://lobste.rs/s/qpm7tl/pikvm_project_has_gained_support_for_web) - [PiKVM project has gained support for web-camera forwarding](https://docs.pikvm.org/camera/)
