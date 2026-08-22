@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 20:11:30](https://lobste.rs/s/xkngcm/hdiutil_is_deprecated_macos_27_golden) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 18:41:43](https://lobste.rs/s/qpm7tl/pikvm_project_has_gained_support_for_web) - [PiKVM project has gained support for web-camera forwarding](https://docs.pikvm.org/camera/)
 * [2026-08-22, 18:24:43](https://lobste.rs/s/ssw0gv/arcade_fighting_game_over_ssh) - [An arcade fighting game over SSH](https://sshfighter.com)
@@ -24,7 +25,6 @@
 * [2026-08-21, 12:05:00](https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds) - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
 * [2026-08-21, 12:03:04](https://lobste.rs/s/zcgvtz/music_theory_for_programmers) - [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers)
 * [2026-08-21, 07:47:50](https://lobste.rs/s/qxvz7f/better_batteries) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
-* [2026-08-21, 05:14:08](https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde) - [Btrfs Snapshot Integration in KDE](https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/)
 
 ## [Archives](archives/index.md)
 
