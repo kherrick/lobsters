@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-22, 20:11:30",
+      "https://lobste.rs/s/xkngcm/hdiutil_is_deprecated_macos_27_golden"
+    ],
+    [
+      "hdiutil is deprecated in macOS 27 Golden Gate",
+      "https://lapcatsoftware.com/articles/2026/8/7.html"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 19:08:47",
       "https://lobste.rs/s/a23bk3/netbsd_my_life_2005"
     ],
@@ -237,16 +247,6 @@
     [
       "Better Batteries",
       "https://matklad.github.io/2026/08/20/better-batteries.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 05:14:08",
-      "https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde"
-    ],
-    [
-      "Btrfs Snapshot Integration in KDE",
-      "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/"
     ]
   ]
 ]
