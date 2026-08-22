@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 15:25:07](https://lobste.rs/s/2mvgzt/injectionbunny_ntfs3_suid_injection_for) - [InjectionBunny, a NTFS3 SUID injection for privilege escalation](https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9)
 * [2026-08-22, 14:31:21](https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be) - [There continue to be reasons for software to be slow](https://typesanitizer.com/blog/performance-issues.html)
 * [2026-08-22, 13:48:24](https://lobste.rs/s/r77bda/stalking_wily_hacker_40_years_later) - [Stalking the Wily Hacker: 40 years later](https://youtu.be/656058JxTM0)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
@@ -21,7 +22,6 @@
 * [2026-08-21, 12:47:30](https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for) - [Japan tried to build an operating system for the entire world, then the US government intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 * [2026-08-21, 12:05:00](https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds) - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
 * [2026-08-21, 12:03:04](https://lobste.rs/s/zcgvtz/music_theory_for_programmers) - [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers)
-* [2026-08-21, 11:47:03](https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ittn74/what_are_you_doing_this_weekend)
 * [2026-08-21, 07:47:50](https://lobste.rs/s/qxvz7f/better_batteries) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
 * [2026-08-21, 05:14:08](https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde) - [Btrfs Snapshot Integration in KDE](https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/)
 * [2026-08-21, 00:38:21](https://lobste.rs/s/hbjeir/announcing_rust_1_98_0) - [Announcing Rust 1.98.0](https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/)

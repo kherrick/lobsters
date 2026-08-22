@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 15:25:07](https://lobste.rs/s/2mvgzt/injectionbunny_ntfs3_suid_injection_for) - [InjectionBunny, a NTFS3 SUID injection for privilege escalation](https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9)
 * [2026-08-22, 14:31:21](https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be) - [There continue to be reasons for software to be slow](https://typesanitizer.com/blog/performance-issues.html)
 * [2026-08-22, 13:48:24](https://lobste.rs/s/r77bda/stalking_wily_hacker_40_years_later) - [Stalking the Wily Hacker: 40 years later](https://youtu.be/656058JxTM0)
 * [2026-08-22, 12:50:41](https://lobste.rs/s/jwzbqi/espressif_releases_linux_bsp_for_esp32) - [Espressif releases Linux BSP for ESP32-S31 RISC-V boards](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/)
