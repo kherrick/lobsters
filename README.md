@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 09:53:02](https://lobste.rs/s/qtsnvd/schrodinger_email) - [The Schrödinger Email](https://yashgarg.dev/posts/the-schrodinger-email/)
 * [2026-08-22, 07:27:26](https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet) - [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
+* [2026-08-22, 06:52:31](https://lobste.rs/s/kyb21s/stop_making_tuis) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-22, 06:37:19](https://lobste.rs/s/ku4v3b/compile_time_improvements_llvm_23) - [Compile-Time Improvements in LLVM 23](https://aengelke.net/llvm23-ct.html)
 * [2026-08-22, 06:16:08](https://lobste.rs/s/lzgbrv/cool_things_gleam) - [The cool things of Gleam](https://a.baez.link/3mtdbbp2dmc27)
 * [2026-08-22, 05:19:19](https://lobste.rs/s/zfew3n/roomy_is_generally_available) - [Roomy is generally available](https://blog.roomy.space/3mplw6vvw4s23)
@@ -23,8 +25,6 @@
 * [2026-08-21, 05:14:08](https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde) - [Btrfs Snapshot Integration in KDE](https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/)
 * [2026-08-21, 00:38:21](https://lobste.rs/s/hbjeir/announcing_rust_1_98_0) - [Announcing Rust 1.98.0](https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/)
 * [2026-08-20, 17:22:35](https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped) - [Everyone Says Assembly Is Untyped—Everyone Is Wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
-* [2026-08-20, 14:37:52](https://lobste.rs/s/eesu8d/bun_1_4) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
-* [2026-08-20, 12:21:41](https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into) - [How a joke domain purchase turned into geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 
 ## [Archives](archives/index.md)
 

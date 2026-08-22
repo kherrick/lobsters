@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 09:53:02](https://lobste.rs/s/qtsnvd/schrodinger_email) - [The Schrödinger Email](https://yashgarg.dev/posts/the-schrodinger-email/)
 * [2026-08-22, 07:27:26](https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet) - [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
+* [2026-08-22, 06:52:31](https://lobste.rs/s/kyb21s/stop_making_tuis) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-22, 06:37:19](https://lobste.rs/s/ku4v3b/compile_time_improvements_llvm_23) - [Compile-Time Improvements in LLVM 23](https://aengelke.net/llvm23-ct.html)
 * [2026-08-22, 06:16:08](https://lobste.rs/s/lzgbrv/cool_things_gleam) - [The cool things of Gleam](https://a.baez.link/3mtdbbp2dmc27)
 * [2026-08-22, 05:42:55](https://lobste.rs/s/jdjb2a/emacs_arbitrary_code_execution_returns) - [Emacs Arbitrary Code Execution Returns](https://eshelyaron.com/posts/2026-08-06-emacs-arbitrary-code-execution-returns.html)
