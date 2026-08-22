@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 18:24:43](https://lobste.rs/s/ssw0gv/arcade_fighting_game_over_ssh) - [An arcade fighting game over SSH](https://sshfighter.com)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
 * [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
 * [2026-08-22, 15:56:18](https://lobste.rs/s/qvlroc/nss_userhosts_hosts_files_for) - [nss-userhosts - hosts files for unprivileged users](https://codeberg.org/felixs/nss-userhosts)
@@ -24,7 +25,6 @@
 * [2026-08-21, 12:03:04](https://lobste.rs/s/zcgvtz/music_theory_for_programmers) - [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers)
 * [2026-08-21, 07:47:50](https://lobste.rs/s/qxvz7f/better_batteries) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
 * [2026-08-21, 05:14:08](https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde) - [Btrfs Snapshot Integration in KDE](https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/)
-* [2026-08-21, 00:38:21](https://lobste.rs/s/hbjeir/announcing_rust_1_98_0) - [Announcing Rust 1.98.0](https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/)
 
 ## [Archives](archives/index.md)
 
