@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-08-22, 03:13:04",
+      "https://lobste.rs/s/twaqbs/guitar_tuner_2015"
+    ],
+    [
+      "Guitar Tuner (2015)",
+      "https://aerotwist.com/blog/guitar-tuner/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 20:24:46",
       "https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus"
     ],
@@ -177,16 +187,6 @@
     [
       "rust-glancer: An alternative LSP for Rust with focus on low memory usage",
       "https://rust-glancer.github.io/blog/hello-world/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 13:11:08",
-      "https://lobste.rs/s/chhsuf/data_races_memory_model_go"
-    ],
-    [
-      "Data races and the memory model in Go",
-      "https://func25.dev/posts/go-memory-visibility/"
     ]
   ],
   [
