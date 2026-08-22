@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-22, 05:42:55](https://lobste.rs/s/jdjb2a/emacs_arbitrary_code_execution_returns) - [Emacs Arbitrary Code Execution Returns](https://eshelyaron.com/posts/2026-08-06-emacs-arbitrary-code-execution-returns.html)
+* [2026-08-22, 06:37:19](https://lobste.rs/s/ku4v3b/compile_time_improvements_llvm_23) - [Compile-Time Improvements in LLVM 23](https://aengelke.net/llvm23-ct.html)
+* [2026-08-22, 06:16:08](https://lobste.rs/s/lzgbrv/cool_things_gleam) - [The cool things of Gleam](https://a.baez.link/3mtdbbp2dmc27)
 * [2026-08-22, 05:19:19](https://lobste.rs/s/zfew3n/roomy_is_generally_available) - [Roomy is generally available](https://blog.roomy.space/3mplw6vvw4s23)
-* [2026-08-22, 05:08:21](https://lobste.rs/s/bhzp2z/turning_my_casio_f_91w_into_contactless) - [Turning My CASIO F-91W Into a Contactless Payment Device](https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device)
+* [2026-08-22, 04:19:40](https://lobste.rs/s/lmpkkr/programming_language_semantics_memory) - [Programming Language Semantics and Memory Safety](https://burakemir.ch/post/formal-semantics/)
 * [2026-08-21, 21:16:52](https://lobste.rs/s/gwktul/zero_knowledge_proof_wasta_with) - [Zero-Knowledge Proof of Wasta with Applications in Lebanon](https://eprint.gacr.info/2025/003.pdf)
 * [2026-08-21, 20:54:08](https://lobste.rs/s/pdx6jg/exim_4_100_released) - [Exim 4.100 released](https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html)
 * [2026-08-21, 20:24:46](https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus) - [Homebrew 68K Machine Has A PCI Bus](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/)
@@ -24,7 +25,6 @@
 * [2026-08-20, 17:22:35](https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped) - [Everyone Says Assembly Is Untyped—Everyone Is Wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-20, 14:37:52](https://lobste.rs/s/eesu8d/bun_1_4) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
 * [2026-08-20, 12:21:41](https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into) - [How a joke domain purchase turned into geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
-* [2026-08-20, 09:54:06](https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref) - [Supply chain attack on arrayref](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/)
 
 ## [Archives](archives/index.md)
 
