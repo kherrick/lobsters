@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-22, 05:42:55](https://lobste.rs/s/jdjb2a/emacs_arbitrary_code_execution_returns) - [Emacs Arbitrary Code Execution Returns](https://eshelyaron.com/posts/2026-08-06-emacs-arbitrary-code-execution-returns.html)
 * [2026-08-22, 05:19:19](https://lobste.rs/s/zfew3n/roomy_is_generally_available) - [Roomy is generally available](https://blog.roomy.space/3mplw6vvw4s23)
 * [2026-08-22, 05:08:21](https://lobste.rs/s/bhzp2z/turning_my_casio_f_91w_into_contactless) - [Turning My CASIO F-91W Into a Contactless Payment Device](https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device)
-* [2026-08-22, 04:19:40](https://lobste.rs/s/lmpkkr/programming_language_semantics_memory) - [Programming Language Semantics and Memory Safety](https://burakemir.ch/post/formal-semantics/)
 * [2026-08-21, 21:16:52](https://lobste.rs/s/gwktul/zero_knowledge_proof_wasta_with) - [Zero-Knowledge Proof of Wasta with Applications in Lebanon](https://eprint.gacr.info/2025/003.pdf)
 * [2026-08-21, 20:54:08](https://lobste.rs/s/pdx6jg/exim_4_100_released) - [Exim 4.100 released](https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html)
 * [2026-08-21, 20:24:46](https://lobste.rs/s/zstki6/homebrew_68k_machine_has_pci_bus) - [Homebrew 68K Machine Has A PCI Bus](https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/)
