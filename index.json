@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-08-23, 05:39:03",
+      "https://lobste.rs/s/jspua4/integrating_discord_sdk_into_eve"
+    ],
+    [
+      "Integrating Discord SDK into EVE Frontier",
+      "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 05:23:46",
       "https://lobste.rs/s/rlcsrg/huge_breakthrough_math_imbalance"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-08-22, 16:04:51",
-      "https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu"
-    ],
-    [
-      "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-      "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c"
-    ]
-  ],
-  [
-    [
       "2026-08-22, 15:56:18",
       "https://lobste.rs/s/qvlroc/nss_userhosts_hosts_files_for"
     ],
@@ -111,12 +111,22 @@
   ],
   [
     [
-      "2026-08-22, 14:31:21",
-      "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be"
+      "2026-08-22, 15:25:07",
+      "https://lobste.rs/s/2mvgzt/injectionbunny_ntfs3_suid_injection_for"
     ],
     [
-      "There continue to be reasons for software to be slow",
-      "https://typesanitizer.com/blog/performance-issues.html"
+      "InjectionBunny, a NTFS3 SUID injection for privilege escalation",
+      "https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 12:50:41",
+      "https://lobste.rs/s/jwzbqi/espressif_releases_linux_bsp_for_esp32"
+    ],
+    [
+      "Espressif releases Linux BSP for ESP32-S31 RISC-V boards",
+      "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "You should never be angry at work",
       "https://www.seangoedecke.com/you-should-never-be-angry-at-work/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 10:18:39",
-      "https://lobste.rs/s/ilfiqa/robot_comment_classifier"
-    ],
-    [
-      "Robot comment classifier",
-      "https://entropicthoughts.com/ai-comment-classifier"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-08-22, 06:52:31",
-      "https://lobste.rs/s/kyb21s/stop_making_tuis"
-    ],
-    [
-      "Stop Making TUIs",
-      "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/"
-    ]
-  ],
-  [
-    [
       "2026-08-22, 06:37:19",
       "https://lobste.rs/s/ku4v3b/compile_time_improvements_llvm_23"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-08-22, 05:19:19",
+      "https://lobste.rs/s/zfew3n/roomy_is_generally_available"
+    ],
+    [
+      "Roomy is generally available",
+      "https://blog.roomy.space/3mplw6vvw4s23"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 05:08:21",
       "https://lobste.rs/s/bhzp2z/turning_my_casio_f_91w_into_contactless"
     ],
@@ -207,16 +207,6 @@
     [
       "Programming Language Semantics and Memory Safety",
       "https://burakemir.ch/post/formal-semantics/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 17:23:02",
-      "https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime"
-    ],
-    [
-      "Felony Bench: Be AI, Do Crime",
-      "https://www.felonybench.com/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "I accidentally logged hundreds of thousands of phone calls to military bases",
       "https://lina.sh/blog/hijacking-e164-arpa"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 07:47:50",
+      "https://lobste.rs/s/qxvz7f/better_batteries"
+    ],
+    [
+      "Better Batteries",
+      "https://matklad.github.io/2026/08/20/better-batteries.html"
     ]
   ]
 ]
