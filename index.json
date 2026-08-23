@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2026-08-23, 18:49:26",
+      "https://lobste.rs/s/xiwynb/tmp_0ut_volume_5"
+    ],
+    [
+      "tmp.0ut volume 5",
+      "https://tmpout.sh/5/"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 16:46:02",
       "https://lobste.rs/s/9hb9ou/are_15_all_commits_fixes_2025"
     ],
     [
       "Are 15% of all commits fixes? (2025)",
       "https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 16:45:43",
-      "https://lobste.rs/s/p92osu/rsoc_2026_eevdf_for_redox"
-    ],
-    [
-      "RSoC 2026: EEVDF for Redox",
-      "https://www.redox-os.org/news/rsoc-eevdf/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-08-23, 06:56:45",
+      "https://lobste.rs/s/r1ezk0/foundational_verification_running_time"
+    ],
+    [
+      "Foundational Verification of Running-Time Bounds for Interactive Programs",
+      "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 04:48:06",
       "https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache"
     ],
@@ -237,16 +247,6 @@
     [
       "You should never be angry at work",
       "https://www.seangoedecke.com/you-should-never-be-angry-at-work/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 07:27:26",
-      "https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet"
-    ],
-    [
-      "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-      "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/"
     ]
   ]
 ]
