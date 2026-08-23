@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
+* [2026-08-23, 16:11:39](https://lobste.rs/s/tc2em9/how_report_bug_so_it_actually_gets_fixed) - [How To Report A Bug So It Actually Gets Fixed](https://blog.tymscar.com/posts/howtoreportabug/)
 * [2026-08-23, 15:45:01](https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i) - [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
 * [2026-08-23, 15:10:59](https://lobste.rs/s/au6oho/eh_minimalist_vi_like_editor) - [eh: a minimalist vi-like editor](https://codeberg.org/SirWumpus/eh)
 * [2026-08-23, 14:46:25](https://lobste.rs/s/hdz6bx/clicky_clickwheel_ipod_emulator) - [clicky: A clickwheel iPod emulator](https://github.com/daniel5151/clicky)
@@ -12,7 +14,6 @@
 * [2026-08-23, 11:51:43](https://lobste.rs/s/1swh9l/optimizing_memory_usage_markdown_parser) - [Optimizing memory usage in a markdown parser](https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html)
 * [2026-08-23, 07:44:50](https://lobste.rs/s/aujfn1/jit_compiling_code_5_s) - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
 * [2026-08-23, 06:56:45](https://lobste.rs/s/r1ezk0/foundational_verification_running_time) - [Foundational Verification of Running-Time Bounds for Interactive Programs](https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf)
-* [2026-08-23, 05:39:03](https://lobste.rs/s/jspua4/integrating_discord_sdk_into_eve) - [Integrating Discord SDK into EVE Frontier](https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 23:17:44](https://lobste.rs/s/er8kot/immortal_1984_macintosh_restoration) - [The immortal 1984 Macintosh (restoration diary)](https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html)
 * [2026-08-22, 21:21:43](https://lobste.rs/s/ate5gb/kde_linux_experiences) - [KDE Linux experiences](https://akselmo.dev/posts/kde-linux-experiences/)
@@ -23,7 +24,6 @@
 * [2026-08-22, 14:31:21](https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be) - [There continue to be reasons for software to be slow](https://typesanitizer.com/blog/performance-issues.html)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 * [2026-08-22, 07:27:26](https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet) - [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
-* [2026-08-22, 06:37:19](https://lobste.rs/s/ku4v3b/compile_time_improvements_llvm_23) - [Compile-Time Improvements in LLVM 23](https://aengelke.net/llvm23-ct.html)
 * [2026-08-22, 06:16:08](https://lobste.rs/s/lzgbrv/cool_things_gleam) - [The cool things of Gleam](https://a.baez.link/3mtdbbp2dmc27)
 
 ## [Archives](archives/index.md)
