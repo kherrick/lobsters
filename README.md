@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-23, 07:44:50](https://lobste.rs/s/aujfn1/jit_compiling_code_5_s) - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
 * [2026-08-23, 06:56:45](https://lobste.rs/s/r1ezk0/foundational_verification_running_time) - [Foundational Verification of Running-Time Bounds for Interactive Programs](https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf)
 * [2026-08-23, 05:39:03](https://lobste.rs/s/jspua4/integrating_discord_sdk_into_eve) - [Integrating Discord SDK into EVE Frontier](https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf)
 * [2026-08-23, 05:23:46](https://lobste.rs/s/rlcsrg/huge_breakthrough_math_imbalance) - [‘Huge Breakthrough’ in the Math of Imbalance](https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 23:17:44](https://lobste.rs/s/er8kot/immortal_1984_macintosh_restoration) - [The immortal 1984 Macintosh (restoration diary)](https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html)
-* [2026-08-22, 21:21:43](https://lobste.rs/s/ate5gb/kde_linux_experiences) - [KDE Linux experiences](https://akselmo.dev/posts/kde-linux-experiences/)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
 * [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
