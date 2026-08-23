@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-23, 15:45:01](https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i) - [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
 * [2026-08-23, 15:10:59](https://lobste.rs/s/au6oho/eh_minimalist_vi_like_editor) - [eh: a minimalist vi-like editor](https://codeberg.org/SirWumpus/eh)
 * [2026-08-23, 14:46:25](https://lobste.rs/s/hdz6bx/clicky_clickwheel_ipod_emulator) - [clicky: A clickwheel iPod emulator](https://github.com/daniel5151/clicky)
 * [2026-08-23, 14:45:46](https://lobste.rs/s/gybcec/my_favorite_computer_science_books_why) - [My favorite Computer Science books, and why](https://backtracking.github.io/en/2020/02/20/cs-books.html)
@@ -12,7 +13,6 @@
 * [2026-08-23, 07:44:50](https://lobste.rs/s/aujfn1/jit_compiling_code_5_s) - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
 * [2026-08-23, 06:56:45](https://lobste.rs/s/r1ezk0/foundational_verification_running_time) - [Foundational Verification of Running-Time Bounds for Interactive Programs](https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf)
 * [2026-08-23, 05:39:03](https://lobste.rs/s/jspua4/integrating_discord_sdk_into_eve) - [Integrating Discord SDK into EVE Frontier](https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf)
-* [2026-08-23, 05:23:46](https://lobste.rs/s/rlcsrg/huge_breakthrough_math_imbalance) - [‘Huge Breakthrough’ in the Math of Imbalance](https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 23:17:44](https://lobste.rs/s/er8kot/immortal_1984_macintosh_restoration) - [The immortal 1984 Macintosh (restoration diary)](https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html)
 * [2026-08-22, 21:21:43](https://lobste.rs/s/ate5gb/kde_linux_experiences) - [KDE Linux experiences](https://akselmo.dev/posts/kde-linux-experiences/)

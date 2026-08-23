@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 15:45:01](https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i) - [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
 * [2026-08-23, 15:10:59](https://lobste.rs/s/au6oho/eh_minimalist_vi_like_editor) - [eh: a minimalist vi-like editor](https://codeberg.org/SirWumpus/eh)
 * [2026-08-23, 14:46:25](https://lobste.rs/s/hdz6bx/clicky_clickwheel_ipod_emulator) - [clicky: A clickwheel iPod emulator](https://github.com/daniel5151/clicky)
 * [2026-08-23, 14:45:46](https://lobste.rs/s/gybcec/my_favorite_computer_science_books_why) - [My favorite Computer Science books, and why](https://backtracking.github.io/en/2020/02/20/cs-books.html)
