@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-23, 05:39:03",
+      "https://lobste.rs/s/jspua4/integrating_discord_sdk_into_eve"
+    ],
+    [
+      "Integrating Discord SDK into EVE Frontier",
+      "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 05:23:46",
+      "https://lobste.rs/s/rlcsrg/huge_breakthrough_math_imbalance"
+    ],
+    [
+      "‘Huge Breakthrough’ in the Math of Imbalance",
+      "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 04:48:06",
       "https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache"
     ],
@@ -51,22 +71,22 @@
   ],
   [
     [
+      "2026-08-22, 18:41:43",
+      "https://lobste.rs/s/qpm7tl/pikvm_project_has_gained_support_for_web"
+    ],
+    [
+      "PiKVM project has gained support for web-camera forwarding",
+      "https://docs.pikvm.org/camera/"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 17:52:17",
       "https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries"
     ],
     [
       "A 2026 Survey of Rust GUI Libraries",
       "https://blog.wybxc.cc/blog/rust-gui-survey-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 16:04:51",
-      "https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu"
-    ],
-    [
-      "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-      "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c"
     ]
   ],
   [
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2026-08-22, 14:31:21",
-      "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be"
+      "2026-08-22, 12:50:41",
+      "https://lobste.rs/s/jwzbqi/espressif_releases_linux_bsp_for_esp32"
     ],
     [
-      "There continue to be reasons for software to be slow",
-      "https://typesanitizer.com/blog/performance-issues.html"
+      "Espressif releases Linux BSP for ESP32-S31 RISC-V boards",
+      "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "You should never be angry at work",
       "https://www.seangoedecke.com/you-should-never-be-angry-at-work/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 10:18:39",
-      "https://lobste.rs/s/ilfiqa/robot_comment_classifier"
-    ],
-    [
-      "Robot comment classifier",
-      "https://entropicthoughts.com/ai-comment-classifier"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
       "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 06:52:31",
-      "https://lobste.rs/s/kyb21s/stop_making_tuis"
-    ],
-    [
-      "Stop Making TUIs",
-      "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-08-21, 17:23:02",
-      "https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime"
-    ],
-    [
-      "Felony Bench: Be AI, Do Crime",
-      "https://www.felonybench.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 15:15:16",
       "https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on"
     ],
@@ -237,6 +227,16 @@
     [
       "I accidentally logged hundreds of thousands of phone calls to military bases",
       "https://lina.sh/blog/hijacking-e164-arpa"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 12:03:04",
+      "https://lobste.rs/s/zcgvtz/music_theory_for_programmers"
+    ],
+    [
+      "Music theory for programmers",
+      "https://runjs.app/blog/music-theory-for-programmers"
     ]
   ],
   [
