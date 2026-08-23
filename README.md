@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-23, 06:56:45](https://lobste.rs/s/r1ezk0/foundational_verification_running_time) - [Foundational Verification of Running-Time Bounds for Interactive Programs](https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf)
 * [2026-08-23, 05:39:03](https://lobste.rs/s/jspua4/integrating_discord_sdk_into_eve) - [Integrating Discord SDK into EVE Frontier](https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf)
 * [2026-08-23, 05:23:46](https://lobste.rs/s/rlcsrg/huge_breakthrough_math_imbalance) - [‘Huge Breakthrough’ in the Math of Imbalance](https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
@@ -18,7 +19,6 @@
 * [2026-08-22, 06:52:31](https://lobste.rs/s/kyb21s/stop_making_tuis) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-22, 06:37:19](https://lobste.rs/s/ku4v3b/compile_time_improvements_llvm_23) - [Compile-Time Improvements in LLVM 23](https://aengelke.net/llvm23-ct.html)
 * [2026-08-22, 06:16:08](https://lobste.rs/s/lzgbrv/cool_things_gleam) - [The cool things of Gleam](https://a.baez.link/3mtdbbp2dmc27)
-* [2026-08-22, 05:19:19](https://lobste.rs/s/zfew3n/roomy_is_generally_available) - [Roomy is generally available](https://blog.roomy.space/3mplw6vvw4s23)
 * [2026-08-22, 05:08:21](https://lobste.rs/s/bhzp2z/turning_my_casio_f_91w_into_contactless) - [Turning My CASIO F-91W Into a Contactless Payment Device](https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device)
 * [2026-08-22, 04:19:40](https://lobste.rs/s/lmpkkr/programming_language_semantics_memory) - [Programming Language Semantics and Memory Safety](https://burakemir.ch/post/formal-semantics/)
 * [2026-08-21, 17:23:02](https://lobste.rs/s/pywde0/felony_bench_be_ai_do_crime) - [Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)
