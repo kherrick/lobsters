@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-23, 15:10:59](https://lobste.rs/s/au6oho/eh_minimalist_vi_like_editor) - [eh: a minimalist vi-like editor](https://codeberg.org/SirWumpus/eh)
 * [2026-08-23, 14:46:25](https://lobste.rs/s/hdz6bx/clicky_clickwheel_ipod_emulator) - [clicky: A clickwheel iPod emulator](https://github.com/daniel5151/clicky)
 * [2026-08-23, 14:45:46](https://lobste.rs/s/gybcec/my_favorite_computer_science_books_why) - [My favorite Computer Science books, and why](https://backtracking.github.io/en/2020/02/20/cs-books.html)
 * [2026-08-23, 14:45:32](https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs) - [An Introduction to Canvas in GNU Emacs](https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html)
@@ -24,7 +25,6 @@
 * [2026-08-22, 07:27:26](https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet) - [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
 * [2026-08-22, 06:37:19](https://lobste.rs/s/ku4v3b/compile_time_improvements_llvm_23) - [Compile-Time Improvements in LLVM 23](https://aengelke.net/llvm23-ct.html)
 * [2026-08-22, 06:16:08](https://lobste.rs/s/lzgbrv/cool_things_gleam) - [The cool things of Gleam](https://a.baez.link/3mtdbbp2dmc27)
-* [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
 
 ## [Archives](archives/index.md)
 
