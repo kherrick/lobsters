@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-23, 21:37:23](https://lobste.rs/s/ft1wfv/my_diy_def_con_choker_has_screen_on_it) - [My DIY DEF CON Choker Has a Screen On It](https://www.scd31.com/posts/defcon-choker)
 * [2026-08-23, 21:00:46](https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
 * [2026-08-23, 20:51:00](https://lobste.rs/s/hypo37/declarative_webgpu_with_s_expressions) - [Declarative WebGPU with S-expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
@@ -19,7 +20,6 @@
 * [2026-08-23, 12:08:25](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf) - [Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf)
 * [2026-08-23, 11:51:43](https://lobste.rs/s/1swh9l/optimizing_memory_usage_markdown_parser) - [Optimizing memory usage in a markdown parser](https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
-* [2026-08-22, 23:17:44](https://lobste.rs/s/er8kot/immortal_1984_macintosh_restoration) - [The immortal 1984 Macintosh (restoration diary)](https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
 * [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
