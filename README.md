@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 23:17:44](https://lobste.rs/s/er8kot/immortal_1984_macintosh_restoration) - [The immortal 1984 Macintosh (restoration diary)](https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html)
 * [2026-08-22, 21:21:43](https://lobste.rs/s/ate5gb/kde_linux_experiences) - [KDE Linux experiences](https://akselmo.dev/posts/kde-linux-experiences/)
 * [2026-08-22, 20:11:30](https://lobste.rs/s/xkngcm/hdiutil_is_deprecated_macos_27_golden) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
@@ -23,7 +24,6 @@
 * [2026-08-21, 15:15:16](https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on) - [Enabling the next-generation trait solver on nightly](https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/)
 * [2026-08-21, 12:47:30](https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for) - [Japan tried to build an operating system for the entire world, then the US government intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 * [2026-08-21, 12:05:00](https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds) - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
-* [2026-08-21, 12:03:04](https://lobste.rs/s/zcgvtz/music_theory_for_programmers) - [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers)
 * [2026-08-21, 07:47:50](https://lobste.rs/s/qxvz7f/better_batteries) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
 
 ## [Archives](archives/index.md)
