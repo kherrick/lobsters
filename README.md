@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-23, 19:04:41](https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents) - [Wild AI-related reliability incidents are coming](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
+* [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
+* [2026-08-23, 19:16:54](https://lobste.rs/s/o0z5aw/my_experience_as_first_time_speaker) - [My experience as a first time speaker](https://blog.guillheu.dev/articles/first-time-speaker/)
 * [2026-08-23, 16:46:02](https://lobste.rs/s/9hb9ou/are_15_all_commits_fixes_2025) - [Are 15% of all commits fixes? (2025)](https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/)
 * [2026-08-23, 16:45:43](https://lobste.rs/s/p92osu/rsoc_2026_eevdf_for_redox) - [RSoC 2026: EEVDF for Redox](https://www.redox-os.org/news/rsoc-eevdf/)
 * [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
@@ -16,7 +17,6 @@
 * [2026-08-23, 12:08:25](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf) - [Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf)
 * [2026-08-23, 11:51:43](https://lobste.rs/s/1swh9l/optimizing_memory_usage_markdown_parser) - [Optimizing memory usage in a markdown parser](https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html)
 * [2026-08-23, 07:44:50](https://lobste.rs/s/aujfn1/jit_compiling_code_5_s) - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
-* [2026-08-23, 06:56:45](https://lobste.rs/s/r1ezk0/foundational_verification_running_time) - [Foundational Verification of Running-Time Bounds for Interactive Programs](https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 23:17:44](https://lobste.rs/s/er8kot/immortal_1984_macintosh_restoration) - [The immortal 1984 Macintosh (restoration diary)](https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)

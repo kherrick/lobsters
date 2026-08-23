@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
+* [2026-08-23, 19:16:54](https://lobste.rs/s/o0z5aw/my_experience_as_first_time_speaker) - [My experience as a first time speaker](https://blog.guillheu.dev/articles/first-time-speaker/)
 * [2026-08-23, 19:04:41](https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents) - [Wild AI-related reliability incidents are coming](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
 * [2026-08-23, 18:49:26](https://lobste.rs/s/xiwynb/tmp_0ut_volume_5) - [tmp.0ut volume 5](https://tmpout.sh/5/)
 * [2026-08-23, 17:36:51](https://lobste.rs/s/x8cyxy/where_are_data_workers_behind_ai) - [Where are the data workers behind AI?](https://www.ai-materiality-map.org/data-workers/)
