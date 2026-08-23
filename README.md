@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-23, 17:36:51](https://lobste.rs/s/x8cyxy/where_are_data_workers_behind_ai) - [Where are the data workers behind AI?](https://www.ai-materiality-map.org/data-workers/)
 * [2026-08-23, 16:46:02](https://lobste.rs/s/9hb9ou/are_15_all_commits_fixes_2025) - [Are 15% of all commits fixes? (2025)](https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/)
 * [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
 * [2026-08-23, 16:11:39](https://lobste.rs/s/tc2em9/how_report_bug_so_it_actually_gets_fixed) - [How To Report A Bug So It Actually Gets Fixed](https://blog.tymscar.com/posts/howtoreportabug/)
@@ -20,7 +21,6 @@
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
 * [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
-* [2026-08-22, 15:56:18](https://lobste.rs/s/qvlroc/nss_userhosts_hosts_files_for) - [nss-userhosts - hosts files for unprivileged users](https://codeberg.org/felixs/nss-userhosts)
 * [2026-08-22, 14:31:21](https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be) - [There continue to be reasons for software to be slow](https://typesanitizer.com/blog/performance-issues.html)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 * [2026-08-22, 07:27:26](https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet) - [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)

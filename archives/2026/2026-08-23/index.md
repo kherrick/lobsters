@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 17:36:51](https://lobste.rs/s/x8cyxy/where_are_data_workers_behind_ai) - [Where are the data workers behind AI?](https://www.ai-materiality-map.org/data-workers/)
 * [2026-08-23, 16:46:02](https://lobste.rs/s/9hb9ou/are_15_all_commits_fixes_2025) - [Are 15% of all commits fixes? (2025)](https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/)
 * [2026-08-23, 16:45:43](https://lobste.rs/s/p92osu/rsoc_2026_eevdf_for_redox) - [RSoC 2026: EEVDF for Redox](https://www.redox-os.org/news/rsoc-eevdf/)
 * [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
