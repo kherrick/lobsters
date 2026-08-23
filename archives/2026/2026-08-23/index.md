@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 21:00:46](https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
 * [2026-08-23, 20:51:00](https://lobste.rs/s/hypo37/declarative_webgpu_with_s_expressions) - [Declarative WebGPU with S-expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
 * [2026-08-23, 19:16:54](https://lobste.rs/s/o0z5aw/my_experience_as_first_time_speaker) - [My experience as a first time speaker](https://blog.guillheu.dev/articles/first-time-speaker/)
