@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2026-08-22, 20:11:30",
+      "https://lobste.rs/s/xkngcm/hdiutil_is_deprecated_macos_27_golden"
+    ],
+    [
+      "hdiutil is deprecated in macOS 27 Golden Gate",
+      "https://lapcatsoftware.com/articles/2026/8/7.html"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 19:08:47",
       "https://lobste.rs/s/a23bk3/netbsd_my_life_2005"
     ],
@@ -97,16 +107,6 @@
     [
       "nss-userhosts - hosts files for unprivileged users",
       "https://codeberg.org/felixs/nss-userhosts"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 15:25:07",
-      "https://lobste.rs/s/2mvgzt/injectionbunny_ntfs3_suid_injection_for"
-    ],
-    [
-      "InjectionBunny, a NTFS3 SUID injection for privilege escalation",
-      "https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9"
     ]
   ],
   [
