@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-23, 06:56:45",
+      "https://lobste.rs/s/r1ezk0/foundational_verification_running_time"
+    ],
+    [
+      "Foundational Verification of Running-Time Bounds for Interactive Programs",
+      "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 05:39:03",
       "https://lobste.rs/s/jspua4/integrating_discord_sdk_into_eve"
     ],
@@ -177,16 +187,6 @@
     [
       "The cool things of Gleam",
       "https://a.baez.link/3mtdbbp2dmc27"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 05:19:19",
-      "https://lobste.rs/s/zfew3n/roomy_is_generally_available"
-    ],
-    [
-      "Roomy is generally available",
-      "https://blog.roomy.space/3mplw6vvw4s23"
     ]
   ],
   [
