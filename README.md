@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
+* [2026-08-23, 16:46:02](https://lobste.rs/s/9hb9ou/are_15_all_commits_fixes_2025) - [Are 15% of all commits fixes? (2025)](https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/)
+* [2026-08-23, 16:45:43](https://lobste.rs/s/p92osu/rsoc_2026_eevdf_for_redox) - [RSoC 2026: EEVDF for Redox](https://www.redox-os.org/news/rsoc-eevdf/)
 * [2026-08-23, 16:11:39](https://lobste.rs/s/tc2em9/how_report_bug_so_it_actually_gets_fixed) - [How To Report A Bug So It Actually Gets Fixed](https://blog.tymscar.com/posts/howtoreportabug/)
 * [2026-08-23, 15:45:01](https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i) - [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
 * [2026-08-23, 15:10:59](https://lobste.rs/s/au6oho/eh_minimalist_vi_like_editor) - [eh: a minimalist vi-like editor](https://codeberg.org/SirWumpus/eh)
@@ -16,7 +17,6 @@
 * [2026-08-23, 06:56:45](https://lobste.rs/s/r1ezk0/foundational_verification_running_time) - [Foundational Verification of Running-Time Bounds for Interactive Programs](https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 23:17:44](https://lobste.rs/s/er8kot/immortal_1984_macintosh_restoration) - [The immortal 1984 Macintosh (restoration diary)](https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html)
-* [2026-08-22, 21:21:43](https://lobste.rs/s/ate5gb/kde_linux_experiences) - [KDE Linux experiences](https://akselmo.dev/posts/kde-linux-experiences/)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
 * [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
