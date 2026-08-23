@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-23, 18:49:26](https://lobste.rs/s/xiwynb/tmp_0ut_volume_5) - [tmp.0ut volume 5](https://tmpout.sh/5/)
+* [2026-08-23, 19:04:41](https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents) - [Wild AI-related reliability incidents are coming](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
 * [2026-08-23, 16:46:02](https://lobste.rs/s/9hb9ou/are_15_all_commits_fixes_2025) - [Are 15% of all commits fixes? (2025)](https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/)
 * [2026-08-23, 16:45:43](https://lobste.rs/s/p92osu/rsoc_2026_eevdf_for_redox) - [RSoC 2026: EEVDF for Redox](https://www.redox-os.org/news/rsoc-eevdf/)
 * [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
