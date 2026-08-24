@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 15:47:25](https://lobste.rs/s/3hoiw8/changing_role_finite_state_model) - [The changing role of finite-state model checking](https://ahelwer.ca/post/2026-08-24-finite-state-future/)
+* [2026-08-24, 15:24:13](https://lobste.rs/s/oqv9np/ipython_is_all_you_need) - [IPython is All You Need](https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need)
 * [2026-08-24, 15:03:22](https://lobste.rs/s/plmwzl/perspec_1_0_haskell_desktop_app_for) - [Perspec 1.0: A Haskell desktop app for perspective correction of document photos](https://adriansieber.com/announcing-perspec-1-0/)
 * [2026-08-24, 14:36:35](https://lobste.rs/s/swzhtb/dynamically_naming_servers) - [Dynamically Naming Servers](https://arch.dog/bark/dynamically-naming-servers)
 * [2026-08-24, 13:56:40](https://lobste.rs/s/iii8sl/micro_language_implementation_calcium) - [Micro language implementation: Calcium](https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium)
