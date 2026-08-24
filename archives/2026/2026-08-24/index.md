@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 15:03:22](https://lobste.rs/s/plmwzl/perspec_1_0_haskell_desktop_app_for) - [Perspec 1.0: A Haskell desktop app for perspective correction of document photos](https://adriansieber.com/announcing-perspec-1-0/)
+* [2026-08-24, 14:36:35](https://lobste.rs/s/swzhtb/dynamically_naming_servers) - [Dynamically Naming Servers](https://arch.dog/bark/dynamically-naming-servers)
 * [2026-08-24, 13:56:40](https://lobste.rs/s/iii8sl/micro_language_implementation_calcium) - [Micro language implementation: Calcium](https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium)
 * [2026-08-24, 11:58:18](https://lobste.rs/s/3vg7ts/control_complexity_tension_systems) - [Control and complexity: tension in systems design](https://ferd.ca/control-and-complexity-tension-in-systems-design.html)
 * [2026-08-24, 10:52:27](https://lobste.rs/s/rehaa3/emacs_31_1_released) - [Emacs 31.1 released](https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html)
