@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 20:53:40](https://lobste.rs/s/uodrjx/kudu_easily_manage_vms_on_linux) - [kudu - easily manage VMs on Linux](https://github.com/pythops/kudu)
 * [2026-08-24, 19:08:59](https://lobste.rs/s/daohlz/routeup_stable_local_https_urls_opt) - [Routeup – stable local HTTPS URLs and opt-in public tunnels](https://routeup.dev)
 * [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
 * [2026-08-24, 16:20:42](https://lobste.rs/s/gzddgr/ai_coding_will_prevent_expertise_lars) - [AI Coding will Prevent Expertise | Lars Faye](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
@@ -11,6 +12,7 @@
 * [2026-08-24, 16:04:45](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout) - [I cannot survive from burnout](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout)
 * [2026-08-24, 15:47:25](https://lobste.rs/s/3hoiw8/changing_role_finite_state_model) - [The changing role of finite-state model checking](https://ahelwer.ca/post/2026-08-24-finite-state-future/)
 * [2026-08-24, 15:24:13](https://lobste.rs/s/oqv9np/ipython_is_all_you_need) - [IPython is All You Need](https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need)
+* [2026-08-24, 15:15:43](https://lobste.rs/s/hgirjs/atkinson_hyperlegible_appears_little) - [Atkinson Hyperlegible appears a little smaller than some other fonts at the same font size](https://twotwos.nekoweb.org/posts/hyperlegible.html)
 * [2026-08-24, 15:03:22](https://lobste.rs/s/plmwzl/perspec_1_0_haskell_desktop_app_for) - [Perspec 1.0: A Haskell desktop app for perspective correction of document photos](https://adriansieber.com/announcing-perspec-1-0/)
 * [2026-08-24, 14:36:35](https://lobste.rs/s/swzhtb/dynamically_naming_servers) - [Dynamically Naming Servers](https://arch.dog/bark/dynamically-naming-servers)
 * [2026-08-24, 13:56:40](https://lobste.rs/s/iii8sl/micro_language_implementation_calcium) - [Micro language implementation: Calcium](https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium)
