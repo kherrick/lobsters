@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
+* [2026-08-24, 16:20:42](https://lobste.rs/s/gzddgr/ai_coding_will_prevent_expertise_lars) - [AI Coding will Prevent Expertise | Lars Faye](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 * [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)
 * [2026-08-24, 16:04:45](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout) - [I cannot survive from burnout](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout)
 * [2026-08-24, 15:47:25](https://lobste.rs/s/3hoiw8/changing_role_finite_state_model) - [The changing role of finite-state model checking](https://ahelwer.ca/post/2026-08-24-finite-state-future/)

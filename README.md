@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
+* [2026-08-24, 16:20:42](https://lobste.rs/s/gzddgr/ai_coding_will_prevent_expertise_lars) - [AI Coding will Prevent Expertise | Lars Faye](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 * [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)
 * [2026-08-24, 16:04:45](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout) - [I cannot survive from burnout](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout)
 * [2026-08-24, 15:24:13](https://lobste.rs/s/oqv9np/ipython_is_all_you_need) - [IPython is All You Need](https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need)
@@ -17,8 +19,6 @@
 * [2026-08-23, 21:37:23](https://lobste.rs/s/ft1wfv/my_diy_def_con_choker_has_screen_on_it) - [My DIY DEF CON Choker Has a Screen On It](https://www.scd31.com/posts/defcon-choker)
 * [2026-08-23, 21:00:46](https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
-* [2026-08-23, 19:04:41](https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents) - [Wild AI-related reliability incidents are coming](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
-* [2026-08-23, 18:49:26](https://lobste.rs/s/xiwynb/tmp_0ut_volume_5) - [tmp.0ut volume 5](https://tmpout.sh/5/)
 * [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
 * [2026-08-23, 15:45:01](https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i) - [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
 * [2026-08-23, 14:45:46](https://lobste.rs/s/gybcec/my_favorite_computer_science_books_why) - [My favorite Computer Science books, and why](https://backtracking.github.io/en/2020/02/20/cs-books.html)
