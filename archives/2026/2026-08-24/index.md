@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 23:04:39](https://lobste.rs/s/0i7pks/sloc_cloc_code_4_0_scc_finding_files_need) - [Sloc Cloc and Code 4.0 (scc) - Finding the files that need the most attention](https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/)
 * [2026-08-24, 21:28:12](https://lobste.rs/s/al6sdh/distributed_identity) - [distributed identity](https://jyn.dev/distributed-identity/)
 * [2026-08-24, 20:53:40](https://lobste.rs/s/uodrjx/kudu_easily_manage_vms_on_linux) - [kudu - easily manage VMs on Linux](https://github.com/pythops/kudu)
 * [2026-08-24, 19:08:59](https://lobste.rs/s/daohlz/routeup_stable_local_https_urls_opt) - [Routeup – stable local HTTPS URLs and opt-in public tunnels](https://routeup.dev)
