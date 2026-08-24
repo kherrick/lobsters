@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-24, 07:10:16](https://lobste.rs/s/tkvorw/kodak_dc50_now_usable_on_apple_ii) - [Kodak DC50 now usable on the Apple II](https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/)
+* [2026-08-24, 06:50:28](https://lobste.rs/s/lcbq86/touch_lightweight_implementation_unix) - [touch - A lightweight implementation of the Unix touch command for Windows](https://github.com/rajtilakjee/touch)
 * [2026-08-24, 03:22:13](https://lobste.rs/s/vcdk2q/everything_i_own_owned) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 * [2026-08-24, 01:16:56](https://lobste.rs/s/pkktjt/adding_jit_compilation_toy_interpreter) - [Adding JIT-compilation to a toy interpreter with libgccjit](https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html)
 * [2026-08-24, 00:15:01](https://lobste.rs/s/slaivx/offgrid_electric_car_2025) - [offgrid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
 * [2026-08-23, 21:37:23](https://lobste.rs/s/ft1wfv/my_diy_def_con_choker_has_screen_on_it) - [My DIY DEF CON Choker Has a Screen On It](https://www.scd31.com/posts/defcon-choker)
-* [2026-08-23, 21:24:36](https://lobste.rs/s/jxloti/svg_filter_effects_creating_texture_with) - [SVG Filter Effects: Creating Texture with <feTurbulence> (2019)](https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/)
 * [2026-08-23, 21:00:46](https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
 * [2026-08-23, 20:51:00](https://lobste.rs/s/hypo37/declarative_webgpu_with_s_expressions) - [Declarative WebGPU with S-expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
@@ -23,7 +24,6 @@
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
-* [2026-08-22, 14:31:21](https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be) - [There continue to be reasons for software to be slow](https://typesanitizer.com/blog/performance-issues.html)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 
 ## [Archives](archives/index.md)
