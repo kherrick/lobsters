@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-24, 15:03:22",
+      "https://lobste.rs/s/plmwzl/perspec_1_0_haskell_desktop_app_for"
+    ],
+    [
+      "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
+      "https://adriansieber.com/announcing-perspec-1-0/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 14:36:35",
+      "https://lobste.rs/s/swzhtb/dynamically_naming_servers"
+    ],
+    [
+      "Dynamically Naming Servers",
+      "https://arch.dog/bark/dynamically-naming-servers"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 13:56:40",
       "https://lobste.rs/s/iii8sl/micro_language_implementation_calcium"
     ],
@@ -27,16 +47,6 @@
     [
       "Emacs 31.1 released",
       "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 09:56:57",
-      "https://lobste.rs/s/gj556c/tiny_untyped_monads_2024"
-    ],
-    [
-      "Tiny, Untyped Monads (2024)",
-      "https://text.marvinborner.de/2024-11-18-00.html"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Everything I own, owned",
       "https://schlarp.com/posts/everything-i-own-owned/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 01:16:56",
-      "https://lobste.rs/s/pkktjt/adding_jit_compilation_toy_interpreter"
-    ],
-    [
-      "Adding JIT-compilation to a toy interpreter with libgccjit",
-      "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html"
     ]
   ],
   [
