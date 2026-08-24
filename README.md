@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-24, 01:16:56](https://lobste.rs/s/pkktjt/adding_jit_compilation_toy_interpreter) - [Adding JIT-compilation to a toy interpreter with libgccjit](https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html)
 * [2026-08-24, 00:15:01](https://lobste.rs/s/slaivx/offgrid_electric_car_2025) - [offgrid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
 * [2026-08-23, 21:37:23](https://lobste.rs/s/ft1wfv/my_diy_def_con_choker_has_screen_on_it) - [My DIY DEF CON Choker Has a Screen On It](https://www.scd31.com/posts/defcon-choker)
 * [2026-08-23, 21:24:36](https://lobste.rs/s/jxloti/svg_filter_effects_creating_texture_with) - [SVG Filter Effects: Creating Texture with <feTurbulence> (2019)](https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/)
@@ -22,7 +23,6 @@
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
-* [2026-08-22, 16:04:51](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu) - [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
 * [2026-08-22, 14:31:21](https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be) - [There continue to be reasons for software to be slow](https://typesanitizer.com/blog/performance-issues.html)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 
