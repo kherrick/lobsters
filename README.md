@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-24, 00:18:06](https://lobste.rs/s/rgmisz/bringing_rails_into_ractor_age) - [Bringing Rails into the Ractor-age](https://railsatscale.com/2026-08-11-ractors-on-rails/)
+* [2026-08-24, 00:15:01](https://lobste.rs/s/slaivx/offgrid_electric_car_2025) - [offgrid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
 * [2026-08-23, 21:37:23](https://lobste.rs/s/ft1wfv/my_diy_def_con_choker_has_screen_on_it) - [My DIY DEF CON Choker Has a Screen On It](https://www.scd31.com/posts/defcon-choker)
+* [2026-08-23, 21:24:36](https://lobste.rs/s/jxloti/svg_filter_effects_creating_texture_with) - [SVG Filter Effects: Creating Texture with <feTurbulence> (2019)](https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/)
 * [2026-08-23, 21:00:46](https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
 * [2026-08-23, 20:51:00](https://lobste.rs/s/hypo37/declarative_webgpu_with_s_expressions) - [Declarative WebGPU with S-expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
@@ -16,7 +17,6 @@
 * [2026-08-23, 14:45:46](https://lobste.rs/s/gybcec/my_favorite_computer_science_books_why) - [My favorite Computer Science books, and why](https://backtracking.github.io/en/2020/02/20/cs-books.html)
 * [2026-08-23, 14:45:32](https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs) - [An Introduction to Canvas in GNU Emacs](https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html)
 * [2026-08-23, 12:28:24](https://lobste.rs/s/dyxeyu/hister_private_full_content_search_index) - [Hister - A private, full content search index that you control](https://hister.org/)
-* [2026-08-23, 12:22:43](https://lobste.rs/s/nxeygh/friendly_introduction_racket) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 * [2026-08-23, 12:15:54](https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
 * [2026-08-23, 12:08:25](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf) - [Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
