@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-24, 03:22:13](https://lobste.rs/s/vcdk2q/everything_i_own_owned) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 * [2026-08-24, 01:16:56](https://lobste.rs/s/pkktjt/adding_jit_compilation_toy_interpreter) - [Adding JIT-compilation to a toy interpreter with libgccjit](https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html)
 * [2026-08-24, 00:15:01](https://lobste.rs/s/slaivx/offgrid_electric_car_2025) - [offgrid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
 * [2026-08-23, 21:37:23](https://lobste.rs/s/ft1wfv/my_diy_def_con_choker_has_screen_on_it) - [My DIY DEF CON Choker Has a Screen On It](https://www.scd31.com/posts/defcon-choker)
@@ -9,7 +10,6 @@
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
 * [2026-08-23, 19:04:41](https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents) - [Wild AI-related reliability incidents are coming](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
 * [2026-08-23, 18:49:26](https://lobste.rs/s/xiwynb/tmp_0ut_volume_5) - [tmp.0ut volume 5](https://tmpout.sh/5/)
-* [2026-08-23, 16:45:43](https://lobste.rs/s/p92osu/rsoc_2026_eevdf_for_redox) - [RSoC 2026: EEVDF for Redox](https://www.redox-os.org/news/rsoc-eevdf/)
 * [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
 * [2026-08-23, 16:11:39](https://lobste.rs/s/tc2em9/how_report_bug_so_it_actually_gets_fixed) - [How To Report A Bug So It Actually Gets Fixed](https://blog.tymscar.com/posts/howtoreportabug/)
 * [2026-08-23, 15:45:01](https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i) - [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
