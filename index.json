@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-24, 01:16:56",
+      "https://lobste.rs/s/pkktjt/adding_jit_compilation_toy_interpreter"
+    ],
+    [
+      "Adding JIT-compilation to a toy interpreter with libgccjit",
+      "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 00:15:01",
       "https://lobste.rs/s/slaivx/offgrid_electric_car_2025"
     ],
@@ -217,16 +227,6 @@
     [
       "A 2026 Survey of Rust GUI Libraries",
       "https://blog.wybxc.cc/blog/rust-gui-survey-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 16:04:51",
-      "https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu"
-    ],
-    [
-      "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-      "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c"
     ]
   ],
   [
