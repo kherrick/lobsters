@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 09:43:23](https://lobste.rs/s/xlorxi/3_constraints_before_i_build_anything) - [3 constraints before I build anything | Jordan Lord](https://jordanlord.co.uk/blog/3-constraints/)
+* [2026-08-24, 09:40:30](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week)
 * [2026-08-24, 08:40:45](https://lobste.rs/s/ihethb/building_certgrep_sh_free_certificate) - [Building certgrep.sh: a free certificate transparency search engine](https://haveibeensquatted.com/blog/building-certgrep)
 * [2026-08-24, 07:32:45](https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database) - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 * [2026-08-24, 07:10:16](https://lobste.rs/s/tkvorw/kodak_dc50_now_usable_on_apple_ii) - [Kodak DC50 now usable on the Apple II](https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/)
