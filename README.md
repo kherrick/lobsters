@@ -19,7 +19,7 @@
 * [2026-08-23, 21:37:23](https://lobste.rs/s/ft1wfv/my_diy_def_con_choker_has_screen_on_it) - [My DIY DEF CON Choker Has a Screen On It](https://www.scd31.com/posts/defcon-choker)
 * [2026-08-23, 21:00:46](https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
-* [2026-08-23, 16:32:59](https://lobste.rs/s/ek0aqp/it_s_ok_do_your_thing) - [It's OK. Do Your Thing](https://buttondown.com/carlton/archive/its-ok-do-your-thing/)
+* [2026-08-23, 18:49:26](https://lobste.rs/s/xiwynb/tmp_0ut_volume_5) - [tmp.0ut volume 5](https://tmpout.sh/5/)
 * [2026-08-23, 15:45:01](https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i) - [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
 * [2026-08-23, 14:45:46](https://lobste.rs/s/gybcec/my_favorite_computer_science_books_why) - [My favorite Computer Science books, and why](https://backtracking.github.io/en/2020/02/20/cs-books.html)
 * [2026-08-23, 14:45:32](https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs) - [An Introduction to Canvas in GNU Emacs](https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html)
