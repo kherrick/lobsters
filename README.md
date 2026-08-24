@@ -2,7 +2,7 @@
 
 * [2026-08-24, 10:52:27](https://lobste.rs/s/rehaa3/emacs_31_1_released) - [Emacs 31.1 released](https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html)
 * [2026-08-24, 09:56:57](https://lobste.rs/s/gj556c/tiny_untyped_monads_2024) - [Tiny, Untyped Monads (2024)](https://text.marvinborner.de/2024-11-18-00.html)
-* [2026-08-24, 09:43:23](https://lobste.rs/s/xlorxi/3_constraints_before_i_build_anything) - [3 constraints before I build anything | Jordan Lord](https://jordanlord.co.uk/blog/3-constraints/)
+* [2026-08-24, 09:43:23](https://lobste.rs/s/xlorxi/3_constraints_before_i_build_anything) - [3 constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
 * [2026-08-24, 09:40:30](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week)
 * [2026-08-24, 08:40:45](https://lobste.rs/s/ihethb/building_certgrep_sh_free_certificate) - [Building certgrep.sh: a free certificate transparency search engine](https://haveibeensquatted.com/blog/building-certgrep)
 * [2026-08-24, 07:32:45](https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database) - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
