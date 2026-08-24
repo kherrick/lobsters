@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-24, 10:52:27](https://lobste.rs/s/rehaa3/emacs_31_1_released) - [Emacs 31.1 released](https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html)
 * [2026-08-24, 09:56:57](https://lobste.rs/s/gj556c/tiny_untyped_monads_2024) - [Tiny, Untyped Monads (2024)](https://text.marvinborner.de/2024-11-18-00.html)
 * [2026-08-24, 09:43:23](https://lobste.rs/s/xlorxi/3_constraints_before_i_build_anything) - [3 constraints before I build anything | Jordan Lord](https://jordanlord.co.uk/blog/3-constraints/)
 * [2026-08-24, 09:40:30](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2026-08-23, 12:28:24](https://lobste.rs/s/dyxeyu/hister_private_full_content_search_index) - [Hister - A private, full content search index that you control](https://hister.org/)
 * [2026-08-23, 12:15:54](https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
 * [2026-08-23, 12:08:25](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf) - [Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf)
-* [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 
 ## [Archives](archives/index.md)
 
