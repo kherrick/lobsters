@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-24, 08:40:45](https://lobste.rs/s/ihethb/building_certgrep_sh_free_certificate) - [Building certgrep.sh: a free certificate transparency search engine](https://haveibeensquatted.com/blog/building-certgrep)
 * [2026-08-24, 07:32:45](https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database) - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 * [2026-08-24, 07:10:16](https://lobste.rs/s/tkvorw/kodak_dc50_now_usable_on_apple_ii) - [Kodak DC50 now usable on the Apple II](https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/)
 * [2026-08-24, 03:22:13](https://lobste.rs/s/vcdk2q/everything_i_own_owned) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
@@ -23,7 +24,6 @@
 * [2026-08-23, 12:08:25](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf) - [Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf)
 * [2026-08-23, 04:48:06](https://lobste.rs/s/vikit1/why_aren_t_my_two_cortex_a9_cores_cache) - [Why aren't my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
 * [2026-08-22, 19:08:47](https://lobste.rs/s/a23bk3/netbsd_my_life_2005) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
-* [2026-08-22, 17:52:17](https://lobste.rs/s/83yugk/2026_survey_rust_gui_libraries) - [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
 * [2026-08-22, 12:41:39](https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work) - [You should never be angry at work](https://www.seangoedecke.com/you-should-never-be-angry-at-work/)
 
 ## [Archives](archives/index.md)
