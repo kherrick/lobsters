@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-24, 21:28:12",
+      "https://lobste.rs/s/al6sdh/distributed_identity"
+    ],
+    [
+      "distributed identity",
+      "https://jyn.dev/distributed-identity/"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 20:53:40",
       "https://lobste.rs/s/uodrjx/kudu_easily_manage_vms_on_linux"
     ],
@@ -227,16 +237,6 @@
     [
       "An Introduction to Canvas in GNU Emacs",
       "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 12:28:24",
-      "https://lobste.rs/s/dyxeyu/hister_private_full_content_search_index"
-    ],
-    [
-      "Hister - A private, full content search index that you control",
-      "https://hister.org/"
     ]
   ],
   [
