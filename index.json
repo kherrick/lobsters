@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-24, 07:10:16",
+      "https://lobste.rs/s/tkvorw/kodak_dc50_now_usable_on_apple_ii"
+    ],
+    [
+      "Kodak DC50 now usable on the Apple II",
+      "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 06:50:28",
+      "https://lobste.rs/s/lcbq86/touch_lightweight_implementation_unix"
+    ],
+    [
+      "touch - A lightweight implementation of the Unix touch command for Windows",
+      "https://github.com/rajtilakjee/touch"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 03:22:13",
       "https://lobste.rs/s/vcdk2q/everything_i_own_owned"
     ],
@@ -37,16 +57,6 @@
     [
       "My DIY DEF CON Choker Has a Screen On It",
       "https://www.scd31.com/posts/defcon-choker"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 21:24:36",
-      "https://lobste.rs/s/jxloti/svg_filter_effects_creating_texture_with"
-    ],
-    [
-      "SVG Filter Effects: Creating Texture with <feTurbulence> (2019)",
-      "https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "A 2026 Survey of Rust GUI Libraries",
       "https://blog.wybxc.cc/blog/rust-gui-survey-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 14:31:21",
-      "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be"
-    ],
-    [
-      "There continue to be reasons for software to be slow",
-      "https://typesanitizer.com/blog/performance-issues.html"
     ]
   ],
   [
