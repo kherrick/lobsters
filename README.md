@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-24, 15:47:25](https://lobste.rs/s/3hoiw8/changing_role_finite_state_model) - [The changing role of finite-state model checking](https://ahelwer.ca/post/2026-08-24-finite-state-future/)
+* [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)
+* [2026-08-24, 16:04:45](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout) - [I cannot survive from burnout](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout)
 * [2026-08-24, 15:24:13](https://lobste.rs/s/oqv9np/ipython_is_all_you_need) - [IPython is All You Need](https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need)
 * [2026-08-24, 15:03:22](https://lobste.rs/s/plmwzl/perspec_1_0_haskell_desktop_app_for) - [Perspec 1.0: A Haskell desktop app for perspective correction of document photos](https://adriansieber.com/announcing-perspec-1-0/)
 * [2026-08-24, 14:36:35](https://lobste.rs/s/swzhtb/dynamically_naming_servers) - [Dynamically Naming Servers](https://arch.dog/bark/dynamically-naming-servers)
@@ -24,7 +25,6 @@
 * [2026-08-23, 14:45:32](https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs) - [An Introduction to Canvas in GNU Emacs](https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html)
 * [2026-08-23, 12:28:24](https://lobste.rs/s/dyxeyu/hister_private_full_content_search_index) - [Hister - A private, full content search index that you control](https://hister.org/)
 * [2026-08-23, 12:15:54](https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
-* [2026-08-23, 12:08:25](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf) - [Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)
+* [2026-08-24, 16:04:45](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout) - [I cannot survive from burnout](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout)
 * [2026-08-24, 15:47:25](https://lobste.rs/s/3hoiw8/changing_role_finite_state_model) - [The changing role of finite-state model checking](https://ahelwer.ca/post/2026-08-24-finite-state-future/)
 * [2026-08-24, 15:24:13](https://lobste.rs/s/oqv9np/ipython_is_all_you_need) - [IPython is All You Need](https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need)
 * [2026-08-24, 15:03:22](https://lobste.rs/s/plmwzl/perspec_1_0_haskell_desktop_app_for) - [Perspec 1.0: A Haskell desktop app for perspective correction of document photos](https://adriansieber.com/announcing-perspec-1-0/)
