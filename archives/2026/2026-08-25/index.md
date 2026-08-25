@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
 * [2026-08-25, 17:42:15](https://lobste.rs/s/52povq/ai_review_loops_don_t_always_stabilise) - [AI Review Loops Don't Always Stabilise](https://kevinmahoney.co.uk/articles/ai-review-loops/)
+* [2026-08-25, 17:22:07](https://lobste.rs/s/a371nr/sync_heap_delete_first_ask_questions) - [The Sync Heap: Delete First, Ask Questions Later](https://arxiv.org/pdf/2608.07134)
 * [2026-08-25, 16:52:46](https://lobste.rs/s/e1oalq/move_python_3_begins) - [The Move to Python 3 Begins](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
 * [2026-08-25, 16:44:37](https://lobste.rs/s/za8vwp/run_openbsd_on_digitalocean_for_4_month) - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 * [2026-08-25, 15:51:24](https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with) - [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
