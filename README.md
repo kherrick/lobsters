@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-25, 17:42:15](https://lobste.rs/s/52povq/ai_review_loops_don_t_always_stabilise) - [AI Review Loops Don't Always Stabilise](https://kevinmahoney.co.uk/articles/ai-review-loops/)
+* [2026-08-25, 16:52:46](https://lobste.rs/s/e1oalq/move_python_3_begins) - [The Move to Python 3 Begins](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
 * [2026-08-25, 16:44:37](https://lobste.rs/s/za8vwp/run_openbsd_on_digitalocean_for_4_month) - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 * [2026-08-25, 15:51:24](https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with) - [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 15:11:30](https://lobste.rs/s/gizvfn/i_stabilized_never_type) - [I stabilized never type](https://blog.ihatereality.space/0C-never-type/)
@@ -14,9 +16,7 @@
 * [2026-08-25, 10:01:40](https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th) - [Porffor goes alpha August 11th](https://honk.foo/porffor-alpha/)
 * [2026-08-25, 09:33:23](https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer) - [Galaxium, a WebGPU universe explorer](https://galaxium.app)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
-* [2026-08-25, 08:04:13](https://lobste.rs/s/4haxto/design_space_exploration_async_await) - [A Design Space Exploration of Async/Await](https://arxiv.org/pdf/2608.20677)
 * [2026-08-25, 02:44:14](https://lobste.rs/s/w0d3um/pop_2000_lingua_franca_pop_2_dialect) - [POP-2000, a lingua-franca POP-2 dialect](https://hitogata.neocities.org/POP-2000)
-* [2026-08-24, 21:28:12](https://lobste.rs/s/al6sdh/distributed_identity) - [distributed identity](https://jyn.dev/distributed-identity/)
 * [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
 * [2026-08-24, 16:20:42](https://lobste.rs/s/gzddgr/ai_coding_will_prevent_expertise) - [AI Coding will Prevent Expertise](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 * [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)
