@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-08-25, 17:22:07",
-      "https://lobste.rs/s/a371nr/sync_heap_delete_first_ask_questions"
-    ],
-    [
-      "The Sync Heap: Delete First, Ask Questions Later",
-      "https://arxiv.org/pdf/2608.07134"
-    ]
-  ],
-  [
-    [
       "2026-08-25, 16:52:46",
       "https://lobste.rs/s/e1oalq/move_python_3_begins"
     ],
@@ -47,6 +37,16 @@
     [
       "I stabilized never type",
       "https://blog.ihatereality.space/0C-never-type/"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 14:49:30",
+      "https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep"
+    ],
+    [
+      "Feature comparison of ack, ag, git-grep, grep and ripgrep",
+      "https://beyondgrep.com/feature-comparison/"
     ]
   ],
   [
