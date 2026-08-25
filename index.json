@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-08-24, 23:04:39",
-      "https://lobste.rs/s/0i7pks/sloc_cloc_code_4_0_scc_finding_files_need"
-    ],
-    [
-      "Sloc Cloc and Code 4.0 (scc) - Finding the files that need the most attention",
-      "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 21:28:12",
       "https://lobste.rs/s/al6sdh/distributed_identity"
     ],
@@ -167,6 +157,16 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 08:40:45",
+      "https://lobste.rs/s/ihethb/building_certgrep_sh_free_certificate"
+    ],
+    [
+      "Building certgrep.sh: a free certificate transparency search engine",
+      "https://haveibeensquatted.com/blog/building-certgrep"
     ]
   ],
   [
