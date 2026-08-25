@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-25, 09:33:23](https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer) - [Galaxium, a WebGPU universe explorer](https://galaxium.app)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-25, 06:42:59](https://lobste.rs/s/fyps8w/haskell_diagrams_tessellations) - [Haskell diagrams: Tessellations](https://mgarletmilani.com/blog/2026-06-03-tessellations/)
 * [2026-08-25, 02:44:14](https://lobste.rs/s/w0d3um/pop_2000_lingua_franca_pop_2_dialect) - [POP-2000, a lingua-franca POP-2 dialect](https://hitogata.neocities.org/POP-2000)
@@ -24,7 +25,6 @@
 * [2026-08-24, 03:22:13](https://lobste.rs/s/vcdk2q/everything_i_own_owned) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 * [2026-08-24, 00:15:01](https://lobste.rs/s/slaivx/offgrid_electric_car_2025) - [offgrid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
-* [2026-08-23, 12:15:54](https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
 
 ## [Archives](archives/index.md)
 
