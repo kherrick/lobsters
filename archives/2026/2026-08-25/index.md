@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 14:18:01](https://lobste.rs/s/wbtixi/us_data_centers_tripled_water_use_17) - [US data centers tripled water use to 17 billion gallons](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
 * [2026-08-25, 13:54:28](https://lobste.rs/s/useg7x/xy_problem) - [The XY Problem](https://xyproblem.info/)
 * [2026-08-25, 13:29:53](https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine) - [Adding CPU affinity in a 24-core build machine made builds take longer](https://infosec.exchange/@david_chisnall/117156204452541109)
 * [2026-08-25, 12:26:40](https://lobste.rs/s/apjhyj/hunting_down_go_runtime_bug_on_32_bit) - [Hunting Down a Go Runtime Bug on 32-bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
