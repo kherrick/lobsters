@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
+* [2026-08-25, 06:42:59](https://lobste.rs/s/fyps8w/haskell_diagrams_tessellations) - [Haskell diagrams: Tessellations](https://mgarletmilani.com/blog/2026-06-03-tessellations/)
 * [2026-08-25, 02:44:14](https://lobste.rs/s/w0d3um/pop_2000_lingua_franca_pop_2_dialect) - [POP-2000, a lingua-franca POP-2 dialect](https://hitogata.neocities.org/POP-2000)
 * [2026-08-25, 01:06:46](https://lobste.rs/s/nfmlwp/hot_chips_2026_cuda_targets_risc_v) - [Hot Chips 2026: CUDA targets RISC-V](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
 * [2026-08-24, 21:28:12](https://lobste.rs/s/al6sdh/distributed_identity) - [distributed identity](https://jyn.dev/distributed-identity/)
 * [2026-08-24, 20:53:40](https://lobste.rs/s/uodrjx/kudu_easily_manage_vms_on_linux) - [kudu - easily manage VMs on Linux](https://github.com/pythops/kudu)
-* [2026-08-24, 19:19:58](https://lobste.rs/s/ashxnz/jabber_xmpp_25_years_digital) - [Jabber/XMPP: 25 Years of Digital Independence](https://gultsch.de/posts/25-years-of-digital-independence/)
 * [2026-08-24, 19:08:59](https://lobste.rs/s/daohlz/routeup_stable_local_https_urls_opt) - [Routeup – stable local HTTPS URLs and opt-in public tunnels](https://routeup.dev)
 * [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
 * [2026-08-24, 16:20:42](https://lobste.rs/s/gzddgr/ai_coding_will_prevent_expertise) - [AI Coding will Prevent Expertise](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
@@ -22,7 +23,6 @@
 * [2026-08-24, 07:32:45](https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database) - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 * [2026-08-24, 03:22:13](https://lobste.rs/s/vcdk2q/everything_i_own_owned) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 * [2026-08-24, 00:15:01](https://lobste.rs/s/slaivx/offgrid_electric_car_2025) - [offgrid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
-* [2026-08-23, 21:00:46](https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
 * [2026-08-23, 12:15:54](https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
 
