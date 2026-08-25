@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-25, 21:03:05](https://lobste.rs/s/2hsncr/maiao_gerrit_style_stacked_diffs_for) - [maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more](https://github.com/runetes/maiao)
 * [2026-08-25, 18:20:38](https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting) - [AI At Home Part 2: Multi GPU Drifting](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
 * [2026-08-25, 17:42:15](https://lobste.rs/s/52povq/ai_review_loops_don_t_always_stabilise) - [AI Review Loops Don't Always Stabilise](https://kevinmahoney.co.uk/articles/ai-review-loops/)
 * [2026-08-25, 16:52:46](https://lobste.rs/s/e1oalq/move_python_3_begins) - [The Move to Python 3 Begins](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
@@ -18,7 +19,6 @@
 * [2026-08-25, 10:01:40](https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th) - [Porffor goes alpha August 11th](https://honk.foo/porffor-alpha/)
 * [2026-08-25, 09:33:23](https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer) - [Galaxium, a WebGPU universe explorer](https://galaxium.app)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
-* [2026-08-25, 08:04:13](https://lobste.rs/s/4haxto/design_space_exploration_async_await) - [A Design Space Exploration of Async/Await](https://arxiv.org/pdf/2608.20677)
 * [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
 * [2026-08-24, 16:20:42](https://lobste.rs/s/gzddgr/ai_coding_will_prevent_expertise) - [AI Coding will Prevent Expertise](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 * [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)

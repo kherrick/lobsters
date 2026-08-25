@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 21:03:05](https://lobste.rs/s/2hsncr/maiao_gerrit_style_stacked_diffs_for) - [maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more](https://github.com/runetes/maiao)
 * [2026-08-25, 18:20:38](https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting) - [AI At Home Part 2: Multi GPU Drifting](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
 * [2026-08-25, 17:42:15](https://lobste.rs/s/52povq/ai_review_loops_don_t_always_stabilise) - [AI Review Loops Don't Always Stabilise](https://kevinmahoney.co.uk/articles/ai-review-loops/)
 * [2026-08-25, 17:22:07](https://lobste.rs/s/a371nr/sync_heap_delete_first_ask_questions) - [The Sync Heap: Delete First, Ask Questions Later](https://arxiv.org/pdf/2608.07134)
