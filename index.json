@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-25, 10:42:16",
+      "https://lobste.rs/s/4wh5ng/migrating_from_codeberg_pages_openbsd"
+    ],
+    [
+      "Migrating from Codeberg Pages to an OpenBSD VPS",
+      "https://nemin.hu/vps/index.html"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 10:01:40",
       "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th"
     ],
@@ -27,6 +37,16 @@
     [
       "Solving the 1+N query problem",
       "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 08:04:13",
+      "https://lobste.rs/s/4haxto/design_space_exploration_async_await"
+    ],
+    [
+      "A Design Space Exploration of Async/Await",
+      "https://arxiv.org/pdf/2608.20677"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-08-24, 15:47:25",
-      "https://lobste.rs/s/3hoiw8/changing_role_finite_state_model"
-    ],
-    [
-      "The changing role of finite-state model checking",
-      "https://ahelwer.ca/post/2026-08-24-finite-state-future/"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 15:24:13",
       "https://lobste.rs/s/oqv9np/ipython_is_all_you_need"
     ],
@@ -167,16 +177,6 @@
     [
       "Dynamically Naming Servers",
       "https://arch.dog/bark/dynamically-naming-servers"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 11:58:18",
-      "https://lobste.rs/s/3vg7ts/control_complexity_tension_systems"
-    ],
-    [
-      "Control and complexity: tension in systems design",
-      "https://ferd.ca/control-and-complexity-tension-in-systems-design.html"
     ]
   ],
   [
