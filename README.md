@@ -9,6 +9,7 @@
 * [2026-08-25, 09:33:23](https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer) - [Galaxium, a WebGPU universe explorer](https://galaxium.app)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-25, 08:04:13](https://lobste.rs/s/4haxto/design_space_exploration_async_await) - [A Design Space Exploration of Async/Await](https://arxiv.org/pdf/2608.20677)
+* [2026-08-25, 06:42:59](https://lobste.rs/s/fyps8w/haskell_diagrams_tessellations) - [Haskell diagrams: Tessellations](https://mgarletmilani.com/blog/2026-06-03-tessellations/)
 * [2026-08-25, 02:44:14](https://lobste.rs/s/w0d3um/pop_2000_lingua_franca_pop_2_dialect) - [POP-2000, a lingua-franca POP-2 dialect](https://hitogata.neocities.org/POP-2000)
 * [2026-08-25, 01:06:46](https://lobste.rs/s/nfmlwp/hot_chips_2026_cuda_targets_risc_v) - [Hot Chips 2026: CUDA targets RISC-V](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
 * [2026-08-24, 21:28:12](https://lobste.rs/s/al6sdh/distributed_identity) - [distributed identity](https://jyn.dev/distributed-identity/)
@@ -22,7 +23,6 @@
 * [2026-08-24, 15:03:22](https://lobste.rs/s/plmwzl/perspec_1_0_haskell_desktop_app_for) - [Perspec 1.0: A Haskell desktop app for perspective correction of document photos](https://adriansieber.com/announcing-perspec-1-0/)
 * [2026-08-24, 14:36:35](https://lobste.rs/s/swzhtb/dynamically_naming_servers) - [Dynamically Naming Servers](https://arch.dog/bark/dynamically-naming-servers)
 * [2026-08-24, 10:52:27](https://lobste.rs/s/rehaa3/emacs_31_1_released) - [Emacs 31.1 released](https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html)
-* [2026-08-24, 09:40:30](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week)
 * [2026-08-24, 07:32:45](https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database) - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 * [2026-08-24, 03:22:13](https://lobste.rs/s/vcdk2q/everything_i_own_owned) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 
