@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-24, 23:04:39](https://lobste.rs/s/0i7pks/sloc_cloc_code_4_0_scc_finding_files_need) - [Sloc Cloc and Code 4.0 (scc) - Finding the files that need the most attention](https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/)
 * [2026-08-24, 21:28:12](https://lobste.rs/s/al6sdh/distributed_identity) - [distributed identity](https://jyn.dev/distributed-identity/)
 * [2026-08-24, 20:53:40](https://lobste.rs/s/uodrjx/kudu_easily_manage_vms_on_linux) - [kudu - easily manage VMs on Linux](https://github.com/pythops/kudu)
 * [2026-08-24, 19:08:59](https://lobste.rs/s/daohlz/routeup_stable_local_https_urls_opt) - [Routeup – stable local HTTPS URLs and opt-in public tunnels](https://routeup.dev)
@@ -17,6 +16,7 @@
 * [2026-08-24, 10:52:27](https://lobste.rs/s/rehaa3/emacs_31_1_released) - [Emacs 31.1 released](https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html)
 * [2026-08-24, 09:43:23](https://lobste.rs/s/xlorxi/3_constraints_before_i_build_anything) - [3 constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
 * [2026-08-24, 09:40:30](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lo28ad/what_are_you_doing_this_week)
+* [2026-08-24, 08:40:45](https://lobste.rs/s/ihethb/building_certgrep_sh_free_certificate) - [Building certgrep.sh: a free certificate transparency search engine](https://haveibeensquatted.com/blog/building-certgrep)
 * [2026-08-24, 07:32:45](https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database) - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 * [2026-08-24, 03:22:13](https://lobste.rs/s/vcdk2q/everything_i_own_owned) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 * [2026-08-24, 00:15:01](https://lobste.rs/s/slaivx/offgrid_electric_car_2025) - [offgrid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
