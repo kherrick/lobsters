@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 11:16:01](https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware) - [MNT Station - A modular, open hardware desktop computer and server](https://www.crowdsupply.com/mnt-research/mnt-station)
+* [2026-08-25, 10:46:18](https://lobste.rs/s/b15udy/another_look_at_sqlite_s_wal_reset_bug) - [Another look at SQLite's WAL-Reset bug](https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html)
 * [2026-08-25, 10:42:16](https://lobste.rs/s/4wh5ng/migrating_from_codeberg_pages_openbsd) - [Migrating from Codeberg Pages to an OpenBSD VPS](https://nemin.hu/vps/index.html)
 * [2026-08-25, 10:01:40](https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th) - [Porffor goes alpha August 11th](https://honk.foo/porffor-alpha/)
 * [2026-08-25, 09:33:23](https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer) - [Galaxium, a WebGPU universe explorer](https://galaxium.app)
