@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-25, 08:25:23",
+      "https://lobste.rs/s/k5feqe/solving_1_n_query_problem"
+    ],
+    [
+      "Solving the 1+N query problem",
+      "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 06:42:59",
+      "https://lobste.rs/s/fyps8w/haskell_diagrams_tessellations"
+    ],
+    [
+      "Haskell diagrams: Tessellations",
+      "https://mgarletmilani.com/blog/2026-06-03-tessellations/"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 02:44:14",
       "https://lobste.rs/s/w0d3um/pop_2000_lingua_franca_pop_2_dialect"
     ],
@@ -37,16 +57,6 @@
     [
       "kudu - easily manage VMs on Linux",
       "https://github.com/pythops/kudu"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 19:19:58",
-      "https://lobste.rs/s/ashxnz/jabber_xmpp_25_years_digital"
-    ],
-    [
-      "Jabber/XMPP: 25 Years of Digital Independence",
-      "https://gultsch.de/posts/25-years-of-digital-independence/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "offgrid electric car (2025)",
       "https://joeyh.name/blog/entry/offgrid_electric_car/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 21:00:46",
-      "https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are"
-    ],
-    [
-      "The text mode lie: why modern TUIs are a nightmare for accessibility",
-      "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/"
     ]
   ],
   [
