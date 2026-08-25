@@ -3,7 +3,7 @@
 * [2026-08-25, 15:51:24](https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with) - [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 15:11:30](https://lobste.rs/s/gizvfn/i_stabilized_never_type) - [I stabilized never type](https://blog.ihatereality.space/0C-never-type/)
 * [2026-08-25, 14:49:30](https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep) - [Feature comparison of ack, ag, git-grep, grep and ripgrep](https://beyondgrep.com/feature-comparison/)
-* [2026-08-25, 14:18:01](https://lobste.rs/s/wbtixi/us_data_centers_tripled_water_use_17) - [US data centers tripled water use to 17 billion gallons](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
+* [2026-08-25, 14:40:28](https://lobste.rs/s/gyi8v8/replacing_rust_enum_with_64_bit_word_made) - [Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster](https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/)
 * [2026-08-25, 13:54:28](https://lobste.rs/s/useg7x/xy_problem) - [The XY Problem](https://xyproblem.info/)
 * [2026-08-25, 13:29:53](https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine) - [Adding CPU affinity in a 24-core build machine made builds take longer](https://infosec.exchange/@david_chisnall/117156204452541109)
 * [2026-08-25, 12:26:40](https://lobste.rs/s/apjhyj/hunting_down_go_runtime_bug_on_32_bit) - [Hunting Down a Go Runtime Bug on 32-bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
