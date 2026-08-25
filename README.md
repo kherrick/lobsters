@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-25, 02:44:14](https://lobste.rs/s/w0d3um/pop_2000_lingua_franca_pop_2_dialect) - [POP-2000, a lingua-franca POP-2 dialect](https://hitogata.neocities.org/POP-2000)
 * [2026-08-25, 01:06:46](https://lobste.rs/s/nfmlwp/hot_chips_2026_cuda_targets_risc_v) - [Hot Chips 2026: CUDA targets RISC-V](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
 * [2026-08-24, 21:28:12](https://lobste.rs/s/al6sdh/distributed_identity) - [distributed identity](https://jyn.dev/distributed-identity/)
 * [2026-08-24, 20:53:40](https://lobste.rs/s/uodrjx/kudu_easily_manage_vms_on_linux) - [kudu - easily manage VMs on Linux](https://github.com/pythops/kudu)
@@ -23,7 +24,6 @@
 * [2026-08-23, 21:00:46](https://lobste.rs/s/9i36rv/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
 * [2026-08-23, 19:23:51](https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on) - [Replicating Reddit's best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
 * [2026-08-23, 15:45:01](https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i) - [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
-* [2026-08-23, 14:45:32](https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs) - [An Introduction to Canvas in GNU Emacs](https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html)
 * [2026-08-23, 12:15:54](https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
 
 ## [Archives](archives/index.md)
