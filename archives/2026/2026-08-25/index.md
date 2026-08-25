@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 10:01:40](https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th) - [Porffor goes alpha August 11th](https://honk.foo/porffor-alpha/)
 * [2026-08-25, 09:33:23](https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer) - [Galaxium, a WebGPU universe explorer](https://galaxium.app)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-25, 06:42:59](https://lobste.rs/s/fyps8w/haskell_diagrams_tessellations) - [Haskell diagrams: Tessellations](https://mgarletmilani.com/blog/2026-06-03-tessellations/)

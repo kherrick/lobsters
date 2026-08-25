@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-25, 10:01:40](https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th) - [Porffor goes alpha August 11th](https://honk.foo/porffor-alpha/)
 * [2026-08-25, 09:33:23](https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer) - [Galaxium, a WebGPU universe explorer](https://galaxium.app)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-25, 06:42:59](https://lobste.rs/s/fyps8w/haskell_diagrams_tessellations) - [Haskell diagrams: Tessellations](https://mgarletmilani.com/blog/2026-06-03-tessellations/)
@@ -16,7 +17,6 @@
 * [2026-08-24, 15:24:13](https://lobste.rs/s/oqv9np/ipython_is_all_you_need) - [IPython is All You Need](https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need)
 * [2026-08-24, 15:03:22](https://lobste.rs/s/plmwzl/perspec_1_0_haskell_desktop_app_for) - [Perspec 1.0: A Haskell desktop app for perspective correction of document photos](https://adriansieber.com/announcing-perspec-1-0/)
 * [2026-08-24, 14:36:35](https://lobste.rs/s/swzhtb/dynamically_naming_servers) - [Dynamically Naming Servers](https://arch.dog/bark/dynamically-naming-servers)
-* [2026-08-24, 13:56:40](https://lobste.rs/s/iii8sl/micro_language_implementation_calcium) - [Micro language implementation: Calcium](https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium)
 * [2026-08-24, 11:58:18](https://lobste.rs/s/3vg7ts/control_complexity_tension_systems) - [Control and complexity: tension in systems design](https://ferd.ca/control-and-complexity-tension-in-systems-design.html)
 * [2026-08-24, 10:52:27](https://lobste.rs/s/rehaa3/emacs_31_1_released) - [Emacs 31.1 released](https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html)
 * [2026-08-24, 09:43:23](https://lobste.rs/s/xlorxi/3_constraints_before_i_build_anything) - [3 constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
