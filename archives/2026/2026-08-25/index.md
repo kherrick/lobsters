@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 13:54:28](https://lobste.rs/s/useg7x/xy_problem) - [The XY Problem](https://xyproblem.info/)
+* [2026-08-25, 13:29:53](https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine) - [Adding CPU affinity in a 24-core build machine made builds take longer](https://infosec.exchange/@david_chisnall/117156204452541109)
 * [2026-08-25, 12:26:40](https://lobste.rs/s/apjhyj/hunting_down_go_runtime_bug_on_32_bit) - [Hunting Down a Go Runtime Bug on 32-bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
 * [2026-08-25, 12:06:16](https://lobste.rs/s/ivr1bw/interactive_introduction_spanning_tree) - [An interactive introduction to the spanning tree protocol](https://vincent.bernat.ch/en/blog/2026-spanning-tree)
 * [2026-08-25, 11:16:01](https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware) - [MNT Station - A modular, open hardware desktop computer and server](https://www.crowdsupply.com/mnt-research/mnt-station)
