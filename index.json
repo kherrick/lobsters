@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-25, 14:18:01",
+      "https://lobste.rs/s/wbtixi/us_data_centers_tripled_water_use_17"
+    ],
+    [
+      "US data centers tripled water use to 17 billion gallons",
+      "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 13:54:28",
       "https://lobste.rs/s/useg7x/xy_problem"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-08-25, 06:42:59",
+      "https://lobste.rs/s/fyps8w/haskell_diagrams_tessellations"
+    ],
+    [
+      "Haskell diagrams: Tessellations",
+      "https://mgarletmilani.com/blog/2026-06-03-tessellations/"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 02:44:14",
       "https://lobste.rs/s/w0d3um/pop_2000_lingua_franca_pop_2_dialect"
     ],
@@ -127,16 +147,6 @@
     [
       "distributed identity",
       "https://jyn.dev/distributed-identity/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 20:53:40",
-      "https://lobste.rs/s/uodrjx/kudu_easily_manage_vms_on_linux"
-    ],
-    [
-      "kudu - easily manage VMs on Linux",
-      "https://github.com/pythops/kudu"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Your executable is a SQLite database",
       "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 03:22:13",
-      "https://lobste.rs/s/vcdk2q/everything_i_own_owned"
-    ],
-    [
-      "Everything I own, owned",
-      "https://schlarp.com/posts/everything-i-own-owned/"
     ]
   ]
 ]
