@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-26, 05:09:52",
+      "https://lobste.rs/s/e291dc/mold_massively_parallel_linker"
+    ],
+    [
+      "mold: A Massively Parallel Linker",
+      "https://arxiv.org/abs/2608.23228"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 02:12:38",
       "https://lobste.rs/s/8emue2/beauty_dsl_able_languages"
     ],
     [
       "the beauty in dsl-able languages",
       "https://w.on-t.work/dslable"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 22:32:49",
+      "https://lobste.rs/s/kp1khy/lively_merge_collaborative_programming"
+    ],
+    [
+      "Lively Merge | Collaborative programming kernels",
+      "https://www.inkandswitch.com/livelymerge/notebook/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "I stabilized never type",
       "https://blog.ihatereality.space/0C-never-type/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 14:49:30",
-      "https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep"
-    ],
-    [
-      "Feature comparison of ack, ag, git-grep, grep and ripgrep",
-      "https://beyondgrep.com/feature-comparison/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Intent to Ship: JPEG XL",
       "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 16:20:42",
-      "https://lobste.rs/s/gzddgr/ai_coding_will_prevent_expertise"
-    ],
-    [
-      "AI Coding will Prevent Expertise",
-      "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
     ]
   ],
   [
