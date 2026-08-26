@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-08-26, 10:38:35](https://lobste.rs/s/oqno0v/understanding_go_s_sync_map_from_api_hash) - [Understanding Go's sync.Map from API to Hash Trie](https://victoriametrics.com/blog/go-sync-map-hash-trie/)
-* [2026-08-26, 10:17:28](https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code) - [Why Google stores billions of lines of code in a single repository](https://dl.acm.org/doi/fullHtml/10.1145/2854146)
+* [2026-08-26, 10:17:28](https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code) - [Why Google stores billions of lines of code in a single repository (2016)](https://dl.acm.org/doi/fullHtml/10.1145/2854146)
 * [2026-08-26, 10:07:04](https://lobste.rs/s/tv1xpz/beyond_recall_illusion_competence) - [Beyond recall and the illusion of competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
 * [2026-08-26, 09:11:16](https://lobste.rs/s/3rtqua/problem_with_concurrent_linter_fixes) - [Problem with concurrent linter fixes](https://jfmengels.net/concurrent-linter-fixes/)
 * [2026-08-26, 07:55:34](https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026) - [Casey Muratori – The Root of The Root of All Evil – BSC 2026](https://www.youtube.com/watch?v=hpj6r6CjJf8)
