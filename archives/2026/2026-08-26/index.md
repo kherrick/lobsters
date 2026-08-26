@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 17:05:04](https://lobste.rs/s/q6qjjr/vms_won_t_contain_cyber_capable_agents) - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)
+* [2026-08-26, 17:01:38](https://lobste.rs/s/me3mun/motorola_s_grapheneos_phones_will_launch) - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/)
+* [2026-08-26, 16:22:23](https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released) - [Haiku R1/beta6 released](https://www.haiku-os.org/get-haiku/r1beta6/release-notes/)
+* [2026-08-26, 16:14:16](https://lobste.rs/s/fvvxvy/freedom_handcraft_software) - [Freedom to Handcraft Software](https://rohanrd.mataroa.blog/blog/freedom-to-handcraft-software/)
+* [2026-08-26, 14:48:01](https://lobste.rs/s/wski9u/websockets_vs_sse_should_be_about) - [WebSockets vs. SSE should be about ordering and correctness](https://dashbit.co/blog/websockets-vs-sse)
 * [2026-08-26, 14:42:53](https://lobste.rs/s/uvclgk/catching_nan_at_mlir_pass_boundary) - [Catching NaN at the MLIR Pass Boundary](https://thecloudlet.github.io/technical/compiler/catching-nan-at-the-mlir-pass-boundary/)
 * [2026-08-26, 14:30:41](https://lobste.rs/s/eove8s/merchants_insecurity) - [Merchants of Insecurity](https://blog.happyfellow.dev/merchants-of-insecurity/)
 * [2026-08-26, 14:02:47](https://lobste.rs/s/ildmgi/fixing_my_kinesis_advantage) - [Fixing my Kinesis Advantage](https://lukaswerner.com/post/2026-08-25@kinesis-advantage-build)
@@ -13,6 +18,7 @@
 * [2026-08-26, 10:17:28](https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code) - [Why Google stores billions of lines of code in a single repository](https://dl.acm.org/doi/fullHtml/10.1145/2854146)
 * [2026-08-26, 10:07:04](https://lobste.rs/s/tv1xpz/beyond_recall_illusion_competence) - [Beyond recall and the illusion of competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
 * [2026-08-26, 09:11:16](https://lobste.rs/s/3rtqua/problem_with_concurrent_linter_fixes) - [Problem with concurrent linter fixes](https://jfmengels.net/concurrent-linter-fixes/)
+* [2026-08-26, 07:55:34](https://lobste.rs/s/p8exgy/root_root_all_evil) - [The Root of The Root of All Evil](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 * [2026-08-26, 07:55:34](https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026) - [Casey Muratori – The Root of The Root of All Evil – BSC 2026](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 * [2026-08-26, 06:36:10](https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently) - [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
 * [2026-08-26, 06:00:12](https://lobste.rs/s/jykbra/using_typescript_obtain_one_rarest) - [Using TypeScript to Obtain One of the Rarest License Plates (2025)](https://www.jack.bio/blog/licenseplate)
