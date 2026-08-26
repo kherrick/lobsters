@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 14:42:53](https://lobste.rs/s/uvclgk/catching_nan_at_mlir_pass_boundary) - [Catching NaN at the MLIR Pass Boundary](https://thecloudlet.github.io/technical/compiler/catching-nan-at-the-mlir-pass-boundary/)
+* [2026-08-26, 14:30:41](https://lobste.rs/s/eove8s/merchants_insecurity) - [Merchants of Insecurity](https://blog.happyfellow.dev/merchants-of-insecurity/)
 * [2026-08-26, 14:02:47](https://lobste.rs/s/ildmgi/fixing_my_kinesis_advantage) - [Fixing my Kinesis Advantage](https://lukaswerner.com/post/2026-08-25@kinesis-advantage-build)
 * [2026-08-26, 13:32:39](https://lobste.rs/s/idtlvo/memory_ordering_cpus) - [Memory ordering in CPUs](https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/)
 * [2026-08-26, 12:20:51](https://lobste.rs/s/4zyd8o/readert_design_pattern_2017) - [The ReaderT Design Pattern (2017)](https://academy.fpblock.com/blog/2017/06/readert-design-pattern/)
