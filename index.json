@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-26, 07:55:34",
+      "https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026"
+    ],
+    [
+      "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
+      "https://www.youtube.com/watch?v=hpj6r6CjJf8"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 06:36:10",
       "https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently"
     ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2026-08-25, 14:49:30",
+      "https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep"
+    ],
+    [
+      "Feature comparison of ack, ag, git-grep, grep and ripgrep",
+      "https://beyondgrep.com/feature-comparison/"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 14:40:28",
       "https://lobste.rs/s/gyi8v8/replacing_rust_enum_with_64_bit_word_made"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-08-25, 10:01:40",
-      "https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th"
-    ],
-    [
-      "Porffor goes alpha August 11th",
-      "https://honk.foo/porffor-alpha/"
-    ]
-  ],
-  [
-    [
       "2026-08-25, 08:25:23",
       "https://lobste.rs/s/k5feqe/solving_1_n_query_problem"
     ],
@@ -237,16 +247,6 @@
     [
       "I cannot survive from burnout",
       "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 07:32:45",
-      "https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database"
-    ],
-    [
-      "Your executable is a SQLite database",
-      "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
     ]
   ]
 ]
