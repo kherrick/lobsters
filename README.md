@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-26, 06:36:10](https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently) - [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
+* [2026-08-26, 06:00:12](https://lobste.rs/s/jykbra/using_typescript_obtain_one_rarest) - [Using TypeScript to Obtain One of the Rarest License Plates (2025)](https://www.jack.bio/blog/licenseplate)
 * [2026-08-26, 05:09:52](https://lobste.rs/s/e291dc/mold_massively_parallel_linker) - [mold: A Massively Parallel Linker](https://arxiv.org/abs/2608.23228)
 * [2026-08-26, 02:12:38](https://lobste.rs/s/8emue2/beauty_dsl_able_languages) - [the beauty in dsl-able languages](https://w.on-t.work/dslable)
-* [2026-08-25, 22:32:49](https://lobste.rs/s/kp1khy/lively_merge_collaborative_programming) - [Lively Merge | Collaborative programming kernels](https://www.inkandswitch.com/livelymerge/notebook/)
 * [2026-08-25, 21:39:37](https://lobste.rs/s/vddo8h/fuzzing_gleam_compiler) - [Fuzzing The Gleam Compiler](https://www.kurz.net/posts/fuzzing-gleam-compiler)
 * [2026-08-25, 21:03:05](https://lobste.rs/s/2hsncr/maiao_gerrit_style_stacked_diffs_for) - [maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more](https://github.com/runetes/maiao)
 * [2026-08-25, 18:20:38](https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting) - [AI At Home Part 2: Multi GPU Drifting](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
@@ -19,7 +20,6 @@
 * [2026-08-25, 11:16:01](https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware) - [MNT Station - A modular, open hardware desktop computer and server](https://www.crowdsupply.com/mnt-research/mnt-station)
 * [2026-08-25, 10:42:16](https://lobste.rs/s/4wh5ng/migrating_from_codeberg_pages_openbsd) - [Migrating from Codeberg Pages to an OpenBSD VPS](https://nemin.hu/vps/index.html)
 * [2026-08-25, 10:01:40](https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th) - [Porffor goes alpha August 11th](https://honk.foo/porffor-alpha/)
-* [2026-08-25, 09:33:23](https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer) - [Galaxium, a WebGPU universe explorer](https://galaxium.app)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
 * [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)
