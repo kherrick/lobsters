@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-26, 19:53:01",
+      "https://lobste.rs/s/nksuk5/building_textlog_without_javascript"
+    ],
+    [
+      "Building textlog without JavaScript",
+      "https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 18:38:11",
+      "https://lobste.rs/s/p86r57/ducklabs_join_aws_projects_remain_open"
+    ],
+    [
+      "DuckLabs to Join AWS, Projects to Remain Open Source",
+      "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 17:05:04",
       "https://lobste.rs/s/q6qjjr/vms_won_t_contain_cyber_capable_agents"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-08-25, 12:06:16",
-      "https://lobste.rs/s/ivr1bw/interactive_introduction_spanning_tree"
-    ],
-    [
-      "An interactive introduction to the spanning tree protocol",
-      "https://vincent.bernat.ch/en/blog/2026-spanning-tree"
-    ]
-  ],
-  [
-    [
       "2026-08-25, 11:16:01",
       "https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware"
     ],
     [
       "MNT Station - A modular, open hardware desktop computer and server",
       "https://www.crowdsupply.com/mnt-research/mnt-station"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 10:42:16",
-      "https://lobste.rs/s/4wh5ng/migrating_from_codeberg_pages_openbsd"
-    ],
-    [
-      "Migrating from Codeberg Pages to an OpenBSD VPS",
-      "https://nemin.hu/vps/index.html"
     ]
   ]
 ]
