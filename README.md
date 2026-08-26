@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-26, 12:20:51](https://lobste.rs/s/4zyd8o/readert_design_pattern_2017) - [The ReaderT Design Pattern (2017)](https://academy.fpblock.com/blog/2017/06/readert-design-pattern/)
 * [2026-08-26, 10:38:35](https://lobste.rs/s/oqno0v/understanding_go_s_sync_map_from_api_hash) - [Understanding Go's sync.Map from API to Hash Trie](https://victoriametrics.com/blog/go-sync-map-hash-trie/)
 * [2026-08-26, 10:17:28](https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code) - [Why Google stores billions of lines of code in a single repository (2016)](https://dl.acm.org/doi/fullHtml/10.1145/2854146)
 * [2026-08-26, 10:07:04](https://lobste.rs/s/tv1xpz/beyond_recall_illusion_competence) - [Beyond recall and the illusion of competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
@@ -10,7 +11,6 @@
 * [2026-08-26, 05:09:52](https://lobste.rs/s/e291dc/mold_massively_parallel_linker) - [mold: A Massively Parallel Linker](https://arxiv.org/abs/2608.23228)
 * [2026-08-26, 02:12:38](https://lobste.rs/s/8emue2/beauty_dsl_able_languages) - [the beauty in dsl-able languages](https://w.on-t.work/dslable)
 * [2026-08-25, 21:39:37](https://lobste.rs/s/vddo8h/fuzzing_gleam_compiler) - [Fuzzing The Gleam Compiler](https://www.kurz.net/posts/fuzzing-gleam-compiler)
-* [2026-08-25, 21:03:05](https://lobste.rs/s/2hsncr/maiao_gerrit_style_stacked_diffs_for) - [maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more](https://github.com/runetes/maiao)
 * [2026-08-25, 18:20:38](https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting) - [AI At Home Part 2: Multi GPU Drifting](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
 * [2026-08-25, 17:42:15](https://lobste.rs/s/52povq/ai_review_loops_don_t_always_stabilise) - [AI Review Loops Don't Always Stabilise](https://kevinmahoney.co.uk/articles/ai-review-loops/)
 * [2026-08-25, 16:52:46](https://lobste.rs/s/e1oalq/move_python_3_begins) - [The Move to Python 3 Begins](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
