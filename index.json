@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-26, 20:29:10",
+      "https://lobste.rs/s/erm1zp/getting_cease_desist_from_waffle_house"
+    ],
+    [
+      "Getting a Cease and Desist from Waffle House",
+      "https://www.jack.bio/blog/wafflehouse"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 19:53:01",
       "https://lobste.rs/s/nksuk5/building_textlog_without_javascript"
     ],
@@ -227,16 +237,6 @@
     [
       "I stabilized never type",
       "https://blog.ihatereality.space/0C-never-type/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 13:29:53",
-      "https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine"
-    ],
-    [
-      "Adding CPU affinity in a 24-core build machine made builds take longer",
-      "https://infosec.exchange/@david_chisnall/117156204452541109"
     ]
   ],
   [
