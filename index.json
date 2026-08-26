@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-26, 02:12:38",
+      "https://lobste.rs/s/8emue2/beauty_dsl_able_languages"
+    ],
+    [
+      "the beauty in dsl-able languages",
+      "https://w.on-t.work/dslable"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 21:39:37",
       "https://lobste.rs/s/vddo8h/fuzzing_gleam_compiler"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2026-08-25, 14:49:30",
+      "https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep"
+    ],
+    [
+      "Feature comparison of ack, ag, git-grep, grep and ripgrep",
+      "https://beyondgrep.com/feature-comparison/"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 14:40:28",
       "https://lobste.rs/s/gyi8v8/replacing_rust_enum_with_64_bit_word_made"
     ],
@@ -137,16 +157,6 @@
     [
       "MNT Station - A modular, open hardware desktop computer and server",
       "https://www.crowdsupply.com/mnt-research/mnt-station"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 10:46:18",
-      "https://lobste.rs/s/b15udy/another_look_at_sqlite_s_wal_reset_bug"
-    ],
-    [
-      "Another look at SQLite's WAL-Reset bug",
-      "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I cannot survive from burnout",
       "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 10:52:27",
-      "https://lobste.rs/s/rehaa3/emacs_31_1_released"
-    ],
-    [
-      "Emacs 31.1 released",
-      "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html"
     ]
   ],
   [
