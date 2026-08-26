@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-26, 06:36:10",
+      "https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently"
+    ],
+    [
+      "What's in a tag name? JavaScript, apparently",
+      "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 06:00:12",
+      "https://lobste.rs/s/jykbra/using_typescript_obtain_one_rarest"
+    ],
+    [
+      "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
+      "https://www.jack.bio/blog/licenseplate"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 05:09:52",
       "https://lobste.rs/s/e291dc/mold_massively_parallel_linker"
     ],
@@ -17,16 +37,6 @@
     [
       "the beauty in dsl-able languages",
       "https://w.on-t.work/dslable"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 22:32:49",
-      "https://lobste.rs/s/kp1khy/lively_merge_collaborative_programming"
-    ],
-    [
-      "Lively Merge | Collaborative programming kernels",
-      "https://www.inkandswitch.com/livelymerge/notebook/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Porffor goes alpha August 11th",
       "https://honk.foo/porffor-alpha/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 09:33:23",
-      "https://lobste.rs/s/gxcqxj/galaxium_webgpu_universe_explorer"
-    ],
-    [
-      "Galaxium, a WebGPU universe explorer",
-      "https://galaxium.app"
     ]
   ],
   [
