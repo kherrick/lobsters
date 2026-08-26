@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 22:32:49](https://lobste.rs/s/kp1khy/lively_merge_collaborative_programming) - [Lively Merge | Collaborative programming kernels](https://www.inkandswitch.com/livelymerge/notebook/)
 * [2026-08-25, 21:39:37](https://lobste.rs/s/vddo8h/fuzzing_gleam_compiler) - [Fuzzing The Gleam Compiler](https://www.kurz.net/posts/fuzzing-gleam-compiler)
 * [2026-08-25, 21:03:05](https://lobste.rs/s/2hsncr/maiao_gerrit_style_stacked_diffs_for) - [maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more](https://github.com/runetes/maiao)
 * [2026-08-25, 18:20:38](https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting) - [AI At Home Part 2: Multi GPU Drifting](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
