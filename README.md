@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-26, 20:29:10](https://lobste.rs/s/erm1zp/getting_cease_desist_from_waffle_house) - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
 * [2026-08-26, 19:53:01](https://lobste.rs/s/nksuk5/building_textlog_without_javascript) - [Building textlog without JavaScript](https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488)
 * [2026-08-26, 18:38:11](https://lobste.rs/s/p86r57/ducklabs_join_aws_projects_remain_open) - [DuckLabs to Join AWS, Projects to Remain Open Source](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 * [2026-08-26, 17:05:04](https://lobste.rs/s/q6qjjr/vms_won_t_contain_cyber_capable_agents) - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)
@@ -23,7 +24,6 @@
 * [2026-08-25, 16:44:37](https://lobste.rs/s/za8vwp/run_openbsd_on_digitalocean_for_4_month) - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 * [2026-08-25, 15:51:24](https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with) - [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 15:11:30](https://lobste.rs/s/gizvfn/i_stabilized_never_type) - [I stabilized never type](https://blog.ihatereality.space/0C-never-type/)
-* [2026-08-25, 13:29:53](https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine) - [Adding CPU affinity in a 24-core build machine made builds take longer](https://infosec.exchange/@david_chisnall/117156204452541109)
 * [2026-08-25, 11:16:01](https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware) - [MNT Station - A modular, open hardware desktop computer and server](https://www.crowdsupply.com/mnt-research/mnt-station)
 
 ## [Archives](archives/index.md)
