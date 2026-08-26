@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-26, 07:55:34](https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026) - [Casey Muratori – The Root of The Root of All Evil – BSC 2026](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 * [2026-08-26, 06:36:10](https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently) - [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
 * [2026-08-26, 06:00:12](https://lobste.rs/s/jykbra/using_typescript_obtain_one_rarest) - [Using TypeScript to Obtain One of the Rarest License Plates (2025)](https://www.jack.bio/blog/licenseplate)
 * [2026-08-26, 05:09:52](https://lobste.rs/s/e291dc/mold_massively_parallel_linker) - [mold: A Massively Parallel Linker](https://arxiv.org/abs/2608.23228)
@@ -12,6 +13,7 @@
 * [2026-08-25, 16:44:37](https://lobste.rs/s/za8vwp/run_openbsd_on_digitalocean_for_4_month) - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 * [2026-08-25, 15:51:24](https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with) - [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 15:11:30](https://lobste.rs/s/gizvfn/i_stabilized_never_type) - [I stabilized never type](https://blog.ihatereality.space/0C-never-type/)
+* [2026-08-25, 14:49:30](https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep) - [Feature comparison of ack, ag, git-grep, grep and ripgrep](https://beyondgrep.com/feature-comparison/)
 * [2026-08-25, 14:40:28](https://lobste.rs/s/gyi8v8/replacing_rust_enum_with_64_bit_word_made) - [Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster](https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/)
 * [2026-08-25, 13:54:28](https://lobste.rs/s/useg7x/xy_problem) - [The XY Problem](https://xyproblem.info/)
 * [2026-08-25, 13:29:53](https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine) - [Adding CPU affinity in a 24-core build machine made builds take longer](https://infosec.exchange/@david_chisnall/117156204452541109)
@@ -19,12 +21,10 @@
 * [2026-08-25, 12:06:16](https://lobste.rs/s/ivr1bw/interactive_introduction_spanning_tree) - [An interactive introduction to the spanning tree protocol](https://vincent.bernat.ch/en/blog/2026-spanning-tree)
 * [2026-08-25, 11:16:01](https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware) - [MNT Station - A modular, open hardware desktop computer and server](https://www.crowdsupply.com/mnt-research/mnt-station)
 * [2026-08-25, 10:42:16](https://lobste.rs/s/4wh5ng/migrating_from_codeberg_pages_openbsd) - [Migrating from Codeberg Pages to an OpenBSD VPS](https://nemin.hu/vps/index.html)
-* [2026-08-25, 10:01:40](https://lobste.rs/s/9w5eos/porffor_goes_alpha_august_11th) - [Porffor goes alpha August 11th](https://honk.foo/porffor-alpha/)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
 * [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)
 * [2026-08-24, 16:04:45](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout) - [I cannot survive from burnout](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout)
-* [2026-08-24, 07:32:45](https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database) - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 
 ## [Archives](archives/index.md)
 
