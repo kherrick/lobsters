@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 19:53:01](https://lobste.rs/s/nksuk5/building_textlog_without_javascript) - [Building textlog without JavaScript](https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488)
+* [2026-08-26, 18:38:11](https://lobste.rs/s/p86r57/ducklabs_join_aws_projects_remain_open) - [DuckLabs to Join AWS, Projects to Remain Open Source](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 * [2026-08-26, 17:05:04](https://lobste.rs/s/q6qjjr/vms_won_t_contain_cyber_capable_agents) - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)
 * [2026-08-26, 17:01:38](https://lobste.rs/s/me3mun/motorola_s_grapheneos_phones_will_launch) - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/)
 * [2026-08-26, 16:22:23](https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released) - [Haiku R1/beta6 released](https://www.haiku-os.org/get-haiku/r1beta6/release-notes/)

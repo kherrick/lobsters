@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-26, 19:53:01](https://lobste.rs/s/nksuk5/building_textlog_without_javascript) - [Building textlog without JavaScript](https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488)
+* [2026-08-26, 18:38:11](https://lobste.rs/s/p86r57/ducklabs_join_aws_projects_remain_open) - [DuckLabs to Join AWS, Projects to Remain Open Source](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 * [2026-08-26, 17:05:04](https://lobste.rs/s/q6qjjr/vms_won_t_contain_cyber_capable_agents) - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)
 * [2026-08-26, 17:01:38](https://lobste.rs/s/me3mun/motorola_s_grapheneos_phones_will_launch) - [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/)
 * [2026-08-26, 16:22:23](https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released) - [Haiku R1/beta6 released](https://www.haiku-os.org/get-haiku/r1beta6/release-notes/)
@@ -22,9 +24,7 @@
 * [2026-08-25, 15:51:24](https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with) - [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 15:11:30](https://lobste.rs/s/gizvfn/i_stabilized_never_type) - [I stabilized never type](https://blog.ihatereality.space/0C-never-type/)
 * [2026-08-25, 13:29:53](https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine) - [Adding CPU affinity in a 24-core build machine made builds take longer](https://infosec.exchange/@david_chisnall/117156204452541109)
-* [2026-08-25, 12:06:16](https://lobste.rs/s/ivr1bw/interactive_introduction_spanning_tree) - [An interactive introduction to the spanning tree protocol](https://vincent.bernat.ch/en/blog/2026-spanning-tree)
 * [2026-08-25, 11:16:01](https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware) - [MNT Station - A modular, open hardware desktop computer and server](https://www.crowdsupply.com/mnt-research/mnt-station)
-* [2026-08-25, 10:42:16](https://lobste.rs/s/4wh5ng/migrating_from_codeberg_pages_openbsd) - [Migrating from Codeberg Pages to an OpenBSD VPS](https://nemin.hu/vps/index.html)
 
 ## [Archives](archives/index.md)
 
