@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-26, 09:11:16](https://lobste.rs/s/3rtqua/problem_with_concurrent_linter_fixes) - [Problem with concurrent linter fixes](https://jfmengels.net/concurrent-linter-fixes/)
 * [2026-08-26, 07:55:34](https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026) - [Casey Muratori – The Root of The Root of All Evil – BSC 2026](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 * [2026-08-26, 06:36:10](https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently) - [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
 * [2026-08-26, 06:00:12](https://lobste.rs/s/jykbra/using_typescript_obtain_one_rarest) - [Using TypeScript to Obtain One of the Rarest License Plates (2025)](https://www.jack.bio/blog/licenseplate)
@@ -23,7 +24,6 @@
 * [2026-08-25, 10:42:16](https://lobste.rs/s/4wh5ng/migrating_from_codeberg_pages_openbsd) - [Migrating from Codeberg Pages to an OpenBSD VPS](https://nemin.hu/vps/index.html)
 * [2026-08-25, 08:25:23](https://lobste.rs/s/k5feqe/solving_1_n_query_problem) - [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-24, 16:25:08](https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl) - [Intent to Ship: JPEG XL](https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/)
-* [2026-08-24, 16:18:06](https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten) - [Can a blog post be handwritten?](https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/)
 * [2026-08-24, 16:04:45](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout) - [I cannot survive from burnout](https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 09:11:16](https://lobste.rs/s/3rtqua/problem_with_concurrent_linter_fixes) - [Problem with concurrent linter fixes](https://jfmengels.net/concurrent-linter-fixes/)
 * [2026-08-26, 07:55:34](https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026) - [Casey Muratori – The Root of The Root of All Evil – BSC 2026](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 * [2026-08-26, 06:36:10](https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently) - [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
 * [2026-08-26, 06:00:12](https://lobste.rs/s/jykbra/using_typescript_obtain_one_rarest) - [Using TypeScript to Obtain One of the Rarest License Plates (2025)](https://www.jack.bio/blog/licenseplate)
