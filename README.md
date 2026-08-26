@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-26, 10:38:35](https://lobste.rs/s/oqno0v/understanding_go_s_sync_map_from_api_hash) - [Understanding Go's sync.Map from API to Hash Trie](https://victoriametrics.com/blog/go-sync-map-hash-trie/)
+* [2026-08-26, 10:17:28](https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code) - [Why Google stores billions of lines of code in a single repository](https://dl.acm.org/doi/fullHtml/10.1145/2854146)
+* [2026-08-26, 10:07:04](https://lobste.rs/s/tv1xpz/beyond_recall_illusion_competence) - [Beyond recall and the illusion of competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
 * [2026-08-26, 09:11:16](https://lobste.rs/s/3rtqua/problem_with_concurrent_linter_fixes) - [Problem with concurrent linter fixes](https://jfmengels.net/concurrent-linter-fixes/)
 * [2026-08-26, 07:55:34](https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026) - [Casey Muratori – The Root of The Root of All Evil – BSC 2026](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 * [2026-08-26, 06:36:10](https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently) - [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
@@ -14,9 +17,6 @@
 * [2026-08-25, 16:44:37](https://lobste.rs/s/za8vwp/run_openbsd_on_digitalocean_for_4_month) - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 * [2026-08-25, 15:51:24](https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with) - [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 15:11:30](https://lobste.rs/s/gizvfn/i_stabilized_never_type) - [I stabilized never type](https://blog.ihatereality.space/0C-never-type/)
-* [2026-08-25, 14:49:30](https://lobste.rs/s/vr7u5k/feature_comparison_ack_ag_git_grep_grep) - [Feature comparison of ack, ag, git-grep, grep and ripgrep](https://beyondgrep.com/feature-comparison/)
-* [2026-08-25, 14:40:28](https://lobste.rs/s/gyi8v8/replacing_rust_enum_with_64_bit_word_made) - [Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster](https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/)
-* [2026-08-25, 13:54:28](https://lobste.rs/s/useg7x/xy_problem) - [The XY Problem](https://xyproblem.info/)
 * [2026-08-25, 13:29:53](https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine) - [Adding CPU affinity in a 24-core build machine made builds take longer](https://infosec.exchange/@david_chisnall/117156204452541109)
 * [2026-08-25, 12:26:40](https://lobste.rs/s/apjhyj/hunting_down_go_runtime_bug_on_32_bit) - [Hunting Down a Go Runtime Bug on 32-bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
 * [2026-08-25, 12:06:16](https://lobste.rs/s/ivr1bw/interactive_introduction_spanning_tree) - [An interactive introduction to the spanning tree protocol](https://vincent.bernat.ch/en/blog/2026-spanning-tree)
