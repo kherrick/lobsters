@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 23:34:18](https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2) - [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
+* [2026-08-26, 22:45:38](https://lobste.rs/s/bkiqnf/nebula_sans) - [Nebula Sans](https://www.nebulasans.com/)
 * [2026-08-26, 20:29:10](https://lobste.rs/s/erm1zp/getting_cease_desist_from_waffle_house) - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
 * [2026-08-26, 19:53:01](https://lobste.rs/s/nksuk5/building_textlog_without_javascript) - [Building textlog without JavaScript](https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488)
 * [2026-08-26, 18:38:11](https://lobste.rs/s/p86r57/ducklabs_join_aws_projects_remain_open) - [DuckLabs to Join AWS, Projects to Remain Open Source](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)

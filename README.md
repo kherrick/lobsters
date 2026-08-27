@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-26, 20:29:10](https://lobste.rs/s/erm1zp/getting_cease_desist_from_waffle_house) - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
+* [2026-08-27, 01:32:03](https://lobste.rs/s/w2g5fx/dissectingthe_apple_m1_gpu_end) - [Dissectingthe Apple M1 GPU, the end](https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html)
+* [2026-08-26, 23:34:18](https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2) - [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
+* [2026-08-26, 22:45:38](https://lobste.rs/s/bkiqnf/nebula_sans) - [Nebula Sans](https://www.nebulasans.com/)
+* [2026-08-26, 20:29:10](https://lobste.rs/s/erm1zp/getting_cease_desist_from_waffle_house) - [Getting a Cease and Desist from Waffle House (2025)](https://www.jack.bio/blog/wafflehouse)
 * [2026-08-26, 19:53:01](https://lobste.rs/s/nksuk5/building_textlog_without_javascript) - [Building textlog without JavaScript](https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488)
 * [2026-08-26, 18:38:11](https://lobste.rs/s/p86r57/ducklabs_join_aws_projects_remain_open) - [DuckLabs to Join AWS, Projects to Remain Open Source](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 * [2026-08-26, 17:05:04](https://lobste.rs/s/q6qjjr/vms_won_t_contain_cyber_capable_agents) - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)
@@ -15,16 +18,13 @@
 * [2026-08-26, 10:38:35](https://lobste.rs/s/oqno0v/understanding_go_s_sync_map_from_api_hash) - [Understanding Go's sync.Map from API to Hash Trie](https://victoriametrics.com/blog/go-sync-map-hash-trie/)
 * [2026-08-26, 10:17:28](https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code) - [Why Google stores billions of lines of code in a single repository (2016)](https://dl.acm.org/doi/fullHtml/10.1145/2854146)
 * [2026-08-26, 10:07:04](https://lobste.rs/s/tv1xpz/beyond_recall_illusion_competence) - [Beyond recall and the illusion of competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
-* [2026-08-26, 09:11:16](https://lobste.rs/s/3rtqua/problem_with_concurrent_linter_fixes) - [Problem with concurrent linter fixes](https://jfmengels.net/concurrent-linter-fixes/)
 * [2026-08-26, 07:55:34](https://lobste.rs/s/p8exgy/root_root_all_evil) - [The Root of The Root of All Evil](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 * [2026-08-26, 06:36:10](https://lobste.rs/s/lbsvk7/what_s_tag_name_javascript_apparently) - [What's in a tag name? JavaScript, apparently](https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently)
 * [2026-08-26, 06:00:12](https://lobste.rs/s/jykbra/using_typescript_obtain_one_rarest) - [Using TypeScript to Obtain One of the Rarest License Plates (2025)](https://www.jack.bio/blog/licenseplate)
 * [2026-08-26, 05:09:52](https://lobste.rs/s/e291dc/mold_massively_parallel_linker) - [mold: A Massively Parallel Linker](https://arxiv.org/abs/2608.23228)
 * [2026-08-25, 16:52:46](https://lobste.rs/s/e1oalq/move_python_3_begins) - [The Move to Python 3 Begins](https://www.eveonline.com/news/view/the-move-to-python-3-begins)
-* [2026-08-25, 16:44:37](https://lobste.rs/s/za8vwp/run_openbsd_on_digitalocean_for_4_month) - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 * [2026-08-25, 15:51:24](https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with) - [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 15:11:30](https://lobste.rs/s/gizvfn/i_stabilized_never_type) - [I stabilized never type](https://blog.ihatereality.space/0C-never-type/)
-* [2026-08-25, 11:16:01](https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware) - [MNT Station - A modular, open hardware desktop computer and server](https://www.crowdsupply.com/mnt-research/mnt-station)
 
 ## [Archives](archives/index.md)
 
