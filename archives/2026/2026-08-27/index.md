@@ -4,4 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-27](index.md)
 
+* [2026-08-27, 13:49:06](https://lobste.rs/s/5tctgb/durable_objects_without_cloudflare_on) - [Durable Objects without Cloudflare, on the database you already run](https://lucascarlson.net/2026/08/24/introducing-open-source-durable-objects/)
+* [2026-08-27, 13:41:53](https://lobste.rs/s/ko74yd/simon_jones_on_functional_programming) - [Simon Jones on Functional Programming, Thinking in Types, Useless Languages](https://www.youtube.com/watch?v=xcB_LF3cdqw)
+* [2026-08-27, 12:17:10](https://lobste.rs/s/oqlhod/png2jxl_convert_png_lossless_jpeg_xl_with) - [png2jxl: Convert PNG to lossless JPEG XL with byte-for-byte reconstruction of the original PNG](https://github.com/JiangJQ2000/png2jxl)
+* [2026-08-27, 11:36:05](https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai) - [Please stop flooding our projects with AI slop to furnish your CV](https://neilalexander.dev/2026/06/30/flooding-contributions.html)
+* [2026-08-27, 10:51:27](https://lobste.rs/s/pdvxvf/tailcat_like_netcat_over_tailscale_s_data) - [tailcat: like netcat, but over Tailscale's data plane, without Tailscale's control plane](https://github.com/tailscale/tailcat)
+* [2026-08-27, 08:44:13](https://lobste.rs/s/oshbjt/announcing_our_first_maintainers) - [Announcing our first Maintainers in Residence](https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/)
+* [2026-08-27, 08:37:19](https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service) - [Changes to SourceHut's terms of service regarding LLMs](https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/)
+* [2026-08-27, 05:32:18](https://lobste.rs/s/aixljs/bill_gates_turbulent_ai_era_is_here) - [Bill Gates - The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med)
+* [2026-08-27, 04:06:15](https://lobste.rs/s/matewg/generic_methods_go) - [Generic Methods in Go](https://go.dev/blog/generic-methods)
+* [2026-08-27, 03:47:52](https://lobste.rs/s/zt8abs/if_i_release_it_you_won_t_get_same) - [If I release it, you won’t get the same experience I get](https://notes.highlysuspect.agency/cant-release-that.html)
+* [2026-08-27, 01:55:20](https://lobste.rs/s/a5qr8n/why_free_software_usability_tends_suck) - [Why Free Software usability tends to suck (2002)](https://web.archive.org/web/20030201183139/http://mpt.phrasewise.com/discuss/msgReader$173)
+* [2026-08-27, 01:32:03](https://lobste.rs/s/w2g5fx/dissectingthe_apple_m1_gpu_end_2025) - [Dissectingthe Apple M1 GPU, the end (2025)](https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html)
 * [2026-08-27, 01:32:03](https://lobste.rs/s/w2g5fx/dissectingthe_apple_m1_gpu_end) - [Dissectingthe Apple M1 GPU, the end](https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html)
