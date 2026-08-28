@@ -1,32 +1,82 @@
 [
   [
     [
-      "2026-08-27, 13:49:06",
-      "https://lobste.rs/s/5tctgb/durable_objects_without_cloudflare_on"
+      "2026-08-27, 23:54:22",
+      "https://lobste.rs/s/idizd1/talk_is_cheap_code_is_cheap_show_me_source"
     ],
     [
-      "Durable Objects without Cloudflare, on the database you already run",
-      "https://lucascarlson.net/2026/08/24/introducing-open-source-durable-objects/"
+      "Talk is Cheap. Code is Cheap. Show me the Source",
+      "https://idlip.in/posts/show-me-source/"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 18:37:56",
+      "https://lobste.rs/s/mb9xc7/understanding_usememo_usecallback"
+    ],
+    [
+      "Understanding useMemo and useCallback",
+      "https://www.joshwcomeau.com/react/usememo-and-usecallback/"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 17:12:50",
+      "https://lobste.rs/s/m31l5c/float_bloat_vector_serialization_gone"
+    ],
+    [
+      "Float Bloat: vector serialization gone wrong",
+      "https://bonsai.io/blog/float-bloat/"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 16:43:34",
+      "https://lobste.rs/s/p9kpp9/unix_v4_workshop_at_low_resource"
+    ],
+    [
+      "UNIX V4 workshop at Low Resource Computing",
+      "https://github.com/thaliaarchi/unix-v4-demo/blob/main/README.md"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 15:41:58",
+      "https://lobste.rs/s/ir1jkh/million_kakapos"
+    ],
+    [
+      "A Million Kakapos",
+      "https://blog.mempko.com/a-million-kakapos/"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 15:20:00",
+      "https://lobste.rs/s/gscm11/server_called_paranoia_defend_autistici"
+    ],
+    [
+      "The Server Called Paranoia: Defend Autistici/Inventati Before September 25",
+      "https://cavallette.noblogs.org/2026/08/10083/2"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 14:42:03",
+      "https://lobste.rs/s/bkcjsa/what_happens_when_gpu_reads_memory"
+    ],
+    [
+      "What happens when a GPU reads memory",
+      "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory"
     ]
   ],
   [
     [
       "2026-08-27, 13:41:53",
-      "https://lobste.rs/s/ko74yd/simon_jones_on_functional_programming"
+      "https://lobste.rs/s/ko74yd/simon_peyton_jones_on_functional"
     ],
     [
-      "Simon Jones on Functional Programming, Thinking in Types, Useless Languages",
+      "Simon Peyton Jones on Functional Programming, Thinking in Types, Useless Languages",
       "https://www.youtube.com/watch?v=xcB_LF3cdqw"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 12:17:10",
-      "https://lobste.rs/s/oqlhod/png2jxl_convert_png_lossless_jpeg_xl_with"
-    ],
-    [
-      "png2jxl: Convert PNG to lossless JPEG XL with byte-for-byte reconstruction of the original PNG",
-      "https://github.com/JiangJQ2000/png2jxl"
     ]
   ],
   [
@@ -72,21 +122,11 @@
   [
     [
       "2026-08-27, 05:32:18",
-      "https://lobste.rs/s/aixljs/bill_gates_turbulent_ai_era_is_here"
+      "https://lobste.rs/s/aixljs/turbulent_ai_era_is_here"
     ],
     [
-      "Bill Gates - The turbulent AI era is here",
+      "The turbulent AI era is here",
       "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 04:06:15",
-      "https://lobste.rs/s/matewg/generic_methods_go"
-    ],
-    [
-      "Generic Methods in Go",
-      "https://go.dev/blog/generic-methods"
     ]
   ],
   [
@@ -201,52 +241,12 @@
   ],
   [
     [
-      "2026-08-26, 13:32:39",
-      "https://lobste.rs/s/idtlvo/memory_ordering_cpus"
-    ],
-    [
-      "Memory ordering in CPUs",
-      "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 07:55:34",
       "https://lobste.rs/s/p8exgy/root_root_all_evil"
     ],
     [
       "The Root of The Root of All Evil",
       "https://www.youtube.com/watch?v=hpj6r6CjJf8"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 05:09:52",
-      "https://lobste.rs/s/e291dc/mold_massively_parallel_linker"
-    ],
-    [
-      "mold: A Massively Parallel Linker",
-      "https://arxiv.org/abs/2608.23228"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 16:52:46",
-      "https://lobste.rs/s/e1oalq/move_python_3_begins"
-    ],
-    [
-      "The Move to Python 3 Begins",
-      "https://www.eveonline.com/news/view/the-move-to-python-3-begins"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 15:11:30",
-      "https://lobste.rs/s/gizvfn/i_stabilized_never_type"
-    ],
-    [
-      "I stabilized never type",
-      "https://blog.ihatereality.space/0C-never-type/"
     ]
   ]
 ]
