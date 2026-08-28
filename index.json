@@ -1,32 +1,132 @@
 [
   [
     [
+      "2026-08-28, 10:51:03",
+      "https://lobste.rs/s/max8q6/zero_cost_tagless_final_rust_with_gadt"
+    ],
+    [
+      "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
+      "https://inferara.com/blog/rust-tagless-final-gadt/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 10:17:48",
+      "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland"
+    ],
+    [
+      "Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)",
+      "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 10:13:53",
+      "https://lobste.rs/s/m5jzgj/change_detector_tests_considered"
+    ],
+    [
+      "Change-Detector Tests Considered Harmful (2015)",
+      "https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 09:42:48",
+      "https://lobste.rs/s/hett40/interview_doug_mcilroy"
+    ],
+    [
+      "Interview: Doug McIlroy",
+      "https://tmpout.sh/5/2.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 09:28:04",
+      "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux"
+    ],
+    [
+      "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
+      "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 08:58:10",
+      "https://lobste.rs/s/r4egb5/perfect_simcity"
+    ],
+    [
+      "A Perfect SimCity",
+      "https://www.jeffquast.com/post/a-perfect-simcity/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 06:54:56",
+      "https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"
+    ],
+    [
+      "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 06:32:04",
+      "https://lobste.rs/s/wyfiaq/challenges_when_writing_gren_format"
+    ],
+    [
+      "Challenges when writing gren-format",
+      "https://gilramir.github.io/gren-format-lib/grenFormatChallenges.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 05:52:13",
+      "https://lobste.rs/s/4y2ymo/debugging_my_new_network_when_10_gigabit"
+    ],
+    [
+      "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
+      "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 04:41:03",
+      "https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease"
+    ],
+    [
+      "Nitter, XCancel Shutdown Over Cease-And-Desist",
+      "https://github.com/zedeus/nitter"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 03:40:20",
+      "https://lobste.rs/s/kvlafj/announcing_sovereign_tech_agency"
+    ],
+    [
+      "Announcing Sovereign Tech Agency Investment in Flatpak",
+      "https://modal.cx/blog/announcing-flatpak-sta/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 01:35:24",
+      "https://lobste.rs/s/tz0865/ardour_9_8_released"
+    ],
+    [
+      "Ardour 9.8 released",
+      "https://ardour.org/whatsnew.html"
+    ]
+  ],
+  [
+    [
       "2026-08-27, 23:54:22",
       "https://lobste.rs/s/idizd1/talk_is_cheap_code_is_cheap_show_me_source"
     ],
     [
       "Talk is Cheap. Code is Cheap. Show me the Source",
       "https://idlip.in/posts/show-me-source/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 18:37:56",
-      "https://lobste.rs/s/mb9xc7/understanding_usememo_usecallback"
-    ],
-    [
-      "Understanding useMemo and useCallback",
-      "https://www.joshwcomeau.com/react/usememo-and-usecallback/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 17:12:50",
-      "https://lobste.rs/s/m31l5c/float_bloat_vector_serialization_gone"
-    ],
-    [
-      "Float Bloat: vector serialization gone wrong",
-      "https://bonsai.io/blog/float-bloat/"
     ]
   ],
   [
@@ -71,16 +171,6 @@
   ],
   [
     [
-      "2026-08-27, 13:41:53",
-      "https://lobste.rs/s/ko74yd/simon_peyton_jones_on_functional"
-    ],
-    [
-      "Simon Peyton Jones on Functional Programming, Thinking in Types, Useless Languages",
-      "https://www.youtube.com/watch?v=xcB_LF3cdqw"
-    ]
-  ],
-  [
-    [
       "2026-08-27, 11:36:05",
       "https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai"
     ],
@@ -121,16 +211,6 @@
   ],
   [
     [
-      "2026-08-27, 05:32:18",
-      "https://lobste.rs/s/aixljs/turbulent_ai_era_is_here"
-    ],
-    [
-      "The turbulent AI era is here",
-      "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med"
-    ]
-  ],
-  [
-    [
       "2026-08-27, 03:47:52",
       "https://lobste.rs/s/zt8abs/if_i_release_it_you_won_t_get_same"
     ],
@@ -151,16 +231,6 @@
   ],
   [
     [
-      "2026-08-27, 01:32:03",
-      "https://lobste.rs/s/w2g5fx/dissectingthe_apple_m1_gpu_end_2025"
-    ],
-    [
-      "Dissectingthe Apple M1 GPU, the end (2025)",
-      "https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 23:34:18",
       "https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2"
     ],
@@ -177,76 +247,6 @@
     [
       "Nebula Sans",
       "https://www.nebulasans.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 20:29:10",
-      "https://lobste.rs/s/erm1zp/getting_cease_desist_from_waffle_house"
-    ],
-    [
-      "Getting a Cease and Desist from Waffle House (2025)",
-      "https://www.jack.bio/blog/wafflehouse"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 18:38:11",
-      "https://lobste.rs/s/p86r57/ducklabs_join_aws_projects_remain_open"
-    ],
-    [
-      "DuckLabs to Join AWS, Projects to Remain Open Source",
-      "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 17:05:04",
-      "https://lobste.rs/s/q6qjjr/vms_won_t_contain_cyber_capable_agents"
-    ],
-    [
-      "VMs won't contain cyber-capable agents",
-      "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 17:01:38",
-      "https://lobste.rs/s/me3mun/motorola_s_grapheneos_phones_will_launch"
-    ],
-    [
-      "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-      "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 16:22:23",
-      "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released"
-    ],
-    [
-      "Haiku R1/beta6 released",
-      "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 14:30:41",
-      "https://lobste.rs/s/eove8s/merchants_insecurity"
-    ],
-    [
-      "Merchants of Insecurity",
-      "https://blog.happyfellow.dev/merchants-of-insecurity/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 07:55:34",
-      "https://lobste.rs/s/p8exgy/root_root_all_evil"
-    ],
-    [
-      "The Root of The Root of All Evil",
-      "https://www.youtube.com/watch?v=hpj6r6CjJf8"
     ]
   ]
 ]
