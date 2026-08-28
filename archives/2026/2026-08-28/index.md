@@ -4,6 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-08-28](index.md)
 
+* [2026-08-28, 18:47:26](https://lobste.rs/s/qlpiur/guis_should_be_fully_keyboard_driven) - [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+* [2026-08-28, 18:11:43](https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is) - [How cats.txt showed llms.txt evidence is GEO astrology](https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence)
+* [2026-08-28, 17:39:21](https://lobste.rs/s/yqqsgk/pointer_stability_for_arraylists) - [Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27)
+* [2026-08-28, 16:35:15](https://lobste.rs/s/xr1eor/yap_particular_kind_slop) - [Yap: a particular kind of slop](https://mckayla.blog/posts/yap.html)
+* [2026-08-28, 16:14:11](https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released) - [htmx 4.0.0 has been released](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+* [2026-08-28, 16:13:15](https://lobste.rs/s/dbavwl/hilariously_fast_volume_computation) - [Hilariously Fast Volume Computation with the Divergence Theorem (2018)](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
+* [2026-08-28, 14:05:47](https://lobste.rs/s/hg2lbk/nobody_argued_for_your_stack) - [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
+* [2026-08-28, 13:58:44](https://lobste.rs/s/ulkqhi/how_i_made_rustdoc_33_faster_one_week) - [How I made Rustdoc 33% faster in one week](https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/)
+* [2026-08-28, 13:03:44](https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend)
+* [2026-08-28, 12:06:03](https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays) - [OpenOffice does not print on Tuesdays (2009)](https://beza1e1.tuxen.de/lore/print_on_tuesday.html)
+* [2026-08-28, 11:57:23](https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer) - [Now Hiring: Senior Open Source Maintainer](https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html)
+* [2026-08-28, 11:33:14](https://lobste.rs/s/rhto2r/25x_performance_three_optimizations) - [25x Performance, Three Optimizations](https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html)
 * [2026-08-28, 10:51:03](https://lobste.rs/s/max8q6/zero_cost_tagless_final_rust_with_gadt) - [Zero-Cost 'Tagless Final' in Rust with GADT-style Enums](https://inferara.com/blog/rust-tagless-final-gadt/)
 * [2026-08-28, 10:17:48](https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland) - [Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)](https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html)
 * [2026-08-28, 10:13:53](https://lobste.rs/s/m5jzgj/change_detector_tests_considered) - [Change-Detector Tests Considered Harmful (2015)](https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html)
