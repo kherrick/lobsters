@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-29](index.md)
 
+* [2026-08-29, 20:44:36](https://lobste.rs/s/wsbhcr/what_glm_5_3_flash_running_on_chinese) - [What GLM-5.3 Flash running on Chinese hardware actually means](https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/)
+* [2026-08-29, 20:21:34](https://lobste.rs/s/flcppv/introducing_reactos_0_4_16) - [Introducing ReactOS 0.4.16](https://reactos.org/project-news/reactos-0416-released/)
+* [2026-08-29, 20:16:54](https://lobste.rs/s/wg65qn/canonical_basis_realignment_for) - [Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable](https://github.com/todotge/canonical-basis)
+* [2026-08-29, 19:56:09](https://lobste.rs/s/svga6q/wrapping_gtk4_800_lines_clojure_with_jolt) - [Wrapping GTK4 in 800 lines of Clojure with Jolt](https://yogthos.net/posts/2026-08-29-glimmer-ui.html)
 * [2026-08-29, 18:10:46](https://lobste.rs/s/xeedei/does_computer_science_need_computers) - [Does Computer Science Need Computers?](https://www.quantamagazine.org/does-computer-science-need-computers-20260828/)
 * [2026-08-29, 16:25:31](https://lobste.rs/s/nbjo0i/creepy_crawlies) - [Creepy crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
 * [2026-08-29, 16:03:08](https://lobste.rs/s/tnmkfp/civic_hygiene_2013) - [Civic Hygiene (2013)](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
