@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-08-29, 22:17:35](https://lobste.rs/s/m3brob/omnipresent_availability_risks_cloud) - [Omnipresent availability risks in cloud software](https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/)
+* [2026-08-29, 21:59:35](https://lobste.rs/s/udkuqc/functional_state_machines_rust) - [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/epdf/10.1145/3830438.3830958)
 * [2026-08-29, 20:44:36](https://lobste.rs/s/wsbhcr/what_glm_5_3_flash_running_on_chinese) - [What GLM-5.3 Flash running on Chinese hardware actually means](https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/)
 * [2026-08-29, 20:21:34](https://lobste.rs/s/flcppv/introducing_reactos_0_4_16) - [Introducing ReactOS 0.4.16](https://reactos.org/project-news/reactos-0416-released/)
 * [2026-08-29, 20:16:54](https://lobste.rs/s/wg65qn/canonical_basis_realignment_for) - [Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable](https://github.com/todotge/canonical-basis)
@@ -15,14 +17,12 @@
 * [2026-08-29, 03:11:59](https://lobste.rs/s/vji9aj/any_true_alternatives_electron) - [Any true alternatives to electron JavaScript?](https://lobste.rs/s/vji9aj/any_true_alternatives_electron)
 * [2026-08-29, 01:40:59](https://lobste.rs/s/zctsmq/llm_usage_debian_neither_endorsed_nor) - [LLM usage in Debian neither endorsed nor prohibited](https://www.debian.org/vote/2026/vote_002#texte)
 * [2026-08-28, 20:23:15](https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security) - [Just a rumour of a bug is enough to find a security exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
-* [2026-08-28, 19:32:48](https://lobste.rs/s/nfvukc/stopping_smart_tv_from_being_used_against) - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
 * [2026-08-28, 18:47:26](https://lobste.rs/s/qlpiur/guis_should_be_fully_keyboard_driven) - [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
 * [2026-08-28, 18:11:43](https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is) - [How cats.txt showed llms.txt evidence is GEO astrology](https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence)
 * [2026-08-28, 16:35:15](https://lobste.rs/s/xr1eor/yap_particular_kind_slop) - [Yap: a particular kind of slop](https://mckayla.blog/posts/yap.html)
 * [2026-08-28, 16:14:11](https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released) - [htmx 4.0.0 has been released](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
 * [2026-08-28, 13:58:44](https://lobste.rs/s/ulkqhi/how_i_made_rustdoc_33_faster_one_week) - [How I made Rustdoc 33% faster in one week](https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/)
 * [2026-08-28, 12:06:03](https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays) - [OpenOffice does not print on Tuesdays (2009)](https://beza1e1.tuxen.de/lore/print_on_tuesday.html)
-* [2026-08-28, 11:57:23](https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer) - [Now Hiring: Senior Open Source Maintainer](https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html)
 * [2026-08-28, 10:17:48](https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland) - [Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)](https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html)
 * [2026-08-28, 09:28:04](https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux) - [EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality](https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/)
 

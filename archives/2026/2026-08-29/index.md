@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-29](index.md)
 
+* [2026-08-29, 22:17:35](https://lobste.rs/s/m3brob/omnipresent_availability_risks_cloud) - [Omnipresent availability risks in cloud software](https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/)
+* [2026-08-29, 21:59:35](https://lobste.rs/s/udkuqc/functional_state_machines_rust) - [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/epdf/10.1145/3830438.3830958)
 * [2026-08-29, 20:44:36](https://lobste.rs/s/wsbhcr/what_glm_5_3_flash_running_on_chinese) - [What GLM-5.3 Flash running on Chinese hardware actually means](https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/)
 * [2026-08-29, 20:21:34](https://lobste.rs/s/flcppv/introducing_reactos_0_4_16) - [Introducing ReactOS 0.4.16](https://reactos.org/project-news/reactos-0416-released/)
 * [2026-08-29, 20:16:54](https://lobste.rs/s/wg65qn/canonical_basis_realignment_for) - [Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable](https://github.com/todotge/canonical-basis)
