@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-29, 11:26:19](https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size) - [On 'scaling up' and being the right size](https://tzovar.as/scaling-up-and-on-being-the-right-size/)
+* [2026-08-29, 18:10:46](https://lobste.rs/s/xeedei/does_computer_science_need_computers) - [Does Computer Science Need Computers?](https://www.quantamagazine.org/does-computer-science-need-computers-20260828/)
+* [2026-08-29, 16:25:31](https://lobste.rs/s/nbjo0i/creepy_crawlies) - [Creepy crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+* [2026-08-29, 16:03:08](https://lobste.rs/s/tnmkfp/civic_hygiene_2013) - [Civic Hygiene (2013)](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
+* [2026-08-29, 15:33:38](https://lobste.rs/s/pxmp9r/debian_sirens) - [Debian and the sirens](https://joeyh.name/blog/entry/Debian_and_the_sirens/)
 * [2026-08-29, 08:24:22](https://lobste.rs/s/mroowi/being_kicked_out_tech_industry) - [Being kicked out of the tech industry](https://www.jacky.wtf/essays/2026/kicked-out/)
 * [2026-08-29, 08:19:22](https://lobste.rs/s/34qdwx/debian_votes_allow_responsible_use) - [Debian Votes To Allow \"Responsible Use Of Generative AI\"](https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use)
 * [2026-08-29, 08:10:10](https://lobste.rs/s/k9uxu5/parsing_infamous_japanese_postal_csv) - [Parsing the Infamous Japanese Postal CSV](https://www.dampfkraft.com/posuto.html)
@@ -12,10 +15,8 @@
 * [2026-08-28, 19:32:48](https://lobste.rs/s/nfvukc/stopping_smart_tv_from_being_used_against) - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
 * [2026-08-28, 18:47:26](https://lobste.rs/s/qlpiur/guis_should_be_fully_keyboard_driven) - [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
 * [2026-08-28, 18:11:43](https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is) - [How cats.txt showed llms.txt evidence is GEO astrology](https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence)
-* [2026-08-28, 17:39:21](https://lobste.rs/s/yqqsgk/pointer_stability_for_arraylists) - [Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27)
 * [2026-08-28, 16:35:15](https://lobste.rs/s/xr1eor/yap_particular_kind_slop) - [Yap: a particular kind of slop](https://mckayla.blog/posts/yap.html)
 * [2026-08-28, 16:14:11](https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released) - [htmx 4.0.0 has been released](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
-* [2026-08-28, 14:05:47](https://lobste.rs/s/hg2lbk/nobody_argued_for_your_stack) - [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
 * [2026-08-28, 13:58:44](https://lobste.rs/s/ulkqhi/how_i_made_rustdoc_33_faster_one_week) - [How I made Rustdoc 33% faster in one week](https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/)
 * [2026-08-28, 13:03:44](https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend)
 * [2026-08-28, 12:06:03](https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays) - [OpenOffice does not print on Tuesdays (2009)](https://beza1e1.tuxen.de/lore/print_on_tuesday.html)
@@ -24,7 +25,6 @@
 * [2026-08-28, 10:17:48](https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland) - [Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)](https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html)
 * [2026-08-28, 09:28:04](https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux) - [EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality](https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/)
 * [2026-08-28, 06:54:56](https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by) - [How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
-* [2026-08-28, 03:40:20](https://lobste.rs/s/kvlafj/announcing_sovereign_tech_agency) - [Announcing Sovereign Tech Agency Investment in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
 
 ## [Archives](archives/index.md)
 

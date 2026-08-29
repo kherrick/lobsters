@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-29](index.md)
 
+* [2026-08-29, 18:10:46](https://lobste.rs/s/xeedei/does_computer_science_need_computers) - [Does Computer Science Need Computers?](https://www.quantamagazine.org/does-computer-science-need-computers-20260828/)
+* [2026-08-29, 16:25:31](https://lobste.rs/s/nbjo0i/creepy_crawlies) - [Creepy crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+* [2026-08-29, 16:03:08](https://lobste.rs/s/tnmkfp/civic_hygiene_2013) - [Civic Hygiene (2013)](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
+* [2026-08-29, 15:33:38](https://lobste.rs/s/pxmp9r/debian_sirens) - [Debian and the sirens](https://joeyh.name/blog/entry/Debian_and_the_sirens/)
 * [2026-08-29, 11:26:19](https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size) - [On 'scaling up' and being the right size](https://tzovar.as/scaling-up-and-on-being-the-right-size/)
 * [2026-08-29, 08:51:25](https://lobste.rs/s/uvdpur/contextswitch_take_your_ai) - [ContextSwitch — take your AI conversations with you](https://contextswitch-blue.vercel.app/)
 * [2026-08-29, 08:24:22](https://lobste.rs/s/mroowi/being_kicked_out_tech_industry) - [Being kicked out of the tech industry](https://www.jacky.wtf/essays/2026/kicked-out/)
