@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-08-29, 08:51:25](https://lobste.rs/s/uvdpur/contextswitch_take_your_ai) - [ContextSwitch — take your AI conversations with you](https://contextswitch-blue.vercel.app/)
+* [2026-08-29, 11:26:19](https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size) - [On 'scaling up' and being the right size](https://tzovar.as/scaling-up-and-on-being-the-right-size/)
 * [2026-08-29, 08:24:22](https://lobste.rs/s/mroowi/being_kicked_out_tech_industry) - [Being kicked out of the tech industry](https://www.jacky.wtf/essays/2026/kicked-out/)
 * [2026-08-29, 08:19:22](https://lobste.rs/s/34qdwx/debian_votes_allow_responsible_use) - [Debian Votes To Allow \"Responsible Use Of Generative AI\"](https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use)
 * [2026-08-29, 08:10:10](https://lobste.rs/s/k9uxu5/parsing_infamous_japanese_postal_csv) - [Parsing the Infamous Japanese Postal CSV](https://www.dampfkraft.com/posuto.html)
 * [2026-08-29, 06:11:18](https://lobste.rs/s/5lz0zd/i_naively_tried_vibe_coding_memory_tool) - [I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy](https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory)
+* [2026-08-29, 05:35:08](https://lobste.rs/s/s8x8xq/reviving_sd_card_with_shorted_capacitors) - [Reviving An SD Card With Shorted Capacitors](https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/)
 * [2026-08-29, 03:11:59](https://lobste.rs/s/vji9aj/any_true_alternatives_electron) - [Any true alternatives to electron JavaScript?](https://lobste.rs/s/vji9aj/any_true_alternatives_electron)
 * [2026-08-29, 01:40:59](https://lobste.rs/s/zctsmq/llm_usage_debian_neither_endorsed_nor) - [LLM usage in Debian neither endorsed nor prohibited](https://www.debian.org/vote/2026/vote_002#texte)
 * [2026-08-28, 20:23:15](https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security) - [Just a rumour of a bug is enough to find a security exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
@@ -23,7 +24,6 @@
 * [2026-08-28, 10:17:48](https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland) - [Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)](https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html)
 * [2026-08-28, 09:28:04](https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux) - [EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality](https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/)
 * [2026-08-28, 06:54:56](https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by) - [How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
-* [2026-08-28, 04:41:03](https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease) - [Nitter, XCancel Shutdown Over Cease-And-Desist](https://github.com/zedeus/nitter)
 * [2026-08-28, 03:40:20](https://lobste.rs/s/kvlafj/announcing_sovereign_tech_agency) - [Announcing Sovereign Tech Agency Investment in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
 
 ## [Archives](archives/index.md)
