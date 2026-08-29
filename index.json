@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-08-29, 08:51:25",
+      "https://lobste.rs/s/uvdpur/contextswitch_take_your_ai"
+    ],
+    [
+      "ContextSwitch — take your AI conversations with you",
+      "https://contextswitch-blue.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 08:24:22",
+      "https://lobste.rs/s/mroowi/being_kicked_out_tech_industry"
+    ],
+    [
+      "Being kicked out of the tech industry",
+      "https://www.jacky.wtf/essays/2026/kicked-out/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 08:19:22",
+      "https://lobste.rs/s/34qdwx/debian_votes_allow_responsible_use"
+    ],
+    [
+      "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+      "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 08:10:10",
+      "https://lobste.rs/s/k9uxu5/parsing_infamous_japanese_postal_csv"
+    ],
+    [
+      "Parsing the Infamous Japanese Postal CSV",
+      "https://www.dampfkraft.com/posuto.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 06:11:18",
+      "https://lobste.rs/s/5lz0zd/i_naively_tried_vibe_coding_memory_tool"
+    ],
+    [
+      "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+      "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 03:11:59",
+      "https://lobste.rs/s/vji9aj/any_true_alternatives_electron"
+    ],
+    [
+      "Any true alternatives to electron JavaScript?",
+      "https://lobste.rs/s/vji9aj/any_true_alternatives_electron"
+    ]
+  ],
+  [
+    [
       "2026-08-29, 01:40:59",
       "https://lobste.rs/s/zctsmq/llm_usage_debian_neither_endorsed_nor"
     ],
@@ -81,16 +141,6 @@
   ],
   [
     [
-      "2026-08-28, 16:13:15",
-      "https://lobste.rs/s/dbavwl/hilariously_fast_volume_computation"
-    ],
-    [
-      "Hilariously Fast Volume Computation with the Divergence Theorem (2018)",
-      "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 14:05:47",
       "https://lobste.rs/s/hg2lbk/nobody_argued_for_your_stack"
     ],
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2026-08-28, 11:33:14",
-      "https://lobste.rs/s/rhto2r/25x_performance_three_optimizations"
-    ],
-    [
-      "25x Performance, Three Optimizations",
-      "https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 10:51:03",
       "https://lobste.rs/s/max8q6/zero_cost_tagless_final_rust_with_gadt"
     ],
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2026-08-28, 09:42:48",
-      "https://lobste.rs/s/hett40/interview_doug_mcilroy"
-    ],
-    [
-      "Interview: Doug McIlroy",
-      "https://tmpout.sh/5/2.html"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 09:28:04",
       "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux"
     ],
     [
       "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
       "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 08:58:10",
-      "https://lobste.rs/s/r4egb5/perfect_simcity"
-    ],
-    [
-      "A Perfect SimCity",
-      "https://www.jeffquast.com/post/a-perfect-simcity/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Announcing Sovereign Tech Agency Investment in Flatpak",
       "https://modal.cx/blog/announcing-flatpak-sta/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 11:36:05",
-      "https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai"
-    ],
-    [
-      "Please stop flooding our projects with AI slop to furnish your CV",
-      "https://neilalexander.dev/2026/06/30/flooding-contributions.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 08:37:19",
-      "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service"
-    ],
-    [
-      "Changes to SourceHut's terms of service regarding LLMs",
-      "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/"
     ]
   ]
 ]
