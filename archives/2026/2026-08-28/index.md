@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-28](index.md)
 
+* [2026-08-28, 20:23:15](https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security) - [Just a rumour of a bug is enough to find a security exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
+* [2026-08-28, 19:32:48](https://lobste.rs/s/nfvukc/stopping_smart_tv_from_being_used_against) - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
 * [2026-08-28, 18:47:26](https://lobste.rs/s/qlpiur/guis_should_be_fully_keyboard_driven) - [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
 * [2026-08-28, 18:11:43](https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is) - [How cats.txt showed llms.txt evidence is GEO astrology](https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence)
 * [2026-08-28, 17:39:21](https://lobste.rs/s/yqqsgk/pointer_stability_for_arraylists) - [Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27)
