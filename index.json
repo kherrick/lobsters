@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-29, 08:51:25",
-      "https://lobste.rs/s/uvdpur/contextswitch_take_your_ai"
+      "2026-08-29, 11:26:19",
+      "https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size"
     ],
     [
-      "ContextSwitch — take your AI conversations with you",
-      "https://contextswitch-blue.vercel.app/"
+      "On 'scaling up' and being the right size",
+      "https://tzovar.as/scaling-up-and-on-being-the-right-size/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
       "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 05:35:08",
+      "https://lobste.rs/s/s8x8xq/reviving_sd_card_with_shorted_capacitors"
+    ],
+    [
+      "Reviving An SD Card With Shorted Capacitors",
+      "https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
       "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 04:41:03",
-      "https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease"
-    ],
-    [
-      "Nitter, XCancel Shutdown Over Cease-And-Desist",
-      "https://github.com/zedeus/nitter"
     ]
   ],
   [
