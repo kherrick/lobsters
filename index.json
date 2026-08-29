@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-08-29, 11:26:19",
-      "https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size"
+      "2026-08-29, 18:10:46",
+      "https://lobste.rs/s/xeedei/does_computer_science_need_computers"
     ],
     [
-      "On 'scaling up' and being the right size",
-      "https://tzovar.as/scaling-up-and-on-being-the-right-size/"
+      "Does Computer Science Need Computers?",
+      "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 16:25:31",
+      "https://lobste.rs/s/nbjo0i/creepy_crawlies"
+    ],
+    [
+      "Creepy crawlies",
+      "https://people.kernel.org/monsieuricon/creepy-crawlies"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 16:03:08",
+      "https://lobste.rs/s/tnmkfp/civic_hygiene_2013"
+    ],
+    [
+      "Civic Hygiene (2013)",
+      "https://shkspr.mobi/blog/2013/11/civic-hygiene/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 15:33:38",
+      "https://lobste.rs/s/pxmp9r/debian_sirens"
+    ],
+    [
+      "Debian and the sirens",
+      "https://joeyh.name/blog/entry/Debian_and_the_sirens/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-08-28, 17:39:21",
-      "https://lobste.rs/s/yqqsgk/pointer_stability_for_arraylists"
-    ],
-    [
-      "Pointer Stability for ArrayLists",
-      "https://ziglang.org/devlog/2026/#2026-08-27"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 16:35:15",
       "https://lobste.rs/s/xr1eor/yap_particular_kind_slop"
     ],
@@ -147,16 +167,6 @@
     [
       "htmx 4.0.0 has been released",
       "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 14:05:47",
-      "https://lobste.rs/s/hg2lbk/nobody_argued_for_your_stack"
-    ],
-    [
-      "Nobody Argued For Your Stack",
-      "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
       "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 03:40:20",
-      "https://lobste.rs/s/kvlafj/announcing_sovereign_tech_agency"
-    ],
-    [
-      "Announcing Sovereign Tech Agency Investment in Flatpak",
-      "https://modal.cx/blog/announcing-flatpak-sta/"
     ]
   ]
 ]
