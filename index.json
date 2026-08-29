@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-29, 20:44:36",
+      "https://lobste.rs/s/wsbhcr/what_glm_5_3_flash_running_on_chinese"
+    ],
+    [
+      "What GLM-5.3 Flash running on Chinese hardware actually means",
+      "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 20:21:34",
+      "https://lobste.rs/s/flcppv/introducing_reactos_0_4_16"
+    ],
+    [
+      "Introducing ReactOS 0.4.16",
+      "https://reactos.org/project-news/reactos-0416-released/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 20:16:54",
+      "https://lobste.rs/s/wg65qn/canonical_basis_realignment_for"
+    ],
+    [
+      "Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+      "https://github.com/todotge/canonical-basis"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 19:56:09",
+      "https://lobste.rs/s/svga6q/wrapping_gtk4_800_lines_clojure_with_jolt"
+    ],
+    [
+      "Wrapping GTK4 in 800 lines of Clojure with Jolt",
+      "https://yogthos.net/posts/2026-08-29-glimmer-ui.html"
+    ]
+  ],
+  [
+    [
       "2026-08-29, 18:10:46",
       "https://lobste.rs/s/xeedei/does_computer_science_need_computers"
     ],
@@ -65,7 +105,7 @@
       "https://lobste.rs/s/k9uxu5/parsing_infamous_japanese_postal_csv"
     ],
     [
-      "Parsing the Infamous Japanese Postal CSV",
+      "Parsing the Infamous Japanese Postal CSV (2020)",
       "https://www.dampfkraft.com/posuto.html"
     ]
   ],
@@ -77,16 +117,6 @@
     [
       "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
       "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 05:35:08",
-      "https://lobste.rs/s/s8x8xq/reviving_sd_card_with_shorted_capacitors"
-    ],
-    [
-      "Reviving An SD Card With Shorted Capacitors",
-      "https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-08-28, 13:03:44",
-      "https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 12:06:03",
       "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-08-28, 10:51:03",
-      "https://lobste.rs/s/max8q6/zero_cost_tagless_final_rust_with_gadt"
-    ],
-    [
-      "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
-      "https://inferara.com/blog/rust-tagless-final-gadt/"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 10:17:48",
       "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland"
     ],
@@ -237,16 +247,6 @@
     [
       "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
       "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 06:54:56",
-      "https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"
-    ],
-    [
-      "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
-      "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
     ]
   ]
 ]
