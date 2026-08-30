@@ -1,22 +1,62 @@
 [
   [
     [
+      "2026-08-30, 16:11:30",
+      "https://lobste.rs/s/qjbw27/one_flake_rule_them_all"
+    ],
+    [
+      "One flake to rule them all",
+      "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 15:13:55",
+      "https://lobste.rs/s/3ccvfi/interview_with_oofoe_about_rebol_forth"
+    ],
+    [
+      "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
+      "https://alexalejandre.com/interviews/interview-with-oofoe/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 15:10:39",
+      "https://lobste.rs/s/pkqqr5/debugging_type_based_alias_analysis"
+    ],
+    [
+      "Debugging Type-Based Alias Analysis optimizations in BPF",
+      "https://loshz.com/debugging-bpf-tbaa/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 13:24:45",
+      "https://lobste.rs/s/zaavff/openwrt_monitor_your_ipv6_status"
+    ],
+    [
+      "OpenWrt: Monitor your IPv6 Status",
+      "https://bergs.biz/blog/2026/08/30/openwrt-monitor-your-ipv6-status/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 13:11:46",
+      "https://lobste.rs/s/mgwfjc/transfer_files_over_ethernet_patch_cable"
+    ],
+    [
+      "Transfer files over an ethernet patch cable",
+      "https://maurycyz.com/misc/etherfiles/"
+    ]
+  ],
+  [
+    [
       "2026-08-30, 11:54:38",
       "https://lobste.rs/s/n1h6mh/automating_immersive_reading"
     ],
     [
       "Automating immersive reading",
       "https://smoores.dev/post/automating_immersive_reading/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 10:54:42",
-      "https://lobste.rs/s/s7ulwg/on_taste"
-    ],
-    [
-      "On Taste",
-      "https://www.mattiryttylainen.com/posts/on-taste"
     ]
   ],
   [
@@ -61,26 +101,6 @@
   ],
   [
     [
-      "2026-08-30, 05:36:51",
-      "https://lobste.rs/s/ktbweg/prompt_injection_claude_code_opus_5_auto"
-    ],
-    [
-      "Prompt Injection in Claude Code Opus 5 Auto Mode",
-      "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 03:59:05",
-      "https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool"
-    ],
-    [
-      "There's no such thing as Just a Tool",
-      "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool"
-    ]
-  ],
-  [
-    [
       "2026-08-30, 01:34:27",
       "https://lobste.rs/s/n1jlxt/bug_blindness"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-08-29, 20:44:36",
-      "https://lobste.rs/s/wsbhcr/what_glm_5_3_flash_running_on_chinese"
-    ],
-    [
-      "What GLM-5.3 Flash running on Chinese hardware actually means",
-      "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 20:21:34",
       "https://lobste.rs/s/flcppv/introducing_reactos_0_4_16"
     ],
     [
       "Introducing ReactOS 0.4.16",
       "https://reactos.org/project-news/reactos-0416-released/"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 19:56:09",
-      "https://lobste.rs/s/svga6q/wrapping_gtk4_800_lines_clojure_with_jolt"
-    ],
-    [
-      "Wrapping GTK4 in 800 lines of Clojure with Jolt",
-      "https://yogthos.net/posts/2026-08-29-glimmer-ui.html"
     ]
   ],
   [
@@ -161,32 +161,12 @@
   ],
   [
     [
-      "2026-08-29, 15:33:38",
-      "https://lobste.rs/s/pxmp9r/debian_sirens"
-    ],
-    [
-      "Debian and the sirens",
-      "https://joeyh.name/blog/entry/Debian_and_the_sirens/"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 08:24:22",
       "https://lobste.rs/s/mroowi/being_kicked_out_tech_industry"
     ],
     [
       "Being kicked out of the tech industry",
       "https://www.jacky.wtf/essays/2026/kicked-out/"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 08:19:22",
-      "https://lobste.rs/s/34qdwx/debian_votes_allow_responsible_use"
-    ],
-    [
-      "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-      "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use"
     ]
   ],
   [
@@ -201,16 +181,6 @@
   ],
   [
     [
-      "2026-08-29, 06:11:18",
-      "https://lobste.rs/s/5lz0zd/i_naively_tried_vibe_coding_memory_tool"
-    ],
-    [
-      "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-      "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 03:11:59",
       "https://lobste.rs/s/vji9aj/any_true_alternatives_electron"
     ],
@@ -221,32 +191,62 @@
   ],
   [
     [
-      "2026-08-29, 01:40:59",
-      "https://lobste.rs/s/zctsmq/llm_usage_debian_neither_endorsed_nor"
+      "2026-08-28, 19:32:48",
+      "https://lobste.rs/s/nfvukc/stopping_smart_tv_from_being_used_against"
     ],
     [
-      "LLM usage in Debian neither endorsed nor prohibited",
-      "https://www.debian.org/vote/2026/vote_002#texte"
+      "Stopping the smart TV from being used against you",
+      "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/"
     ]
   ],
   [
     [
-      "2026-08-28, 16:35:15",
-      "https://lobste.rs/s/xr1eor/yap_particular_kind_slop"
+      "2026-08-28, 18:47:26",
+      "https://lobste.rs/s/qlpiur/guis_should_be_fully_keyboard_driven"
     ],
     [
-      "Yap: a particular kind of slop",
-      "https://mckayla.blog/posts/yap.html"
+      "GUIs should be fully keyboard-driven",
+      "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
     ]
   ],
   [
     [
-      "2026-08-28, 16:14:11",
-      "https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released"
+      "2026-08-28, 13:58:44",
+      "https://lobste.rs/s/ulkqhi/how_i_made_rustdoc_33_faster_one_week"
     ],
     [
-      "htmx 4.0.0 has been released",
-      "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
+      "How I made Rustdoc 33% faster in one week",
+      "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 12:06:03",
+      "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"
+    ],
+    [
+      "OpenOffice does not print on Tuesdays (2009)",
+      "https://beza1e1.tuxen.de/lore/print_on_tuesday.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 10:17:48",
+      "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland"
+    ],
+    [
+      "Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)",
+      "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 09:28:04",
+      "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux"
+    ],
+    [
+      "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
+      "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/"
     ]
   ]
 ]
