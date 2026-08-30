@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-30](index.md)
 
+* [2026-08-30, 16:11:30](https://lobste.rs/s/qjbw27/one_flake_rule_them_all) - [One flake to rule them all](https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all)
+* [2026-08-30, 15:13:55](https://lobste.rs/s/3ccvfi/interview_with_oofoe_about_rebol_forth) - [Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry](https://alexalejandre.com/interviews/interview-with-oofoe/)
+* [2026-08-30, 15:10:39](https://lobste.rs/s/pkqqr5/debugging_type_based_alias_analysis) - [Debugging Type-Based Alias Analysis optimizations in BPF](https://loshz.com/debugging-bpf-tbaa/)
+* [2026-08-30, 13:24:45](https://lobste.rs/s/zaavff/openwrt_monitor_your_ipv6_status) - [OpenWrt: Monitor your IPv6 Status](https://bergs.biz/blog/2026/08/30/openwrt-monitor-your-ipv6-status/)
+* [2026-08-30, 13:11:46](https://lobste.rs/s/mgwfjc/transfer_files_over_ethernet_patch_cable) - [Transfer files over an ethernet patch cable](https://maurycyz.com/misc/etherfiles/)
 * [2026-08-30, 11:54:38](https://lobste.rs/s/n1h6mh/automating_immersive_reading) - [Automating immersive reading](https://smoores.dev/post/automating_immersive_reading/)
 * [2026-08-30, 10:54:42](https://lobste.rs/s/s7ulwg/on_taste) - [On Taste](https://www.mattiryttylainen.com/posts/on-taste)
 * [2026-08-30, 10:10:57](https://lobste.rs/s/kgtvxb/essence_architectural_work_part_6) - [The essence of architectural work - Part 6](https://www.ufried.com/blog/essence_of_architecture_6/)
