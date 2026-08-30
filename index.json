@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-30, 03:59:05",
+      "https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool"
+    ],
+    [
+      "There's no such thing as Just a Tool",
+      "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 01:34:27",
+      "https://lobste.rs/s/n1jlxt/bug_blindness"
+    ],
+    [
+      "Bug blindness",
+      "https://danluu.com/bug-blind/"
+    ]
+  ],
+  [
+    [
       "2026-08-29, 22:17:35",
       "https://lobste.rs/s/m3brob/omnipresent_availability_risks_cloud"
     ],
@@ -17,16 +37,6 @@
     [
       "Functional State Machines in Rust: Typestate and Newtype Patterns",
       "https://dl.acm.org/doi/epdf/10.1145/3830438.3830958"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 20:44:36",
-      "https://lobste.rs/s/wsbhcr/what_glm_5_3_flash_running_on_chinese"
-    ],
-    [
-      "What GLM-5.3 Flash running on Chinese hardware actually means",
-      "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/"
     ]
   ],
   [
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2026-08-29, 15:33:38",
-      "https://lobste.rs/s/pxmp9r/debian_sirens"
+      "2026-08-29, 11:26:19",
+      "https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size"
     ],
     [
-      "Debian and the sirens",
-      "https://joeyh.name/blog/entry/Debian_and_the_sirens/"
+      "On 'scaling up' and being the right size",
+      "https://tzovar.as/scaling-up-and-on-being-the-right-size/"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2026-08-29, 08:19:22",
-      "https://lobste.rs/s/34qdwx/debian_votes_allow_responsible_use"
-    ],
-    [
-      "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-      "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 08:10:10",
       "https://lobste.rs/s/k9uxu5/parsing_infamous_japanese_postal_csv"
     ],
@@ -121,12 +121,12 @@
   ],
   [
     [
-      "2026-08-29, 06:11:18",
-      "https://lobste.rs/s/5lz0zd/i_naively_tried_vibe_coding_memory_tool"
+      "2026-08-29, 05:35:08",
+      "https://lobste.rs/s/s8x8xq/reviving_sd_card_with_shorted_capacitors"
     ],
     [
-      "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-      "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory"
+      "Reviving An SD Card With Shorted Capacitors",
+      "https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/"
     ]
   ],
   [
@@ -137,26 +137,6 @@
     [
       "Any true alternatives to electron JavaScript?",
       "https://lobste.rs/s/vji9aj/any_true_alternatives_electron"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 01:40:59",
-      "https://lobste.rs/s/zctsmq/llm_usage_debian_neither_endorsed_nor"
-    ],
-    [
-      "LLM usage in Debian neither endorsed nor prohibited",
-      "https://www.debian.org/vote/2026/vote_002#texte"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 20:23:15",
-      "https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security"
-    ],
-    [
-      "Just a rumour of a bug is enough to find a security exploit these days",
-      "https://anil.recoil.org/notes/rumour-is-the-exploit"
     ]
   ],
   [
@@ -181,32 +161,12 @@
   ],
   [
     [
-      "2026-08-28, 18:11:43",
-      "https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is"
+      "2026-08-28, 17:39:21",
+      "https://lobste.rs/s/yqqsgk/pointer_stability_for_arraylists"
     ],
     [
-      "How cats.txt showed llms.txt evidence is GEO astrology",
-      "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 16:35:15",
-      "https://lobste.rs/s/xr1eor/yap_particular_kind_slop"
-    ],
-    [
-      "Yap: a particular kind of slop",
-      "https://mckayla.blog/posts/yap.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 16:14:11",
-      "https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released"
-    ],
-    [
-      "htmx 4.0.0 has been released",
-      "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
+      "Pointer Stability for ArrayLists",
+      "https://ziglang.org/devlog/2026/#2026-08-27"
     ]
   ],
   [
@@ -221,12 +181,42 @@
   ],
   [
     [
+      "2026-08-28, 13:03:44",
+      "https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2026-08-28, 12:06:03",
       "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"
     ],
     [
       "OpenOffice does not print on Tuesdays (2009)",
       "https://beza1e1.tuxen.de/lore/print_on_tuesday.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 11:57:23",
+      "https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer"
+    ],
+    [
+      "Now Hiring: Senior Open Source Maintainer",
+      "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 10:51:03",
+      "https://lobste.rs/s/max8q6/zero_cost_tagless_final_rust_with_gadt"
+    ],
+    [
+      "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
+      "https://inferara.com/blog/rust-tagless-final-gadt/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
       "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 06:54:56",
+      "https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"
+    ],
+    [
+      "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
     ]
   ]
 ]
