@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-30](index.md)
 
+* [2026-08-30, 18:11:09](https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate) - [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
+* [2026-08-30, 17:52:41](https://lobste.rs/s/fkcpnp/hsk_manga_turning_manga_into_beginner) - [HSK Manga: Turning Manga into Beginner-Level Chinese](https://hskmanga.com/blog/)
+* [2026-08-30, 17:08:55](https://lobste.rs/s/syxqrd/sat_attack_on_tarski_s_high_school_algebra) - [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)
+* [2026-08-30, 16:49:22](https://lobste.rs/s/wdke4a/small_reasonably_fast_qoi_decoder) - [Small and reasonably fast QOI decoder written in zig](https://github.com/sorvi-platform/dekoodaaja)
 * [2026-08-30, 16:11:30](https://lobste.rs/s/qjbw27/one_flake_rule_them_all) - [One flake to rule them all](https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all)
 * [2026-08-30, 15:13:55](https://lobste.rs/s/3ccvfi/interview_with_oofoe_about_rebol_forth) - [Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry](https://alexalejandre.com/interviews/interview-with-oofoe/)
 * [2026-08-30, 15:10:39](https://lobste.rs/s/pkqqr5/debugging_type_based_alias_analysis) - [Debugging Type-Based Alias Analysis optimizations in BPF](https://loshz.com/debugging-bpf-tbaa/)
+* [2026-08-30, 13:27:41](https://lobste.rs/s/9naffr/where_does_taste_come_from) - [But where does taste come from?](https://dustycloud.org/blog/but-where-does-taste-come-from/)
 * [2026-08-30, 13:24:45](https://lobste.rs/s/zaavff/openwrt_monitor_your_ipv6_status) - [OpenWrt: Monitor your IPv6 Status](https://bergs.biz/blog/2026/08/30/openwrt-monitor-your-ipv6-status/)
 * [2026-08-30, 13:11:46](https://lobste.rs/s/mgwfjc/transfer_files_over_ethernet_patch_cable) - [Transfer files over an ethernet patch cable](https://maurycyz.com/misc/etherfiles/)
 * [2026-08-30, 11:54:38](https://lobste.rs/s/n1h6mh/automating_immersive_reading) - [Automating immersive reading](https://smoores.dev/post/automating_immersive_reading/)
