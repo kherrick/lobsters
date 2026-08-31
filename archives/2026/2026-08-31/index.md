@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-31](index.md)
 
+* [2026-08-31, 20:49:27](https://lobste.rs/s/gt1cow/v0_1_0_0_ghcup_gtk_released) - [V0.1.0.0 of ghcup-gtk released](https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631)
+* [2026-08-31, 19:11:11](https://lobste.rs/s/x1b4va/are_we_legacy_computing_yet) - [Are We Legacy Computing Yet?](https://arewelegacycomputingyet.com/)
+* [2026-08-31, 18:32:12](https://lobste.rs/s/tkrcrg/kale_transformation_safe_spreadsheet) - [Kale: A Transformation-Safe Spreadsheet System](https://arxiv.org/abs/2608.26345)
 * [2026-08-31, 17:52:08](https://lobste.rs/s/qtakqk/c_26_standard_library_hardening) - [C++26: Standard Library Hardening Experiments](https://www.cppstories.com/2026/hardening-experiments/)
+* [2026-08-31, 17:03:47](https://lobste.rs/s/xygw0y/bootstrappable_builds_how_why) - [Bootstrappable builds: how and why](https://lwn.net/Articles/1088279/)
 * [2026-08-31, 16:53:28](https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong) - [RangeFrom, Part 2..: What I think is wrong about the design](https://erk.dev/2026/08/30/rangefrom-part-2)
 * [2026-08-31, 16:39:11](https://lobste.rs/s/77kss6/data_became_code_we_ran_code_inside) - [Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents](https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc)
 * [2026-08-31, 15:22:00](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by) - [I attended a conference recently and AI use by academics was absurd](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by)
