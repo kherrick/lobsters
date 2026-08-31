@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-30](index.md)
 
+* [2026-08-30, 21:57:28](https://lobste.rs/s/9ac8ta/parallel_o_sqrt_n_overhead_lsd_radix_sort) - [Parallel O(sqrt n) Overhead LSD Radix Sort](https://arxiv.org/abs/2607.05302)
 * [2026-08-30, 20:40:04](https://lobste.rs/s/hutycp/aiki_alpha_3_released_performance) - [Aiki Alpha 3 Released - Performance Improved](https://decuser.github.io/posts/aiki-alpha-3-release/)
 * [2026-08-30, 18:11:09](https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate) - [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
 * [2026-08-30, 17:52:41](https://lobste.rs/s/fkcpnp/hsk_manga_turning_manga_into_beginner) - [HSK Manga: Turning Manga into Beginner-Level Chinese](https://hskmanga.com/blog/)
