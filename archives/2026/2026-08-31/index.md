@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-08-31](index.md)
 
+* [2026-08-31, 17:52:08](https://lobste.rs/s/qtakqk/c_26_standard_library_hardening) - [C++26: Standard Library Hardening Experiments](https://www.cppstories.com/2026/hardening-experiments/)
+* [2026-08-31, 16:53:28](https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong) - [RangeFrom, Part 2..: What I think is wrong about the design](https://erk.dev/2026/08/30/rangefrom-part-2)
+* [2026-08-31, 16:39:11](https://lobste.rs/s/77kss6/data_became_code_we_ran_code_inside) - [Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents](https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc)
+* [2026-08-31, 15:22:00](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by) - [I attended a conference recently and AI use by academics was absurd](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by)
+* [2026-08-31, 14:19:48](https://lobste.rs/s/49hbhi/cancelation_terminology) - [Cancelation Terminology](https://matklad.github.io/2026/08/31/cancelation-terminology.html)
+* [2026-08-31, 14:06:11](https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week)
+* [2026-08-31, 13:46:41](https://lobste.rs/s/q2zziq/any_user_process_can_escalate_root) - [Any user process can escalate to root](https://www.vesto.me/2026/08/31/any-process-escalate-root.html)
+* [2026-08-31, 13:33:40](https://lobste.rs/s/uxqdfr/on_not_becoming_cyborg) - [On not becoming a cyborg](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/)
+* [2026-08-31, 12:36:17](https://lobste.rs/s/gqk57d/privilege_escalation_from_iis_apppool_nt) - [Privilege escalation from IIS AppPool to NT Authority/SYSTEM](https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html)
 * [2026-08-31, 11:40:14](https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0) - [VibeCoded AI-Slop License v1.0](https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6)
 * [2026-08-31, 11:05:04](https://lobste.rs/s/ofoukh/bibliograph_appview_for_interfacing) - [bibliograph: An AppView for interfacing with bibliographic information on ATProto](https://github.com/olamaelcu/bibliograph)
 * [2026-08-31, 10:55:09](https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas) - [July in Servo: more platforms, faster canvas, web fonts in SVG, and more](https://servo.org/blog/2026/08/31/july-in-servo/)
