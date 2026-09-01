@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-01](index.md)
 
+* [2026-09-01, 22:42:12](https://lobste.rs/s/em1whz/researchers_use_ai_democratize_3d) - [Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy](https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/)
+* [2026-09-01, 22:32:54](https://lobste.rs/s/potdi9/risc_v_interpreter_from_future) - [RISC-V interpreter from the future](https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/)
 * [2026-09-01, 17:53:50](https://lobste.rs/s/mkpgrk/pattern_language_software_architecture) - [The pattern language of software architecture](https://metapatterns.io/)
 * [2026-09-01, 17:49:41](https://lobste.rs/s/k8brbu/why_i_am_not_going_buy_computer_2000) - [Why I Am not Going To Buy A Computer (2000)](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2026-09-01, 17:43:21](https://lobste.rs/s/logpfy/texttile_multiplayer_blog_engine_for) - [Texttile, a multiplayer blog engine for people who write together](https://www.v01.io/posts/2026/08/texttile/)
