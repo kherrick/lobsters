@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-01](index.md)
 
+* [2026-09-01, 17:53:50](https://lobste.rs/s/mkpgrk/pattern_language_software_architecture) - [The pattern language of software architecture](https://metapatterns.io/)
+* [2026-09-01, 17:49:41](https://lobste.rs/s/k8brbu/why_i_am_not_going_buy_computer_2000) - [Why I Am not Going To Buy A Computer (2000)](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2026-09-01, 17:43:21](https://lobste.rs/s/logpfy/texttile_multiplayer_blog_engine_for) - [Texttile, a multiplayer blog engine for people who write together](https://www.v01.io/posts/2026/08/texttile/)
 * [2026-09-01, 17:15:18](https://lobste.rs/s/2rrgyh/44_on_arc_agi_1_67_cents) - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
 * [2026-09-01, 16:08:25](https://lobste.rs/s/rwqtzs/crash_course_predicate_logic) - [A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)
 * [2026-09-01, 15:42:44](https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023) - [Is Minifying CSS Necessary? (2023)](https://shivjm.blog/is-minifying-css-necessary/)
 * [2026-09-01, 15:33:30](https://lobste.rs/s/fjpexo/it_works_better_app) - [\"iT woRKs BeTter in THe aPp!!\"](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/)
 * [2026-09-01, 15:10:52](https://lobste.rs/s/sccfuu/wasmi_2_0_engineering_fastest_wasm) - [Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/)
+* [2026-09-01, 14:44:47](https://lobste.rs/s/hiry5f/community_works_together_builds) - [A community that works together, builds together](https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/)
 * [2026-09-01, 13:52:12](https://lobste.rs/s/y58e86/bicycle_for_mind) - [A bicycle for the mind](https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind)
 * [2026-09-01, 13:26:12](https://lobste.rs/s/6ejigt/zuzai_new_word_indicates_absence_ai) - [Zuzai, a new word, indicates the absence of AI](https://zuzai.org/)
 * [2026-09-01, 11:18:22](https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor) - [Fine, I’ll build my own text editor](https://dbushell.com/2026/09/01/text-editor/)
