@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-01, 17:43:21](https://lobste.rs/s/logpfy/texttile_multiplayer_blog_engine_for) - [Texttile, a multiplayer blog engine for people who write together](https://www.v01.io/posts/2026/08/texttile/)
+* [2026-09-01, 17:15:18](https://lobste.rs/s/2rrgyh/44_on_arc_agi_1_67_cents) - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
 * [2026-09-01, 16:08:25](https://lobste.rs/s/rwqtzs/crash_course_predicate_logic) - [A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)
 * [2026-09-01, 15:42:44](https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023) - [Is Minifying CSS Necessary? (2023)](https://shivjm.blog/is-minifying-css-necessary/)
+* [2026-09-01, 15:33:30](https://lobste.rs/s/fjpexo/it_works_better_app) - [\"iT woRKs BeTter in THe aPp!!\"](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/)
 * [2026-09-01, 15:10:52](https://lobste.rs/s/sccfuu/wasmi_2_0_engineering_fastest_wasm) - [Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/)
 * [2026-09-01, 13:52:12](https://lobste.rs/s/y58e86/bicycle_for_mind) - [A bicycle for the mind](https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind)
 * [2026-09-01, 13:26:12](https://lobste.rs/s/6ejigt/zuzai_new_word_indicates_absence_ai) - [Zuzai, a new word, indicates the absence of AI](https://zuzai.org/)
@@ -10,7 +13,6 @@
 * [2026-09-01, 09:30:06](https://lobste.rs/s/zx92fc/this_month_kde_linux_august_2026) - [This Month in KDE Linux: August 2026](https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/)
 * [2026-09-01, 09:16:39](https://lobste.rs/s/edj52m/let_s_use_emergent_css_random_function_all) - [Let’s Use the Emergent CSS random() Function in all the Browsers](https://css-tricks.com/css-random-function-polyfill/)
 * [2026-09-01, 07:22:01](https://lobste.rs/s/e1pwba/robot_framework_language) - [The Robot Framework language](https://docs.robotframework.org/docs/getting_started/how_to_write_rf)
-* [2026-09-01, 05:54:43](https://lobste.rs/s/hi2svr/andy_hertzfeld_oral_history) - [Andy Hertzfeld oral history](https://www.computerhistory.org/collections/catalog/300000188/)
 * [2026-09-01, 01:30:16](https://lobste.rs/s/haotvw/breaking_down_amazon_s_mega_dropdown_2013) - [Breaking down Amazon’s mega dropdown (2013)](https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
 * [2026-09-01, 00:05:30](https://lobste.rs/s/jbgnwk/janet_1_42_0) - [Janet 1.42.0](https://github.com/janet-lang/janet/releases/tag/v1.42.0)
 * [2026-08-31, 20:49:27](https://lobste.rs/s/gt1cow/v0_1_0_0_ghcup_gtk_released) - [V0.1.0.0 of ghcup-gtk released](https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631)
@@ -18,13 +20,11 @@
 * [2026-08-31, 17:03:47](https://lobste.rs/s/xygw0y/bootstrappable_builds_how_why) - [Bootstrappable builds: how and why](https://lwn.net/Articles/1088279/)
 * [2026-08-31, 16:53:28](https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong) - [RangeFrom, Part 2..: What I think is wrong about the design](https://erk.dev/2026/08/30/rangefrom-part-2)
 * [2026-08-31, 15:22:00](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by) - [I attended a conference recently and AI use by academics was absurd](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by)
-* [2026-08-31, 14:19:48](https://lobste.rs/s/49hbhi/cancelation_terminology) - [Cancelation Terminology](https://matklad.github.io/2026/08/31/cancelation-terminology.html)
 * [2026-08-31, 13:33:40](https://lobste.rs/s/uxqdfr/on_not_becoming_cyborg) - [On not becoming a cyborg](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/)
 * [2026-08-31, 11:40:14](https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0) - [VibeCoded AI-Slop License v1.0](https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6)
 * [2026-08-31, 10:55:09](https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas) - [July in Servo: more platforms, faster canvas, web fonts in SVG, and more](https://servo.org/blog/2026/08/31/july-in-servo/)
 * [2026-08-31, 10:38:12](https://lobste.rs/s/1pdfex/curl_cve_dispute) - [curl: a CVE dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)
 * [2026-08-31, 09:10:20](https://lobste.rs/s/xnljk9/better_sql_11_lines_code) - [A Better SQL in 11 Lines of Code](https://prela-lang.org/tutorial/)
-* [2026-08-31, 05:38:25](https://lobste.rs/s/ngqpa1/u_s_is_more_than_just_us_according_iso) - [The U.S. is more than just the US (according to the ISO)](https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to)
 
 ## [Archives](archives/index.md)
 
