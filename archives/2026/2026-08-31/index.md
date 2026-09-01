@@ -8,6 +8,7 @@
 * [2026-08-31, 19:11:11](https://lobste.rs/s/x1b4va/are_we_legacy_computing_yet) - [Are We Legacy Computing Yet?](https://arewelegacycomputingyet.com/)
 * [2026-08-31, 18:32:12](https://lobste.rs/s/tkrcrg/kale_transformation_safe_spreadsheet) - [Kale: A Transformation-Safe Spreadsheet System](https://arxiv.org/abs/2608.26345)
 * [2026-08-31, 17:52:08](https://lobste.rs/s/qtakqk/c_26_standard_library_hardening) - [C++26: Standard Library Hardening Experiments](https://www.cppstories.com/2026/hardening-experiments/)
+* [2026-08-31, 17:16:18](https://lobste.rs/s/51zi5s/what_is_real_maximum_length_dns_name_2012) - [What is the real maximum length of a DNS name? (2012)](https://devblogs.microsoft.com/oldnewthing/20120412-00/?p=7873)
 * [2026-08-31, 17:03:47](https://lobste.rs/s/xygw0y/bootstrappable_builds_how_why) - [Bootstrappable builds: how and why](https://lwn.net/Articles/1088279/)
 * [2026-08-31, 16:53:28](https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong) - [RangeFrom, Part 2..: What I think is wrong about the design](https://erk.dev/2026/08/30/rangefrom-part-2)
 * [2026-08-31, 16:39:11](https://lobste.rs/s/77kss6/data_became_code_we_ran_code_inside) - [Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents](https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc)
