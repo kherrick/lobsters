@@ -1,5 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-01, 16:08:25](https://lobste.rs/s/rwqtzs/crash_course_predicate_logic) - [A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)
+* [2026-09-01, 15:42:44](https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023) - [Is Minifying CSS Necessary? (2023)](https://shivjm.blog/is-minifying-css-necessary/)
+* [2026-09-01, 15:10:52](https://lobste.rs/s/sccfuu/wasmi_2_0_engineering_fastest_wasm) - [Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/)
+* [2026-09-01, 13:52:12](https://lobste.rs/s/y58e86/bicycle_for_mind) - [A bicycle for the mind](https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind)
+* [2026-09-01, 13:26:12](https://lobste.rs/s/6ejigt/zuzai_new_word_indicates_absence_ai) - [Zuzai, a new word, indicates the absence of AI](https://zuzai.org/)
 * [2026-09-01, 11:18:22](https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor) - [Fine, I’ll build my own text editor](https://dbushell.com/2026/09/01/text-editor/)
 * [2026-09-01, 09:44:22](https://lobste.rs/s/vbu5ay/coherence_orphan_instance_rules) - [Coherence and orphan instance rules](https://osa1.net/posts/2026-08-29-coherence-and-orphans.html)
 * [2026-09-01, 09:30:06](https://lobste.rs/s/zx92fc/this_month_kde_linux_august_2026) - [This Month in KDE Linux: August 2026](https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/)
@@ -10,8 +15,6 @@
 * [2026-09-01, 00:05:30](https://lobste.rs/s/jbgnwk/janet_1_42_0) - [Janet 1.42.0](https://github.com/janet-lang/janet/releases/tag/v1.42.0)
 * [2026-08-31, 20:49:27](https://lobste.rs/s/gt1cow/v0_1_0_0_ghcup_gtk_released) - [V0.1.0.0 of ghcup-gtk released](https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631)
 * [2026-08-31, 19:11:11](https://lobste.rs/s/x1b4va/are_we_legacy_computing_yet) - [Are We Legacy Computing Yet?](https://arewelegacycomputingyet.com/)
-* [2026-08-31, 18:32:12](https://lobste.rs/s/tkrcrg/kale_transformation_safe_spreadsheet) - [Kale: A Transformation-Safe Spreadsheet System](https://arxiv.org/abs/2608.26345)
-* [2026-08-31, 17:43:18](https://lobste.rs/s/b75vrk/css_is_still_awesome) - [CSS is Still Awesome](https://jasonsantamaria.com/blog/css-is-still-awesome)
 * [2026-08-31, 17:03:47](https://lobste.rs/s/xygw0y/bootstrappable_builds_how_why) - [Bootstrappable builds: how and why](https://lwn.net/Articles/1088279/)
 * [2026-08-31, 16:53:28](https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong) - [RangeFrom, Part 2..: What I think is wrong about the design](https://erk.dev/2026/08/30/rangefrom-part-2)
 * [2026-08-31, 15:22:00](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by) - [I attended a conference recently and AI use by academics was absurd](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by)
@@ -19,12 +22,9 @@
 * [2026-08-31, 13:33:40](https://lobste.rs/s/uxqdfr/on_not_becoming_cyborg) - [On not becoming a cyborg](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/)
 * [2026-08-31, 11:40:14](https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0) - [VibeCoded AI-Slop License v1.0](https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6)
 * [2026-08-31, 10:55:09](https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas) - [July in Servo: more platforms, faster canvas, web fonts in SVG, and more](https://servo.org/blog/2026/08/31/july-in-servo/)
-* [2026-08-31, 10:50:09](https://lobste.rs/s/by7xg6/could_cargo_s_scheduler_be_better) - [Could Cargo's scheduler be better?](https://spirali.github.io/blog/cargo-scheduler/)
 * [2026-08-31, 10:38:12](https://lobste.rs/s/1pdfex/curl_cve_dispute) - [curl: a CVE dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)
 * [2026-08-31, 09:10:20](https://lobste.rs/s/xnljk9/better_sql_11_lines_code) - [A Better SQL in 11 Lines of Code](https://prela-lang.org/tutorial/)
 * [2026-08-31, 05:38:25](https://lobste.rs/s/ngqpa1/u_s_is_more_than_just_us_according_iso) - [The U.S. is more than just the US (according to the ISO)](https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to)
-* [2026-08-31, 04:10:47](https://lobste.rs/s/uueocw/repeating_ourselves_less_with_m4) - [Repeating Ourselves Less with M4](https://nemin.hu/httpd-macros/index.html)
-* [2026-08-30, 18:11:09](https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate) - [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
 
 ## [Archives](archives/index.md)
 

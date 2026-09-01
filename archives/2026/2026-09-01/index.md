@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-01](index.md)
 
+* [2026-09-01, 16:08:25](https://lobste.rs/s/rwqtzs/crash_course_predicate_logic) - [A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)
+* [2026-09-01, 15:42:44](https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023) - [Is Minifying CSS Necessary? (2023)](https://shivjm.blog/is-minifying-css-necessary/)
+* [2026-09-01, 15:10:52](https://lobste.rs/s/sccfuu/wasmi_2_0_engineering_fastest_wasm) - [Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/)
+* [2026-09-01, 13:52:12](https://lobste.rs/s/y58e86/bicycle_for_mind) - [A bicycle for the mind](https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind)
+* [2026-09-01, 13:26:12](https://lobste.rs/s/6ejigt/zuzai_new_word_indicates_absence_ai) - [Zuzai, a new word, indicates the absence of AI](https://zuzai.org/)
 * [2026-09-01, 11:18:22](https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor) - [Fine, I’ll build my own text editor](https://dbushell.com/2026/09/01/text-editor/)
 * [2026-09-01, 09:44:22](https://lobste.rs/s/vbu5ay/coherence_orphan_instance_rules) - [Coherence and orphan instance rules](https://osa1.net/posts/2026-08-29-coherence-and-orphans.html)
 * [2026-09-01, 09:30:06](https://lobste.rs/s/zx92fc/this_month_kde_linux_august_2026) - [This Month in KDE Linux: August 2026](https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/)
