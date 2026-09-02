@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-09-02, 18:19:13",
+      "https://lobste.rs/s/m4iwq4/static_allocation_constant_work"
+    ],
+    [
+      "Static Allocation, Constant Work",
+      "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 17:52:36",
+      "https://lobste.rs/s/yomxcl/dependent_if_expressions_without"
+    ],
+    [
+      "Dependent if expressions without dependent types",
+      "https://haskellforall.com/2026/09/dependent-if-expressions"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 17:07:41",
+      "https://lobste.rs/s/jyrcwk/revisiting_joel_s_test_exe_dev_blog"
+    ],
+    [
+      "Revisiting Joel's Test - exe.dev blog",
+      "https://blog.exe.dev/revisiting-joel"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 16:19:44",
+      "https://lobste.rs/s/qq9jpo/implementing_fma_finding_bugs_c_rust"
+    ],
+    [
+      "Implementing FMA and finding bugs in C and Rust standard libraries",
+      "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 15:20:29",
+      "https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn"
+    ],
+    [
+      "A note on subscription prices from LWN",
+      "https://lwn.net/Articles/1090585/"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 14:38:08",
       "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real"
     ],
@@ -51,42 +101,12 @@
   ],
   [
     [
-      "2026-09-02, 11:52:23",
-      "https://lobste.rs/s/us078z/bye_bye_perspective_api_lessons_for"
-    ],
-    [
-      "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
-      "https://arxiv.org/abs/2604.25580"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 11:41:49",
-      "https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026"
-    ],
-    [
-      "Who's Hiring? Q4 2026",
-      "https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 11:35:51",
       "https://lobste.rs/s/vq68cd/read_your_own_writes_off_primary"
     ],
     [
       "Read your own writes, off the primary",
       "https://boringsql.com/posts/read-your-own-writes/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 10:46:40",
-      "https://lobste.rs/s/dtllfk/solving_flat_cube"
-    ],
-    [
-      "Solving the Flat Cube",
-      "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-09-02, 00:15:46",
-      "https://lobste.rs/s/abkikp/why_i_m_excited_about_effect_systems_2025"
-    ],
-    [
-      "Why I'm excited about effect systems (2025)",
-      "https://osa1.net/posts/2025-06-28-why-effects.html"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 00:01:33",
       "https://lobste.rs/s/tvoo4x/flat_vs_segmented_memory_it_s_recursive"
     ],
     [
       "Flat vs segmented memory -- it's recursive",
       "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 22:32:54",
-      "https://lobste.rs/s/potdi9/risc_v_interpreter_from_future"
-    ],
-    [
-      "RISC-V interpreter from the future",
-      "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/"
     ]
   ],
   [
