@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-02, 21:35:21](https://lobste.rs/s/mj9qti/ctti_is_exponential_rtti_is_linear) - [CTTI is Exponential, RTTI is Linear](https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/)
 * [2026-09-02, 19:54:21](https://lobste.rs/s/3y9lbw/let_s_build_compressor_from_scratch) - [Let's build a compressor from scratch](https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/)
+* [2026-09-02, 19:23:20](https://lobste.rs/s/ayatfy/check_if_file_was_made_with_claude) - [Check if a file was made with Claude](https://www.claude.com/check-content)
 * [2026-09-02, 19:22:37](https://lobste.rs/s/echox4/holy_grail_nixpkgs_version_ranges) - [The holy grail of nixpkgs: version ranges](https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges)
 * [2026-09-02, 18:50:17](https://lobste.rs/s/dpfpr3/goroutine_leak_profiles) - [Goroutine Leak Profiles](https://go.dev/blog/goroutine-leak-profiles)
 * [2026-09-02, 18:20:35](https://lobste.rs/s/nh1uij/i_don_t_have_smartphone) - [I Don’t Have a Smartphone…](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
@@ -19,8 +21,6 @@
 * [2026-09-02, 06:09:55](https://lobste.rs/s/v1wxh0/bluefin_is_capability_system) - [Bluefin is a capability system](https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/)
 * [2026-09-02, 04:13:01](https://lobste.rs/s/kxgwhy/gentleos_16_hobby_os_for_vintage_16_bit_pcs) - [GentleOS/16 hobby OS for vintage 16-bit PCs](https://luke8086.dev/gentleos16.html)
 * [2026-09-02, 04:06:28](https://lobste.rs/s/4gzijx/load_bearing_vocabulary_claude) - [The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/)
-* [2026-09-02, 01:22:48](https://lobste.rs/s/qnffyn/endless_temptation_claude) - [The Endless Temptation of Claude](https://discardpile.pika.page/posts/the-endless-temptation-of-claude)
-* [2026-09-02, 00:15:46](https://lobste.rs/s/abkikp/why_i_m_excited_about_effect_systems_2025) - [Why I'm excited about effect systems (2025)](https://osa1.net/posts/2025-06-28-why-effects.html)
 * [2026-09-01, 16:08:25](https://lobste.rs/s/rwqtzs/crash_course_predicate_logic) - [A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)
 * [2026-09-01, 15:42:44](https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023) - [Is Minifying CSS Necessary? (2023)](https://shivjm.blog/is-minifying-css-necessary/)
 * [2026-09-01, 13:26:12](https://lobste.rs/s/6ejigt/zuzai_new_word_indicates_absence_ai) - [Zuzai, a new word, indicates the absence of AI](https://zuzai.org/)
