@@ -1,12 +1,15 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-02, 04:54:48](https://lobste.rs/s/mjbwfn/ayandict_3_0_0_released) - [AyanDict 3.0.0 Released](https://github.com/ilius/ayandict/releases/tag/v3.0.0)
-* [2026-09-02, 04:21:49](https://lobste.rs/s/ta0fg1/vulnpocalypse_is_repricing_bug_bounty) - [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
+* [2026-09-02, 10:46:40](https://lobste.rs/s/dtllfk/solving_flat_cube) - [Solving the Flat Cube](https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/)
+* [2026-09-02, 07:29:02](https://lobste.rs/s/wyyzab/humanity_has_built_records_fate_by) - [humanity has built the records of FATE by accident](https://ariadne.space/2026/09/01/humanity-has-built-the-records.html)
+* [2026-09-02, 06:31:38](https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12) - [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/)
+* [2026-09-02, 06:09:55](https://lobste.rs/s/v1wxh0/bluefin_is_capability_system) - [Bluefin is a capability system](https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/)
 * [2026-09-02, 04:13:01](https://lobste.rs/s/kxgwhy/gentleos_16_hobby_os_for_vintage_16_bit_pcs) - [GentleOS/16 hobby OS for vintage 16-bit PCs](https://luke8086.dev/gentleos16.html)
 * [2026-09-02, 04:06:28](https://lobste.rs/s/4gzijx/load_bearing_vocabulary_claude) - [The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/)
 * [2026-09-02, 01:22:48](https://lobste.rs/s/qnffyn/endless_temptation_claude) - [The Endless Temptation of Claude](https://discardpile.pika.page/posts/the-endless-temptation-of-claude)
 * [2026-09-02, 00:15:46](https://lobste.rs/s/abkikp/why_i_m_excited_about_effect_systems_2025) - [Why I'm excited about effect systems (2025)](https://osa1.net/posts/2025-06-28-why-effects.html)
 * [2026-09-02, 00:01:33](https://lobste.rs/s/tvoo4x/flat_vs_segmented_memory_it_s_recursive) - [Flat vs segmented memory -- it's recursive](https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented)
+* [2026-09-01, 22:42:12](https://lobste.rs/s/em1whz/researchers_use_ai_democratize_3d) - [Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy](https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/)
 * [2026-09-01, 22:32:54](https://lobste.rs/s/potdi9/risc_v_interpreter_from_future) - [RISC-V interpreter from the future](https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/)
 * [2026-09-01, 17:53:50](https://lobste.rs/s/mkpgrk/pattern_language_software_architecture) - [The pattern language of software architecture](https://metapatterns.io/)
 * [2026-09-01, 17:43:21](https://lobste.rs/s/logpfy/texttile_multiplayer_blog_engine_for) - [Texttile, a multiplayer blog engine for people who write together](https://www.v01.io/posts/2026/08/texttile/)
@@ -22,9 +25,6 @@
 * [2026-09-01, 09:30:06](https://lobste.rs/s/zx92fc/this_month_kde_linux_august_2026) - [This Month in KDE Linux: August 2026](https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/)
 * [2026-09-01, 01:30:16](https://lobste.rs/s/haotvw/breaking_down_amazon_s_mega_dropdown_2013) - [Breaking down Amazon’s mega dropdown (2013)](https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
 * [2026-09-01, 00:05:30](https://lobste.rs/s/jbgnwk/janet_1_42_0) - [Janet 1.42.0](https://github.com/janet-lang/janet/releases/tag/v1.42.0)
-* [2026-08-31, 16:53:28](https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong) - [RangeFrom, Part 2..: What I think is wrong about the design](https://erk.dev/2026/08/30/rangefrom-part-2)
-* [2026-08-31, 11:40:14](https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0) - [VibeCoded AI-Slop License v1.0](https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6)
-* [2026-08-31, 10:38:12](https://lobste.rs/s/1pdfex/curl_cve_dispute) - [curl: a CVE dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)
 
 ## [Archives](archives/index.md)
 

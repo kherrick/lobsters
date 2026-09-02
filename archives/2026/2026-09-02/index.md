@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-02](index.md)
 
+* [2026-09-02, 10:46:40](https://lobste.rs/s/dtllfk/solving_flat_cube) - [Solving the Flat Cube](https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/)
+* [2026-09-02, 07:29:02](https://lobste.rs/s/wyyzab/humanity_has_built_records_fate_by) - [humanity has built the records of FATE by accident](https://ariadne.space/2026/09/01/humanity-has-built-the-records.html)
+* [2026-09-02, 06:31:38](https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12) - [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/)
+* [2026-09-02, 06:09:55](https://lobste.rs/s/v1wxh0/bluefin_is_capability_system) - [Bluefin is a capability system](https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/)
 * [2026-09-02, 04:54:48](https://lobste.rs/s/mjbwfn/ayandict_3_0_0_released) - [AyanDict 3.0.0 Released](https://github.com/ilius/ayandict/releases/tag/v3.0.0)
 * [2026-09-02, 04:21:49](https://lobste.rs/s/ta0fg1/vulnpocalypse_is_repricing_bug_bounty) - [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
 * [2026-09-02, 04:13:01](https://lobste.rs/s/kxgwhy/gentleos_16_hobby_os_for_vintage_16_bit_pcs) - [GentleOS/16 hobby OS for vintage 16-bit PCs](https://luke8086.dev/gentleos16.html)
