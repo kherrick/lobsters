@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-02](index.md)
 
+* [2026-09-02, 18:19:13](https://lobste.rs/s/m4iwq4/static_allocation_constant_work) - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
+* [2026-09-02, 17:52:36](https://lobste.rs/s/yomxcl/dependent_if_expressions_without) - [Dependent if expressions without dependent types](https://haskellforall.com/2026/09/dependent-if-expressions)
+* [2026-09-02, 17:07:41](https://lobste.rs/s/jyrcwk/revisiting_joel_s_test_exe_dev_blog) - [Revisiting Joel's Test - exe.dev blog](https://blog.exe.dev/revisiting-joel)
+* [2026-09-02, 16:19:44](https://lobste.rs/s/qq9jpo/implementing_fma_finding_bugs_c_rust) - [Implementing FMA and finding bugs in C and Rust standard libraries](https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/)
+* [2026-09-02, 15:20:29](https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn) - [A note on subscription prices from LWN](https://lwn.net/Articles/1090585/)
 * [2026-09-02, 14:38:08](https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real) - [TinyGo 0.42 - Recover Is Real](https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/)
 * [2026-09-02, 14:30:56](https://lobste.rs/s/k86iql/esp32_as_counter_surveillance_platform) - [ESP32 as counter-surveillance platform](https://www.youtube.com/watch?v=PcK-TDmzshc)
 * [2026-09-02, 13:43:47](https://lobste.rs/s/oieyk7/what_will_you_do_after_tech) - [What will you do after tech?](https://lobste.rs/s/oieyk7/what_will_you_do_after_tech)
