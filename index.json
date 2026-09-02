@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-02, 00:01:33",
+      "https://lobste.rs/s/tvoo4x/flat_vs_segmented_memory_it_s_recursive"
+    ],
+    [
+      "Flat vs segmented memory -- it's recursive",
+      "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 23:19:04",
+      "https://lobste.rs/s/k1humn/how_accurate_have_ed_zitron_s_ai_skeptic"
+    ],
+    [
+      "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "https://danluu.com/zitron/"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 22:42:12",
       "https://lobste.rs/s/em1whz/researchers_use_ai_democratize_3d"
     ],
@@ -17,6 +37,16 @@
     [
       "RISC-V interpreter from the future",
       "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 19:39:24",
+      "https://lobste.rs/s/nmhtnw/agent_memory_as_file_format"
+    ],
+    [
+      "Agent memory as a file format",
+      "https://calpaterson.com/memoryfields.html"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-09-01, 07:22:01",
-      "https://lobste.rs/s/e1pwba/robot_framework_language"
-    ],
-    [
-      "The Robot Framework language",
-      "https://docs.robotframework.org/docs/getting_started/how_to_write_rf"
-    ]
-  ],
-  [
-    [
       "2026-09-01, 01:30:16",
       "https://lobste.rs/s/haotvw/breaking_down_amazon_s_mega_dropdown_2013"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-08-31, 13:33:40",
-      "https://lobste.rs/s/uxqdfr/on_not_becoming_cyborg"
-    ],
-    [
-      "On not becoming a cyborg",
-      "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/"
-    ]
-  ],
-  [
-    [
       "2026-08-31, 11:40:14",
       "https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0"
     ],
     [
       "VibeCoded AI-Slop License v1.0",
       "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 10:55:09",
-      "https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas"
-    ],
-    [
-      "July in Servo: more platforms, faster canvas, web fonts in SVG, and more",
-      "https://servo.org/blog/2026/08/31/july-in-servo/"
     ]
   ],
   [
