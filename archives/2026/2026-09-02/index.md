@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-02](index.md)
+
+* [2026-09-02, 00:01:33](https://lobste.rs/s/tvoo4x/flat_vs_segmented_memory_it_s_recursive) - [Flat vs segmented memory -- it's recursive](https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented)
