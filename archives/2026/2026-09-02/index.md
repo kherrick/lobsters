@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-02](index.md)
 
+* [2026-09-02, 19:54:21](https://lobste.rs/s/3y9lbw/let_s_build_compressor_from_scratch) - [Let's build a compressor from scratch](https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/)
+* [2026-09-02, 19:22:37](https://lobste.rs/s/echox4/holy_grail_nixpkgs_version_ranges) - [The holy grail of nixpkgs: version ranges](https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges)
+* [2026-09-02, 18:50:17](https://lobste.rs/s/dpfpr3/goroutine_leak_profiles) - [Goroutine Leak Profiles](https://go.dev/blog/goroutine-leak-profiles)
+* [2026-09-02, 18:20:35](https://lobste.rs/s/nh1uij/i_don_t_have_smartphone) - [I Don’t Have a Smartphone…](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
 * [2026-09-02, 18:19:13](https://lobste.rs/s/m4iwq4/static_allocation_constant_work) - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 * [2026-09-02, 17:52:36](https://lobste.rs/s/yomxcl/dependent_if_expressions_without) - [Dependent if expressions without dependent types](https://haskellforall.com/2026/09/dependent-if-expressions)
 * [2026-09-02, 17:07:41](https://lobste.rs/s/jyrcwk/revisiting_joel_s_test_exe_dev_blog) - [Revisiting Joel's Test - exe.dev blog](https://blog.exe.dev/revisiting-joel)
