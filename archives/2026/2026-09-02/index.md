@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-02](index.md)
 
+* [2026-09-02, 14:38:08](https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real) - [TinyGo 0.42 - Recover Is Real](https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/)
+* [2026-09-02, 14:30:56](https://lobste.rs/s/k86iql/esp32_as_counter_surveillance_platform) - [ESP32 as counter-surveillance platform](https://www.youtube.com/watch?v=PcK-TDmzshc)
+* [2026-09-02, 13:43:47](https://lobste.rs/s/oieyk7/what_will_you_do_after_tech) - [What will you do after tech?](https://lobste.rs/s/oieyk7/what_will_you_do_after_tech)
+* [2026-09-02, 12:59:58](https://lobste.rs/s/b53fwj/new_things_for_regular_expressions) - [New things for regular expressions in PostgreSQL (pg_tre and pg_re2)](https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/)
+* [2026-09-02, 12:50:14](https://lobste.rs/s/7s8fuv/firefox_s_ai_switch_is_off_telemetry_isn_t) - [Firefox’s AI Switch Is Off. Telemetry Isn’t](https://marius.blog/firefox-155-ai-kill-switch-retest/)
+* [2026-09-02, 11:52:23](https://lobste.rs/s/us078z/bye_bye_perspective_api_lessons_for) - [Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation](https://arxiv.org/abs/2604.25580)
+* [2026-09-02, 11:41:49](https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026) - [Who's Hiring? Q4 2026](https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026)
+* [2026-09-02, 11:35:51](https://lobste.rs/s/vq68cd/read_your_own_writes_off_primary) - [Read your own writes, off the primary](https://boringsql.com/posts/read-your-own-writes/)
 * [2026-09-02, 10:46:40](https://lobste.rs/s/dtllfk/solving_flat_cube) - [Solving the Flat Cube](https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/)
 * [2026-09-02, 07:29:02](https://lobste.rs/s/wyyzab/humanity_has_built_records_fate_by) - [humanity has built the records of FATE by accident](https://ariadne.space/2026/09/01/humanity-has-built-the-records.html)
 * [2026-09-02, 06:31:38](https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12) - [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/)
