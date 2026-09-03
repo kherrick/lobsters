@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-09-03, 14:03:38",
+      "https://lobste.rs/s/77qick/announcing_rust_1_98_1"
+    ],
+    [
+      "Announcing Rust 1.98.1",
+      "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 13:52:43",
+      "https://lobste.rs/s/j03x8u/audacity_4_0_0_released"
+    ],
+    [
+      "Audacity 4.0.0 Released",
+      "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 13:21:37",
+      "https://lobste.rs/s/towfrz/revo_programming_language"
+    ],
+    [
+      "Révo Programming language",
+      "https://revo.lung.fyi/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 13:00:52",
+      "https://lobste.rs/s/izlxli/how_guarantee_you_never_ship"
+    ],
+    [
+      "How to Guarantee You Never Ship",
+      "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 11:35:09",
+      "https://lobste.rs/s/bgswli/souping_up_my_blog"
+    ],
+    [
+      "Souping up my blog",
+      "https://qtea.me/posts/souping-up-my-blog/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 10:50:44",
+      "https://lobste.rs/s/2avct0/how_swiss_tables_work_go_s_built_map"
+    ],
+    [
+      "How Swiss Tables Work in Go’s Built-in Map",
+      "https://victoriametrics.com/blog/go-swiss-table-map/"
+    ]
+  ],
+  [
+    [
       "2026-09-03, 10:02:34",
       "https://lobste.rs/s/zudpcb/jujutsu_0_45_0"
     ],
@@ -67,26 +127,6 @@
     [
       "Security Incident – BGP Hijacking",
       "https://www.virtualizor.com/blog/security-incident-bgp-hijacking/"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 01:45:42",
-      "https://lobste.rs/s/l1luho/asciiquake"
-    ],
-    [
-      "asciiQuake",
-      "https://asciiquake.wtf/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 22:30:57",
-      "https://lobste.rs/s/tst4e1/reverse_engineering_unknown_file"
-    ],
-    [
-      "Reverse Engineering Unknown File Formats with ImHex",
-      "https://werwolv.net/posts/file_format_reverse_engineering/"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-09-02, 17:07:41",
-      "https://lobste.rs/s/jyrcwk/revisiting_joel_s_test_exe_dev_blog"
-    ],
-    [
-      "Revisiting Joel's Test - exe.dev blog",
-      "https://blog.exe.dev/revisiting-joel"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 16:19:44",
       "https://lobste.rs/s/qq9jpo/implementing_fma_finding_bugs_c_rust"
     ],
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2026-09-02, 14:30:56",
-      "https://lobste.rs/s/k86iql/esp32_as_counter_surveillance_platform"
-    ],
-    [
-      "ESP32 as counter-surveillance platform",
-      "https://www.youtube.com/watch?v=PcK-TDmzshc"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 13:43:47",
-      "https://lobste.rs/s/oieyk7/what_will_you_do_after_tech"
-    ],
-    [
-      "What will you do after tech?",
-      "https://lobste.rs/s/oieyk7/what_will_you_do_after_tech"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 06:31:38",
       "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12"
     ],
@@ -237,16 +247,6 @@
     [
       "The load-bearing vocabulary of Claude",
       "https://louisabraham.github.io/load-bearing/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 16:08:25",
-      "https://lobste.rs/s/rwqtzs/crash_course_predicate_logic"
-    ],
-    [
-      "A Crash Course in Predicate Logic",
-      "https://www.hillelwayne.com/post/predicate-logic/"
     ]
   ]
 ]
