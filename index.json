@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-09-03, 14:55:14",
+      "https://lobste.rs/s/6tsncg/name_termination"
+    ],
+    [
+      ".name Termination",
+      "https://neil.fraser.name/news/2026/09/03/"
+    ]
+  ],
+  [
+    [
       "2026-09-03, 14:03:38",
       "https://lobste.rs/s/77qick/announcing_rust_1_98_1"
     ],
     [
       "Announcing Rust 1.98.1",
       "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 14:03:31",
+      "https://lobste.rs/s/if60bl/you_don_t_need_initial_scale_your_html"
+    ],
+    [
+      "You Don't Need Initial-Scale In Your HTML",
+      "https://vale.rocks/micros/20260902-1350"
     ]
   ],
   [
@@ -21,11 +41,21 @@
   ],
   [
     [
+      "2026-09-03, 13:39:13",
+      "https://lobste.rs/s/jato3y/llms_self_referentiality"
+    ],
+    [
+      "LLMs and self-referentiality",
+      "https://scottaaronson.blog/?p=10046"
+    ]
+  ],
+  [
+    [
       "2026-09-03, 13:21:37",
       "https://lobste.rs/s/towfrz/revo_programming_language"
     ],
     [
-      "Révo Programming language",
+      "Revo Programming language",
       "https://revo.lung.fyi/"
     ]
   ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-09-02, 18:50:17",
-      "https://lobste.rs/s/dpfpr3/goroutine_leak_profiles"
-    ],
-    [
-      "Goroutine Leak Profiles",
-      "https://go.dev/blog/goroutine-leak-profiles"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 18:20:35",
       "https://lobste.rs/s/nh1uij/i_don_t_have_smartphone"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-09-02, 14:38:08",
-      "https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real"
-    ],
-    [
-      "TinyGo 0.42 - Recover Is Real",
-      "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 06:31:38",
       "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12"
     ],
     [
       "Normalized Fascism in Open Source: $12 Million Given to DHH",
       "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 04:06:28",
-      "https://lobste.rs/s/4gzijx/load_bearing_vocabulary_claude"
-    ],
-    [
-      "The load-bearing vocabulary of Claude",
-      "https://louisabraham.github.io/load-bearing/"
     ]
   ]
 ]
