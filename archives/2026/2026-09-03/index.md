@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-03](index.md)
 
+* [2026-09-03, 21:44:17](https://lobste.rs/s/htrg6g/image_only_some_users_can_see) - [An image only some users can see](https://d.erenrich.net/apple.avif)
+* [2026-09-03, 21:40:36](https://lobste.rs/s/rlswbt/nes_dumping_over_audio) - [NES dumping over audio](https://mathstodon.xyz/@JordiGH/117209252363385093)
+* [2026-09-03, 21:24:19](https://lobste.rs/s/entcaa/simple_is_not_small) - [simple is not small](https://jyn.dev/simple-is-not-the-same-as-small/)
+* [2026-09-03, 20:30:39](https://lobste.rs/s/uyc8ai/can_we_stop_with_uptime_percentages) - [Can We Stop With the Uptime Percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
 * [2026-09-03, 15:29:55](https://lobste.rs/s/el3fvf/how_i_converted_bbc_micro_elite_into_two) - [How I converted BBC Micro Elite into a two-player game](https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html)
 * [2026-09-03, 14:55:14](https://lobste.rs/s/6tsncg/name_termination) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 * [2026-09-03, 14:03:38](https://lobste.rs/s/77qick/announcing_rust_1_98_1) - [Announcing Rust 1.98.1](https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/)
