@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-02](index.md)
 
+* [2026-09-02, 22:30:57](https://lobste.rs/s/tst4e1/reverse_engineering_unknown_file) - [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/)
 * [2026-09-02, 21:35:21](https://lobste.rs/s/mj9qti/ctti_is_exponential_rtti_is_linear) - [CTTI is Exponential, RTTI is Linear](https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/)
 * [2026-09-02, 19:54:21](https://lobste.rs/s/3y9lbw/let_s_build_compressor_from_scratch) - [Let's build a compressor from scratch](https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/)
 * [2026-09-02, 19:23:20](https://lobste.rs/s/ayatfy/check_if_file_was_made_with_claude) - [Check if a file was made with Claude](https://www.claude.com/check-content)
