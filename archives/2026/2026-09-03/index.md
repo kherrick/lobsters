@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-03](index.md)
 
+* [2026-09-03, 14:03:38](https://lobste.rs/s/77qick/announcing_rust_1_98_1) - [Announcing Rust 1.98.1](https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/)
+* [2026-09-03, 13:52:43](https://lobste.rs/s/j03x8u/audacity_4_0_0_released) - [Audacity 4.0.0 Released](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+* [2026-09-03, 13:21:37](https://lobste.rs/s/towfrz/revo_programming_language) - [Révo Programming language](https://revo.lung.fyi/)
+* [2026-09-03, 13:00:52](https://lobste.rs/s/izlxli/how_guarantee_you_never_ship) - [How to Guarantee You Never Ship](https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html)
+* [2026-09-03, 11:35:09](https://lobste.rs/s/bgswli/souping_up_my_blog) - [Souping up my blog](https://qtea.me/posts/souping-up-my-blog/)
+* [2026-09-03, 10:50:44](https://lobste.rs/s/2avct0/how_swiss_tables_work_go_s_built_map) - [How Swiss Tables Work in Go’s Built-in Map](https://victoriametrics.com/blog/go-swiss-table-map/)
 * [2026-09-03, 10:02:34](https://lobste.rs/s/zudpcb/jujutsu_0_45_0) - [jujutsu 0.45.0](https://github.com/jj-vcs/jj/releases/tag/v0.45.0)
 * [2026-09-03, 09:51:30](https://lobste.rs/s/zatuk4/browser_s_main_thread_is_expensive) - [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
 * [2026-09-03, 08:40:15](https://lobste.rs/s/307nji/what_s_emacs_newcomers_presets_theme) - [What's in the Emacs newcomers-presets theme?](https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/)
