@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-03](index.md)
 
+* [2026-09-03, 15:29:55](https://lobste.rs/s/el3fvf/how_i_converted_bbc_micro_elite_into_two) - [How I converted BBC Micro Elite into a two-player game](https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html)
 * [2026-09-03, 14:55:14](https://lobste.rs/s/6tsncg/name_termination) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 * [2026-09-03, 14:03:38](https://lobste.rs/s/77qick/announcing_rust_1_98_1) - [Announcing Rust 1.98.1](https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/)
 * [2026-09-03, 14:03:31](https://lobste.rs/s/if60bl/you_don_t_need_initial_scale_your_html) - [You Don't Need Initial-Scale In Your HTML](https://vale.rocks/micros/20260902-1350)

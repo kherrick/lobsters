@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-03, 15:29:55](https://lobste.rs/s/el3fvf/how_i_converted_bbc_micro_elite_into_two) - [How I converted BBC Micro Elite into a two-player game](https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html)
 * [2026-09-03, 14:55:14](https://lobste.rs/s/6tsncg/name_termination) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 * [2026-09-03, 14:03:38](https://lobste.rs/s/77qick/announcing_rust_1_98_1) - [Announcing Rust 1.98.1](https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/)
 * [2026-09-03, 14:03:31](https://lobste.rs/s/if60bl/you_don_t_need_initial_scale_your_html) - [You Don't Need Initial-Scale In Your HTML](https://vale.rocks/micros/20260902-1350)
@@ -22,7 +23,6 @@
 * [2026-09-02, 18:20:35](https://lobste.rs/s/nh1uij/i_don_t_have_smartphone) - [I Don’t Have a Smartphone…](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
 * [2026-09-02, 18:19:13](https://lobste.rs/s/m4iwq4/static_allocation_constant_work) - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 * [2026-09-02, 17:52:36](https://lobste.rs/s/yomxcl/dependent_if_expressions_without) - [Dependent if expressions without dependent types](https://haskellforall.com/2026/09/dependent-if-expressions)
-* [2026-09-02, 16:19:44](https://lobste.rs/s/qq9jpo/implementing_fma_finding_bugs_c_rust) - [Implementing FMA and finding bugs in C and Rust standard libraries](https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/)
 * [2026-09-02, 15:20:29](https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn) - [A note on subscription prices from LWN](https://lwn.net/Articles/1090585/)
 * [2026-09-02, 06:31:38](https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12) - [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/)
 
