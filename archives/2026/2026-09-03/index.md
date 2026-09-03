@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-03](index.md)
 
+* [2026-09-03, 14:55:14](https://lobste.rs/s/6tsncg/name_termination) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 * [2026-09-03, 14:03:38](https://lobste.rs/s/77qick/announcing_rust_1_98_1) - [Announcing Rust 1.98.1](https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/)
+* [2026-09-03, 14:03:31](https://lobste.rs/s/if60bl/you_don_t_need_initial_scale_your_html) - [You Don't Need Initial-Scale In Your HTML](https://vale.rocks/micros/20260902-1350)
 * [2026-09-03, 13:52:43](https://lobste.rs/s/j03x8u/audacity_4_0_0_released) - [Audacity 4.0.0 Released](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+* [2026-09-03, 13:39:13](https://lobste.rs/s/jato3y/llms_self_referentiality) - [LLMs and self-referentiality](https://scottaaronson.blog/?p=10046)
 * [2026-09-03, 13:21:37](https://lobste.rs/s/towfrz/revo_programming_language) - [Révo Programming language](https://revo.lung.fyi/)
 * [2026-09-03, 13:00:52](https://lobste.rs/s/izlxli/how_guarantee_you_never_ship) - [How to Guarantee You Never Ship](https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html)
 * [2026-09-03, 11:35:09](https://lobste.rs/s/bgswli/souping_up_my_blog) - [Souping up my blog](https://qtea.me/posts/souping-up-my-blog/)
