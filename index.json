@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-03, 10:02:34",
+      "https://lobste.rs/s/zudpcb/jujutsu_0_45_0"
+    ],
+    [
+      "jujutsu 0.45.0",
+      "https://github.com/jj-vcs/jj/releases/tag/v0.45.0"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 09:51:30",
+      "https://lobste.rs/s/zatuk4/browser_s_main_thread_is_expensive"
+    ],
+    [
+      "The Browser's Main Thread Is Expensive",
+      "https://kciter.so/posts/the-expensive-main-thread/en/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 08:40:15",
+      "https://lobste.rs/s/307nji/what_s_emacs_newcomers_presets_theme"
+    ],
+    [
+      "What's in the Emacs newcomers-presets theme?",
+      "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 08:28:28",
+      "https://lobste.rs/s/fxk56i/cern_transitioning_industrial"
+    ],
+    [
+      "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+      "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL"
+    ]
+  ],
+  [
+    [
       "2026-09-03, 04:12:04",
       "https://lobste.rs/s/klhs7o/deforester_logging_for_janet"
     ],
@@ -25,7 +65,7 @@
       "https://lobste.rs/s/6e1y6s/security_incident_bgp_hijacking"
     ],
     [
-      "Security Incident – BGP Hijacking – Virtualizor",
+      "Security Incident – BGP Hijacking",
       "https://www.virtualizor.com/blog/security-incident-bgp-hijacking/"
     ]
   ],
@@ -67,16 +107,6 @@
     [
       "Let's build a compressor from scratch",
       "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 19:23:20",
-      "https://lobste.rs/s/ayatfy/check_if_file_was_made_with_claude"
-    ],
-    [
-      "Check if a file was made with Claude",
-      "https://www.claude.com/check-content"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-09-02, 12:59:58",
-      "https://lobste.rs/s/b53fwj/new_things_for_regular_expressions"
-    ],
-    [
-      "New things for regular expressions in PostgreSQL (pg_tre and pg_re2)",
-      "https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 06:31:38",
       "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12"
     ],
@@ -227,26 +247,6 @@
     [
       "A Crash Course in Predicate Logic",
       "https://www.hillelwayne.com/post/predicate-logic/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 15:42:44",
-      "https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023"
-    ],
-    [
-      "Is Minifying CSS Necessary? (2023)",
-      "https://shivjm.blog/is-minifying-css-necessary/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 11:18:22",
-      "https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor"
-    ],
-    [
-      "Fine, I’ll build my own text editor",
-      "https://dbushell.com/2026/09/01/text-editor/"
     ]
   ]
 ]
