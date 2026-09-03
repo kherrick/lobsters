@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-03](index.md)
+
+* [2026-09-03, 00:38:51](https://lobste.rs/s/zzt49w/what_happened_borland) - [What Happened to Borland?](https://www.youtube.com/watch?v=HwkoaPl31Dw)

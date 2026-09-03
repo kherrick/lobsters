@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-03, 00:38:51](https://lobste.rs/s/zzt49w/what_happened_borland) - [What Happened to Borland?](https://www.youtube.com/watch?v=HwkoaPl31Dw)
 * [2026-09-02, 21:35:21](https://lobste.rs/s/mj9qti/ctti_is_exponential_rtti_is_linear) - [CTTI is Exponential, RTTI is Linear](https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/)
 * [2026-09-02, 19:54:21](https://lobste.rs/s/3y9lbw/let_s_build_compressor_from_scratch) - [Let's build a compressor from scratch](https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/)
 * [2026-09-02, 19:23:20](https://lobste.rs/s/ayatfy/check_if_file_was_made_with_claude) - [Check if a file was made with Claude](https://www.claude.com/check-content)
@@ -16,7 +17,6 @@
 * [2026-09-02, 13:43:47](https://lobste.rs/s/oieyk7/what_will_you_do_after_tech) - [What will you do after tech?](https://lobste.rs/s/oieyk7/what_will_you_do_after_tech)
 * [2026-09-02, 12:59:58](https://lobste.rs/s/b53fwj/new_things_for_regular_expressions) - [New things for regular expressions in PostgreSQL (pg_tre and pg_re2)](https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/)
 * [2026-09-02, 11:35:51](https://lobste.rs/s/vq68cd/read_your_own_writes_off_primary) - [Read your own writes, off the primary](https://boringsql.com/posts/read-your-own-writes/)
-* [2026-09-02, 07:29:02](https://lobste.rs/s/wyyzab/humanity_has_built_records_fate_by) - [humanity has built the records of FATE by accident](https://ariadne.space/2026/09/01/humanity-has-built-the-records.html)
 * [2026-09-02, 06:31:38](https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12) - [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/)
 * [2026-09-02, 06:09:55](https://lobste.rs/s/v1wxh0/bluefin_is_capability_system) - [Bluefin is a capability system](https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/)
 * [2026-09-02, 04:13:01](https://lobste.rs/s/kxgwhy/gentleos_16_hobby_os_for_vintage_16_bit_pcs) - [GentleOS/16 hobby OS for vintage 16-bit PCs](https://luke8086.dev/gentleos16.html)
