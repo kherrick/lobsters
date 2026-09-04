@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-09-04](index.md)
 
+* [2026-09-04, 15:52:56](https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower) - [The new Go JSON API: twice as fast, or 1.5x slower?](https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/)
+* [2026-09-04, 14:46:23](https://lobste.rs/s/5y7ije/imperial_colors_manifesto) - [Imperial Colors Manifesto](https://qum.cz/imperial_colors/)
+* [2026-09-04, 14:41:18](https://lobste.rs/s/utloro/is_ai_ruining_my_brain) - [Is AI ruining my brain?](https://thoughtbot.com/blog/is-ai-ruining-my-brain)
+* [2026-09-04, 13:44:44](https://lobste.rs/s/fdbblk/collider_experimental_minecraft_server) - [Collider: An experimental Minecraft server](https://github.com/Nozistance/collider)
 * [2026-09-04, 13:11:47](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai) - [Surviving Code Reviews in the era of AI](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai)
 * [2026-09-04, 13:01:53](https://lobste.rs/s/asjmva/inserting_state_transitions_postgres) - [Inserting State Transitions in Postgres](https://thoughtbot.com/blog/inserting-state-transitions-in-postgres)
 * [2026-09-04, 12:39:32](https://lobste.rs/s/8hsckf/performance_engineering_on_hard_mode) - [Performance Engineering on Hard Mode](https://signalsandthreads.com/performance-engineering-on-hard-mode/)
+* [2026-09-04, 12:37:32](https://lobste.rs/s/qnjllv/force_color_keep_your_command_line) - [FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More](https://force-color.org/)
 * [2026-09-04, 11:43:06](https://lobste.rs/s/baiwkq/openai_agents_hijacked_german_website) - [OpenAI agents hijacked German website in previously undisclosed AI breakout this spring](https://collusion.wiki/)
+* [2026-09-04, 11:43:06](https://lobste.rs/s/baiwkq/discovery_new_openai_agent_message_board) - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 * [2026-09-04, 11:00:43](https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching) - [smolts: a pedagogical IDE for a teaching language](https://eighty-twenty.org/2026/09/04/smolts)
 * [2026-09-04, 10:26:32](https://lobste.rs/s/sunmyh/bug_triaging_help_needed) - [Bug triaging help needed](https://pointieststick.com/2026/09/03/bug-triaging-help-needed/)
 * [2026-09-04, 09:26:25](https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend)
