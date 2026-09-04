@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-04](index.md)
 
+* [2026-09-04, 21:02:11](https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type) - [Exploring Mojo’s raw pointer type](https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type)
+* [2026-09-04, 19:46:18](https://lobste.rs/s/fiirrs/stop_thinking_llms_as_next_token) - [Stop Thinking of LLMs as Next-Token Predictors](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html)
+* [2026-09-04, 19:11:37](https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it) - [FLT: Anthropic has beaten me to it](https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/)
 * [2026-09-04, 18:33:44](https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi) - [Babashka 1.13.220 gets FFI](https://blog.michielborkent.nl/babashka-ffi.html)
 * [2026-09-04, 17:47:34](https://lobste.rs/s/rhjedr/jank_reimagines_c_errors_gets_official) - [jank reimagines C++ errors and gets an official native package repo](https://jank-lang.org/blog/2026-09-04-better-and-better/)
+* [2026-09-04, 16:51:46](https://lobste.rs/s/bqfbqk/deft_gradual_type_system_for_janet) - [deft: A gradual type system for Janet](https://codeberg.org/zzkt/deft)
 * [2026-09-04, 16:20:30](https://lobste.rs/s/cywxla/preview_future_intel_architecture) - [A preview of the future Intel Architecture documentation](https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html)
 * [2026-09-04, 15:52:56](https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower) - [The new Go JSON API: twice as fast, or 1.5x slower?](https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/)
 * [2026-09-04, 14:46:23](https://lobste.rs/s/5y7ije/imperial_colors_manifesto) - [Imperial Colors Manifesto](https://qum.cz/imperial_colors/)
