@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-04, 21:02:11",
+      "https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type"
+    ],
+    [
+      "Exploring Mojo’s raw pointer type",
+      "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 19:46:18",
+      "https://lobste.rs/s/fiirrs/stop_thinking_llms_as_next_token"
+    ],
+    [
+      "Stop Thinking of LLMs as Next-Token Predictors",
+      "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 19:11:37",
+      "https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it"
+    ],
+    [
+      "FLT: Anthropic has beaten me to it",
+      "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/"
+    ]
+  ],
+  [
+    [
       "2026-09-04, 18:33:44",
       "https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi"
     ],
@@ -17,6 +47,16 @@
     [
       "jank reimagines C++ errors and gets an official native package repo",
       "https://jank-lang.org/blog/2026-09-04-better-and-better/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 16:51:46",
+      "https://lobste.rs/s/bqfbqk/deft_gradual_type_system_for_janet"
+    ],
+    [
+      "deft: A gradual type system for Janet",
+      "https://codeberg.org/zzkt/deft"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2026-09-04, 13:01:53",
-      "https://lobste.rs/s/asjmva/inserting_state_transitions_postgres"
-    ],
-    [
-      "Inserting State Transitions in Postgres",
-      "https://thoughtbot.com/blog/inserting-state-transitions-in-postgres"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 12:37:32",
       "https://lobste.rs/s/qnjllv/force_color_keep_your_command_line"
     ],
@@ -137,26 +167,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 09:21:00",
-      "https://lobste.rs/s/ybk8hr/incomplete_guide_lazy_evaluation"
-    ],
-    [
-      "The Incomplete Guide to Lazy Evaluation in Haskell (2015)",
-      "https://apfelmus.nfshost.com/articles/lazy-eval.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 07:09:35",
-      "https://lobste.rs/s/4vsl2j/wtf_is_going_on_with_r7rs_large_2026"
-    ],
-    [
-      "WTF is going on with R7RS Large? 2026 edition",
-      "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "jujutsu 0.45.0",
       "https://github.com/jj-vcs/jj/releases/tag/v0.45.0"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 08:28:28",
-      "https://lobste.rs/s/fxk56i/cern_transitioning_industrial"
-    ],
-    [
-      "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
-      "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL"
     ]
   ]
 ]
