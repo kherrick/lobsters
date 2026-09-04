@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-04, 22:14:35](https://lobste.rs/s/ibn0da/mongotar_files_prompt_back) - [Mongotar: Files to prompt, and back](https://github.com/sebastiancarlos/mongotar)
 * [2026-09-04, 21:02:11](https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type) - [Exploring Mojo’s raw pointer type](https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type)
 * [2026-09-04, 19:46:18](https://lobste.rs/s/fiirrs/stop_thinking_llms_as_next_token) - [Stop Thinking of LLMs as Next-Token Predictors](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html)
 * [2026-09-04, 19:11:37](https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it) - [FLT: Anthropic has beaten me to it](https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/)
@@ -24,7 +25,6 @@
 * [2026-09-03, 14:55:14](https://lobste.rs/s/6tsncg/name_termination) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 * [2026-09-03, 13:52:43](https://lobste.rs/s/j03x8u/audacity_4_0_0_released) - [Audacity 4.0.0 Released](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
 * [2026-09-03, 13:21:37](https://lobste.rs/s/towfrz/revo_programming_language) - [Revo Programming language](https://revo.lung.fyi/)
-* [2026-09-03, 10:02:34](https://lobste.rs/s/zudpcb/jujutsu_0_45_0) - [jujutsu 0.45.0](https://github.com/jj-vcs/jj/releases/tag/v0.45.0)
 
 ## [Archives](archives/index.md)
 
