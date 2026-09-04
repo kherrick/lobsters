@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-04, 04:44:04](https://lobste.rs/s/r58i7h/lua_async) - [Lua-async](https://neovim.io/doc/user/lua-async/)
+* [2026-09-04, 03:40:21](https://lobste.rs/s/rntyvm/asteroid_currently_hitting_frontend_web) - [The asteroid currently hitting frontend web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
+* [2026-09-04, 02:11:32](https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes) - [WebDev intro course: what small changes towards progressive enhancement?](https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes)
 * [2026-09-03, 21:44:17](https://lobste.rs/s/htrg6g/image_only_some_users_can_see) - [An image only some users can see](https://d.erenrich.net/apple.avif)
 * [2026-09-03, 21:40:36](https://lobste.rs/s/rlswbt/nes_dumping_over_audio) - [NES dumping over audio](https://mathstodon.xyz/@JordiGH/117209252363385093)
 * [2026-09-03, 21:24:19](https://lobste.rs/s/entcaa/simple_is_not_small) - [simple is not small](https://jyn.dev/simple-is-not-the-same-as-small/)
@@ -18,9 +21,6 @@
 * [2026-09-03, 08:28:28](https://lobste.rs/s/fxk56i/cern_transitioning_industrial) - [CERN transitioning industrial computers to Debian after being a longtime RHEL institution](https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL)
 * [2026-09-03, 04:12:04](https://lobste.rs/s/klhs7o/deforester_logging_for_janet) - [deforester - Logging for Janet](https://codeberg.org/veqq/deforester)
 * [2026-09-03, 03:20:07](https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers) - [I Think the Military Commissary Freezers Were Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
-* [2026-09-03, 02:07:30](https://lobste.rs/s/6e1y6s/security_incident_bgp_hijacking) - [Security Incident – BGP Hijacking](https://www.virtualizor.com/blog/security-incident-bgp-hijacking/)
-* [2026-09-02, 19:22:37](https://lobste.rs/s/echox4/holy_grail_nixpkgs_version_ranges) - [The holy grail of nixpkgs: version ranges](https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges)
-* [2026-09-02, 18:20:35](https://lobste.rs/s/nh1uij/i_don_t_have_smartphone) - [I Don’t Have a Smartphone…](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
 * [2026-09-02, 18:19:13](https://lobste.rs/s/m4iwq4/static_allocation_constant_work) - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 * [2026-09-02, 17:52:36](https://lobste.rs/s/yomxcl/dependent_if_expressions_without) - [Dependent if expressions without dependent types](https://haskellforall.com/2026/09/dependent-if-expressions)
 * [2026-09-02, 15:20:29](https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn) - [A note on subscription prices from LWN](https://lwn.net/Articles/1090585/)
