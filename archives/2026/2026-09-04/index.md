@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-04](index.md)
 
+* [2026-09-04, 13:11:47](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai) - [Surviving Code Reviews in the era of AI](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai)
+* [2026-09-04, 13:01:53](https://lobste.rs/s/asjmva/inserting_state_transitions_postgres) - [Inserting State Transitions in Postgres](https://thoughtbot.com/blog/inserting-state-transitions-in-postgres)
+* [2026-09-04, 12:39:32](https://lobste.rs/s/8hsckf/performance_engineering_on_hard_mode) - [Performance Engineering on Hard Mode](https://signalsandthreads.com/performance-engineering-on-hard-mode/)
+* [2026-09-04, 11:43:06](https://lobste.rs/s/baiwkq/openai_agents_hijacked_german_website) - [OpenAI agents hijacked German website in previously undisclosed AI breakout this spring](https://collusion.wiki/)
+* [2026-09-04, 11:00:43](https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching) - [smolts: a pedagogical IDE for a teaching language](https://eighty-twenty.org/2026/09/04/smolts)
+* [2026-09-04, 10:26:32](https://lobste.rs/s/sunmyh/bug_triaging_help_needed) - [Bug triaging help needed](https://pointieststick.com/2026/09/03/bug-triaging-help-needed/)
+* [2026-09-04, 09:26:25](https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend)
 * [2026-09-04, 09:21:00](https://lobste.rs/s/ybk8hr/incomplete_guide_lazy_evaluation) - [The Incomplete Guide to Lazy Evaluation in Haskell (2015)](https://apfelmus.nfshost.com/articles/lazy-eval.html)
 * [2026-09-04, 09:19:06](https://lobste.rs/s/nkzapz/dynamic_linking_best_practices_2021) - [Dynamic linking best practices (2021)](https://begriffs.com/posts/2021-07-04-shared-libraries.html)
 * [2026-09-04, 09:17:21](https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos) - [Hillingar - MirageOS Unikernels on NixOS](https://ryan.freumh.org/hillingar.html)
