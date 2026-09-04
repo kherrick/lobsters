@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-04, 13:11:47",
+      "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai"
+    ],
+    [
+      "Surviving Code Reviews in the era of AI",
+      "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 13:01:53",
+      "https://lobste.rs/s/asjmva/inserting_state_transitions_postgres"
+    ],
+    [
+      "Inserting State Transitions in Postgres",
+      "https://thoughtbot.com/blog/inserting-state-transitions-in-postgres"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 12:39:32",
+      "https://lobste.rs/s/8hsckf/performance_engineering_on_hard_mode"
+    ],
+    [
+      "Performance Engineering on Hard Mode",
+      "https://signalsandthreads.com/performance-engineering-on-hard-mode/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 11:43:06",
+      "https://lobste.rs/s/baiwkq/openai_agents_hijacked_german_website"
+    ],
+    [
+      "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "https://collusion.wiki/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 11:00:43",
+      "https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching"
+    ],
+    [
+      "smolts: a pedagogical IDE for a teaching language",
+      "https://eighty-twenty.org/2026/09/04/smolts"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 10:26:32",
+      "https://lobste.rs/s/sunmyh/bug_triaging_help_needed"
+    ],
+    [
+      "Bug triaging help needed",
+      "https://pointieststick.com/2026/09/03/bug-triaging-help-needed/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 09:26:25",
+      "https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2026-09-04, 09:21:00",
       "https://lobste.rs/s/ybk8hr/incomplete_guide_lazy_evaluation"
     ],
@@ -17,26 +87,6 @@
     [
       "Dynamic linking best practices (2021)",
       "https://begriffs.com/posts/2021-07-04-shared-libraries.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 09:17:21",
-      "https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos"
-    ],
-    [
-      "Hillingar - MirageOS Unikernels on NixOS",
-      "https://ryan.freumh.org/hillingar.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 07:45:49",
-      "https://lobste.rs/s/qgxznz/no_more_issues"
-    ],
-    [
-      "No more issues",
-      "https://stitcher.io/blog/no-more-issues"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2026-09-03, 14:03:38",
-      "https://lobste.rs/s/77qick/announcing_rust_1_98_1"
-    ],
-    [
-      "Announcing Rust 1.98.1",
-      "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 14:03:31",
       "https://lobste.rs/s/if60bl/you_don_t_need_initial_scale_your_html"
     ],
@@ -181,32 +221,12 @@
   ],
   [
     [
-      "2026-09-03, 11:35:09",
-      "https://lobste.rs/s/bgswli/souping_up_my_blog"
-    ],
-    [
-      "Souping up my blog",
-      "https://qtea.me/posts/souping-up-my-blog/"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 10:02:34",
       "https://lobste.rs/s/zudpcb/jujutsu_0_45_0"
     ],
     [
       "jujutsu 0.45.0",
       "https://github.com/jj-vcs/jj/releases/tag/v0.45.0"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 09:51:30",
-      "https://lobste.rs/s/zatuk4/browser_s_main_thread_is_expensive"
-    ],
-    [
-      "The Browser's Main Thread Is Expensive",
-      "https://kciter.so/posts/the-expensive-main-thread/en/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
       "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 03:20:07",
-      "https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers"
-    ],
-    [
-      "I Think the Military Commissary Freezers Were Hacked",
-      "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 15:20:29",
-      "https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn"
-    ],
-    [
-      "A note on subscription prices from LWN",
-      "https://lwn.net/Articles/1090585/"
     ]
   ]
 ]
