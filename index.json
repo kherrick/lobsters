@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-09-04, 22:14:35",
+      "https://lobste.rs/s/ibn0da/mongotar_files_prompt_back"
+    ],
+    [
+      "Mongotar: Files to prompt, and back",
+      "https://github.com/sebastiancarlos/mongotar"
+    ]
+  ],
+  [
+    [
       "2026-09-04, 21:02:11",
       "https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type"
     ],
@@ -237,16 +247,6 @@
     [
       "Revo Programming language",
       "https://revo.lung.fyi/"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 10:02:34",
-      "https://lobste.rs/s/zudpcb/jujutsu_0_45_0"
-    ],
-    [
-      "jujutsu 0.45.0",
-      "https://github.com/jj-vcs/jj/releases/tag/v0.45.0"
     ]
   ]
 ]
