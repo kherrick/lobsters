@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-09-04, 09:21:00",
+      "https://lobste.rs/s/ybk8hr/incomplete_guide_lazy_evaluation"
+    ],
+    [
+      "The Incomplete Guide to Lazy Evaluation in Haskell (2015)",
+      "https://apfelmus.nfshost.com/articles/lazy-eval.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 09:19:06",
+      "https://lobste.rs/s/nkzapz/dynamic_linking_best_practices_2021"
+    ],
+    [
+      "Dynamic linking best practices (2021)",
+      "https://begriffs.com/posts/2021-07-04-shared-libraries.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 09:17:21",
+      "https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos"
+    ],
+    [
+      "Hillingar - MirageOS Unikernels on NixOS",
+      "https://ryan.freumh.org/hillingar.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 07:45:49",
+      "https://lobste.rs/s/qgxznz/no_more_issues"
+    ],
+    [
+      "No more issues",
+      "https://stitcher.io/blog/no-more-issues"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 07:09:35",
+      "https://lobste.rs/s/4vsl2j/wtf_is_going_on_with_r7rs_large_2026"
+    ],
+    [
+      "WTF is going on with R7RS Large? 2026 edition",
+      "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 06:27:04",
+      "https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security"
+    ],
+    [
+      "The NX bit is not just about security",
+      "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/"
+    ]
+  ],
+  [
+    [
       "2026-09-04, 04:44:04",
       "https://lobste.rs/s/r58i7h/lua_async"
     ],
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2026-09-03, 15:29:55",
-      "https://lobste.rs/s/el3fvf/how_i_converted_bbc_micro_elite_into_two"
-    ],
-    [
-      "How I converted BBC Micro Elite into a two-player game",
-      "https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 14:55:14",
       "https://lobste.rs/s/6tsncg/name_termination"
     ],
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2026-09-03, 10:50:44",
-      "https://lobste.rs/s/2avct0/how_swiss_tables_work_go_s_built_map"
-    ],
-    [
-      "How Swiss Tables Work in Go’s Built-in Map",
-      "https://victoriametrics.com/blog/go-swiss-table-map/"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 10:02:34",
       "https://lobste.rs/s/zudpcb/jujutsu_0_45_0"
     ],
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-09-03, 04:12:04",
-      "https://lobste.rs/s/klhs7o/deforester_logging_for_janet"
-    ],
-    [
-      "deforester - Logging for Janet",
-      "https://codeberg.org/veqq/deforester"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 03:20:07",
       "https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2026-09-02, 18:19:13",
-      "https://lobste.rs/s/m4iwq4/static_allocation_constant_work"
-    ],
-    [
-      "Static Allocation, Constant Work",
-      "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 17:52:36",
-      "https://lobste.rs/s/yomxcl/dependent_if_expressions_without"
-    ],
-    [
-      "Dependent if expressions without dependent types",
-      "https://haskellforall.com/2026/09/dependent-if-expressions"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 15:20:29",
       "https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn"
     ],
     [
       "A note on subscription prices from LWN",
       "https://lwn.net/Articles/1090585/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 06:31:38",
-      "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12"
-    ],
-    [
-      "Normalized Fascism in Open Source: $12 Million Given to DHH",
-      "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/"
     ]
   ]
 ]
