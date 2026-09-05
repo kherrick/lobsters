@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-09-05, 14:48:58",
+      "https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing"
+    ],
+    [
+      "zopt: low-ceremony command line parsing for Zig",
+      "https://codeberg.org/hgrsd/zopt"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 14:34:40",
+      "https://lobste.rs/s/job3jy/pointing_at_error_compiler_style"
+    ],
+    [
+      "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+      "https://uutils.org/blog/2026-08-error-diagnostics/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 13:24:01",
+      "https://lobste.rs/s/omhoxh/rust_simd_on_gpu"
+    ],
+    [
+      "Rust SIMD on the GPU",
+      "https://vectorware.com/blog/simd-on-gpu/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 13:04:05",
+      "https://lobste.rs/s/trzpsg/seeking_designer_for_small_company"
+    ],
+    [
+      "Seeking Designer for a Small Company",
+      "https://lobste.rs/s/trzpsg/seeking_designer_for_small_company"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 12:22:34",
+      "https://lobste.rs/s/5wzkwm/gleam_beam_looking_beyond_jvm"
+    ],
+    [
+      "Gleam and BEAM- Looking beyond the JVM",
+      "https://vimeo.com/1223666800"
+    ]
+  ],
+  [
+    [
       "2026-09-05, 11:50:24",
       "https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait"
     ],
@@ -71,12 +121,12 @@
   ],
   [
     [
-      "2026-09-05, 00:29:30",
-      "https://lobste.rs/s/naoawd/misrust_mapping_misra_c_coding"
+      "2026-09-05, 02:53:05",
+      "https://lobste.rs/s/lhmfw7/reverse_engineering_chip_well_gds"
     ],
     [
-      "MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language",
-      "https://arxiv.org/abs/2605.23490"
+      "Reverse Engineering a Chip (or well, a GDS)",
+      "https://pradyun.net/blog/reverse_engineering.html"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2026-09-04, 15:52:56",
-      "https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower"
-    ],
-    [
-      "The new Go JSON API: twice as fast, or 1.5x slower?",
-      "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 14:41:18",
       "https://lobste.rs/s/utloro/is_ai_ruining_my_brain"
     ],
@@ -191,52 +231,12 @@
   ],
   [
     [
-      "2026-09-04, 11:00:43",
-      "https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching"
-    ],
-    [
-      "smolts: a pedagogical IDE for a teaching language",
-      "https://eighty-twenty.org/2026/09/04/smolts"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 09:26:25",
-      "https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 06:27:04",
       "https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security"
     ],
     [
       "The NX bit is not just about security",
       "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 03:40:21",
-      "https://lobste.rs/s/rntyvm/asteroid_currently_hitting_frontend_web"
-    ],
-    [
-      "The asteroid currently hitting frontend web development",
-      "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 21:24:19",
-      "https://lobste.rs/s/entcaa/simple_is_not_small"
-    ],
-    [
-      "simple is not small",
-      "https://jyn.dev/simple-is-not-the-same-as-small/"
     ]
   ],
   [
