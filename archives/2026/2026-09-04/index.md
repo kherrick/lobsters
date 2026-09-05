@@ -6,6 +6,7 @@
 
 * [2026-09-04, 22:14:35](https://lobste.rs/s/ibn0da/mongotar_files_prompt_back) - [Mongotar: Files to prompt, and back](https://github.com/sebastiancarlos/mongotar)
 * [2026-09-04, 21:02:11](https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type) - [Exploring Mojo’s raw pointer type](https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type)
+* [2026-09-04, 20:47:42](https://lobste.rs/s/2eai0v/ai_it_s_not_bad_it_s_tool) - [AI it's not bad but it's a tool](https://lobste.rs/s/2eai0v/ai_it_s_not_bad_it_s_tool)
 * [2026-09-04, 19:46:18](https://lobste.rs/s/fiirrs/stop_thinking_llms_as_next_token) - [Stop Thinking of LLMs as Next-Token Predictors](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html)
 * [2026-09-04, 19:11:37](https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it) - [FLT: Anthropic has beaten me to it](https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/)
 * [2026-09-04, 18:33:44](https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi) - [Babashka 1.13.220 gets FFI](https://blog.michielborkent.nl/babashka-ffi.html)
