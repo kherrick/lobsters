@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-05, 21:28:47](https://lobste.rs/s/xnqxqe/revolt_reader) - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+* [2026-09-05, 21:08:36](https://lobste.rs/s/qnnvq2/large_language_models_as_cognitive_virus) - [Large-Language Models as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
 * [2026-09-05, 18:46:39](https://lobste.rs/s/f2ele4/c_26_std_hive) - [C++26: std::hive](https://www.sandordargo.com/blog/2026/09/02/cpp26-hive)
 * [2026-09-05, 17:50:08](https://lobste.rs/s/kcklzg/anatomy_test) - [Anatomy of a Test](https://jonathan-frere.com/posts/anatomy-of-a-test/)
 * [2026-09-05, 17:47:34](https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you) - [It matters who teaches you](https://bastiangruber.ca/posts/it-matters-who-teaches-you/)
@@ -17,14 +19,12 @@
 * [2026-09-05, 10:57:04](https://lobste.rs/s/gbv3vr/ai_handles_incidents_engineers_lose) - [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
 * [2026-09-05, 07:13:32](https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people) - [Bespoke: A Programming Language for People Who Say Please](https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/)
 * [2026-09-05, 07:09:14](https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their) - [Is it too much to ask devs to use AI to review their hand-crafted code?](https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their)
-* [2026-09-04, 21:02:11](https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type) - [Exploring Mojo’s raw pointer type](https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type)
 * [2026-09-04, 19:11:37](https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it) - [FLT: Anthropic has beaten me to it](https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/)
 * [2026-09-04, 18:33:44](https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi) - [Babashka 1.13.220 gets FFI](https://blog.michielborkent.nl/babashka-ffi.html)
 * [2026-09-04, 17:47:34](https://lobste.rs/s/rhjedr/jank_reimagines_c_errors_gets_official) - [jank reimagines C++ errors and gets an official native package repo](https://jank-lang.org/blog/2026-09-04-better-and-better/)
 * [2026-09-04, 14:41:18](https://lobste.rs/s/utloro/is_ai_ruining_my_brain) - [Is AI ruining my brain?](https://thoughtbot.com/blog/is-ai-ruining-my-brain)
 * [2026-09-04, 13:11:47](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai) - [Surviving Code Reviews in the era of AI](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai)
 * [2026-09-04, 11:43:06](https://lobste.rs/s/baiwkq/discovery_new_openai_agent_message_board) - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
-* [2026-09-03, 14:55:14](https://lobste.rs/s/6tsncg/name_termination) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 
 ## [Archives](archives/index.md)
 

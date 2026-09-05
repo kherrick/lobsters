@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-05](index.md)
 
+* [2026-09-05, 21:28:47](https://lobste.rs/s/xnqxqe/revolt_reader) - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+* [2026-09-05, 21:08:36](https://lobste.rs/s/qnnvq2/large_language_models_as_cognitive_virus) - [Large-Language Models as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
 * [2026-09-05, 18:46:39](https://lobste.rs/s/f2ele4/c_26_std_hive) - [C++26: std::hive](https://www.sandordargo.com/blog/2026/09/02/cpp26-hive)
 * [2026-09-05, 17:50:08](https://lobste.rs/s/kcklzg/anatomy_test) - [Anatomy of a Test](https://jonathan-frere.com/posts/anatomy-of-a-test/)
 * [2026-09-05, 17:47:34](https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you) - [It matters who teaches you](https://bastiangruber.ca/posts/it-matters-who-teaches-you/)
