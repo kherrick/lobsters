@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-05, 07:13:32](https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people) - [Bespoke: A Programming Language for People Who Say Please](https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/)
+* [2026-09-05, 07:09:14](https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their) - [Is it too much to ask devs to use AI to review their hand-crafted code?](https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their)
 * [2026-09-05, 02:53:05](https://lobste.rs/s/lhmfw7/reverse_engineering_chip_well_gds) - [Reverse Engineering a Chip (or well, a GDS)](https://pradyun.net/blog/reverse_engineering.html)
 * [2026-09-05, 00:29:30](https://lobste.rs/s/naoawd/misrust_mapping_misra_c_coding) - [MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language](https://arxiv.org/abs/2605.23490)
 * [2026-09-04, 21:02:11](https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type) - [Exploring Mojo’s raw pointer type](https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type)
@@ -17,10 +19,8 @@
 * [2026-09-04, 13:11:47](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai) - [Surviving Code Reviews in the era of AI](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai)
 * [2026-09-04, 11:43:06](https://lobste.rs/s/baiwkq/discovery_new_openai_agent_message_board) - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 * [2026-09-04, 11:00:43](https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching) - [smolts: a pedagogical IDE for a teaching language](https://eighty-twenty.org/2026/09/04/smolts)
-* [2026-09-04, 10:26:32](https://lobste.rs/s/sunmyh/bug_triaging_help_needed) - [Bug triaging help needed](https://pointieststick.com/2026/09/03/bug-triaging-help-needed/)
 * [2026-09-04, 09:26:25](https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend)
 * [2026-09-04, 06:27:04](https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security) - [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
-* [2026-09-04, 04:44:04](https://lobste.rs/s/r58i7h/lua_async) - [Lua-async](https://neovim.io/doc/user/lua-async/)
 * [2026-09-04, 03:40:21](https://lobste.rs/s/rntyvm/asteroid_currently_hitting_frontend_web) - [The asteroid currently hitting frontend web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
 * [2026-09-03, 21:24:19](https://lobste.rs/s/entcaa/simple_is_not_small) - [simple is not small](https://jyn.dev/simple-is-not-the-same-as-small/)
 * [2026-09-03, 14:55:14](https://lobste.rs/s/6tsncg/name_termination) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
