@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-05](index.md)
 
+* [2026-09-05, 18:46:39](https://lobste.rs/s/f2ele4/c_26_std_hive) - [C++26: std::hive](https://www.sandordargo.com/blog/2026/09/02/cpp26-hive)
+* [2026-09-05, 17:50:08](https://lobste.rs/s/kcklzg/anatomy_test) - [Anatomy of a Test](https://jonathan-frere.com/posts/anatomy-of-a-test/)
+* [2026-09-05, 17:47:34](https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you) - [It matters who teaches you](https://bastiangruber.ca/posts/it-matters-who-teaches-you/)
 * [2026-09-05, 15:46:13](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your) - [What filesystem are you running on your NAS/Backups, and why?](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your)
 * [2026-09-05, 14:48:58](https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing) - [zopt: low-ceremony command line parsing for Zig](https://codeberg.org/hgrsd/zopt)
 * [2026-09-05, 14:34:40](https://lobste.rs/s/job3jy/pointing_at_error_compiler_style) - [Pointing at the error: compiler-style diagnostics in uutils coreutils](https://uutils.org/blog/2026-08-error-diagnostics/)
