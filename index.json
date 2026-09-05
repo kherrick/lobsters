@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-09-05, 02:53:05",
+      "https://lobste.rs/s/lhmfw7/reverse_engineering_chip_well_gds"
+    ],
+    [
+      "Reverse Engineering a Chip (or well, a GDS)",
+      "https://pradyun.net/blog/reverse_engineering.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 00:29:30",
+      "https://lobste.rs/s/naoawd/misrust_mapping_misra_c_coding"
+    ],
+    [
+      "MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language",
+      "https://arxiv.org/abs/2605.23490"
+    ]
+  ],
+  [
+    [
       "2026-09-04, 21:02:11",
       "https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type"
     ],
     [
       "Exploring Mojo’s raw pointer type",
       "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 20:47:42",
+      "https://lobste.rs/s/2eai0v/ai_it_s_not_bad_it_s_tool"
+    ],
+    [
+      "AI it's not bad but it's a tool",
+      "https://lobste.rs/s/2eai0v/ai_it_s_not_bad_it_s_tool"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-09-04, 12:37:32",
-      "https://lobste.rs/s/qnjllv/force_color_keep_your_command_line"
-    ],
-    [
-      "FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More",
-      "https://force-color.org/"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 11:43:06",
       "https://lobste.rs/s/baiwkq/discovery_new_openai_agent_message_board"
     ],
@@ -167,16 +187,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 07:09:35",
-      "https://lobste.rs/s/4vsl2j/wtf_is_going_on_with_r7rs_large_2026"
-    ],
-    [
-      "WTF is going on with R7RS Large? 2026 edition",
-      "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Audacity 4.0.0 Released",
       "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 13:21:37",
-      "https://lobste.rs/s/towfrz/revo_programming_language"
-    ],
-    [
-      "Revo Programming language",
-      "https://revo.lung.fyi/"
     ]
   ]
 ]
