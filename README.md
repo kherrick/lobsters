@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-04, 22:14:35](https://lobste.rs/s/ibn0da/mongotar_files_prompt_back) - [Mongotar: Files to prompt, and back](https://github.com/sebastiancarlos/mongotar)
 * [2026-09-04, 21:02:11](https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type) - [Exploring Mojo’s raw pointer type](https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type)
 * [2026-09-04, 19:46:18](https://lobste.rs/s/fiirrs/stop_thinking_llms_as_next_token) - [Stop Thinking of LLMs as Next-Token Predictors](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html)
 * [2026-09-04, 19:11:37](https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it) - [FLT: Anthropic has beaten me to it](https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/)
@@ -18,6 +17,7 @@
 * [2026-09-04, 11:00:43](https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching) - [smolts: a pedagogical IDE for a teaching language](https://eighty-twenty.org/2026/09/04/smolts)
 * [2026-09-04, 10:26:32](https://lobste.rs/s/sunmyh/bug_triaging_help_needed) - [Bug triaging help needed](https://pointieststick.com/2026/09/03/bug-triaging-help-needed/)
 * [2026-09-04, 09:26:25](https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend)
+* [2026-09-04, 07:09:35](https://lobste.rs/s/4vsl2j/wtf_is_going_on_with_r7rs_large_2026) - [WTF is going on with R7RS Large? 2026 edition](https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html)
 * [2026-09-04, 06:27:04](https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security) - [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
 * [2026-09-04, 04:44:04](https://lobste.rs/s/r58i7h/lua_async) - [Lua-async](https://neovim.io/doc/user/lua-async/)
 * [2026-09-04, 03:40:21](https://lobste.rs/s/rntyvm/asteroid_currently_hitting_frontend_web) - [The asteroid currently hitting frontend web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
