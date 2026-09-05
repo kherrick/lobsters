@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-05](index.md)
 
+* [2026-09-05, 15:46:13](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your) - [What filesystem are you running on your NAS/Backups, and why?](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your)
 * [2026-09-05, 14:48:58](https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing) - [zopt: low-ceremony command line parsing for Zig](https://codeberg.org/hgrsd/zopt)
 * [2026-09-05, 14:34:40](https://lobste.rs/s/job3jy/pointing_at_error_compiler_style) - [Pointing at the error: compiler-style diagnostics in uutils coreutils](https://uutils.org/blog/2026-08-error-diagnostics/)
 * [2026-09-05, 13:24:01](https://lobste.rs/s/omhoxh/rust_simd_on_gpu) - [Rust SIMD on the GPU](https://vectorware.com/blog/simd-on-gpu/)
 * [2026-09-05, 13:04:05](https://lobste.rs/s/trzpsg/seeking_designer_for_small_company) - [Seeking Designer for a Small Company](https://lobste.rs/s/trzpsg/seeking_designer_for_small_company)
+* [2026-09-05, 12:54:53](https://lobste.rs/s/ccl4ag/formalizing_fermat_s_last_theorem) - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 * [2026-09-05, 12:22:34](https://lobste.rs/s/5wzkwm/gleam_beam_looking_beyond_jvm) - [Gleam and BEAM- Looking beyond the JVM](https://vimeo.com/1223666800)
 * [2026-09-05, 11:50:24](https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait) - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
 * [2026-09-05, 11:33:49](https://lobste.rs/s/svyytg/nyc_pit_crew) - [NYC PIT Crew](https://www.nyc.gov/content/pitcrew/pages/)
