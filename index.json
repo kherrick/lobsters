@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-05, 18:46:39",
+      "https://lobste.rs/s/f2ele4/c_26_std_hive"
+    ],
+    [
+      "C++26: std::hive",
+      "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 17:50:08",
+      "https://lobste.rs/s/kcklzg/anatomy_test"
+    ],
+    [
+      "Anatomy of a Test",
+      "https://jonathan-frere.com/posts/anatomy-of-a-test/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 17:47:34",
+      "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you"
+    ],
+    [
+      "It matters who teaches you",
+      "https://bastiangruber.ca/posts/it-matters-who-teaches-you/"
+    ]
+  ],
+  [
+    [
       "2026-09-05, 15:46:13",
       "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-09-04, 19:46:18",
-      "https://lobste.rs/s/fiirrs/stop_thinking_llms_as_next_token"
-    ],
-    [
-      "Stop Thinking of LLMs as Next-Token Predictors",
-      "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 19:11:37",
       "https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-09-04, 16:20:30",
-      "https://lobste.rs/s/cywxla/preview_future_intel_architecture"
-    ],
-    [
-      "A preview of the future Intel Architecture documentation",
-      "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 14:41:18",
       "https://lobste.rs/s/utloro/is_ai_ruining_my_brain"
     ],
@@ -227,16 +237,6 @@
     [
       "Discovery of a new OpenAI agent message board",
       "https://collusion.wiki/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 06:27:04",
-      "https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security"
-    ],
-    [
-      "The NX bit is not just about security",
-      "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/"
     ]
   ],
   [
