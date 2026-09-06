@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-06, 04:52:05](https://lobste.rs/s/rcddma/beyond_orms) - [Beyond ORMs](https://noteflakes.com/articles/2026-09-05-beyond-orms)
+* [2026-09-06, 02:05:52](https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get) - [There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/)
 * [2026-09-06, 00:52:57](https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3) - [M2: Episode 1 (or, Asahi Linux on M3)](https://asahilinux.org/2026/09/m2-episode-1/)
 * [2026-09-05, 22:23:45](https://lobste.rs/s/eqc1s5/controlling_when_css_custom_property) - [Controlling when CSS custom property values are computed](https://jakearchibald.com/2026/css-custom-property-compute-time/)
 * [2026-09-05, 21:28:47](https://lobste.rs/s/xnqxqe/revolt_reader) - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
@@ -12,7 +14,6 @@
 * [2026-09-05, 14:34:40](https://lobste.rs/s/job3jy/pointing_at_error_compiler_style) - [Pointing at the error: compiler-style diagnostics in uutils coreutils](https://uutils.org/blog/2026-08-error-diagnostics/)
 * [2026-09-05, 13:24:01](https://lobste.rs/s/omhoxh/rust_simd_on_gpu) - [Rust SIMD on the GPU](https://vectorware.com/blog/simd-on-gpu/)
 * [2026-09-05, 13:04:05](https://lobste.rs/s/trzpsg/seeking_designer_for_small_company) - [Seeking Designer for a Small Company](https://lobste.rs/s/trzpsg/seeking_designer_for_small_company)
-* [2026-09-05, 12:54:53](https://lobste.rs/s/ccl4ag/formalizing_fermat_s_last_theorem) - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 * [2026-09-05, 12:22:34](https://lobste.rs/s/5wzkwm/gleam_beam_looking_beyond_jvm) - [Gleam and BEAM- Looking beyond the JVM](https://vimeo.com/1223666800)
 * [2026-09-05, 11:50:24](https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait) - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
 * [2026-09-05, 11:33:49](https://lobste.rs/s/svyytg/nyc_pit_crew) - [NYC PIT Crew](https://www.nyc.gov/content/pitcrew/pages/)
@@ -24,7 +25,6 @@
 * [2026-09-04, 18:33:44](https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi) - [Babashka 1.13.220 gets FFI](https://blog.michielborkent.nl/babashka-ffi.html)
 * [2026-09-04, 14:41:18](https://lobste.rs/s/utloro/is_ai_ruining_my_brain) - [Is AI ruining my brain?](https://thoughtbot.com/blog/is-ai-ruining-my-brain)
 * [2026-09-04, 13:11:47](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai) - [Surviving Code Reviews in the era of AI](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai)
-* [2026-09-04, 11:43:06](https://lobste.rs/s/baiwkq/discovery_new_openai_agent_message_board) - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 
 ## [Archives](archives/index.md)
 
