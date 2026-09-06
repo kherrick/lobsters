@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 20:07:16](https://lobste.rs/s/xyvhrx/radix_fw60_handheld_cp_m_2_2_computer) - [Radix_FW60: handheld CP/M 2.2 computer](https://github.com/BrettHallen/Radix_FW60)
+* [2026-09-06, 19:08:49](https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
+* [2026-09-06, 18:46:54](https://lobste.rs/s/xv6z4r/python_iceberg) - [Python Iceberg](https://aleyan.com/projects/python-iceberg/)
+* [2026-09-06, 18:32:04](https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project) - [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
 * [2026-09-06, 16:41:01](https://lobste.rs/s/w0vvbq/leverage_code_review_for_sustainable_ai) - [Leverage Code Review for Sustainable AI Coding Development](https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/)
 * [2026-09-06, 15:44:40](https://lobste.rs/s/7ymd5q/netbsd_9_5_released_eol_for_netbsd_9) - [NetBSD 9.5 released and EOL for netbsd-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
 * [2026-09-06, 14:25:59](https://lobste.rs/s/xccvnw/simple_made_easy_2011) - [\"Simple Made Easy\" (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
