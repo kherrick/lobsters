@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-06, 12:41:25",
+      "https://lobste.rs/s/89i4c0/who_said_tech_addict_can_t_be_comfortable"
+    ],
+    [
+      "Who said a tech addict can't be comfortable far from home?",
+      "https://a.l3x.in/blog/my-travel-setup"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 11:39:20",
+      "https://lobste.rs/s/fgxkle/building_brainfuck_dsl_forth_using_code"
+    ],
+    [
+      "Building a Brainfuck DSL in Forth using code generation",
+      "https://venko.blog/articles/forth-brainfuck"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 10:25:42",
+      "https://lobste.rs/s/dckubt/see_windows_ce_running_on_n64"
+    ],
+    [
+      "See Windows CE Running On The N64",
+      "https://retrododo.com/see-windows-ce-running-on-the-n64/"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 10:06:56",
+      "https://lobste.rs/s/lfaddj/maybe_we_shouldn_t_be_reviewing_all_this"
+    ],
+    [
+      "Maybe We Shouldn't Be Reviewing All This Code",
+      "https://martinfowler.com/rachels-ramblings/code-review.html"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 07:45:24",
       "https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths"
     ],
@@ -32,10 +72,10 @@
   [
     [
       "2026-09-06, 06:05:41",
-      "https://lobste.rs/s/1kdrx2/how_federated_stars"
+      "https://lobste.rs/s/1kdrx2/how_federated_stars_2024"
     ],
     [
-      "How To: Federated Stars",
+      "How To: Federated Stars (2024)",
       "https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/"
     ]
   ],
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-09-05, 18:46:39",
-      "https://lobste.rs/s/f2ele4/c_26_std_hive"
-    ],
-    [
-      "C++26: std::hive",
-      "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive"
-    ]
-  ],
-  [
-    [
       "2026-09-05, 17:50:08",
       "https://lobste.rs/s/kcklzg/anatomy_test"
     ],
@@ -147,16 +177,6 @@
     [
       "Pointing at the error: compiler-style diagnostics in uutils coreutils",
       "https://uutils.org/blog/2026-08-error-diagnostics/"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 13:24:01",
-      "https://lobste.rs/s/omhoxh/rust_simd_on_gpu"
-    ],
-    [
-      "Rust SIMD on the GPU",
-      "https://vectorware.com/blog/simd-on-gpu/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Is it too much to ask devs to use AI to review their hand-crafted code?",
       "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 18:33:44",
-      "https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi"
-    ],
-    [
-      "Babashka 1.13.220 gets FFI",
-      "https://blog.michielborkent.nl/babashka-ffi.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 14:41:18",
-      "https://lobste.rs/s/utloro/is_ai_ruining_my_brain"
-    ],
-    [
-      "Is AI ruining my brain?",
-      "https://thoughtbot.com/blog/is-ai-ruining-my-brain"
     ]
   ],
   [
