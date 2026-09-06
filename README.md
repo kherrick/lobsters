@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-06, 22:13:09](https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go) - [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
+* [2026-09-06, 20:47:52](https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety) - [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/)
+* [2026-09-06, 20:41:38](https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 * [2026-09-06, 20:07:16](https://lobste.rs/s/xyvhrx/radix_fw60_handheld_cp_m_2_2_computer) - [Radix_FW60: handheld CP/M 2.2 computer](https://github.com/BrettHallen/Radix_FW60)
 * [2026-09-06, 19:08:49](https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
 * [2026-09-06, 18:46:54](https://lobste.rs/s/xv6z4r/python_iceberg) - [Python Iceberg](https://aleyan.com/projects/python-iceberg/)
@@ -10,7 +13,6 @@
 * [2026-09-06, 13:35:03](https://lobste.rs/s/be5lrk/netbsd_11_from_scratch) - [NetBSD 11 from scratch](https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/)
 * [2026-09-06, 12:41:25](https://lobste.rs/s/89i4c0/who_said_tech_addict_can_t_be_comfortable) - [Who said a tech addict can't be comfortable far from home?](https://a.l3x.in/blog/my-travel-setup)
 * [2026-09-06, 10:25:42](https://lobste.rs/s/dckubt/see_windows_ce_running_on_n64) - [See Windows CE Running On The N64](https://retrododo.com/see-windows-ce-running-on-the-n64/)
-* [2026-09-06, 10:06:56](https://lobste.rs/s/lfaddj/maybe_we_shouldn_t_be_reviewing_all_this) - [Maybe We Shouldn't Be Reviewing All This Code](https://martinfowler.com/rachels-ramblings/code-review.html)
 * [2026-09-06, 07:45:24](https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths) - [Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”](https://mathstodon.xyz/@tao/117207856734787448)
 * [2026-09-06, 07:09:11](https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser) - [Any Nix package, live in your browser](https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser)
 * [2026-09-06, 07:03:41](https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go) - [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/)
@@ -22,8 +24,6 @@
 * [2026-09-05, 17:47:34](https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you) - [It matters who teaches you](https://bastiangruber.ca/posts/it-matters-who-teaches-you/)
 * [2026-09-05, 15:46:13](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your) - [What filesystem are you running on your NAS/Backups, and why?](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your)
 * [2026-09-05, 14:48:58](https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing) - [zopt: low-ceremony command line parsing for Zig](https://codeberg.org/hgrsd/zopt)
-* [2026-09-05, 14:34:40](https://lobste.rs/s/job3jy/pointing_at_error_compiler_style) - [Pointing at the error: compiler-style diagnostics in uutils coreutils](https://uutils.org/blog/2026-08-error-diagnostics/)
-* [2026-09-05, 11:33:49](https://lobste.rs/s/svyytg/nyc_pit_crew) - [NYC PIT Crew](https://www.nyc.gov/content/pitcrew/pages/)
 * [2026-09-05, 10:58:49](https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire) - [Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)](https://arxiv.org/abs/2607.24888)
 
 ## [Archives](archives/index.md)

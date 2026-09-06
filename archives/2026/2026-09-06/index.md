@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 22:13:09](https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go) - [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
+* [2026-09-06, 20:47:52](https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety) - [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/)
+* [2026-09-06, 20:41:38](https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 * [2026-09-06, 20:07:16](https://lobste.rs/s/xyvhrx/radix_fw60_handheld_cp_m_2_2_computer) - [Radix_FW60: handheld CP/M 2.2 computer](https://github.com/BrettHallen/Radix_FW60)
 * [2026-09-06, 19:08:49](https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
 * [2026-09-06, 18:46:54](https://lobste.rs/s/xv6z4r/python_iceberg) - [Python Iceberg](https://aleyan.com/projects/python-iceberg/)
