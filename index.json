@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-09-06, 23:04:21",
+      "https://lobste.rs/s/n0zgj1/making_python_interpreter_1024_bytes"
+    ],
+    [
+      "Making a Python interpreter in 1024 bytes",
+      "https://austinhenley.com/blog/python1024.html"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 22:13:09",
       "https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go"
     ],
@@ -237,16 +247,6 @@
     [
       "zopt: low-ceremony command line parsing for Zig",
       "https://codeberg.org/hgrsd/zopt"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 10:58:49",
-      "https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire"
-    ],
-    [
-      "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
-      "https://arxiv.org/abs/2607.24888"
     ]
   ]
 ]
