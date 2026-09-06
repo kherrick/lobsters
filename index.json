@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-06, 22:13:09",
+      "https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go"
+    ],
+    [
+      "Data races and the limits of ThreadSanitizer in C and Go",
+      "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 20:47:52",
+      "https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety"
+    ],
+    [
+      "Have the frontier labs mixed up AI safety and security?",
+      "https://martinalderson.com/posts/ai-safety-vs-security/"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 20:41:38",
+      "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis"
+    ],
+    [
+      "It took a year to ship WebAssembly in Anubis",
+      "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 20:07:16",
       "https://lobste.rs/s/xyvhrx/radix_fw60_handheld_cp_m_2_2_computer"
     ],
@@ -97,16 +127,6 @@
     [
       "See Windows CE Running On The N64",
       "https://retrododo.com/see-windows-ce-running-on-the-n64/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 10:06:56",
-      "https://lobste.rs/s/lfaddj/maybe_we_shouldn_t_be_reviewing_all_this"
-    ],
-    [
-      "Maybe We Shouldn't Be Reviewing All This Code",
-      "https://martinfowler.com/rachels-ramblings/code-review.html"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "zopt: low-ceremony command line parsing for Zig",
       "https://codeberg.org/hgrsd/zopt"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 14:34:40",
-      "https://lobste.rs/s/job3jy/pointing_at_error_compiler_style"
-    ],
-    [
-      "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-      "https://uutils.org/blog/2026-08-error-diagnostics/"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 11:33:49",
-      "https://lobste.rs/s/svyytg/nyc_pit_crew"
-    ],
-    [
-      "NYC PIT Crew",
-      "https://www.nyc.gov/content/pitcrew/pages/"
     ]
   ],
   [
