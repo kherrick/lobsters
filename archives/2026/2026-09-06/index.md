@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 15:44:40](https://lobste.rs/s/7ymd5q/netbsd_9_5_released_eol_for_netbsd_9) - [NetBSD 9.5 released and EOL for netbsd-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
+* [2026-09-06, 14:25:59](https://lobste.rs/s/xccvnw/simple_made_easy_2011) - [\"Simple Made Easy\" (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
+* [2026-09-06, 13:40:36](https://lobste.rs/s/1glwxo/ironies_automation_1983) - [The Ironies of Automation (1983)](https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf)
+* [2026-09-06, 13:35:03](https://lobste.rs/s/be5lrk/netbsd_11_from_scratch) - [NetBSD 11 from scratch](https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/)
 * [2026-09-06, 12:41:25](https://lobste.rs/s/89i4c0/who_said_tech_addict_can_t_be_comfortable) - [Who said a tech addict can't be comfortable far from home?](https://a.l3x.in/blog/my-travel-setup)
 * [2026-09-06, 11:39:20](https://lobste.rs/s/fgxkle/building_brainfuck_dsl_forth_using_code) - [Building a Brainfuck DSL in Forth using code generation](https://venko.blog/articles/forth-brainfuck)
 * [2026-09-06, 10:25:42](https://lobste.rs/s/dckubt/see_windows_ce_running_on_n64) - [See Windows CE Running On The N64](https://retrododo.com/see-windows-ce-running-on-the-n64/)

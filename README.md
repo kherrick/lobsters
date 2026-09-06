@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-06, 15:44:40](https://lobste.rs/s/7ymd5q/netbsd_9_5_released_eol_for_netbsd_9) - [NetBSD 9.5 released and EOL for netbsd-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
+* [2026-09-06, 14:25:59](https://lobste.rs/s/xccvnw/simple_made_easy_2011) - [\"Simple Made Easy\" (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
+* [2026-09-06, 13:40:36](https://lobste.rs/s/1glwxo/ironies_automation_1983) - [The Ironies of Automation (1983)](https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf)
+* [2026-09-06, 13:35:03](https://lobste.rs/s/be5lrk/netbsd_11_from_scratch) - [NetBSD 11 from scratch](https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/)
 * [2026-09-06, 12:41:25](https://lobste.rs/s/89i4c0/who_said_tech_addict_can_t_be_comfortable) - [Who said a tech addict can't be comfortable far from home?](https://a.l3x.in/blog/my-travel-setup)
 * [2026-09-06, 11:39:20](https://lobste.rs/s/fgxkle/building_brainfuck_dsl_forth_using_code) - [Building a Brainfuck DSL in Forth using code generation](https://venko.blog/articles/forth-brainfuck)
 * [2026-09-06, 10:25:42](https://lobste.rs/s/dckubt/see_windows_ce_running_on_n64) - [See Windows CE Running On The N64](https://retrododo.com/see-windows-ce-running-on-the-n64/)
@@ -13,18 +17,14 @@
 * [2026-09-06, 00:52:57](https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3) - [M2: Episode 1 (or, Asahi Linux on M3)](https://asahilinux.org/2026/09/m2-episode-1/)
 * [2026-09-05, 21:28:47](https://lobste.rs/s/xnqxqe/revolt_reader) - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 * [2026-09-05, 21:08:36](https://lobste.rs/s/qnnvq2/large_language_models_as_cognitive_virus) - [Large-Language Models as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
-* [2026-09-05, 17:50:08](https://lobste.rs/s/kcklzg/anatomy_test) - [Anatomy of a Test](https://jonathan-frere.com/posts/anatomy-of-a-test/)
 * [2026-09-05, 17:47:34](https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you) - [It matters who teaches you](https://bastiangruber.ca/posts/it-matters-who-teaches-you/)
 * [2026-09-05, 15:46:13](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your) - [What filesystem are you running on your NAS/Backups, and why?](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your)
 * [2026-09-05, 14:48:58](https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing) - [zopt: low-ceremony command line parsing for Zig](https://codeberg.org/hgrsd/zopt)
 * [2026-09-05, 14:34:40](https://lobste.rs/s/job3jy/pointing_at_error_compiler_style) - [Pointing at the error: compiler-style diagnostics in uutils coreutils](https://uutils.org/blog/2026-08-error-diagnostics/)
 * [2026-09-05, 11:50:24](https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait) - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
 * [2026-09-05, 11:33:49](https://lobste.rs/s/svyytg/nyc_pit_crew) - [NYC PIT Crew](https://www.nyc.gov/content/pitcrew/pages/)
-* [2026-09-05, 11:12:59](https://lobste.rs/s/grm0m9/knowing_where_type_zero_2015) - [Knowing Where to Type ‘Zero’ (2015)](https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/)
 * [2026-09-05, 10:58:49](https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire) - [Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)](https://arxiv.org/abs/2607.24888)
 * [2026-09-05, 07:13:32](https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people) - [Bespoke: A Programming Language for People Who Say Please](https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/)
-* [2026-09-05, 07:09:14](https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their) - [Is it too much to ask devs to use AI to review their hand-crafted code?](https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their)
-* [2026-09-04, 13:11:47](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai) - [Surviving Code Reviews in the era of AI](https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai)
 
 ## [Archives](archives/index.md)
 
