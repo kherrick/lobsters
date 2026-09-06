@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-09-06, 16:41:01",
-      "https://lobste.rs/s/w0vvbq/leverage_code_review_for_sustainable_ai"
+      "2026-09-06, 20:07:16",
+      "https://lobste.rs/s/xyvhrx/radix_fw60_handheld_cp_m_2_2_computer"
     ],
     [
-      "Leverage Code Review for Sustainable AI Coding Development",
-      "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/"
+      "Radix_FW60: handheld CP/M 2.2 computer",
+      "https://github.com/BrettHallen/Radix_FW60"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 19:08:49",
+      "https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit"
+    ],
+    [
+      "QBittorrent breaks out of sandbox to commit crimes",
+      "https://beige.party/@intransitivelie/117057396732763183"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 18:46:54",
+      "https://lobste.rs/s/xv6z4r/python_iceberg"
+    ],
+    [
+      "Python Iceberg",
+      "https://aleyan.com/projects/python-iceberg/"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 18:32:04",
+      "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project"
+    ],
+    [
+      "Following legal advice, the Nitter project will continue",
+      "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Who said a tech addict can't be comfortable far from home?",
       "https://a.l3x.in/blog/my-travel-setup"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 11:39:20",
-      "https://lobste.rs/s/fgxkle/building_brainfuck_dsl_forth_using_code"
-    ],
-    [
-      "Building a Brainfuck DSL in Forth using code generation",
-      "https://venko.blog/articles/forth-brainfuck"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-09-05, 21:08:36",
-      "https://lobste.rs/s/qnnvq2/large_language_models_as_cognitive_virus"
-    ],
-    [
-      "Large-Language Models as a Cognitive Virus",
-      "https://arxiv.org/abs/2609.03344"
-    ]
-  ],
-  [
-    [
       "2026-09-05, 17:47:34",
       "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you"
     ],
@@ -237,16 +247,6 @@
     [
       "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
       "https://arxiv.org/abs/2607.24888"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 07:13:32",
-      "https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people"
-    ],
-    [
-      "Bespoke: A Programming Language for People Who Say Please",
-      "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/"
     ]
   ]
 ]
