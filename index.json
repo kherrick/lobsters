@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-06, 00:52:57",
+      "https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3"
+    ],
+    [
+      "M2: Episode 1 (or, Asahi Linux on M3)",
+      "https://asahilinux.org/2026/09/m2-episode-1/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 22:23:45",
+      "https://lobste.rs/s/eqc1s5/controlling_when_css_custom_property"
+    ],
+    [
+      "Controlling when CSS custom property values are computed",
+      "https://jakearchibald.com/2026/css-custom-property-compute-time/"
+    ]
+  ],
+  [
+    [
       "2026-09-05, 21:28:47",
       "https://lobste.rs/s/xnqxqe/revolt_reader"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-09-05, 10:57:04",
-      "https://lobste.rs/s/gbv3vr/ai_handles_incidents_engineers_lose"
-    ],
-    [
-      "AI handles incidents, engineers lose touch with their systems",
-      "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
-    ]
-  ],
-  [
-    [
       "2026-09-05, 07:13:32",
       "https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people"
     ],
@@ -207,16 +217,6 @@
     [
       "Babashka 1.13.220 gets FFI",
       "https://blog.michielborkent.nl/babashka-ffi.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 17:47:34",
-      "https://lobste.rs/s/rhjedr/jank_reimagines_c_errors_gets_official"
-    ],
-    [
-      "jank reimagines C++ errors and gets an official native package repo",
-      "https://jank-lang.org/blog/2026-09-04-better-and-better/"
     ]
   ],
   [
