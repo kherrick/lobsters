@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 16:41:01](https://lobste.rs/s/w0vvbq/leverage_code_review_for_sustainable_ai) - [Leverage Code Review for Sustainable AI Coding Development](https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/)
 * [2026-09-06, 15:44:40](https://lobste.rs/s/7ymd5q/netbsd_9_5_released_eol_for_netbsd_9) - [NetBSD 9.5 released and EOL for netbsd-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
 * [2026-09-06, 14:25:59](https://lobste.rs/s/xccvnw/simple_made_easy_2011) - [\"Simple Made Easy\" (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2026-09-06, 13:40:36](https://lobste.rs/s/1glwxo/ironies_automation_1983) - [The Ironies of Automation (1983)](https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf)

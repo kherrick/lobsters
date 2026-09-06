@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-06, 16:41:01](https://lobste.rs/s/w0vvbq/leverage_code_review_for_sustainable_ai) - [Leverage Code Review for Sustainable AI Coding Development](https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/)
 * [2026-09-06, 15:44:40](https://lobste.rs/s/7ymd5q/netbsd_9_5_released_eol_for_netbsd_9) - [NetBSD 9.5 released and EOL for netbsd-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
 * [2026-09-06, 14:25:59](https://lobste.rs/s/xccvnw/simple_made_easy_2011) - [\"Simple Made Easy\" (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2026-09-06, 13:40:36](https://lobste.rs/s/1glwxo/ironies_automation_1983) - [The Ironies of Automation (1983)](https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf)
@@ -21,7 +22,6 @@
 * [2026-09-05, 15:46:13](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your) - [What filesystem are you running on your NAS/Backups, and why?](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your)
 * [2026-09-05, 14:48:58](https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing) - [zopt: low-ceremony command line parsing for Zig](https://codeberg.org/hgrsd/zopt)
 * [2026-09-05, 14:34:40](https://lobste.rs/s/job3jy/pointing_at_error_compiler_style) - [Pointing at the error: compiler-style diagnostics in uutils coreutils](https://uutils.org/blog/2026-08-error-diagnostics/)
-* [2026-09-05, 11:50:24](https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait) - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
 * [2026-09-05, 11:33:49](https://lobste.rs/s/svyytg/nyc_pit_crew) - [NYC PIT Crew](https://www.nyc.gov/content/pitcrew/pages/)
 * [2026-09-05, 10:58:49](https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire) - [Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)](https://arxiv.org/abs/2607.24888)
 * [2026-09-05, 07:13:32](https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people) - [Bespoke: A Programming Language for People Who Say Please](https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/)
