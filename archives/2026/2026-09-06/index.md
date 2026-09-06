@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 23:04:21](https://lobste.rs/s/n0zgj1/making_python_interpreter_1024_bytes) - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
 * [2026-09-06, 22:13:09](https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go) - [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
 * [2026-09-06, 20:47:52](https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety) - [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/)
 * [2026-09-06, 20:41:38](https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)

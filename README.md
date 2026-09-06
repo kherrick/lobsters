@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-06, 23:04:21](https://lobste.rs/s/n0zgj1/making_python_interpreter_1024_bytes) - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
 * [2026-09-06, 22:13:09](https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go) - [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
 * [2026-09-06, 20:47:52](https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety) - [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/)
 * [2026-09-06, 20:41:38](https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
@@ -24,7 +25,6 @@
 * [2026-09-05, 17:47:34](https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you) - [It matters who teaches you](https://bastiangruber.ca/posts/it-matters-who-teaches-you/)
 * [2026-09-05, 15:46:13](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your) - [What filesystem are you running on your NAS/Backups, and why?](https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your)
 * [2026-09-05, 14:48:58](https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing) - [zopt: low-ceremony command line parsing for Zig](https://codeberg.org/hgrsd/zopt)
-* [2026-09-05, 10:58:49](https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire) - [Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)](https://arxiv.org/abs/2607.24888)
 
 ## [Archives](archives/index.md)
 
