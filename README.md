@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-07, 21:22:11](https://lobste.rs/s/a2kz9j/how_bring_up_linux_kernel_on_new_platform) - [How to bring up the Linux Kernel on a new platform](https://werwolv.net/posts/linux_bringup/)
+* [2026-09-07, 19:49:00](https://lobste.rs/s/2yrepa/evaluating_performance_correctness) - [Evaluating Performance and Correctness (2019)](https://www.robustperception.io/evaluating-performance-and-correctness/)
 * [2026-09-07, 19:39:06](https://lobste.rs/s/ift0hu/conquering_entropy_cultivating_trust) - [Conquering Entropy: Cultivating Trust](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
 * [2026-09-07, 18:35:35](https://lobste.rs/s/9coxwz/bzip3_better_stronger_spiritual) - [bzip3: A better and stronger spiritual successor to BZip2](https://github.com/iczelia/bzip3)
 * [2026-09-07, 17:11:49](https://lobste.rs/s/r5b28u/dataflow_model_revisited) - [The Dataflow Model Revisited](https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf)
@@ -16,13 +18,11 @@
 * [2026-09-07, 08:31:19](https://lobste.rs/s/0htvw0/hammock_driven_development_2010) - [\"Hammock Driven Development\" (2010)](https://youtu.be/f84n5oFoZBc)
 * [2026-09-07, 06:52:49](https://lobste.rs/s/mqbqbz/internationalization_localization) - [Internationalization and Localization](https://www.kashyapsuhas.com/blog/i18n-l10n)
 * [2026-09-06, 23:04:21](https://lobste.rs/s/n0zgj1/making_python_interpreter_1024_bytes) - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-* [2026-09-06, 22:13:09](https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go) - [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
 * [2026-09-06, 20:47:52](https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety) - [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/)
 * [2026-09-06, 20:41:38](https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 * [2026-09-06, 19:08:49](https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
 * [2026-09-06, 18:46:54](https://lobste.rs/s/xv6z4r/python_iceberg) - [Python Iceberg](https://aleyan.com/projects/python-iceberg/)
 * [2026-09-06, 18:32:04](https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project) - [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
-* [2026-09-06, 14:25:59](https://lobste.rs/s/xccvnw/simple_made_easy_2011) - [\"Simple Made Easy\" (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2026-09-06, 13:35:03](https://lobste.rs/s/be5lrk/netbsd_11_from_scratch) - [NetBSD 11 from scratch](https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/)
 * [2026-09-06, 07:45:24](https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths) - [Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”](https://mathstodon.xyz/@tao/117207856734787448)
 

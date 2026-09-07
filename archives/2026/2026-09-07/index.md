@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-07](index.md)
 
+* [2026-09-07, 21:22:11](https://lobste.rs/s/a2kz9j/how_bring_up_linux_kernel_on_new_platform) - [How to bring up the Linux Kernel on a new platform](https://werwolv.net/posts/linux_bringup/)
+* [2026-09-07, 19:49:00](https://lobste.rs/s/2yrepa/evaluating_performance_correctness) - [Evaluating Performance and Correctness (2019)](https://www.robustperception.io/evaluating-performance-and-correctness/)
 * [2026-09-07, 19:39:06](https://lobste.rs/s/ift0hu/conquering_entropy_cultivating_trust) - [Conquering Entropy: Cultivating Trust](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
 * [2026-09-07, 18:35:35](https://lobste.rs/s/9coxwz/bzip3_better_stronger_spiritual) - [bzip3: A better and stronger spiritual successor to BZip2](https://github.com/iczelia/bzip3)
 * [2026-09-07, 17:11:49](https://lobste.rs/s/r5b28u/dataflow_model_revisited) - [The Dataflow Model Revisited](https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf)
