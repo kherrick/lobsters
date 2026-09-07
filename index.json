@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-07, 21:22:11",
+      "https://lobste.rs/s/a2kz9j/how_bring_up_linux_kernel_on_new_platform"
+    ],
+    [
+      "How to bring up the Linux Kernel on a new platform",
+      "https://werwolv.net/posts/linux_bringup/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 19:49:00",
+      "https://lobste.rs/s/2yrepa/evaluating_performance_correctness"
+    ],
+    [
+      "Evaluating Performance and Correctness (2019)",
+      "https://www.robustperception.io/evaluating-performance-and-correctness/"
+    ]
+  ],
+  [
+    [
       "2026-09-07, 19:39:06",
       "https://lobste.rs/s/ift0hu/conquering_entropy_cultivating_trust"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-09-06, 22:13:09",
-      "https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go"
-    ],
-    [
-      "Data races and the limits of ThreadSanitizer in C and Go",
-      "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 20:47:52",
       "https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety"
     ],
@@ -217,16 +227,6 @@
     [
       "Following legal advice, the Nitter project will continue",
       "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 14:25:59",
-      "https://lobste.rs/s/xccvnw/simple_made_easy_2011"
-    ],
-    [
-      "\"Simple Made Easy\" (2011)",
-      "https://www.youtube.com/watch?v=SxdOUGdseq4"
     ]
   ],
   [
