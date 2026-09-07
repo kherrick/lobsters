@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-07](index.md)
 
+* [2026-09-07, 14:07:45](https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern) - [Two Tiny Utils for the Result Pattern](https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern)
+* [2026-09-07, 13:44:49](https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical) - [GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator](https://github.com/triglav-os/gem)
+* [2026-09-07, 10:53:12](https://lobste.rs/s/vdalin/shortest_ipv6_addresses) - [The shortest IPv6 addresses](https://ache.one/notes/vanity-ipv6)
+* [2026-09-07, 10:33:18](https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week)
+* [2026-09-07, 10:27:56](https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec) - [A faster way to convert a timestamp to Hour, Min, Sec](https://www.benjoffe.com/fast-time-of-day)
+* [2026-09-07, 09:25:39](https://lobste.rs/s/awrzbh/demystifying_complex_configurations) - [Demystifying complex configurations](https://guix.gnu.org/blog/2026/demystifying-complex-configurations//)
+* [2026-09-07, 08:31:19](https://lobste.rs/s/0htvw0/hammock_driven_development_2010) - [\"Hammock Driven Development\" (2010)](https://youtu.be/f84n5oFoZBc)
 * [2026-09-07, 06:52:49](https://lobste.rs/s/mqbqbz/internationalization_localization) - [Internationalization and Localization](https://www.kashyapsuhas.com/blog/i18n-l10n)
 * [2026-09-07, 05:04:28](https://lobste.rs/s/qsjwv4/posting_about_online_presentations) - [Posting about online presentations](https://lobste.rs/s/qsjwv4/posting_about_online_presentations)
 * [2026-09-07, 03:08:41](https://lobste.rs/s/9i5qo4/slop_lasagna) - [slop lasagna](https://underreacted.leaflet.pub/3mdjygm2p5s2c)
