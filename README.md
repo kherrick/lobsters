@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-07, 19:39:06](https://lobste.rs/s/ift0hu/conquering_entropy_cultivating_trust) - [Conquering Entropy: Cultivating Trust](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
+* [2026-09-07, 18:35:35](https://lobste.rs/s/9coxwz/bzip3_better_stronger_spiritual) - [bzip3: A better and stronger spiritual successor to BZip2](https://github.com/iczelia/bzip3)
 * [2026-09-07, 17:11:49](https://lobste.rs/s/r5b28u/dataflow_model_revisited) - [The Dataflow Model Revisited](https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf)
 * [2026-09-07, 17:00:42](https://lobste.rs/s/ku4hwg/rust_debugging_survey_2026_results) - [Rust debugging survey 2026 results](https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/)
 * [2026-09-07, 16:17:46](https://lobste.rs/s/adrda9/how_well_do_agents_use_test_verification) - [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
@@ -23,8 +25,6 @@
 * [2026-09-06, 14:25:59](https://lobste.rs/s/xccvnw/simple_made_easy_2011) - [\"Simple Made Easy\" (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2026-09-06, 13:35:03](https://lobste.rs/s/be5lrk/netbsd_11_from_scratch) - [NetBSD 11 from scratch](https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/)
 * [2026-09-06, 07:45:24](https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths) - [Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”](https://mathstodon.xyz/@tao/117207856734787448)
-* [2026-09-06, 07:03:41](https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go) - [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/)
-* [2026-09-05, 21:28:47](https://lobste.rs/s/xnqxqe/revolt_reader) - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 
 ## [Archives](archives/index.md)
 
