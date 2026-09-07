@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-07](index.md)
 
+* [2026-09-07, 17:11:49](https://lobste.rs/s/r5b28u/dataflow_model_revisited) - [The Dataflow Model Revisited](https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf)
+* [2026-09-07, 17:00:42](https://lobste.rs/s/ku4hwg/rust_debugging_survey_2026_results) - [Rust debugging survey 2026 results](https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/)
+* [2026-09-07, 16:17:46](https://lobste.rs/s/adrda9/how_well_do_agents_use_test_verification) - [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
+* [2026-09-07, 15:11:27](https://lobste.rs/s/6xfpvw/what_every_kernel_programmer_should_know) - [What every kernel programmer should know about Jump Labels](https://walac.github.io/jumplabels/)
+* [2026-09-07, 14:54:37](https://lobste.rs/s/vospwq/signing_tls_handshakes_inside_tpm) - [Signing TLS handshakes inside a TPM](https://bschaatsbergen.com/posts/go-tpm-tls/)
 * [2026-09-07, 14:07:45](https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern) - [Two Tiny Utils for the Result Pattern](https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern)
 * [2026-09-07, 13:44:49](https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical) - [GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator](https://github.com/triglav-os/gem)
 * [2026-09-07, 10:53:12](https://lobste.rs/s/vdalin/shortest_ipv6_addresses) - [The shortest IPv6 addresses](https://ache.one/notes/vanity-ipv6)
