@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
 * [2026-09-06, 23:04:21](https://lobste.rs/s/n0zgj1/making_python_interpreter_1024_bytes) - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+* [2026-09-06, 22:38:08](https://lobste.rs/s/rlbbmo/untangling_lifetimes_arena_allocator) - [Untangling Lifetimes: The Arena Allocator (2022)](https://www.dgtlgrove.com/p/untangling-lifetimes-the-arena-allocator)
 * [2026-09-06, 22:13:09](https://lobste.rs/s/mcnj6l/data_races_limits_threadsanitizer_c_go) - [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
 * [2026-09-06, 20:47:52](https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety) - [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/)
 * [2026-09-06, 20:41:38](https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 * [2026-09-06, 20:07:16](https://lobste.rs/s/xyvhrx/radix_fw60_handheld_cp_m_2_2_computer) - [Radix_FW60: handheld CP/M 2.2 computer](https://github.com/BrettHallen/Radix_FW60)
+* [2026-09-06, 19:18:09](https://lobste.rs/s/vcsb4x/why_frontends_fail_when_you_approach_them) - [Why frontends fail when you approach them like a backend](http://marijkeluttekes.dev/blog/articles/2026/03/16/why-frontends-fail-when-you-approach-them-like-a-backend/)
 * [2026-09-06, 19:08:49](https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
 * [2026-09-06, 18:46:54](https://lobste.rs/s/xv6z4r/python_iceberg) - [Python Iceberg](https://aleyan.com/projects/python-iceberg/)
 * [2026-09-06, 18:32:04](https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project) - [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
