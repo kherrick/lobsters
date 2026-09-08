@@ -1,5 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-08, 05:24:42](https://lobste.rs/s/npyzwy/this_month_ladybird_august_2026) - [This Month in Ladybird - August 2026](https://ladybird.org/newsletter/2026-08-31/)
+* [2026-09-08, 04:17:11](https://lobste.rs/s/4ntizu/i_changed_my_license_eupl) - [I changed my license to EUPL](https://bergie.iki.fi/blog/eupl/)
+* [2026-09-08, 04:05:34](https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate) - [I’ve factored the RSA keys of a Certificate Authority…from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+* [2026-09-08, 03:27:24](https://lobste.rs/s/aepn8g/my_nix_config_is_intimate) - [My Nix Config Is Intimate](https://www.scd31.com/posts/nix-files-are-intimate)
+* [2026-09-08, 03:13:20](https://lobste.rs/s/blba3b/jellyfin_12_0) - [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0)
+* [2026-09-08, 02:55:30](https://lobste.rs/s/sukgeg/emacs_bedrock_2_0_released) - [Emacs Bedrock 2.0 Released](https://lambdaland.org/posts/2026-09-06-bedrock-v2/)
 * [2026-09-08, 00:50:16](https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as) - [What are you using as a task manager and as a people manager?](https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as)
 * [2026-09-07, 21:39:21](https://lobste.rs/s/8hz82r/hardening_container_images) - [Hardening Container Images](https://www.grepular.com/Hardening_Container_Images)
 * [2026-09-07, 21:22:11](https://lobste.rs/s/a2kz9j/how_bring_up_linux_kernel_on_new_platform) - [How to bring up the Linux Kernel on a new platform](https://werwolv.net/posts/linux_bringup/)
@@ -8,7 +14,6 @@
 * [2026-09-07, 17:11:49](https://lobste.rs/s/r5b28u/dataflow_model_revisited) - [The Dataflow Model Revisited](https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf)
 * [2026-09-07, 17:00:42](https://lobste.rs/s/ku4hwg/rust_debugging_survey_2026_results) - [Rust debugging survey 2026 results](https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/)
 * [2026-09-07, 16:17:46](https://lobste.rs/s/adrda9/how_well_do_agents_use_test_verification) - [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
-* [2026-09-07, 14:54:37](https://lobste.rs/s/vospwq/signing_tls_handshakes_inside_tpm) - [Signing TLS handshakes inside a TPM](https://bschaatsbergen.com/posts/go-tpm-tls/)
 * [2026-09-07, 14:07:45](https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern) - [Two Tiny Utils for the Result Pattern](https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern)
 * [2026-09-07, 13:44:49](https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical) - [GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator](https://github.com/triglav-os/gem)
 * [2026-09-07, 10:53:12](https://lobste.rs/s/vdalin/shortest_ipv6_addresses) - [The shortest IPv6 addresses](https://ache.one/notes/vanity-ipv6)
@@ -18,13 +23,8 @@
 * [2026-09-07, 08:31:19](https://lobste.rs/s/0htvw0/hammock_driven_development_2010) - [\"Hammock Driven Development\" (2010)](https://youtu.be/f84n5oFoZBc)
 * [2026-09-07, 06:52:49](https://lobste.rs/s/mqbqbz/internationalization_localization) - [Internationalization and Localization](https://www.kashyapsuhas.com/blog/i18n-l10n)
 * [2026-09-06, 23:04:21](https://lobste.rs/s/n0zgj1/making_python_interpreter_1024_bytes) - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-* [2026-09-06, 20:47:52](https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety) - [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/)
 * [2026-09-06, 20:41:38](https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
-* [2026-09-06, 19:08:49](https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
 * [2026-09-06, 18:46:54](https://lobste.rs/s/xv6z4r/python_iceberg) - [Python Iceberg](https://aleyan.com/projects/python-iceberg/)
-* [2026-09-06, 18:32:04](https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project) - [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
-* [2026-09-06, 13:35:03](https://lobste.rs/s/be5lrk/netbsd_11_from_scratch) - [NetBSD 11 from scratch](https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/)
-* [2026-09-06, 07:45:24](https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths) - [Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”](https://mathstodon.xyz/@tao/117207856734787448)
 
 ## [Archives](archives/index.md)
 
