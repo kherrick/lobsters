@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-09-08, 11:09:26",
+      "https://lobste.rs/s/nsx2dk/replacing_startplasma_with_shell"
+    ],
+    [
+      "Replacing startplasma with shell scripts or dinit (Part 1)",
+      "https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 10:54:57",
+      "https://lobste.rs/s/tprfej/extreme_server_side_rendering"
+    ],
+    [
+      "Extreme Server Side Rendering",
+      "https://www.scd31.com/posts/extreme-server-side-rendering"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 10:22:13",
+      "https://lobste.rs/s/1baq3m/x86_evolution_for_segmentation_paging"
+    ],
+    [
+      "x86 evolution for segmentation and paging",
+      "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 09:24:16",
+      "https://lobste.rs/s/eu78rh/how_get_free_arpa_domain"
+    ],
+    [
+      "How to get a free .arpa domain",
+      "https://hawksley.dev/blog/get-free-arpa-domain"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 08:14:40",
+      "https://lobste.rs/s/b7k94m/statement_on_finite_time_blowup_for"
+    ],
+    [
+      "Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+      "https://cims.nyu.edu/~tristanb/statement.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 07:49:09",
+      "https://lobste.rs/s/bzwyib/antiquated_html_snippets_artefacts"
+    ],
+    [
+      "Antiquated HTML Snippets and Artefacts",
+      "https://vale.rocks/posts/html-relics"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 07:20:16",
+      "https://lobste.rs/s/6licoy/state_european_cloud_providers_2026"
+    ],
+    [
+      "The state of European cloud providers in 2026",
+      "https://crescentro.se/posts/euro-cloud-providers-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 06:37:38",
+      "https://lobste.rs/s/aguhup/bitap_my_favorite_string_matching"
+    ],
+    [
+      "Bitap: my favorite string matching algorithm",
+      "https://jo3-l.dev/posts/bitap/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 06:36:44",
+      "https://lobste.rs/s/mfhss4/type_inference_has_usability_problems"
+    ],
+    [
+      "Type inference has usability problems (2019)",
+      "https://austinhenley.com/blog/typeinference.html"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 05:24:42",
       "https://lobste.rs/s/npyzwy/this_month_ladybird_august_2026"
     ],
@@ -81,26 +171,6 @@
   ],
   [
     [
-      "2026-09-07, 21:22:11",
-      "https://lobste.rs/s/a2kz9j/how_bring_up_linux_kernel_on_new_platform"
-    ],
-    [
-      "How to bring up the Linux Kernel on a new platform",
-      "https://werwolv.net/posts/linux_bringup/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 19:39:06",
-      "https://lobste.rs/s/ift0hu/conquering_entropy_cultivating_trust"
-    ],
-    [
-      "Conquering Entropy: Cultivating Trust",
-      "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 18:35:35",
       "https://lobste.rs/s/9coxwz/bzip3_better_stronger_spiritual"
     ],
@@ -151,32 +221,12 @@
   ],
   [
     [
-      "2026-09-07, 13:44:49",
-      "https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical"
-    ],
-    [
-      "GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator",
-      "https://github.com/triglav-os/gem"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 10:53:12",
       "https://lobste.rs/s/vdalin/shortest_ipv6_addresses"
     ],
     [
       "The shortest IPv6 addresses",
       "https://ache.one/notes/vanity-ipv6"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 10:33:18",
-      "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week"
     ]
   ],
   [
@@ -191,62 +241,12 @@
   ],
   [
     [
-      "2026-09-07, 09:25:39",
-      "https://lobste.rs/s/awrzbh/demystifying_complex_configurations"
-    ],
-    [
-      "Demystifying complex configurations",
-      "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 08:31:19",
-      "https://lobste.rs/s/0htvw0/hammock_driven_development_2010"
-    ],
-    [
-      "\"Hammock Driven Development\" (2010)",
-      "https://youtu.be/f84n5oFoZBc"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 06:52:49",
-      "https://lobste.rs/s/mqbqbz/internationalization_localization"
-    ],
-    [
-      "Internationalization and Localization",
-      "https://www.kashyapsuhas.com/blog/i18n-l10n"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 23:04:21",
-      "https://lobste.rs/s/n0zgj1/making_python_interpreter_1024_bytes"
-    ],
-    [
-      "Making a Python interpreter in 1024 bytes",
-      "https://austinhenley.com/blog/python1024.html"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 20:41:38",
       "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis"
     ],
     [
       "It took a year to ship WebAssembly in Anubis",
       "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 18:46:54",
-      "https://lobste.rs/s/xv6z4r/python_iceberg"
-    ],
-    [
-      "Python Iceberg",
-      "https://aleyan.com/projects/python-iceberg/"
     ]
   ]
 ]
