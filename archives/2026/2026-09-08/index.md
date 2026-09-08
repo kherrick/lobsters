@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-08](index.md)
 
+* [2026-09-08, 11:09:26](https://lobste.rs/s/nsx2dk/replacing_startplasma_with_shell) - [Replacing startplasma with shell scripts or dinit (Part 1)](https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit)
+* [2026-09-08, 10:54:57](https://lobste.rs/s/tprfej/extreme_server_side_rendering) - [Extreme Server Side Rendering](https://www.scd31.com/posts/extreme-server-side-rendering)
+* [2026-09-08, 10:22:13](https://lobste.rs/s/1baq3m/x86_evolution_for_segmentation_paging) - [x86 evolution for segmentation and paging](https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/)
+* [2026-09-08, 09:24:16](https://lobste.rs/s/eu78rh/how_get_free_arpa_domain) - [How to get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain)
+* [2026-09-08, 08:14:40](https://lobste.rs/s/b7k94m/statement_on_finite_time_blowup_for) - [Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct](https://cims.nyu.edu/~tristanb/statement.pdf)
+* [2026-09-08, 07:49:09](https://lobste.rs/s/bzwyib/antiquated_html_snippets_artefacts) - [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
+* [2026-09-08, 07:20:16](https://lobste.rs/s/6licoy/state_european_cloud_providers_2026) - [The state of European cloud providers in 2026](https://crescentro.se/posts/euro-cloud-providers-2026/)
+* [2026-09-08, 06:37:38](https://lobste.rs/s/aguhup/bitap_my_favorite_string_matching) - [Bitap: my favorite string matching algorithm](https://jo3-l.dev/posts/bitap/)
+* [2026-09-08, 06:36:44](https://lobste.rs/s/mfhss4/type_inference_has_usability_problems) - [Type inference has usability problems (2019)](https://austinhenley.com/blog/typeinference.html)
 * [2026-09-08, 05:24:42](https://lobste.rs/s/npyzwy/this_month_ladybird_august_2026) - [This Month in Ladybird - August 2026](https://ladybird.org/newsletter/2026-08-31/)
 * [2026-09-08, 04:17:11](https://lobste.rs/s/4ntizu/i_changed_my_license_eupl) - [I changed my license to EUPL](https://bergie.iki.fi/blog/eupl/)
 * [2026-09-08, 04:05:34](https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate) - [I’ve factored the RSA keys of a Certificate Authority…from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
