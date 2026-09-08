@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-08](index.md)
 
+* [2026-09-08, 17:53:17](https://lobste.rs/s/hczzuo/on_navier_stokes_millennium_prize) - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+* [2026-09-08, 15:49:10](https://lobste.rs/s/uhzuen/serving_web_from_volatile_dial_up_ip) - [Serving Web from volatile Dial-up IP](https://blog.mro.name/2026/09/web-from-dial-up/)
 * [2026-09-08, 14:33:25](https://lobste.rs/s/dlxqqr/depths_javascript_minesweeper_247_bytes) - [The Depths of JavaScript: Minesweeper in 247 Bytes](https://yui.dev/blog/minesweeper-in-247-bytes)
 * [2026-09-08, 13:55:09](https://lobste.rs/s/ikzvtv/switching_password_managers_2026) - [Switching Password Managers in 2026](https://rmondello.com/2026/09/07/switching-password-managers-2026/)
 * [2026-09-08, 13:07:26](https://lobste.rs/s/3cfr3a/cern_s_migration_path_from_centos_linux) - [CERN's migration path from CentOS Linux to Debian](https://lwn.net/SubscriberLink/1092512/0772b817c369632b/)
@@ -13,6 +15,7 @@
 * [2026-09-08, 09:24:16](https://lobste.rs/s/eu78rh/how_get_free_arpa_domain) - [How to get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain)
 * [2026-09-08, 08:14:40](https://lobste.rs/s/b7k94m/statement_on_finite_time_blowup_for) - [Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct](https://cims.nyu.edu/~tristanb/statement.pdf)
 * [2026-09-08, 07:49:09](https://lobste.rs/s/bzwyib/antiquated_html_snippets_artefacts) - [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
+* [2026-09-08, 07:43:27](https://lobste.rs/s/ki3ylq/finite_time_blowup_with_smooth_forcing) - [Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM](https://mastodon.social/@tristanbuckmaster/117233413705701198)
 * [2026-09-08, 07:20:16](https://lobste.rs/s/6licoy/state_european_cloud_providers_2026) - [The state of European cloud providers in 2026](https://crescentro.se/posts/euro-cloud-providers-2026/)
 * [2026-09-08, 06:37:38](https://lobste.rs/s/aguhup/bitap_my_favorite_string_matching) - [Bitap: my favorite string matching algorithm](https://jo3-l.dev/posts/bitap/)
 * [2026-09-08, 06:36:44](https://lobste.rs/s/mfhss4/type_inference_has_usability_problems) - [Type inference has usability problems (2019)](https://austinhenley.com/blog/typeinference.html)
