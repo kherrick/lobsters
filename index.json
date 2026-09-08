@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-09-08, 17:53:17",
-      "https://lobste.rs/s/hczzuo/on_navier_stokes_millennium_prize"
+      "2026-09-08, 21:23:18",
+      "https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom"
     ],
     [
-      "On the Navier–Stokes Millennium Prize Problem",
-      "https://openai.com/index/navier-stokes-solution/"
+      "Rust: When Empty Isn't Bottom",
+      "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 21:05:31",
+      "https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad"
+    ],
+    [
+      "What makes $BigTechCompany's products bad, anyway?",
+      "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 21:03:22",
+      "https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter"
+    ],
+    [
+      "Reverse engineering my e-scooter and rewriting the firmware in rust",
+      "https://bensimms.moe/reverse-engineering-scooter/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "CERN's migration path from CentOS Linux to Debian",
       "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 11:09:26",
-      "https://lobste.rs/s/nsx2dk/replacing_startplasma_with_shell"
-    ],
-    [
-      "Replacing startplasma with shell scripts or dinit (Part 1)",
-      "https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A faster way to convert a timestamp to Hour, Min, Sec",
       "https://www.benjoffe.com/fast-time-of-day"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 20:41:38",
-      "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis"
-    ],
-    [
-      "It took a year to ship WebAssembly in Anubis",
-      "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
     ]
   ]
 ]
