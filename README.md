@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-08, 17:53:17](https://lobste.rs/s/hczzuo/on_navier_stokes_millennium_prize) - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+* [2026-09-08, 21:23:18](https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom) - [Rust: When Empty Isn't Bottom](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html)
+* [2026-09-08, 21:05:31](https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad) - [What makes $BigTechCompany's products bad, anyway?](https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/)
+* [2026-09-08, 21:03:22](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter) - [Reverse engineering my e-scooter and rewriting the firmware in rust](https://bensimms.moe/reverse-engineering-scooter/)
 * [2026-09-08, 15:49:10](https://lobste.rs/s/uhzuen/serving_web_from_volatile_dial_up_ip) - [Serving Web from volatile Dial-up IP](https://blog.mro.name/2026/09/web-from-dial-up/)
 * [2026-09-08, 14:33:25](https://lobste.rs/s/dlxqqr/depths_javascript_minesweeper_247_bytes) - [The Depths of JavaScript: Minesweeper in 247 Bytes](https://yui.dev/blog/minesweeper-in-247-bytes)
 * [2026-09-08, 13:55:09](https://lobste.rs/s/ikzvtv/switching_password_managers_2026) - [Switching Password Managers in 2026](https://rmondello.com/2026/09/07/switching-password-managers-2026/)
 * [2026-09-08, 13:07:26](https://lobste.rs/s/3cfr3a/cern_s_migration_path_from_centos_linux) - [CERN's migration path from CentOS Linux to Debian](https://lwn.net/SubscriberLink/1092512/0772b817c369632b/)
-* [2026-09-08, 11:09:26](https://lobste.rs/s/nsx2dk/replacing_startplasma_with_shell) - [Replacing startplasma with shell scripts or dinit (Part 1)](https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit)
 * [2026-09-08, 10:54:57](https://lobste.rs/s/tprfej/extreme_server_side_rendering) - [Extreme Server Side Rendering](https://www.scd31.com/posts/extreme-server-side-rendering)
 * [2026-09-08, 10:22:13](https://lobste.rs/s/1baq3m/x86_evolution_for_segmentation_paging) - [x86 evolution for segmentation and paging](https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/)
 * [2026-09-08, 09:24:16](https://lobste.rs/s/eu78rh/how_get_free_arpa_domain) - [How to get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain)
@@ -24,7 +25,6 @@
 * [2026-09-07, 17:00:42](https://lobste.rs/s/ku4hwg/rust_debugging_survey_2026_results) - [Rust debugging survey 2026 results](https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/)
 * [2026-09-07, 10:53:12](https://lobste.rs/s/vdalin/shortest_ipv6_addresses) - [The shortest IPv6 addresses](https://ache.one/notes/vanity-ipv6)
 * [2026-09-07, 10:27:56](https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec) - [A faster way to convert a timestamp to Hour, Min, Sec](https://www.benjoffe.com/fast-time-of-day)
-* [2026-09-06, 20:41:38](https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 
 ## [Archives](archives/index.md)
 
