@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-08](index.md)
 
+* [2026-09-08, 14:33:25](https://lobste.rs/s/dlxqqr/depths_javascript_minesweeper_247_bytes) - [The Depths of JavaScript: Minesweeper in 247 Bytes](https://yui.dev/blog/minesweeper-in-247-bytes)
+* [2026-09-08, 13:55:09](https://lobste.rs/s/ikzvtv/switching_password_managers_2026) - [Switching Password Managers in 2026](https://rmondello.com/2026/09/07/switching-password-managers-2026/)
+* [2026-09-08, 13:07:26](https://lobste.rs/s/3cfr3a/cern_s_migration_path_from_centos_linux) - [CERN's migration path from CentOS Linux to Debian](https://lwn.net/SubscriberLink/1092512/0772b817c369632b/)
 * [2026-09-08, 11:09:26](https://lobste.rs/s/nsx2dk/replacing_startplasma_with_shell) - [Replacing startplasma with shell scripts or dinit (Part 1)](https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit)
 * [2026-09-08, 10:54:57](https://lobste.rs/s/tprfej/extreme_server_side_rendering) - [Extreme Server Side Rendering](https://www.scd31.com/posts/extreme-server-side-rendering)
 * [2026-09-08, 10:22:13](https://lobste.rs/s/1baq3m/x86_evolution_for_segmentation_paging) - [x86 evolution for segmentation and paging](https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/)
