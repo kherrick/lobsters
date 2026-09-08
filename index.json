@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-09-08, 00:50:16",
+      "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as"
+    ],
+    [
+      "What are you using as a task manager and as a people manager?",
+      "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 21:39:21",
+      "https://lobste.rs/s/8hz82r/hardening_container_images"
+    ],
+    [
+      "Hardening Container Images",
+      "https://www.grepular.com/Hardening_Container_Images"
+    ]
+  ],
+  [
+    [
       "2026-09-07, 21:22:11",
       "https://lobste.rs/s/a2kz9j/how_bring_up_linux_kernel_on_new_platform"
     ],
     [
       "How to bring up the Linux Kernel on a new platform",
       "https://werwolv.net/posts/linux_bringup/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 19:49:00",
-      "https://lobste.rs/s/2yrepa/evaluating_performance_correctness"
-    ],
-    [
-      "Evaluating Performance and Correctness (2019)",
-      "https://www.robustperception.io/evaluating-performance-and-correctness/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "How well do agents use test/verification techniques?",
       "https://danluu.com/agentic-testing/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 15:11:27",
-      "https://lobste.rs/s/6xfpvw/what_every_kernel_programmer_should_know"
-    ],
-    [
-      "What every kernel programmer should know about Jump Labels",
-      "https://walac.github.io/jumplabels/"
     ]
   ],
   [
