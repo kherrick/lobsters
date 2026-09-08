@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-08, 14:33:25",
+      "https://lobste.rs/s/dlxqqr/depths_javascript_minesweeper_247_bytes"
+    ],
+    [
+      "The Depths of JavaScript: Minesweeper in 247 Bytes",
+      "https://yui.dev/blog/minesweeper-in-247-bytes"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 13:55:09",
+      "https://lobste.rs/s/ikzvtv/switching_password_managers_2026"
+    ],
+    [
+      "Switching Password Managers in 2026",
+      "https://rmondello.com/2026/09/07/switching-password-managers-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 13:07:26",
+      "https://lobste.rs/s/3cfr3a/cern_s_migration_path_from_centos_linux"
+    ],
+    [
+      "CERN's migration path from CentOS Linux to Debian",
+      "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 11:09:26",
       "https://lobste.rs/s/nsx2dk/replacing_startplasma_with_shell"
     ],
@@ -37,16 +67,6 @@
     [
       "How to get a free .arpa domain",
       "https://hawksley.dev/blog/get-free-arpa-domain"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 08:14:40",
-      "https://lobste.rs/s/b7k94m/statement_on_finite_time_blowup_for"
-    ],
-    [
-      "Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
-      "https://cims.nyu.edu/~tristanb/statement.pdf"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-09-08, 00:50:16",
-      "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as"
-    ],
-    [
-      "What are you using as a task manager and as a people manager?",
-      "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 21:39:21",
       "https://lobste.rs/s/8hz82r/hardening_container_images"
     ],
@@ -177,16 +187,6 @@
     [
       "bzip3: A better and stronger spiritual successor to BZip2",
       "https://github.com/iczelia/bzip3"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 17:11:49",
-      "https://lobste.rs/s/r5b28u/dataflow_model_revisited"
-    ],
-    [
-      "The Dataflow Model Revisited",
-      "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf"
     ]
   ],
   [
