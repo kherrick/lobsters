@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-08](index.md)
+
+* [2026-09-08, 00:50:16](https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as) - [What are you using as a task manager and as a people manager?](https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as)
