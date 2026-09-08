@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-08](index.md)
 
+* [2026-09-08, 21:39:21](https://lobste.rs/s/pxreik/how_build_f_king_printer) - [How to build a f**king printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
 * [2026-09-08, 21:23:18](https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom) - [Rust: When Empty Isn't Bottom](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html)
 * [2026-09-08, 21:05:31](https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad) - [What makes $BigTechCompany's products bad, anyway?](https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/)
 * [2026-09-08, 21:03:22](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter) - [Reverse engineering my e-scooter and rewriting the firmware in rust](https://bensimms.moe/reverse-engineering-scooter/)

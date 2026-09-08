@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-08, 21:39:21](https://lobste.rs/s/pxreik/how_build_f_king_printer) - [How to build a f**king printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
 * [2026-09-08, 21:23:18](https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom) - [Rust: When Empty Isn't Bottom](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html)
 * [2026-09-08, 21:05:31](https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad) - [What makes $BigTechCompany's products bad, anyway?](https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/)
 * [2026-09-08, 21:03:22](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter) - [Reverse engineering my e-scooter and rewriting the firmware in rust](https://bensimms.moe/reverse-engineering-scooter/)
@@ -21,7 +22,6 @@
 * [2026-09-08, 03:27:24](https://lobste.rs/s/aepn8g/my_nix_config_is_intimate) - [My Nix Config Is Intimate](https://www.scd31.com/posts/nix-files-are-intimate)
 * [2026-09-08, 03:13:20](https://lobste.rs/s/blba3b/jellyfin_12_0) - [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0)
 * [2026-09-08, 02:55:30](https://lobste.rs/s/sukgeg/emacs_bedrock_2_0_released) - [Emacs Bedrock 2.0 Released](https://lambdaland.org/posts/2026-09-06-bedrock-v2/)
-* [2026-09-07, 21:39:21](https://lobste.rs/s/8hz82r/hardening_container_images) - [Hardening Container Images](https://www.grepular.com/Hardening_Container_Images)
 * [2026-09-07, 17:00:42](https://lobste.rs/s/ku4hwg/rust_debugging_survey_2026_results) - [Rust debugging survey 2026 results](https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/)
 * [2026-09-07, 10:53:12](https://lobste.rs/s/vdalin/shortest_ipv6_addresses) - [The shortest IPv6 addresses](https://ache.one/notes/vanity-ipv6)
 * [2026-09-07, 10:27:56](https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec) - [A faster way to convert a timestamp to Hour, Min, Sec](https://www.benjoffe.com/fast-time-of-day)
