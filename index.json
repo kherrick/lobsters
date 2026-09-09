@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-09-09, 15:06:09",
+      "https://lobste.rs/s/ml3mgf/why_is_this_robot_slowly_dropping_object"
+    ],
+    [
+      "Why is this robot slowly dropping the object?",
+      "https://youtu.be/DqMjxcfm4Ek"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 13:32:22",
+      "https://lobste.rs/s/veafpx/purpose_dns_is_spread_scams"
+    ],
+    [
+      "The purpose of DNS is to spread scams",
+      "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 13:24:26",
+      "https://lobste.rs/s/td6ssk/analysing_2048_on_3x3_board"
+    ],
+    [
+      "Analysing 2048 on a 3×3 board",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 13:21:19",
+      "https://lobste.rs/s/mlqqpn/introducing_cuda_rust_two_tracks_for"
+    ],
+    [
+      "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+      "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 13:09:45",
+      "https://lobste.rs/s/ffvipw/why_emacs_consult_async_searches_feel"
+    ],
+    [
+      "Why Emacs Consult async searches feel slow and how to speed them up",
+      "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 12:53:21",
+      "https://lobste.rs/s/lxiabq/benchmarking_qwen3_8_27b_quantizations_4"
+    ],
+    [
+      "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"
+    ]
+  ],
+  [
+    [
       "2026-09-09, 11:39:04",
       "https://lobste.rs/s/jrkqiz/playing_with_emacs"
     ],
@@ -27,16 +87,6 @@
     [
       "Solaris Turnstiles",
       "https://rdmsr.github.io/writing/turnstiles/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 06:47:58",
-      "https://lobste.rs/s/ojyeqg/why_johnny_can_t_encrypt_usability"
-    ],
-    [
-      "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)",
-      "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html"
     ]
   ],
   [
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2026-09-08, 21:05:31",
-      "https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad"
-    ],
-    [
-      "What makes $BigTechCompany's products bad, anyway?",
-      "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 21:03:22",
       "https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter"
     ],
     [
       "Reverse engineering my e-scooter and rewriting the firmware in rust",
       "https://bensimms.moe/reverse-engineering-scooter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 15:49:10",
-      "https://lobste.rs/s/uhzuen/serving_web_from_volatile_dial_up_ip"
-    ],
-    [
-      "Serving Web from volatile Dial-up IP",
-      "https://blog.mro.name/2026/09/web-from-dial-up/"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "Extreme Server Side Rendering",
       "https://www.scd31.com/posts/extreme-server-side-rendering"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 10:22:13",
-      "https://lobste.rs/s/1baq3m/x86_evolution_for_segmentation_paging"
-    ],
-    [
-      "x86 evolution for segmentation and paging",
-      "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-09-08, 05:24:42",
-      "https://lobste.rs/s/npyzwy/this_month_ladybird_august_2026"
-    ],
-    [
-      "This Month in Ladybird - August 2026",
-      "https://ladybird.org/newsletter/2026-08-31/"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 04:17:11",
       "https://lobste.rs/s/4ntizu/i_changed_my_license_eupl"
     ],
     [
       "I changed my license to EUPL",
       "https://bergie.iki.fi/blog/eupl/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 03:27:24",
-      "https://lobste.rs/s/aepn8g/my_nix_config_is_intimate"
-    ],
-    [
-      "My Nix Config Is Intimate",
-      "https://www.scd31.com/posts/nix-files-are-intimate"
     ]
   ],
   [
