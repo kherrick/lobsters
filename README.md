@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-09, 20:42:24](https://lobste.rs/s/qlhcr5/diff_relational_interface_for_large) - [DIFF: A Relational Interface for Large-Scale Data Explanation](https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf)
+* [2026-09-09, 20:38:35](https://lobste.rs/s/v8atna/efficient_accurate_systems_for_querying) - [Efficient and accurate systems for querying unstructured data](https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf)
 * [2026-09-09, 18:31:44](https://lobste.rs/s/tiltfq/id_design_primary_keys) - [ID design and primary keys](https://anchorsandlinks.com/posts/primary-keys/)
 * [2026-09-09, 18:27:24](https://lobste.rs/s/o9cyiv/better_ai_code_comment_detector) - [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
 * [2026-09-09, 17:18:32](https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic) - [I Don’t Want to Interact With Stochastic Parrots](https://ploum.net/2026-09-09-ai_policy.html)
@@ -7,7 +9,6 @@
 * [2026-09-09, 16:06:05](https://lobste.rs/s/uiyfpl/every_millisecond_counts) - [Every Millisecond Counts](https://jordivillar.com/blog/every-millisecond-counts)
 * [2026-09-09, 16:02:54](https://lobste.rs/s/wdwg2b/email_decoupled_from_where_how_cross) - [Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS](https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how)
 * [2026-09-09, 15:22:32](https://lobste.rs/s/rghafd/design_space_exploration_async_await) - [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
-* [2026-09-09, 15:06:09](https://lobste.rs/s/ml3mgf/why_is_this_robot_slowly_dropping_object) - [Why is this robot slowly dropping the object?](https://youtu.be/DqMjxcfm4Ek)
 * [2026-09-09, 13:32:22](https://lobste.rs/s/veafpx/purpose_dns_is_spread_scams) - [The purpose of DNS is to spread scams](https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/)
 * [2026-09-09, 13:24:26](https://lobste.rs/s/td6ssk/analysing_2048_on_3x3_board) - [Analysing 2048 on a 3×3 board](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/)
 * [2026-09-09, 13:21:19](https://lobste.rs/s/mlqqpn/introducing_cuda_rust_two_tracks_for) - [Introducing CUDA Rust: Two Tracks for Writing GPU Kernels](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
@@ -17,7 +18,6 @@
 * [2026-09-09, 08:14:25](https://lobste.rs/s/wrt9wm/solaris_turnstiles) - [Solaris Turnstiles](https://rdmsr.github.io/writing/turnstiles/)
 * [2026-09-09, 06:43:42](https://lobste.rs/s/9tck4q/state_allocators_2026_6_months_later) - [The State of Allocators in 2026 - 6 Months Later](https://cetra3.github.io/blog/state-of-allocators-2026-part-2/)
 * [2026-09-09, 04:13:05](https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function) - [Why Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
-* [2026-09-09, 01:56:40](https://lobste.rs/s/8mgfan/software_for_humans) - [software for humans](https://clankerfree.org)
 * [2026-09-08, 21:39:21](https://lobste.rs/s/pxreik/how_build_f_king_printer) - [How to build a f**king printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
 * [2026-09-08, 21:23:18](https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom) - [Rust: When Empty Isn't Bottom](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html)
 * [2026-09-08, 21:03:22](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter) - [Reverse engineering my e-scooter and rewriting the firmware in rust](https://bensimms.moe/reverse-engineering-scooter/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-09](index.md)
 
+* [2026-09-09, 20:42:24](https://lobste.rs/s/qlhcr5/diff_relational_interface_for_large) - [DIFF: A Relational Interface for Large-Scale Data Explanation](https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf)
+* [2026-09-09, 20:38:35](https://lobste.rs/s/v8atna/efficient_accurate_systems_for_querying) - [Efficient and accurate systems for querying unstructured data](https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf)
 * [2026-09-09, 18:31:44](https://lobste.rs/s/tiltfq/id_design_primary_keys) - [ID design and primary keys](https://anchorsandlinks.com/posts/primary-keys/)
 * [2026-09-09, 18:27:24](https://lobste.rs/s/o9cyiv/better_ai_code_comment_detector) - [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
 * [2026-09-09, 17:18:32](https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic) - [I Don’t Want to Interact With Stochastic Parrots](https://ploum.net/2026-09-09-ai_policy.html)
