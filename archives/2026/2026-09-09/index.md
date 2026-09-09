@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-09](index.md)
 
+* [2026-09-09, 15:06:09](https://lobste.rs/s/ml3mgf/why_is_this_robot_slowly_dropping_object) - [Why is this robot slowly dropping the object?](https://youtu.be/DqMjxcfm4Ek)
+* [2026-09-09, 13:32:22](https://lobste.rs/s/veafpx/purpose_dns_is_spread_scams) - [The purpose of DNS is to spread scams](https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/)
+* [2026-09-09, 13:24:26](https://lobste.rs/s/td6ssk/analysing_2048_on_3x3_board) - [Analysing 2048 on a 3×3 board](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/)
+* [2026-09-09, 13:21:19](https://lobste.rs/s/mlqqpn/introducing_cuda_rust_two_tracks_for) - [Introducing CUDA Rust: Two Tracks for Writing GPU Kernels](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+* [2026-09-09, 13:09:45](https://lobste.rs/s/ffvipw/why_emacs_consult_async_searches_feel) - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
+* [2026-09-09, 12:53:21](https://lobste.rs/s/lxiabq/benchmarking_qwen3_8_27b_quantizations_4) - [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
 * [2026-09-09, 11:39:04](https://lobste.rs/s/jrkqiz/playing_with_emacs) - [Playing with Emacs](https://idlip.in/posts/playing-emacs/)
 * [2026-09-09, 11:13:13](https://lobste.rs/s/zffgb8/decade_rustls) - [A decade of rustls](https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/)
 * [2026-09-09, 08:14:25](https://lobste.rs/s/wrt9wm/solaris_turnstiles) - [Solaris Turnstiles](https://rdmsr.github.io/writing/turnstiles/)
