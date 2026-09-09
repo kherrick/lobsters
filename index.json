@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-09-09, 05:22:01",
-      "https://lobste.rs/s/mbzhlq/patchwork_26_malleable_collaborative"
+      "2026-09-09, 11:39:04",
+      "https://lobste.rs/s/jrkqiz/playing_with_emacs"
     ],
     [
-      "Patchwork-26: A malleable, collaborative, local-first workspace",
-      "https://youtu.be/4UxGijnuXEs"
+      "Playing with Emacs",
+      "https://idlip.in/posts/playing-emacs/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 11:13:13",
+      "https://lobste.rs/s/zffgb8/decade_rustls"
+    ],
+    [
+      "A decade of rustls",
+      "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 08:14:25",
+      "https://lobste.rs/s/wrt9wm/solaris_turnstiles"
+    ],
+    [
+      "Solaris Turnstiles",
+      "https://rdmsr.github.io/writing/turnstiles/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 06:47:58",
+      "https://lobste.rs/s/ojyeqg/why_johnny_can_t_encrypt_usability"
+    ],
+    [
+      "Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)",
+      "https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 06:43:42",
+      "https://lobste.rs/s/9tck4q/state_allocators_2026_6_months_later"
+    ],
+    [
+      "The State of Allocators in 2026 - 6 Months Later",
+      "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 04:13:05",
+      "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function"
+    ],
+    [
+      "Why Function Arguments Are Not Function Colors",
+      "https://jerf.org/iri/post/2026/func_args_are_not_colors/"
     ]
   ],
   [
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2026-09-08, 14:33:25",
-      "https://lobste.rs/s/dlxqqr/depths_javascript_minesweeper_247_bytes"
-    ],
-    [
-      "The Depths of JavaScript: Minesweeper in 247 Bytes",
-      "https://yui.dev/blog/minesweeper-in-247-bytes"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 13:55:09",
       "https://lobste.rs/s/ikzvtv/switching_password_managers_2026"
     ],
@@ -137,16 +177,6 @@
     [
       "How to get a free .arpa domain",
       "https://hawksley.dev/blog/get-free-arpa-domain"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 07:49:09",
-      "https://lobste.rs/s/bzwyib/antiquated_html_snippets_artefacts"
-    ],
-    [
-      "Antiquated HTML Snippets and Artefacts",
-      "https://vale.rocks/posts/html-relics"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-09-08, 04:05:34",
-      "https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate"
-    ],
-    [
-      "I’ve factored the RSA keys of a Certificate Authority…from the 90s",
-      "https://mcpherrin.ca/2026/09/07/rsa.html"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 03:27:24",
       "https://lobste.rs/s/aepn8g/my_nix_config_is_intimate"
     ],
@@ -227,26 +247,6 @@
     [
       "Jellyfin 12.0",
       "https://jellyfin.org/posts/jellyfin-release-12.0"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 02:55:30",
-      "https://lobste.rs/s/sukgeg/emacs_bedrock_2_0_released"
-    ],
-    [
-      "Emacs Bedrock 2.0 Released",
-      "https://lambdaland.org/posts/2026-09-06-bedrock-v2/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 10:27:56",
-      "https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec"
-    ],
-    [
-      "A faster way to convert a timestamp to Hour, Min, Sec",
-      "https://www.benjoffe.com/fast-time-of-day"
     ]
   ]
 ]
