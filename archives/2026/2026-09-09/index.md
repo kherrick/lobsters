@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-09](index.md)
 
+* [2026-09-09, 18:31:44](https://lobste.rs/s/tiltfq/id_design_primary_keys) - [ID design and primary keys](https://anchorsandlinks.com/posts/primary-keys/)
+* [2026-09-09, 18:27:24](https://lobste.rs/s/o9cyiv/better_ai_code_comment_detector) - [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
+* [2026-09-09, 17:18:32](https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic) - [I Don’t Want to Interact With Stochastic Parrots](https://ploum.net/2026-09-09-ai_policy.html)
+* [2026-09-09, 16:54:31](https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026) - [Apple Event for September 9th, 2026](https://www.apple.com/apple-events/event-stream/)
+* [2026-09-09, 16:06:05](https://lobste.rs/s/uiyfpl/every_millisecond_counts) - [Every Millisecond Counts](https://jordivillar.com/blog/every-millisecond-counts)
+* [2026-09-09, 16:02:54](https://lobste.rs/s/wdwg2b/email_decoupled_from_where_how_cross) - [Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS](https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how)
+* [2026-09-09, 15:22:32](https://lobste.rs/s/rghafd/design_space_exploration_async_await) - [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
 * [2026-09-09, 15:06:09](https://lobste.rs/s/ml3mgf/why_is_this_robot_slowly_dropping_object) - [Why is this robot slowly dropping the object?](https://youtu.be/DqMjxcfm4Ek)
 * [2026-09-09, 13:32:22](https://lobste.rs/s/veafpx/purpose_dns_is_spread_scams) - [The purpose of DNS is to spread scams](https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/)
 * [2026-09-09, 13:24:26](https://lobste.rs/s/td6ssk/analysing_2048_on_3x3_board) - [Analysing 2048 on a 3×3 board](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/)
