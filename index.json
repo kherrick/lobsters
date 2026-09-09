@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-09, 05:22:01",
+      "https://lobste.rs/s/mbzhlq/patchwork_26_malleable_collaborative"
+    ],
+    [
+      "Patchwork-26: A malleable, collaborative, local-first workspace",
+      "https://youtu.be/4UxGijnuXEs"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 01:56:40",
+      "https://lobste.rs/s/8mgfan/software_for_humans"
+    ],
+    [
+      "software for humans",
+      "https://clankerfree.org"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 01:13:32",
+      "https://lobste.rs/s/biulze/sloc_cloc_code_did_i_just_get_buster"
+    ],
+    [
+      "Sloc Cloc and Code - Did I just get Buster Scrugged?",
+      "https://boyter.org/posts/did-i-just-get-buster-scrugged/"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 21:39:21",
       "https://lobste.rs/s/pxreik/how_build_f_king_printer"
     ],
@@ -37,16 +67,6 @@
     [
       "Reverse engineering my e-scooter and rewriting the firmware in rust",
       "https://bensimms.moe/reverse-engineering-scooter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 21:00:36",
-      "https://lobste.rs/s/yj9kx4/opennmc_is_open_replacement_for"
-    ],
-    [
-      "OpenNMC is an open replacement for expensive APC management cards",
-      "https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-09-08, 06:36:44",
-      "https://lobste.rs/s/mfhss4/type_inference_has_usability_problems"
-    ],
-    [
-      "Type inference has usability problems (2019)",
-      "https://austinhenley.com/blog/typeinference.html"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 05:24:42",
       "https://lobste.rs/s/npyzwy/this_month_ladybird_august_2026"
     ],
@@ -227,16 +237,6 @@
     [
       "Emacs Bedrock 2.0 Released",
       "https://lambdaland.org/posts/2026-09-06-bedrock-v2/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 10:53:12",
-      "https://lobste.rs/s/vdalin/shortest_ipv6_addresses"
-    ],
-    [
-      "The shortest IPv6 addresses",
-      "https://ache.one/notes/vanity-ipv6"
     ]
   ],
   [
