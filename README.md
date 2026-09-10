@@ -1,8 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-10, 19:40:27](https://lobste.rs/s/y3teyg/gleam_gathering_2027) - [Gleam Gathering 2027](https://gleamgathering.com/)
 * [2026-09-10, 17:44:27](https://lobste.rs/s/ez6ivp/what_comes_after_git) - [What comes after git](https://ersc.io/blog/what-comes-after-git)
+* [2026-09-10, 17:40:19](https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug) - [Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
+* [2026-09-10, 17:31:26](https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation) - [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
 * [2026-09-10, 17:04:10](https://lobste.rs/s/bsvc7a/it_s_not_yaml_spec_s_fault) - [It's not the YAML spec's fault, but](https://slugcat.systems/post/26-09-10-yaml-spec/)
 * [2026-09-10, 16:48:33](https://lobste.rs/s/nbmbxj/conversations_with_jj) - [Conversations with JJ](https://laurmaedje.github.io/posts/jj/)
+* [2026-09-10, 16:30:14](https://lobste.rs/s/39c9xe/making_social_media_social) - [Making Social Media Social](https://tante.cc/2026/09/10/making-social-media-social/)
 * [2026-09-10, 16:13:28](https://lobste.rs/s/6tcc4t/my_html_boilerplate) - [My HTML Boilerplate](https://vale.rocks/posts/html-boilerplate)
 * [2026-09-10, 15:48:37](https://lobste.rs/s/izt4a2/what_algorithm_did_windows_xp_use_choose) - [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
 * [2026-09-10, 15:46:32](https://lobste.rs/s/ol8vsp/terrible_menu_bar_windows_11_notepad) - [The terrible menu bar in the Windows 11 Notepad](https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/)
@@ -16,15 +20,11 @@
 * [2026-09-10, 10:44:09](https://lobste.rs/s/dfby97/decoding_nec_v20_microcode) - [Decoding the NEC V20 Microcode](https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html)
 * [2026-09-10, 10:38:37](https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday) - [It Breaks a Village: Bevy's 6th Birthday](https://blog.fallible.net/it-breaks-a-village/)
 * [2026-09-10, 03:44:20](https://lobste.rs/s/26liff/some_mostly_historical_issues_with_unix) - [Some (mostly historical) issues with the Unix load average](https://utcc.utoronto.ca/~cks/space/blog/unix/LoadAverageHistoricalIssues)
-* [2026-09-10, 00:48:47](https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs) - [SystemIO conflicts are not firmware bugs](https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/)
 * [2026-09-10, 00:32:35](https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it) - [Review a pull request by booting it](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it)
 * [2026-09-09, 18:31:44](https://lobste.rs/s/tiltfq/id_design_primary_keys) - [ID design and primary keys](https://anchorsandlinks.com/posts/primary-keys/)
 * [2026-09-09, 17:18:32](https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic) - [I Don’t Want to Interact With Stochastic Parrots](https://ploum.net/2026-09-09-ai_policy.html)
 * [2026-09-09, 16:54:31](https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026) - [Apple Event for September 9th, 2026](https://www.apple.com/apple-events/event-stream/)
 * [2026-09-09, 15:22:32](https://lobste.rs/s/rghafd/design_space_exploration_async_await) - [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
-* [2026-09-09, 13:32:22](https://lobste.rs/s/veafpx/purpose_dns_is_spread_scams) - [The purpose of DNS is to spread scams](https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/)
-* [2026-09-09, 11:13:13](https://lobste.rs/s/zffgb8/decade_rustls) - [A decade of rustls](https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/)
-* [2026-09-08, 21:39:21](https://lobste.rs/s/pxreik/how_build_f_king_printer) - [How to build a f**king printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
 
 ## [Archives](archives/index.md)
 

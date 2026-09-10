@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-10](index.md)
 
+* [2026-09-10, 19:40:27](https://lobste.rs/s/y3teyg/gleam_gathering_2027) - [Gleam Gathering 2027](https://gleamgathering.com/)
 * [2026-09-10, 17:44:27](https://lobste.rs/s/ez6ivp/what_comes_after_git) - [What comes after git](https://ersc.io/blog/what-comes-after-git)
+* [2026-09-10, 17:40:19](https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug) - [Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
+* [2026-09-10, 17:31:26](https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation) - [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
 * [2026-09-10, 17:04:10](https://lobste.rs/s/bsvc7a/it_s_not_yaml_spec_s_fault) - [It's not the YAML spec's fault, but](https://slugcat.systems/post/26-09-10-yaml-spec/)
 * [2026-09-10, 16:48:33](https://lobste.rs/s/nbmbxj/conversations_with_jj) - [Conversations with JJ](https://laurmaedje.github.io/posts/jj/)
+* [2026-09-10, 16:30:14](https://lobste.rs/s/39c9xe/making_social_media_social) - [Making Social Media Social](https://tante.cc/2026/09/10/making-social-media-social/)
 * [2026-09-10, 16:13:28](https://lobste.rs/s/6tcc4t/my_html_boilerplate) - [My HTML Boilerplate](https://vale.rocks/posts/html-boilerplate)
 * [2026-09-10, 15:48:37](https://lobste.rs/s/izt4a2/what_algorithm_did_windows_xp_use_choose) - [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
 * [2026-09-10, 15:46:32](https://lobste.rs/s/ol8vsp/terrible_menu_bar_windows_11_notepad) - [The terrible menu bar in the Windows 11 Notepad](https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/)
