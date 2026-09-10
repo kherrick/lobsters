@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-09-10](index.md)
 
+* [2026-09-10, 17:44:27](https://lobste.rs/s/ez6ivp/what_comes_after_git) - [What comes after git](https://ersc.io/blog/what-comes-after-git)
+* [2026-09-10, 17:04:10](https://lobste.rs/s/bsvc7a/it_s_not_yaml_spec_s_fault) - [It's not the YAML spec's fault, but](https://slugcat.systems/post/26-09-10-yaml-spec/)
+* [2026-09-10, 16:48:33](https://lobste.rs/s/nbmbxj/conversations_with_jj) - [Conversations with JJ](https://laurmaedje.github.io/posts/jj/)
+* [2026-09-10, 16:13:28](https://lobste.rs/s/6tcc4t/my_html_boilerplate) - [My HTML Boilerplate](https://vale.rocks/posts/html-boilerplate)
+* [2026-09-10, 15:48:37](https://lobste.rs/s/izt4a2/what_algorithm_did_windows_xp_use_choose) - [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+* [2026-09-10, 15:46:32](https://lobste.rs/s/ol8vsp/terrible_menu_bar_windows_11_notepad) - [The terrible menu bar in the Windows 11 Notepad](https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/)
+* [2026-09-10, 15:19:38](https://lobste.rs/s/l3enhd/native_is_now_future_mobile_at_shopify) - [Native is now the future of mobile at Shopify (2026)](https://shopify.engineering/back-to-native)
+* [2026-09-10, 15:14:48](https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault) - [A rant about phishing: It's not the user's fault (and not DNS either)](https://maurycyz.com/misc/domains/)
+* [2026-09-10, 15:05:43](https://lobste.rs/s/aiikt1/xteink_x4_pro_review) - [Xteink X4 Pro review](https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/)
+* [2026-09-10, 15:04:46](https://lobste.rs/s/ifvdvx/bad_vibes_coding) - [Bad Vibes Coding](https://spectrecollie.com/2026/09/05/bad-vibes-coding/)
+* [2026-09-10, 14:59:03](https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable) - [How CHERIoT Provides Strong and Usable Isolation Without an MMU](https://queue.acm.org/doi/10.1145/3831361)
 * [2026-09-10, 13:40:19](https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft) - [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
 * [2026-09-10, 12:30:44](https://lobste.rs/s/qwbyxh/package_manager_trends) - [Package Manager Trends](https://nesbitt.io/2026/09/10/package-manager-trends.html)
 * [2026-09-10, 11:45:49](https://lobste.rs/s/vkxhni/announcing_first_guix_science_release) - [Announcing the first Guix-Science release](https://hpc.guix.info/blog/2026/09/guix-science-first-release/)
