@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-10, 03:44:20](https://lobste.rs/s/26liff/some_mostly_historical_issues_with_unix) - [Some (mostly historical) issues with the Unix load average](https://utcc.utoronto.ca/~cks/space/blog/unix/LoadAverageHistoricalIssues)
+* [2026-09-10, 00:48:47](https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs) - [SystemIO conflicts are not firmware bugs](https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/)
 * [2026-09-10, 00:32:35](https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it) - [Review a pull request by booting it](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it)
 * [2026-09-09, 20:38:35](https://lobste.rs/s/v8atna/efficient_accurate_systems_for_querying) - [Efficient and accurate systems for querying unstructured data](https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf)
+* [2026-09-09, 20:26:56](https://lobste.rs/s/vjds7h/bulk_abuseipdb_reporting_using_command) - [Bulk AbuseIPDB reporting using command-line tools](https://blog.mbirth.uk/2026/08/30/bulk-abuseipdb-reporting-using-command-line-tools.html)
 * [2026-09-09, 18:31:44](https://lobste.rs/s/tiltfq/id_design_primary_keys) - [ID design and primary keys](https://anchorsandlinks.com/posts/primary-keys/)
 * [2026-09-09, 18:27:24](https://lobste.rs/s/o9cyiv/better_ai_code_comment_detector) - [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
 * [2026-09-09, 17:18:32](https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic) - [I Don’t Want to Interact With Stochastic Parrots](https://ploum.net/2026-09-09-ai_policy.html)
@@ -13,7 +16,6 @@
 * [2026-09-09, 13:24:26](https://lobste.rs/s/td6ssk/analysing_2048_on_3x3_board) - [Analysing 2048 on a 3×3 board](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/)
 * [2026-09-09, 13:21:19](https://lobste.rs/s/mlqqpn/introducing_cuda_rust_two_tracks_for) - [Introducing CUDA Rust: Two Tracks for Writing GPU Kernels](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 * [2026-09-09, 13:09:45](https://lobste.rs/s/ffvipw/why_emacs_consult_async_searches_feel) - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
-* [2026-09-09, 12:53:21](https://lobste.rs/s/lxiabq/benchmarking_qwen3_8_27b_quantizations_4) - [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
 * [2026-09-09, 11:13:13](https://lobste.rs/s/zffgb8/decade_rustls) - [A decade of rustls](https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/)
 * [2026-09-09, 08:14:25](https://lobste.rs/s/wrt9wm/solaris_turnstiles) - [Solaris Turnstiles](https://rdmsr.github.io/writing/turnstiles/)
 * [2026-09-09, 06:43:42](https://lobste.rs/s/9tck4q/state_allocators_2026_6_months_later) - [The State of Allocators in 2026 - 6 Months Later](https://cetra3.github.io/blog/state-of-allocators-2026-part-2/)
@@ -22,8 +24,6 @@
 * [2026-09-08, 21:23:18](https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom) - [Rust: When Empty Isn't Bottom](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html)
 * [2026-09-08, 21:03:22](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter) - [Reverse engineering my e-scooter and rewriting the firmware in rust](https://bensimms.moe/reverse-engineering-scooter/)
 * [2026-09-08, 13:55:09](https://lobste.rs/s/ikzvtv/switching_password_managers_2026) - [Switching Password Managers in 2026](https://rmondello.com/2026/09/07/switching-password-managers-2026/)
-* [2026-09-08, 10:54:57](https://lobste.rs/s/tprfej/extreme_server_side_rendering) - [Extreme Server Side Rendering](https://www.scd31.com/posts/extreme-server-side-rendering)
-* [2026-09-08, 07:20:16](https://lobste.rs/s/6licoy/state_european_cloud_providers_2026) - [The state of European cloud providers in 2026](https://crescentro.se/posts/euro-cloud-providers-2026/)
 * [2026-09-08, 04:17:11](https://lobste.rs/s/4ntizu/i_changed_my_license_eupl) - [I changed my license to EUPL](https://bergie.iki.fi/blog/eupl/)
 
 ## [Archives](archives/index.md)
