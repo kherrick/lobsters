@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-10, 09:06:21](https://lobste.rs/s/hdgysn/knowledge_retention_sharing_df_ir) - [Knowledge Retention & Sharing in DF/IR](http://windowsir.blogspot.com/2026/09/knowledge-retention-sharing-in-dfir.html)
+* [2026-09-10, 08:15:49](https://lobste.rs/s/llyiig/absolutely_everything_you_always_wanted) - [Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink](https://developer.confluent.io/blog/all-about-flink-watermarks-1/)
+* [2026-09-10, 07:41:22](https://lobste.rs/s/oclcr7/how_avoid_correctness_space_leaks_on_lazy) - [How to avoid correctness space leaks on a lazy setting in Haskell (2023)](https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html)
 * [2026-09-10, 03:44:20](https://lobste.rs/s/26liff/some_mostly_historical_issues_with_unix) - [Some (mostly historical) issues with the Unix load average](https://utcc.utoronto.ca/~cks/space/blog/unix/LoadAverageHistoricalIssues)
 * [2026-09-10, 00:48:47](https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs) - [SystemIO conflicts are not firmware bugs](https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/)
 * [2026-09-10, 00:32:35](https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it) - [Review a pull request by booting it](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it)
-* [2026-09-09, 20:38:35](https://lobste.rs/s/v8atna/efficient_accurate_systems_for_querying) - [Efficient and accurate systems for querying unstructured data](https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf)
-* [2026-09-09, 20:26:56](https://lobste.rs/s/vjds7h/bulk_abuseipdb_reporting_using_command) - [Bulk AbuseIPDB reporting using command-line tools](https://blog.mbirth.uk/2026/08/30/bulk-abuseipdb-reporting-using-command-line-tools.html)
 * [2026-09-09, 18:31:44](https://lobste.rs/s/tiltfq/id_design_primary_keys) - [ID design and primary keys](https://anchorsandlinks.com/posts/primary-keys/)
 * [2026-09-09, 18:27:24](https://lobste.rs/s/o9cyiv/better_ai_code_comment_detector) - [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
 * [2026-09-09, 17:18:32](https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic) - [I Don’t Want to Interact With Stochastic Parrots](https://ploum.net/2026-09-09-ai_policy.html)
@@ -24,7 +25,6 @@
 * [2026-09-08, 21:23:18](https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom) - [Rust: When Empty Isn't Bottom](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html)
 * [2026-09-08, 21:03:22](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter) - [Reverse engineering my e-scooter and rewriting the firmware in rust](https://bensimms.moe/reverse-engineering-scooter/)
 * [2026-09-08, 13:55:09](https://lobste.rs/s/ikzvtv/switching_password_managers_2026) - [Switching Password Managers in 2026](https://rmondello.com/2026/09/07/switching-password-managers-2026/)
-* [2026-09-08, 04:17:11](https://lobste.rs/s/4ntizu/i_changed_my_license_eupl) - [I changed my license to EUPL](https://bergie.iki.fi/blog/eupl/)
 
 ## [Archives](archives/index.md)
 
