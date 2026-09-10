@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-10](index.md)
+
+* [2026-09-10, 00:32:35](https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it) - [Review a pull request by booting it](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it)
