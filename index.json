@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-09-10, 09:06:21",
-      "https://lobste.rs/s/hdgysn/knowledge_retention_sharing_df_ir"
+      "2026-09-10, 13:40:19",
+      "https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft"
     ],
     [
-      "Knowledge Retention & Sharing in DF/IR",
-      "http://windowsir.blogspot.com/2026/09/knowledge-retention-sharing-in-dfir.html"
+      "Rust Is Tier-1 Language at Microsoft",
+      "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 12:30:44",
+      "https://lobste.rs/s/qwbyxh/package_manager_trends"
+    ],
+    [
+      "Package Manager Trends",
+      "https://nesbitt.io/2026/09/10/package-manager-trends.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 11:45:49",
+      "https://lobste.rs/s/vkxhni/announcing_first_guix_science_release"
+    ],
+    [
+      "Announcing the first Guix-Science release",
+      "https://hpc.guix.info/blog/2026/09/guix-science-first-release/"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 10:44:09",
+      "https://lobste.rs/s/dfby97/decoding_nec_v20_microcode"
+    ],
+    [
+      "Decoding the NEC V20 Microcode",
+      "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 10:38:37",
+      "https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"
+    ],
+    [
+      "It Breaks a Village: Bevy's 6th Birthday",
+      "https://blog.fallible.net/it-breaks-a-village/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-09-09, 16:02:54",
-      "https://lobste.rs/s/wdwg2b/email_decoupled_from_where_how_cross"
-    ],
-    [
-      "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS",
-      "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 15:22:32",
       "https://lobste.rs/s/rghafd/design_space_exploration_async_await"
     ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2026-09-09, 06:43:42",
-      "https://lobste.rs/s/9tck4q/state_allocators_2026_6_months_later"
-    ],
-    [
-      "The State of Allocators in 2026 - 6 Months Later",
-      "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 04:13:05",
-      "https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function"
-    ],
-    [
-      "Why Function Arguments Are Not Function Colors",
-      "https://jerf.org/iri/post/2026/func_args_are_not_colors/"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 21:39:21",
       "https://lobste.rs/s/pxreik/how_build_f_king_printer"
     ],
     [
       "How to build a f**king printer",
       "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 21:23:18",
-      "https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom"
-    ],
-    [
-      "Rust: When Empty Isn't Bottom",
-      "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html"
     ]
   ],
   [
