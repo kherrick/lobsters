@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-09-11, 00:04:53",
+      "https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using"
+    ],
+    [
+      "An untrusted site can freeze a Mac using WebGPU",
+      "https://auberon.xyz/blog/posts/deathray/"
+    ]
+  ],
+  [
+    [
       "2026-09-10, 21:59:16",
       "https://lobste.rs/s/u7dr96/soft_deprecating_re_match"
     ],
@@ -17,6 +27,26 @@
     [
       "Fastly Speedtest Test",
       "https://speed.edgecompute.app/"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 21:07:36",
+      "https://lobste.rs/s/kpwrwb/phlex_hanami_v0_2_0"
+    ],
+    [
+      "phlex-hanami v0.2.0",
+      "https://github.com/aaronmallen/phlex-hanami/releases/tag/0.2.0"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 20:34:57",
+      "https://lobste.rs/s/khpkda/optimizing_spin_lock"
+    ],
+    [
+      "Optimizing a Spin-Lock",
+      "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-09-10, 15:04:46",
-      "https://lobste.rs/s/ifvdvx/bad_vibes_coding"
-    ],
-    [
-      "Bad Vibes Coding",
-      "https://spectrecollie.com/2026/09/05/bad-vibes-coding/"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 14:59:03",
       "https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-09-10, 10:44:09",
-      "https://lobste.rs/s/dfby97/decoding_nec_v20_microcode"
-    ],
-    [
-      "Decoding the NEC V20 Microcode",
-      "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 10:38:37",
       "https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"
     ],
@@ -227,16 +237,6 @@
     [
       "Review a pull request by booting it",
       "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 18:31:44",
-      "https://lobste.rs/s/tiltfq/id_design_primary_keys"
-    ],
-    [
-      "ID design and primary keys",
-      "https://anchorsandlinks.com/posts/primary-keys/"
     ]
   ],
   [
