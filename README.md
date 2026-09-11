@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-11, 12:33:20](https://lobste.rs/s/7guove/feeling_sad_about_ai) - [Feeling sad about AI](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
+* [2026-09-11, 08:06:09](https://lobste.rs/s/5nmyv0/reverse_engineering_asic) - [Reverse engineering an ASIC](https://kjartanvandriel.github.io/asic/)
 * [2026-09-11, 03:37:10](https://lobste.rs/s/0i492m/models_don_t_go_rogue) - [Models Don't Go Rogue](https://mail.cyberneticforests.com/models-dont-go-rogue/)
 * [2026-09-11, 01:04:25](https://lobste.rs/s/mfx8ja/diffos_is_for_freedom) - [DiffOS is For Freedom](https://www.diffos.org/)
 * [2026-09-11, 00:04:53](https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using) - [An untrusted site can freeze a Mac using WebGPU](https://auberon.xyz/blog/posts/deathray/)
@@ -21,10 +23,8 @@
 * [2026-09-10, 15:05:43](https://lobste.rs/s/aiikt1/xteink_x4_pro_review) - [Xteink X4 Pro review](https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/)
 * [2026-09-10, 14:59:03](https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable) - [How CHERIoT Provides Strong and Usable Isolation Without an MMU](https://queue.acm.org/doi/10.1145/3831361)
 * [2026-09-10, 13:40:19](https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft) - [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
-* [2026-09-10, 11:45:49](https://lobste.rs/s/vkxhni/announcing_first_guix_science_release) - [Announcing the first Guix-Science release](https://hpc.guix.info/blog/2026/09/guix-science-first-release/)
 * [2026-09-10, 10:38:37](https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday) - [It Breaks a Village: Bevy's 6th Birthday](https://blog.fallible.net/it-breaks-a-village/)
 * [2026-09-10, 00:32:35](https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it) - [Review a pull request by booting it](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it)
-* [2026-09-09, 16:54:31](https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026) - [Apple Event for September 9th, 2026](https://www.apple.com/apple-events/event-stream/)
 
 ## [Archives](archives/index.md)
 
