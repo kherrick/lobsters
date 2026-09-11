@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-11](index.md)
 
+* [2026-09-11, 15:41:04](https://lobste.rs/s/fjljdg/everything_is_trust_decision) - [Everything is a Trust Decision](https://nrd.sh/blog/everything-is-a-trust-decision.html)
+* [2026-09-11, 14:23:46](https://lobste.rs/s/be7tgu/power_grab) - [Power grab](https://tante.cc/2026/09/11/power-grab/)
+* [2026-09-11, 13:50:19](https://lobste.rs/s/b6oxoj/bastion_turbofish) - [Bastion of the Turbofish](https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs)
+* [2026-09-11, 12:59:46](https://lobste.rs/s/cegf7n/evergarden) - [evergarden](https://evergarden.moe/)
 * [2026-09-11, 12:33:20](https://lobste.rs/s/7guove/feeling_sad_about_ai) - [Feeling sad about AI](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
 * [2026-09-11, 08:06:09](https://lobste.rs/s/5nmyv0/reverse_engineering_asic) - [Reverse engineering an ASIC](https://kjartanvandriel.github.io/asic/)
 * [2026-09-11, 03:37:10](https://lobste.rs/s/0i492m/models_don_t_go_rogue) - [Models Don't Go Rogue](https://mail.cyberneticforests.com/models-dont-go-rogue/)
