@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-11, 15:41:04",
+      "https://lobste.rs/s/fjljdg/everything_is_trust_decision"
+    ],
+    [
+      "Everything is a Trust Decision",
+      "https://nrd.sh/blog/everything-is-a-trust-decision.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 14:23:46",
+      "https://lobste.rs/s/be7tgu/power_grab"
+    ],
+    [
+      "Power grab",
+      "https://tante.cc/2026/09/11/power-grab/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 13:50:19",
+      "https://lobste.rs/s/b6oxoj/bastion_turbofish"
+    ],
+    [
+      "Bastion of the Turbofish",
+      "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 12:59:46",
+      "https://lobste.rs/s/cegf7n/evergarden"
+    ],
+    [
+      "evergarden",
+      "https://evergarden.moe/"
+    ]
+  ],
+  [
+    [
       "2026-09-11, 12:33:20",
       "https://lobste.rs/s/7guove/feeling_sad_about_ai"
     ],
@@ -27,16 +67,6 @@
     [
       "Models Don't Go Rogue",
       "https://mail.cyberneticforests.com/models-dont-go-rogue/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 01:04:25",
-      "https://lobste.rs/s/mfx8ja/diffos_is_for_freedom"
-    ],
-    [
-      "DiffOS is For Freedom",
-      "https://www.diffos.org/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-09-10, 17:31:26",
-      "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation"
-    ],
-    [
-      "JEP 544: Ahead-of-Time Code Compilation",
-      "https://openjdk.org/jeps/544"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 17:04:10",
       "https://lobste.rs/s/bsvc7a/it_s_not_yaml_spec_s_fault"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-09-10, 16:30:14",
-      "https://lobste.rs/s/39c9xe/making_social_media_social"
-    ],
-    [
-      "Making Social Media Social",
-      "https://tante.cc/2026/09/10/making-social-media-social/"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 16:13:28",
       "https://lobste.rs/s/6tcc4t/my_html_boilerplate"
     ],
@@ -167,16 +177,6 @@
     [
       "What algorithm did Windows XP use to choose your initial user picture?",
       "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 15:46:32",
-      "https://lobste.rs/s/ol8vsp/terrible_menu_bar_windows_11_notepad"
-    ],
-    [
-      "The terrible menu bar in the Windows 11 Notepad",
-      "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/"
     ]
   ],
   [
