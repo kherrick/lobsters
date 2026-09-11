@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-10](index.md)
 
+* [2026-09-10, 21:59:16](https://lobste.rs/s/u7dr96/soft_deprecating_re_match) - [Soft-deprecating re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/)
 * [2026-09-10, 21:58:12](https://lobste.rs/s/twkkac/fastly_speedtest_test) - [Fastly Speedtest Test](https://speed.edgecompute.app/)
 * [2026-09-10, 19:40:27](https://lobste.rs/s/y3teyg/gleam_gathering_2027) - [Gleam Gathering 2027](https://gleamgathering.com/)
 * [2026-09-10, 17:44:27](https://lobste.rs/s/ez6ivp/what_comes_after_git) - [What comes after git](https://ersc.io/blog/what-comes-after-git)

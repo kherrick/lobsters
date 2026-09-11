@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-10, 21:59:16](https://lobste.rs/s/u7dr96/soft_deprecating_re_match) - [Soft-deprecating re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/)
 * [2026-09-10, 21:58:12](https://lobste.rs/s/twkkac/fastly_speedtest_test) - [Fastly Speedtest Test](https://speed.edgecompute.app/)
 * [2026-09-10, 19:40:27](https://lobste.rs/s/y3teyg/gleam_gathering_2027) - [Gleam Gathering 2027](https://gleamgathering.com/)
 * [2026-09-10, 17:44:27](https://lobste.rs/s/ez6ivp/what_comes_after_git) - [What comes after git](https://ersc.io/blog/what-comes-after-git)
@@ -24,7 +25,6 @@
 * [2026-09-10, 00:32:35](https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it) - [Review a pull request by booting it](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it)
 * [2026-09-09, 18:31:44](https://lobste.rs/s/tiltfq/id_design_primary_keys) - [ID design and primary keys](https://anchorsandlinks.com/posts/primary-keys/)
 * [2026-09-09, 16:54:31](https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026) - [Apple Event for September 9th, 2026](https://www.apple.com/apple-events/event-stream/)
-* [2026-09-09, 15:22:32](https://lobste.rs/s/rghafd/design_space_exploration_async_await) - [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
 
 ## [Archives](archives/index.md)
 
