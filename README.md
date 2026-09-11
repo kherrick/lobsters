@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-09-11, 19:09:22](https://lobste.rs/s/oossfd/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://mathandai.org/)
+* [2026-09-11, 19:03:30](https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
 * [2026-09-11, 17:08:11](https://lobste.rs/s/wxc7t7/measuring_sloppiness_code) - [Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/)
 * [2026-09-11, 16:40:41](https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend)
 * [2026-09-11, 16:35:40](https://lobste.rs/s/mcioou/chipass_release_2026_09_0) - [ChiPass Release 2026.09.0](https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0)
-* [2026-09-11, 15:41:04](https://lobste.rs/s/fjljdg/everything_is_trust_decision) - [Everything is a Trust Decision](https://nrd.sh/blog/everything-is-a-trust-decision.html)
 * [2026-09-11, 14:23:46](https://lobste.rs/s/be7tgu/power_grab) - [Power grab](https://tante.cc/2026/09/11/power-grab/)
 * [2026-09-11, 13:50:19](https://lobste.rs/s/b6oxoj/bastion_turbofish) - [Bastion of the Turbofish](https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs)
 * [2026-09-11, 12:59:46](https://lobste.rs/s/cegf7n/evergarden) - [evergarden](https://evergarden.moe/)

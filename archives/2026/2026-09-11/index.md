@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-11](index.md)
 
 * [2026-09-11, 19:09:22](https://lobste.rs/s/oossfd/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://mathandai.org/)
+* [2026-09-11, 19:03:30](https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
 * [2026-09-11, 17:08:11](https://lobste.rs/s/wxc7t7/measuring_sloppiness_code) - [Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/)
 * [2026-09-11, 16:40:41](https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend)
 * [2026-09-11, 16:35:40](https://lobste.rs/s/mcioou/chipass_release_2026_09_0) - [ChiPass Release 2026.09.0](https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0)
