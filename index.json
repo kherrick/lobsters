@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-09-10, 21:59:16",
+      "https://lobste.rs/s/u7dr96/soft_deprecating_re_match"
+    ],
+    [
+      "Soft-deprecating re.match()",
+      "https://hugovk.dev/blog/2026/soft-deprecating-re.match/"
+    ]
+  ],
+  [
+    [
       "2026-09-10, 21:58:12",
       "https://lobste.rs/s/twkkac/fastly_speedtest_test"
     ],
@@ -237,16 +247,6 @@
     [
       "Apple Event for September 9th, 2026",
       "https://www.apple.com/apple-events/event-stream/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 15:22:32",
-      "https://lobste.rs/s/rghafd/design_space_exploration_async_await"
-    ],
-    [
-      "A Design Space Exploration of Async/Await",
-      "https://cel.cs.brown.edu/blog/design-space-async-await/"
     ]
   ]
 ]
