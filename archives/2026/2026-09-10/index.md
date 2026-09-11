@@ -6,6 +6,8 @@
 
 * [2026-09-10, 21:59:16](https://lobste.rs/s/u7dr96/soft_deprecating_re_match) - [Soft-deprecating re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/)
 * [2026-09-10, 21:58:12](https://lobste.rs/s/twkkac/fastly_speedtest_test) - [Fastly Speedtest Test](https://speed.edgecompute.app/)
+* [2026-09-10, 21:07:36](https://lobste.rs/s/kpwrwb/phlex_hanami_v0_2_0) - [phlex-hanami v0.2.0](https://github.com/aaronmallen/phlex-hanami/releases/tag/0.2.0)
+* [2026-09-10, 20:34:57](https://lobste.rs/s/khpkda/optimizing_spin_lock) - [Optimizing a Spin-Lock](https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/)
 * [2026-09-10, 19:40:27](https://lobste.rs/s/y3teyg/gleam_gathering_2027) - [Gleam Gathering 2027](https://gleamgathering.com/)
 * [2026-09-10, 17:44:27](https://lobste.rs/s/ez6ivp/what_comes_after_git) - [What comes after git](https://ersc.io/blog/what-comes-after-git)
 * [2026-09-10, 17:40:19](https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug) - [Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)

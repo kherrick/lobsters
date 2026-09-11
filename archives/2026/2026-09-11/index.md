@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-11](index.md)
+
+* [2026-09-11, 00:04:53](https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using) - [An untrusted site can freeze a Mac using WebGPU](https://auberon.xyz/blog/posts/deathray/)
