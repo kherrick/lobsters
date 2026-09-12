@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 17:24:59](https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible) - [The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026)
+* [2026-09-12, 17:03:42](https://lobste.rs/s/cmgzlj/is_truth_futureproof_on_possible_futures) - [Is truth futureproof? On the possible futures of mechanized proofs](https://khoury.northeastern.edu/~cmartens/papers/plateau26-itfp.pdf)
+* [2026-09-12, 16:04:06](https://lobste.rs/s/oh5hqw/logo_programming_language) - [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
+* [2026-09-12, 15:56:54](https://lobste.rs/s/ub8q3s/useful_things_agents_can_do_are_not) - [Useful Things Agents Can Do That Are Not Writing Code](https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code)
+* [2026-09-12, 15:39:00](https://lobste.rs/s/o6rlho/xkcd_font_xkcd_font) - [xkcd-font: The xkcd font](https://github.com/ipython/xkcd-font)
 * [2026-09-12, 15:18:31](https://lobste.rs/s/pwoxht/why_do_companies_stop_using_haskell) - [Why do companies stop using Haskell?](https://www.youtube.com/watch?v=2PebXEak24M)
 * [2026-09-12, 15:12:38](https://lobste.rs/s/yapebh/ice_always_tastes_better_when_it_trickles) - [ICE always tastes better when it trickles! (2013)](https://webrtchacks.com/trickle-ice/)
 * [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_profiler_understand_bun_s) - [I made a build profiler to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 14:38:51](https://lobste.rs/s/bfiose/base84_deserves_place_file_names) - [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
+* [2026-09-12, 14:35:49](https://lobste.rs/s/zuhv4b/dario_amodei_we_must_pace_frontier) - [Dario Amodei —We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
 * [2026-09-12, 14:14:24](https://lobste.rs/s/oz5ju3/solod_0_4_better_c_interop) - [Solod 0.4: Better C interop](https://antonz.org/solod-0.4/)
 * [2026-09-12, 12:38:53](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11) - [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 * [2026-09-12, 11:59:21](https://lobste.rs/s/yhfmtx/fresh_terminal_based_ide_text_editor_easy) - [fresh: Terminal based IDE & text editor: easy, powerful and fast](https://github.com/sinelaw/fresh)
