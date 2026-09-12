@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-09-12, 04:23:08",
+      "https://lobste.rs/s/imdwmj/pandas_should_go_extinct"
+    ],
+    [
+      "Pandas Should Go Extinct",
+      "https://eddie.codes/posts/pandas-should-go-extinct/"
+    ]
+  ],
+  [
+    [
       "2026-09-11, 23:41:50",
       "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"
     ],
     [
       "OpenAI agents carried out an undisclosed attack on RubyGems",
       "https://www.rubyhack.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 23:06:30",
+      "https://lobste.rs/s/esgot3/tutorial_for_septabee_free_daw_making_for"
+    ],
+    [
+      "Tutorial for Septabee, a free DAW in the making for over 20,000 hours",
+      "https://www.youtube.com/watch?v=lW8Z98pXuSE"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-09-10, 20:34:57",
-      "https://lobste.rs/s/khpkda/optimizing_spin_lock"
-    ],
-    [
-      "Optimizing a Spin-Lock",
-      "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 19:40:27",
       "https://lobste.rs/s/y3teyg/gleam_gathering_2027"
     ],
@@ -227,16 +237,6 @@
     [
       "Xteink X4 Pro review",
       "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 14:59:03",
-      "https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable"
-    ],
-    [
-      "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
-      "https://queue.acm.org/doi/10.1145/3831361"
     ]
   ],
   [
