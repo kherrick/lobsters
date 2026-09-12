@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-09-12, 20:55:56",
+      "https://lobste.rs/s/6xdgjr/microcode_intel_s_8087_floating_point"
+    ],
+    [
+      "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html"
+    ]
+  ],
+  [
+    [
       "2026-09-12, 20:29:09",
       "https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by"
     ],
@@ -112,10 +122,10 @@
   [
     [
       "2026-09-12, 14:35:49",
-      "https://lobste.rs/s/zuhv4b/dario_amodei_we_must_pace_frontier"
+      "https://lobste.rs/s/zuhv4b/we_must_pace_frontier"
     ],
     [
-      "Dario Amodei —We Must Pace the Frontier",
+      "We Must Pace the Frontier",
       "https://darioamodei.com/post/we-must-pace-the-frontier"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "A list of macOS defaults commands with demos",
       "https://macos-defaults.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 19:09:22",
-      "https://lobste.rs/s/oossfd/severe_misalignment_ai_mathematics"
-    ],
-    [
-      "A Severe Misalignment of AI in Mathematics",
-      "https://mathandai.org/"
     ]
   ],
   [
