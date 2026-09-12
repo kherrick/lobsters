@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-09-12, 19:04:33",
-      "https://lobste.rs/s/24gxd3/js65_advanced_6502_assembler_with"
+      "2026-09-12, 20:29:09",
+      "https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by"
     ],
     [
-      "js65 - Advanced 6502 assembler with patching support based on ca65 syntax",
-      "https://jsnesx.github.io/js65/"
+      "Optimizing a single Rust Clippy lint by 3133X",
+      "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 19:45:31",
+      "https://lobste.rs/s/co3jkg/managing_complex_application_state_with"
+    ],
+    [
+      "Managing Complex Application State with Reactive Data Flows",
+      "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-09-12, 14:14:24",
+      "https://lobste.rs/s/oz5ju3/solod_0_4_better_c_interop"
+    ],
+    [
+      "Solod 0.4: Better C interop",
+      "https://antonz.org/solod-0.4/"
+    ]
+  ],
+  [
+    [
       "2026-09-12, 12:38:53",
       "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"
     ],
@@ -137,16 +157,6 @@
     [
       "How Trail of Bits helps verify the integrity of your Signal chats",
       "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 08:35:23",
-      "https://lobste.rs/s/ekyert/rune_is_now_open_source"
-    ],
-    [
-      "Rune is now open source",
-      "https://rune.build/blog/rune-is-now-open-source"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "A Severe Misalignment of AI in Mathematics",
       "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 16:40:41",
-      "https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend"
     ]
   ],
   [
