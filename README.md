@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-12, 04:23:08](https://lobste.rs/s/imdwmj/pandas_should_go_extinct) - [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
 * [2026-09-11, 23:41:50](https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed) - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+* [2026-09-11, 23:06:30](https://lobste.rs/s/esgot3/tutorial_for_septabee_free_daw_making_for) - [Tutorial for Septabee, a free DAW in the making for over 20,000 hours](https://www.youtube.com/watch?v=lW8Z98pXuSE)
 * [2026-09-11, 22:55:34](https://lobste.rs/s/n54ybt/list_macos_defaults_commands_with_demos) - [A list of macOS defaults commands with demos](https://macos-defaults.com/)
 * [2026-09-11, 19:09:22](https://lobste.rs/s/oossfd/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://mathandai.org/)
 * [2026-09-11, 19:03:30](https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
@@ -15,7 +17,6 @@
 * [2026-09-11, 00:04:53](https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using) - [An untrusted site can freeze a Mac using WebGPU](https://auberon.xyz/blog/posts/deathray/)
 * [2026-09-10, 21:59:16](https://lobste.rs/s/u7dr96/soft_deprecating_re_match) - [Soft-deprecating re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/)
 * [2026-09-10, 21:58:12](https://lobste.rs/s/twkkac/fastly_speedtest_test) - [Fastly Speedtest Test](https://speed.edgecompute.app/)
-* [2026-09-10, 20:34:57](https://lobste.rs/s/khpkda/optimizing_spin_lock) - [Optimizing a Spin-Lock](https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/)
 * [2026-09-10, 19:40:27](https://lobste.rs/s/y3teyg/gleam_gathering_2027) - [Gleam Gathering 2027](https://gleamgathering.com/)
 * [2026-09-10, 17:40:19](https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug) - [Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
 * [2026-09-10, 17:04:10](https://lobste.rs/s/bsvc7a/it_s_not_yaml_spec_s_fault) - [It's not the YAML spec's fault, but](https://slugcat.systems/post/26-09-10-yaml-spec/)
@@ -23,7 +24,6 @@
 * [2026-09-10, 15:48:37](https://lobste.rs/s/izt4a2/what_algorithm_did_windows_xp_use_choose) - [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
 * [2026-09-10, 15:14:48](https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault) - [A rant about phishing: It's not the user's fault (and not DNS either)](https://maurycyz.com/misc/domains/)
 * [2026-09-10, 15:05:43](https://lobste.rs/s/aiikt1/xteink_x4_pro_review) - [Xteink X4 Pro review](https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/)
-* [2026-09-10, 14:59:03](https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable) - [How CHERIoT Provides Strong and Usable Isolation Without an MMU](https://queue.acm.org/doi/10.1145/3831361)
 * [2026-09-10, 13:40:19](https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft) - [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
 
 ## [Archives](archives/index.md)

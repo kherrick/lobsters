@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-11](index.md)
 
 * [2026-09-11, 23:41:50](https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed) - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+* [2026-09-11, 23:06:30](https://lobste.rs/s/esgot3/tutorial_for_septabee_free_daw_making_for) - [Tutorial for Septabee, a free DAW in the making for over 20,000 hours](https://www.youtube.com/watch?v=lW8Z98pXuSE)
 * [2026-09-11, 22:55:34](https://lobste.rs/s/n54ybt/list_macos_defaults_commands_with_demos) - [A list of macOS defaults commands with demos](https://macos-defaults.com/)
 * [2026-09-11, 19:09:22](https://lobste.rs/s/oossfd/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://mathandai.org/)
 * [2026-09-11, 19:03:30](https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
