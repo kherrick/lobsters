@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 15:18:31](https://lobste.rs/s/pwoxht/why_do_companies_stop_using_haskell) - [Why do companies stop using Haskell?](https://www.youtube.com/watch?v=2PebXEak24M)
+* [2026-09-12, 15:12:38](https://lobste.rs/s/yapebh/ice_always_tastes_better_when_it_trickles) - [ICE always tastes better when it trickles! (2013)](https://webrtchacks.com/trickle-ice/)
+* [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_profiler_understand_bun_s) - [I made a build profiler to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
+* [2026-09-12, 14:38:51](https://lobste.rs/s/bfiose/base84_deserves_place_file_names) - [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
+* [2026-09-12, 14:14:24](https://lobste.rs/s/oz5ju3/solod_0_4_better_c_interop) - [Solod 0.4: Better C interop](https://antonz.org/solod-0.4/)
+* [2026-09-12, 12:38:53](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11) - [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 * [2026-09-12, 11:59:21](https://lobste.rs/s/yhfmtx/fresh_terminal_based_ide_text_editor_easy) - [fresh: Terminal based IDE & text editor: easy, powerful and fast](https://github.com/sinelaw/fresh)
 * [2026-09-12, 11:28:29](https://lobste.rs/s/zjklvq/how_trail_bits_helps_verify_integrity) - [How Trail of Bits helps verify the integrity of your Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/)
 * [2026-09-12, 08:35:23](https://lobste.rs/s/ekyert/rune_is_now_open_source_rune_blog) - [Rune is now open source. Rune Blog](https://rune.build/blog/rune-is-now-open-source)
