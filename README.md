@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-12, 08:35:23](https://lobste.rs/s/ekyert/rune_is_now_open_source_rune_blog) - [Rune is now open source. Rune Blog](https://rune.build/blog/rune-is-now-open-source)
+* [2026-09-12, 11:59:21](https://lobste.rs/s/yhfmtx/fresh_terminal_based_ide_text_editor_easy) - [fresh: Terminal based IDE & text editor: easy, powerful and fast](https://github.com/sinelaw/fresh)
+* [2026-09-12, 11:28:29](https://lobste.rs/s/zjklvq/how_trail_bits_helps_verify_integrity) - [How Trail of Bits helps verify the integrity of your Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/)
+* [2026-09-12, 08:35:23](https://lobste.rs/s/ekyert/rune_is_now_open_source) - [Rune is now open source](https://rune.build/blog/rune-is-now-open-source)
 * [2026-09-12, 08:33:24](https://lobste.rs/s/sidh4j/designing_for_dual_screen_foldable) - [Designing for Dual Screen and Foldable Devices With CSS](https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/)
 * [2026-09-12, 06:42:56](https://lobste.rs/s/dkd8ph/rare_not_random_using_token_efficiency) - [Rare Not Random Using Token Efficiency for Secrets Scanning](https://lookingatcomputer.substack.com/p/rare-not-random)
 * [2026-09-12, 04:23:08](https://lobste.rs/s/imdwmj/pandas_should_go_extinct) - [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
@@ -21,9 +23,7 @@
 * [2026-09-10, 21:59:16](https://lobste.rs/s/u7dr96/soft_deprecating_re_match) - [Soft-deprecating re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/)
 * [2026-09-10, 21:58:12](https://lobste.rs/s/twkkac/fastly_speedtest_test) - [Fastly Speedtest Test](https://speed.edgecompute.app/)
 * [2026-09-10, 17:40:19](https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug) - [Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md)
-* [2026-09-10, 17:04:10](https://lobste.rs/s/bsvc7a/it_s_not_yaml_spec_s_fault) - [It's not the YAML spec's fault, but](https://slugcat.systems/post/26-09-10-yaml-spec/)
 * [2026-09-10, 15:14:48](https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault) - [A rant about phishing: It's not the user's fault (and not DNS either)](https://maurycyz.com/misc/domains/)
-* [2026-09-10, 15:05:43](https://lobste.rs/s/aiikt1/xteink_x4_pro_review) - [Xteink X4 Pro review](https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/)
 * [2026-09-10, 13:40:19](https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft) - [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
 
 ## [Archives](archives/index.md)
