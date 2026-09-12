@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 20:29:09](https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by) - [Optimizing a single Rust Clippy lint by 3133X](https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/)
+* [2026-09-12, 19:45:31](https://lobste.rs/s/co3jkg/managing_complex_application_state_with) - [Managing Complex Application State with Reactive Data Flows](https://yogthos.net/posts/2026-09-12-reactive-dataflow.html)
 * [2026-09-12, 19:04:33](https://lobste.rs/s/24gxd3/js65_advanced_6502_assembler_with) - [js65 - Advanced 6502 assembler with patching support based on ca65 syntax](https://jsnesx.github.io/js65/)
 * [2026-09-12, 18:19:16](https://lobste.rs/s/er0hfp/few_good_ideas_programming_languages) - [A Few Good Ideas in Programming Languages](https://prydt.xyz/blog/a-few-good-ideas-in-pl/)
 * [2026-09-12, 17:24:59](https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible) - [The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026)
