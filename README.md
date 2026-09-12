@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-12, 20:55:56](https://lobste.rs/s/6xdgjr/microcode_intel_s_8087_floating_point) - [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
 * [2026-09-12, 20:29:09](https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by) - [Optimizing a single Rust Clippy lint by 3133X](https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/)
 * [2026-09-12, 19:45:31](https://lobste.rs/s/co3jkg/managing_complex_application_state_with) - [Managing Complex Application State with Reactive Data Flows](https://yogthos.net/posts/2026-09-12-reactive-dataflow.html)
 * [2026-09-12, 18:19:16](https://lobste.rs/s/er0hfp/few_good_ideas_programming_languages) - [A Few Good Ideas in Programming Languages](https://prydt.xyz/blog/a-few-good-ideas-in-pl/)
@@ -11,7 +12,7 @@
 * [2026-09-12, 15:18:31](https://lobste.rs/s/pwoxht/why_do_companies_stop_using_haskell) - [Why do companies stop using Haskell?](https://www.youtube.com/watch?v=2PebXEak24M)
 * [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s) - [I made a build visualizer to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 14:38:51](https://lobste.rs/s/bfiose/base84_deserves_place_file_names) - [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
-* [2026-09-12, 14:35:49](https://lobste.rs/s/zuhv4b/dario_amodei_we_must_pace_frontier) - [Dario Amodei —We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
+* [2026-09-12, 14:35:49](https://lobste.rs/s/zuhv4b/we_must_pace_frontier) - [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
 * [2026-09-12, 14:14:24](https://lobste.rs/s/oz5ju3/solod_0_4_better_c_interop) - [Solod 0.4: Better C interop](https://antonz.org/solod-0.4/)
 * [2026-09-12, 12:38:53](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11) - [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 * [2026-09-12, 11:59:21](https://lobste.rs/s/yhfmtx/fresh_terminal_based_ide_text_editor_easy) - [fresh: Terminal based IDE & text editor: easy, powerful and fast](https://github.com/sinelaw/fresh)
@@ -19,7 +20,6 @@
 * [2026-09-12, 04:23:08](https://lobste.rs/s/imdwmj/pandas_should_go_extinct) - [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
 * [2026-09-11, 23:41:50](https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed) - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
 * [2026-09-11, 22:55:34](https://lobste.rs/s/n54ybt/list_macos_defaults_commands_with_demos) - [A list of macOS defaults commands with demos](https://macos-defaults.com/)
-* [2026-09-11, 19:09:22](https://lobste.rs/s/oossfd/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://mathandai.org/)
 * [2026-09-11, 19:03:30](https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics) - [A Severe Misalignment of AI in Mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
 * [2026-09-11, 16:35:40](https://lobste.rs/s/mcioou/chipass_release_2026_09_0) - [ChiPass Release 2026.09.0](https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0)
 * [2026-09-11, 14:23:46](https://lobste.rs/s/be7tgu/power_grab) - [Power grab](https://tante.cc/2026/09/11/power-grab/)

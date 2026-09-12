@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 20:55:56](https://lobste.rs/s/6xdgjr/microcode_intel_s_8087_floating_point) - [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
 * [2026-09-12, 20:29:09](https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by) - [Optimizing a single Rust Clippy lint by 3133X](https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/)
 * [2026-09-12, 19:45:31](https://lobste.rs/s/co3jkg/managing_complex_application_state_with) - [Managing Complex Application State with Reactive Data Flows](https://yogthos.net/posts/2026-09-12-reactive-dataflow.html)
 * [2026-09-12, 19:04:33](https://lobste.rs/s/24gxd3/js65_advanced_6502_assembler_with) - [js65 - Advanced 6502 assembler with patching support based on ca65 syntax](https://jsnesx.github.io/js65/)
@@ -19,6 +20,7 @@
 * [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s) - [I made a build visualizer to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_profiler_understand_bun_s) - [I made a build profiler to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 14:38:51](https://lobste.rs/s/bfiose/base84_deserves_place_file_names) - [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
+* [2026-09-12, 14:35:49](https://lobste.rs/s/zuhv4b/we_must_pace_frontier) - [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
 * [2026-09-12, 14:35:49](https://lobste.rs/s/zuhv4b/dario_amodei_we_must_pace_frontier) - [Dario Amodei —We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
 * [2026-09-12, 14:14:24](https://lobste.rs/s/oz5ju3/solod_0_4_better_c_interop) - [Solod 0.4: Better C interop](https://antonz.org/solod-0.4/)
 * [2026-09-12, 12:38:53](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11) - [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062)
