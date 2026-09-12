@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 19:04:33](https://lobste.rs/s/24gxd3/js65_advanced_6502_assembler_with) - [js65 - Advanced 6502 assembler with patching support based on ca65 syntax](https://jsnesx.github.io/js65/)
+* [2026-09-12, 18:19:16](https://lobste.rs/s/er0hfp/few_good_ideas_programming_languages) - [A Few Good Ideas in Programming Languages](https://prydt.xyz/blog/a-few-good-ideas-in-pl/)
 * [2026-09-12, 17:24:59](https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible) - [The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026)
+* [2026-09-12, 17:24:07](https://lobste.rs/s/1hpzyz/make_it_anyway) - [Make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
 * [2026-09-12, 17:03:42](https://lobste.rs/s/cmgzlj/is_truth_futureproof_on_possible_futures) - [Is truth futureproof? On the possible futures of mechanized proofs](https://khoury.northeastern.edu/~cmartens/papers/plateau26-itfp.pdf)
 * [2026-09-12, 16:04:06](https://lobste.rs/s/oh5hqw/logo_programming_language) - [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
 * [2026-09-12, 15:56:54](https://lobste.rs/s/ub8q3s/useful_things_agents_can_do_are_not) - [Useful Things Agents Can Do That Are Not Writing Code](https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code)
 * [2026-09-12, 15:39:00](https://lobste.rs/s/o6rlho/xkcd_font_xkcd_font) - [xkcd-font: The xkcd font](https://github.com/ipython/xkcd-font)
 * [2026-09-12, 15:18:31](https://lobste.rs/s/pwoxht/why_do_companies_stop_using_haskell) - [Why do companies stop using Haskell?](https://www.youtube.com/watch?v=2PebXEak24M)
 * [2026-09-12, 15:12:38](https://lobste.rs/s/yapebh/ice_always_tastes_better_when_it_trickles) - [ICE always tastes better when it trickles! (2013)](https://webrtchacks.com/trickle-ice/)
+* [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s) - [I made a build visualizer to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_profiler_understand_bun_s) - [I made a build profiler to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 14:38:51](https://lobste.rs/s/bfiose/base84_deserves_place_file_names) - [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
 * [2026-09-12, 14:35:49](https://lobste.rs/s/zuhv4b/dario_amodei_we_must_pace_frontier) - [Dario Amodei —We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
