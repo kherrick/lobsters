@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 16:19:47](https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s) - [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
+* [2026-09-13, 16:10:06](https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site) - [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
+* [2026-09-13, 15:23:41](https://lobste.rs/s/ytc27d/golang_developers_should_try_odin) - [Golang developers should try Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)
 * [2026-09-13, 14:00:18](https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type) - [Stabilizing Rust's never type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
 * [2026-09-13, 13:39:15](https://lobste.rs/s/8fqdvr/can_regex_match_valid_card_numbers) - [Can a regex match valid card numbers?](https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/)
+* [2026-09-13, 13:36:10](https://lobste.rs/s/evl6wg/session_context_what_web_page_knows_about) - [Session Context — what a web page knows about you](https://sessioncontext.org)
 * [2026-09-13, 13:20:01](https://lobste.rs/s/m6rdhi/esdac_film_1951_1976) - [The Esdac Film (1951, 1976)](https://www.youtube.com/watch?v=DjhRRj6WYcs)
+* [2026-09-13, 13:20:01](https://lobste.rs/s/m6rdhi/edsac_film_1951_1976) - [The Edsac Film (1951, 1976)](https://www.youtube.com/watch?v=DjhRRj6WYcs)
 * [2026-09-13, 12:59:09](https://lobste.rs/s/ojls0p/after_math) - [After Math](https://terrytao.wordpress.com/2026/09/12/after-math/)
 * [2026-09-13, 12:51:03](https://lobste.rs/s/pcorme/stylex_styling_system_for_ambitious) - [StyleX — The styling system for ambitious interfaces](https://stylexjs.com/)
 * [2026-09-13, 12:50:15](https://lobste.rs/s/mdvpm4/being_lazy_c) - [Being lazy in C++](https://cpp-rendering.io/being-lazy-in-c/)
