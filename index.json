@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-09-13, 14:00:18",
+      "https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type"
+    ],
+    [
+      "Stabilizing Rust's never type",
+      "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 13:39:15",
+      "https://lobste.rs/s/8fqdvr/can_regex_match_valid_card_numbers"
+    ],
+    [
+      "Can a regex match valid card numbers?",
+      "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 13:20:01",
+      "https://lobste.rs/s/m6rdhi/esdac_film_1951_1976"
+    ],
+    [
+      "The Esdac Film (1951, 1976)",
+      "https://www.youtube.com/watch?v=DjhRRj6WYcs"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 12:59:09",
+      "https://lobste.rs/s/ojls0p/after_math"
+    ],
+    [
+      "After Math",
+      "https://terrytao.wordpress.com/2026/09/12/after-math/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 12:51:03",
+      "https://lobste.rs/s/pcorme/stylex_styling_system_for_ambitious"
+    ],
+    [
+      "StyleX — The styling system for ambitious interfaces",
+      "https://stylexjs.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 12:50:15",
+      "https://lobste.rs/s/mdvpm4/being_lazy_c"
+    ],
+    [
+      "Being lazy in C++",
+      "https://cpp-rendering.io/being-lazy-in-c/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 12:22:47",
+      "https://lobste.rs/s/vmapye/homebrew_7_0_0"
+    ],
+    [
+      "Homebrew 7.0.0",
+      "https://brew.sh/2026/09/13/homebrew-7.0.0/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 12:10:30",
+      "https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door"
+    ],
+    [
+      "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+      "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/"
+    ]
+  ],
+  [
+    [
       "2026-09-13, 11:39:43",
       "https://lobste.rs/s/dmlzwx/don_t_call_yourself_artisanal_programmer"
     ],
@@ -31,32 +111,12 @@
   ],
   [
     [
-      "2026-09-13, 05:48:19",
-      "https://lobste.rs/s/pbmvov/night_142_my_servers_went_up_clouds"
-    ],
-    [
-      "The night 142 of my servers went up in the clouds Physically",
-      "https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1"
-    ]
-  ],
-  [
-    [
       "2026-09-13, 02:31:35",
       "https://lobste.rs/s/jwlzd3/dick_smith_vz200_without_dick_smith"
     ],
     [
       "A Dick Smith VZ200 without the Dick Smith",
       "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 02:19:07",
-      "https://lobste.rs/s/3nk1lh/metacarp"
-    ],
-    [
-      "Metacarp",
-      "https://blog.veitheller.de/Metacarp.html"
     ]
   ],
   [
@@ -81,32 +141,12 @@
   ],
   [
     [
-      "2026-09-13, 00:53:30",
-      "https://lobste.rs/s/fmkm3v/everyone_should_slow_down_ai_development"
-    ],
-    [
-      "Everyone should slow down AI development except for me",
-      "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
-    ]
-  ],
-  [
-    [
       "2026-09-12, 20:29:09",
       "https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by"
     ],
     [
       "Optimizing a single Rust Clippy lint by 3133X",
       "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 19:45:31",
-      "https://lobste.rs/s/co3jkg/managing_complex_application_state_with"
-    ],
-    [
-      "Managing Complex Application State with Reactive Data Flows",
-      "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html"
     ]
   ],
   [
@@ -137,16 +177,6 @@
     [
       "Make it anyway",
       "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 16:04:06",
-      "https://lobste.rs/s/oh5hqw/logo_programming_language"
-    ],
-    [
-      "Logo Programming Language",
-      "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-09-12, 14:35:49",
-      "https://lobste.rs/s/zuhv4b/we_must_pace_frontier"
-    ],
-    [
-      "We Must Pace the Frontier",
-      "https://darioamodei.com/post/we-must-pace-the-frontier"
-    ]
-  ],
-  [
-    [
       "2026-09-12, 12:38:53",
       "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-09-12, 04:23:08",
-      "https://lobste.rs/s/imdwmj/pandas_should_go_extinct"
-    ],
-    [
-      "Pandas Should Go Extinct",
-      "https://eddie.codes/posts/pandas-should-go-extinct/"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 23:41:50",
       "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"
     ],
     [
       "OpenAI agents carried out an undisclosed attack on RubyGems",
       "https://www.rubyhack.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 19:03:30",
-      "https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics"
-    ],
-    [
-      "A Severe Misalignment of AI in Mathematics",
-      "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/"
     ]
   ],
   [
