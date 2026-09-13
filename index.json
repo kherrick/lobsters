@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-13, 16:19:47",
+      "https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s"
+    ],
+    [
+      "Switching to GNU Guix: A Beginner's Perspective",
+      "https://whhone.com/posts/switching-to-gnu-guix/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 16:10:06",
+      "https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site"
+    ],
+    [
+      "what if my git host were a static site generator?",
+      "https://char.lt/blog/2026/09/sorcery-repo-viewer/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 15:23:41",
+      "https://lobste.rs/s/ytc27d/golang_developers_should_try_odin"
+    ],
+    [
+      "Golang developers should try Odin",
+      "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/"
+    ]
+  ],
+  [
+    [
       "2026-09-13, 14:00:18",
       "https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type"
     ],
@@ -21,11 +51,21 @@
   ],
   [
     [
-      "2026-09-13, 13:20:01",
-      "https://lobste.rs/s/m6rdhi/esdac_film_1951_1976"
+      "2026-09-13, 13:36:10",
+      "https://lobste.rs/s/evl6wg/session_context_what_web_page_knows_about"
     ],
     [
-      "The Esdac Film (1951, 1976)",
+      "Session Context — what a web page knows about you",
+      "https://sessioncontext.org"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 13:20:01",
+      "https://lobste.rs/s/m6rdhi/edsac_film_1951_1976"
+    ],
+    [
+      "The Edsac Film (1951, 1976)",
       "https://www.youtube.com/watch?v=DjhRRj6WYcs"
     ]
   ],
@@ -37,16 +77,6 @@
     [
       "After Math",
       "https://terrytao.wordpress.com/2026/09/12/after-math/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 12:51:03",
-      "https://lobste.rs/s/pcorme/stylex_styling_system_for_ambitious"
-    ],
-    [
-      "StyleX — The styling system for ambitious interfaces",
-      "https://stylexjs.com/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-09-12, 20:29:09",
-      "https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by"
-    ],
-    [
-      "Optimizing a single Rust Clippy lint by 3133X",
-      "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/"
-    ]
-  ],
-  [
-    [
       "2026-09-12, 18:19:16",
       "https://lobste.rs/s/er0hfp/few_good_ideas_programming_languages"
     ],
@@ -167,26 +187,6 @@
     [
       "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
       "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 17:24:07",
-      "https://lobste.rs/s/1hpzyz/make_it_anyway"
-    ],
-    [
-      "Make it anyway",
-      "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 15:56:54",
-      "https://lobste.rs/s/ub8q3s/useful_things_agents_can_do_are_not"
-    ],
-    [
-      "Useful Things Agents Can Do That Are Not Writing Code",
-      "https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code"
     ]
   ],
   [
