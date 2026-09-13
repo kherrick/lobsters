@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 18:00:25](https://lobste.rs/s/yedfbj/this_pcb_is_brought_you_by_fable_5) - [This PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
+* [2026-09-13, 16:30:23](https://lobste.rs/s/vxkb8z/gefs_file_shredder_future) - [GEFS: The File Shredder of the Future](https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u)
 * [2026-09-13, 16:19:47](https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s) - [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
 * [2026-09-13, 16:10:06](https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site) - [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
 * [2026-09-13, 15:23:41](https://lobste.rs/s/ytc27d/golang_developers_should_try_odin) - [Golang developers should try Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)

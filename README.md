@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-13, 18:00:25](https://lobste.rs/s/yedfbj/this_pcb_is_brought_you_by_fable_5) - [This PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
+* [2026-09-13, 16:30:23](https://lobste.rs/s/vxkb8z/gefs_file_shredder_future) - [GEFS: The File Shredder of the Future](https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u)
 * [2026-09-13, 16:19:47](https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s) - [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
 * [2026-09-13, 16:10:06](https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site) - [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
 * [2026-09-13, 15:23:41](https://lobste.rs/s/ytc27d/golang_developers_should_try_odin) - [Golang developers should try Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)
@@ -23,8 +25,6 @@
 * [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s) - [I made a build visualizer to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 14:38:51](https://lobste.rs/s/bfiose/base84_deserves_place_file_names) - [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
 * [2026-09-12, 12:38:53](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11) - [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062)
-* [2026-09-11, 23:41:50](https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed) - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
-* [2026-09-11, 12:33:20](https://lobste.rs/s/7guove/feeling_sad_about_ai) - [Feeling sad about AI](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
 
 ## [Archives](archives/index.md)
 
