@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 14:00:18](https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type) - [Stabilizing Rust's never type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
+* [2026-09-13, 13:39:15](https://lobste.rs/s/8fqdvr/can_regex_match_valid_card_numbers) - [Can a regex match valid card numbers?](https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/)
+* [2026-09-13, 13:20:01](https://lobste.rs/s/m6rdhi/esdac_film_1951_1976) - [The Esdac Film (1951, 1976)](https://www.youtube.com/watch?v=DjhRRj6WYcs)
+* [2026-09-13, 12:59:09](https://lobste.rs/s/ojls0p/after_math) - [After Math](https://terrytao.wordpress.com/2026/09/12/after-math/)
+* [2026-09-13, 12:51:03](https://lobste.rs/s/pcorme/stylex_styling_system_for_ambitious) - [StyleX — The styling system for ambitious interfaces](https://stylexjs.com/)
+* [2026-09-13, 12:50:15](https://lobste.rs/s/mdvpm4/being_lazy_c) - [Being lazy in C++](https://cpp-rendering.io/being-lazy-in-c/)
+* [2026-09-13, 12:22:47](https://lobste.rs/s/vmapye/homebrew_7_0_0) - [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
+* [2026-09-13, 12:10:30](https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door) - [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/)
 * [2026-09-13, 11:39:43](https://lobste.rs/s/dmlzwx/don_t_call_yourself_artisanal_programmer) - [Don't call yourself an artisanal programmer](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/)
 * [2026-09-13, 07:51:19](https://lobste.rs/s/pomjkm/from_git_fossil_2025) - [From Git to Fossil (2025)](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html)
 * [2026-09-13, 05:59:41](https://lobste.rs/s/pr1po9/heol) - [heol](https://wiki.xxiivv.com/site/heol.html)
