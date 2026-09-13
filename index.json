@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-09-12, 20:55:56",
-      "https://lobste.rs/s/6xdgjr/microcode_intel_s_8087_floating_point"
+      "2026-09-13, 05:59:41",
+      "https://lobste.rs/s/pr1po9/heol"
     ],
     [
-      "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html"
+      "heol",
+      "https://wiki.xxiivv.com/site/heol.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 05:48:19",
+      "https://lobste.rs/s/pbmvov/night_142_my_servers_went_up_clouds"
+    ],
+    [
+      "The night 142 of my servers went up in the clouds Physically",
+      "https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 02:35:51",
+      "https://lobste.rs/s/m4pjtg/lua_pattern_tester"
+    ],
+    [
+      "Lua Pattern Tester",
+      "https://iamreiyn.github.io/lua-pattern-tester/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 02:31:35",
+      "https://lobste.rs/s/jwlzd3/dick_smith_vz200_without_dick_smith"
+    ],
+    [
+      "A Dick Smith VZ200 without the Dick Smith",
+      "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 02:19:07",
+      "https://lobste.rs/s/3nk1lh/metacarp"
+    ],
+    [
+      "Metacarp",
+      "https://blog.veitheller.de/Metacarp.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 01:12:07",
+      "https://lobste.rs/s/betbip/better_way_blocking_macos_updates"
+    ],
+    [
+      "a better way of blocking macOS updates",
+      "https://zoey-on-github.github.io/blog/updates.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 00:53:30",
+      "https://lobste.rs/s/fmkm3v/everyone_should_slow_down_ai_development"
+    ],
+    [
+      "Everyone should slow down AI development except for me",
+      "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
     ]
   ],
   [
@@ -27,16 +87,6 @@
     [
       "Managing Complex Application State with Reactive Data Flows",
       "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 19:04:33",
-      "https://lobste.rs/s/24gxd3/js65_advanced_6502_assembler_with"
-    ],
-    [
-      "js65 - Advanced 6502 assembler with patching support based on ca65 syntax",
-      "https://jsnesx.github.io/js65/"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2026-09-12, 15:18:31",
-      "https://lobste.rs/s/pwoxht/why_do_companies_stop_using_haskell"
-    ],
-    [
-      "Why do companies stop using Haskell?",
-      "https://www.youtube.com/watch?v=2PebXEak24M"
-    ]
-  ],
-  [
-    [
       "2026-09-12, 14:48:24",
       "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2026-09-12, 11:59:21",
-      "https://lobste.rs/s/yhfmtx/fresh_terminal_based_ide_text_editor_easy"
-    ],
-    [
-      "fresh: Terminal based IDE & text editor: easy, powerful and fast",
-      "https://github.com/sinelaw/fresh"
-    ]
-  ],
-  [
-    [
       "2026-09-12, 11:28:29",
       "https://lobste.rs/s/zjklvq/how_trail_bits_helps_verify_integrity"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-09-11, 22:55:34",
-      "https://lobste.rs/s/n54ybt/list_macos_defaults_commands_with_demos"
-    ],
-    [
-      "A list of macOS defaults commands with demos",
-      "https://macos-defaults.com/"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 19:03:30",
       "https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-09-11, 16:35:40",
-      "https://lobste.rs/s/mcioou/chipass_release_2026_09_0"
-    ],
-    [
-      "ChiPass Release 2026.09.0",
-      "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 14:23:46",
       "https://lobste.rs/s/be7tgu/power_grab"
     ],
     [
       "Power grab",
       "https://tante.cc/2026/09/11/power-grab/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 12:59:46",
-      "https://lobste.rs/s/cegf7n/evergarden"
-    ],
-    [
-      "evergarden",
-      "https://evergarden.moe/"
     ]
   ],
   [
