@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 20:31:16](https://lobste.rs/s/sr1qmw/sorry_wrong_number_debugging_crash_under) - [Sorry, Wrong Number: Debugging a Crash under Wine (2022)](https://blog.jchw.dev/wrong-number/)
 * [2026-09-13, 18:00:25](https://lobste.rs/s/yedfbj/this_pcb_is_brought_you_by_fable_5) - [This PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
 * [2026-09-13, 16:30:23](https://lobste.rs/s/vxkb8z/gefs_file_shredder_future) - [GEFS: The File Shredder of the Future](https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u)
 * [2026-09-13, 16:19:47](https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s) - [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
 * [2026-09-13, 16:10:06](https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site) - [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
 * [2026-09-13, 15:23:41](https://lobste.rs/s/ytc27d/golang_developers_should_try_odin) - [Golang developers should try Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)
+* [2026-09-13, 14:34:32](https://lobste.rs/s/oqkml5/nobody_pays_for_open_source_we_can_force) - [Nobody pays for open source. We can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
 * [2026-09-13, 14:00:18](https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type) - [Stabilizing Rust's never type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
 * [2026-09-13, 13:39:15](https://lobste.rs/s/8fqdvr/can_regex_match_valid_card_numbers) - [Can a regex match valid card numbers?](https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/)
 * [2026-09-13, 13:36:10](https://lobste.rs/s/evl6wg/session_context_what_web_page_knows_about) - [Session Context — what a web page knows about you](https://sessioncontext.org)
