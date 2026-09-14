@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-14](index.md)
 
+* [2026-09-14, 16:27:12](https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix) - [How can you not be romantic about UNIX domain sockets?](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets)
+* [2026-09-14, 15:27:32](https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking) - [What blog posts influenced your thinking the most?](https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking)
+* [2026-09-14, 15:00:16](https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool) - [There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
+* [2026-09-14, 13:37:36](https://lobste.rs/s/da7fcv/finished_aerial_maps_under_30_minutes) - [Finished aerial maps in under 30 minutes](https://blog.zm.is/finished-aerial-maps-within-30-minutes/)
+* [2026-09-14, 13:28:42](https://lobste.rs/s/gud12o/why_am_i_still_programming) - [Why Am I Still Programming](https://www.youtube.com/watch?v=pOAj3mor8y8)
+* [2026-09-14, 11:46:10](https://lobste.rs/s/y2n9bq/sticking_functions_where_they_don_t) - [Sticking Functions Where They Donʼt Belong](https://blog.veritates.love/functions-as-data)
+* [2026-09-14, 11:16:14](https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats](https://codeberg.org/mergiraf/mergiraf)
+* [2026-09-14, 10:52:45](https://lobste.rs/s/agbpkq/we_are_all_product_engineers_now) - [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/)
 * [2026-09-14, 07:47:47](https://lobste.rs/s/0inlyw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/0inlyw/what_are_you_doing_this_week)
 * [2026-09-14, 06:25:25](https://lobste.rs/s/fpoakb/download_dimensional_drawings) - [Download Dimensional Drawings - Accessories](https://developer.apple.com/accessories/dimensional-drawings/)
 * [2026-09-14, 03:34:33](https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called) - [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
