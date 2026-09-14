@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-13, 23:59:05",
+      "https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce"
+    ],
+    [
+      "Anecdotally, programmers dislike \"reduce\"",
+      "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 23:24:10",
+      "https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as"
+    ],
+    [
+      "Writing a Guix service from scratch, as a beginner",
+      "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html"
+    ]
+  ],
+  [
+    [
       "2026-09-13, 20:31:16",
       "https://lobste.rs/s/sr1qmw/sorry_wrong_number_debugging_crash_under"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-09-13, 11:39:43",
-      "https://lobste.rs/s/dmlzwx/don_t_call_yourself_artisanal_programmer"
-    ],
-    [
-      "Don't call yourself an artisanal programmer",
-      "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/"
-    ]
-  ],
-  [
-    [
       "2026-09-13, 07:51:19",
       "https://lobste.rs/s/pomjkm/from_git_fossil_2025"
     ],
@@ -217,16 +227,6 @@
     [
       "A Few Good Ideas in Programming Languages",
       "https://prydt.xyz/blog/a-few-good-ideas-in-pl/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 15:39:00",
-      "https://lobste.rs/s/o6rlho/xkcd_font_xkcd_font"
-    ],
-    [
-      "xkcd-font: The xkcd font",
-      "https://github.com/ipython/xkcd-font"
     ]
   ],
   [
