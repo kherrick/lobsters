@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-14, 22:37:17](https://lobste.rs/s/zttri6/new_equal_area_map_for_interactive) - [A New Equal-Area Map for Interactive Computer Use](https://www.benjoffe.com/map)
+* [2026-09-14, 22:30:24](https://lobste.rs/s/uqezny/kythe_pluggable_language_agnostic) - [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
 * [2026-09-14, 20:26:19](https://lobste.rs/s/9ukost/how_i_use_single_zshrc_file_on_macos) - [How I use a single .zshrc file on macOS and Windows (WSL2)](https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/)
 * [2026-09-14, 20:16:07](https://lobste.rs/s/qiwlzz/do_you_still_read_code) - [\"Do You Still Read the Code?\"](https://zanlib.dev/blog/do-you-still-read-the-code/)
 * [2026-09-14, 19:08:33](https://lobste.rs/s/w6aktj/how_my_e_reader_lost_its_stripes) - [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)
@@ -11,7 +13,6 @@
 * [2026-09-14, 15:00:16](https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool) - [There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
 * [2026-09-14, 13:37:36](https://lobste.rs/s/da7fcv/finished_aerial_maps_under_30_minutes) - [Finished aerial maps in under 30 minutes](https://blog.zm.is/finished-aerial-maps-within-30-minutes/)
 * [2026-09-14, 13:28:42](https://lobste.rs/s/gud12o/why_am_i_still_programming) - [Why Am I Still Programming](https://www.youtube.com/watch?v=pOAj3mor8y8)
-* [2026-09-14, 11:46:10](https://lobste.rs/s/y2n9bq/sticking_functions_where_they_don_t) - [Sticking Functions Where They Donʼt Belong](https://blog.veritates.love/functions-as-data)
 * [2026-09-14, 11:16:14](https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats](https://codeberg.org/mergiraf/mergiraf)
 * [2026-09-14, 10:52:45](https://lobste.rs/s/agbpkq/we_are_all_product_engineers_now) - [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/)
 * [2026-09-14, 07:47:47](https://lobste.rs/s/0inlyw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/0inlyw/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2026-09-13, 23:24:10](https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as) - [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
 * [2026-09-13, 16:19:47](https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s) - [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
 * [2026-09-13, 16:10:06](https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site) - [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
-* [2026-09-13, 15:23:41](https://lobste.rs/s/ytc27d/golang_developers_should_try_odin) - [Golang developers should try Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)
 * [2026-09-13, 12:22:47](https://lobste.rs/s/vmapye/homebrew_7_0_0) - [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
 * [2026-09-13, 12:10:30](https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door) - [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/)
 
