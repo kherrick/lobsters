@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-09-14, 20:26:19",
+      "https://lobste.rs/s/9ukost/how_i_use_single_zshrc_file_on_macos"
+    ],
+    [
+      "How I use a single .zshrc file on macOS and Windows (WSL2)",
+      "https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 20:16:07",
+      "https://lobste.rs/s/qiwlzz/do_you_still_read_code"
+    ],
+    [
+      "\"Do You Still Read the Code?\"",
+      "https://zanlib.dev/blog/do-you-still-read-the-code/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 19:08:33",
+      "https://lobste.rs/s/w6aktj/how_my_e_reader_lost_its_stripes"
+    ],
+    [
+      "How my e-reader lost its stripes",
+      "https://www.serpentine.com/posts/2026/x3-stripes/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 17:58:22",
+      "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer"
+    ],
+    [
+      "A Letter from a Machine Learning Engineer",
+      "https://nemin.hu/llm-letter/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 16:53:14",
+      "https://lobste.rs/s/1ifr5f/contagion_fear"
+    ],
+    [
+      "The contagion of fear",
+      "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 16:39:55",
+      "https://lobste.rs/s/ede4z0/i_wish_you_best_offline"
+    ],
+    [
+      "I wish you the best in the Offline",
+      "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/"
+    ]
+  ],
+  [
+    [
       "2026-09-14, 16:27:12",
       "https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix"
     ],
@@ -101,16 +161,6 @@
   ],
   [
     [
-      "2026-09-14, 02:26:52",
-      "https://lobste.rs/s/jnutrb/singeli_high_level_interface_for_low"
-    ],
-    [
-      "Singeli: High-level interface for low-level programming",
-      "https://github.com/mlochbaum/Singeli"
-    ]
-  ],
-  [
-    [
       "2026-09-14, 01:18:11",
       "https://lobste.rs/s/e1lcnf/case_against_jpeg_xl"
     ],
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2026-09-13, 18:00:25",
-      "https://lobste.rs/s/yedfbj/this_pcb_is_brought_you_by_fable_5"
-    ],
-    [
-      "This PCB is brought to you by Fable 5",
-      "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/"
-    ]
-  ],
-  [
-    [
       "2026-09-13, 16:19:47",
       "https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s"
     ],
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-09-13, 13:39:15",
-      "https://lobste.rs/s/8fqdvr/can_regex_match_valid_card_numbers"
-    ],
-    [
-      "Can a regex match valid card numbers?",
-      "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/"
-    ]
-  ],
-  [
-    [
       "2026-09-13, 12:22:47",
       "https://lobste.rs/s/vmapye/homebrew_7_0_0"
     ],
@@ -217,36 +247,6 @@
     [
       "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
       "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 07:51:19",
-      "https://lobste.rs/s/pomjkm/from_git_fossil_2025"
-    ],
-    [
-      "From Git to Fossil (2025)",
-      "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 05:59:41",
-      "https://lobste.rs/s/pr1po9/heol"
-    ],
-    [
-      "heol",
-      "https://wiki.xxiivv.com/site/heol.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 14:48:24",
-      "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s"
-    ],
-    [
-      "I made a build visualizer to understand Bun’s compile times",
-      "https://lalitm.com/post/buildprof/"
     ]
   ]
 ]
