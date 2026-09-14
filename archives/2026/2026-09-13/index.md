@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 23:59:05](https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce) - [Anecdotally, programmers dislike \"reduce\"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
+* [2026-09-13, 23:24:10](https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as) - [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
 * [2026-09-13, 20:31:16](https://lobste.rs/s/sr1qmw/sorry_wrong_number_debugging_crash_under) - [Sorry, Wrong Number: Debugging a Crash under Wine (2022)](https://blog.jchw.dev/wrong-number/)
 * [2026-09-13, 18:00:25](https://lobste.rs/s/yedfbj/this_pcb_is_brought_you_by_fable_5) - [This PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
 * [2026-09-13, 16:30:23](https://lobste.rs/s/vxkb8z/gefs_file_shredder_future) - [GEFS: The File Shredder of the Future](https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u)

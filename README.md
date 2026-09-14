@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-13, 23:59:05](https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce) - [Anecdotally, programmers dislike \"reduce\"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
+* [2026-09-13, 23:24:10](https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as) - [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
 * [2026-09-13, 20:31:16](https://lobste.rs/s/sr1qmw/sorry_wrong_number_debugging_crash_under) - [Sorry, Wrong Number: Debugging a Crash under Wine (2022)](https://blog.jchw.dev/wrong-number/)
 * [2026-09-13, 18:00:25](https://lobste.rs/s/yedfbj/this_pcb_is_brought_you_by_fable_5) - [This PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
 * [2026-09-13, 16:30:23](https://lobste.rs/s/vxkb8z/gefs_file_shredder_future) - [GEFS: The File Shredder of the Future](https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u)
@@ -15,14 +17,12 @@
 * [2026-09-13, 12:50:15](https://lobste.rs/s/mdvpm4/being_lazy_c) - [Being lazy in C++](https://cpp-rendering.io/being-lazy-in-c/)
 * [2026-09-13, 12:22:47](https://lobste.rs/s/vmapye/homebrew_7_0_0) - [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
 * [2026-09-13, 12:10:30](https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door) - [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/)
-* [2026-09-13, 11:39:43](https://lobste.rs/s/dmlzwx/don_t_call_yourself_artisanal_programmer) - [Don't call yourself an artisanal programmer](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/)
 * [2026-09-13, 07:51:19](https://lobste.rs/s/pomjkm/from_git_fossil_2025) - [From Git to Fossil (2025)](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html)
 * [2026-09-13, 05:59:41](https://lobste.rs/s/pr1po9/heol) - [heol](https://wiki.xxiivv.com/site/heol.html)
 * [2026-09-13, 02:31:35](https://lobste.rs/s/jwlzd3/dick_smith_vz200_without_dick_smith) - [A Dick Smith VZ200 without the Dick Smith](http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html)
 * [2026-09-13, 02:07:58](https://lobste.rs/s/scyufg/opusfived) - [Opusfived](https://opusfived.dev/)
 * [2026-09-13, 01:12:07](https://lobste.rs/s/betbip/better_way_blocking_macos_updates) - [a better way of blocking macOS updates](https://zoey-on-github.github.io/blog/updates.html)
 * [2026-09-12, 18:19:16](https://lobste.rs/s/er0hfp/few_good_ideas_programming_languages) - [A Few Good Ideas in Programming Languages](https://prydt.xyz/blog/a-few-good-ideas-in-pl/)
-* [2026-09-12, 15:39:00](https://lobste.rs/s/o6rlho/xkcd_font_xkcd_font) - [xkcd-font: The xkcd font](https://github.com/ipython/xkcd-font)
 * [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s) - [I made a build visualizer to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 12:38:53](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11) - [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 
