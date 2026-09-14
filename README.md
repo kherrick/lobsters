@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-14, 03:34:33](https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called) - [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
+* [2026-09-14, 02:26:52](https://lobste.rs/s/jnutrb/singeli_high_level_interface_for_low) - [Singeli: High-level interface for low-level programming](https://github.com/mlochbaum/Singeli)
+* [2026-09-14, 01:18:11](https://lobste.rs/s/e1lcnf/case_against_jpeg_xl) - [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl)
+* [2026-09-14, 00:03:38](https://lobste.rs/s/jlmeib/purely_functional_operating_systems) - [Purely Functional Operating Systems](https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982)
 * [2026-09-13, 23:59:05](https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce) - [Anecdotally, programmers dislike \"reduce\"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
 * [2026-09-13, 23:24:10](https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as) - [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
 * [2026-09-13, 20:31:16](https://lobste.rs/s/sr1qmw/sorry_wrong_number_debugging_crash_under) - [Sorry, Wrong Number: Debugging a Crash under Wine (2022)](https://blog.jchw.dev/wrong-number/)
@@ -8,7 +12,6 @@
 * [2026-09-13, 16:19:47](https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s) - [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/)
 * [2026-09-13, 16:10:06](https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site) - [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
 * [2026-09-13, 15:23:41](https://lobste.rs/s/ytc27d/golang_developers_should_try_odin) - [Golang developers should try Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)
-* [2026-09-13, 14:34:32](https://lobste.rs/s/oqkml5/nobody_pays_for_open_source_we_can_force) - [Nobody pays for open source. We can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
 * [2026-09-13, 14:00:18](https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type) - [Stabilizing Rust's never type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
 * [2026-09-13, 13:39:15](https://lobste.rs/s/8fqdvr/can_regex_match_valid_card_numbers) - [Can a regex match valid card numbers?](https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/)
 * [2026-09-13, 13:36:10](https://lobste.rs/s/evl6wg/session_context_what_web_page_knows_about) - [Session Context — what a web page knows about you](https://sessioncontext.org)
@@ -20,9 +23,6 @@
 * [2026-09-13, 07:51:19](https://lobste.rs/s/pomjkm/from_git_fossil_2025) - [From Git to Fossil (2025)](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html)
 * [2026-09-13, 05:59:41](https://lobste.rs/s/pr1po9/heol) - [heol](https://wiki.xxiivv.com/site/heol.html)
 * [2026-09-13, 02:31:35](https://lobste.rs/s/jwlzd3/dick_smith_vz200_without_dick_smith) - [A Dick Smith VZ200 without the Dick Smith](http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html)
-* [2026-09-13, 02:07:58](https://lobste.rs/s/scyufg/opusfived) - [Opusfived](https://opusfived.dev/)
-* [2026-09-13, 01:12:07](https://lobste.rs/s/betbip/better_way_blocking_macos_updates) - [a better way of blocking macOS updates](https://zoey-on-github.github.io/blog/updates.html)
-* [2026-09-12, 18:19:16](https://lobste.rs/s/er0hfp/few_good_ideas_programming_languages) - [A Few Good Ideas in Programming Languages](https://prydt.xyz/blog/a-few-good-ideas-in-pl/)
 * [2026-09-12, 14:48:24](https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s) - [I made a build visualizer to understand Bun’s compile times](https://lalitm.com/post/buildprof/)
 * [2026-09-12, 12:38:53](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11) - [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 
