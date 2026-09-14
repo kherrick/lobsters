@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-14](index.md)
 
+* [2026-09-14, 20:26:19](https://lobste.rs/s/9ukost/how_i_use_single_zshrc_file_on_macos) - [How I use a single .zshrc file on macOS and Windows (WSL2)](https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/)
+* [2026-09-14, 20:16:07](https://lobste.rs/s/qiwlzz/do_you_still_read_code) - [\"Do You Still Read the Code?\"](https://zanlib.dev/blog/do-you-still-read-the-code/)
+* [2026-09-14, 19:08:33](https://lobste.rs/s/w6aktj/how_my_e_reader_lost_its_stripes) - [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)
+* [2026-09-14, 17:58:22](https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer) - [A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)
+* [2026-09-14, 16:53:14](https://lobste.rs/s/1ifr5f/contagion_fear) - [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+* [2026-09-14, 16:39:55](https://lobste.rs/s/ede4z0/i_wish_you_best_offline) - [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 * [2026-09-14, 16:27:12](https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix) - [How can you not be romantic about UNIX domain sockets?](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets)
 * [2026-09-14, 15:27:32](https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking) - [What blog posts influenced your thinking the most?](https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking)
 * [2026-09-14, 15:00:16](https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool) - [There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
