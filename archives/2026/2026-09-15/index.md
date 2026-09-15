@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-15](index.md)
 
+* [2026-09-15, 18:38:43](https://lobste.rs/s/jsvadf/from_intern_software_architect) - [From Intern to Software Architect](https://chauhankiran.blogspot.com/2026/09/levels.html)
+* [2026-09-15, 17:29:43](https://lobste.rs/s/4nhhax/trying_make_loop_auto_vectorize) - [Trying to Make a Loop Auto-Vectorize](https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/)
+* [2026-09-15, 17:21:47](https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview) - [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
+* [2026-09-15, 17:09:13](https://lobste.rs/s/acwuxy/how_much_f_droid_is_llm_generated) - [How much of F-Droid is LLM generated?](https://tintotint.eu/whacky-corner/f-droid_slop/)
+* [2026-09-15, 17:03:47](https://lobste.rs/s/udwhz2/performance_improvements_net_11) - [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)
 * [2026-09-15, 14:14:59](https://lobste.rs/s/xy84in/interpreting_pangram) - [Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)
 * [2026-09-15, 13:43:30](https://lobste.rs/s/klussk/converting_20_4g_wireless_hotspot_into) - [Converting a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
 * [2026-09-15, 12:51:55](https://lobste.rs/s/ccy1nr/how_i_wrote_forth_without_knowing_how) - [How I Wrote a Forth (Without Knowing How)](https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html)
