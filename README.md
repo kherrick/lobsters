@@ -1,9 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-15, 06:17:27](https://lobste.rs/s/klbjuj/planning_with_agents_divided_worlds) - [Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces](https://maggieappleton.com/planning-agents)
-* [2026-09-15, 05:21:04](https://lobste.rs/s/89pcze/type_systems_you_might_not_know_will_love) - [Type Systems You Might Not Know (But Will Love)](https://www.wearedevelopers.com/videos/100067-type-systems-you-might-not-know-but-will-love)
+* [2026-09-15, 12:04:42](https://lobste.rs/s/cw8fep/search_over_algebraic_graphs) - [Search over Algebraic Graphs](https://anekstein.com/posts/2026-08-22.html)
+* [2026-09-15, 10:31:20](https://lobste.rs/s/ixjmzm/simpler_time_map_plots_2017) - [Simpler time map plots (2017)](https://lepisma.xyz/2017/06/25/simple-time-maps/)
+* [2026-09-15, 09:12:31](https://lobste.rs/s/lgcmoo/css_tricks_limbo) - [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135)
+* [2026-09-15, 09:06:36](https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests) - [Coreutils - rejected feature requests](https://www.gnu.org/software/coreutils/rejected_requests.html)
+* [2026-09-15, 08:55:35](https://lobste.rs/s/m1zfy8/terminal_should_not_own_work) - [The terminal should not own the work](https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html)
+* [2026-09-15, 07:31:11](https://lobste.rs/s/pgzlof/stalling_installing) - [Stalling installing](https://adactio.com/journal/22757)
 * [2026-09-15, 04:07:33](https://lobste.rs/s/9zytkh/nix_store_is_three_functions) - [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions)
-* [2026-09-15, 01:28:30](https://lobste.rs/s/a66b7j/dropping_ebpf_cpu_cost_by_about_90_with) - [Dropping eBPF CPU Cost by About 90% With Memoization](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
 * [2026-09-15, 00:29:04](https://lobste.rs/s/q5dgu6/gdscript_good_bad_ugly_parts) - [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)
 * [2026-09-14, 22:37:17](https://lobste.rs/s/zttri6/new_equal_area_map_for_interactive) - [A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)](https://www.benjoffe.com/map)
 * [2026-09-14, 22:30:24](https://lobste.rs/s/uqezny/kythe_pluggable_language_agnostic) - [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
@@ -22,9 +25,6 @@
 * [2026-09-14, 03:34:33](https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called) - [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
 * [2026-09-14, 01:18:11](https://lobste.rs/s/e1lcnf/case_against_jpeg_xl) - [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl)
 * [2026-09-13, 23:59:05](https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce) - [Anecdotally, programmers dislike \"reduce\"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
-* [2026-09-13, 23:24:10](https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as) - [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
-* [2026-09-13, 16:10:06](https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site) - [what if my git host were a static site generator?](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
-* [2026-09-13, 12:10:30](https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door) - [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/)
 
 ## [Archives](archives/index.md)
 
