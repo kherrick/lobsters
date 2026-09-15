@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-09-15, 14:14:59",
-      "https://lobste.rs/s/xy84in/interpreting_pangram"
+      "2026-09-15, 18:38:43",
+      "https://lobste.rs/s/jsvadf/from_intern_software_architect"
     ],
     [
-      "Interpreting Pangram",
-      "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/"
+      "From Intern to Software Architect",
+      "https://chauhankiran.blogspot.com/2026/09/levels.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:29:43",
+      "https://lobste.rs/s/4nhhax/trying_make_loop_auto_vectorize"
+    ],
+    [
+      "Trying to Make a Loop Auto-Vectorize",
+      "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:21:47",
+      "https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview"
+    ],
+    [
+      "GEFS on OpenBSD: A very early preview",
+      "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:09:13",
+      "https://lobste.rs/s/acwuxy/how_much_f_droid_is_llm_generated"
+    ],
+    [
+      "How much of F-Droid is LLM generated?",
+      "https://tintotint.eu/whacky-corner/f-droid_slop/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:03:47",
+      "https://lobste.rs/s/udwhz2/performance_improvements_net_11"
+    ],
+    [
+      "Performance Improvements in .NET 11",
+      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-09-14, 22:30:24",
-      "https://lobste.rs/s/uqezny/kythe_pluggable_language_agnostic"
-    ],
-    [
-      "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code",
-      "https://kythe.io"
-    ]
-  ],
-  [
-    [
       "2026-09-14, 20:16:07",
       "https://lobste.rs/s/qiwlzz/do_you_still_read_code"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-09-14, 16:39:55",
-      "https://lobste.rs/s/ede4z0/i_wish_you_best_offline"
-    ],
-    [
-      "I wish you the best in the Offline",
-      "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/"
-    ]
-  ],
-  [
-    [
       "2026-09-14, 16:27:12",
       "https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-09-14, 13:28:42",
-      "https://lobste.rs/s/gud12o/why_am_i_still_programming"
-    ],
-    [
-      "Why Am I Still Programming",
-      "https://www.youtube.com/watch?v=pOAj3mor8y8"
-    ]
-  ],
-  [
-    [
       "2026-09-14, 11:16:14",
       "https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver"
     ],
@@ -237,16 +247,6 @@
     [
       "The case against JPEG XL",
       "https://giannirosato.com/blog/post/case-against-jxl"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 23:59:05",
-      "https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce"
-    ],
-    [
-      "Anecdotally, programmers dislike \"reduce\"",
-      "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
     ]
   ]
 ]
