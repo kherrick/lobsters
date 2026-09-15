@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-09-15, 22:12:07",
+      "https://lobste.rs/s/d7kmuj/txcript_switching_coding_agents_mid"
+    ],
+    [
+      "txcript: Switching coding agents mid-conversation",
+      "https://github.com/skillsynchq/txcript"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 20:50:57",
+      "https://lobste.rs/s/f65fy3/small_programming_tricks"
+    ],
+    [
+      "Small Programming Tricks",
+      "https://will-keleher.com/posts/small-programming-tricks-matter/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 18:55:10",
+      "https://lobste.rs/s/ptegb0/swift_6_4_released"
+    ],
+    [
+      "Swift 6.4 Released",
+      "https://www.swift.org/blog/swift-6.4-released/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 18:41:00",
+      "https://lobste.rs/s/hv3l4v/subnormal_floating_point_numbers_are"
+    ],
+    [
+      "Subnormal floating-point numbers are expensive… on Intel processors",
+      "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/"
+    ]
+  ],
+  [
+    [
       "2026-09-15, 18:38:43",
       "https://lobste.rs/s/jsvadf/from_intern_software_architect"
     ],
     [
       "From Intern to Software Architect",
       "https://chauhankiran.blogspot.com/2026/09/levels.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 18:24:41",
+      "https://lobste.rs/s/6gro0u/playbook_programmable_paper_notebook"
+    ],
+    [
+      "PlayBook: A Programmable Paper Notebook",
+      "https://www.youtube.com/watch?v=GurWDZ8ENpA"
     ]
   ],
   [
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2026-09-15, 12:26:49",
-      "https://lobste.rs/s/3wmby2/postgres_development_activity"
-    ],
-    [
-      "Postgres development activity",
-      "https://vondra.me/posts/postgres-development-activity/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 12:04:42",
       "https://lobste.rs/s/cw8fep/search_over_algebraic_graphs"
     ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2026-09-15, 10:31:20",
-      "https://lobste.rs/s/ixjmzm/simpler_time_map_plots_2017"
-    ],
-    [
-      "Simpler time map plots (2017)",
-      "https://lepisma.xyz/2017/06/25/simple-time-maps/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 09:12:31",
       "https://lobste.rs/s/lgcmoo/css_tricks_limbo"
     ],
@@ -127,16 +157,6 @@
     [
       "Coreutils - rejected feature requests",
       "https://www.gnu.org/software/coreutils/rejected_requests.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 08:55:35",
-      "https://lobste.rs/s/m1zfy8/terminal_should_not_own_work"
-    ],
-    [
-      "The terminal should not own the work",
-      "https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "What blog posts influenced your thinking the most?",
       "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 11:16:14",
-      "https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver"
-    ],
-    [
-      "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
-      "https://codeberg.org/mergiraf/mergiraf"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 01:18:11",
-      "https://lobste.rs/s/e1lcnf/case_against_jpeg_xl"
-    ],
-    [
-      "The case against JPEG XL",
-      "https://giannirosato.com/blog/post/case-against-jxl"
     ]
   ]
 ]
