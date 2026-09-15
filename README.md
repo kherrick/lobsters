@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-14, 22:37:17](https://lobste.rs/s/zttri6/new_equal_area_map_for_interactive) - [A New Equal-Area Map for Interactive Computer Use](https://www.benjoffe.com/map)
+* [2026-09-15, 00:29:04](https://lobste.rs/s/q5dgu6/gdscript_good_bad_ugly_parts) - [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)
+* [2026-09-14, 22:37:17](https://lobste.rs/s/zttri6/new_equal_area_map_natively_zooms) - [A New Equal-Area Map that natively zooms to Mercator](https://www.benjoffe.com/map)
 * [2026-09-14, 22:30:24](https://lobste.rs/s/uqezny/kythe_pluggable_language_agnostic) - [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
-* [2026-09-14, 20:26:19](https://lobste.rs/s/9ukost/how_i_use_single_zshrc_file_on_macos) - [How I use a single .zshrc file on macOS and Windows (WSL2)](https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/)
 * [2026-09-14, 20:16:07](https://lobste.rs/s/qiwlzz/do_you_still_read_code) - [\"Do You Still Read the Code?\"](https://zanlib.dev/blog/do-you-still-read-the-code/)
 * [2026-09-14, 19:08:33](https://lobste.rs/s/w6aktj/how_my_e_reader_lost_its_stripes) - [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)
 * [2026-09-14, 17:58:22](https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer) - [A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)

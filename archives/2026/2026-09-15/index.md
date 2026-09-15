@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-15](index.md)
+
+* [2026-09-15, 00:29:04](https://lobste.rs/s/q5dgu6/gdscript_good_bad_ugly_parts) - [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/)

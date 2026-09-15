@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-14](index.md)
 
+* [2026-09-14, 22:37:17](https://lobste.rs/s/zttri6/new_equal_area_map_natively_zooms) - [A New Equal-Area Map that natively zooms to Mercator](https://www.benjoffe.com/map)
 * [2026-09-14, 22:37:17](https://lobste.rs/s/zttri6/new_equal_area_map_for_interactive) - [A New Equal-Area Map for Interactive Computer Use](https://www.benjoffe.com/map)
 * [2026-09-14, 22:30:24](https://lobste.rs/s/uqezny/kythe_pluggable_language_agnostic) - [Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code](https://kythe.io)
 * [2026-09-14, 20:26:19](https://lobste.rs/s/9ukost/how_i_use_single_zshrc_file_on_macos) - [How I use a single .zshrc file on macOS and Windows (WSL2)](https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/)
