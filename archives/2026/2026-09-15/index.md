@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-15](index.md)
 
+* [2026-09-15, 14:14:59](https://lobste.rs/s/xy84in/interpreting_pangram) - [Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)
+* [2026-09-15, 13:43:30](https://lobste.rs/s/klussk/converting_20_4g_wireless_hotspot_into) - [Converting a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
+* [2026-09-15, 12:51:55](https://lobste.rs/s/ccy1nr/how_i_wrote_forth_without_knowing_how) - [How I Wrote a Forth (Without Knowing How)](https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html)
+* [2026-09-15, 12:26:49](https://lobste.rs/s/3wmby2/postgres_development_activity) - [Postgres development activity](https://vondra.me/posts/postgres-development-activity/)
 * [2026-09-15, 12:04:42](https://lobste.rs/s/cw8fep/search_over_algebraic_graphs) - [Search over Algebraic Graphs](https://anekstein.com/posts/2026-08-22.html)
+* [2026-09-15, 11:22:06](https://lobste.rs/s/pwofca/ibm_built_cold_war_s_most_powerful_code) - [IBM Built the Cold War’s Most Powerful Code Breaker for the NSA](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 * [2026-09-15, 10:31:20](https://lobste.rs/s/ixjmzm/simpler_time_map_plots_2017) - [Simpler time map plots (2017)](https://lepisma.xyz/2017/06/25/simple-time-maps/)
 * [2026-09-15, 09:12:31](https://lobste.rs/s/lgcmoo/css_tricks_limbo) - [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135)
 * [2026-09-15, 09:06:36](https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests) - [Coreutils - rejected feature requests](https://www.gnu.org/software/coreutils/rejected_requests.html)
