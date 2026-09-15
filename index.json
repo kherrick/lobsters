@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-09-15, 14:14:59",
+      "https://lobste.rs/s/xy84in/interpreting_pangram"
+    ],
+    [
+      "Interpreting Pangram",
+      "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 13:43:30",
+      "https://lobste.rs/s/klussk/converting_20_4g_wireless_hotspot_into"
+    ],
+    [
+      "Converting a $20 4G wireless hotspot into a texting device",
+      "https://bkovac.github.io/modem-thing/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 12:51:55",
+      "https://lobste.rs/s/ccy1nr/how_i_wrote_forth_without_knowing_how"
+    ],
+    [
+      "How I Wrote a Forth (Without Knowing How)",
+      "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 12:26:49",
+      "https://lobste.rs/s/3wmby2/postgres_development_activity"
+    ],
+    [
+      "Postgres development activity",
+      "https://vondra.me/posts/postgres-development-activity/"
+    ]
+  ],
+  [
+    [
       "2026-09-15, 12:04:42",
       "https://lobste.rs/s/cw8fep/search_over_algebraic_graphs"
     ],
     [
       "Search over Algebraic Graphs",
       "https://anekstein.com/posts/2026-08-22.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 11:22:06",
+      "https://lobste.rs/s/pwofca/ibm_built_cold_war_s_most_powerful_code"
+    ],
+    [
+      "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
+      "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2026-09-14, 19:08:33",
-      "https://lobste.rs/s/w6aktj/how_my_e_reader_lost_its_stripes"
-    ],
-    [
-      "How my e-reader lost its stripes",
-      "https://www.serpentine.com/posts/2026/x3-stripes/"
-    ]
-  ],
-  [
-    [
       "2026-09-14, 17:58:22",
       "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer"
     ],
@@ -171,26 +211,6 @@
   ],
   [
     [
-      "2026-09-14, 15:00:16",
-      "https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool"
-    ],
-    [
-      "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets",
-      "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 13:37:36",
-      "https://lobste.rs/s/da7fcv/finished_aerial_maps_under_30_minutes"
-    ],
-    [
-      "Finished aerial maps in under 30 minutes",
-      "https://blog.zm.is/finished-aerial-maps-within-30-minutes/"
-    ]
-  ],
-  [
-    [
       "2026-09-14, 13:28:42",
       "https://lobste.rs/s/gud12o/why_am_i_still_programming"
     ],
@@ -207,26 +227,6 @@
     [
       "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
       "https://codeberg.org/mergiraf/mergiraf"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 10:52:45",
-      "https://lobste.rs/s/agbpkq/we_are_all_product_engineers_now"
-    ],
-    [
-      "We are all Product Engineers now",
-      "https://seldo.com/posts/we-are-all-product-engineers-now/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 03:34:33",
-      "https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called"
-    ],
-    [
-      "Why is the x86 undefined instruction called ud2? Why 2?",
-      "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689"
     ]
   ],
   [
