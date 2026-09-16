@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 17:22:01](https://lobste.rs/s/vkdmdy/original_sony_playstation_2_security) - [Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
+* [2026-09-16, 17:18:03](https://lobste.rs/s/aml2pc/osrs_wiki_runelite_are_increasingly) - [OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development](https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development)
+* [2026-09-16, 16:58:43](https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru) - [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
+* [2026-09-16, 16:27:39](https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta) - [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
+* [2026-09-16, 16:17:16](https://lobste.rs/s/q35pnm/why_building_rust_lsp_is_hard) - [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
+* [2026-09-16, 16:05:40](https://lobste.rs/s/qphopj/type_declaration_syntax) - [type declaration syntax](https://citrons.xyz/journal/2026-09-09)
+* [2026-09-16, 15:59:17](https://lobste.rs/s/lvld5b/how_get_doi_for_your_blog_posts) - [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/)
+* [2026-09-16, 15:04:45](https://lobste.rs/s/cianny/why_i_m_still_bearish_on_llms_after_navier) - [Why i'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)
 * [2026-09-16, 13:24:31](https://lobste.rs/s/tgrvxh/forgery_c2pa_on_pixel_10) - [Forgery of C2PA on a Pixel 10](https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html)
 * [2026-09-16, 13:04:59](https://lobste.rs/s/zwhnko/smallest_possible_linux_distribution) - [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa)
 * [2026-09-16, 12:54:22](https://lobste.rs/s/nhdqgh/simple_efficient_row_level_security) - [Simple and Efficient Row-Level Security](https://acadia.engineering/blog/simple-and-efficient-row-level-security)
