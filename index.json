@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-16, 07:09:43",
+      "https://lobste.rs/s/rwzf83/agent_state_tmux_status_line"
+    ],
+    [
+      "Agent State in the Tmux Status Line",
+      "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 06:31:52",
+      "https://lobste.rs/s/glywa4/maintaining_love_for_coding_time_ai"
+    ],
+    [
+      "Maintaining the love for coding in the time of AI",
+      "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 06:05:38",
+      "https://lobste.rs/s/wxnibb/i_shuts_down"
+    ],
+    [
+      "A/I Shuts Down",
+      "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 04:19:42",
+      "https://lobste.rs/s/mmrtig/apple_reference_image_new_approach_for"
+    ],
+    [
+      "Apple Reference Image: A New Approach for Verified Photography",
+      "https://security.apple.com/blog/apple-reference-image/"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 03:47:55",
       "https://lobste.rs/s/zutlqt/some_things_veloren_does_differently"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-09-15, 17:29:43",
-      "https://lobste.rs/s/4nhhax/trying_make_loop_auto_vectorize"
-    ],
-    [
-      "Trying to Make a Loop Auto-Vectorize",
-      "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 17:21:47",
       "https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview"
     ],
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-09-15, 07:31:11",
-      "https://lobste.rs/s/pgzlof/stalling_installing"
-    ],
-    [
-      "Stalling installing",
-      "https://adactio.com/journal/22757"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 00:29:04",
-      "https://lobste.rs/s/q5dgu6/gdscript_good_bad_ugly_parts"
-    ],
-    [
-      "GDScript: The Good, Bad, and Ugly Parts",
-      "https://azhdarchid.com/gdscript-good-bad-ugly/"
-    ]
-  ],
-  [
-    [
       "2026-09-14, 22:37:17",
       "https://lobste.rs/s/zttri6/new_equal_area_map_for_interactive"
     ],
@@ -227,16 +237,6 @@
     [
       "The contagion of fear",
       "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 16:27:12",
-      "https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix"
-    ],
-    [
-      "How can you not be romantic about UNIX domain sockets?",
-      "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets"
     ]
   ],
   [
