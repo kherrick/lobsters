@@ -2,8 +2,8 @@
 
 * [2026-09-15, 22:12:07](https://lobste.rs/s/d7kmuj/txcript_switching_coding_agents_mid) - [txcript: Switching coding agents mid-conversation](https://github.com/skillsynchq/txcript)
 * [2026-09-15, 20:50:57](https://lobste.rs/s/f65fy3/small_programming_tricks) - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+* [2026-09-15, 20:03:12](https://lobste.rs/s/qx8dxe/1password_s_ai_patching_benchmark_is) - [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
 * [2026-09-15, 18:55:10](https://lobste.rs/s/ptegb0/swift_6_4_released) - [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/)
-* [2026-09-15, 18:41:00](https://lobste.rs/s/hv3l4v/subnormal_floating_point_numbers_are) - [Subnormal floating-point numbers are expensive… on Intel processors](https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/)
 * [2026-09-15, 18:38:43](https://lobste.rs/s/jsvadf/from_intern_software_architect) - [From Intern to Software Architect](https://chauhankiran.blogspot.com/2026/09/levels.html)
 * [2026-09-15, 18:24:41](https://lobste.rs/s/6gro0u/playbook_programmable_paper_notebook) - [PlayBook: A Programmable Paper Notebook](https://www.youtube.com/watch?v=GurWDZ8ENpA)
 * [2026-09-15, 17:29:43](https://lobste.rs/s/4nhhax/trying_make_loop_auto_vectorize) - [Trying to Make a Loop Auto-Vectorize](https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/)
