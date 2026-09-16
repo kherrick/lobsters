@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-09-16, 19:26:10",
-      "https://lobste.rs/s/7ehqzv/style_guide_for_online_hypertext_1992"
+      "2026-09-16, 21:06:25",
+      "https://lobste.rs/s/phbfog/reversing_factorio_s_rng"
     ],
     [
-      "Style Guide for Online Hypertext (1992)",
-      "https://www.w3.org/Provider/Style/"
+      "Reversing Factorio's RNG",
+      "https://gegell.github.io/posts/factorio-rng/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 19:33:37",
+      "https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer"
+    ],
+    [
+      "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "GEFS on OpenBSD: A very early preview",
       "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 09:06:36",
-      "https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests"
-    ],
-    [
-      "Coreutils - rejected feature requests",
-      "https://www.gnu.org/software/coreutils/rejected_requests.html"
     ]
   ]
 ]
