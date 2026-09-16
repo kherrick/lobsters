@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 19:26:10](https://lobste.rs/s/7ehqzv/style_guide_for_online_hypertext_1992) - [Style Guide for Online Hypertext (1992)](https://www.w3.org/Provider/Style/)
+* [2026-09-16, 18:05:43](https://lobste.rs/s/gs10ad/introducing_gnome_51) - [Introducing GNOME 51](https://release.gnome.org/51/)
+* [2026-09-16, 17:38:31](https://lobste.rs/s/sh6yeo/unicode_18_0_0) - [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
 * [2026-09-16, 17:22:01](https://lobste.rs/s/vkdmdy/original_sony_playstation_2_security) - [Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
 * [2026-09-16, 17:18:03](https://lobste.rs/s/aml2pc/osrs_wiki_runelite_are_increasingly) - [OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development](https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development)
 * [2026-09-16, 16:58:43](https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru) - [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
+* [2026-09-16, 16:55:24](https://lobste.rs/s/wo4fuj/gothub_lists) - [Gothub lists](https://gothub.org/lists.html)
 * [2026-09-16, 16:27:39](https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta) - [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta)
 * [2026-09-16, 16:17:16](https://lobste.rs/s/q35pnm/why_building_rust_lsp_is_hard) - [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
 * [2026-09-16, 16:05:40](https://lobste.rs/s/qphopj/type_declaration_syntax) - [type declaration syntax](https://citrons.xyz/journal/2026-09-09)
