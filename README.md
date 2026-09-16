@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-16, 19:26:10](https://lobste.rs/s/7ehqzv/style_guide_for_online_hypertext_1992) - [Style Guide for Online Hypertext (1992)](https://www.w3.org/Provider/Style/)
+* [2026-09-16, 21:06:25](https://lobste.rs/s/phbfog/reversing_factorio_s_rng) - [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
+* [2026-09-16, 19:33:37](https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer) - [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
 * [2026-09-16, 18:05:43](https://lobste.rs/s/gs10ad/introducing_gnome_51) - [Introducing GNOME 51](https://release.gnome.org/51/)
 * [2026-09-16, 17:38:31](https://lobste.rs/s/sh6yeo/unicode_18_0_0) - [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
 * [2026-09-16, 17:22:01](https://lobste.rs/s/vkdmdy/original_sony_playstation_2_security) - [Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
@@ -24,7 +25,6 @@
 * [2026-09-16, 03:17:56](https://lobste.rs/s/jlja1a/jdk_27_has_been_released) - [JDK 27 has been released](https://openjdk.org/projects/jdk/27/)
 * [2026-09-15, 20:50:57](https://lobste.rs/s/f65fy3/small_programming_tricks) - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
 * [2026-09-15, 17:21:47](https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview) - [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
-* [2026-09-15, 09:06:36](https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests) - [Coreutils - rejected feature requests](https://www.gnu.org/software/coreutils/rejected_requests.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 21:06:25](https://lobste.rs/s/phbfog/reversing_factorio_s_rng) - [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
+* [2026-09-16, 19:33:37](https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer) - [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
 * [2026-09-16, 19:26:10](https://lobste.rs/s/7ehqzv/style_guide_for_online_hypertext_1992) - [Style Guide for Online Hypertext (1992)](https://www.w3.org/Provider/Style/)
 * [2026-09-16, 18:05:43](https://lobste.rs/s/gs10ad/introducing_gnome_51) - [Introducing GNOME 51](https://release.gnome.org/51/)
 * [2026-09-16, 17:38:31](https://lobste.rs/s/sh6yeo/unicode_18_0_0) - [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/)
