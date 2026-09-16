@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-16, 03:47:55",
+      "https://lobste.rs/s/zutlqt/some_things_veloren_does_differently"
+    ],
+    [
+      "Some things Veloren does differently",
+      "https://blog.jsbarretto.com/post/veloren"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 03:39:05",
+      "https://lobste.rs/s/ynjgbz/ubuntu_26_10_completes_transition_rust"
+    ],
+    [
+      "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 03:17:56",
+      "https://lobste.rs/s/jlja1a/jdk_27_has_been_released"
+    ],
+    [
+      "JDK 27 has been released",
+      "https://openjdk.org/projects/jdk/27/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 23:03:40",
+      "https://lobste.rs/s/5uovkh/unsizing_unsized_values"
+    ],
+    [
+      "Unsizing unsized values",
+      "https://hackmd.io/@WorldSEnder/Hkyqni6Ofl"
+    ]
+  ],
+  [
+    [
       "2026-09-15, 22:12:07",
       "https://lobste.rs/s/d7kmuj/txcript_switching_coding_agents_mid"
     ],
@@ -37,6 +77,16 @@
     [
       "Swift 6.4 Released",
       "https://www.swift.org/blog/swift-6.4-released/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 18:41:00",
+      "https://lobste.rs/s/hv3l4v/subnormal_floating_point_numbers_are"
+    ],
+    [
+      "Subnormal floating-point numbers are expensive… on Intel processors",
+      "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/"
     ]
   ],
   [
@@ -111,36 +161,6 @@
   ],
   [
     [
-      "2026-09-15, 12:51:55",
-      "https://lobste.rs/s/ccy1nr/how_i_wrote_forth_without_knowing_how"
-    ],
-    [
-      "How I Wrote a Forth (Without Knowing How)",
-      "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 12:04:42",
-      "https://lobste.rs/s/cw8fep/search_over_algebraic_graphs"
-    ],
-    [
-      "Search over Algebraic Graphs",
-      "https://anekstein.com/posts/2026-08-22.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 11:22:06",
-      "https://lobste.rs/s/pwofca/ibm_built_cold_war_s_most_powerful_code"
-    ],
-    [
-      "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-      "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 09:12:31",
       "https://lobste.rs/s/lgcmoo/css_tricks_limbo"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-09-15, 04:07:33",
-      "https://lobste.rs/s/9zytkh/nix_store_is_three_functions"
-    ],
-    [
-      "A Nix store is three functions",
-      "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 00:29:04",
       "https://lobste.rs/s/q5dgu6/gdscript_good_bad_ugly_parts"
     ],
@@ -207,16 +217,6 @@
     [
       "\"Do You Still Read the Code?\"",
       "https://zanlib.dev/blog/do-you-still-read-the-code/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 17:58:22",
-      "https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer"
-    ],
-    [
-      "A Letter from a Machine Learning Engineer",
-      "https://nemin.hu/llm-letter/index.html"
     ]
   ],
   [
