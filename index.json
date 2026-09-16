@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-09-16, 13:24:31",
+      "https://lobste.rs/s/tgrvxh/forgery_c2pa_on_pixel_10"
+    ],
+    [
+      "Forgery of C2PA on a Pixel 10",
+      "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 13:04:59",
+      "https://lobste.rs/s/zwhnko/smallest_possible_linux_distribution"
+    ],
+    [
+      "The smallest possible Linux distribution",
+      "https://distrowatch.com/weekly.php?issue=20260914#qa"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 12:54:22",
+      "https://lobste.rs/s/nhdqgh/simple_efficient_row_level_security"
+    ],
+    [
+      "Simple and Efficient Row-Level Security",
+      "https://acadia.engineering/blog/simple-and-efficient-row-level-security"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 10:20:07",
+      "https://lobste.rs/s/ue8rof/when_adding_fractional_part_number_fixes"
+    ],
+    [
+      "When adding a fractional part to a number fixes your shader",
+      "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 10:17:30",
+      "https://lobste.rs/s/4tb4nk/reinventing_issue_tracking_local_first"
+    ],
+    [
+      "Reinventing issue tracking: Local-first and Git-native",
+      "https://blog.manganin.dev/blog/reinventing-issue-tracking/"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 07:09:43",
       "https://lobste.rs/s/rwzf83/agent_state_tmux_status_line"
     ],
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2026-09-15, 22:12:07",
-      "https://lobste.rs/s/d7kmuj/txcript_switching_coding_agents_mid"
-    ],
-    [
-      "txcript: Switching coding agents mid-conversation",
-      "https://github.com/skillsynchq/txcript"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 20:50:57",
       "https://lobste.rs/s/f65fy3/small_programming_tricks"
     ],
@@ -117,16 +157,6 @@
     [
       "Swift 6.4 Released",
       "https://www.swift.org/blog/swift-6.4-released/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 18:41:00",
-      "https://lobste.rs/s/hv3l4v/subnormal_floating_point_numbers_are"
-    ],
-    [
-      "Subnormal floating-point numbers are expensive… on Intel processors",
-      "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-09-15, 17:03:47",
-      "https://lobste.rs/s/udwhz2/performance_improvements_net_11"
-    ],
-    [
-      "Performance Improvements in .NET 11",
-      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 13:43:30",
       "https://lobste.rs/s/klussk/converting_20_4g_wireless_hotspot_into"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-09-14, 22:37:17",
-      "https://lobste.rs/s/zttri6/new_equal_area_map_for_interactive"
-    ],
-    [
-      "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
-      "https://www.benjoffe.com/map"
-    ]
-  ],
-  [
-    [
       "2026-09-14, 20:16:07",
       "https://lobste.rs/s/qiwlzz/do_you_still_read_code"
     ],
@@ -237,16 +247,6 @@
     [
       "The contagion of fear",
       "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 15:27:32",
-      "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking"
-    ],
-    [
-      "What blog posts influenced your thinking the most?",
-      "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking"
     ]
   ]
 ]
