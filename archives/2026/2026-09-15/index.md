@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-15](index.md)
 
+* [2026-09-15, 23:03:40](https://lobste.rs/s/5uovkh/unsizing_unsized_values) - [Unsizing unsized values](https://hackmd.io/@WorldSEnder/Hkyqni6Ofl)
 * [2026-09-15, 22:12:07](https://lobste.rs/s/d7kmuj/txcript_switching_coding_agents_mid) - [txcript: Switching coding agents mid-conversation](https://github.com/skillsynchq/txcript)
 * [2026-09-15, 20:50:57](https://lobste.rs/s/f65fy3/small_programming_tricks) - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
 * [2026-09-15, 20:03:12](https://lobste.rs/s/qx8dxe/1password_s_ai_patching_benchmark_is) - [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
