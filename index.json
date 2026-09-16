@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-09-16, 17:22:01",
+      "https://lobste.rs/s/vkdmdy/original_sony_playstation_2_security"
+    ],
+    [
+      "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years",
+      "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 17:18:03",
+      "https://lobste.rs/s/aml2pc/osrs_wiki_runelite_are_increasingly"
+    ],
+    [
+      "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
+      "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 16:58:43",
+      "https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru"
+    ],
+    [
+      "The end of verygoodsoftwarenotvirus.ru",
+      "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 16:27:39",
+      "https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta"
+    ],
+    [
+      "Replacing Pull Requests with Delta",
+      "https://zed.dev/blog/delta-public-beta"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 16:17:16",
+      "https://lobste.rs/s/q35pnm/why_building_rust_lsp_is_hard"
+    ],
+    [
+      "Why building a Rust LSP is hard",
+      "https://rust-glancer.github.io/blog/why-lsp-is-hard/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 16:05:40",
+      "https://lobste.rs/s/qphopj/type_declaration_syntax"
+    ],
+    [
+      "type declaration syntax",
+      "https://citrons.xyz/journal/2026-09-09"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 15:59:17",
+      "https://lobste.rs/s/lvld5b/how_get_doi_for_your_blog_posts"
+    ],
+    [
+      "How to get a DOI for your blog posts",
+      "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 15:04:45",
+      "https://lobste.rs/s/cianny/why_i_m_still_bearish_on_llms_after_navier"
+    ],
+    [
+      "Why i'm still bearish on LLMs after Navier-Stokes",
+      "https://dank.systems/posts/2026-09-15-ai-bear.html"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 13:24:31",
       "https://lobste.rs/s/tgrvxh/forgery_c2pa_on_pixel_10"
     ],
@@ -121,32 +201,12 @@
   ],
   [
     [
-      "2026-09-15, 23:03:40",
-      "https://lobste.rs/s/5uovkh/unsizing_unsized_values"
-    ],
-    [
-      "Unsizing unsized values",
-      "https://hackmd.io/@WorldSEnder/Hkyqni6Ofl"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 20:50:57",
       "https://lobste.rs/s/f65fy3/small_programming_tricks"
     ],
     [
       "Small Programming Tricks",
       "https://will-keleher.com/posts/small-programming-tricks-matter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 20:03:12",
-      "https://lobste.rs/s/qx8dxe/1password_s_ai_patching_benchmark_is"
-    ],
-    [
-      "1Password's AI patching benchmark is misleading",
-      "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/"
     ]
   ],
   [
@@ -161,52 +221,12 @@
   ],
   [
     [
-      "2026-09-15, 18:38:43",
-      "https://lobste.rs/s/jsvadf/from_intern_software_architect"
-    ],
-    [
-      "From Intern to Software Architect",
-      "https://chauhankiran.blogspot.com/2026/09/levels.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 18:24:41",
-      "https://lobste.rs/s/6gro0u/playbook_programmable_paper_notebook"
-    ],
-    [
-      "PlayBook: A Programmable Paper Notebook",
-      "https://www.youtube.com/watch?v=GurWDZ8ENpA"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 17:21:47",
       "https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview"
     ],
     [
       "GEFS on OpenBSD: A very early preview",
       "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 17:09:13",
-      "https://lobste.rs/s/acwuxy/how_much_f_droid_is_llm_generated"
-    ],
-    [
-      "How much of F-Droid is LLM generated?",
-      "https://tintotint.eu/whacky-corner/f-droid_slop/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 13:43:30",
-      "https://lobste.rs/s/klussk/converting_20_4g_wireless_hotspot_into"
-    ],
-    [
-      "Converting a $20 4G wireless hotspot into a texting device",
-      "https://bkovac.github.io/modem-thing/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Coreutils - rejected feature requests",
       "https://www.gnu.org/software/coreutils/rejected_requests.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 20:16:07",
-      "https://lobste.rs/s/qiwlzz/do_you_still_read_code"
-    ],
-    [
-      "\"Do You Still Read the Code?\"",
-      "https://zanlib.dev/blog/do-you-still-read-the-code/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 16:53:14",
-      "https://lobste.rs/s/1ifr5f/contagion_fear"
-    ],
-    [
-      "The contagion of fear",
-      "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/"
     ]
   ]
 ]
