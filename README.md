@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-17, 10:37:58](https://lobste.rs/s/oigetg/your_donations_at_work_one_year_sponsored) - [Your Donations at Work: One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+* [2026-09-17, 10:01:13](https://lobste.rs/s/11uiiv/i_expected_better_from_google) - [I expected better from Google](https://www.minitap.ai/blog/i-expected-better-from-google)
 * [2026-09-17, 06:00:53](https://lobste.rs/s/zeeat3/xapp_apps_work_everywhere) - [XApp — Apps that work everywhere](https://xapp-project.org/)
 * [2026-09-17, 04:17:44](https://lobste.rs/s/jbxpqz/tilia_new_formatter_for_haskell) - [Tilia—a new formatter for Haskell](https://markkarpov.com/post/announcing-tilia.html)
 * [2026-09-16, 22:55:11](https://lobste.rs/s/lox1su/why_tar_gz_files_can_t_be_combined_with_cat) - [Why .tar.gz files can't be combined with cat](https://alexwlchan.net/2026/cat-confusion/)
@@ -22,9 +24,7 @@
 * [2026-09-16, 06:05:38](https://lobste.rs/s/wxnibb/i_shuts_down) - [A/I Shuts Down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
 * [2026-09-16, 03:47:55](https://lobste.rs/s/zutlqt/some_things_veloren_does_differently) - [Some things Veloren does differently](https://blog.jsbarretto.com/post/veloren)
 * [2026-09-16, 03:39:05](https://lobste.rs/s/ynjgbz/ubuntu_26_10_completes_transition_rust) - [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
-* [2026-09-16, 03:17:56](https://lobste.rs/s/jlja1a/jdk_27_has_been_released) - [JDK 27 has been released](https://openjdk.org/projects/jdk/27/)
 * [2026-09-15, 20:50:57](https://lobste.rs/s/f65fy3/small_programming_tricks) - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
-* [2026-09-15, 17:21:47](https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview) - [GEFS on OpenBSD: A very early preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
 
 ## [Archives](archives/index.md)
 
