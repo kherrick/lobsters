@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-17](index.md)
 
+* [2026-09-17, 18:47:39](https://lobste.rs/s/eiqamo/jemalloc_5_4_0_release) - [jemalloc 5.4.0 release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+* [2026-09-17, 18:10:52](https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent) - [Be alert: targeted attacks on prominent Rustaceans](https://blog.rust-lang.org/2026/09/17/targeted-attacks/)
 * [2026-09-17, 16:44:39](https://lobste.rs/s/7d6sh9/labeled_matches_why_is_this_not_every) - [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/)
 * [2026-09-17, 15:25:24](https://lobste.rs/s/pkj7mf/i_don_t_like_llms) - [I Don't Like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)
 * [2026-09-17, 15:10:44](https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n) - [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
