@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-09-16, 19:26:10",
+      "https://lobste.rs/s/7ehqzv/style_guide_for_online_hypertext_1992"
+    ],
+    [
+      "Style Guide for Online Hypertext (1992)",
+      "https://www.w3.org/Provider/Style/"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 18:05:43",
       "https://lobste.rs/s/gs10ad/introducing_gnome_51"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-09-16, 16:55:24",
-      "https://lobste.rs/s/wo4fuj/gothub_lists"
-    ],
-    [
-      "Gothub lists",
-      "https://gothub.org/lists.html"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 16:27:39",
       "https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta"
     ],
@@ -97,6 +97,16 @@
     [
       "Why building a Rust LSP is hard",
       "https://rust-glancer.github.io/blog/why-lsp-is-hard/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 16:05:40",
+      "https://lobste.rs/s/qphopj/type_declaration_syntax"
+    ],
+    [
+      "type declaration syntax",
+      "https://citrons.xyz/journal/2026-09-09"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "The smallest possible Linux distribution",
       "https://distrowatch.com/weekly.php?issue=20260914#qa"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 12:54:22",
-      "https://lobste.rs/s/nhdqgh/simple_efficient_row_level_security"
-    ],
-    [
-      "Simple and Efficient Row-Level Security",
-      "https://acadia.engineering/blog/simple-and-efficient-row-level-security"
     ]
   ],
   [
