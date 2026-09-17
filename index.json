@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-17, 16:44:39",
+      "https://lobste.rs/s/7d6sh9/labeled_matches_why_is_this_not_every"
+    ],
+    [
+      "Labeled matches: why is this not in every regex engine?",
+      "https://iev.ee/blog/categorize-everything-all-at-once/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:25:24",
+      "https://lobste.rs/s/pkj7mf/i_don_t_like_llms"
+    ],
+    [
+      "I Don't Like LLMs",
+      "https://martinfowler.com/articles/2026-dont-like-llms.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:10:44",
+      "https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n"
+    ],
+    [
+      "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+      "https://verdagon.dev/blog/golden-spike-reviving-vale-valen"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:06:08",
+      "https://lobste.rs/s/rok1za/everybody_s_lost_their_minds"
+    ],
+    [
+      "Everybody's Lost Their Minds",
+      "https://www.netmeister.org/blog/everybodys-lost-their-minds.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 13:52:53",
+      "https://lobste.rs/s/iul1vv/trust_benchmark_how_we_let_ai_agent"
+    ],
+    [
+      "Trust, but benchmark: How we let an AI agent optimize Elasticsearch",
+      "https://www.elastic.co/search-labs/blog/ai-code-optimization-elasticsearch-agent-harness"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 13:42:17",
+      "https://lobste.rs/s/mc3zgo/my_temporary_php_fix_from_2014_has_nearly"
+    ],
+    [
+      "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "https://jakeasmith.com/blog/http-build-url/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 12:05:11",
+      "https://lobste.rs/s/hp1xkh/on_learning_programming_age_llms"
+    ],
+    [
+      "On learning programming in an age of LLMs",
+      "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 10:37:58",
       "https://lobste.rs/s/oigetg/your_donations_at_work_one_year_sponsored"
     ],
@@ -17,6 +87,16 @@
     [
       "I expected better from Google",
       "https://www.minitap.ai/blog/i-expected-better-from-google"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 08:57:43",
+      "https://lobste.rs/s/yyijiq/developing_provably_correct_rust_code"
+    ],
+    [
+      "Developing provably correct Rust code with Verus",
+      "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus"
     ]
   ],
   [
@@ -71,16 +151,6 @@
   ],
   [
     [
-      "2026-09-16, 19:26:10",
-      "https://lobste.rs/s/7ehqzv/style_guide_for_online_hypertext_1992"
-    ],
-    [
-      "Style Guide for Online Hypertext (1992)",
-      "https://www.w3.org/Provider/Style/"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 18:05:43",
       "https://lobste.rs/s/gs10ad/introducing_gnome_51"
     ],
@@ -131,16 +201,6 @@
   ],
   [
     [
-      "2026-09-16, 16:27:39",
-      "https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta"
-    ],
-    [
-      "Replacing Pull Requests with Delta",
-      "https://zed.dev/blog/delta-public-beta"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 16:17:16",
       "https://lobste.rs/s/q35pnm/why_building_rust_lsp_is_hard"
     ],
@@ -181,72 +241,12 @@
   ],
   [
     [
-      "2026-09-16, 13:04:59",
-      "https://lobste.rs/s/zwhnko/smallest_possible_linux_distribution"
-    ],
-    [
-      "The smallest possible Linux distribution",
-      "https://distrowatch.com/weekly.php?issue=20260914#qa"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 10:17:30",
-      "https://lobste.rs/s/4tb4nk/reinventing_issue_tracking_local_first"
-    ],
-    [
-      "Reinventing issue tracking: Local-first and Git-native",
-      "https://blog.manganin.dev/blog/reinventing-issue-tracking/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 06:31:52",
-      "https://lobste.rs/s/glywa4/maintaining_love_for_coding_time_ai"
-    ],
-    [
-      "Maintaining the love for coding in the time of AI",
-      "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 06:05:38",
       "https://lobste.rs/s/wxnibb/i_shuts_down"
     ],
     [
       "A/I Shuts Down",
       "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 03:47:55",
-      "https://lobste.rs/s/zutlqt/some_things_veloren_does_differently"
-    ],
-    [
-      "Some things Veloren does differently",
-      "https://blog.jsbarretto.com/post/veloren"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 03:39:05",
-      "https://lobste.rs/s/ynjgbz/ubuntu_26_10_completes_transition_rust"
-    ],
-    [
-      "Ubuntu 26.10 completes transition to Rust-based coreutils",
-      "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 20:50:57",
-      "https://lobste.rs/s/f65fy3/small_programming_tricks"
-    ],
-    [
-      "Small Programming Tricks",
-      "https://will-keleher.com/posts/small-programming-tricks-matter/"
     ]
   ]
 ]
