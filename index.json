@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-17, 21:21:18",
+      "https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security"
+    ],
+    [
+      "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+      "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 20:06:00",
+      "https://lobste.rs/s/marwqj/bonobomock_googletest_compatible_c"
+    ],
+    [
+      "bonobomock: A GoogleTest-compatible C++ mocking library",
+      "https://github.com/bloomberg/bonobomock/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 18:47:39",
       "https://lobste.rs/s/eiqamo/jemalloc_5_4_0_release"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-09-16, 21:06:25",
-      "https://lobste.rs/s/phbfog/reversing_factorio_s_rng"
-    ],
-    [
-      "Reversing Factorio's RNG",
-      "https://gegell.github.io/posts/factorio-rng/"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 19:33:37",
       "https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer"
     ],
@@ -197,16 +207,6 @@
     [
       "The end of verygoodsoftwarenotvirus.ru",
       "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 16:17:16",
-      "https://lobste.rs/s/q35pnm/why_building_rust_lsp_is_hard"
-    ],
-    [
-      "Why building a Rust LSP is hard",
-      "https://rust-glancer.github.io/blog/why-lsp-is-hard/"
     ]
   ],
   [
