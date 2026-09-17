@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-17](index.md)
 
+* [2026-09-17, 21:21:18](https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security) - [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)
+* [2026-09-17, 20:06:00](https://lobste.rs/s/marwqj/bonobomock_googletest_compatible_c) - [bonobomock: A GoogleTest-compatible C++ mocking library](https://github.com/bloomberg/bonobomock/)
 * [2026-09-17, 18:47:39](https://lobste.rs/s/eiqamo/jemalloc_5_4_0_release) - [jemalloc 5.4.0 release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 * [2026-09-17, 18:10:52](https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent) - [Be alert: targeted attacks on prominent Rustaceans](https://blog.rust-lang.org/2026/09/17/targeted-attacks/)
 * [2026-09-17, 16:44:39](https://lobste.rs/s/7d6sh9/labeled_matches_why_is_this_not_every) - [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/)
