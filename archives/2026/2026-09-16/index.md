@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 22:55:11](https://lobste.rs/s/lox1su/why_tar_gz_files_can_t_be_combined_with_cat) - [Why .tar.gz files can't be combined with cat](https://alexwlchan.net/2026/cat-confusion/)
 * [2026-09-16, 21:06:25](https://lobste.rs/s/phbfog/reversing_factorio_s_rng) - [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
 * [2026-09-16, 19:33:37](https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer) - [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
 * [2026-09-16, 19:26:10](https://lobste.rs/s/7ehqzv/style_guide_for_online_hypertext_1992) - [Style Guide for Online Hypertext (1992)](https://www.w3.org/Provider/Style/)
