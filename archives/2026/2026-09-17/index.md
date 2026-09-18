@@ -12,6 +12,7 @@
 * [2026-09-17, 15:25:24](https://lobste.rs/s/pkj7mf/i_don_t_like_llms) - [I Don't Like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)
 * [2026-09-17, 15:10:44](https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n) - [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
 * [2026-09-17, 15:06:08](https://lobste.rs/s/rok1za/everybody_s_lost_their_minds) - [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
+* [2026-09-17, 14:45:33](https://lobste.rs/s/iq4dwz/harnesstax_how_much_does_harness_matter) - [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
 * [2026-09-17, 13:52:53](https://lobste.rs/s/iul1vv/trust_benchmark_how_we_let_ai_agent) - [Trust, but benchmark: How we let an AI agent optimize Elasticsearch](https://www.elastic.co/search-labs/blog/ai-code-optimization-elasticsearch-agent-harness)
 * [2026-09-17, 13:42:17](https://lobste.rs/s/mc3zgo/my_temporary_php_fix_from_2014_has_nearly) - [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
 * [2026-09-17, 12:05:11](https://lobste.rs/s/hp1xkh/on_learning_programming_age_llms) - [On learning programming in an age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
