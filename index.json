@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-09-18, 13:14:17",
+      "https://lobste.rs/s/j4oyxa/typst_makes_big_strides"
+    ],
+    [
+      "Typst makes big strides",
+      "https://lwn.net/Articles/1092993/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 12:52:18",
+      "https://lobste.rs/s/4a7qly/i_don_t_like_passkeys"
+    ],
+    [
+      "I don't like passkeys",
+      "https://hawksley.dev/blog/i-dont-like-passkeys"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 10:26:42",
+      "https://lobste.rs/s/htziuj/hacking_openai"
+    ],
+    [
+      "Hacking OpenAI",
+      "https://www.hacktron.ai/blog/hacking-openai"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 09:21:24",
       "https://lobste.rs/s/ltjgvl/c_20_s_u8_char8_t_backward_compatibility"
     ],
     [
       "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
       "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 08:42:48",
-      "https://lobste.rs/s/eeykfl/flet_build_cross_platform_apps_python"
-    ],
-    [
-      "Flet : Build cross-platform apps in Python",
-      "https://flet.dev/"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Not In My Git Yard: Catching Backdoors at Commit and Release Time",
       "https://arxiv.org/abs/2607.26719"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 07:57:04",
+      "https://lobste.rs/s/7d3zs8/quartet_linux_local_root_vulns_dirtyah6"
+    ],
+    [
+      "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
+      "https://seclists.org/oss-sec/2026/q3/822"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-09-17, 12:05:11",
-      "https://lobste.rs/s/hp1xkh/on_learning_programming_age_llms"
-    ],
-    [
-      "On learning programming in an age of LLMs",
-      "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 10:37:58",
       "https://lobste.rs/s/oigetg/your_donations_at_work_one_year_sponsored"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-09-17, 04:17:44",
-      "https://lobste.rs/s/jbxpqz/tilia_new_formatter_for_haskell"
-    ],
-    [
-      "Tilia—a new formatter for Haskell",
-      "https://markkarpov.com/post/announcing-tilia.html"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 18:05:43",
       "https://lobste.rs/s/gs10ad/introducing_gnome_51"
     ],
@@ -237,16 +247,6 @@
     [
       "The end of verygoodsoftwarenotvirus.ru",
       "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 15:59:17",
-      "https://lobste.rs/s/lvld5b/how_get_doi_for_your_blog_posts"
-    ],
-    [
-      "How to get a DOI for your blog posts",
-      "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/"
     ]
   ]
 ]
