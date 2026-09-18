@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-18, 09:21:24",
+      "https://lobste.rs/s/ltjgvl/c_20_s_u8_char8_t_backward_compatibility"
+    ],
+    [
+      "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
+      "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 08:42:48",
+      "https://lobste.rs/s/eeykfl/flet_build_cross_platform_apps_python"
+    ],
+    [
+      "Flet : Build cross-platform apps in Python",
+      "https://flet.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 08:28:04",
+      "https://lobste.rs/s/r9wkkk/bonsai_2_27b_near_lossless_compression_9x"
+    ],
+    [
+      "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "https://prismml.com/news/bonsai-2-27b"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 08:15:30",
+      "https://lobste.rs/s/xysdy9/bend"
+    ],
+    [
+      "Bend",
+      "https://bend-lang.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 08:15:23",
+      "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 08:14:52",
+      "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech"
+    ],
+    [
+      "What is still exciting in tech?",
+      "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 08:14:44",
+      "https://lobste.rs/s/tvrnbv/not_my_git_yard_catching_backdoors_at"
+    ],
+    [
+      "Not In My Git Yard: Catching Backdoors at Commit and Release Time",
+      "https://arxiv.org/abs/2607.26719"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 00:27:43",
       "https://lobste.rs/s/3qdik0/telstra_outage_night_network_decided"
     ],
@@ -101,16 +171,6 @@
   ],
   [
     [
-      "2026-09-17, 14:45:33",
-      "https://lobste.rs/s/iq4dwz/harnesstax_how_much_does_harness_matter"
-    ],
-    [
-      "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-      "https://harnesstax.github.io/"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 13:42:17",
       "https://lobste.rs/s/mc3zgo/my_temporary_php_fix_from_2014_has_nearly"
     ],
@@ -151,16 +211,6 @@
   ],
   [
     [
-      "2026-09-17, 06:00:53",
-      "https://lobste.rs/s/zeeat3/xapp_apps_work_everywhere"
-    ],
-    [
-      "XApp — Apps that work everywhere",
-      "https://xapp-project.org/"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 04:17:44",
       "https://lobste.rs/s/jbxpqz/tilia_new_formatter_for_haskell"
     ],
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2026-09-16, 22:55:11",
-      "https://lobste.rs/s/lox1su/why_tar_gz_files_can_t_be_combined_with_cat"
-    ],
-    [
-      "Why .tar.gz files can't be combined with cat",
-      "https://alexwlchan.net/2026/cat-confusion/"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 18:05:43",
       "https://lobste.rs/s/gs10ad/introducing_gnome_51"
     ],
     [
       "Introducing GNOME 51",
       "https://release.gnome.org/51/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 17:38:31",
-      "https://lobste.rs/s/sh6yeo/unicode_18_0_0"
-    ],
-    [
-      "Unicode 18.0.0",
-      "https://www.unicode.org/versions/Unicode18.0.0/"
     ]
   ],
   [
@@ -217,36 +247,6 @@
     [
       "How to get a DOI for your blog posts",
       "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 15:04:45",
-      "https://lobste.rs/s/cianny/why_i_m_still_bearish_on_llms_after_navier"
-    ],
-    [
-      "Why i'm still bearish on LLMs after Navier-Stokes",
-      "https://dank.systems/posts/2026-09-15-ai-bear.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 13:24:31",
-      "https://lobste.rs/s/tgrvxh/forgery_c2pa_on_pixel_10"
-    ],
-    [
-      "Forgery of C2PA on a Pixel 10",
-      "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 06:05:38",
-      "https://lobste.rs/s/wxnibb/i_shuts_down"
-    ],
-    [
-      "A/I Shuts Down",
-      "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"
     ]
   ]
 ]
