@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 18:44:21](https://lobste.rs/s/c9nglp/researchers_achieve_fastest_most) - [Researchers achieve fastest and most complex DNA computer to date](https://interestingengineering.com/science/first-of-its-kind-dna-computer-solves-complex-math-without-wires-or-continuous-power)
+* [2026-09-18, 17:15:40](https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your) - [There's no point at which turning your brain off will work](https://danluu.com/brain-off/)
+* [2026-09-18, 16:25:19](https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling) - [awesome-tunneling: List of tunneling software and services](https://github.com/anderspitman/awesome-tunneling)
 * [2026-09-18, 15:30:01](https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable) - [FAQ: Why isn’t mutable a subtype of immutable, or vice versa?](https://crumbles.blog/posts/2026-09-17-immutable-mutable.html)
+* [2026-09-18, 15:25:08](https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold) - [Benchmarking Wild vs Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html)
 * [2026-09-18, 14:21:53](https://lobste.rs/s/riugyt/release_v0_29_0_warp_tech_warpgate) - [Release v0.29.0 · warp-tech/warpgate](https://github.com/warp-tech/warpgate/releases/tag/v0.29.0)
 * [2026-09-18, 14:04:44](https://lobste.rs/s/xr7p0k/internet_phone_book) - [Internet Phone Book](https://internetphonebook.net/)
 * [2026-09-18, 13:14:17](https://lobste.rs/s/j4oyxa/typst_makes_big_strides) - [Typst makes big strides](https://lwn.net/Articles/1092993/)
