@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 15:30:01](https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable) - [FAQ: Why isn’t mutable a subtype of immutable, or vice versa?](https://crumbles.blog/posts/2026-09-17-immutable-mutable.html)
+* [2026-09-18, 14:21:53](https://lobste.rs/s/riugyt/release_v0_29_0_warp_tech_warpgate) - [Release v0.29.0 · warp-tech/warpgate](https://github.com/warp-tech/warpgate/releases/tag/v0.29.0)
+* [2026-09-18, 14:04:44](https://lobste.rs/s/xr7p0k/internet_phone_book) - [Internet Phone Book](https://internetphonebook.net/)
 * [2026-09-18, 13:14:17](https://lobste.rs/s/j4oyxa/typst_makes_big_strides) - [Typst makes big strides](https://lwn.net/Articles/1092993/)
 * [2026-09-18, 12:52:18](https://lobste.rs/s/4a7qly/i_don_t_like_passkeys) - [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
 * [2026-09-18, 10:26:42](https://lobste.rs/s/htziuj/hacking_openai) - [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)

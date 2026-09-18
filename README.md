@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-18, 15:30:01](https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable) - [FAQ: Why isn’t mutable a subtype of immutable, or vice versa?](https://crumbles.blog/posts/2026-09-17-immutable-mutable.html)
+* [2026-09-18, 14:21:53](https://lobste.rs/s/riugyt/release_v0_29_0_warp_tech_warpgate) - [Release v0.29.0 · warp-tech/warpgate](https://github.com/warp-tech/warpgate/releases/tag/v0.29.0)
+* [2026-09-18, 14:04:44](https://lobste.rs/s/xr7p0k/internet_phone_book) - [Internet Phone Book](https://internetphonebook.net/)
 * [2026-09-18, 13:14:17](https://lobste.rs/s/j4oyxa/typst_makes_big_strides) - [Typst makes big strides](https://lwn.net/Articles/1092993/)
 * [2026-09-18, 12:52:18](https://lobste.rs/s/4a7qly/i_don_t_like_passkeys) - [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
 * [2026-09-18, 10:26:42](https://lobste.rs/s/htziuj/hacking_openai) - [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
@@ -21,10 +24,7 @@
 * [2026-09-17, 15:10:44](https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n) - [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
 * [2026-09-17, 15:06:08](https://lobste.rs/s/rok1za/everybody_s_lost_their_minds) - [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
 * [2026-09-17, 13:42:17](https://lobste.rs/s/mc3zgo/my_temporary_php_fix_from_2014_has_nearly) - [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
-* [2026-09-17, 10:37:58](https://lobste.rs/s/oigetg/your_donations_at_work_one_year_sponsored) - [Your Donations at Work: One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
 * [2026-09-17, 10:01:13](https://lobste.rs/s/11uiiv/i_expected_better_from_google) - [I expected better from Google](https://www.minitap.ai/blog/i-expected-better-from-google)
-* [2026-09-16, 18:05:43](https://lobste.rs/s/gs10ad/introducing_gnome_51) - [Introducing GNOME 51](https://release.gnome.org/51/)
-* [2026-09-16, 16:58:43](https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru) - [The end of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/)
 
 ## [Archives](archives/index.md)
 
