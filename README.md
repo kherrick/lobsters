@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-18, 18:44:21](https://lobste.rs/s/c9nglp/researchers_achieve_fastest_most) - [Researchers achieve fastest and most complex DNA computer to date](https://interestingengineering.com/science/first-of-its-kind-dna-computer-solves-complex-math-without-wires-or-continuous-power)
+* [2026-09-18, 20:38:52](https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose) - [Vale, code-like linting for prose](https://vale.sh)
+* [2026-09-18, 19:46:10](https://lobste.rs/s/9myagn/bikeshed_email_phks_bikeshed) - [The Bikeshed email — PHKs Bikeshed](https://phk.freebsd.dk/sagas/bikeshed/)
 * [2026-09-18, 17:15:40](https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your) - [There's no point at which turning your brain off will work](https://danluu.com/brain-off/)
 * [2026-09-18, 16:25:19](https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling) - [awesome-tunneling: List of tunneling software and services](https://github.com/anderspitman/awesome-tunneling)
 * [2026-09-18, 15:30:01](https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable) - [FAQ: Why isn’t mutable a subtype of immutable, or vice versa?](https://crumbles.blog/posts/2026-09-17-immutable-mutable.html)
@@ -21,7 +22,6 @@
 * [2026-09-17, 21:21:18](https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security) - [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/)
 * [2026-09-17, 18:10:52](https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent) - [Be alert: targeted attacks on prominent Rustaceans](https://blog.rust-lang.org/2026/09/17/targeted-attacks/)
 * [2026-09-17, 16:44:39](https://lobste.rs/s/7d6sh9/labeled_matches_why_is_this_not_every) - [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/)
-* [2026-09-17, 15:25:24](https://lobste.rs/s/pkj7mf/i_don_t_like_llms) - [I Don't Like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)
 * [2026-09-17, 15:10:44](https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n) - [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen)
 * [2026-09-17, 15:06:08](https://lobste.rs/s/rok1za/everybody_s_lost_their_minds) - [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
 * [2026-09-17, 10:01:13](https://lobste.rs/s/11uiiv/i_expected_better_from_google) - [I expected better from Google](https://www.minitap.ai/blog/i-expected-better-from-google)
