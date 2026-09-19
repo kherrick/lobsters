@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
 * [2026-09-18, 22:11:51](https://lobste.rs/s/bcfzlc/css_tricks_could_be_co_op) - [CSS-Tricks could be a co-op](https://ericwbailey.website/published/css-tricks-could-be-a-co-op/)
+* [2026-09-18, 22:08:47](https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than) - [Unit tests mark territory more than squash bugs](https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html)
 * [2026-09-18, 20:38:52](https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose) - [Vale, code-like linting for prose](https://vale.sh)
 * [2026-09-18, 19:46:10](https://lobste.rs/s/9myagn/bikeshed_email_phks_bikeshed) - [The Bikeshed email — PHKs Bikeshed](https://phk.freebsd.dk/sagas/bikeshed/)
 * [2026-09-18, 19:36:19](https://lobste.rs/s/9njxl2/sudo_opendoas_timestamp_files_2020) - [sudo and OpenDoas timestamp files (2020)](https://π.duncano.de/sudo-doas-timestamp-files)
