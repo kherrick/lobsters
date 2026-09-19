@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 22:27:02](https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers) - [Thoughts on the Future of Web Browsers](https://sarahjamielewis.com/log/2026/future-of-web-browsers.html)
+* [2026-09-19, 21:25:34](https://lobste.rs/s/adploh/cleanshot_s_bulldozed_settings) - [CleanShot’s bulldozed settings](https://unsung.aresluna.org/cleanshots-bulldozed-settings/)
 * [2026-09-19, 19:27:46](https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere) - [we have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
 * [2026-09-19, 18:46:39](https://lobste.rs/s/k5shc5/persistent_databases_browser_with) - [Persistent Databases in the Browser with DuckDB-Wasm and OPFS](https://duckdb.org/2026/09/18/opfs-wasm)
 * [2026-09-19, 18:42:48](https://lobste.rs/s/rpc7qb/thread_identity_switcheroo_for_io_uring) - [Thread-identity switcheroo for io_uring](https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/)
