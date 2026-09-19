@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-19, 06:56:24",
+      "https://lobste.rs/s/ukzxid/write_while_learning"
+    ],
+    [
+      "Write while learning",
+      "https://purplesyringa.moe/blog/write-while-learning/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 05:01:05",
+      "https://lobste.rs/s/iq6w6l/scourge_x86_emulation"
+    ],
+    [
+      "The scourge of x86 emulation",
+      "https://fex-emu.com/Scourge-of-emulation/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 04:22:19",
+      "https://lobste.rs/s/c0ei1a/openloco_version_26_09"
+    ],
+    [
+      "OpenLoco version 26.09",
+      "https://openloco.io/news/2026/09/openloco-v26.09.html"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 00:28:07",
       "https://lobste.rs/s/meo3ou/saving_another_100tb_ram_with_math_rust"
     ],
@@ -17,6 +47,16 @@
     [
       "CSS-Tricks could be a co-op",
       "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 22:08:47",
+      "https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than"
+    ],
+    [
+      "Unit tests mark territory more than squash bugs",
+      "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-09-18, 10:26:42",
-      "https://lobste.rs/s/htziuj/hacking_openai"
-    ],
-    [
-      "Hacking OpenAI",
-      "https://www.hacktron.ai/blog/hacking-openai"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 09:21:24",
       "https://lobste.rs/s/ltjgvl/c_20_s_u8_char8_t_backward_compatibility"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-09-18, 00:05:10",
-      "https://lobste.rs/s/ebbixx/introducing_system_one_models_jev"
-    ],
-    [
-      "Introducing System One Models & Jev",
-      "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 00:00:28",
       "https://lobste.rs/s/vzql1n/we_must_create_shit_machine"
     ],
@@ -227,26 +247,6 @@
     [
       "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
       "https://verdagon.dev/blog/golden-spike-reviving-vale-valen"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 15:06:08",
-      "https://lobste.rs/s/rok1za/everybody_s_lost_their_minds"
-    ],
-    [
-      "Everybody's Lost Their Minds",
-      "https://www.netmeister.org/blog/everybodys-lost-their-minds.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 10:01:13",
-      "https://lobste.rs/s/11uiiv/i_expected_better_from_google"
-    ],
-    [
-      "I expected better from Google",
-      "https://www.minitap.ai/blog/i-expected-better-from-google"
     ]
   ]
 ]
