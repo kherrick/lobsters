@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-19, 17:11:45",
+      "https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata"
+    ],
+    [
+      "Secure VMs for Kubernetes: Hardening Kata containers",
+      "https://srcreigh.ca/posts/auditable-kata/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 16:31:05",
+      "https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision"
+    ],
+    [
+      "Laya — 33ms Multilingual System 1 Decision Engine",
+      "https://laya.convaiinnovations.com/"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 15:44:52",
       "https://lobste.rs/s/blmlco/ai_is_elite_crime_spree"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-09-19, 09:52:30",
-      "https://lobste.rs/s/7knhjd/how_openai_used_its_own_llms_design_its"
-    ],
-    [
-      "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "https://spectrum.ieee.org/llms-for-chip-design"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 08:44:38",
       "https://lobste.rs/s/ywnsld/gpt_6_astra_solves_wwi_german_radio_cipher"
     ],
@@ -177,16 +187,6 @@
     [
       "Vale, code-like linting for prose",
       "https://vale.sh"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 19:36:19",
-      "https://lobste.rs/s/9njxl2/sudo_opendoas_timestamp_files_2020"
-    ],
-    [
-      "sudo and OpenDoas timestamp files (2020)",
-      "https://π.duncano.de/sudo-doas-timestamp-files"
     ]
   ],
   [
