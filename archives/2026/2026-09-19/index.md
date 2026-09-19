@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 15:44:52](https://lobste.rs/s/blmlco/ai_is_elite_crime_spree) - [AI Is an Elite Crime Spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
+* [2026-09-19, 15:10:09](https://lobste.rs/s/1auq61/faster_json_parsing_with_sve2_on_arm) - [Faster JSON parsing with SVE2 on ARM processors](https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/)
+* [2026-09-19, 14:28:49](https://lobste.rs/s/xfeuet/reviving_language_brought_us_jak_daxter) - [Reviving the language that brought us the Jak & Daxter Series](https://opengoal.dev/)
+* [2026-09-19, 14:24:51](https://lobste.rs/s/eplmed/consistent_hashing_proofs) - [Consistent Hashing Proofs](https://ch.terabyteoff.com/)
+* [2026-09-19, 13:41:57](https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision) - [I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"](https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me)
+* [2026-09-19, 12:38:11](https://lobste.rs/s/hmkk2c/kicking_tires_on_jev_typesafe_s_system_one) - [kicking the tires on jev (TypeSafe's System One model) with 2048](https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb)
+* [2026-09-19, 12:12:18](https://lobste.rs/s/sn8voe/secret_life_circuits_is_here) - [“The Secret Life of Circuits” is here](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)
+* [2026-09-19, 12:08:52](https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare) - [Don’t Let Architecture Astronauts Scare You (2001)](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 * [2026-09-19, 11:53:28](https://lobste.rs/s/q75kgo/what_happens_tlds_when_their_country) - [What happens to TLDs when their country stops existing? (2022)](https://astrid.tech/2022/04/05/0/dead-tlds/)
 * [2026-09-19, 11:36:56](https://lobste.rs/s/upvrzs/lispbm_concurrent_lisp_for) - [LispBM: Concurrent Lisp for Microcontrollers](https://www.lispbm.com/)
 * [2026-09-19, 09:52:30](https://lobste.rs/s/7knhjd/how_openai_used_its_own_llms_design_its) - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
