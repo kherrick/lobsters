@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 22:11:51](https://lobste.rs/s/bcfzlc/css_tricks_could_be_co_op) - [CSS-Tricks could be a co-op](https://ericwbailey.website/published/css-tricks-could-be-a-co-op/)
 * [2026-09-18, 20:38:52](https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose) - [Vale, code-like linting for prose](https://vale.sh)
 * [2026-09-18, 19:46:10](https://lobste.rs/s/9myagn/bikeshed_email_phks_bikeshed) - [The Bikeshed email — PHKs Bikeshed](https://phk.freebsd.dk/sagas/bikeshed/)
+* [2026-09-18, 19:36:19](https://lobste.rs/s/9njxl2/sudo_opendoas_timestamp_files_2020) - [sudo and OpenDoas timestamp files (2020)](https://π.duncano.de/sudo-doas-timestamp-files)
 * [2026-09-18, 18:44:21](https://lobste.rs/s/c9nglp/researchers_achieve_fastest_most) - [Researchers achieve fastest and most complex DNA computer to date](https://interestingengineering.com/science/first-of-its-kind-dna-computer-solves-complex-math-without-wires-or-continuous-power)
 * [2026-09-18, 17:15:40](https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your) - [There's no point at which turning your brain off will work](https://danluu.com/brain-off/)
 * [2026-09-18, 16:25:19](https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling) - [awesome-tunneling: List of tunneling software and services](https://github.com/anderspitman/awesome-tunneling)
