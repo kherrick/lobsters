@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-19, 19:27:46",
+      "https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere"
+    ],
+    [
+      "we have a year to fix security everywhere",
+      "https://jyn.dev/a-year-to-fix-security/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 18:46:39",
+      "https://lobste.rs/s/k5shc5/persistent_databases_browser_with"
+    ],
+    [
+      "Persistent Databases in the Browser with DuckDB-Wasm and OPFS",
+      "https://duckdb.org/2026/09/18/opfs-wasm"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 18:42:48",
+      "https://lobste.rs/s/rpc7qb/thread_identity_switcheroo_for_io_uring"
+    ],
+    [
+      "Thread-identity switcheroo for io_uring",
+      "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 17:11:45",
       "https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2026-09-18, 20:38:52",
-      "https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose"
-    ],
-    [
-      "Vale, code-like linting for prose",
-      "https://vale.sh"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 17:15:40",
       "https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your"
     ],
     [
       "There's no point at which turning your brain off will work",
       "https://danluu.com/brain-off/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 15:30:01",
-      "https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable"
-    ],
-    [
-      "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
-      "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I don't like passkeys",
       "https://hawksley.dev/blog/i-dont-like-passkeys"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 08:14:52",
-      "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech"
-    ],
-    [
-      "What is still exciting in tech?",
-      "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech"
     ]
   ]
 ]
