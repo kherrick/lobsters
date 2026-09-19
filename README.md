@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-19, 19:27:46](https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere) - [we have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
+* [2026-09-19, 18:46:39](https://lobste.rs/s/k5shc5/persistent_databases_browser_with) - [Persistent Databases in the Browser with DuckDB-Wasm and OPFS](https://duckdb.org/2026/09/18/opfs-wasm)
+* [2026-09-19, 18:42:48](https://lobste.rs/s/rpc7qb/thread_identity_switcheroo_for_io_uring) - [Thread-identity switcheroo for io_uring](https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/)
 * [2026-09-19, 17:11:45](https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata) - [Secure VMs for Kubernetes: Hardening Kata containers](https://srcreigh.ca/posts/auditable-kata/)
 * [2026-09-19, 16:31:05](https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision) - [Laya — 33ms Multilingual System 1 Decision Engine](https://laya.convaiinnovations.com/)
 * [2026-09-19, 15:44:52](https://lobste.rs/s/blmlco/ai_is_elite_crime_spree) - [AI Is an Elite Crime Spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
@@ -18,13 +21,10 @@
 * [2026-09-19, 04:22:19](https://lobste.rs/s/c0ei1a/openloco_version_26_09) - [OpenLoco version 26.09](https://openloco.io/news/2026/09/openloco-v26.09.html)
 * [2026-09-19, 00:28:07](https://lobste.rs/s/meo3ou/saving_another_100tb_ram_with_math_rust) - [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
 * [2026-09-18, 22:11:51](https://lobste.rs/s/bcfzlc/css_tricks_could_be_co_op) - [CSS-Tricks could be a co-op](https://ericwbailey.website/published/css-tricks-could-be-a-co-op/)
-* [2026-09-18, 20:38:52](https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose) - [Vale, code-like linting for prose](https://vale.sh)
 * [2026-09-18, 17:15:40](https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your) - [There's no point at which turning your brain off will work](https://danluu.com/brain-off/)
-* [2026-09-18, 15:30:01](https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable) - [FAQ: Why isn’t mutable a subtype of immutable, or vice versa?](https://crumbles.blog/posts/2026-09-17-immutable-mutable.html)
 * [2026-09-18, 15:25:08](https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold) - [Benchmarking Wild vs Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html)
 * [2026-09-18, 13:14:17](https://lobste.rs/s/j4oyxa/typst_makes_big_strides) - [Typst makes big strides](https://lwn.net/Articles/1092993/)
 * [2026-09-18, 12:52:18](https://lobste.rs/s/4a7qly/i_don_t_like_passkeys) - [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
-* [2026-09-18, 08:14:52](https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech) - [What is still exciting in tech?](https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech)
 
 ## [Archives](archives/index.md)
 

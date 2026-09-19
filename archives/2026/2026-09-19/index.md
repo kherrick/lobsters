@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 19:27:46](https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere) - [we have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
+* [2026-09-19, 18:46:39](https://lobste.rs/s/k5shc5/persistent_databases_browser_with) - [Persistent Databases in the Browser with DuckDB-Wasm and OPFS](https://duckdb.org/2026/09/18/opfs-wasm)
+* [2026-09-19, 18:42:48](https://lobste.rs/s/rpc7qb/thread_identity_switcheroo_for_io_uring) - [Thread-identity switcheroo for io_uring](https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/)
 * [2026-09-19, 17:11:45](https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata) - [Secure VMs for Kubernetes: Hardening Kata containers](https://srcreigh.ca/posts/auditable-kata/)
 * [2026-09-19, 16:31:05](https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision) - [Laya — 33ms Multilingual System 1 Decision Engine](https://laya.convaiinnovations.com/)
 * [2026-09-19, 15:44:52](https://lobste.rs/s/blmlco/ai_is_elite_crime_spree) - [AI Is an Elite Crime Spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
