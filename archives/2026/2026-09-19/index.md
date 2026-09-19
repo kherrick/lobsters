@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 17:11:45](https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata) - [Secure VMs for Kubernetes: Hardening Kata containers](https://srcreigh.ca/posts/auditable-kata/)
+* [2026-09-19, 16:31:05](https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision) - [Laya — 33ms Multilingual System 1 Decision Engine](https://laya.convaiinnovations.com/)
 * [2026-09-19, 15:44:52](https://lobste.rs/s/blmlco/ai_is_elite_crime_spree) - [AI Is an Elite Crime Spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
 * [2026-09-19, 15:10:09](https://lobste.rs/s/1auq61/faster_json_parsing_with_sve2_on_arm) - [Faster JSON parsing with SVE2 on ARM processors](https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/)
 * [2026-09-19, 14:28:49](https://lobste.rs/s/xfeuet/reviving_language_brought_us_jak_daxter) - [Reviving the language that brought us the Jak & Daxter Series](https://opengoal.dev/)

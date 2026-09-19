@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-19, 17:11:45](https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata) - [Secure VMs for Kubernetes: Hardening Kata containers](https://srcreigh.ca/posts/auditable-kata/)
+* [2026-09-19, 16:31:05](https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision) - [Laya — 33ms Multilingual System 1 Decision Engine](https://laya.convaiinnovations.com/)
 * [2026-09-19, 15:44:52](https://lobste.rs/s/blmlco/ai_is_elite_crime_spree) - [AI Is an Elite Crime Spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
 * [2026-09-19, 15:10:09](https://lobste.rs/s/1auq61/faster_json_parsing_with_sve2_on_arm) - [Faster JSON parsing with SVE2 on ARM processors](https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/)
 * [2026-09-19, 14:28:49](https://lobste.rs/s/xfeuet/reviving_language_brought_us_jak_daxter) - [Reviving the language that brought us the Jak & Daxter Series](https://opengoal.dev/)
@@ -10,7 +12,6 @@
 * [2026-09-19, 12:08:52](https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare) - [Don’t Let Architecture Astronauts Scare You (2001)](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 * [2026-09-19, 11:53:28](https://lobste.rs/s/q75kgo/what_happens_tlds_when_their_country) - [What happens to TLDs when their country stops existing? (2022)](https://astrid.tech/2022/04/05/0/dead-tlds/)
 * [2026-09-19, 11:36:56](https://lobste.rs/s/upvrzs/lispbm_concurrent_lisp_for) - [LispBM: Concurrent Lisp for Microcontrollers](https://www.lispbm.com/)
-* [2026-09-19, 09:52:30](https://lobste.rs/s/7knhjd/how_openai_used_its_own_llms_design_its) - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
 * [2026-09-19, 08:44:38](https://lobste.rs/s/ywnsld/gpt_6_astra_solves_wwi_german_radio_cipher) - [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
 * [2026-09-19, 06:56:24](https://lobste.rs/s/ukzxid/write_while_learning) - [Write while learning](https://purplesyringa.moe/blog/write-while-learning/)
 * [2026-09-19, 05:01:05](https://lobste.rs/s/iq6w6l/scourge_x86_emulation) - [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
@@ -18,7 +19,6 @@
 * [2026-09-19, 00:28:07](https://lobste.rs/s/meo3ou/saving_another_100tb_ram_with_math_rust) - [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
 * [2026-09-18, 22:11:51](https://lobste.rs/s/bcfzlc/css_tricks_could_be_co_op) - [CSS-Tricks could be a co-op](https://ericwbailey.website/published/css-tricks-could-be-a-co-op/)
 * [2026-09-18, 20:38:52](https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose) - [Vale, code-like linting for prose](https://vale.sh)
-* [2026-09-18, 19:36:19](https://lobste.rs/s/9njxl2/sudo_opendoas_timestamp_files_2020) - [sudo and OpenDoas timestamp files (2020)](https://π.duncano.de/sudo-doas-timestamp-files)
 * [2026-09-18, 17:15:40](https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your) - [There's no point at which turning your brain off will work](https://danluu.com/brain-off/)
 * [2026-09-18, 15:30:01](https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable) - [FAQ: Why isn’t mutable a subtype of immutable, or vice versa?](https://crumbles.blog/posts/2026-09-17-immutable-mutable.html)
 * [2026-09-18, 15:25:08](https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold) - [Benchmarking Wild vs Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html)
