@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 16:04:18](https://lobste.rs/s/o6vyfj/lambda_microegg) - [Lambda MicroEgg](https://www.philipzucker.com/lambda_miller_egg/)
+* [2026-09-20, 15:31:09](https://lobste.rs/s/ilqm2u/what_s_been_going_on_w64devkit_past_year) - [What's been going on in w64devkit the past year](https://nullprogram.com/blog/2026/09/20/)
+* [2026-09-20, 14:13:11](https://lobste.rs/s/brptxb/software_sandboxing_basics_2025) - [Software sandboxing: The basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
 * [2026-09-20, 12:06:29](https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing) - [How Notion handles concurrent editing with CRDTs](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts)
 * [2026-09-20, 10:51:04](https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem) - [Beyond jj: config & tools ecosystem](https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/)
 * [2026-09-20, 10:04:37](https://lobste.rs/s/bvsaiy/using_non_breakable_spaces_test_method) - [Using non-breakable spaces in test method names](https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names)
