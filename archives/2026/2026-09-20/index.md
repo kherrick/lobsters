@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 19:14:36](https://lobste.rs/s/lmmuu3/adversarial_examples_for_fast_hash) - [Adversarial examples for fast hash functions](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
+* [2026-09-20, 17:43:10](https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other) - [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+* [2026-09-20, 17:18:49](https://lobste.rs/s/hbipbf/vim_s_usergettingbored_autocmd) - [Vim's UserGettingBored autocmd](https://evanhahn.com/usergettingbored-vim/)
+* [2026-09-20, 17:13:41](https://lobste.rs/s/xrnbcn/actively_maintained_updated_motif_fork) - [An actively maintained and updated Motif fork actually exists](https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/)
 * [2026-09-20, 16:04:18](https://lobste.rs/s/o6vyfj/lambda_microegg) - [Lambda MicroEgg](https://www.philipzucker.com/lambda_miller_egg/)
 * [2026-09-20, 15:31:09](https://lobste.rs/s/ilqm2u/what_s_been_going_on_w64devkit_past_year) - [What's been going on in w64devkit the past year](https://nullprogram.com/blog/2026/09/20/)
 * [2026-09-20, 14:13:11](https://lobste.rs/s/brptxb/software_sandboxing_basics_2025) - [Software sandboxing: The basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
