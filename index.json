@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-09-20, 12:06:29",
+      "https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"
+    ],
+    [
+      "How Notion handles concurrent editing with CRDTs",
+      "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 10:51:04",
+      "https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem"
+    ],
+    [
+      "Beyond jj: config & tools ecosystem",
+      "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 10:04:37",
+      "https://lobste.rs/s/bvsaiy/using_non_breakable_spaces_test_method"
+    ],
+    [
+      "Using non-breakable spaces in test method names",
+      "https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names"
+    ]
+  ],
+  [
+    [
       "2026-09-20, 09:07:28",
       "https://lobste.rs/s/zakub6/last_mile_long_road_faster_numpy_browser"
     ],
     [
       "The last mile of a long road: faster NumPy in the browser",
       "https://notebook.link/blog/the-last-mile-faster-numpy"
-    ]
-  ],
-  [
-    [
-      "2026-09-20, 09:05:22",
-      "https://lobste.rs/s/rf5wuc/spain_orders_blocks_on_archive_today_its"
-    ],
-    [
-      "Spain Orders Blocks On Archive.today And Its Mirrors",
-      "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-09-19, 11:36:56",
-      "https://lobste.rs/s/upvrzs/lispbm_concurrent_lisp_for"
-    ],
-    [
-      "LispBM: Concurrent Lisp for Microcontrollers",
-      "https://www.lispbm.com/"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 06:56:24",
       "https://lobste.rs/s/ukzxid/write_while_learning"
     ],
@@ -237,16 +247,6 @@
     [
       "The scourge of x86 emulation",
       "https://fex-emu.com/Scourge-of-emulation/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 13:14:17",
-      "https://lobste.rs/s/j4oyxa/typst_makes_big_strides"
-    ],
-    [
-      "Typst makes big strides",
-      "https://lwn.net/Articles/1092993/"
     ]
   ]
 ]
