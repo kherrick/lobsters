@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-20, 23:15:16](https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for) - [Roku launches open-source Roku LT OS for creative programmers](https://blog.roku.com/developer/roku-lt-os)
+* [2026-09-20, 22:51:03](https://lobste.rs/s/1xxu7n/bot_free_self_hosted_analytics_with) - [Bot-free self-hosted analytics with GoatCounter on NixOS](https://vincent.bernat.ch/en/blog/2026-goatcounter)
 * [2026-09-20, 21:13:51](https://lobste.rs/s/qupohm/deterministic_core_non_deterministic) - [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
 * [2026-09-20, 20:34:34](https://lobste.rs/s/vpvdlw/scott_jenson_are_we_really_going_use_same) - [Scott Jenson: Are we really going to use the same Desktop UX forever?](https://www.youtube.com/watch?v=V7AfAcQwLW0)
 * [2026-09-20, 19:14:36](https://lobste.rs/s/lmmuu3/adversarial_examples_for_fast_hash) - [Adversarial examples for fast hash functions](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
@@ -13,7 +15,6 @@
 * [2026-09-20, 12:06:29](https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing) - [How Notion handles concurrent editing with CRDTs](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts)
 * [2026-09-20, 10:51:04](https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem) - [Beyond jj: config & tools ecosystem](https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/)
 * [2026-09-20, 10:04:37](https://lobste.rs/s/bvsaiy/using_non_breakable_spaces_test_method) - [Using non-breakable spaces in test method names](https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names)
-* [2026-09-20, 09:07:28](https://lobste.rs/s/zakub6/last_mile_long_road_faster_numpy_browser) - [The last mile of a long road: faster NumPy in the browser](https://notebook.link/blog/the-last-mile-faster-numpy)
 * [2026-09-20, 05:56:25](https://lobste.rs/s/qpbblx/heif_heist) - [HEIF Heist](https://heif-heist.com)
 * [2026-09-20, 05:46:48](https://lobste.rs/s/poeqrk/you_know_gdpr_is_good_based_on_who_hates_it) - [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
 * [2026-09-20, 03:37:45](https://lobste.rs/s/wryj2p/quarkdown_turing_complete_markdown) - [Quarkdown: Turing-complete Markdown typesetting system](https://github.com/iamgio/quarkdown)
@@ -22,7 +23,6 @@
 * [2026-09-19, 19:27:46](https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere) - [we have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
 * [2026-09-19, 15:44:52](https://lobste.rs/s/blmlco/ai_is_elite_crime_spree) - [AI Is an Elite Crime Spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
 * [2026-09-19, 13:41:57](https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision) - [I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"](https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me)
-* [2026-09-19, 12:12:18](https://lobste.rs/s/sn8voe/secret_life_circuits_is_here) - [“The Secret Life of Circuits” is here](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)
 * [2026-09-19, 12:08:52](https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare) - [Don’t Let Architecture Astronauts Scare You (2001)](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 * [2026-09-19, 11:53:28](https://lobste.rs/s/q75kgo/what_happens_tlds_when_their_country) - [What happens to TLDs when their country stops existing? (2022)](https://astrid.tech/2022/04/05/0/dead-tlds/)
 

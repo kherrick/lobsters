@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 23:15:16](https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for) - [Roku launches open-source Roku LT OS for creative programmers](https://blog.roku.com/developer/roku-lt-os)
+* [2026-09-20, 22:51:03](https://lobste.rs/s/1xxu7n/bot_free_self_hosted_analytics_with) - [Bot-free self-hosted analytics with GoatCounter on NixOS](https://vincent.bernat.ch/en/blog/2026-goatcounter)
 * [2026-09-20, 21:13:51](https://lobste.rs/s/qupohm/deterministic_core_non_deterministic) - [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
 * [2026-09-20, 20:34:34](https://lobste.rs/s/vpvdlw/scott_jenson_are_we_really_going_use_same) - [Scott Jenson: Are we really going to use the same Desktop UX forever?](https://www.youtube.com/watch?v=V7AfAcQwLW0)
 * [2026-09-20, 19:14:36](https://lobste.rs/s/lmmuu3/adversarial_examples_for_fast_hash) - [Adversarial examples for fast hash functions](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
