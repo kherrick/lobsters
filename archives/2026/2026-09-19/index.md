@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 23:45:37](https://lobste.rs/s/cummnx/union_vs_sum_types) - [Union vs sum types](https://viralinstruction.com/posts/uniontypes/)
 * [2026-09-19, 23:38:01](https://lobste.rs/s/cvqxkk/zk_jpeg_zero_knowledge_image_editing) - [ZK-JPEG: Zero-knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
+* [2026-09-19, 22:36:30](https://lobste.rs/s/1rjyeh/v_language_review_2023) - [V Language Review (2023)](https://n-skvortsov-1997.github.io/reviews/)
 * [2026-09-19, 22:27:02](https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers) - [Thoughts on the Future of Web Browsers](https://sarahjamielewis.com/log/2026/future-of-web-browsers.html)
 * [2026-09-19, 21:27:01](https://lobste.rs/s/uzbhh8/most_normal_c_project_coding_b2_stealth) - [Most Normal C++ Project: Coding a B2 Stealth Bomber in GTA 3](https://www.youtube.com/watch?v=OQM42Ee0fn8)
 * [2026-09-19, 21:25:34](https://lobste.rs/s/adploh/cleanshot_s_bulldozed_settings) - [CleanShot’s bulldozed settings](https://unsung.aresluna.org/cleanshots-bulldozed-settings/)
