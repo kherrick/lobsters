@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-20, 16:04:18",
+      "https://lobste.rs/s/o6vyfj/lambda_microegg"
+    ],
+    [
+      "Lambda MicroEgg",
+      "https://www.philipzucker.com/lambda_miller_egg/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:31:09",
+      "https://lobste.rs/s/ilqm2u/what_s_been_going_on_w64devkit_past_year"
+    ],
+    [
+      "What's been going on in w64devkit the past year",
+      "https://nullprogram.com/blog/2026/09/20/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 14:13:11",
+      "https://lobste.rs/s/brptxb/software_sandboxing_basics_2025"
+    ],
+    [
+      "Software sandboxing: The basics (2025)",
+      "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/"
+    ]
+  ],
+  [
+    [
       "2026-09-20, 12:06:29",
       "https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-09-20, 02:12:23",
-      "https://lobste.rs/s/pdulza/grit_your_teeth_ship_it"
-    ],
-    [
-      "Grit your teeth and ship it",
-      "https://www.seangoedecke.com/grit-your-teeth-and-ship-it/"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 23:45:37",
       "https://lobste.rs/s/cummnx/union_vs_sum_types"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-09-19, 15:10:09",
-      "https://lobste.rs/s/1auq61/faster_json_parsing_with_sve2_on_arm"
-    ],
-    [
-      "Faster JSON parsing with SVE2 on ARM processors",
-      "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 14:28:49",
       "https://lobste.rs/s/xfeuet/reviving_language_brought_us_jak_daxter"
     ],
@@ -227,16 +237,6 @@
     [
       "What happens to TLDs when their country stops existing? (2022)",
       "https://astrid.tech/2022/04/05/0/dead-tlds/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 06:56:24",
-      "https://lobste.rs/s/ukzxid/write_while_learning"
-    ],
-    [
-      "Write while learning",
-      "https://purplesyringa.moe/blog/write-while-learning/"
     ]
   ],
   [
