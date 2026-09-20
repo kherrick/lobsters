@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-20, 12:06:29](https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing) - [How Notion handles concurrent editing with CRDTs](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts)
+* [2026-09-20, 10:51:04](https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem) - [Beyond jj: config & tools ecosystem](https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/)
+* [2026-09-20, 10:04:37](https://lobste.rs/s/bvsaiy/using_non_breakable_spaces_test_method) - [Using non-breakable spaces in test method names](https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names)
 * [2026-09-20, 09:07:28](https://lobste.rs/s/zakub6/last_mile_long_road_faster_numpy_browser) - [The last mile of a long road: faster NumPy in the browser](https://notebook.link/blog/the-last-mile-faster-numpy)
-* [2026-09-20, 09:05:22](https://lobste.rs/s/rf5wuc/spain_orders_blocks_on_archive_today_its) - [Spain Orders Blocks On Archive.today And Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
 * [2026-09-20, 06:22:23](https://lobste.rs/s/6hcogx/more_dirty_coding_tricks_from_game) - [More dirty coding tricks from game developers (2015)](https://web.archive.org/web/20210605053151/http://www.gamasutra.com/view/news/249475/More_dirty_coding_tricks_from_game_developers.php#tophead)
 * [2026-09-20, 05:56:25](https://lobste.rs/s/qpbblx/heif_heist) - [HEIF Heist](https://heif-heist.com)
 * [2026-09-20, 05:46:48](https://lobste.rs/s/poeqrk/you_know_gdpr_is_good_based_on_who_hates_it) - [You Know GDPR Is Good Based on Who Hates It](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
@@ -21,10 +23,8 @@
 * [2026-09-19, 12:12:18](https://lobste.rs/s/sn8voe/secret_life_circuits_is_here) - [“The Secret Life of Circuits” is here](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)
 * [2026-09-19, 12:08:52](https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare) - [Don’t Let Architecture Astronauts Scare You (2001)](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 * [2026-09-19, 11:53:28](https://lobste.rs/s/q75kgo/what_happens_tlds_when_their_country) - [What happens to TLDs when their country stops existing? (2022)](https://astrid.tech/2022/04/05/0/dead-tlds/)
-* [2026-09-19, 11:36:56](https://lobste.rs/s/upvrzs/lispbm_concurrent_lisp_for) - [LispBM: Concurrent Lisp for Microcontrollers](https://www.lispbm.com/)
 * [2026-09-19, 06:56:24](https://lobste.rs/s/ukzxid/write_while_learning) - [Write while learning](https://purplesyringa.moe/blog/write-while-learning/)
 * [2026-09-19, 05:01:05](https://lobste.rs/s/iq6w6l/scourge_x86_emulation) - [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
-* [2026-09-18, 13:14:17](https://lobste.rs/s/j4oyxa/typst_makes_big_strides) - [Typst makes big strides](https://lwn.net/Articles/1092993/)
 
 ## [Archives](archives/index.md)
 
