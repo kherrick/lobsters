@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-21, 21:51:56](https://lobste.rs/s/kpegs1/evocation_call_forth_blue_green_flame) - [evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it](https://code.irenes.space/evocation/tree/README.txt)
+* [2026-09-21, 21:16:53](https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome) - [Named and Optional Arguments are Awesome](https://botahamec.dev/named-optional-args)
+* [2026-09-21, 19:06:21](https://lobste.rs/s/fbo41b/attention_is_all_you_have) - [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 * [2026-09-21, 18:21:25](https://lobste.rs/s/1somoo/windows_exploitation_techniques) - [Windows Exploitation Techniques: Dangling COM Object Registrations](https://projectzero.google/2026/09/windows-dangling-com.html)
 * [2026-09-21, 18:02:53](https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos) - [rift - a tiling window manager for macos](https://github.com/acsandmann/rift/)
 * [2026-09-21, 17:53:28](https://lobste.rs/s/sus08k/self_hosting_behind_cgnat) - [Self-Hosting Behind CGNAT](https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/)
-* [2026-09-21, 17:43:57](https://lobste.rs/s/l8evsw/d2300r11_std_execution) - [D2300R11: `std::execution`](https://wg21.link/P2300)
-* [2026-09-21, 17:22:31](https://lobste.rs/s/gxjhqo/continual_learning_model_trained_from) - [A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data](https://github.com/volotat/mini-AGI/)
+* [2026-09-21, 17:40:40](https://lobste.rs/s/xb9tkn/lifestreams_storage_model_for_personal) - [Lifestreams: a storage model for personal data (1996)](https://www.ee.columbia.edu/~dpwe/papers/FreeG96-lifestreams.pdf)
 * [2026-09-21, 17:01:35](https://lobste.rs/s/t5fquc/relation_algebra_is_not_relational) - [Relation algebra is not relational algebra](https://remy.wang/blog/ra-ra.html)
 * [2026-09-21, 16:02:54](https://lobste.rs/s/xvkvhh/making_game_for_gba_pc_from_same_codebase) - [Making a game for the GBA and PC from the same codebase](https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/)
-* [2026-09-21, 15:31:37](https://lobste.rs/s/lp2qvh/tobi_keep_commands_running_detachable) - [tobi: keep commands running in detachable sessions across your devices](https://tangled.org/ptr.pet/tobi)
 * [2026-09-21, 15:13:38](https://lobste.rs/s/jbbxgy/running_optimal_trace) - [Running an Optimal Trace](https://anishathalye.com/optimal-trace/)
 * [2026-09-21, 14:44:12](https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on) - [Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)](https://github.com/dtonon/squalk)
 * [2026-09-21, 14:28:38](https://lobste.rs/s/73ei6g/textbook_review_is_parallel_programming) - [Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://ahelwer.ca/post/2026-09-21-concurrency-textbook/)
@@ -24,7 +25,6 @@
 * [2026-09-20, 17:13:41](https://lobste.rs/s/xrnbcn/actively_maintained_updated_motif_fork) - [An actively maintained and updated Motif fork actually exists](https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/)
 * [2026-09-20, 16:04:18](https://lobste.rs/s/o6vyfj/lambda_microegg) - [Lambda MicroEgg](https://www.philipzucker.com/lambda_miller_egg/)
 * [2026-09-20, 14:13:11](https://lobste.rs/s/brptxb/software_sandboxing_basics_2025) - [Software sandboxing: The basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
-* [2026-09-20, 10:51:04](https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem) - [Beyond jj: config & tools ecosystem](https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/)
 
 ## [Archives](archives/index.md)
 

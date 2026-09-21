@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-21](index.md)
 
+* [2026-09-21, 21:51:56](https://lobste.rs/s/kpegs1/evocation_call_forth_blue_green_flame) - [evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it](https://code.irenes.space/evocation/tree/README.txt)
+* [2026-09-21, 21:16:53](https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome) - [Named and Optional Arguments are Awesome](https://botahamec.dev/named-optional-args)
+* [2026-09-21, 19:06:21](https://lobste.rs/s/fbo41b/attention_is_all_you_have) - [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 * [2026-09-21, 18:21:25](https://lobste.rs/s/1somoo/windows_exploitation_techniques) - [Windows Exploitation Techniques: Dangling COM Object Registrations](https://projectzero.google/2026/09/windows-dangling-com.html)
 * [2026-09-21, 18:02:53](https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos) - [rift - a tiling window manager for macos](https://github.com/acsandmann/rift/)
 * [2026-09-21, 17:53:28](https://lobste.rs/s/sus08k/self_hosting_behind_cgnat) - [Self-Hosting Behind CGNAT](https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/)
 * [2026-09-21, 17:43:57](https://lobste.rs/s/l8evsw/d2300r11_std_execution) - [D2300R11: `std::execution`](https://wg21.link/P2300)
+* [2026-09-21, 17:40:40](https://lobste.rs/s/xb9tkn/lifestreams_storage_model_for_personal) - [Lifestreams: a storage model for personal data (1996)](https://www.ee.columbia.edu/~dpwe/papers/FreeG96-lifestreams.pdf)
 * [2026-09-21, 17:22:31](https://lobste.rs/s/gxjhqo/continual_learning_model_trained_from) - [A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data](https://github.com/volotat/mini-AGI/)
 * [2026-09-21, 17:01:35](https://lobste.rs/s/t5fquc/relation_algebra_is_not_relational) - [Relation algebra is not relational algebra](https://remy.wang/blog/ra-ra.html)
 * [2026-09-21, 16:02:54](https://lobste.rs/s/xvkvhh/making_game_for_gba_pc_from_same_codebase) - [Making a game for the GBA and PC from the same codebase](https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/)
