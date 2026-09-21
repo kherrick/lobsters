@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-21, 01:18:47](https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale) - [A study of sequence weighting at scale](https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/)
 * [2026-09-20, 23:15:16](https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for) - [Roku launches open-source Roku LT OS for creative programmers](https://blog.roku.com/developer/roku-lt-os)
 * [2026-09-20, 22:51:03](https://lobste.rs/s/1xxu7n/bot_free_self_hosted_analytics_with) - [Bot-free self-hosted analytics with GoatCounter on NixOS](https://vincent.bernat.ch/en/blog/2026-goatcounter)
 * [2026-09-20, 21:13:51](https://lobste.rs/s/qupohm/deterministic_core_non_deterministic) - [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
-* [2026-09-20, 20:34:34](https://lobste.rs/s/vpvdlw/scott_jenson_are_we_really_going_use_same) - [Scott Jenson: Are we really going to use the same Desktop UX forever?](https://www.youtube.com/watch?v=V7AfAcQwLW0)
+* [2026-09-20, 20:34:34](https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux) - [Are we really going to use the same Desktop UX forever?](https://www.youtube.com/watch?v=V7AfAcQwLW0)
 * [2026-09-20, 19:14:36](https://lobste.rs/s/lmmuu3/adversarial_examples_for_fast_hash) - [Adversarial examples for fast hash functions](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
 * [2026-09-20, 17:43:10](https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other) - [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
 * [2026-09-20, 17:40:19](https://lobste.rs/s/4zhnfn/unix_year_2038_problem_art) - [Unix Year 2038 problem and the art of underestimating](https://www.buzzsprout.com/2469780/episodes/19824439)
@@ -24,7 +25,6 @@
 * [2026-09-19, 15:44:52](https://lobste.rs/s/blmlco/ai_is_elite_crime_spree) - [AI Is an Elite Crime Spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
 * [2026-09-19, 13:41:57](https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision) - [I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"](https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me)
 * [2026-09-19, 12:08:52](https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare) - [Don’t Let Architecture Astronauts Scare You (2001)](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
-* [2026-09-19, 11:53:28](https://lobste.rs/s/q75kgo/what_happens_tlds_when_their_country) - [What happens to TLDs when their country stops existing? (2022)](https://astrid.tech/2022/04/05/0/dead-tlds/)
 
 ## [Archives](archives/index.md)
 
