@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-09-21, 01:18:47",
+      "https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale"
+    ],
+    [
+      "A study of sequence weighting at scale",
+      "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/"
+    ]
+  ],
+  [
+    [
       "2026-09-20, 23:15:16",
       "https://lobste.rs/s/r8xecf/roku_launches_open_source_roku_lt_os_for"
     ],
@@ -32,10 +42,10 @@
   [
     [
       "2026-09-20, 20:34:34",
-      "https://lobste.rs/s/vpvdlw/scott_jenson_are_we_really_going_use_same"
+      "https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux"
     ],
     [
-      "Scott Jenson: Are we really going to use the same Desktop UX forever?",
+      "Are we really going to use the same Desktop UX forever?",
       "https://www.youtube.com/watch?v=V7AfAcQwLW0"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Don’t Let Architecture Astronauts Scare You (2001)",
       "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 11:53:28",
-      "https://lobste.rs/s/q75kgo/what_happens_tlds_when_their_country"
-    ],
-    [
-      "What happens to TLDs when their country stops existing? (2022)",
-      "https://astrid.tech/2022/04/05/0/dead-tlds/"
     ]
   ]
 ]
