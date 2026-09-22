@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-22](index.md)
 
+* [2026-09-22, 21:38:02](https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri) - [GitHub Actions leaking secrets when Miri output is cached](https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/)
+* [2026-09-22, 21:08:55](https://lobste.rs/s/9jjplv/fifty_years_open_source_software_supply) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/doi/10.1145/3722542)
+* [2026-09-22, 21:06:34](https://lobste.rs/s/hburvt/no_sloptober) - [No Sloptober](https://no-sloptober.com/)
+* [2026-09-22, 20:42:02](https://lobste.rs/s/itqeag/why_do_common_rust_packages_depend_on_c) - [Why do common Rust packages depend on C code? (2023)](https://langdev.stackexchange.com/questions/3233/why-do-common-rust-packages-depend-on-c-code/3237#3237)
+* [2026-09-22, 19:29:53](https://lobste.rs/s/vvg9ue/about_wraps_it_up_for_stock_mac_ui) - [That About Wraps It Up for Stock Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
+* [2026-09-22, 18:50:12](https://lobste.rs/s/2kfsi1/serious_editors_are_commitment_at_least) - [Serious editors are a commitment (at least for me)](https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment)
 * [2026-09-22, 18:22:57](https://lobste.rs/s/wiuzrg/did_openai_solve_wrong_navier_stokes) - [Did OpenAI solve the wrong Navier-Stokes problem?](https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/)
 * [2026-09-22, 17:14:56](https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk) - [Plain-text files are at risk](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49)
 * [2026-09-22, 17:03:48](https://lobste.rs/s/bg9j71/writing_rust_code_s_faster_than_state_art) - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
