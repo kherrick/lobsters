@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-22, 00:25:06](https://lobste.rs/s/hirktz/deterministic_hypervisors_for_cheap) - [Deterministic Hypervisors For Cheap](https://redvice.org/2026/deterministic-hypervisor/)
 * [2026-09-21, 21:51:56](https://lobste.rs/s/kpegs1/evocation_call_forth_blue_green_flame) - [evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it](https://code.irenes.space/evocation/tree/README.txt)
 * [2026-09-21, 21:16:53](https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome) - [Named and Optional Arguments are Awesome](https://botahamec.dev/named-optional-args)
 * [2026-09-21, 19:06:21](https://lobste.rs/s/fbo41b/attention_is_all_you_have) - [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
@@ -23,7 +24,6 @@
 * [2026-09-20, 20:34:34](https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux) - [Are we really going to use the same Desktop UX forever?](https://www.youtube.com/watch?v=V7AfAcQwLW0)
 * [2026-09-20, 17:43:10](https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other) - [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
 * [2026-09-20, 17:13:41](https://lobste.rs/s/xrnbcn/actively_maintained_updated_motif_fork) - [An actively maintained and updated Motif fork actually exists](https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/)
-* [2026-09-20, 16:04:18](https://lobste.rs/s/o6vyfj/lambda_microegg) - [Lambda MicroEgg](https://www.philipzucker.com/lambda_miller_egg/)
 * [2026-09-20, 14:13:11](https://lobste.rs/s/brptxb/software_sandboxing_basics_2025) - [Software sandboxing: The basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
 
 ## [Archives](archives/index.md)
