@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-21](index.md)
 
+* [2026-09-21, 23:01:34](https://lobste.rs/s/0d6gcs/stack_unwinding_can_lead_leakless_code) - [stack unwinding can lead to leakless code execution](https://pepsipu.com/blog/2026-09-dwarf/)
 * [2026-09-21, 21:51:56](https://lobste.rs/s/kpegs1/evocation_call_forth_blue_green_flame) - [evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it](https://code.irenes.space/evocation/tree/README.txt)
 * [2026-09-21, 21:16:53](https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome) - [Named and Optional Arguments are Awesome](https://botahamec.dev/named-optional-args)
+* [2026-09-21, 20:59:09](https://lobste.rs/s/d4wq0w/ju_ju_tsu) - [Ju! Ju! Tsu](https://arialdo.codeberg.page/ju-ju-tsu/)
 * [2026-09-21, 19:06:21](https://lobste.rs/s/fbo41b/attention_is_all_you_have) - [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 * [2026-09-21, 18:21:25](https://lobste.rs/s/1somoo/windows_exploitation_techniques) - [Windows Exploitation Techniques: Dangling COM Object Registrations](https://projectzero.google/2026/09/windows-dangling-com.html)
 * [2026-09-21, 18:02:53](https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos) - [rift - a tiling window manager for macos](https://github.com/acsandmann/rift/)
