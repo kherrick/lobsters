@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-22](index.md)
 
+* [2026-09-22, 14:10:07](https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode) - [EvilVM: Forth shellcode](https://web.archive.org/web/20250418124519/http://evilvm.ninja/)
+* [2026-09-22, 12:25:27](https://lobste.rs/s/ub3vw7/reviving_tempest_attacks_with_injected) - [Reviving TEMPEST Attacks With An Injected Signal](https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/)
+* [2026-09-22, 12:10:21](https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here) - [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/)
+* [2026-09-22, 11:55:39](https://lobste.rs/s/5svlut/ai_has_no_wisdom_neither_will_you) - [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
 * [2026-09-22, 09:38:54](https://lobste.rs/s/qwijru/extralite_3_1_0_is_here) - [Extralite 3.1.0 is Here](https://noteflakes.com/articles/2026-09-22-extralite-3-1-0)
+* [2026-09-22, 08:20:19](https://lobste.rs/s/5ybneq/raspberry_pi_locks_down_pi_5_ram_upgrades) - [Raspberry Pi locks down Pi 5 RAM upgrades in firmware](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/)
 * [2026-09-22, 07:27:56](https://lobste.rs/s/kqxgyo/i_said_no_apple_said_yes) - [I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/)
 * [2026-09-22, 06:56:57](https://lobste.rs/s/npjb02/cheap_easy_throwaway_vpn_server) - [Cheap and easy throwaway VPN server](https://a.l3x.in/blog/throwaway-vpn/)
 * [2026-09-22, 05:24:59](https://lobste.rs/s/uahccr/first_futamura_projection) - [A First Futamura Projection](https://blog.veitheller.de/A_First_Futamura_Projection.html)
