@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-09-23, 17:07:56",
+      "https://lobste.rs/s/nwg2ha/why_didn_t_anybody_tell_me_about_redis_hash"
+    ],
+    [
+      "Why didn't anybody tell me about Redis hash slots?",
+      "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 16:08:33",
+      "https://lobste.rs/s/b39503/kde_for_people"
+    ],
+    [
+      "KDE for People",
+      "https://kdeforpeople.com"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 15:53:53",
+      "https://lobste.rs/s/9y3lci/there_s_no_such_thing_as_free_launch"
+    ],
+    [
+      "There’s no such thing as a Free Launch",
+      "https://data-star.dev/essays/theres_no_such_thing_as_a_free_launch"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 15:25:52",
+      "https://lobste.rs/s/5xxm0v/zig_journey"
+    ],
+    [
+      "The Zig Journey",
+      "https://kristoff.it/blog/the-zig-journey/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 14:39:46",
+      "https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not"
+    ],
+    [
+      "I want my mesh networks to be signed, not encrypted",
+      "https://andanti.no/blog/SignedMesh.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 14:34:37",
+      "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"
+    ],
+    [
+      "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 14:33:49",
+      "https://lobste.rs/s/gzjcbu/redenormalisation_building_search"
+    ],
+    [
+      "Redenormalisation: Building a search index, the other way",
+      "https://slatecave.net/blog/redenormalization/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 14:07:23",
+      "https://lobste.rs/s/huj44r/do_not_let_your_type_system_reason_about"
+    ],
+    [
+      "Do not let your type system reason about aliasing in your programming language",
+      "https://futhark-lang.org/blog/2026-09-22-aliasing.html"
+    ]
+  ],
+  [
+    [
       "2026-09-23, 11:55:38",
       "https://lobste.rs/s/eqme8i/latest_bgp_hijack_targets_hosting"
     ],
@@ -21,12 +101,12 @@
   ],
   [
     [
-      "2026-09-23, 10:28:14",
-      "https://lobste.rs/s/kras1h/gnome_llm_policy_i_want"
+      "2026-09-23, 10:58:54",
+      "https://lobste.rs/s/4uqtta/saml_fractal_bad_design"
     ],
     [
-      "The GNOME LLM Policy That I Want",
-      "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/"
+      "SAML: A fractal of bad design",
+      "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/"
     ]
   ],
   [
@@ -71,32 +151,12 @@
   ],
   [
     [
-      "2026-09-22, 21:45:11",
-      "https://lobste.rs/s/oqipmz/how_talk_about_ai_without_adding"
-    ],
-    [
-      "How to talk about \"AI\" without adding to the anthropomorphization",
-      "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 21:38:02",
       "https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri"
     ],
     [
       "GitHub Actions leaking secrets when Miri output is cached",
       "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 21:06:34",
-      "https://lobste.rs/s/hburvt/no_sloptober"
-    ],
-    [
-      "No Sloptober",
-      "https://no-sloptober.com/"
     ]
   ],
   [
@@ -111,52 +171,12 @@
   ],
   [
     [
-      "2026-09-22, 18:55:00",
-      "https://lobste.rs/s/ayyuqc/jev_powered_autocorrection"
-    ],
-    [
-      "Jev-powered autocorrection",
-      "https://levmiseri.com/nospace"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 18:50:12",
       "https://lobste.rs/s/2kfsi1/serious_editors_are_commitment_at_least"
     ],
     [
       "Serious editors are a commitment (at least for me)",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 18:22:57",
-      "https://lobste.rs/s/wiuzrg/did_openai_solve_wrong_navier_stokes"
-    ],
-    [
-      "Did OpenAI solve the wrong Navier-Stokes problem?",
-      "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 17:14:56",
-      "https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk"
-    ],
-    [
-      "Plain-text files are at risk",
-      "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 16:28:45",
-      "https://lobste.rs/s/n4vfwm/tokens_too_cheap_meter"
-    ],
-    [
-      "tokens too cheap to meter",
-      "https://jyn.dev/tokens-too-cheap-to-meter/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-09-22, 00:05:45",
-      "https://lobste.rs/s/2ym3yg/why_0xcafebabe"
-    ],
-    [
-      "Why 0xCAFEBABE?",
-      "https://www.artima.com/insidejvm/whyCAFEBABE.html"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 21:16:53",
       "https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome"
     ],
     [
       "Named and Optional Arguments are Awesome",
       "https://botahamec.dev/named-optional-args"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 18:02:53",
-      "https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos"
-    ],
-    [
-      "rift - a tiling window manager for macos",
-      "https://github.com/acsandmann/rift/"
     ]
   ],
   [
