@@ -4,8 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-09-23](index.md)
 
+* [2026-09-23, 17:07:56](https://lobste.rs/s/nwg2ha/why_didn_t_anybody_tell_me_about_redis_hash) - [Why didn't anybody tell me about Redis hash slots?](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/)
+* [2026-09-23, 16:08:33](https://lobste.rs/s/b39503/kde_for_people) - [KDE for People](https://kdeforpeople.com)
+* [2026-09-23, 15:53:53](https://lobste.rs/s/9y3lci/there_s_no_such_thing_as_free_launch) - [There’s no such thing as a Free Launch](https://data-star.dev/essays/theres_no_such_thing_as_a_free_launch)
+* [2026-09-23, 15:25:52](https://lobste.rs/s/5xxm0v/zig_journey) - [The Zig Journey](https://kristoff.it/blog/the-zig-journey/)
+* [2026-09-23, 14:39:46](https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not) - [I want my mesh networks to be signed, not encrypted](https://andanti.no/blog/SignedMesh.html)
+* [2026-09-23, 14:34:37](https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability) - [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html)
+* [2026-09-23, 14:33:49](https://lobste.rs/s/gzjcbu/redenormalisation_building_search) - [Redenormalisation: Building a search index, the other way](https://slatecave.net/blog/redenormalization/)
+* [2026-09-23, 14:07:23](https://lobste.rs/s/huj44r/do_not_let_your_type_system_reason_about) - [Do not let your type system reason about aliasing in your programming language](https://futhark-lang.org/blog/2026-09-22-aliasing.html)
 * [2026-09-23, 11:55:38](https://lobste.rs/s/eqme8i/latest_bgp_hijack_targets_hosting) - [Latest BGP hijack targets hosting software vendor](https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/)
 * [2026-09-23, 11:48:39](https://lobste.rs/s/d339rn/github_wiki_is_anti_pattern) - [The GitHub wiki is an anti-pattern](https://michaelheap.com/github-wiki-is-an-antipattern/)
+* [2026-09-23, 10:58:54](https://lobste.rs/s/4uqtta/saml_fractal_bad_design) - [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
 * [2026-09-23, 10:28:14](https://lobste.rs/s/kras1h/gnome_llm_policy_i_want) - [The GNOME LLM Policy That I Want](https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/)
 * [2026-09-23, 09:53:20](https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake) - [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
 * [2026-09-23, 05:08:03](https://lobste.rs/s/zji8bf/sandboxing_with_minimal_effort) - [Sandboxing with minimal effort](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/)
