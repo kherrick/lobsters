@@ -16,6 +16,7 @@
 * [2026-09-22, 17:14:56](https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk) - [Plain-text files are at risk](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49)
 * [2026-09-22, 17:03:48](https://lobste.rs/s/bg9j71/writing_rust_code_s_faster_than_state_art) - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
 * [2026-09-22, 16:28:45](https://lobste.rs/s/n4vfwm/tokens_too_cheap_meter) - [tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/)
+* [2026-09-22, 14:10:07](https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode_2019) - [EvilVM: Forth shellcode (2019)](https://web.archive.org/web/20250418124519/http://evilvm.ninja/)
 * [2026-09-22, 14:10:07](https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode) - [EvilVM: Forth shellcode](https://web.archive.org/web/20250418124519/http://evilvm.ninja/)
 * [2026-09-22, 12:25:27](https://lobste.rs/s/ub3vw7/reviving_tempest_attacks_with_injected) - [Reviving TEMPEST Attacks With An Injected Signal](https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/)
 * [2026-09-22, 12:10:21](https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here) - [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/)

@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-23, 00:51:04](https://lobste.rs/s/3hbty3/deepseek_elastic_compute_dsec_sandbox) - [DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/abs/2609.22978)
 * [2026-09-22, 21:45:11](https://lobste.rs/s/oqipmz/how_talk_about_ai_without_adding) - [How to talk about \"AI\" without adding to the anthropomorphization](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/)
 * [2026-09-22, 21:38:02](https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri) - [GitHub Actions leaking secrets when Miri output is cached](https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/)
-* [2026-09-22, 21:08:55](https://lobste.rs/s/9jjplv/fifty_years_open_source_software_supply) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/doi/10.1145/3722542)
+* [2026-09-22, 21:08:55](https://lobste.rs/s/9jjplv/fifty_years_open_source_software_supply) - [Fifty Years of Open Source Software Supply Chain Security (2025)](https://queue.acm.org/doi/10.1145/3722542)
 * [2026-09-22, 21:06:34](https://lobste.rs/s/hburvt/no_sloptober) - [No Sloptober](https://no-sloptober.com/)
 * [2026-09-22, 19:29:53](https://lobste.rs/s/vvg9ue/about_wraps_it_up_for_stock_mac_ui) - [That About Wraps It Up for Stock Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
 * [2026-09-22, 18:55:00](https://lobste.rs/s/ayyuqc/jev_powered_autocorrection) - [Jev-powered autocorrection](https://levmiseri.com/nospace)
@@ -11,7 +12,7 @@
 * [2026-09-22, 17:14:56](https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk) - [Plain-text files are at risk](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49)
 * [2026-09-22, 17:03:48](https://lobste.rs/s/bg9j71/writing_rust_code_s_faster_than_state_art) - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
 * [2026-09-22, 16:28:45](https://lobste.rs/s/n4vfwm/tokens_too_cheap_meter) - [tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/)
-* [2026-09-22, 14:10:07](https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode) - [EvilVM: Forth shellcode](https://web.archive.org/web/20250418124519/http://evilvm.ninja/)
+* [2026-09-22, 14:10:07](https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode_2019) - [EvilVM: Forth shellcode (2019)](https://web.archive.org/web/20250418124519/http://evilvm.ninja/)
 * [2026-09-22, 12:10:21](https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here) - [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/)
 * [2026-09-22, 11:55:39](https://lobste.rs/s/5svlut/ai_has_no_wisdom_neither_will_you) - [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
 * [2026-09-22, 08:20:19](https://lobste.rs/s/5ybneq/raspberry_pi_locks_down_pi_5_ram_upgrades) - [Raspberry Pi locks down Pi 5 RAM upgrades in firmware](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/)
@@ -23,7 +24,6 @@
 * [2026-09-21, 20:59:09](https://lobste.rs/s/d4wq0w/ju_ju_tsu) - [Ju! Ju! Tsu](https://arialdo.codeberg.page/ju-ju-tsu/)
 * [2026-09-21, 18:02:53](https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos) - [rift - a tiling window manager for macos](https://github.com/acsandmann/rift/)
 * [2026-09-21, 17:53:28](https://lobste.rs/s/sus08k/self_hosting_behind_cgnat) - [Self-Hosting Behind CGNAT](https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/)
-* [2026-09-21, 14:28:38](https://lobste.rs/s/73ei6g/textbook_review_is_parallel_programming) - [Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://ahelwer.ca/post/2026-09-21-concurrency-textbook/)
 * [2026-09-21, 07:14:39](https://lobste.rs/s/vwl2kn/what_sun_got_wrong) - [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
 
 ## [Archives](archives/index.md)
