@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-24](index.md)
 
+* [2026-09-24, 15:13:35](https://lobste.rs/s/ah5jnf/forging_1024_bit_rsa_signatures_nearly) - [Forging 1024-bit RSA signatures in nearly SNFS time](https://eprint.iacr.org/2026/2131.pdf)
+* [2026-09-24, 14:57:57](https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why) - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+* [2026-09-24, 14:55:45](https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it) - [I asked Meta’s Muse for its filesystem and it sent me 6.8 GB](https://mouse.dev/blog/muse-runtime-export/)
+* [2026-09-24, 14:14:38](https://lobste.rs/s/kiny54/saas_isn_t_dead_sameness_is) - [SaaS Isn’t Dead. Sameness Is](https://aicoding.leaflet.pub/3mtu6c5wsvc2n)
+* [2026-09-24, 13:27:42](https://lobste.rs/s/7ekwll/combining_machine_learning_homomorphic) - [Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem](https://machinelearning.apple.com/research/homomorphic-encryption)
+* [2026-09-24, 13:24:33](https://lobste.rs/s/c3t81d/from_thin_air_bootable_images_tine_build) - [From Thin Air to Bootable Images: The tine Build System](https://amutable.com/blog/tine-build-system)
+* [2026-09-24, 12:19:28](https://lobste.rs/s/vl8tc1/whatsnewt_tui_text_adventure_through) - [whatsnewt: A TUI text adventure through what's new in Python 3.15](https://pypi.org/project/whatsnewt/)
+* [2026-09-24, 12:11:25](https://lobste.rs/s/2uzmg2/parsing_expression_grammar_vs_regexes) - [Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)](https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html)
+* [2026-09-24, 11:34:43](https://lobste.rs/s/xg8zbk/clankers_made_me_build_second_brain) - [Clankers Made Me Build a Second Brain](https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/)
 * [2026-09-24, 11:34:00](https://lobste.rs/s/ujn9jm/agent_shell_0_78_updates) - [agent-shell 0.78 updates](https://xenodium.com/agent-shell-0-78-updates)
 * [2026-09-24, 10:34:13](https://lobste.rs/s/o74pht/nspawn_comeback_oci_hub_new_images_nspawn) - [Nspawn comeback: an OCI hub, new images and nspawn 1.0.0](https://blog.nspawn.org/posts/nspawn-comeback-an-oci-hub-new-images-and-nspawn-1-0-0/)
 * [2026-09-24, 09:02:44](https://lobste.rs/s/uviiyx/agents_new_new_kingmakers) - [Agents: The new, New Kingmakers](https://redmonk.com/sogrady/2026/09/16/new-new-kingmakers/)
