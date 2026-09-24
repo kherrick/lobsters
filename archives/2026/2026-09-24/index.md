@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-24](index.md)
 
+* [2026-09-24, 18:43:29](https://lobste.rs/s/iyouff/massive_parallel_imports_neo4j_without) - [Massive Parallel Imports in Neo4j Without Deadlock and Lock Contention](https://medium.com/neo4j/massive-parallel-imports-in-neo4j-without-deadlock-and-lock-contention-2c003a48d49a)
+* [2026-09-24, 18:43:01](https://lobste.rs/s/opt2ma/f_droid_2_0) - [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+* [2026-09-24, 18:20:23](https://lobste.rs/s/f0buwg/katamari_architecture) - [katamari architecture](https://nove.dev/blog/katamari-architecture/)
+* [2026-09-24, 18:08:40](https://lobste.rs/s/ckhrtg/casilda_1_6_released) - [Casilda 1.6 Released](https://blogs.gnome.org/xjuan/2026/09/24/casilda-1-6-released/)
+* [2026-09-24, 18:05:22](https://lobste.rs/s/n5l90o/apple_s_two_tier_encryption_uk) - [Apple's Two-Tier Encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/)
+* [2026-09-24, 17:41:35](https://lobste.rs/s/uxvwlo/ai_workers_inquiry_2026) - [AI Workers' Inquiry 2026](https://techworkersinquiry.org/ai/)
+* [2026-09-24, 17:04:48](https://lobste.rs/s/4cbau4/we_have_named_arguments_at_home) - [We Have Named Arguments at Home](https://corrode.dev/blog/named-arguments-at-home/)
+* [2026-09-24, 16:34:16](https://lobste.rs/s/fxhrio/double_entry_bookkeeping_paper_tokens) - [Double-entry bookkeeping and paper and tokens](https://honza.pokorny.ca/2026/09/double-entry-bookkeeping-and-paper-and-tokens/)
 * [2026-09-24, 15:13:35](https://lobste.rs/s/ah5jnf/forging_1024_bit_rsa_signatures_nearly) - [Forging 1024-bit RSA signatures in nearly SNFS time](https://eprint.iacr.org/2026/2131.pdf)
 * [2026-09-24, 14:57:57](https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why) - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 * [2026-09-24, 14:55:45](https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it) - [I asked Meta’s Muse for its filesystem and it sent me 6.8 GB](https://mouse.dev/blog/muse-runtime-export/)
