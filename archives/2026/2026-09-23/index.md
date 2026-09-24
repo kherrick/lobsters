@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-23](index.md)
 
+* [2026-09-23, 23:39:21](https://lobste.rs/s/vmd3gy/beware_overreliance_on_metaphor) - [Beware overreliance on metaphor](https://evnm.substack.com/p/beware-overreliance-on-metaphor)
 * [2026-09-23, 19:51:19](https://lobste.rs/s/kjqjse/brief_history_windows_scroll_bar) - [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
 * [2026-09-23, 19:49:57](https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop) - [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
 * [2026-09-23, 19:23:21](https://lobste.rs/s/dtozf3/adaptive_lossless_floating_point) - [Adaptive Lossless Floating-Point Encoding in Apache Parquet](https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/)

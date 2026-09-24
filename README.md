@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-24, 00:48:47](https://lobste.rs/s/a6wzgu/why_you_should_check_your_gem_s_lines_code) - [Why you should check your gem's lines of code](https://spinel.coop/blog/why-you-should-check-your-gems-lines-of-code/)
+* [2026-09-24, 00:04:48](https://lobste.rs/s/9oeulu/solid_modeling_your_browser) - [Solid Modeling in your browser](https://cartesian-theatrics.github.io/clj-manifold3d/journal/)
+* [2026-09-23, 23:39:21](https://lobste.rs/s/vmd3gy/beware_overreliance_on_metaphor) - [Beware overreliance on metaphor](https://evnm.substack.com/p/beware-overreliance-on-metaphor)
 * [2026-09-23, 19:51:19](https://lobste.rs/s/kjqjse/brief_history_windows_scroll_bar) - [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
 * [2026-09-23, 19:49:57](https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop) - [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
-* [2026-09-23, 19:23:21](https://lobste.rs/s/dtozf3/adaptive_lossless_floating_point) - [Adaptive Lossless Floating-Point Encoding in Apache Parquet](https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/)
-* [2026-09-23, 17:07:56](https://lobste.rs/s/nwg2ha/why_didn_t_anybody_tell_me_about_redis_hash) - [Why didn't anybody tell me about Redis hash slots?](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/)
 * [2026-09-23, 16:08:33](https://lobste.rs/s/b39503/kde_for_people) - [KDE for People](https://kdeforpeople.com)
 * [2026-09-23, 15:25:52](https://lobste.rs/s/5xxm0v/zig_journey) - [The Zig Journey](https://kristoff.it/blog/the-zig-journey/)
 * [2026-09-23, 14:39:46](https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not) - [I want my mesh networks to be signed, not encrypted](https://andanti.no/blog/SignedMesh.html)
@@ -24,7 +25,6 @@
 * [2026-09-22, 17:14:56](https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk) - [Plain-text files are at risk](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49)
 * [2026-09-22, 16:28:45](https://lobste.rs/s/n4vfwm/tokens_too_cheap_meter) - [tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/)
 * [2026-09-22, 12:10:21](https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here) - [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/)
-* [2026-09-22, 05:23:55](https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0) - [Looking forward to Git 2.56 - and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
 
 ## [Archives](archives/index.md)
 
