@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-24](index.md)
 
+* [2026-09-24, 20:38:32](https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build) - [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
+* [2026-09-24, 20:36:27](https://lobste.rs/s/ivm0qn/running_pixelflut_on_2010_router) - [Running Pixelflut on a 2010 router](https://filmroellchen.eu/blog/mipselflut/)
+* [2026-09-24, 19:24:00](https://lobste.rs/s/56bnwm/apple_copland_d11e4_emulator_your) - [Apple Copland D11E4 Emulator in Your Browser](https://www.pagetable.com/300)
 * [2026-09-24, 18:43:29](https://lobste.rs/s/iyouff/massive_parallel_imports_neo4j_without) - [Massive Parallel Imports in Neo4j Without Deadlock and Lock Contention](https://medium.com/neo4j/massive-parallel-imports-in-neo4j-without-deadlock-and-lock-contention-2c003a48d49a)
 * [2026-09-24, 18:43:01](https://lobste.rs/s/opt2ma/f_droid_2_0) - [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
 * [2026-09-24, 18:20:23](https://lobste.rs/s/f0buwg/katamari_architecture) - [katamari architecture](https://nove.dev/blog/katamari-architecture/)
