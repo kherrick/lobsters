@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-25, 18:24:29",
+      "https://lobste.rs/s/nidcls/commodified_intelligence"
+    ],
+    [
+      "Commodified Intelligence",
+      "https://herecomesthemoon.net/2026/09/commodified-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 16:28:39",
+      "https://lobste.rs/s/ztvy1b/pentium_ii_at_600mhz_with_voodoo_3"
+    ],
+    [
+      "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "https://nyaa.sh/reviews/mac-mini-m6-emulation"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 16:12:04",
+      "https://lobste.rs/s/jfbo1r/commongrid_open_source_registry_us_power"
+    ],
+    [
+      "CommonGrid: The open source registry of the US power grid",
+      "https://commongrid.info"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 15:59:24",
+      "https://lobste.rs/s/kc8t26/this_month_redox_august_2026"
+    ],
+    [
+      "This Month in Redox - August 2026",
+      "https://www.redox-os.org/news/this-month-260831/"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 15:23:16",
       "https://lobste.rs/s/tasulj/type_stronger_than_sum_its_components"
     ],
@@ -17,6 +57,16 @@
     [
       "What About Rails?",
       "https://jardo.dev/what-about-rails"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 14:30:37",
+      "https://lobste.rs/s/uipfvv/cross_site_scripting_xss_cheat_sheet"
+    ],
+    [
+      "Cross-Site Scripting (XSS) Cheat Sheet",
+      "https://portswigger.net/web-security/cross-site-scripting/cheat-sheet"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "Grieving the loss of details",
       "https://purplesyringa.moe/blog/grieving-the-loss-of-details/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 11:12:22",
-      "https://lobste.rs/s/1ub0m3/ai_is_not_just_tool"
-    ],
-    [
-      "AI is not “just a tool”",
-      "https://brettcodes.com/ai-is-not-just-a-tool/"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2026-09-25, 01:17:51",
-      "https://lobste.rs/s/ufor73/launching_freebsd_ec2_desktop_amis"
-    ],
-    [
-      "Launching FreeBSD/EC2 desktop AMIs",
-      "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 20:38:32",
       "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"
     ],
@@ -217,36 +247,6 @@
     [
       "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
       "https://mouse.dev/blog/muse-runtime-export/"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 12:11:25",
-      "https://lobste.rs/s/2uzmg2/parsing_expression_grammar_vs_regexes"
-    ],
-    [
-      "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
-      "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 11:34:43",
-      "https://lobste.rs/s/xg8zbk/clankers_made_me_build_second_brain"
-    ],
-    [
-      "Clankers Made Me Build a Second Brain",
-      "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 04:09:40",
-      "https://lobste.rs/s/wf4wid/story_mel"
-    ],
-    [
-      "The Story of Mel",
-      "https://users.cs.utah.edu/~elb/folklore/mel.html"
     ]
   ]
 ]
