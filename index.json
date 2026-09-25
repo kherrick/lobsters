@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-25, 15:23:16",
+      "https://lobste.rs/s/tasulj/type_stronger_than_sum_its_components"
+    ],
+    [
+      "A Type Stronger than the Sum of its Components",
+      "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 14:44:57",
+      "https://lobste.rs/s/rvvqos/what_about_rails"
+    ],
+    [
+      "What About Rails?",
+      "https://jardo.dev/what-about-rails"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 13:01:42",
+      "https://lobste.rs/s/dsungs/amiga_screens_primer"
+    ],
+    [
+      "Amiga screens: a primer",
+      "https://www.datagubbe.se/amscr/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 12:30:36",
+      "https://lobste.rs/s/v6nizc/llm_policies_progress_at_all_costs"
+    ],
+    [
+      "LLM Policies: Progress At All Costs",
+      "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 11:29:33",
+      "https://lobste.rs/s/jmlnak/grieving_loss_details"
+    ],
+    [
+      "Grieving the loss of details",
+      "https://purplesyringa.moe/blog/grieving-the-loss-of-details/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 11:12:22",
+      "https://lobste.rs/s/1ub0m3/ai_is_not_just_tool"
+    ],
+    [
+      "AI is not “just a tool”",
+      "https://brettcodes.com/ai-is-not-just-a-tool/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 10:57:30",
+      "https://lobste.rs/s/5gqorv/who_is_open_source_about"
+    ],
+    [
+      "Who Is Open Source About?",
+      "https://blog.glyph.im/2026/09/who-is-open-source-about.html"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 09:13:44",
       "https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend"
     ],
@@ -11,12 +81,12 @@
   ],
   [
     [
-      "2026-09-25, 09:08:32",
-      "https://lobste.rs/s/tyghk4/emmc_failed_why"
+      "2026-09-25, 08:32:30",
+      "https://lobste.rs/s/uc2ovf/paranoia_sans_conspiratorial_typeface"
     ],
     [
-      "eMMC Failed. Why?",
-      "https://zipcpu.com/blog/2026/07/04/emmc-bug.html"
+      "Paranoia-Sans: A conspiratorial typeface",
+      "https://github.com/flegfleg/Paranoia-Sans"
     ]
   ],
   [
@@ -61,16 +131,6 @@
   ],
   [
     [
-      "2026-09-25, 05:31:56",
-      "https://lobste.rs/s/cuxdjq/remembering_johannes_doerfert"
-    ],
-    [
-      "Remembering Johannes Doerfert",
-      "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 02:50:41",
       "https://lobste.rs/s/x6yjrc/file_notification_attacks_side_channel"
     ],
@@ -101,16 +161,6 @@
   ],
   [
     [
-      "2026-09-24, 23:11:11",
-      "https://lobste.rs/s/zcbk0r/introducing_lev"
-    ],
-    [
-      "Introducing Lev",
-      "https://yogthos.net/posts/2026-09-24-introducing-lev.html"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 20:38:32",
       "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"
     ],
@@ -121,32 +171,12 @@
   ],
   [
     [
-      "2026-09-24, 19:24:00",
-      "https://lobste.rs/s/56bnwm/apple_copland_d11e4_emulator_your"
-    ],
-    [
-      "Apple Copland D11E4 Emulator in Your Browser",
-      "https://www.pagetable.com/300"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 18:43:01",
       "https://lobste.rs/s/opt2ma/f_droid_2_0"
     ],
     [
       "F-Droid 2.0",
       "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 18:20:23",
-      "https://lobste.rs/s/f0buwg/katamari_architecture"
-    ],
-    [
-      "katamari architecture",
-      "https://nove.dev/blog/katamari-architecture/"
     ]
   ],
   [
@@ -167,16 +197,6 @@
     [
       "AI Workers' Inquiry 2026",
       "https://techworkersinquiry.org/ai/"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 15:13:35",
-      "https://lobste.rs/s/ah5jnf/forging_1024_bit_rsa_signatures_nearly"
-    ],
-    [
-      "Forging 1024-bit RSA signatures in nearly SNFS time",
-      "https://eprint.iacr.org/2026/2131.pdf"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "The Story of Mel",
       "https://users.cs.utah.edu/~elb/folklore/mel.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 19:49:57",
-      "https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop"
-    ],
-    [
-      "Ideas on modernizing the open-source desktop",
-      "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 14:34:37",
-      "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"
-    ],
-    [
-      "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html"
     ]
   ]
 ]
