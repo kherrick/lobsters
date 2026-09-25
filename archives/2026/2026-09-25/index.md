@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-25](index.md)
 
+* [2026-09-25, 18:24:29](https://lobste.rs/s/nidcls/commodified_intelligence) - [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
+* [2026-09-25, 16:28:39](https://lobste.rs/s/ztvy1b/pentium_ii_at_600mhz_with_voodoo_3) - [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+* [2026-09-25, 16:12:04](https://lobste.rs/s/jfbo1r/commongrid_open_source_registry_us_power) - [CommonGrid: The open source registry of the US power grid](https://commongrid.info)
+* [2026-09-25, 15:59:24](https://lobste.rs/s/kc8t26/this_month_redox_august_2026) - [This Month in Redox - August 2026](https://www.redox-os.org/news/this-month-260831/)
 * [2026-09-25, 15:23:16](https://lobste.rs/s/tasulj/type_stronger_than_sum_its_components) - [A Type Stronger than the Sum of its Components](https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/)
 * [2026-09-25, 14:44:57](https://lobste.rs/s/rvvqos/what_about_rails) - [What About Rails?](https://jardo.dev/what-about-rails)
+* [2026-09-25, 14:30:37](https://lobste.rs/s/uipfvv/cross_site_scripting_xss_cheat_sheet) - [Cross-Site Scripting (XSS) Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 * [2026-09-25, 13:01:42](https://lobste.rs/s/dsungs/amiga_screens_primer) - [Amiga screens: a primer](https://www.datagubbe.se/amscr/)
 * [2026-09-25, 12:30:36](https://lobste.rs/s/v6nizc/llm_policies_progress_at_all_costs) - [LLM Policies: Progress At All Costs](https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/)
 * [2026-09-25, 11:29:33](https://lobste.rs/s/jmlnak/grieving_loss_details) - [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
