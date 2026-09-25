@@ -1,14 +1,15 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-24, 23:11:11](https://lobste.rs/s/zcbk0r/introducing_lev) - [Introducing Lev](https://yogthos.net/posts/2026-09-24-introducing-lev.html)
+* [2026-09-24, 21:02:52](https://lobste.rs/s/sfdf3h/platform_independent_simd_go) - [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment)
 * [2026-09-24, 20:38:32](https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build) - [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
-* [2026-09-24, 20:36:27](https://lobste.rs/s/ivm0qn/running_pixelflut_on_2010_router) - [Running Pixelflut on a 2010 router](https://filmroellchen.eu/blog/mipselflut/)
 * [2026-09-24, 19:24:00](https://lobste.rs/s/56bnwm/apple_copland_d11e4_emulator_your) - [Apple Copland D11E4 Emulator in Your Browser](https://www.pagetable.com/300)
 * [2026-09-24, 18:43:01](https://lobste.rs/s/opt2ma/f_droid_2_0) - [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
 * [2026-09-24, 18:20:23](https://lobste.rs/s/f0buwg/katamari_architecture) - [katamari architecture](https://nove.dev/blog/katamari-architecture/)
 * [2026-09-24, 18:08:40](https://lobste.rs/s/ckhrtg/casilda_1_6_released) - [Casilda 1.6 Released](https://blogs.gnome.org/xjuan/2026/09/24/casilda-1-6-released/)
 * [2026-09-24, 18:05:22](https://lobste.rs/s/n5l90o/apple_s_two_tier_encryption_uk) - [Apple's Two-Tier Encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/)
 * [2026-09-24, 17:41:35](https://lobste.rs/s/uxvwlo/ai_workers_inquiry_2026) - [AI Workers' Inquiry 2026](https://techworkersinquiry.org/ai/)
-* [2026-09-24, 17:04:48](https://lobste.rs/s/4cbau4/we_have_named_arguments_at_home) - [We Have Named Arguments at Home](https://corrode.dev/blog/named-arguments-at-home/)
+* [2026-09-24, 17:27:03](https://lobste.rs/s/zr2qoj/ram_forgotten_history) - [RAM: the forgotten history](https://blog.coredump.cx/p/memory-the-forgotten-history)
 * [2026-09-24, 15:13:35](https://lobste.rs/s/ah5jnf/forging_1024_bit_rsa_signatures_nearly) - [Forging 1024-bit RSA signatures in nearly SNFS time](https://eprint.iacr.org/2026/2131.pdf)
 * [2026-09-24, 14:57:57](https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why) - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 * [2026-09-24, 14:55:45](https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it) - [I asked Meta’s Muse for its filesystem and it sent me 6.8 GB](https://mouse.dev/blog/muse-runtime-export/)
@@ -24,7 +25,6 @@
 * [2026-09-23, 19:49:57](https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop) - [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
 * [2026-09-23, 14:39:46](https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not) - [I want my mesh networks to be signed, not encrypted](https://andanti.no/blog/SignedMesh.html)
 * [2026-09-23, 14:34:37](https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability) - [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html)
-* [2026-09-23, 10:28:14](https://lobste.rs/s/kras1h/gnome_llm_policy_i_want) - [The GNOME LLM Policy That I Want](https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/)
 
 ## [Archives](archives/index.md)
 
