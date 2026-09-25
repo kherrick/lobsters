@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-09-25](index.md)
 
+* [2026-09-25, 15:23:16](https://lobste.rs/s/tasulj/type_stronger_than_sum_its_components) - [A Type Stronger than the Sum of its Components](https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/)
+* [2026-09-25, 14:44:57](https://lobste.rs/s/rvvqos/what_about_rails) - [What About Rails?](https://jardo.dev/what-about-rails)
+* [2026-09-25, 13:01:42](https://lobste.rs/s/dsungs/amiga_screens_primer) - [Amiga screens: a primer](https://www.datagubbe.se/amscr/)
+* [2026-09-25, 12:30:36](https://lobste.rs/s/v6nizc/llm_policies_progress_at_all_costs) - [LLM Policies: Progress At All Costs](https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/)
+* [2026-09-25, 11:29:33](https://lobste.rs/s/jmlnak/grieving_loss_details) - [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
+* [2026-09-25, 11:12:22](https://lobste.rs/s/1ub0m3/ai_is_not_just_tool) - [AI is not “just a tool”](https://brettcodes.com/ai-is-not-just-a-tool/)
+* [2026-09-25, 10:57:30](https://lobste.rs/s/5gqorv/who_is_open_source_about) - [Who Is Open Source About?](https://blog.glyph.im/2026/09/who-is-open-source-about.html)
 * [2026-09-25, 09:13:44](https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend)
 * [2026-09-25, 09:08:32](https://lobste.rs/s/tyghk4/emmc_failed_why) - [eMMC Failed. Why?](https://zipcpu.com/blog/2026/07/04/emmc-bug.html)
+* [2026-09-25, 08:32:30](https://lobste.rs/s/uc2ovf/paranoia_sans_conspiratorial_typeface) - [Paranoia-Sans: A conspiratorial typeface](https://github.com/flegfleg/Paranoia-Sans)
 * [2026-09-25, 08:26:44](https://lobste.rs/s/ya3cl7/understanding_nvpcrs_systemd_v262) - [Understanding NvPCRs in systemd v262](https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/)
 * [2026-09-25, 06:39:43](https://lobste.rs/s/wqzbpw/every_package_is_already_installed) - [Every package is already installed](https://fzakaria.com/2026/09/24/every-package-is-already-installed)
 * [2026-09-25, 05:51:12](https://lobste.rs/s/sxlf4a/goodbye_google) - [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
