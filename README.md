@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-25, 22:33:21](https://lobste.rs/s/33w4jp/weave_structural_merging_for_different) - [weave: structural merging for different languages](https://github.com/Ataraxy-Labs/weave)
+* [2026-09-25, 19:34:55](https://lobste.rs/s/ylw6qp/three_lenses_on_coordination) - [Three Lenses on Coordination](https://jhellerstein.github.io/blog/three-specs-on-specs/)
 * [2026-09-25, 18:24:29](https://lobste.rs/s/nidcls/commodified_intelligence) - [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
 * [2026-09-25, 16:28:39](https://lobste.rs/s/ztvy1b/pentium_ii_at_600mhz_with_voodoo_3) - [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
 * [2026-09-25, 16:12:04](https://lobste.rs/s/jfbo1r/commongrid_open_source_registry_us_power) - [CommonGrid: The open source registry of the US power grid](https://commongrid.info)
@@ -21,8 +23,6 @@
 * [2026-09-25, 01:31:43](https://lobste.rs/s/jiv1c5/pencils_down_eyes_open_rails_developer) - [Pencils Down, Eyes Open: A Rails Developer After Rails World](https://caio.ca/blog/pencils-down-eyes-open-rails-world)
 * [2026-09-24, 20:38:32](https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build) - [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
 * [2026-09-24, 18:43:01](https://lobste.rs/s/opt2ma/f_droid_2_0) - [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
-* [2026-09-24, 18:05:22](https://lobste.rs/s/n5l90o/apple_s_two_tier_encryption_uk) - [Apple's Two-Tier Encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/)
-* [2026-09-24, 17:41:35](https://lobste.rs/s/uxvwlo/ai_workers_inquiry_2026) - [AI Workers' Inquiry 2026](https://techworkersinquiry.org/ai/)
 * [2026-09-24, 14:57:57](https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why) - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 * [2026-09-24, 14:55:45](https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it) - [I asked Meta’s Muse for its filesystem and it sent me 6.8 GB](https://mouse.dev/blog/muse-runtime-export/)
 

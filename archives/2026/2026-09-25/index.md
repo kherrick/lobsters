@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-25](index.md)
 
+* [2026-09-25, 22:33:21](https://lobste.rs/s/33w4jp/weave_structural_merging_for_different) - [weave: structural merging for different languages](https://github.com/Ataraxy-Labs/weave)
+* [2026-09-25, 19:34:55](https://lobste.rs/s/ylw6qp/three_lenses_on_coordination) - [Three Lenses on Coordination](https://jhellerstein.github.io/blog/three-specs-on-specs/)
 * [2026-09-25, 18:24:29](https://lobste.rs/s/nidcls/commodified_intelligence) - [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
 * [2026-09-25, 16:28:39](https://lobste.rs/s/ztvy1b/pentium_ii_at_600mhz_with_voodoo_3) - [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
 * [2026-09-25, 16:12:04](https://lobste.rs/s/jfbo1r/commongrid_open_source_registry_us_power) - [CommonGrid: The open source registry of the US power grid](https://commongrid.info)
