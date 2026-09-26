@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-09-26, 17:34:14",
+      "https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using"
+    ],
+    [
+      "A Brief Perspective on Deep Learning Using Common Lisp",
+      "https://www.youtube.com/watch?v=Yo4eqoRC1o0"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 17:08:06",
+      "https://lobste.rs/s/aokbai/wrong_not_broken"
+    ],
+    [
+      "Wrong, not broken",
+      "https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 16:27:29",
+      "https://lobste.rs/s/70f3hi/revealing_details_how_openai_agents"
+    ],
+    [
+      "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "https://swarmtraces.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 15:49:22",
+      "https://lobste.rs/s/8pjbtj/can_we_have_reachability_properties_tla"
+    ],
+    [
+      "Can we have reachability properties in TLA⁺?",
+      "https://ahelwer.ca/post/2026-09-26-reachability/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 15:37:12",
+      "https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal"
+    ],
+    [
+      "The JavaScript Pun: tagged template literal",
+      "https://shukla.io/blog/2026-09/pun.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 15:09:50",
+      "https://lobste.rs/s/6dcgr9/graveyard_good_ideas"
+    ],
+    [
+      "The Graveyard of Good Ideas",
+      "https://www.youtube.com/watch?v=ovlQ81rBc-4"
+    ]
+  ],
+  [
+    [
       "2026-09-26, 13:45:59",
       "https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos"
     ],
@@ -67,16 +127,6 @@
     [
       "There is more to code review than (automatable) detection",
       "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 06:10:13",
-      "https://lobste.rs/s/crvszb/ukraine_s_army_is_experimenting_with"
-    ],
-    [
-      "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
-      "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/"
     ]
   ],
   [
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2026-09-25, 11:29:33",
-      "https://lobste.rs/s/jmlnak/grieving_loss_details"
-    ],
-    [
-      "Grieving the loss of details",
-      "https://purplesyringa.moe/blog/grieving-the-loss-of-details/"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 10:57:30",
       "https://lobste.rs/s/5gqorv/who_is_open_source_about"
     ],
     [
       "Who Is Open Source About?",
       "https://blog.glyph.im/2026/09/who-is-open-source-about.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 06:39:43",
-      "https://lobste.rs/s/wqzbpw/every_package_is_already_installed"
-    ],
-    [
-      "Every package is already installed",
-      "https://fzakaria.com/2026/09/24/every-package-is-already-installed"
     ]
   ],
   [
@@ -217,36 +247,6 @@
     [
       "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
       "https://greasyfork.org/en/scripts?by=1646191"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 02:50:41",
-      "https://lobste.rs/s/x6yjrc/file_notification_attacks_side_channel"
-    ],
-    [
-      "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
-      "https://inoti.fyi/"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 20:38:32",
-      "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"
-    ],
-    [
-      "SourceHut account takeover via build logs (XSS in ansi2html.py)",
-      "https://blog.arusekk.pl/posts/srht-account-takeover/"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 14:57:57",
-      "https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why"
-    ],
-    [
-      "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "https://gultsch.de/posts/breaking-up-with-google-play/"
     ]
   ]
 ]
