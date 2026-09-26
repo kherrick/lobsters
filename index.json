@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-09-26, 17:34:14",
-      "https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using"
+      "2026-09-26, 19:31:45",
+      "https://lobste.rs/s/uhlr9z/dissecting_house_apple_2_on_modern_glibc"
     ],
     [
-      "A Brief Perspective on Deep Learning Using Common Lisp",
-      "https://www.youtube.com/watch?v=Yo4eqoRC1o0"
+      "Dissecting House of Apple 2 on modern glibc",
+      "https://jazho76.github.io/house_of_apple_2/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 19:29:50",
+      "https://lobste.rs/s/j1nvpt/how_i_found_113_337_af_alg_linux_local"
+    ],
+    [
+      "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+      "https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 19:21:56",
+      "https://lobste.rs/s/iqqqbg/ai_agents_push_humans_out_loop"
+    ],
+    [
+      "AI Agents Push Humans Out of the Loop",
+      "https://arxiv.org/abs/2608.23642"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 19:01:50",
+      "https://lobste.rs/s/5soxba/reverse_engineering_vintage_intel_8087_s"
+    ],
+    [
+      "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+      "http://www.righto.com/2026/09/8087-tangent-cordic.html"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "The JavaScript Pun: tagged template literal",
       "https://shukla.io/blog/2026-09/pun.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 15:09:50",
-      "https://lobste.rs/s/6dcgr9/graveyard_good_ideas"
-    ],
-    [
-      "The Graveyard of Good Ideas",
-      "https://www.youtube.com/watch?v=ovlQ81rBc-4"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-09-26, 06:18:59",
-      "https://lobste.rs/s/ivunna/there_is_more_code_review_than"
-    ],
-    [
-      "There is more to code review than (automatable) detection",
-      "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/"
-    ]
-  ],
-  [
-    [
       "2026-09-26, 03:45:44",
       "https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free"
     ],
@@ -187,16 +197,6 @@
     [
       "This Month in Redox - August 2026",
       "https://www.redox-os.org/news/this-month-260831/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 15:23:16",
-      "https://lobste.rs/s/tasulj/type_stronger_than_sum_its_components"
-    ],
-    [
-      "A Type Stronger than the Sum of its Components",
-      "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/"
     ]
   ],
   [
