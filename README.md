@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-26, 13:45:59](https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos) - [Infecting the Steam Link with NixOS](https://feyor.sh/blog/infecting-the-steam-link-with-nixos/)
+* [2026-09-26, 12:14:01](https://lobste.rs/s/rucvky/go_concurrency_distilled) - [Go concurrency distilled](https://antonz.org/go-concurrency-distilled/)
+* [2026-09-26, 11:48:40](https://lobste.rs/s/fejuat/tuning_server_for_benchmarking) - [Tuning a Server for Benchmarking](https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/)
+* [2026-09-26, 11:02:48](https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we) - [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
 * [2026-09-26, 09:13:15](https://lobste.rs/s/mitm2h/suggestion_replace_libreoffice_with) - [Suggestion to replace LibreOffice with Collabora as default on Fedora](https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office)
 * [2026-09-26, 08:28:50](https://lobste.rs/s/iotaty/state_simd_rust_2026) - [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
 * [2026-09-26, 06:18:59](https://lobste.rs/s/ivunna/there_is_more_code_review_than) - [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/)
@@ -7,10 +11,8 @@
 * [2026-09-26, 03:45:44](https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free) - [Keep if clauses side-effect free](https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html)
 * [2026-09-26, 02:14:59](https://lobste.rs/s/qknavp/netbsd_playing_with_disklabels) - [NetBSD Playing with disklabels](https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html)
 * [2026-09-25, 23:22:27](https://lobste.rs/s/ekbatu/how_keep_enjoying_programming_world_llms) - [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
-* [2026-09-25, 20:29:10](https://lobste.rs/s/9ry4yi/reinventing_wheel_draw_wide_tree) - [Reinventing the wheel to draw wide tree hierarchies](https://lonami.dev/blog/tree-node-positioning/)
 * [2026-09-25, 18:27:05](https://lobste.rs/s/gt2jle/we_re_gonna_need_lot_more_mathematicians) - [We’re gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
 * [2026-09-25, 18:24:29](https://lobste.rs/s/nidcls/commodified_intelligence) - [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
-* [2026-09-25, 16:28:39](https://lobste.rs/s/ztvy1b/pentium_ii_at_600mhz_with_voodoo_3) - [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
 * [2026-09-25, 15:59:24](https://lobste.rs/s/kc8t26/this_month_redox_august_2026) - [This Month in Redox - August 2026](https://www.redox-os.org/news/this-month-260831/)
 * [2026-09-25, 15:23:16](https://lobste.rs/s/tasulj/type_stronger_than_sum_its_components) - [A Type Stronger than the Sum of its Components](https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/)
 * [2026-09-25, 14:44:57](https://lobste.rs/s/rvvqos/what_about_rails) - [What About Rails?](https://jardo.dev/what-about-rails)
@@ -22,9 +24,7 @@
 * [2026-09-25, 05:33:53](https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms) - [Lobsters: Rename vibecoding to llms (Greasemonkey script)](https://greasyfork.org/en/scripts?by=1646191)
 * [2026-09-25, 02:50:41](https://lobste.rs/s/x6yjrc/file_notification_attacks_side_channel) - [File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS](https://inoti.fyi/)
 * [2026-09-24, 20:38:32](https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build) - [SourceHut account takeover via build logs (XSS in ansi2html.py)](https://blog.arusekk.pl/posts/srht-account-takeover/)
-* [2026-09-24, 18:43:01](https://lobste.rs/s/opt2ma/f_droid_2_0) - [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
 * [2026-09-24, 14:57:57](https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why) - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
-* [2026-09-24, 14:55:45](https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it) - [I asked Meta’s Muse for its filesystem and it sent me 6.8 GB](https://mouse.dev/blog/muse-runtime-export/)
 
 ## [Archives](archives/index.md)
 
