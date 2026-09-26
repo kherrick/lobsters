@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-26, 09:13:15",
+      "https://lobste.rs/s/mitm2h/suggestion_replace_libreoffice_with"
+    ],
+    [
+      "Suggestion to replace LibreOffice with Collabora as default on Fedora",
+      "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 08:28:50",
+      "https://lobste.rs/s/iotaty/state_simd_rust_2026"
+    ],
+    [
+      "The state of SIMD in Rust in 2026",
+      "https://shnatsel.github.io/state-of-simd-rust-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 06:18:59",
+      "https://lobste.rs/s/ivunna/there_is_more_code_review_than"
+    ],
+    [
+      "There is more to code review than (automatable) detection",
+      "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 06:10:13",
+      "https://lobste.rs/s/crvszb/ukraine_s_army_is_experimenting_with"
+    ],
+    [
+      "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
+      "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/"
+    ]
+  ],
+  [
+    [
       "2026-09-26, 03:45:44",
       "https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free"
     ],
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2026-09-25, 22:33:21",
-      "https://lobste.rs/s/33w4jp/weave_structural_merging_for_different"
+      "2026-09-25, 20:29:10",
+      "https://lobste.rs/s/9ry4yi/reinventing_wheel_draw_wide_tree"
     ],
     [
-      "weave: structural merging for different languages",
-      "https://github.com/Ataraxy-Labs/weave"
+      "Reinventing the wheel to draw wide tree hierarchies",
+      "https://lonami.dev/blog/tree-node-positioning/"
     ]
   ],
   [
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2026-09-25, 14:30:37",
-      "https://lobste.rs/s/uipfvv/cross_site_scripting_xss_cheat_sheet"
-    ],
-    [
-      "Cross-Site Scripting (XSS) Cheat Sheet",
-      "https://portswigger.net/web-security/cross-site-scripting/cheat-sheet"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 13:01:42",
       "https://lobste.rs/s/dsungs/amiga_screens_primer"
     ],
     [
       "Amiga screens: a primer",
       "https://www.datagubbe.se/amscr/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 12:30:36",
-      "https://lobste.rs/s/v6nizc/llm_policies_progress_at_all_costs"
-    ],
-    [
-      "LLM Policies: Progress At All Costs",
-      "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/"
     ]
   ],
   [
@@ -147,26 +167,6 @@
     [
       "Who Is Open Source About?",
       "https://blog.glyph.im/2026/09/who-is-open-source-about.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 09:13:44",
-      "https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 08:26:44",
-      "https://lobste.rs/s/ya3cl7/understanding_nvpcrs_systemd_v262"
-    ],
-    [
-      "Understanding NvPCRs in systemd v262",
-      "https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/"
     ]
   ],
   [
