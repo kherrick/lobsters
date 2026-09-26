@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-26](index.md)
 
+* [2026-09-26, 19:31:45](https://lobste.rs/s/uhlr9z/dissecting_house_apple_2_on_modern_glibc) - [Dissecting House of Apple 2 on modern glibc](https://jazho76.github.io/house_of_apple_2/)
+* [2026-09-26, 19:29:50](https://lobste.rs/s/j1nvpt/how_i_found_113_337_af_alg_linux_local) - [How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail](https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/)
+* [2026-09-26, 19:21:56](https://lobste.rs/s/iqqqbg/ai_agents_push_humans_out_loop) - [AI Agents Push Humans Out of the Loop](https://arxiv.org/abs/2608.23642)
+* [2026-09-26, 19:01:50](https://lobste.rs/s/5soxba/reverse_engineering_vintage_intel_8087_s) - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
 * [2026-09-26, 17:34:14](https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using) - [A Brief Perspective on Deep Learning Using Common Lisp](https://www.youtube.com/watch?v=Yo4eqoRC1o0)
 * [2026-09-26, 17:08:06](https://lobste.rs/s/aokbai/wrong_not_broken) - [Wrong, not broken](https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/)
 * [2026-09-26, 16:27:29](https://lobste.rs/s/70f3hi/revealing_details_how_openai_agents) - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
