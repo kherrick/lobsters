@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-25](index.md)
 
+* [2026-09-25, 23:22:27](https://lobste.rs/s/ekbatu/how_keep_enjoying_programming_world_llms) - [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
 * [2026-09-25, 22:33:21](https://lobste.rs/s/33w4jp/weave_structural_merging_for_different) - [weave: structural merging for different languages](https://github.com/Ataraxy-Labs/weave)
 * [2026-09-25, 21:53:23](https://lobste.rs/s/ue30if/homa_end_tcp_for_ai_clusters_john) - [Homa: The End of TCP for AI Clusters — John Ousterhout](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 * [2026-09-25, 21:43:16](https://lobste.rs/s/nzzcn0/acid_debugger_built_from_language_1996) - [Acid: A Debugger Built From A Language (1996)](https://inferno-os.org/inferno/papers/acidpaper.pdf)
