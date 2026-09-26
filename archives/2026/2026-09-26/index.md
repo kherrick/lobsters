@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-26](index.md)
 
+* [2026-09-26, 17:34:14](https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using) - [A Brief Perspective on Deep Learning Using Common Lisp](https://www.youtube.com/watch?v=Yo4eqoRC1o0)
+* [2026-09-26, 17:08:06](https://lobste.rs/s/aokbai/wrong_not_broken) - [Wrong, not broken](https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/)
+* [2026-09-26, 16:27:29](https://lobste.rs/s/70f3hi/revealing_details_how_openai_agents) - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+* [2026-09-26, 15:49:22](https://lobste.rs/s/8pjbtj/can_we_have_reachability_properties_tla) - [Can we have reachability properties in TLA⁺?](https://ahelwer.ca/post/2026-09-26-reachability/)
+* [2026-09-26, 15:37:12](https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal) - [The JavaScript Pun: tagged template literal](https://shukla.io/blog/2026-09/pun.html)
+* [2026-09-26, 15:09:50](https://lobste.rs/s/6dcgr9/graveyard_good_ideas) - [The Graveyard of Good Ideas](https://www.youtube.com/watch?v=ovlQ81rBc-4)
 * [2026-09-26, 13:45:59](https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos) - [Infecting the Steam Link with NixOS](https://feyor.sh/blog/infecting-the-steam-link-with-nixos/)
 * [2026-09-26, 12:14:01](https://lobste.rs/s/rucvky/go_concurrency_distilled) - [Go concurrency distilled](https://antonz.org/go-concurrency-distilled/)
 * [2026-09-26, 11:48:40](https://lobste.rs/s/fejuat/tuning_server_for_benchmarking) - [Tuning a Server for Benchmarking](https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/)
