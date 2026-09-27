@@ -1,8 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-27, 12:24:15](https://lobste.rs/s/bk23us/foxdev_studio) - [FoxDev Studio](https://foxscript.org/)
+* [2026-09-27, 07:15:30](https://lobste.rs/s/fli8va/improving_site_performance_by_shipping) - [Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)
+* [2026-09-27, 07:15:07](https://lobste.rs/s/ueh7gz/robot_use_agents) - [Robot-use agents](https://web.mit.edu/phillipi/www/writing/robot-use-agents.html)
 * [2026-09-27, 06:22:21](https://lobste.rs/s/ivbx5f/one_month_without_ai) - [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 * [2026-09-27, 03:41:44](https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec) - [Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming](https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave)
-* [2026-09-27, 02:07:23](https://lobste.rs/s/kznfdx/turn_glm_5_3_flash_into_jev_like_system_one) - [Turn GLM-5.3-Flash into a Jev-like System One model](https://www.privatemode.ai/blog/system-one-from-glm-flash)
+* [2026-09-27, 01:06:21](https://lobste.rs/s/lw0e1u/mantle_nes_breakdown_blog_part_1) - [mantle.nes breakdown blog part 1](https://melon.zone/blog/blog/gamedev/tech/fun/2026-09-23-mantle-nes-breakdown-part-1/)
 * [2026-09-27, 00:28:51](https://lobste.rs/s/zsdlcz/teaching_gpu_programming_p5_js_now_with) - [Teaching GPU programming in p5.js: now with compute shaders](https://www.davepagurek.com/blog/p5-compute-shaders/)
 * [2026-09-27, 00:18:05](https://lobste.rs/s/0rcuoj/honeypot_on_boykisser_forum) - [Honeypot on the boykisser forum](https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/)
 * [2026-09-27, 00:10:18](https://lobste.rs/s/mf2lic/deploying_guix_images_on_linode) - [Deploying Guix images on Linode](https://dthompson.us/posts/deploying-guix-images-on-linode.html)
@@ -10,7 +13,6 @@
 * [2026-09-26, 20:45:24](https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate) - [Rusty thoughts on \"Parse, don't validate\"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
 * [2026-09-26, 19:21:56](https://lobste.rs/s/iqqqbg/ai_agents_push_humans_out_loop) - [AI Agents Push Humans Out of the Loop](https://arxiv.org/abs/2608.23642)
 * [2026-09-26, 19:01:50](https://lobste.rs/s/5soxba/reverse_engineering_vintage_intel_8087_s) - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
-* [2026-09-26, 18:44:00](https://lobste.rs/s/duu1z0/lost_atomic_update_on_loongarch_la664) - [The lost atomic update on LoongArch LA664](https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/)
 * [2026-09-26, 17:08:06](https://lobste.rs/s/aokbai/wrong_not_broken) - [Wrong, not broken](https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/)
 * [2026-09-26, 16:27:29](https://lobste.rs/s/70f3hi/revealing_details_how_openai_agents) - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
 * [2026-09-26, 15:49:22](https://lobste.rs/s/8pjbtj/can_we_have_reachability_properties_tla) - [Can we have reachability properties in TLA⁺?](https://ahelwer.ca/post/2026-09-26-reachability/)
@@ -22,9 +24,7 @@
 * [2026-09-26, 09:13:15](https://lobste.rs/s/mitm2h/suggestion_replace_libreoffice_with) - [Suggestion to replace LibreOffice with Collabora as default on Fedora](https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office)
 * [2026-09-26, 08:28:50](https://lobste.rs/s/iotaty/state_simd_rust_2026) - [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
 * [2026-09-26, 03:45:44](https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free) - [Keep if clauses side-effect free](https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html)
-* [2026-09-26, 02:14:59](https://lobste.rs/s/qknavp/netbsd_playing_with_disklabels) - [NetBSD Playing with disklabels](https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html)
 * [2026-09-25, 18:24:29](https://lobste.rs/s/nidcls/commodified_intelligence) - [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
-* [2026-09-25, 14:44:57](https://lobste.rs/s/rvvqos/what_about_rails) - [What About Rails?](https://jardo.dev/what-about-rails)
 
 ## [Archives](archives/index.md)
 

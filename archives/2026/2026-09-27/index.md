@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 12:24:15](https://lobste.rs/s/bk23us/foxdev_studio) - [FoxDev Studio](https://foxscript.org/)
+* [2026-09-27, 07:15:30](https://lobste.rs/s/fli8va/improving_site_performance_by_shipping) - [Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)
+* [2026-09-27, 07:15:07](https://lobste.rs/s/ueh7gz/robot_use_agents) - [Robot-use agents](https://web.mit.edu/phillipi/www/writing/robot-use-agents.html)
 * [2026-09-27, 06:22:21](https://lobste.rs/s/ivbx5f/one_month_without_ai) - [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 * [2026-09-27, 03:41:44](https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec) - [Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming](https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave)
 * [2026-09-27, 02:07:23](https://lobste.rs/s/kznfdx/turn_glm_5_3_flash_into_jev_like_system_one) - [Turn GLM-5.3-Flash into a Jev-like System One model](https://www.privatemode.ai/blog/system-one-from-glm-flash)
