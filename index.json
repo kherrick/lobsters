@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-09-27, 12:24:15",
-      "https://lobste.rs/s/bk23us/foxdev_studio"
+      "2026-09-27, 14:47:13",
+      "https://lobste.rs/s/fcj31p/deshittification_part_2_bypassing_app"
     ],
     [
-      "FoxDev Studio",
-      "https://foxscript.org/"
+      "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+      "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 14:44:53",
+      "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users"
+    ],
+    [
+      "“They had no concept of a duty of care to their users.”",
+      "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 13:58:57",
+      "https://lobste.rs/s/apoyxs/luarocks_security_incident_september"
+    ],
+    [
+      "LuaRocks Security Incident September 2026",
+      "https://luarocks.org/security-incident-september-2026"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 13:05:28",
+      "https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world"
+    ],
+    [
+      "Ten Lines Of Code That Changed My World",
+      "https://pixelambacht.nl/2026/ten-lines-of-code/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 12:52:57",
+      "https://lobste.rs/s/mwc2fu/what_improves_developer_productivity_at"
+    ],
+    [
+      "What Improves Developer Productivity at Google? Code Quality (2022)",
+      "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
       "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 01:06:21",
-      "https://lobste.rs/s/lw0e1u/mantle_nes_breakdown_blog_part_1"
-    ],
-    [
-      "mantle.nes breakdown blog part 1",
-      "https://melon.zone/blog/blog/gamedev/tech/fun/2026-09-23-mantle-nes-breakdown-part-1/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-09-26, 17:08:06",
-      "https://lobste.rs/s/aokbai/wrong_not_broken"
-    ],
-    [
-      "Wrong, not broken",
-      "https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/"
-    ]
-  ],
-  [
-    [
       "2026-09-26, 16:27:29",
       "https://lobste.rs/s/70f3hi/revealing_details_how_openai_agents"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-09-26, 11:48:40",
-      "https://lobste.rs/s/fejuat/tuning_server_for_benchmarking"
-    ],
-    [
-      "Tuning a Server for Benchmarking",
-      "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/"
-    ]
-  ],
-  [
-    [
       "2026-09-26, 11:02:48",
       "https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we"
     ],
@@ -227,16 +237,6 @@
     [
       "The state of SIMD in Rust in 2026",
       "https://shnatsel.github.io/state-of-simd-rust-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 03:45:44",
-      "https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free"
-    ],
-    [
-      "Keep if clauses side-effect free",
-      "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html"
     ]
   ],
   [
