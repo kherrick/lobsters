@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-27, 12:24:15",
+      "https://lobste.rs/s/bk23us/foxdev_studio"
+    ],
+    [
+      "FoxDev Studio",
+      "https://foxscript.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 07:15:30",
+      "https://lobste.rs/s/fli8va/improving_site_performance_by_shipping"
+    ],
+    [
+      "Improving site performance by shipping more CSS",
+      "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 07:15:07",
+      "https://lobste.rs/s/ueh7gz/robot_use_agents"
+    ],
+    [
+      "Robot-use agents",
+      "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html"
+    ]
+  ],
+  [
+    [
       "2026-09-27, 06:22:21",
       "https://lobste.rs/s/ivbx5f/one_month_without_ai"
     ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2026-09-27, 02:07:23",
-      "https://lobste.rs/s/kznfdx/turn_glm_5_3_flash_into_jev_like_system_one"
+      "2026-09-27, 01:06:21",
+      "https://lobste.rs/s/lw0e1u/mantle_nes_breakdown_blog_part_1"
     ],
     [
-      "Turn GLM-5.3-Flash into a Jev-like System One model",
-      "https://www.privatemode.ai/blog/system-one-from-glm-flash"
+      "mantle.nes breakdown blog part 1",
+      "https://melon.zone/blog/blog/gamedev/tech/fun/2026-09-23-mantle-nes-breakdown-part-1/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
       "http://www.righto.com/2026/09/8087-tangent-cordic.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 18:44:00",
-      "https://lobste.rs/s/duu1z0/lost_atomic_update_on_loongarch_la664"
-    ],
-    [
-      "The lost atomic update on LoongArch LA664",
-      "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-09-26, 02:14:59",
-      "https://lobste.rs/s/qknavp/netbsd_playing_with_disklabels"
-    ],
-    [
-      "NetBSD Playing with disklabels",
-      "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 18:24:29",
       "https://lobste.rs/s/nidcls/commodified_intelligence"
     ],
     [
       "Commodified Intelligence",
       "https://herecomesthemoon.net/2026/09/commodified-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 14:44:57",
-      "https://lobste.rs/s/rvvqos/what_about_rails"
-    ],
-    [
-      "What About Rails?",
-      "https://jardo.dev/what-about-rails"
     ]
   ]
 ]
