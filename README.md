@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-27, 20:17:42](https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github) - [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 * [2026-09-27, 19:58:31](https://lobste.rs/s/czoeax/reverse_engineering_ipod_classic_s) - [Reverse Engineering the iPod Classic's Undocumented Mikey Chip](https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/)
 * [2026-09-27, 18:03:12](https://lobste.rs/s/exda3k/writing_efficient_c_code) - [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php)
 * [2026-09-27, 17:34:21](https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura) - [postmarketOS rebrands as Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
@@ -22,7 +23,6 @@
 * [2026-09-26, 13:45:59](https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos) - [Infecting the Steam Link with NixOS](https://feyor.sh/blog/infecting-the-steam-link-with-nixos/)
 * [2026-09-26, 12:14:01](https://lobste.rs/s/rucvky/go_concurrency_distilled) - [Go concurrency distilled](https://antonz.org/go-concurrency-distilled/)
 * [2026-09-26, 11:02:48](https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we) - [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
-* [2026-09-26, 09:13:15](https://lobste.rs/s/mitm2h/suggestion_replace_libreoffice_with) - [Suggestion to replace LibreOffice with Collabora as default on Fedora](https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office)
 * [2026-09-26, 08:28:50](https://lobste.rs/s/iotaty/state_simd_rust_2026) - [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
 * [2026-09-25, 18:24:29](https://lobste.rs/s/nidcls/commodified_intelligence) - [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
 

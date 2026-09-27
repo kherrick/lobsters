@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 20:17:42](https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github) - [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 * [2026-09-27, 19:58:31](https://lobste.rs/s/czoeax/reverse_engineering_ipod_classic_s) - [Reverse Engineering the iPod Classic's Undocumented Mikey Chip](https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/)
 * [2026-09-27, 18:03:12](https://lobste.rs/s/exda3k/writing_efficient_c_code) - [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php)
 * [2026-09-27, 17:34:21](https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura) - [postmarketOS rebrands as Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
