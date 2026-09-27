@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-26](index.md)
 
+* [2026-09-26, 20:45:24](https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate) - [Rusty thoughts on \"Parse, don't validate\"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
 * [2026-09-26, 19:31:45](https://lobste.rs/s/uhlr9z/dissecting_house_apple_2_on_modern_glibc) - [Dissecting House of Apple 2 on modern glibc](https://jazho76.github.io/house_of_apple_2/)
 * [2026-09-26, 19:29:50](https://lobste.rs/s/j1nvpt/how_i_found_113_337_af_alg_linux_local) - [How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail](https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/)
 * [2026-09-26, 19:25:21](https://lobste.rs/s/7dkvey/introducing_toolpak) - [Introducing Toolpak](https://blogs.gnome.org/alatiera/2026/09/26/introducing-toolpak/)
