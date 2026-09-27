@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-27, 19:58:31",
+      "https://lobste.rs/s/czoeax/reverse_engineering_ipod_classic_s"
+    ],
+    [
+      "Reverse Engineering the iPod Classic's Undocumented Mikey Chip",
+      "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 18:03:12",
+      "https://lobste.rs/s/exda3k/writing_efficient_c_code"
+    ],
+    [
+      "Writing Efficient C++ Code",
+      "https://asawicki.info/articles/writing_efficient_cpp_code.php"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 17:34:21",
+      "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura"
+    ],
+    [
+      "postmarketOS rebrands as Nura",
+      "https://nura.eco/blog/2026/09/27/nura-rename/"
+    ]
+  ],
+  [
+    [
       "2026-09-27, 14:47:13",
       "https://lobste.rs/s/fcj31p/deshittification_part_2_bypassing_app"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-09-27, 07:15:07",
-      "https://lobste.rs/s/ueh7gz/robot_use_agents"
-    ],
-    [
-      "Robot-use agents",
-      "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 06:22:21",
       "https://lobste.rs/s/ivbx5f/one_month_without_ai"
     ],
@@ -97,16 +117,6 @@
     [
       "Teaching GPU programming in p5.js: now with compute shaders",
       "https://www.davepagurek.com/blog/p5-compute-shaders/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 00:18:05",
-      "https://lobste.rs/s/0rcuoj/honeypot_on_boykisser_forum"
-    ],
-    [
-      "Honeypot on the boykisser forum",
-      "https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
       "http://www.righto.com/2026/09/8087-tangent-cordic.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 16:27:29",
-      "https://lobste.rs/s/70f3hi/revealing_details_how_openai_agents"
-    ],
-    [
-      "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "https://swarmtraces.org/"
     ]
   ],
   [
