@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 19:58:31](https://lobste.rs/s/czoeax/reverse_engineering_ipod_classic_s) - [Reverse Engineering the iPod Classic's Undocumented Mikey Chip](https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/)
+* [2026-09-27, 18:03:12](https://lobste.rs/s/exda3k/writing_efficient_c_code) - [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php)
+* [2026-09-27, 17:34:21](https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura) - [postmarketOS rebrands as Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
 * [2026-09-27, 14:47:13](https://lobste.rs/s/fcj31p/deshittification_part_2_bypassing_app) - [Deshittification Part 2: Bypassing the App Store Gatekeeper](https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/)
 * [2026-09-27, 14:44:53](https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users) - [“They had no concept of a duty of care to their users.”](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
 * [2026-09-27, 13:58:57](https://lobste.rs/s/apoyxs/luarocks_security_incident_september) - [LuaRocks Security Incident September 2026](https://luarocks.org/security-incident-september-2026)
