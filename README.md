@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-09-27, 01:06:21](https://lobste.rs/s/lw0e1u/mantle_nes_breakdown_blog_part_1) - [mantle.nes breakdown blog part 1](https://melon.zone/blog/blog/gamedev/tech/fun/2026-09-23-mantle-nes-breakdown-part-1/)
+* [2026-09-27, 06:22:21](https://lobste.rs/s/ivbx5f/one_month_without_ai) - [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+* [2026-09-27, 03:41:44](https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec) - [Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming](https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave)
+* [2026-09-27, 02:07:23](https://lobste.rs/s/kznfdx/turn_glm_5_3_flash_into_jev_like_system_one) - [Turn GLM-5.3-Flash into a Jev-like System One model](https://www.privatemode.ai/blog/system-one-from-glm-flash)
 * [2026-09-27, 00:28:51](https://lobste.rs/s/zsdlcz/teaching_gpu_programming_p5_js_now_with) - [Teaching GPU programming in p5.js: now with compute shaders](https://www.davepagurek.com/blog/p5-compute-shaders/)
 * [2026-09-27, 00:18:05](https://lobste.rs/s/0rcuoj/honeypot_on_boykisser_forum) - [Honeypot on the boykisser forum](https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/)
 * [2026-09-27, 00:10:18](https://lobste.rs/s/mf2lic/deploying_guix_images_on_linode) - [Deploying Guix images on Linode](https://dthompson.us/posts/deploying-guix-images-on-linode.html)
@@ -21,10 +23,8 @@
 * [2026-09-26, 08:28:50](https://lobste.rs/s/iotaty/state_simd_rust_2026) - [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
 * [2026-09-26, 03:45:44](https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free) - [Keep if clauses side-effect free](https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html)
 * [2026-09-26, 02:14:59](https://lobste.rs/s/qknavp/netbsd_playing_with_disklabels) - [NetBSD Playing with disklabels](https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html)
-* [2026-09-25, 23:22:27](https://lobste.rs/s/ekbatu/how_keep_enjoying_programming_world_llms) - [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
 * [2026-09-25, 18:24:29](https://lobste.rs/s/nidcls/commodified_intelligence) - [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
 * [2026-09-25, 14:44:57](https://lobste.rs/s/rvvqos/what_about_rails) - [What About Rails?](https://jardo.dev/what-about-rails)
-* [2026-09-25, 05:51:12](https://lobste.rs/s/sxlf4a/goodbye_google) - [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
 
 ## [Archives](archives/index.md)
 
