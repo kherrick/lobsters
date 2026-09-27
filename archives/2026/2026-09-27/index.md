@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 14:47:13](https://lobste.rs/s/fcj31p/deshittification_part_2_bypassing_app) - [Deshittification Part 2: Bypassing the App Store Gatekeeper](https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/)
+* [2026-09-27, 14:44:53](https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users) - [“They had no concept of a duty of care to their users.”](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
+* [2026-09-27, 13:58:57](https://lobste.rs/s/apoyxs/luarocks_security_incident_september) - [LuaRocks Security Incident September 2026](https://luarocks.org/security-incident-september-2026)
+* [2026-09-27, 13:05:28](https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world) - [Ten Lines Of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
+* [2026-09-27, 12:52:57](https://lobste.rs/s/mwc2fu/what_improves_developer_productivity_at) - [What Improves Developer Productivity at Google? Code Quality (2022)](https://dl.acm.org/doi/pdf/10.1145/3540250.3558940)
 * [2026-09-27, 12:24:15](https://lobste.rs/s/bk23us/foxdev_studio) - [FoxDev Studio](https://foxscript.org/)
 * [2026-09-27, 07:15:30](https://lobste.rs/s/fli8va/improving_site_performance_by_shipping) - [Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)
 * [2026-09-27, 07:15:07](https://lobste.rs/s/ueh7gz/robot_use_agents) - [Robot-use agents](https://web.mit.edu/phillipi/www/writing/robot-use-agents.html)
