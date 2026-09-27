@@ -1,32 +1,62 @@
 [
   [
     [
-      "2026-09-26, 19:31:45",
-      "https://lobste.rs/s/uhlr9z/dissecting_house_apple_2_on_modern_glibc"
+      "2026-09-27, 01:06:21",
+      "https://lobste.rs/s/lw0e1u/mantle_nes_breakdown_blog_part_1"
     ],
     [
-      "Dissecting House of Apple 2 on modern glibc",
-      "https://jazho76.github.io/house_of_apple_2/"
+      "mantle.nes breakdown blog part 1",
+      "https://melon.zone/blog/blog/gamedev/tech/fun/2026-09-23-mantle-nes-breakdown-part-1/"
     ]
   ],
   [
     [
-      "2026-09-26, 19:29:50",
-      "https://lobste.rs/s/j1nvpt/how_i_found_113_337_af_alg_linux_local"
+      "2026-09-27, 00:28:51",
+      "https://lobste.rs/s/zsdlcz/teaching_gpu_programming_p5_js_now_with"
     ],
     [
-      "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
-      "https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/"
+      "Teaching GPU programming in p5.js: now with compute shaders",
+      "https://www.davepagurek.com/blog/p5-compute-shaders/"
     ]
   ],
   [
     [
-      "2026-09-26, 19:25:21",
-      "https://lobste.rs/s/7dkvey/introducing_toolpak"
+      "2026-09-27, 00:18:05",
+      "https://lobste.rs/s/0rcuoj/honeypot_on_boykisser_forum"
     ],
     [
-      "Introducing Toolpak",
-      "https://blogs.gnome.org/alatiera/2026/09/26/introducing-toolpak/"
+      "Honeypot on the boykisser forum",
+      "https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 00:10:18",
+      "https://lobste.rs/s/mf2lic/deploying_guix_images_on_linode"
+    ],
+    [
+      "Deploying Guix images on Linode",
+      "https://dthompson.us/posts/deploying-guix-images-on-linode.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 00:04:56",
+      "https://lobste.rs/s/zoproh/this_is_modern_motherfucking_website"
+    ],
+    [
+      "This is a modern motherfucking website",
+      "https://modernmotherfuckingwebsite.dreamstation.systems/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 20:45:24",
+      "https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate"
+    ],
+    [
+      "Rusty thoughts on \"Parse, don't validate\"",
+      "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-09-25, 18:27:05",
-      "https://lobste.rs/s/gt2jle/we_re_gonna_need_lot_more_mathematicians"
-    ],
-    [
-      "We’re gonna need a lot more mathematicians",
-      "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 18:24:29",
       "https://lobste.rs/s/nidcls/commodified_intelligence"
     ],
     [
       "Commodified Intelligence",
       "https://herecomesthemoon.net/2026/09/commodified-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 15:59:24",
-      "https://lobste.rs/s/kc8t26/this_month_redox_august_2026"
-    ],
-    [
-      "This Month in Redox - August 2026",
-      "https://www.redox-os.org/news/this-month-260831/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Goodbye Google",
       "https://robert.ocallahan.org/2026/09/goodbye-google.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 05:33:53",
-      "https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms"
-    ],
-    [
-      "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-      "https://greasyfork.org/en/scripts?by=1646191"
     ]
   ]
 ]
