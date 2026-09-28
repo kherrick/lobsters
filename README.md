@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-28, 00:10:55](https://lobste.rs/s/hy7ckt/syncing_rust_gcc_backend_how_test_murphy_s) - [Syncing Rust GCC backend or how to test Murphy's law](https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law)
+* [2026-09-27, 23:37:33](https://lobste.rs/s/edx1gf/thorsten_ball_what_i_believe_about_future) - [Thorsten Ball - What I believe about the future of software development](https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/)
+* [2026-09-27, 23:32:38](https://lobste.rs/s/qgsfdf/ex_arrr_sailing_0_click_seas) - [EX-ARRR: Sailing the 0-click Seas](https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/)
+* [2026-09-27, 23:22:45](https://lobste.rs/s/nmksyw/dropping_swift_entirely_from_our_bevy_ios) - [Dropping Swift entirely from our Bevy iOS crates](https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/)
 * [2026-09-27, 20:17:42](https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github) - [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 * [2026-09-27, 19:58:31](https://lobste.rs/s/czoeax/reverse_engineering_ipod_classic_s) - [Reverse Engineering the iPod Classic's Undocumented Mikey Chip](https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/)
 * [2026-09-27, 18:03:12](https://lobste.rs/s/exda3k/writing_efficient_c_code) - [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php)
@@ -17,14 +21,10 @@
 * [2026-09-27, 00:04:56](https://lobste.rs/s/zoproh/this_is_modern_motherfucking_website) - [This is a modern motherfucking website](https://modernmotherfuckingwebsite.dreamstation.systems/)
 * [2026-09-26, 20:45:24](https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate) - [Rusty thoughts on \"Parse, don't validate\"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
 * [2026-09-26, 19:21:56](https://lobste.rs/s/iqqqbg/ai_agents_push_humans_out_loop) - [AI Agents Push Humans Out of the Loop](https://arxiv.org/abs/2608.23642)
-* [2026-09-26, 19:01:50](https://lobste.rs/s/5soxba/reverse_engineering_vintage_intel_8087_s) - [Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC](http://www.righto.com/2026/09/8087-tangent-cordic.html)
-* [2026-09-26, 15:49:22](https://lobste.rs/s/8pjbtj/can_we_have_reachability_properties_tla) - [Can we have reachability properties in TLA⁺?](https://ahelwer.ca/post/2026-09-26-reachability/)
 * [2026-09-26, 15:37:12](https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal) - [The JavaScript Pun: tagged template literal](https://shukla.io/blog/2026-09/pun.html)
 * [2026-09-26, 13:45:59](https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos) - [Infecting the Steam Link with NixOS](https://feyor.sh/blog/infecting-the-steam-link-with-nixos/)
 * [2026-09-26, 12:14:01](https://lobste.rs/s/rucvky/go_concurrency_distilled) - [Go concurrency distilled](https://antonz.org/go-concurrency-distilled/)
 * [2026-09-26, 11:02:48](https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we) - [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
-* [2026-09-26, 08:28:50](https://lobste.rs/s/iotaty/state_simd_rust_2026) - [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
-* [2026-09-25, 18:24:29](https://lobste.rs/s/nidcls/commodified_intelligence) - [Commodified Intelligence](https://herecomesthemoon.net/2026/09/commodified-intelligence/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 23:37:33](https://lobste.rs/s/edx1gf/thorsten_ball_what_i_believe_about_future) - [Thorsten Ball - What I believe about the future of software development](https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/)
+* [2026-09-27, 23:32:38](https://lobste.rs/s/qgsfdf/ex_arrr_sailing_0_click_seas) - [EX-ARRR: Sailing the 0-click Seas](https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/)
+* [2026-09-27, 23:22:45](https://lobste.rs/s/nmksyw/dropping_swift_entirely_from_our_bevy_ios) - [Dropping Swift entirely from our Bevy iOS crates](https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/)
 * [2026-09-27, 20:17:42](https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github) - [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 * [2026-09-27, 19:58:31](https://lobste.rs/s/czoeax/reverse_engineering_ipod_classic_s) - [Reverse Engineering the iPod Classic's Undocumented Mikey Chip](https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/)
 * [2026-09-27, 18:03:12](https://lobste.rs/s/exda3k/writing_efficient_c_code) - [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php)
