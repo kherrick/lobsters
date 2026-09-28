@@ -1,6 +1,116 @@
 [
   [
     [
+      "2026-09-28, 15:34:10",
+      "https://lobste.rs/s/wzli60/normalization_inexplicable_failures"
+    ],
+    [
+      "the normalization of inexplicable failures",
+      "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 15:23:03",
+      "https://lobste.rs/s/v6bbts/output_seed_mappings_for_cpython_s_prng"
+    ],
+    [
+      "Output-to-seed mappings for CPython's PRNG",
+      "https://github.com/frazerpearce/TimeLord"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 15:04:58",
+      "https://lobste.rs/s/kolgwk/how_solve_hallucination_with_rlcd"
+    ],
+    [
+      "How to Solve Hallucination (with RLCD)",
+      "https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 12:42:17",
+      "https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 11:45:16",
+      "https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream"
+    ],
+    [
+      "Hijacking the PS5's RTMP Stream",
+      "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 09:58:26",
+      "https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"
+    ],
+    [
+      "Yes, no AI is now a feature",
+      "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 09:44:05",
+      "https://lobste.rs/s/h3igdh/leaving_them_behind"
+    ],
+    [
+      "Leaving them behind",
+      "https://dbushell.com/2026/09/28/leaving-them-behind/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 09:26:36",
+      "https://lobste.rs/s/uawtno/packing_binary_is_fun_actually"
+    ],
+    [
+      "Packing Binary Is Fun, Actually",
+      "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 09:16:46",
+      "https://lobste.rs/s/aig5tr/when_did_google_get_so_weird"
+    ],
+    [
+      "When did Google get so weird?",
+      "https://sancho.bearblog.dev/google-weird/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 08:05:47",
+      "https://lobste.rs/s/bslggr/shobr_job_seach_cli_via_browser"
+    ],
+    [
+      "Shobr: Job seach CLI via browser automation, event-sourcing, LLM",
+      "https://github.com/sebastiancarlos/shobr"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 07:52:23",
+      "https://lobste.rs/s/6p91by/rickrolling_with_pharmacy_cross"
+    ],
+    [
+      "Rickrolling with a Pharmacy cross",
+      "https://hugoarnal.com/blog/rickroll-pharmacy-cross/"
+    ]
+  ],
+  [
+    [
       "2026-09-28, 05:48:54",
       "https://lobste.rs/s/yidvju/pragmatic_anthropomorphism_how_talk"
     ],
@@ -17,16 +127,6 @@
     [
       "What makes Lisp difficult to read?",
       "https://paultm.nl/paren-thesis"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 04:36:20",
-      "https://lobste.rs/s/69mmo0/dogwood_monitoring_policies_using_first"
-    ],
-    [
-      "DogWood: Monitoring Policies using First Order Temporal Logic",
-      "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/"
     ]
   ],
   [
@@ -71,16 +171,6 @@
   ],
   [
     [
-      "2026-09-27, 23:37:33",
-      "https://lobste.rs/s/edx1gf/what_i_believe_about_future_software"
-    ],
-    [
-      "What I believe about the future of software development",
-      "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 23:22:45",
       "https://lobste.rs/s/nmksyw/dropping_swift_entirely_from_our_bevy_ios"
     ],
@@ -111,32 +201,12 @@
   ],
   [
     [
-      "2026-09-27, 18:03:12",
-      "https://lobste.rs/s/exda3k/writing_efficient_c_code"
-    ],
-    [
-      "Writing Efficient C++ Code",
-      "https://asawicki.info/articles/writing_efficient_cpp_code.php"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 17:34:21",
       "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura"
     ],
     [
       "postmarketOS rebrands as Nura",
       "https://nura.eco/blog/2026/09/27/nura-rename/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 14:47:13",
-      "https://lobste.rs/s/fcj31p/deshittification_part_2_bypassing_app"
-    ],
-    [
-      "Deshittification Part 2: Bypassing the App Store Gatekeeper",
-      "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/"
     ]
   ],
   [
@@ -171,82 +241,12 @@
   ],
   [
     [
-      "2026-09-27, 12:52:57",
-      "https://lobste.rs/s/mwc2fu/what_improves_developer_productivity_at"
-    ],
-    [
-      "What Improves Developer Productivity at Google? Code Quality (2022)",
-      "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 06:22:21",
       "https://lobste.rs/s/ivbx5f/one_month_without_ai"
     ],
     [
       "One month without AI",
       "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 03:41:44",
-      "https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec"
-    ],
-    [
-      "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
-      "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 00:04:56",
-      "https://lobste.rs/s/zoproh/this_is_modern_motherfucking_website"
-    ],
-    [
-      "This is a modern motherfucking website",
-      "https://modernmotherfuckingwebsite.dreamstation.systems/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 20:45:24",
-      "https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate"
-    ],
-    [
-      "Rusty thoughts on \"Parse, don't validate\"",
-      "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 19:21:56",
-      "https://lobste.rs/s/iqqqbg/ai_agents_push_humans_out_loop"
-    ],
-    [
-      "AI Agents Push Humans Out of the Loop",
-      "https://arxiv.org/abs/2608.23642"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 13:45:59",
-      "https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos"
-    ],
-    [
-      "Infecting the Steam Link with NixOS",
-      "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 11:02:48",
-      "https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we"
-    ],
-    [
-      "If we do not stop to help each other, what do we become?",
-      "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/"
     ]
   ]
 ]
