@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-09-28](index.md)
 
+* [2026-09-28, 15:34:10](https://lobste.rs/s/wzli60/normalization_inexplicable_failures) - [the normalization of inexplicable failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
+* [2026-09-28, 15:23:03](https://lobste.rs/s/v6bbts/output_seed_mappings_for_cpython_s_prng) - [Output-to-seed mappings for CPython's PRNG](https://github.com/frazerpearce/TimeLord)
+* [2026-09-28, 15:04:58](https://lobste.rs/s/kolgwk/how_solve_hallucination_with_rlcd) - [How to Solve Hallucination (with RLCD)](https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/)
+* [2026-09-28, 12:42:17](https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week)
+* [2026-09-28, 11:45:16](https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream) - [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
+* [2026-09-28, 09:58:26](https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature) - [Yes, no AI is now a feature](https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/)
+* [2026-09-28, 09:44:05](https://lobste.rs/s/h3igdh/leaving_them_behind) - [Leaving them behind](https://dbushell.com/2026/09/28/leaving-them-behind/)
+* [2026-09-28, 09:26:36](https://lobste.rs/s/uawtno/packing_binary_is_fun_actually) - [Packing Binary Is Fun, Actually](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/)
+* [2026-09-28, 09:16:46](https://lobste.rs/s/aig5tr/when_did_google_get_so_weird) - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+* [2026-09-28, 08:05:47](https://lobste.rs/s/bslggr/shobr_job_seach_cli_via_browser) - [Shobr: Job seach CLI via browser automation, event-sourcing, LLM](https://github.com/sebastiancarlos/shobr)
+* [2026-09-28, 07:52:23](https://lobste.rs/s/6p91by/rickrolling_with_pharmacy_cross) - [Rickrolling with a Pharmacy cross](https://hugoarnal.com/blog/rickroll-pharmacy-cross/)
 * [2026-09-28, 05:48:54](https://lobste.rs/s/yidvju/pragmatic_anthropomorphism_how_talk) - [Pragmatic Anthropomorphism, or: How to Talk to an Autocompleting Cricket](https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/)
 * [2026-09-28, 04:44:02](https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read) - [What makes Lisp difficult to read?](https://paultm.nl/paren-thesis)
 * [2026-09-28, 04:36:20](https://lobste.rs/s/69mmo0/dogwood_monitoring_policies_using_first) - [DogWood: Monitoring Policies using First Order Temporal Logic](https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/)
