@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 23:37:33](https://lobste.rs/s/edx1gf/what_i_believe_about_future_software) - [What I believe about the future of software development](https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/)
 * [2026-09-27, 23:37:33](https://lobste.rs/s/edx1gf/thorsten_ball_what_i_believe_about_future) - [Thorsten Ball - What I believe about the future of software development](https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/)
 * [2026-09-27, 23:32:38](https://lobste.rs/s/qgsfdf/ex_arrr_sailing_0_click_seas) - [EX-ARRR: Sailing the 0-click Seas](https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/)
 * [2026-09-27, 23:22:45](https://lobste.rs/s/nmksyw/dropping_swift_entirely_from_our_bevy_ios) - [Dropping Swift entirely from our Bevy iOS crates](https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/)
