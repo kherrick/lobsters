@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-29](index.md)
 
+* [2026-09-29, 11:36:16](https://lobste.rs/s/xdk1cp/prototyping_small_genetic_algorithms) - [Prototyping a Small Genetic Algorithms Library inHaskell (2019)](https://anekstein.com/posts/2019-11-15.html)
+* [2026-09-29, 09:42:58](https://lobste.rs/s/wuiaba/deterministic_concurrency) - [Deterministic Concurrency](https://www.youtube.com/watch?v=25x0UuSCKuU)
+* [2026-09-29, 09:40:33](https://lobste.rs/s/qhszda/ai_didn_t_make_programming_easier_it_just) - [AI Didn’t Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+* [2026-09-29, 09:07:37](https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland) - [CoW — a stacking window manager for Wayland](https://cow-wm.codeberg.page/cow/)
+* [2026-09-29, 09:02:10](https://lobste.rs/s/1gy0zx/microllm_lab_tiny_llms_q4_your_browser) - [MicroLLM lab - tiny LLMs, Q4, in your browser](https://stateofutopia.com/experiments/microllmlab/)
+* [2026-09-29, 09:01:47](https://lobste.rs/s/otexs4/motifcentral_all_things_motif_xt_xlib) - [MotifCentral - All Things Motif/Xt/Xlib](https://motif-central.org/)
 * [2026-09-29, 06:00:10](https://lobste.rs/s/vlywx2/my_experience_writing_automated_tests) - [My experience writing automated tests for a SPA](https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa)
 * [2026-09-29, 03:41:34](https://lobste.rs/s/bctr1m/switching_emacs_as_neovim_user) - [Switching To Emacs as a Neovim User](https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/)
 * [2026-09-29, 03:07:39](https://lobste.rs/s/bm2juk/adding_floating_point_decimals_for_fun) - [Adding Floating-Point Decimals for Fun and Profit](https://blog.vero.site/post/float)
