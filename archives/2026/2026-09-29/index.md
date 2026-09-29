@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-29](index.md)
 
+* [2026-09-29, 18:22:20](https://lobste.rs/s/yj7sbv/unix_file_directory_permissions_modes) - [Unix File and Directory Permissions and Modes (2018)](https://wpollock.com/AUnix1/FilePermissions.htm)
+* [2026-09-29, 17:25:55](https://lobste.rs/s/a5rcxy/getting_root_on_oneplus_15_from_untrusted) - [Getting root on OnePlus 15 from an untrusted app](https://blog.nns.ee/2026/09/24/oneplus-root/)
+* [2026-09-29, 16:51:35](https://lobste.rs/s/1xr8zc/text_meowdio_models) - [Text-to-meowdio models](https://www.kmjn.org/notes/text_to_meowdio_models.html)
+* [2026-09-29, 15:35:14](https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust) - [Pining for Arc Downcasting in Rust](https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/)
+* [2026-09-29, 14:49:08](https://lobste.rs/s/s0x5nd/aho_corasick_algorithm) - [Aho-Corasick Algorithm](https://compiler.club/aho-corasick/)
 * [2026-09-29, 11:36:16](https://lobste.rs/s/xdk1cp/prototyping_small_genetic_algorithms) - [Prototyping a Small Genetic Algorithms Library inHaskell (2019)](https://anekstein.com/posts/2019-11-15.html)
 * [2026-09-29, 09:42:58](https://lobste.rs/s/wuiaba/deterministic_concurrency) - [Deterministic Concurrency](https://www.youtube.com/watch?v=25x0UuSCKuU)
 * [2026-09-29, 09:40:33](https://lobste.rs/s/qhszda/ai_didn_t_make_programming_easier_it_just) - [AI Didn’t Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
