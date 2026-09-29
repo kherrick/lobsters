@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-29, 06:00:10](https://lobste.rs/s/vlywx2/my_experience_writing_automated_tests) - [My experience writing automated tests for a SPA](https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa)
+* [2026-09-29, 03:41:34](https://lobste.rs/s/bctr1m/switching_emacs_as_neovim_user) - [Switching To Emacs as a Neovim User](https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/)
+* [2026-09-29, 03:07:39](https://lobste.rs/s/bm2juk/adding_floating_point_decimals_for_fun) - [Adding Floating-Point Decimals for Fun and Profit](https://blog.vero.site/post/float)
 * [2026-09-28, 21:43:15](https://lobste.rs/s/t8bsws/thoughts_on_flash_2010) - [Thoughts on Flash (2010)](https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/)
 * [2026-09-28, 20:35:51](https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew) - [State of the (Tagged) Union Address by Andrew Kelley](https://www.youtube.com/watch?v=zwi5b5xSsKA)
 * [2026-09-28, 17:01:01](https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like) - [What Would A Serious AI Product Look Like?](https://blog.glyph.im/2026/09/serious-ai-product.html)
@@ -14,17 +17,14 @@
 * [2026-09-28, 11:45:16](https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream) - [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
 * [2026-09-28, 09:58:26](https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature) - [Yes, no AI is now a feature](https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/)
 * [2026-09-28, 09:44:05](https://lobste.rs/s/h3igdh/leaving_them_behind) - [Leaving them behind](https://dbushell.com/2026/09/28/leaving-them-behind/)
-* [2026-09-28, 09:26:36](https://lobste.rs/s/uawtno/packing_binary_is_fun_actually) - [Packing Binary Is Fun, Actually](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/)
 * [2026-09-28, 09:16:46](https://lobste.rs/s/aig5tr/when_did_google_get_so_weird) - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
 * [2026-09-28, 07:52:23](https://lobste.rs/s/6p91by/rickrolling_with_pharmacy_cross) - [Rickrolling with a Pharmacy cross](https://hugoarnal.com/blog/rickroll-pharmacy-cross/)
 * [2026-09-28, 04:44:02](https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read) - [What makes Lisp difficult to read?](https://paultm.nl/paren-thesis)
 * [2026-09-28, 03:50:52](https://lobste.rs/s/hjkktn/fool_s_expertise) - [Fool's Expertise](https://bcantrill.dtrace.org/2026/09/27/fools-expertise/)
-* [2026-09-28, 03:48:21](https://lobste.rs/s/0knxvq/expert_asterisks) - [Expert asterisks](https://nedbatchelder.com/blog/202609/expert_asterisks)
 * [2026-09-28, 03:27:24](https://lobste.rs/s/pfzhxp/replacing_old_battery_on_rechargeable) - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
 * [2026-09-27, 20:17:42](https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github) - [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 * [2026-09-27, 17:34:21](https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura) - [postmarketOS rebrands as Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
 * [2026-09-27, 14:44:53](https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users) - [“They had no concept of a duty of care to their users.”](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
-* [2026-09-27, 13:05:28](https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world) - [Ten Lines Of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
 
 ## [Archives](archives/index.md)
 
