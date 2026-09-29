@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-09-29, 22:34:26",
+      "https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022"
+    ],
+    [
+      "How to work in a software engineering team (2022)",
+      "https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 22:02:31",
+      "https://lobste.rs/s/hxmtyv/deser_rethinking_rust_serialization"
+    ],
+    [
+      "Deser: Rethinking Rust Serialization",
+      "https://lucumr.pocoo.org/2026/9/29/deser/"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 20:47:03",
+      "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders"
+    ],
+    [
+      "Two Kinds of SQL Query Builders",
+      "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 20:14:41",
+      "https://lobste.rs/s/joqdsi/shell_email"
+    ],
+    [
+      "The Shell & Email",
+      "https://www.machtiani.chat/blogs/the-shell"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 19:20:05",
+      "https://lobste.rs/s/hnb7tb/nura_postmarketos_road_daily_drivable"
+    ],
+    [
+      "Nura (postmarketOS): The road to daily-drivable mainline phones",
+      "https://postmarketos.org/blog/2026/09/29/road-to-main-category/"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 18:57:26",
+      "https://lobste.rs/s/ggolae/how_i_built_iphone_app_four_days_with_opus_5"
+    ],
+    [
+      "How I Built an iPhone App in Four Days with Opus 5.5",
+      "https://projectautonomy.substack.com/p/i-built-an-iphone-app-in-four-days"
+    ]
+  ],
+  [
+    [
       "2026-09-29, 18:22:20",
       "https://lobste.rs/s/yj7sbv/unix_file_directory_permissions_modes"
     ],
@@ -47,16 +107,6 @@
     [
       "Aho-Corasick Algorithm",
       "https://compiler.club/aho-corasick/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 11:36:16",
-      "https://lobste.rs/s/xdk1cp/prototyping_small_genetic_algorithms"
-    ],
-    [
-      "Prototyping a Small Genetic Algorithms Library inHaskell (2019)",
-      "https://anekstein.com/posts/2019-11-15.html"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2026-09-29, 03:07:39",
-      "https://lobste.rs/s/bm2juk/adding_floating_point_decimals_for_fun"
-    ],
-    [
-      "Adding Floating-Point Decimals for Fun and Profit",
-      "https://blog.vero.site/post/float"
-    ]
-  ],
-  [
-    [
       "2026-09-28, 20:35:51",
       "https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"
     ],
@@ -157,26 +197,6 @@
     [
       "Bill Gates tries to install Movie Maker",
       "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 16:14:23",
-      "https://lobste.rs/s/roo5hm/hardenedbsd_august_september_2026"
-    ],
-    [
-      "HardenedBSD August / September 2026 Status Report",
-      "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 13:56:41",
-      "https://lobste.rs/s/ir1emf/it_s_time_investigate_ai_labs"
-    ],
-    [
-      "It’s Time to Investigate the AI Labs",
-      "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-09-28, 07:52:23",
-      "https://lobste.rs/s/6p91by/rickrolling_with_pharmacy_cross"
-    ],
-    [
-      "Rickrolling with a Pharmacy cross",
-      "https://hugoarnal.com/blog/rickroll-pharmacy-cross/"
-    ]
-  ],
-  [
-    [
       "2026-09-28, 04:44:02",
       "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read"
     ],
     [
       "What makes Lisp difficult to read?",
       "https://paultm.nl/paren-thesis"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 14:44:53",
-      "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users"
-    ],
-    [
-      "“They had no concept of a duty of care to their users.”",
-      "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"
     ]
   ]
 ]
