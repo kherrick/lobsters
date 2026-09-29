@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-28](index.md)
 
+* [2026-09-28, 21:43:15](https://lobste.rs/s/t8bsws/thoughts_on_flash_2010) - [Thoughts on Flash (2010)](https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/)
 * [2026-09-28, 20:35:51](https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew) - [State of the (Tagged) Union Address by Andrew Kelley](https://www.youtube.com/watch?v=zwi5b5xSsKA)
 * [2026-09-28, 17:01:01](https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like) - [What Would A Serious AI Product Look Like?](https://blog.glyph.im/2026/09/serious-ai-product.html)
 * [2026-09-28, 16:18:16](https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker) - [Bill Gates tries to install Movie Maker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
 * [2026-09-28, 16:14:23](https://lobste.rs/s/roo5hm/hardenedbsd_august_september_2026) - [HardenedBSD August / September 2026 Status Report](https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report)
+* [2026-09-28, 16:12:11](https://lobste.rs/s/kmlhg1/intuitive_equals_familiar) - [Intuitive equals familiar](https://dl.acm.org/doi/10.1145/182987.584629)
 * [2026-09-28, 15:34:10](https://lobste.rs/s/wzli60/normalization_inexplicable_failures) - [the normalization of inexplicable failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
 * [2026-09-28, 15:23:03](https://lobste.rs/s/v6bbts/output_seed_mappings_for_cpython_s_prng) - [Output-to-seed mappings for CPython's PRNG](https://github.com/frazerpearce/TimeLord)
 * [2026-09-28, 15:04:58](https://lobste.rs/s/kolgwk/how_solve_hallucination_with_rlcd) - [How to Solve Hallucination (with RLCD)](https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/)

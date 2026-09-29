@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-28, 21:43:15](https://lobste.rs/s/t8bsws/thoughts_on_flash_2010) - [Thoughts on Flash (2010)](https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/)
 * [2026-09-28, 20:35:51](https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew) - [State of the (Tagged) Union Address by Andrew Kelley](https://www.youtube.com/watch?v=zwi5b5xSsKA)
 * [2026-09-28, 17:01:01](https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like) - [What Would A Serious AI Product Look Like?](https://blog.glyph.im/2026/09/serious-ai-product.html)
 * [2026-09-28, 16:18:16](https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker) - [Bill Gates tries to install Movie Maker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
 * [2026-09-28, 16:14:23](https://lobste.rs/s/roo5hm/hardenedbsd_august_september_2026) - [HardenedBSD August / September 2026 Status Report](https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report)
+* [2026-09-28, 16:12:11](https://lobste.rs/s/kmlhg1/intuitive_equals_familiar) - [Intuitive equals familiar](https://dl.acm.org/doi/10.1145/182987.584629)
 * [2026-09-28, 15:34:10](https://lobste.rs/s/wzli60/normalization_inexplicable_failures) - [the normalization of inexplicable failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
 * [2026-09-28, 15:23:03](https://lobste.rs/s/v6bbts/output_seed_mappings_for_cpython_s_prng) - [Output-to-seed mappings for CPython's PRNG](https://github.com/frazerpearce/TimeLord)
 * [2026-09-28, 15:04:58](https://lobste.rs/s/kolgwk/how_solve_hallucination_with_rlcd) - [How to Solve Hallucination (with RLCD)](https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/)
@@ -19,12 +21,10 @@
 * [2026-09-28, 03:50:52](https://lobste.rs/s/hjkktn/fool_s_expertise) - [Fool's Expertise](https://bcantrill.dtrace.org/2026/09/27/fools-expertise/)
 * [2026-09-28, 03:48:21](https://lobste.rs/s/0knxvq/expert_asterisks) - [Expert asterisks](https://nedbatchelder.com/blog/202609/expert_asterisks)
 * [2026-09-28, 03:27:24](https://lobste.rs/s/pfzhxp/replacing_old_battery_on_rechargeable) - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
-* [2026-09-27, 23:22:45](https://lobste.rs/s/nmksyw/dropping_swift_entirely_from_our_bevy_ios) - [Dropping Swift entirely from our Bevy iOS crates](https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/)
 * [2026-09-27, 20:17:42](https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github) - [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 * [2026-09-27, 17:34:21](https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura) - [postmarketOS rebrands as Nura](https://nura.eco/blog/2026/09/27/nura-rename/)
 * [2026-09-27, 14:44:53](https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users) - [“They had no concept of a duty of care to their users.”](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
 * [2026-09-27, 13:05:28](https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world) - [Ten Lines Of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
-* [2026-09-27, 06:22:21](https://lobste.rs/s/ivbx5f/one_month_without_ai) - [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 
 ## [Archives](archives/index.md)
 
