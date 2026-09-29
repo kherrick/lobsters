@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-09-28, 21:43:15",
+      "https://lobste.rs/s/t8bsws/thoughts_on_flash_2010"
+    ],
+    [
+      "Thoughts on Flash (2010)",
+      "https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/"
+    ]
+  ],
+  [
+    [
       "2026-09-28, 20:35:51",
       "https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"
     ],
@@ -37,6 +47,16 @@
     [
       "HardenedBSD August / September 2026 Status Report",
       "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 16:12:11",
+      "https://lobste.rs/s/kmlhg1/intuitive_equals_familiar"
+    ],
+    [
+      "Intuitive equals familiar",
+      "https://dl.acm.org/doi/10.1145/182987.584629"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-09-27, 23:22:45",
-      "https://lobste.rs/s/nmksyw/dropping_swift_entirely_from_our_bevy_ios"
-    ],
-    [
-      "Dropping Swift entirely from our Bevy iOS crates",
-      "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 20:17:42",
       "https://lobste.rs/s/e5vf6k/don_t_couple_your_go_code_github"
     ],
@@ -237,16 +247,6 @@
     [
       "Ten Lines Of Code That Changed My World",
       "https://pixelambacht.nl/2026/ten-lines-of-code/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 06:22:21",
-      "https://lobste.rs/s/ivbx5f/one_month_without_ai"
-    ],
-    [
-      "One month without AI",
-      "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
     ]
   ]
 ]
