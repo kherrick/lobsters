@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-29, 06:00:10",
+      "https://lobste.rs/s/vlywx2/my_experience_writing_automated_tests"
+    ],
+    [
+      "My experience writing automated tests for a SPA",
+      "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 03:41:34",
+      "https://lobste.rs/s/bctr1m/switching_emacs_as_neovim_user"
+    ],
+    [
+      "Switching To Emacs as a Neovim User",
+      "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 03:07:39",
+      "https://lobste.rs/s/bm2juk/adding_floating_point_decimals_for_fun"
+    ],
+    [
+      "Adding Floating-Point Decimals for Fun and Profit",
+      "https://blog.vero.site/post/float"
+    ]
+  ],
+  [
+    [
       "2026-09-28, 21:43:15",
       "https://lobste.rs/s/t8bsws/thoughts_on_flash_2010"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-09-28, 09:26:36",
-      "https://lobste.rs/s/uawtno/packing_binary_is_fun_actually"
-    ],
-    [
-      "Packing Binary Is Fun, Actually",
-      "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/"
-    ]
-  ],
-  [
-    [
       "2026-09-28, 09:16:46",
       "https://lobste.rs/s/aig5tr/when_did_google_get_so_weird"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-09-28, 03:48:21",
-      "https://lobste.rs/s/0knxvq/expert_asterisks"
-    ],
-    [
-      "Expert asterisks",
-      "https://nedbatchelder.com/blog/202609/expert_asterisks"
-    ]
-  ],
-  [
-    [
       "2026-09-28, 03:27:24",
       "https://lobste.rs/s/pfzhxp/replacing_old_battery_on_rechargeable"
     ],
@@ -237,16 +247,6 @@
     [
       "“They had no concept of a duty of care to their users.”",
       "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 13:05:28",
-      "https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world"
-    ],
-    [
-      "Ten Lines Of Code That Changed My World",
-      "https://pixelambacht.nl/2026/ten-lines-of-code/"
     ]
   ]
 ]
