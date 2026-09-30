@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-30](index.md)
 
+* [2026-09-30, 20:28:27](https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we) - [We used a database as a message queue. Now we use Kafka](https://www.tigrisdata.com/blog/quick-fdb-kafka/)
+* [2026-09-30, 19:57:54](https://lobste.rs/s/2r2sg8/finding_bugs) - [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
 * [2026-09-30, 18:06:19](https://lobste.rs/s/y3ppje/branch_target_reuse_spectre_v2_attacks) - [Branch Target Reuse: Spectre-v2 Attacks in JIT Engines](https://www.vusec.net/projects/btr/)
 * [2026-09-30, 17:10:52](https://lobste.rs/s/3ixiwz/qt_6_12_lts_released) - [Qt 6.12 LTS Released](https://www.qt.io/blog/qt-6.12-released)
 * [2026-09-30, 15:55:21](https://lobste.rs/s/bag41j/hanami_why_introductions) - [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
