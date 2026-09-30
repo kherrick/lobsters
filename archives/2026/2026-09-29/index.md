@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-29](index.md)
 
 * [2026-09-29, 22:34:26](https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022) - [How to work in a software engineering team (2022)](https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/)
+* [2026-09-29, 22:13:56](https://lobste.rs/s/werm2e/espargos_esp_sdr_raw_iq_capture_with) - [ESPARGOS - ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips](https://espargos.net/espsdr/)
 * [2026-09-29, 22:02:31](https://lobste.rs/s/hxmtyv/deser_rethinking_rust_serialization) - [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
 * [2026-09-29, 20:47:03](https://lobste.rs/s/zknqct/two_kinds_sql_query_builders) - [Two Kinds of SQL Query Builders](https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders)
 * [2026-09-29, 20:14:41](https://lobste.rs/s/joqdsi/shell_email) - [The Shell & Email](https://www.machtiani.chat/blogs/the-shell)

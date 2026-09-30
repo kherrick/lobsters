@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-09-29, 22:34:26](https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022) - [How to work in a software engineering team (2022)](https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/)
+* [2026-09-29, 22:13:56](https://lobste.rs/s/werm2e/espargos_esp_sdr_raw_iq_capture_with) - [ESPARGOS - ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips](https://espargos.net/espsdr/)
 * [2026-09-29, 22:02:31](https://lobste.rs/s/hxmtyv/deser_rethinking_rust_serialization) - [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
 * [2026-09-29, 20:47:03](https://lobste.rs/s/zknqct/two_kinds_sql_query_builders) - [Two Kinds of SQL Query Builders](https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders)
 * [2026-09-29, 20:14:41](https://lobste.rs/s/joqdsi/shell_email) - [The Shell & Email](https://www.machtiani.chat/blogs/the-shell)
 * [2026-09-29, 19:20:05](https://lobste.rs/s/hnb7tb/nura_postmarketos_road_daily_drivable) - [Nura (postmarketOS): The road to daily-drivable mainline phones](https://postmarketos.org/blog/2026/09/29/road-to-main-category/)
-* [2026-09-29, 18:57:26](https://lobste.rs/s/ggolae/how_i_built_iphone_app_four_days_with_opus_5) - [How I Built an iPhone App in Four Days with Opus 5.5](https://projectautonomy.substack.com/p/i-built-an-iphone-app-in-four-days)
 * [2026-09-29, 18:22:20](https://lobste.rs/s/yj7sbv/unix_file_directory_permissions_modes) - [Unix File and Directory Permissions and Modes (2018)](https://wpollock.com/AUnix1/FilePermissions.htm)
 * [2026-09-29, 17:25:55](https://lobste.rs/s/a5rcxy/getting_root_on_oneplus_15_from_untrusted) - [Getting root on OnePlus 15 from an untrusted app](https://blog.nns.ee/2026/09/24/oneplus-root/)
 * [2026-09-29, 16:51:35](https://lobste.rs/s/1xr8zc/text_meowdio_models) - [Text-to-meowdio models](https://www.kmjn.org/notes/text_to_meowdio_models.html)
