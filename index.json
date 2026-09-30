@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-09-30, 13:35:52",
+      "https://lobste.rs/s/j7kltq/turbo_haskell"
+    ],
+    [
+      "Turbo Haskell",
+      "https://comonad.com/reader/2026/turbo-haskell/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 13:01:18",
+      "https://lobste.rs/s/rhkwg1/back_backups_year_review"
+    ],
+    [
+      "Back to Backups: A Year in Review",
+      "https://signal.org/blog/backup-improvements/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 12:47:02",
+      "https://lobste.rs/s/irijoi/differences_between_foldl_foldr"
+    ],
+    [
+      "Differences between `foldl` and `foldr`",
+      "https://blog.haskell.org/foldl-and-foldr/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 12:23:08",
+      "https://lobste.rs/s/obix99/attezt_device_attestation_pkcs11_acme"
+    ],
+    [
+      "attezt: device attestation, PKCS11 and ACME",
+      "https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 12:00:03",
+      "https://lobste.rs/s/qjnmeg/no_cost_audio_upgrade_for_my_workstation"
+    ],
+    [
+      "A no-cost audio upgrade for my workstation",
+      "https://mit.teil.space/rane-sl3.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 11:51:27",
+      "https://lobste.rs/s/igpxhf/snowdesktop_immutable_debian_desktop"
+    ],
+    [
+      "snowdesktop: Immutable Debian desktop for developers",
+      "https://github.com/frostyard/snowdesktop"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 09:40:18",
+      "https://lobste.rs/s/iqapj6/coding_is_not_solved"
+    ],
+    [
+      "Coding is not solved",
+      "https://blog.alexewerlof.com/p/coding-is-not-solved"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 08:48:43",
+      "https://lobste.rs/s/nicozi/cuckoo_s_egg"
+    ],
+    [
+      "The Cuckoo's Egg",
+      "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)"
+    ]
+  ],
+  [
+    [
       "2026-09-30, 05:05:56",
       "https://lobste.rs/s/zyzrlh/dirty_optimization_secrets_c_for"
     ],
@@ -37,16 +117,6 @@
     [
       "How to speed up the Rust compiler in September 2026",
       "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 22:34:26",
-      "https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022"
-    ],
-    [
-      "How to work in a software engineering team (2022)",
-      "https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/"
     ]
   ],
   [
@@ -111,16 +181,6 @@
   ],
   [
     [
-      "2026-09-29, 16:51:35",
-      "https://lobste.rs/s/1xr8zc/text_meowdio_models"
-    ],
-    [
-      "Text-to-meowdio models",
-      "https://www.kmjn.org/notes/text_to_meowdio_models.html"
-    ]
-  ],
-  [
-    [
       "2026-09-29, 15:35:14",
       "https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust"
     ],
@@ -137,16 +197,6 @@
     [
       "Aho-Corasick Algorithm",
       "https://compiler.club/aho-corasick/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 09:42:58",
-      "https://lobste.rs/s/wuiaba/deterministic_concurrency"
-    ],
-    [
-      "Deterministic Concurrency",
-      "https://www.youtube.com/watch?v=25x0UuSCKuU"
     ]
   ],
   [
@@ -191,62 +241,12 @@
   ],
   [
     [
-      "2026-09-29, 03:41:34",
-      "https://lobste.rs/s/bctr1m/switching_emacs_as_neovim_user"
-    ],
-    [
-      "Switching To Emacs as a Neovim User",
-      "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 20:35:51",
-      "https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"
-    ],
-    [
-      "State of the (Tagged) Union Address by Andrew Kelley",
-      "https://www.youtube.com/watch?v=zwi5b5xSsKA"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 17:01:01",
-      "https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like"
-    ],
-    [
-      "What Would A Serious AI Product Look Like?",
-      "https://blog.glyph.im/2026/09/serious-ai-product.html"
-    ]
-  ],
-  [
-    [
       "2026-09-28, 16:18:16",
       "https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker"
     ],
     [
       "Bill Gates tries to install Movie Maker",
       "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 11:45:16",
-      "https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream"
-    ],
-    [
-      "Hijacking the PS5's RTMP Stream",
-      "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 09:58:26",
-      "https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"
-    ],
-    [
-      "Yes, no AI is now a feature",
-      "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/"
     ]
   ]
 ]
