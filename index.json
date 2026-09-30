@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-30, 05:05:56",
+      "https://lobste.rs/s/zyzrlh/dirty_optimization_secrets_c_for"
+    ],
+    [
+      "Dirty Optimization Secrets (C for Playdate)",
+      "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 03:45:19",
+      "https://lobste.rs/s/wkhrba/only_intuitive_interface_is_nipple"
+    ],
+    [
+      "The Only Intuitive Interface Is The Nipple",
+      "https://www.greenend.org.uk/rjk/misc/nipple.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 02:10:26",
+      "https://lobste.rs/s/dcrwg8/hardly_promethean"
+    ],
+    [
+      "Hardly Promethean",
+      "https://jardo.dev/hardly-promethean"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 02:08:22",
+      "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026"
+    ],
+    [
+      "How to speed up the Rust compiler in September 2026",
+      "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html"
+    ]
+  ],
+  [
+    [
       "2026-09-29, 22:34:26",
       "https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022"
     ],
@@ -57,16 +97,6 @@
     [
       "Nura (postmarketOS): The road to daily-drivable mainline phones",
       "https://postmarketos.org/blog/2026/09/29/road-to-main-category/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 18:22:20",
-      "https://lobste.rs/s/yj7sbv/unix_file_directory_permissions_modes"
-    ],
-    [
-      "Unix File and Directory Permissions and Modes (2018)",
-      "https://wpollock.com/AUnix1/FilePermissions.htm"
     ]
   ],
   [
@@ -217,36 +247,6 @@
     [
       "Yes, no AI is now a feature",
       "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 09:44:05",
-      "https://lobste.rs/s/h3igdh/leaving_them_behind"
-    ],
-    [
-      "Leaving them behind",
-      "https://dbushell.com/2026/09/28/leaving-them-behind/"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 09:16:46",
-      "https://lobste.rs/s/aig5tr/when_did_google_get_so_weird"
-    ],
-    [
-      "When did Google get so weird?",
-      "https://sancho.bearblog.dev/google-weird/"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 04:44:02",
-      "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read"
-    ],
-    [
-      "What makes Lisp difficult to read?",
-      "https://paultm.nl/paren-thesis"
     ]
   ]
 ]
