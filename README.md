@@ -1,12 +1,15 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-09-30, 05:05:56](https://lobste.rs/s/zyzrlh/dirty_optimization_secrets_c_for) - [Dirty Optimization Secrets (C for Playdate)](https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011)
+* [2026-09-30, 03:45:19](https://lobste.rs/s/wkhrba/only_intuitive_interface_is_nipple) - [The Only Intuitive Interface Is The Nipple](https://www.greenend.org.uk/rjk/misc/nipple.html)
+* [2026-09-30, 02:10:26](https://lobste.rs/s/dcrwg8/hardly_promethean) - [Hardly Promethean](https://jardo.dev/hardly-promethean)
+* [2026-09-30, 02:08:22](https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026) - [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
 * [2026-09-29, 22:34:26](https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022) - [How to work in a software engineering team (2022)](https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/)
 * [2026-09-29, 22:13:56](https://lobste.rs/s/werm2e/espargos_esp_sdr_raw_iq_capture_with) - [ESPARGOS - ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips](https://espargos.net/espsdr/)
 * [2026-09-29, 22:02:31](https://lobste.rs/s/hxmtyv/deser_rethinking_rust_serialization) - [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
 * [2026-09-29, 20:47:03](https://lobste.rs/s/zknqct/two_kinds_sql_query_builders) - [Two Kinds of SQL Query Builders](https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders)
 * [2026-09-29, 20:14:41](https://lobste.rs/s/joqdsi/shell_email) - [The Shell & Email](https://www.machtiani.chat/blogs/the-shell)
 * [2026-09-29, 19:20:05](https://lobste.rs/s/hnb7tb/nura_postmarketos_road_daily_drivable) - [Nura (postmarketOS): The road to daily-drivable mainline phones](https://postmarketos.org/blog/2026/09/29/road-to-main-category/)
-* [2026-09-29, 18:22:20](https://lobste.rs/s/yj7sbv/unix_file_directory_permissions_modes) - [Unix File and Directory Permissions and Modes (2018)](https://wpollock.com/AUnix1/FilePermissions.htm)
 * [2026-09-29, 17:25:55](https://lobste.rs/s/a5rcxy/getting_root_on_oneplus_15_from_untrusted) - [Getting root on OnePlus 15 from an untrusted app](https://blog.nns.ee/2026/09/24/oneplus-root/)
 * [2026-09-29, 16:51:35](https://lobste.rs/s/1xr8zc/text_meowdio_models) - [Text-to-meowdio models](https://www.kmjn.org/notes/text_to_meowdio_models.html)
 * [2026-09-29, 15:35:14](https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust) - [Pining for Arc Downcasting in Rust](https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/)
@@ -22,9 +25,6 @@
 * [2026-09-28, 16:18:16](https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker) - [Bill Gates tries to install Movie Maker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
 * [2026-09-28, 11:45:16](https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream) - [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
 * [2026-09-28, 09:58:26](https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature) - [Yes, no AI is now a feature](https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/)
-* [2026-09-28, 09:44:05](https://lobste.rs/s/h3igdh/leaving_them_behind) - [Leaving them behind](https://dbushell.com/2026/09/28/leaving-them-behind/)
-* [2026-09-28, 09:16:46](https://lobste.rs/s/aig5tr/when_did_google_get_so_weird) - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-* [2026-09-28, 04:44:02](https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read) - [What makes Lisp difficult to read?](https://paultm.nl/paren-thesis)
 
 ## [Archives](archives/index.md)
 
