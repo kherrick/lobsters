@@ -1,6 +1,106 @@
 [
   [
     [
+      "2026-10-01, 14:12:03",
+      "https://lobste.rs/s/ajtnc6/second_golden_spike_memory_safety_across"
+    ],
+    [
+      "The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary",
+      "https://verdagon.dev/blog/boundary-memory-safety"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 13:58:58",
+      "https://lobste.rs/s/1gt0o1/google_breaks_promise_provide_10_years"
+    ],
+    [
+      "Google breaks promise to provide 10 years of updates to Chromebooks  –  OSnews",
+      "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 13:08:57",
+      "https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0"
+    ],
+    [
+      "Announcing Rust 1.99.0",
+      "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 12:57:19",
+      "https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes"
+    ],
+    [
+      "Reducing the cognitive load of AI changes",
+      "https://amoffat.github.io/blog/cognitive-load.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 12:20:39",
+      "https://lobste.rs/s/fujfew/django_modern_rest_0_16_0_release"
+    ],
+    [
+      "django-modern-rest@0.16.0 release",
+      "https://lobste.rs/s/fujfew/django_modern_rest_0_16_0_release"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 12:16:51",
+      "https://lobste.rs/s/zcr7in/is_sandboxing_sufficient_contain_rogue"
+    ],
+    [
+      "Is sandboxing sufficient to contain rogue agents?",
+      "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 11:43:16",
+      "https://lobste.rs/s/8ckgq8/wsl_containers_are_now_generally"
+    ],
+    [
+      "WSL containers are now generally available",
+      "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 10:19:09",
+      "https://lobste.rs/s/bbi3w9/eu_kids_act"
+    ],
+    [
+      "EU KIDS Act",
+      "https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 10:03:52",
+      "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026"
+    ],
+    [
+      "Who's hiring? Q4 2026",
+      "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 08:47:50",
+      "https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed"
+    ],
+    [
+      "IANA's email about why example.com changed",
+      "https://www.oliverdunk.com/2026/09/30/iana-reply"
+    ]
+  ],
+  [
+    [
       "2026-10-01, 06:02:28",
       "https://lobste.rs/s/lzlkbr/reviving_valve_s_15_year_old_e_book"
     ],
@@ -21,12 +121,12 @@
   ],
   [
     [
-      "2026-10-01, 02:30:14",
-      "https://lobste.rs/s/f6dogm/esxi_exploitation_wild"
+      "2026-10-01, 02:14:34",
+      "https://lobste.rs/s/yknfii/brief_history_bloomberg_terminal"
     ],
     [
-      "ESXi Exploitation in the Wild",
-      "https://www.huntress.com/blog/esxi-vm-escape-exploit"
+      "A brief history of the Bloomberg Terminal",
+      "https://spectrum.ieee.org/bloomberg-terminal"
     ]
   ],
   [
@@ -101,16 +201,6 @@
   ],
   [
     [
-      "2026-09-30, 18:06:19",
-      "https://lobste.rs/s/y3ppje/branch_target_reuse_spectre_v2_attacks"
-    ],
-    [
-      "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
-      "https://www.vusec.net/projects/btr/"
-    ]
-  ],
-  [
-    [
       "2026-09-30, 15:55:21",
       "https://lobste.rs/s/bag41j/hanami_why_introductions"
     ],
@@ -131,32 +221,12 @@
   ],
   [
     [
-      "2026-09-30, 14:28:23",
-      "https://lobste.rs/s/oevyhw/q2_2026_backblaze_drive_stats_hard_drive"
-    ],
-    [
-      "Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates",
-      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/"
-    ]
-  ],
-  [
-    [
       "2026-09-30, 14:02:33",
       "https://lobste.rs/s/3ufaju/what_tla_can_can_t_check"
     ],
     [
       "What TLA+ can and can't check",
       "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 13:35:52",
-      "https://lobste.rs/s/j7kltq/turbo_haskell"
-    ],
-    [
-      "Turbo Haskell",
-      "https://comonad.com/reader/2026/turbo-haskell/"
     ]
   ],
   [
@@ -171,82 +241,12 @@
   ],
   [
     [
-      "2026-09-30, 12:00:03",
-      "https://lobste.rs/s/qjnmeg/no_cost_audio_upgrade_for_my_workstation"
-    ],
-    [
-      "A no-cost audio upgrade for my workstation",
-      "https://mit.teil.space/rane-sl3.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 09:40:18",
-      "https://lobste.rs/s/iqapj6/coding_is_not_solved"
-    ],
-    [
-      "Coding is not solved",
-      "https://blog.alexewerlof.com/p/coding-is-not-solved"
-    ]
-  ],
-  [
-    [
       "2026-09-30, 08:48:43",
       "https://lobste.rs/s/nicozi/cuckoo_s_egg"
     ],
     [
       "The Cuckoo's Egg",
       "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 02:08:22",
-      "https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026"
-    ],
-    [
-      "How to speed up the Rust compiler in September 2026",
-      "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 22:02:31",
-      "https://lobste.rs/s/hxmtyv/deser_rethinking_rust_serialization"
-    ],
-    [
-      "Deser: Rethinking Rust Serialization",
-      "https://lucumr.pocoo.org/2026/9/29/deser/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 20:47:03",
-      "https://lobste.rs/s/zknqct/two_kinds_sql_query_builders"
-    ],
-    [
-      "Two Kinds of SQL Query Builders",
-      "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 15:35:14",
-      "https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust"
-    ],
-    [
-      "Pining for Arc Downcasting in Rust",
-      "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 09:07:37",
-      "https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland"
-    ],
-    [
-      "CoW — a stacking window manager for Wayland",
-      "https://cow-wm.codeberg.page/cow/"
     ]
   ]
 ]
