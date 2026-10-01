@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-01, 18:31:36](https://lobste.rs/s/tslwlq/how_make_text_box_crash_course_unicode) - [How to make a text box: A crash course in Unicode and OpenType - Jimmy Lefevre, BSC 2026](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
+* [2026-10-01, 18:55:58](https://lobste.rs/s/oeflod/we_should_be_able_change_our_languages) - [We Should be Able to Change our Languages](https://jimmyhmiller.com/change-our-languages)
+* [2026-10-01, 18:31:36](https://lobste.rs/s/tslwlq/how_make_text_box_crash_course_unicode) - [How to make a text box: A crash course in Unicode and OpenType](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
 * [2026-10-01, 18:26:59](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be) - [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
 * [2026-10-01, 17:14:23](https://lobste.rs/s/td9dxd/death_web_development_education) - [The death of web development education](https://molily.de/web-dev-education/)
 * [2026-10-01, 16:47:42](https://lobste.rs/s/ccxvh6/pidgin_3_0_alpha_3_2_97_0_has_been_released) - [Pidgin 3.0 Alpha 3 2.97.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436)
@@ -17,7 +18,6 @@
 * [2026-10-01, 06:02:28](https://lobste.rs/s/lzlkbr/reviving_valve_s_15_year_old_e_book) - [Reviving Valve's 15-year-old e-book](https://nikolan.net/posts/portal2/)
 * [2026-10-01, 05:13:31](https://lobste.rs/s/crlwst/typeclasses_vs_modules) - [Typeclasses vs Modules](https://sm2n.ca/articles/typeclasses-vs-modules/)
 * [2026-10-01, 02:03:34](https://lobste.rs/s/hbjy0b/ai_pascal_s_wager) - [The AI Pascal’s Wager](https://ploum.net/2026-10-01-pascal_wager.html)
-* [2026-10-01, 01:59:24](https://lobste.rs/s/yj721w/asm_bots_core_war_real_8086_machine_code) - [ASM Bots: Core War in real 8086 machine code](https://asmbots.io)
 * [2026-10-01, 00:13:12](https://lobste.rs/s/enijty/rust_wgsl_transpiler_wgsl_rs_released) - [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html)
 * [2026-10-01, 00:02:09](https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33) - [Major rsync upgrade in Debian because of 33 CVEs](https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33)
 * [2026-09-30, 22:06:21](https://lobste.rs/s/nwdxko/edg_c_c_compiler_project) - [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
