@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-01, 00:13:12](https://lobste.rs/s/enijty/rust_wgsl_transpiler_wgsl_rs_released) - [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html)
+* [2026-09-30, 22:06:21](https://lobste.rs/s/nwdxko/edg_c_c_compiler_project) - [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
 * [2026-09-30, 20:28:27](https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we) - [We used a database as a message queue. Now we use Kafka](https://www.tigrisdata.com/blog/quick-fdb-kafka/)
 * [2026-09-30, 19:57:54](https://lobste.rs/s/2r2sg8/finding_bugs) - [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
 * [2026-09-30, 18:06:19](https://lobste.rs/s/y3ppje/branch_target_reuse_spectre_v2_attacks) - [Branch Target Reuse: Spectre-v2 Attacks in JIT Engines](https://www.vusec.net/projects/btr/)
@@ -21,9 +23,7 @@
 * [2026-09-30, 02:08:22](https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026) - [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
 * [2026-09-29, 22:02:31](https://lobste.rs/s/hxmtyv/deser_rethinking_rust_serialization) - [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
 * [2026-09-29, 20:47:03](https://lobste.rs/s/zknqct/two_kinds_sql_query_builders) - [Two Kinds of SQL Query Builders](https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders)
-* [2026-09-29, 19:20:05](https://lobste.rs/s/hnb7tb/nura_postmarketos_road_daily_drivable) - [Nura (postmarketOS): The road to daily-drivable mainline phones](https://postmarketos.org/blog/2026/09/29/road-to-main-category/)
 * [2026-09-29, 15:35:14](https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust) - [Pining for Arc Downcasting in Rust](https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/)
-* [2026-09-29, 14:49:08](https://lobste.rs/s/s0x5nd/aho_corasick_algorithm) - [Aho-Corasick Algorithm](https://compiler.club/aho-corasick/)
 * [2026-09-29, 09:07:37](https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland) - [CoW — a stacking window manager for Wayland](https://cow-wm.codeberg.page/cow/)
 
 ## [Archives](archives/index.md)
