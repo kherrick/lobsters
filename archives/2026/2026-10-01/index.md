@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-01](index.md)
 
+* [2026-10-01, 18:31:36](https://lobste.rs/s/tslwlq/how_make_text_box_crash_course_unicode) - [How to make a text box: A crash course in Unicode and OpenType - Jimmy Lefevre, BSC 2026](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
+* [2026-10-01, 18:26:59](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be) - [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+* [2026-10-01, 17:14:23](https://lobste.rs/s/td9dxd/death_web_development_education) - [The death of web development education](https://molily.de/web-dev-education/)
+* [2026-10-01, 16:47:42](https://lobste.rs/s/ccxvh6/pidgin_3_0_alpha_3_2_97_0_has_been_released) - [Pidgin 3.0 Alpha 3 2.97.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436)
+* [2026-10-01, 16:29:04](https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal) - [Lists that keep track of their reversal](https://grim.cargocut.org/a/rev-list.html)
+* [2026-10-01, 15:54:02](https://lobste.rs/s/1h7qzj/outis_fight_ai_spam_by_generating_sending) - [outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails](https://github.com/dtonon/outis)
 * [2026-10-01, 14:12:03](https://lobste.rs/s/ajtnc6/second_golden_spike_memory_safety_across) - [The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary](https://verdagon.dev/blog/boundary-memory-safety)
 * [2026-10-01, 13:58:58](https://lobste.rs/s/1gt0o1/google_breaks_promise_provide_10_years) - [Google breaks promise to provide 10 years of updates to Chromebooks  –  OSnews](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/)
 * [2026-10-01, 13:08:57](https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0) - [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/)
