@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-10-02](index.md)
 
+* [2026-10-02, 17:55:35](https://lobste.rs/s/bghff5/driving_gdeh0154d67_e_paper_display_with) - [Driving the GDEH0154D67 e-paper display with Rust](https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/)
+* [2026-10-02, 16:48:36](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding) - [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
+* [2026-10-02, 15:15:11](https://lobste.rs/s/2nyapq/github_repository_landing_pages_now_show) - [GitHub repository landing pages now show an accessibility tab, if provided](https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/)
 * [2026-10-02, 15:03:41](https://lobste.rs/s/p1yw6k/jetbrains_air_building_system_products) - [JetBrains Air: Building a System of Products for Agentic Software Development](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/)
 * [2026-10-02, 14:37:35](https://lobste.rs/s/llnale/sequencehash_multihashing_for_rest_us) - [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/)
 * [2026-10-02, 14:17:00](https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned) - [Actual RFC1149 packet being auctioned](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
 * [2026-10-02, 14:01:47](https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4) - [The forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 * [2026-10-02, 14:01:22](https://lobste.rs/s/zcthix/hanami_why_bits_bobs) - [Hanami, Why?: Bits & Bobs](https://aaronmallen.me/writing/hanami-why-bits-bobs)
 * [2026-10-02, 13:19:46](https://lobste.rs/s/fidpdw/advice_beginning_software_engineer) - [Advice to a beginning software engineer](https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/)
+* [2026-10-02, 12:59:58](https://lobste.rs/s/jh245o/debian_13_as_dual_wan_router) - [Debian 13 as a dual WAN router](https://www.tqdev.com/2026-dual-wan-router-debian-13/)
 * [2026-10-02, 09:20:42](https://lobste.rs/s/6jcvdn/generic_const_args_you) - [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/)
 * [2026-10-02, 08:29:47](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers) - [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
 * [2026-10-02, 08:20:02](https://lobste.rs/s/3hdied/readable_regular_expressions_for) - [Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx](https://rahuljuliato.com/posts/emacs-rx-in-typescript)
