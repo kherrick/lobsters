@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-02, 17:55:35",
+      "https://lobste.rs/s/bghff5/driving_gdeh0154d67_e_paper_display_with"
+    ],
+    [
+      "Driving the GDEH0154D67 e-paper display with Rust",
+      "https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 16:48:36",
+      "https://lobste.rs/s/wevegu/four_horsemen_agentic_coding"
+    ],
+    [
+      "The Four Horsemen of Agentic Coding",
+      "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 15:15:11",
+      "https://lobste.rs/s/2nyapq/github_repository_landing_pages_now_show"
+    ],
+    [
+      "GitHub repository landing pages now show an accessibility tab, if provided",
+      "https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/"
+    ]
+  ],
+  [
+    [
       "2026-10-02, 15:03:41",
       "https://lobste.rs/s/p1yw6k/jetbrains_air_building_system_products"
     ],
@@ -41,22 +71,22 @@
   ],
   [
     [
-      "2026-10-02, 14:01:22",
-      "https://lobste.rs/s/zcthix/hanami_why_bits_bobs"
-    ],
-    [
-      "Hanami, Why?: Bits & Bobs",
-      "https://aaronmallen.me/writing/hanami-why-bits-bobs"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 13:19:46",
       "https://lobste.rs/s/fidpdw/advice_beginning_software_engineer"
     ],
     [
       "Advice to a beginning software engineer",
       "https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 12:59:58",
+      "https://lobste.rs/s/jh245o/debian_13_as_dual_wan_router"
+    ],
+    [
+      "Debian 13 as a dual WAN router",
+      "https://www.tqdev.com/2026-dual-wan-router-debian-13/"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2026-10-01, 12:16:51",
-      "https://lobste.rs/s/zcr7in/is_sandboxing_sufficient_contain_rogue"
-    ],
-    [
-      "Is sandboxing sufficient to contain rogue agents?",
-      "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-10-01, 11:43:16",
-      "https://lobste.rs/s/8ckgq8/wsl_containers_are_now_generally"
-    ],
-    [
-      "WSL containers are now generally available",
-      "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/"
-    ]
-  ],
-  [
-    [
       "2026-10-01, 10:03:52",
       "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026"
     ],
@@ -237,16 +247,6 @@
     [
       "IANA's email about why example.com changed",
       "https://www.oliverdunk.com/2026/09/30/iana-reply"
-    ]
-  ],
-  [
-    [
-      "2026-10-01, 05:13:31",
-      "https://lobste.rs/s/crlwst/typeclasses_vs_modules"
-    ],
-    [
-      "Typeclasses vs Modules",
-      "https://sm2n.ca/articles/typeclasses-vs-modules/"
     ]
   ]
 ]
