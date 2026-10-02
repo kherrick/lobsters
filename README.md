@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-02, 02:17:04](https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader) - [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
 * [2026-10-01, 18:55:58](https://lobste.rs/s/oeflod/we_should_be_able_change_our_languages) - [We Should be Able to Change our Languages](https://jimmyhmiller.com/change-our-languages)
 * [2026-10-01, 18:31:36](https://lobste.rs/s/tslwlq/how_make_text_box_crash_course_unicode) - [How to make a text box: A crash course in Unicode and OpenType](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
 * [2026-10-01, 18:26:59](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be) - [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
@@ -24,7 +25,6 @@
 * [2026-09-30, 19:57:54](https://lobste.rs/s/2r2sg8/finding_bugs) - [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
 * [2026-09-30, 15:55:21](https://lobste.rs/s/bag41j/hanami_why_introductions) - [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
 * [2026-09-30, 15:27:41](https://lobste.rs/s/kbdf4q/tcl_tk_9_1) - [Tcl/Tk 9.1](https://www.tcl-lang.org/software/tcltk/9.1.html)
-* [2026-09-30, 14:02:33](https://lobste.rs/s/3ufaju/what_tla_can_can_t_check) - [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
 
 ## [Archives](archives/index.md)
 
