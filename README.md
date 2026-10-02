@@ -1,7 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-02, 08:29:47](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers) - [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
+* [2026-10-02, 08:20:02](https://lobste.rs/s/3hdied/readable_regular_expressions_for) - [Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx](https://rahuljuliato.com/posts/emacs-rx-in-typescript)
+* [2026-10-02, 08:18:01](https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend)
+* [2026-10-02, 08:14:44](https://lobste.rs/s/kp2tg8/thrust_vs_steer_yet_another_anecdotal) - [Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)](https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect)
+* [2026-10-02, 07:53:02](https://lobste.rs/s/auypcd/sixteenth_racketcon_this_weekend) - [sixteenth RacketCon this weekend](https://con.racket-lang.org/)
+* [2026-10-02, 07:09:51](https://lobste.rs/s/gx0wiv/storyteller_platform_epub_v1_0_0_release) - [@storyteller-platform/epub v1.0.0 release](https://storyteller-platform.dev/blog/20261001_epub_v1)
 * [2026-10-02, 02:17:04](https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader) - [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
-* [2026-10-01, 18:55:58](https://lobste.rs/s/oeflod/we_should_be_able_change_our_languages) - [We Should be Able to Change our Languages](https://jimmyhmiller.com/change-our-languages)
 * [2026-10-01, 18:31:36](https://lobste.rs/s/tslwlq/how_make_text_box_crash_course_unicode) - [How to make a text box: A crash course in Unicode and OpenType](https://www.youtube.com/watch?v=7Tr0ty9-yeQ)
 * [2026-10-01, 18:26:59](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be) - [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
 * [2026-10-01, 17:14:23](https://lobste.rs/s/td9dxd/death_web_development_education) - [The death of web development education](https://molily.de/web-dev-education/)
@@ -19,12 +24,7 @@
 * [2026-10-01, 06:02:28](https://lobste.rs/s/lzlkbr/reviving_valve_s_15_year_old_e_book) - [Reviving Valve's 15-year-old e-book](https://nikolan.net/posts/portal2/)
 * [2026-10-01, 05:13:31](https://lobste.rs/s/crlwst/typeclasses_vs_modules) - [Typeclasses vs Modules](https://sm2n.ca/articles/typeclasses-vs-modules/)
 * [2026-10-01, 02:03:34](https://lobste.rs/s/hbjy0b/ai_pascal_s_wager) - [The AI Pascal’s Wager](https://ploum.net/2026-10-01-pascal_wager.html)
-* [2026-10-01, 00:13:12](https://lobste.rs/s/enijty/rust_wgsl_transpiler_wgsl_rs_released) - [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html)
 * [2026-10-01, 00:02:09](https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33) - [Major rsync upgrade in Debian because of 33 CVEs](https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33)
-* [2026-09-30, 22:06:21](https://lobste.rs/s/nwdxko/edg_c_c_compiler_project) - [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler)
-* [2026-09-30, 19:57:54](https://lobste.rs/s/2r2sg8/finding_bugs) - [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
-* [2026-09-30, 15:55:21](https://lobste.rs/s/bag41j/hanami_why_introductions) - [Hanami, Why?: Introductions](https://aaronmallen.me/writing/hanami-why-introductions)
-* [2026-09-30, 15:27:41](https://lobste.rs/s/kbdf4q/tcl_tk_9_1) - [Tcl/Tk 9.1](https://www.tcl-lang.org/software/tcltk/9.1.html)
 
 ## [Archives](archives/index.md)
 
