@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-02](index.md)
 
+* [2026-10-02, 22:19:02](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your) - [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/)
+* [2026-10-02, 22:01:27](https://lobste.rs/s/0egeug/lobsters_interview_with_sjamaan) - [Lobsters Interview with Sjamaan](https://alexalejandre.com/interviews/peter-bex/)
+* [2026-10-02, 21:10:41](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes) - [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html)
+* [2026-10-02, 20:17:47](https://lobste.rs/s/8f5elm/keeping_futhark_off_gpu) - [Keeping Futhark off the GPU](https://futhark-lang.org/blog/2026-10-02-cpu_function.html)
+* [2026-10-02, 20:10:26](https://lobste.rs/s/9ipypq/updates_full_disk_access_macos) - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
+* [2026-10-02, 18:34:38](https://lobste.rs/s/qmcuiv/klassik_revives_kde_3_desktop_on_modern) - [Klassik Revives the KDE 3 Desktop on Modern Plasma 6](https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/)
 * [2026-10-02, 17:55:35](https://lobste.rs/s/bghff5/driving_gdeh0154d67_e_paper_display_with) - [Driving the GDEH0154D67 e-paper display with Rust](https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/)
 * [2026-10-02, 16:48:36](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding) - [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
 * [2026-10-02, 15:15:11](https://lobste.rs/s/2nyapq/github_repository_landing_pages_now_show) - [GitHub repository landing pages now show an accessibility tab, if provided](https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/)
