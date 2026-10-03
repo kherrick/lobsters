@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-03](index.md)
 
+* [2026-10-03, 19:43:07](https://lobste.rs/s/etfgye/deploy_ruby_on_rails_on_vps) - [Deploy Ruby on Rails on a VPS](https://rubymadscience.com/guides/deploy-ruby-on-rails-on-a-vps/)
+* [2026-10-03, 18:57:32](https://lobste.rs/s/opwgtj/bsides_orlando_2026_badge) - [BSides Orlando 2026 Badge](https://github.com/bsidesorlando/2026-badge)
 * [2026-10-03, 15:57:16](https://lobste.rs/s/xruas8/update_on_orion_for_linux_windows) - [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
 * [2026-10-03, 13:31:58](https://lobste.rs/s/elziso/era_software_quality_era_ostriches) - [The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)
 * [2026-10-03, 13:23:29](https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017) - [Writing the Cyclone Scheme Compiler (2017)](https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-03, 19:43:07](https://lobste.rs/s/etfgye/deploy_ruby_on_rails_on_vps) - [Deploy Ruby on Rails on a VPS](https://rubymadscience.com/guides/deploy-ruby-on-rails-on-a-vps/)
+* [2026-10-03, 18:57:32](https://lobste.rs/s/opwgtj/bsides_orlando_2026_badge) - [BSides Orlando 2026 Badge](https://github.com/bsidesorlando/2026-badge)
 * [2026-10-03, 15:57:16](https://lobste.rs/s/xruas8/update_on_orion_for_linux_windows) - [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
 * [2026-10-03, 13:31:58](https://lobste.rs/s/elziso/era_software_quality_era_ostriches) - [The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)
 * [2026-10-03, 13:23:29](https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017) - [Writing the Cyclone Scheme Compiler (2017)](https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017)
@@ -11,7 +13,6 @@
 * [2026-10-03, 08:17:27](https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make) - [Problems and solutions to the modern desktop (Make tmux the OS)](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
 * [2026-10-03, 04:56:09](https://lobste.rs/s/1rmsib/era_programming_languages_exploration) - [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html)
 * [2026-10-03, 02:41:38](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf) - [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/)
-* [2026-10-03, 01:27:47](https://lobste.rs/s/cdkmaf/upstream_rust_maintenance_report) - [Upstream Rust maintenance report](https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html)
 * [2026-10-02, 22:19:02](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your) - [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/)
 * [2026-10-02, 22:01:27](https://lobste.rs/s/0egeug/lobsters_interview_with_sjamaan) - [Lobsters Interview with Sjamaan](https://alexalejandre.com/interviews/peter-bex/)
 * [2026-10-02, 21:10:41](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes) - [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html)
@@ -23,7 +24,6 @@
 * [2026-10-02, 14:01:47](https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4) - [The forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 * [2026-10-02, 09:20:42](https://lobste.rs/s/6jcvdn/generic_const_args_you) - [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/)
 * [2026-10-02, 08:29:47](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers) - [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
-* [2026-10-02, 08:18:01](https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend)
 * [2026-10-02, 02:17:04](https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader) - [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
 
 ## [Archives](archives/index.md)
