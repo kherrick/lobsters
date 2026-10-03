@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-03, 19:43:07](https://lobste.rs/s/etfgye/deploy_ruby_on_rails_on_vps) - [Deploy Ruby on Rails on a VPS](https://rubymadscience.com/guides/deploy-ruby-on-rails-on-a-vps/)
+* [2026-10-03, 21:35:28](https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform) - [Why don’t more developers \"use the platform\"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+* [2026-10-03, 20:59:46](https://lobste.rs/s/dqp0oc/customization_optimizing_compiler) - [Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)](https://dl.acm.org/doi/epdf/10.1145/74818.74831)
+* [2026-10-03, 20:43:41](https://lobste.rs/s/hk0ohb/system_level_ad_blocking_android) - [System-level ad-blocking in Android](https://kevinboone.me/adblock.html)
+* [2026-10-03, 20:37:40](https://lobste.rs/s/hfq43j/rust_sickness_health) - [Rust, In Sickness & In Health](https://www.youtube.com/watch?v=3kbPyuAtk7g)
 * [2026-10-03, 18:57:32](https://lobste.rs/s/opwgtj/bsides_orlando_2026_badge) - [BSides Orlando 2026 Badge](https://github.com/bsidesorlando/2026-badge)
 * [2026-10-03, 15:57:16](https://lobste.rs/s/xruas8/update_on_orion_for_linux_windows) - [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
 * [2026-10-03, 13:31:58](https://lobste.rs/s/elziso/era_software_quality_era_ostriches) - [The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)
@@ -18,13 +21,10 @@
 * [2026-10-02, 21:10:41](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes) - [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html)
 * [2026-10-02, 20:17:47](https://lobste.rs/s/8f5elm/keeping_futhark_off_gpu) - [Keeping Futhark off the GPU](https://futhark-lang.org/blog/2026-10-02-cpu_function.html)
 * [2026-10-02, 20:10:26](https://lobste.rs/s/9ipypq/updates_full_disk_access_macos) - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
-* [2026-10-02, 18:34:38](https://lobste.rs/s/qmcuiv/klassik_revives_kde_3_desktop_on_modern) - [Klassik Revives the KDE 3 Desktop on Modern Plasma 6](https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/)
 * [2026-10-02, 16:48:36](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding) - [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
 * [2026-10-02, 14:17:00](https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned) - [Actual RFC1149 packet being auctioned](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
 * [2026-10-02, 14:01:47](https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4) - [The forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
-* [2026-10-02, 09:20:42](https://lobste.rs/s/6jcvdn/generic_const_args_you) - [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/)
 * [2026-10-02, 08:29:47](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers) - [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
-* [2026-10-02, 02:17:04](https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader) - [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
 
 ## [Archives](archives/index.md)
 

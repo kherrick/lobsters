@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-03](index.md)
 
+* [2026-10-03, 21:35:28](https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform) - [Why don’t more developers \"use the platform\"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+* [2026-10-03, 20:59:46](https://lobste.rs/s/dqp0oc/customization_optimizing_compiler) - [Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)](https://dl.acm.org/doi/epdf/10.1145/74818.74831)
+* [2026-10-03, 20:43:41](https://lobste.rs/s/hk0ohb/system_level_ad_blocking_android) - [System-level ad-blocking in Android](https://kevinboone.me/adblock.html)
+* [2026-10-03, 20:37:40](https://lobste.rs/s/hfq43j/rust_sickness_health) - [Rust, In Sickness & In Health](https://www.youtube.com/watch?v=3kbPyuAtk7g)
 * [2026-10-03, 19:43:07](https://lobste.rs/s/etfgye/deploy_ruby_on_rails_on_vps) - [Deploy Ruby on Rails on a VPS](https://rubymadscience.com/guides/deploy-ruby-on-rails-on-a-vps/)
 * [2026-10-03, 18:57:32](https://lobste.rs/s/opwgtj/bsides_orlando_2026_badge) - [BSides Orlando 2026 Badge](https://github.com/bsidesorlando/2026-badge)
 * [2026-10-03, 15:57:16](https://lobste.rs/s/xruas8/update_on_orion_for_linux_windows) - [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
