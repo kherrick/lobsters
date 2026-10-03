@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-10-03, 13:23:29",
+      "https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017"
+    ],
+    [
+      "Writing the Cyclone Scheme Compiler (2017)",
+      "https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 12:39:14",
+      "https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation"
+    ],
+    [
+      "Two-Stack Sliding-Window Aggregation",
+      "https://orlp.net/blog/two-stack-sliding-window-aggregation/"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 12:03:08",
+      "https://lobste.rs/s/par7rv/go_json_v2_migration_what_breaks_go_1_27"
+    ],
+    [
+      "Go JSON v2 Migration: What Breaks in Go 1.27",
+      "https://importstatic.com/go/go-json-v2-migration"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 11:58:14",
+      "https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa"
+    ],
+    [
+      "How to Hack Time, With C2PA",
+      "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 11:57:02",
+      "https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age"
+    ],
+    [
+      "Greg Kroah-Hartman - Security in the LLM Age",
+      "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 10:58:07",
+      "https://lobste.rs/s/l5ev1t/announcing_cloudflare_ohttp_gateway"
+    ],
+    [
+      "Announcing Cloudflare OHTTP Gateway",
+      "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 09:40:38",
+      "https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit"
+    ],
+    [
+      "Rust for CPython (Python Language Summit 2026)",
+      "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 09:03:13",
+      "https://lobste.rs/s/e90dzr/grow_control_swarm"
+    ],
+    [
+      "Grow and control a swarm",
+      "https://nohope.io"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 08:17:27",
+      "https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make"
+    ],
+    [
+      "Problems and solutions to the modern desktop (Make tmux the OS)",
+      "https://matduggan.com/what-does-my-dream-os-ui-look-like/"
+    ]
+  ],
+  [
+    [
       "2026-10-03, 04:56:09",
       "https://lobste.rs/s/1rmsib/era_programming_languages_exploration"
     ],
@@ -17,16 +107,6 @@
     [
       "gVisor is being donated to CNCF",
       "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 01:27:47",
-      "https://lobste.rs/s/cdkmaf/upstream_rust_maintenance_report"
-    ],
-    [
-      "Upstream Rust maintenance report",
-      "https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html"
     ]
   ],
   [
@@ -61,16 +141,6 @@
   ],
   [
     [
-      "2026-10-02, 21:03:08",
-      "https://lobste.rs/s/c105dq/respecting_your_users_dread_clankers"
-    ],
-    [
-      "Respecting your users' dread of the clankers",
-      "https://thoughtbot.com/blog/respecting-your-users-dread-of-the-clankers"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 20:17:47",
       "https://lobste.rs/s/8f5elm/keeping_futhark_off_gpu"
     ],
@@ -101,42 +171,12 @@
   ],
   [
     [
-      "2026-10-02, 17:55:35",
-      "https://lobste.rs/s/bghff5/driving_gdeh0154d67_e_paper_display_with"
-    ],
-    [
-      "Driving the GDEH0154D67 e-paper display with Rust",
-      "https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 16:48:36",
       "https://lobste.rs/s/wevegu/four_horsemen_agentic_coding"
     ],
     [
       "The Four Horsemen of Agentic Coding",
       "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 15:15:11",
-      "https://lobste.rs/s/2nyapq/github_repository_landing_pages_now_show"
-    ],
-    [
-      "GitHub repository landing pages now show an accessibility tab, if provided",
-      "https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 14:37:35",
-      "https://lobste.rs/s/llnale/sequencehash_multihashing_for_rest_us"
-    ],
-    [
-      "SequenceHash: multihashing for the rest of us",
-      "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-10-02, 08:14:44",
-      "https://lobste.rs/s/kp2tg8/thrust_vs_steer_yet_another_anecdotal"
-    ],
-    [
-      "Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)",
-      "https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 02:17:04",
       "https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader"
     ],
@@ -217,36 +247,6 @@
     [
       "Git 3.0's upcoming SHA-256 default will be a costly mistake",
       "https://blog.gitbutler.com/git-3-sha-256"
-    ]
-  ],
-  [
-    [
-      "2026-10-01, 13:08:57",
-      "https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0"
-    ],
-    [
-      "Announcing Rust 1.99.0",
-      "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/"
-    ]
-  ],
-  [
-    [
-      "2026-10-01, 12:57:19",
-      "https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes"
-    ],
-    [
-      "Reducing the cognitive load of AI changes",
-      "https://amoffat.github.io/blog/cognitive-load.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-01, 08:47:50",
-      "https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed"
-    ],
-    [
-      "IANA's email about why example.com changed",
-      "https://www.oliverdunk.com/2026/09/30/iana-reply"
     ]
   ]
 ]
