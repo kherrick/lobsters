@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-03, 01:27:47](https://lobste.rs/s/cdkmaf/upstream_rust_maintenance_report) - [Upstream Rust maintenance report](https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html)
 * [2026-10-02, 22:19:02](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your) - [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/)
 * [2026-10-02, 22:01:27](https://lobste.rs/s/0egeug/lobsters_interview_with_sjamaan) - [Lobsters Interview with Sjamaan](https://alexalejandre.com/interviews/peter-bex/)
 * [2026-10-02, 21:10:41](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes) - [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html)
@@ -21,7 +22,6 @@
 * [2026-10-02, 02:17:04](https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader) - [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
 * [2026-10-01, 18:26:59](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be) - [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
 * [2026-10-01, 17:14:23](https://lobste.rs/s/td9dxd/death_web_development_education) - [The death of web development education](https://molily.de/web-dev-education/)
-* [2026-10-01, 16:47:42](https://lobste.rs/s/ccxvh6/pidgin_3_0_alpha_3_2_97_0_has_been_released) - [Pidgin 3.0 Alpha 3 2.97.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436)
 * [2026-10-01, 13:08:57](https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0) - [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/)
 * [2026-10-01, 12:57:19](https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes) - [Reducing the cognitive load of AI changes](https://amoffat.github.io/blog/cognitive-load.html)
 * [2026-10-01, 08:47:50](https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed) - [IANA's email about why example.com changed](https://www.oliverdunk.com/2026/09/30/iana-reply)
