@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-03, 15:57:16",
+      "https://lobste.rs/s/xruas8/update_on_orion_for_linux_windows"
+    ],
+    [
+      "An Update on Orion for Linux and Windows",
+      "https://blog.kagi.com/update-orion-linux-windows"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 13:31:58",
+      "https://lobste.rs/s/elziso/era_software_quality_era_ostriches"
+    ],
+    [
+      "The Era of Software Quality, or the Era of Ostriches?",
+      "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/"
+    ]
+  ],
+  [
+    [
       "2026-10-03, 13:23:29",
       "https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2026-10-03, 12:03:08",
-      "https://lobste.rs/s/par7rv/go_json_v2_migration_what_breaks_go_1_27"
-    ],
-    [
-      "Go JSON v2 Migration: What Breaks in Go 1.27",
-      "https://importstatic.com/go/go-json-v2-migration"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 11:58:14",
       "https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa"
     ],
@@ -42,21 +52,11 @@
   [
     [
       "2026-10-03, 11:57:02",
-      "https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age"
+      "https://lobste.rs/s/rghh9w/security_llm_age"
     ],
     [
-      "Greg Kroah-Hartman - Security in the LLM Age",
+      "Security in the LLM Age",
       "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 10:58:07",
-      "https://lobste.rs/s/l5ev1t/announcing_cloudflare_ohttp_gateway"
-    ],
-    [
-      "Announcing Cloudflare OHTTP Gateway",
-      "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "gVisor is being donated to CNCF",
       "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 01:27:47",
+      "https://lobste.rs/s/cdkmaf/upstream_rust_maintenance_report"
+    ],
+    [
+      "Upstream Rust maintenance report",
+      "https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Waterfox 6.7.5 Adds a Built-in Feed Reader",
       "https://www.waterfox.com/releases/6.7.5/"
-    ]
-  ],
-  [
-    [
-      "2026-10-01, 18:26:59",
-      "https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"
-    ],
-    [
-      "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "https://blog.gitbutler.com/git-3-sha-256"
     ]
   ]
 ]
