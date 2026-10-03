@@ -1,16 +1,17 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-03, 15:57:16](https://lobste.rs/s/xruas8/update_on_orion_for_linux_windows) - [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
+* [2026-10-03, 13:31:58](https://lobste.rs/s/elziso/era_software_quality_era_ostriches) - [The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)
 * [2026-10-03, 13:23:29](https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017) - [Writing the Cyclone Scheme Compiler (2017)](https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017)
 * [2026-10-03, 12:39:14](https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation) - [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
-* [2026-10-03, 12:03:08](https://lobste.rs/s/par7rv/go_json_v2_migration_what_breaks_go_1_27) - [Go JSON v2 Migration: What Breaks in Go 1.27](https://importstatic.com/go/go-json-v2-migration)
 * [2026-10-03, 11:58:14](https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa) - [How to Hack Time, With C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html)
-* [2026-10-03, 11:57:02](https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age) - [Greg Kroah-Hartman - Security in the LLM Age](https://www.youtube.com/watch?v=NnV_cWeoo5Q)
-* [2026-10-03, 10:58:07](https://lobste.rs/s/l5ev1t/announcing_cloudflare_ohttp_gateway) - [Announcing Cloudflare OHTTP Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+* [2026-10-03, 11:57:02](https://lobste.rs/s/rghh9w/security_llm_age) - [Security in the LLM Age](https://www.youtube.com/watch?v=NnV_cWeoo5Q)
 * [2026-10-03, 09:40:38](https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit) - [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/)
 * [2026-10-03, 09:03:13](https://lobste.rs/s/e90dzr/grow_control_swarm) - [Grow and control a swarm](https://nohope.io)
 * [2026-10-03, 08:17:27](https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make) - [Problems and solutions to the modern desktop (Make tmux the OS)](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
 * [2026-10-03, 04:56:09](https://lobste.rs/s/1rmsib/era_programming_languages_exploration) - [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html)
 * [2026-10-03, 02:41:38](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf) - [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/)
+* [2026-10-03, 01:27:47](https://lobste.rs/s/cdkmaf/upstream_rust_maintenance_report) - [Upstream Rust maintenance report](https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html)
 * [2026-10-02, 22:19:02](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your) - [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/)
 * [2026-10-02, 22:01:27](https://lobste.rs/s/0egeug/lobsters_interview_with_sjamaan) - [Lobsters Interview with Sjamaan](https://alexalejandre.com/interviews/peter-bex/)
 * [2026-10-02, 21:10:41](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes) - [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html)
@@ -24,7 +25,6 @@
 * [2026-10-02, 08:29:47](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers) - [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
 * [2026-10-02, 08:18:01](https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend)
 * [2026-10-02, 02:17:04](https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader) - [Waterfox 6.7.5 Adds a Built-in Feed Reader](https://www.waterfox.com/releases/6.7.5/)
-* [2026-10-01, 18:26:59](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be) - [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
 
 ## [Archives](archives/index.md)
 
