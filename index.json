@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-04, 16:37:33",
+      "https://lobste.rs/s/x5ug70/thoreau_basic"
+    ],
+    [
+      "Thoreau BASIC",
+      "https://thoreaubasic.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 15:21:34",
+      "https://lobste.rs/s/lnmgaw/flatpak_from_cli_sucks"
+    ],
+    [
+      "Flatpak from the CLI sucks",
+      "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/"
+    ]
+  ],
+  [
+    [
       "2026-10-04, 12:46:13",
       "https://lobste.rs/s/wbpt5y/improving_stabilizing_racoon2_ike"
     ],
@@ -37,16 +57,6 @@
     [
       "grubby: static site generator for git repos written in Ruby",
       "https://git.btxx.org/grubby"
-    ]
-  ],
-  [
-    [
-      "2026-10-04, 09:21:18",
-      "https://lobste.rs/s/uuxij7/models_ranked_by_normative_score_across"
-    ],
-    [
-      "Models ranked by normative score across twelve paradigms, once neutral and once human-primed",
-      "https://cognit.rajtilak.tech"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Zig 0.17.0 Release Notes",
       "https://ziglang.org/download/0.17.0/release-notes.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 14:17:00",
-      "https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned"
-    ],
-    [
-      "Actual RFC1149 packet being auctioned",
-      "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216"
     ]
   ]
 ]
