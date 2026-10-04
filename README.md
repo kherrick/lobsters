@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-04, 01:41:57](https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline) - [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)
+* [2026-10-03, 22:54:52](https://lobste.rs/s/kt0yxd/why_i_recommend_renovate_over_any_other) - [Why I recommend Renovate over any other dependency update tools (2024)](https://www.jvt.me/posts/2024/04/12/use-renovate/)
 * [2026-10-03, 21:35:28](https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform) - [Why don’t more developers \"use the platform\"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 * [2026-10-03, 20:59:46](https://lobste.rs/s/dqp0oc/customization_optimizing_compiler) - [Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)](https://dl.acm.org/doi/epdf/10.1145/74818.74831)
 * [2026-10-03, 20:43:41](https://lobste.rs/s/hk0ohb/system_level_ad_blocking_android) - [System-level ad-blocking in Android](https://kevinboone.me/adblock.html)
@@ -12,7 +14,6 @@
 * [2026-10-03, 11:58:14](https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa) - [How to Hack Time, With C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html)
 * [2026-10-03, 11:57:02](https://lobste.rs/s/rghh9w/security_llm_age) - [Security in the LLM Age](https://www.youtube.com/watch?v=NnV_cWeoo5Q)
 * [2026-10-03, 09:40:38](https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit) - [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/)
-* [2026-10-03, 09:03:13](https://lobste.rs/s/e90dzr/grow_control_swarm) - [Grow and control a swarm](https://nohope.io)
 * [2026-10-03, 08:17:27](https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make) - [Problems and solutions to the modern desktop (Make tmux the OS)](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
 * [2026-10-03, 04:56:09](https://lobste.rs/s/1rmsib/era_programming_languages_exploration) - [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html)
 * [2026-10-03, 02:41:38](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf) - [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/)
@@ -24,7 +25,6 @@
 * [2026-10-02, 16:48:36](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding) - [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
 * [2026-10-02, 14:17:00](https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned) - [Actual RFC1149 packet being auctioned](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
 * [2026-10-02, 14:01:47](https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4) - [The forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
-* [2026-10-02, 08:29:47](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers) - [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-03](index.md)
 
+* [2026-10-03, 22:54:52](https://lobste.rs/s/kt0yxd/why_i_recommend_renovate_over_any_other) - [Why I recommend Renovate over any other dependency update tools (2024)](https://www.jvt.me/posts/2024/04/12/use-renovate/)
 * [2026-10-03, 21:35:28](https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform) - [Why don’t more developers \"use the platform\"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 * [2026-10-03, 20:59:46](https://lobste.rs/s/dqp0oc/customization_optimizing_compiler) - [Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)](https://dl.acm.org/doi/epdf/10.1145/74818.74831)
 * [2026-10-03, 20:43:41](https://lobste.rs/s/hk0ohb/system_level_ad_blocking_android) - [System-level ad-blocking in Android](https://kevinboone.me/adblock.html)
