@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-04, 01:41:57",
+      "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline"
+    ],
+    [
+      "Rust's derive often implies inline",
+      "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 22:54:52",
+      "https://lobste.rs/s/kt0yxd/why_i_recommend_renovate_over_any_other"
+    ],
+    [
+      "Why I recommend Renovate over any other dependency update tools (2024)",
+      "https://www.jvt.me/posts/2024/04/12/use-renovate/"
+    ]
+  ],
+  [
+    [
       "2026-10-03, 21:35:28",
       "https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-10-03, 09:03:13",
-      "https://lobste.rs/s/e90dzr/grow_control_swarm"
-    ],
-    [
-      "Grow and control a swarm",
-      "https://nohope.io"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 08:17:27",
       "https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make"
     ],
@@ -237,16 +247,6 @@
     [
       "The forgetful CPU (Linux on M4)",
       "https://yuka.dev/blog-2026-10-02-linux-m4.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 08:29:47",
-      "https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers"
-    ],
-    [
-      "The hidden design compromises of Docker layers",
-      "https://loige.co/hidden-design-compromises-of-docker-layers/"
     ]
   ]
 ]
