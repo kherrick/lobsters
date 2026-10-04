@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-04, 07:58:14](https://lobste.rs/s/xkwswd/we_re_going_need_default_hard_budget_caps) - [We’re going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+* [2026-10-04, 07:57:55](https://lobste.rs/s/qcgjpu/kolibri_sovereign_open_weight_model) - [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
 * [2026-10-04, 01:41:57](https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline) - [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)
 * [2026-10-03, 22:54:52](https://lobste.rs/s/kt0yxd/why_i_recommend_renovate_over_any_other) - [Why I recommend Renovate over any other dependency update tools (2024)](https://www.jvt.me/posts/2024/04/12/use-renovate/)
 * [2026-10-03, 21:35:28](https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform) - [Why don’t more developers \"use the platform\"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
@@ -20,11 +22,9 @@
 * [2026-10-02, 22:19:02](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your) - [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/)
 * [2026-10-02, 22:01:27](https://lobste.rs/s/0egeug/lobsters_interview_with_sjamaan) - [Lobsters Interview with Sjamaan](https://alexalejandre.com/interviews/peter-bex/)
 * [2026-10-02, 21:10:41](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes) - [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html)
-* [2026-10-02, 20:17:47](https://lobste.rs/s/8f5elm/keeping_futhark_off_gpu) - [Keeping Futhark off the GPU](https://futhark-lang.org/blog/2026-10-02-cpu_function.html)
 * [2026-10-02, 20:10:26](https://lobste.rs/s/9ipypq/updates_full_disk_access_macos) - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
 * [2026-10-02, 16:48:36](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding) - [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
 * [2026-10-02, 14:17:00](https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned) - [Actual RFC1149 packet being auctioned](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
-* [2026-10-02, 14:01:47](https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4) - [The forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 
 ## [Archives](archives/index.md)
 
