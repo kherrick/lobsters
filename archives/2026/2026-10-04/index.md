@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-04](index.md)
 
+* [2026-10-04, 20:00:34](https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus) - [Protocol-aware recovery for consensus-based storage (2018)](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
+* [2026-10-04, 19:30:36](https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork) - [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
+* [2026-10-04, 19:19:42](https://lobste.rs/s/eoibah/iroh_global_content_discovery) - [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
+* [2026-10-04, 19:08:58](https://lobste.rs/s/jba52r/self_hosted_http_tunnels_with_ssh_nginx) - [Self-hosted HTTP tunnels with SSH and nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+* [2026-10-04, 18:49:55](https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4) - [Hacking the Go compiler to efficiently map IPv4 to IPv6](https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6)
 * [2026-10-04, 16:37:33](https://lobste.rs/s/x5ug70/thoreau_basic) - [Thoreau BASIC](https://thoreaubasic.com/)
 * [2026-10-04, 15:21:34](https://lobste.rs/s/lnmgaw/flatpak_from_cli_sucks) - [Flatpak from the CLI sucks](https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/)
 * [2026-10-04, 12:46:13](https://lobste.rs/s/wbpt5y/improving_stabilizing_racoon2_ike) - [Improving and Stabilizing the racoon2 IKE Daemon in NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2)
