@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-04](index.md)
 
+* [2026-10-04, 16:37:33](https://lobste.rs/s/x5ug70/thoreau_basic) - [Thoreau BASIC](https://thoreaubasic.com/)
+* [2026-10-04, 15:21:34](https://lobste.rs/s/lnmgaw/flatpak_from_cli_sucks) - [Flatpak from the CLI sucks](https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/)
 * [2026-10-04, 12:46:13](https://lobste.rs/s/wbpt5y/improving_stabilizing_racoon2_ike) - [Improving and Stabilizing the racoon2 IKE Daemon in NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2)
 * [2026-10-04, 12:30:26](https://lobste.rs/s/4bzoft/complement_true_is_true_except_when_it_s) - [The complement of true is true, except when it's false](https://dryperspective.github.io/posts/complement-of-true/)
 * [2026-10-04, 11:53:51](https://lobste.rs/s/hucih9/mere_mortal_s_introduction_jit) - [A Mere Mortal's Introduction to JIT Vulnerabilities in JavaScript Engines](https://trustfoundry.net/blog/jit-vulnerabilities-javascript-engines)
