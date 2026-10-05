@@ -4,6 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-10-05](index.md)
 
+* [2026-10-05, 19:50:52](https://lobste.rs/s/bw7k1r/golang_tool_check_spf_dkim_tlsa_tls) - [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/)
+* [2026-10-05, 18:48:15](https://lobste.rs/s/az2lgv/spoonful_static_site_generator_written) - [spoonful: static site generator written in Nix](https://tangled.org/poacher.dev/spoonful)
+* [2026-10-05, 18:31:29](https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live) - [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/)
+* [2026-10-05, 18:03:27](https://lobste.rs/s/okq4dm/you_don_t_need_effect_system) - [You don't need an effect system](https://burningwitness.github.io/blog/posts/against-effect-systems/)
+* [2026-10-05, 17:29:17](https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source) - [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
+* [2026-10-05, 16:07:55](https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week)
+* [2026-10-05, 14:24:26](https://lobste.rs/s/9srb4r/mold_3_0_0_released) - [Mold 3.0.0 Released](https://github.com/rui314/mold/releases/tag/v3.0.0)
+* [2026-10-05, 14:22:54](https://lobste.rs/s/xmir2s/making_gtk_application_haskell_part_1) - [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+* [2026-10-05, 13:46:18](https://lobste.rs/s/1m4kx1/nix_on_steam_frame) - [Nix on the Steam Frame](https://johns.codes/blog/nix-on-steam-frame)
+* [2026-10-05, 13:20:47](https://lobste.rs/s/fks4pf/another_step_towards_elm_v1) - [Another step towards elm v1](https://elm-lang.org/news/another-step-towards-elm-v1)
 * [2026-10-05, 12:11:57](https://lobste.rs/s/bwtzhy/factor_overview) - [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html)
 * [2026-10-05, 12:07:07](https://lobste.rs/s/ymannf/ephemeral_testing) - [Ephemeral testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
 * [2026-10-05, 10:45:51](https://lobste.rs/s/qcafwq/reverse_engineering_comanche_terrain) - [Reverse Engineering Comanche Terrain Maps](https://pikuma.com/blog/comanche-maps-reverse-engineering)
