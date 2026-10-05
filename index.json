@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-10-05, 04:51:15",
+      "https://lobste.rs/s/0gtsir/rip_vector_database"
+    ],
+    [
+      "RIP, vector database",
+      "https://turbopuffer.com/blog/rip-vector-database"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 04:48:18",
+      "https://lobste.rs/s/7faqgg/claude_says"
+    ],
+    [
+      "Claude Says",
+      "https://ohhfishal.net/Posts/claude"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 04:36:02",
+      "https://lobste.rs/s/eulzvm/implementing_undo_computerphile"
+    ],
+    [
+      "Implementing Undo - Computerphile",
+      "https://www.youtube.com/watch?v=S6PqsZ65Mg4"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 04:10:42",
+      "https://lobste.rs/s/r81dwi/broadcasting_conglomerates_are"
+    ],
+    [
+      "Broadcasting conglomerates are attempting a takeover of over-the-air television. We must defend it",
+      "https://place.reeseric.ci/writings/2026-10-04/"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 03:52:48",
+      "https://lobste.rs/s/ok0m3n/building_rag_pipeline_for_semantic_code"
+    ],
+    [
+      "Building a RAG Pipeline for Semantic Code Search",
+      "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 02:23:30",
+      "https://lobste.rs/s/9bufek/refinement_e_graphs"
+    ],
+    [
+      "Refinement E-Graphs",
+      "https://www.philipzucker.com/refinement_egraph/"
+    ]
+  ],
+  [
+    [
       "2026-10-04, 20:00:34",
       "https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus"
     ],
@@ -141,16 +201,6 @@
   ],
   [
     [
-      "2026-10-03, 22:54:52",
-      "https://lobste.rs/s/kt0yxd/why_i_recommend_renovate_over_any_other"
-    ],
-    [
-      "Why I recommend Renovate over any other dependency update tools (2024)",
-      "https://www.jvt.me/posts/2024/04/12/use-renovate/"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 21:35:28",
       "https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform"
     ],
@@ -167,16 +217,6 @@
     [
       "System-level ad-blocking in Android",
       "https://kevinboone.me/adblock.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 20:37:40",
-      "https://lobste.rs/s/hfq43j/rust_sickness_health"
-    ],
-    [
-      "Rust, In Sickness & In Health",
-      "https://www.youtube.com/watch?v=3kbPyuAtk7g"
     ]
   ],
   [
@@ -201,52 +241,12 @@
   ],
   [
     [
-      "2026-10-03, 12:39:14",
-      "https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation"
-    ],
-    [
-      "Two-Stack Sliding-Window Aggregation",
-      "https://orlp.net/blog/two-stack-sliding-window-aggregation/"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 11:58:14",
-      "https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa"
-    ],
-    [
-      "How to Hack Time, With C2PA",
-      "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 02:41:38",
-      "https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf"
-    ],
-    [
-      "gVisor is being donated to CNCF",
-      "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 22:19:02",
       "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your"
     ],
     [
       "I got targeted: Trying to get your credentials via a git post-checkout hook",
       "https://frankwiles.com/posts/i-got-targeted/"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 21:10:41",
-      "https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes"
-    ],
-    [
-      "Zig 0.17.0 Release Notes",
-      "https://ziglang.org/download/0.17.0/release-notes.html"
     ]
   ]
 ]
