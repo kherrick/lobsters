@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-10-06, 19:03:48",
-      "https://lobste.rs/s/jwidjn/inside_windows_i_o_manager_deep_dive_into"
+      "2026-10-06, 22:26:46",
+      "https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25"
     ],
     [
-      "Inside the Windows I/O Manager: Deep dive into how read I/O requests are initialized",
-      "https://winware31.blogspot.com/2026/10/inside-windows-io-manager-deep-dive.html"
+      "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+      "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 21:12:46",
+      "https://lobste.rs/s/rmh4fg/terminal_protocol_for_program_status_osc"
+    ],
+    [
+      "A Terminal Protocol for Program Status (OSC 7501)",
+      "https://mitchellh.com/writing/program-status-osc7501"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 20:33:01",
+      "https://lobste.rs/s/d0cthg/how_fix_bug_fix"
+    ],
+    [
+      "How to fix a bug in a fix",
+      "https://projectzero.google/2026/10/emergency-patching.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 20:16:33",
+      "https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief"
+    ],
+    [
+      "That Time I Worked With a Laptop Thief",
+      "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/"
     ]
   ],
   [
@@ -135,18 +165,8 @@
       "https://lobste.rs/s/fu57cb/two_arm64_specific_miscompiles_induce"
     ],
     [
-      "Two arm64-specific miscompiles induce vulnerabilities in curl",
+      "Two arm64-specific miscompiles induce bugs in curl",
       "https://mastodon.social/@bagder/117392573268225646"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 05:39:57",
-      "https://lobste.rs/s/vqm1fy/hutch_local_code_reviews_emacs_for_mildly"
-    ],
-    [
-      "hutch: local code reviews in emacs for the mildly disenfranchised",
-      "https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-10-05, 16:07:55",
-      "https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2026-10-05, 14:24:26",
       "https://lobste.rs/s/9srb4r/mold_3_0_0_released"
     ],
@@ -217,16 +227,6 @@
     [
       "Another step towards elm v1",
       "https://elm-lang.org/news/another-step-towards-elm-v1"
-    ]
-  ],
-  [
-    [
-      "2026-10-05, 12:11:57",
-      "https://lobste.rs/s/bwtzhy/factor_overview"
-    ],
-    [
-      "Factor Overview",
-      "https://re.factorcode.org/2026/10/factor-overview.html"
     ]
   ],
   [
