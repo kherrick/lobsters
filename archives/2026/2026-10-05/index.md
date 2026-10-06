@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-05](index.md)
 
+* [2026-10-05, 23:25:52](https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead) - [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/)
+* [2026-10-05, 23:03:17](https://lobste.rs/s/gm2ziy/how_cloudflare_addressed_cross_tenant) - [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://blog.cloudflare.com/containers-cross-tenant-vulnerability/)
+* [2026-10-05, 20:18:23](https://lobste.rs/s/oevwp5/dostoevsky_better_space_time_trade_offs) - [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://nivdayan.github.io/dostoevsky.pdf)
 * [2026-10-05, 19:50:52](https://lobste.rs/s/bw7k1r/golang_tool_check_spf_dkim_tlsa_tls) - [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/)
 * [2026-10-05, 18:48:15](https://lobste.rs/s/az2lgv/spoonful_static_site_generator_written) - [spoonful: static site generator written in Nix](https://tangled.org/poacher.dev/spoonful)
 * [2026-10-05, 18:31:29](https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live) - [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/)

@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-05, 23:25:52](https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead) - [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/)
+* [2026-10-05, 23:03:17](https://lobste.rs/s/gm2ziy/how_cloudflare_addressed_cross_tenant) - [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://blog.cloudflare.com/containers-cross-tenant-vulnerability/)
+* [2026-10-05, 20:18:23](https://lobste.rs/s/oevwp5/dostoevsky_better_space_time_trade_offs) - [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://nivdayan.github.io/dostoevsky.pdf)
 * [2026-10-05, 19:50:52](https://lobste.rs/s/bw7k1r/golang_tool_check_spf_dkim_tlsa_tls) - [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/)
 * [2026-10-05, 18:48:15](https://lobste.rs/s/az2lgv/spoonful_static_site_generator_written) - [spoonful: static site generator written in Nix](https://tangled.org/poacher.dev/spoonful)
 * [2026-10-05, 18:31:29](https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live) - [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/)
@@ -22,9 +25,6 @@
 * [2026-10-05, 02:23:30](https://lobste.rs/s/9bufek/refinement_e_graphs) - [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
 * [2026-10-04, 19:30:36](https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork) - [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
 * [2026-10-04, 19:19:42](https://lobste.rs/s/eoibah/iroh_global_content_discovery) - [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
-* [2026-10-04, 19:08:58](https://lobste.rs/s/jba52r/self_hosted_http_tunnels_with_ssh_nginx) - [Self-hosted HTTP tunnels with SSH and nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-* [2026-10-04, 12:30:26](https://lobste.rs/s/4bzoft/complement_true_is_true_except_when_it_s) - [The complement of true is true, except when it's false](https://dryperspective.github.io/posts/complement-of-true/)
-* [2026-10-04, 01:41:57](https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline) - [Rust's derive often implies inline](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/)
 
 ## [Archives](archives/index.md)
 
