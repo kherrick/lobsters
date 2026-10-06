@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-06](index.md)
 
+* [2026-10-06, 22:26:46](https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25) - [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/)
+* [2026-10-06, 21:12:46](https://lobste.rs/s/rmh4fg/terminal_protocol_for_program_status_osc) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
+* [2026-10-06, 20:33:01](https://lobste.rs/s/d0cthg/how_fix_bug_fix) - [How to fix a bug in a fix](https://projectzero.google/2026/10/emergency-patching.html)
+* [2026-10-06, 20:16:33](https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief) - [That Time I Worked With a Laptop Thief](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/)
 * [2026-10-06, 19:03:48](https://lobste.rs/s/jwidjn/inside_windows_i_o_manager_deep_dive_into) - [Inside the Windows I/O Manager: Deep dive into how read I/O requests are initialized](https://winware31.blogspot.com/2026/10/inside-windows-io-manager-deep-dive.html)
 * [2026-10-06, 18:29:11](https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this) - [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/)
 * [2026-10-06, 18:27:16](https://lobste.rs/s/tcmpcw/pared_remove_unwanted_apple) - [Pared - remove unwanted Apple Intelligence models without disabling SIP](https://github.com/4evy/pared)
