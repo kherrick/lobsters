@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-10-06](index.md)
 
+* [2026-10-06, 19:03:48](https://lobste.rs/s/jwidjn/inside_windows_i_o_manager_deep_dive_into) - [Inside the Windows I/O Manager: Deep dive into how read I/O requests are initialized](https://winware31.blogspot.com/2026/10/inside-windows-io-manager-deep-dive.html)
+* [2026-10-06, 18:29:11](https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this) - [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/)
+* [2026-10-06, 18:27:16](https://lobste.rs/s/tcmpcw/pared_remove_unwanted_apple) - [Pared - remove unwanted Apple Intelligence models without disabling SIP](https://github.com/4evy/pared)
+* [2026-10-06, 18:03:04](https://lobste.rs/s/0xpi8s/why_we_should_inject_dependencies) - [Why We Should Inject Dependencies](https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347)
+* [2026-10-06, 18:00:33](https://lobste.rs/s/4fop73/chrome_s_response_recent_cctld_registry) - [Chrome's Response to Recent ccTLD Registry Hijacks](https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/)
+* [2026-10-06, 17:46:53](https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package) - [Last rites for Gentoo's Chromium package](https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/)
+* [2026-10-06, 17:17:23](https://lobste.rs/s/dwbksa/brut_brutal_router_for_unix_tools) - [Brut, the Brutal Router for Unix Tools](https://brut.sh)
+* [2026-10-06, 14:30:40](https://lobste.rs/s/ppzbqo/release_polars_2_0) - [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
 * [2026-10-06, 14:27:03](https://lobste.rs/s/sshhsl/what_is_codemode) - [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)
 * [2026-10-06, 13:36:33](https://lobste.rs/s/odew1t/bidirectional_type_slicing) - [Bidirectional Type Slicing](https://arxiv.org/pdf/2607.12197)
 * [2026-10-06, 11:58:23](https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world) - [Extend Lua with Zig 1: Hello World](https://www.robbielyman.com/blog/extend-lua-with-zig-1/)
