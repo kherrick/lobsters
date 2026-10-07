@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-10-07](index.md)
 
+* [2026-10-07, 20:19:44](https://lobste.rs/s/l252ms/all_our_houses_are_built_on_sand_now) - [All our houses are built on sand now](https://po-ru.com/2026/10/07/all-our-houses-are-built-on-sand-now)
+* [2026-10-07, 19:44:06](https://lobste.rs/s/hhga98/when_submarine_cables_go_dark) - [When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection](https://resilience.ocf.tw/web/report/en.html)
+* [2026-10-07, 19:35:08](https://lobste.rs/s/0gvyif/software_developers_are_not_okay) - [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
+* [2026-10-07, 18:15:02](https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it) - [Calling a function in C without naming it](https://wiro.world/posts/calling-c-func-without-naming-it/)
+* [2026-10-07, 18:14:26](https://lobste.rs/s/u88nlh/on_git_refs) - [On Git Refs](https://matklad.github.io/2026/10/07/git-ref.html)
+* [2026-10-07, 18:01:25](https://lobste.rs/s/frav12/rat_s_minimal_register_allocator) - [rat's minimal register allocator](https://hexrat.cc/pages/blog/2026_10_07)
+* [2026-10-07, 16:23:03](https://lobste.rs/s/y5tke0/creating_distro_build_tooling_for_small) - [Creating distro build tooling for a small community](https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html)
+* [2026-10-07, 16:22:50](https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things) - [Zeroization, part 1: Wiping can make things worse](https://00f.net/2026/10/06/zeroization-1/)
 * [2026-10-07, 15:04:10](https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities) - [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
 * [2026-10-07, 14:30:05](https://lobste.rs/s/lgdxtw/c_for_rust_programmers) - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
 * [2026-10-07, 14:12:02](https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on) - [Best Books/Courses/Channels to Leapfrog on AI/ML Material](https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on)
