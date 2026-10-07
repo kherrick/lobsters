@@ -1,9 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-07, 00:43:47](https://lobste.rs/s/njjwgr/when_random_is_not_actually_random_enough) - [When random is not actually random enough](https://ersc.io/blog/when-random-isnt-random-enough)
+* [2026-10-07, 00:24:16](https://lobste.rs/s/6sogng/raspberry_pi_desktop_now_available_for_pc) - [Raspberry Pi Desktop now available for PC and Mac](https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/)
+* [2026-10-07, 00:15:00](https://lobste.rs/s/7qjhic/is_cosmic_de_mogging_kde_plasma) - [Is COSMIC DE mogging KDE Plasma?](https://thelibre.news/is-cosmic-de-mogging-kde-plasma/)
+* [2026-10-06, 23:57:25](https://lobste.rs/s/cme2vx/burn_0_22_0_faster_builds_easier) - [Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning](https://tracel.ai/blog/release-0.22.0/)
 * [2026-10-06, 22:26:46](https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25) - [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/)
 * [2026-10-06, 21:12:46](https://lobste.rs/s/rmh4fg/terminal_protocol_for_program_status_osc) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
 * [2026-10-06, 20:33:01](https://lobste.rs/s/d0cthg/how_fix_bug_fix) - [How to fix a bug in a fix](https://projectzero.google/2026/10/emergency-patching.html)
-* [2026-10-06, 20:16:33](https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief) - [That Time I Worked With a Laptop Thief](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/)
+* [2026-10-06, 20:16:33](https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025) - [That Time I Worked With a Laptop Thief (2025)](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/)
 * [2026-10-06, 18:29:11](https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this) - [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/)
 * [2026-10-06, 18:27:16](https://lobste.rs/s/tcmpcw/pared_remove_unwanted_apple) - [Pared - remove unwanted Apple Intelligence models without disabling SIP](https://github.com/4evy/pared)
 * [2026-10-06, 18:03:04](https://lobste.rs/s/0xpi8s/why_we_should_inject_dependencies) - [Why We Should Inject Dependencies](https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347)
@@ -18,13 +22,9 @@
 * [2026-10-06, 08:09:53](https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using) - [Email Self Hosters - what are you using?](https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using)
 * [2026-10-06, 07:52:24](https://lobste.rs/s/fu57cb/two_arm64_specific_miscompiles_induce) - [Two arm64-specific miscompiles induce bugs in curl](https://mastodon.social/@bagder/117392573268225646)
 * [2026-10-05, 23:25:52](https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead) - [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/)
-* [2026-10-05, 19:50:52](https://lobste.rs/s/bw7k1r/golang_tool_check_spf_dkim_tlsa_tls) - [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/)
 * [2026-10-05, 18:31:29](https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live) - [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/)
 * [2026-10-05, 17:29:17](https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source) - [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
-* [2026-10-05, 14:24:26](https://lobste.rs/s/9srb4r/mold_3_0_0_released) - [Mold 3.0.0 Released](https://github.com/rui314/mold/releases/tag/v3.0.0)
 * [2026-10-05, 13:20:47](https://lobste.rs/s/fks4pf/another_step_towards_elm_v1) - [Another step towards elm v1](https://elm-lang.org/news/another-step-towards-elm-v1)
-* [2026-10-05, 10:01:55](https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my) - [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
-* [2026-10-05, 09:34:42](https://lobste.rs/s/9iztqv/flirt_is_now_open_source) - [Flirt is now Open-Source](https://blog.buenzli.dev/flirt-is-open-source/)
 
 ## [Archives](archives/index.md)
 
