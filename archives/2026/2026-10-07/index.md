@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-10-07](index.md)
 
+* [2026-10-07, 15:04:10](https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities) - [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
+* [2026-10-07, 14:30:05](https://lobste.rs/s/lgdxtw/c_for_rust_programmers) - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
+* [2026-10-07, 14:12:02](https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on) - [Best Books/Courses/Channels to Leapfrog on AI/ML Material](https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on)
+* [2026-10-07, 14:06:59](https://lobste.rs/s/qffffv/chromium_hardening_guide) - [Chromium Hardening Guide](https://rknf404.github.io/chromium-hardening-guide/)
+* [2026-10-07, 13:27:58](https://lobste.rs/s/b1iafm/introducing_mapsnap_automated) - [Introducing mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps](https://www.danvk.org/2026/09/10/mapsnap.html)
+* [2026-10-07, 13:09:33](https://lobste.rs/s/rwdufq/anti_patterns_software_blogging) - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
+* [2026-10-07, 12:04:13](https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation) - [An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust](https://github.com/storytold/photocraft)
+* [2026-10-07, 11:57:56](https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome) - [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+* [2026-10-07, 11:42:08](https://lobste.rs/s/sucfcj/data_race_wasn_t_bug_one_was) - [The Data Race That Wasn't a Bug (and the One That Was)](https://victoriametrics.com/blog/http-race-condition/)
+* [2026-10-07, 09:26:25](https://lobste.rs/s/lon2jj/faster_streaming_html_with_batches) - [Faster streaming HTML with batches and aggregates](https://andersmurphy.com/2026/09/29/faster-streaming-html-with-batches-and-aggregates.html)
+* [2026-10-07, 09:08:19](https://lobste.rs/s/biwe7d/explaining_magelight_xp_glitch_skyrim) - [Explaining the Magelight XP glitch in Skyrim](https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim)
 * [2026-10-07, 07:05:27](https://lobste.rs/s/cuidxe/headers_up_what_s_new_httpd_relayd) - [Headers Up! What's New in httpd and relayd](https://rsadowski.de/posts/2026/update-relayd-and-httpd/)
 * [2026-10-07, 05:34:50](https://lobste.rs/s/9fjar3/reasons_dislike_ai_coding) - [Reasons to dislike AI coding](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
 * [2026-10-07, 03:16:26](https://lobste.rs/s/z0lxub/openai_shares_mathematics_research) - [OpenAI shares mathematics research catalogue](https://github.com/openai/math)
