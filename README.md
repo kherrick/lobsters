@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-07, 20:19:44](https://lobste.rs/s/l252ms/all_our_houses_are_built_on_sand_now) - [All our houses are built on sand now](https://po-ru.com/2026/10/07/all-our-houses-are-built-on-sand-now)
+* [2026-10-07, 22:48:25](https://lobste.rs/s/zlhyss/mathocalypse) - [The Mathocalypse](https://scottaaronson.blog/?p=10169)
+* [2026-10-07, 21:38:09](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who) - [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [2026-10-07, 19:44:06](https://lobste.rs/s/hhga98/when_submarine_cables_go_dark) - [When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection](https://resilience.ocf.tw/web/report/en.html)
 * [2026-10-07, 19:35:08](https://lobste.rs/s/0gvyif/software_developers_are_not_okay) - [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
 * [2026-10-07, 18:15:02](https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it) - [Calling a function in C without naming it](https://wiro.world/posts/calling-c-func-without-naming-it/)
@@ -16,7 +17,6 @@
 * [2026-10-07, 09:26:25](https://lobste.rs/s/lon2jj/faster_streaming_html_with_batches) - [Faster streaming HTML with batches and aggregates](https://andersmurphy.com/2026/09/29/faster-streaming-html-with-batches-and-aggregates.html)
 * [2026-10-07, 09:08:19](https://lobste.rs/s/biwe7d/explaining_magelight_xp_glitch_skyrim) - [Explaining the Magelight XP glitch in Skyrim](https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim)
 * [2026-10-07, 05:34:50](https://lobste.rs/s/9fjar3/reasons_dislike_ai_coding) - [Reasons to dislike AI coding](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
-* [2026-10-07, 03:16:26](https://lobste.rs/s/z0lxub/openai_shares_mathematics_research) - [OpenAI shares mathematics research catalogue](https://github.com/openai/math)
 * [2026-10-07, 02:58:16](https://lobste.rs/s/se6wbx/how_fast_is_python_3_15) - [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
 * [2026-10-07, 00:15:00](https://lobste.rs/s/7qjhic/is_cosmic_de_mogging_kde_plasma) - [Is COSMIC DE mogging KDE Plasma?](https://thelibre.news/is-cosmic-de-mogging-kde-plasma/)
 * [2026-10-06, 22:26:46](https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25) - [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/)

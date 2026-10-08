@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-07](index.md)
 
+* [2026-10-07, 22:48:25](https://lobste.rs/s/zlhyss/mathocalypse) - [The Mathocalypse](https://scottaaronson.blog/?p=10169)
+* [2026-10-07, 21:38:09](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who) - [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [2026-10-07, 20:19:44](https://lobste.rs/s/l252ms/all_our_houses_are_built_on_sand_now) - [All our houses are built on sand now](https://po-ru.com/2026/10/07/all-our-houses-are-built-on-sand-now)
 * [2026-10-07, 19:44:06](https://lobste.rs/s/hhga98/when_submarine_cables_go_dark) - [When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection](https://resilience.ocf.tw/web/report/en.html)
 * [2026-10-07, 19:35:08](https://lobste.rs/s/0gvyif/software_developers_are_not_okay) - [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
