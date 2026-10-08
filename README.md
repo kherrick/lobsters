@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-08, 19:06:25](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb) - [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
-* [2026-10-08, 18:52:25](https://lobste.rs/s/mpl36m/composition_over_inheritance_explained) - [Composition over Inheritance Explained using Retro Games](https://www.youtube.com/watch?v=HNzP1aLAffM&list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye)
 * [2026-10-08, 17:16:42](https://lobste.rs/s/axmhji/navier_stokes_lost_translation_why_lean) - [Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs](https://arxiv.org/abs/2610.08144)
 * [2026-10-08, 15:02:28](https://lobste.rs/s/aco14q/history_hetzner_cloud_network_stack) - [The history of the Hetzner Cloud network stack](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
 * [2026-10-08, 15:00:23](https://lobste.rs/s/9mykk7/beauty_dvd_menus) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
@@ -14,6 +13,7 @@
 * [2026-10-08, 09:23:49](https://lobste.rs/s/jmqi5h/gentoo_infrastructure_sponsors_wanted) - [Gentoo infrastructure sponsors wanted](https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html)
 * [2026-10-08, 09:04:32](https://lobste.rs/s/wks0s9/beyond) - [Beyond the &](https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/)
 * [2026-10-08, 09:02:42](https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0) - [jujutsu (jj) 0.46.0](https://github.com/jj-vcs/jj/releases/tag/v0.46.0)
+* [2026-10-08, 08:41:26](https://lobste.rs/s/ycmpvw/property_testing_with_agent_swarms) - [Property Testing with Agent Swarms](https://recursion.wtf/posts/agents-and-property-tests/)
 * [2026-10-08, 08:18:39](https://lobste.rs/s/lhr4oy/people_holding_up_internet) - [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
 * [2026-10-08, 07:59:30](https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google) - [I've Been Deindexed by Google](https://kennyqin.com/deindexed-by-google/)
 * [2026-10-08, 06:07:14](https://lobste.rs/s/jiphkt/rant_about_apis) - [A rant about APIs](https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html)
