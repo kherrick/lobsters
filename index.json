@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-08, 18:52:25",
-      "https://lobste.rs/s/mpl36m/composition_over_inheritance_explained"
-    ],
-    [
-      "Composition over Inheritance Explained using Retro Games",
-      "https://www.youtube.com/watch?v=HNzP1aLAffM&list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye"
-    ]
-  ],
-  [
-    [
       "2026-10-08, 17:16:42",
       "https://lobste.rs/s/axmhji/navier_stokes_lost_translation_why_lean"
     ],
@@ -137,6 +127,16 @@
     [
       "jujutsu (jj) 0.46.0",
       "https://github.com/jj-vcs/jj/releases/tag/v0.46.0"
+    ]
+  ],
+  [
+    [
+      "2026-10-08, 08:41:26",
+      "https://lobste.rs/s/ycmpvw/property_testing_with_agent_swarms"
+    ],
+    [
+      "Property Testing with Agent Swarms",
+      "https://recursion.wtf/posts/agents-and-property-tests/"
     ]
   ],
   [
