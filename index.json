@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-10-08, 11:58:52",
+      "https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy"
+    ],
+    [
+      "The Performance Cost of RwLock in Our Read-Heavy Workload",
+      "https://pranitha.dev/posts/rwlock-vs-lockfree/"
+    ]
+  ],
+  [
+    [
       "2026-10-08, 10:00:39",
       "https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256"
     ],
@@ -127,16 +137,6 @@
     [
       "jujutsu (jj) 0.46.0",
       "https://github.com/jj-vcs/jj/releases/tag/v0.46.0"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 08:41:26",
-      "https://lobste.rs/s/ycmpvw/property_testing_with_agent_swarms"
-    ],
-    [
-      "Property Testing with Agent Swarms",
-      "https://recursion.wtf/posts/agents-and-property-tests/"
     ]
   ],
   [
