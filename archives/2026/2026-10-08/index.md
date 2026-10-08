@@ -14,6 +14,7 @@
 * [2026-10-08, 13:08:00](https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment) - [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
 * [2026-10-08, 12:23:28](https://lobste.rs/s/mosbat/thinking_will_become_hobby) - [Thinking will become a hobby](https://www.spinellis.gr/blog/20261008/?li261008)
 * [2026-10-08, 12:16:07](https://lobste.rs/s/t4fwqd/specialargs_considered_harmful) - [`specialArgs` considered harmful](https://ysun.co/special/)
+* [2026-10-08, 11:58:52](https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy) - [The Performance Cost of RwLock in Our Read-Heavy Workload](https://pranitha.dev/posts/rwlock-vs-lockfree/)
 * [2026-10-08, 10:00:39](https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256) - [Migrating Git repos to SHA-256](https://exa.y2k.diy/garden/git-sha256/)
 * [2026-10-08, 09:23:49](https://lobste.rs/s/jmqi5h/gentoo_infrastructure_sponsors_wanted) - [Gentoo infrastructure sponsors wanted](https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html)
 * [2026-10-08, 09:04:32](https://lobste.rs/s/wks0s9/beyond) - [Beyond the &](https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/)
