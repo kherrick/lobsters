@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-09, 15:32:51](https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source) - [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
 * [2026-10-09, 14:30:28](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably) - [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
 * [2026-10-09, 14:22:04](https://lobste.rs/s/t5htlf/why_are_coding_agents_so_dumb) - [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
 * [2026-10-09, 14:14:17](https://lobste.rs/s/ha0qt7/robot_is_social_construct_why_your) - [\"Robot\" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
 * [2026-10-09, 13:56:41](https://lobste.rs/s/pmzbuu/deepthi_sigireddi_from_supabase) - [Deepthi Sigireddi from Supabase](https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html)
+* [2026-10-09, 13:33:23](https://lobste.rs/s/8mj9bb/spinlocks_considered_harmful_2020) - [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
 * [2026-10-09, 13:24:29](https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare) - [Deno is joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 13:01:43](https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix) - [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
 * [2026-10-09, 12:53:09](https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend)
@@ -12,7 +14,6 @@
 * [2026-10-09, 11:09:10](https://lobste.rs/s/ily7as/programming_isn_t_special) - [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-09, 06:51:52](https://lobste.rs/s/m2ixv3/deeper_dive_keyboard_differences) - [Deeper dive: Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 * [2026-10-09, 05:30:04](https://lobste.rs/s/dstt3o/reducing_undefined_behavior_c_language) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-* [2026-10-09, 00:52:27](https://lobste.rs/s/gvbqdy/b_trees_are_back_engineering_fast) - [B-Trees Are Back: Engineering Fast and Pageable Node Layouts](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf)
 * [2026-10-08, 23:21:57](https://lobste.rs/s/3gikyb/bevy_0_20) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 21:39:50](https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only) - [Demoting i686 Windows targets to std-only](https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/)
 * [2026-10-08, 19:06:25](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb) - [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
@@ -24,7 +25,6 @@
 * [2026-10-08, 08:18:39](https://lobste.rs/s/lhr4oy/people_holding_up_internet) - [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
 * [2026-10-08, 07:59:30](https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google) - [I've Been Deindexed by Google](https://kennyqin.com/deindexed-by-google/)
 * [2026-10-07, 21:38:09](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who) - [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-* [2026-10-07, 13:09:33](https://lobste.rs/s/rwdufq/anti_patterns_software_blogging) - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
 
 ## [Archives](archives/index.md)
 
