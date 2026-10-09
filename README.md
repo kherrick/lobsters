@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-09, 19:31:17](https://lobste.rs/s/dsbt5a/branches_branch_free_code) - [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 * [2026-10-09, 17:45:44](https://lobste.rs/s/9xcc2g/vectorized_clz_ctz) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 * [2026-10-09, 17:23:45](https://lobste.rs/s/sriqip/two_futures_for_llms_mathematics) - [Two Futures for LLMs in Mathematics](https://wiredream.com/llm-two-futures/)
 * [2026-10-09, 17:07:02](https://lobste.rs/s/rpiwtb/python_3_15_0) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
@@ -23,7 +24,6 @@
 * [2026-10-08, 14:43:19](https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling) - [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
 * [2026-10-08, 13:08:00](https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment) - [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
 * [2026-10-08, 08:18:39](https://lobste.rs/s/lhr4oy/people_holding_up_internet) - [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
-* [2026-10-08, 07:59:30](https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google) - [I've Been Deindexed by Google](https://kennyqin.com/deindexed-by-google/)
 * [2026-10-07, 21:38:09](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who) - [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 
 ## [Archives](archives/index.md)
