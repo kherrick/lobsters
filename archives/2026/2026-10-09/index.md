@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 12:17:01](https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu) - [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
+* [2026-10-09, 12:08:09](https://lobste.rs/s/3zcaxw/there_are_many_themes_this_one_is_yours) - [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
 * [2026-10-09, 11:53:52](https://lobste.rs/s/pbjhnt/reverse_engineer_anything) - [Reverse Engineer Anything](https://github.com/morluto/rea)
 * [2026-10-09, 11:39:36](https://lobste.rs/s/meoyc6/making_very_fast_spi_flasher) - [The making of a very fast SPI flasher](https://localcc.cc/blog/dualnand-opt/)
 * [2026-10-09, 11:26:00](https://lobste.rs/s/vq6ly4/telegram_desktop_one_click_account) - [Telegram Desktop: one-click account takeover via IPC injection](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)

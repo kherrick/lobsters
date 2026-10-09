@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-09, 11:53:52](https://lobste.rs/s/pbjhnt/reverse_engineer_anything) - [Reverse Engineer Anything](https://github.com/morluto/rea)
-* [2026-10-09, 11:39:36](https://lobste.rs/s/meoyc6/making_very_fast_spi_flasher) - [The making of a very fast SPI flasher](https://localcc.cc/blog/dualnand-opt/)
+* [2026-10-09, 12:17:01](https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu) - [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
+* [2026-10-09, 12:08:09](https://lobste.rs/s/3zcaxw/there_are_many_themes_this_one_is_yours) - [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
 * [2026-10-09, 11:09:10](https://lobste.rs/s/ily7as/programming_isn_t_special) - [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-09, 07:37:38](https://lobste.rs/s/85k8am/en_html_org_is_scam_site) - [en-html.org is a Scam Site](https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/)
 * [2026-10-09, 06:51:52](https://lobste.rs/s/m2ixv3/deeper_dive_keyboard_differences) - [Deeper dive: Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
