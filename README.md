@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-09, 11:09:10](https://lobste.rs/s/ily7as/programming_isn_t_special) - [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-09, 07:37:38](https://lobste.rs/s/85k8am/en_html_org_is_scam_site) - [en-html.org is a Scam Site](https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/)
 * [2026-10-09, 06:51:52](https://lobste.rs/s/m2ixv3/deeper_dive_keyboard_differences) - [Deeper dive: Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 * [2026-10-09, 05:30:04](https://lobste.rs/s/dstt3o/reducing_undefined_behavior_c_language) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
@@ -23,7 +24,6 @@
 * [2026-10-07, 21:38:09](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who) - [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [2026-10-07, 19:35:08](https://lobste.rs/s/0gvyif/software_developers_are_not_okay) - [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
 * [2026-10-07, 18:15:02](https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it) - [Calling a function in C without naming it](https://wiro.world/posts/calling-c-func-without-naming-it/)
-* [2026-10-07, 14:30:05](https://lobste.rs/s/lgdxtw/c_for_rust_programmers) - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
 * [2026-10-07, 13:09:33](https://lobste.rs/s/rwdufq/anti_patterns_software_blogging) - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
 
 ## [Archives](archives/index.md)
