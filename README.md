@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-09, 07:37:38](https://lobste.rs/s/85k8am/en_html_org_is_scam_site) - [en-html.org is a Scam Site](https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/)
+* [2026-10-09, 06:51:52](https://lobste.rs/s/m2ixv3/deeper_dive_keyboard_differences) - [Deeper dive: Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 * [2026-10-09, 05:30:04](https://lobste.rs/s/dstt3o/reducing_undefined_behavior_c_language) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 * [2026-10-09, 00:52:27](https://lobste.rs/s/gvbqdy/b_trees_are_back_engineering_fast) - [B-Trees Are Back: Engineering Fast and Pageable Node Layouts](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf)
 * [2026-10-08, 23:21:57](https://lobste.rs/s/3gikyb/bevy_0_20) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
@@ -14,7 +15,6 @@
 * [2026-10-08, 13:08:00](https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment) - [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
 * [2026-10-08, 12:16:07](https://lobste.rs/s/t4fwqd/specialargs_considered_harmful) - [`specialArgs` considered harmful](https://ysun.co/special/)
 * [2026-10-08, 11:58:52](https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy) - [The Performance Cost of RwLock in Our Read-Heavy Workload](https://pranitha.dev/posts/rwlock-vs-lockfree/)
-* [2026-10-08, 10:00:39](https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256) - [Migrating Git repos to SHA-256](https://exa.y2k.diy/garden/git-sha256/)
 * [2026-10-08, 09:23:49](https://lobste.rs/s/jmqi5h/gentoo_infrastructure_sponsors_wanted) - [Gentoo infrastructure sponsors wanted](https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html)
 * [2026-10-08, 09:04:32](https://lobste.rs/s/wks0s9/beyond) - [Beyond the &](https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/)
 * [2026-10-08, 09:02:42](https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0) - [jujutsu (jj) 0.46.0](https://github.com/jj-vcs/jj/releases/tag/v0.46.0)
