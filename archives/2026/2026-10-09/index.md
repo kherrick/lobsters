@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 17:23:45](https://lobste.rs/s/sriqip/two_futures_for_llms_mathematics) - [Two Futures for LLMs in Mathematics](https://wiredream.com/llm-two-futures/)
+* [2026-10-09, 17:07:02](https://lobste.rs/s/rpiwtb/python_3_15_0) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 * [2026-10-09, 15:32:51](https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source) - [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
 * [2026-10-09, 14:30:28](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably) - [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
 * [2026-10-09, 14:22:04](https://lobste.rs/s/t5htlf/why_are_coding_agents_so_dumb) - [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
