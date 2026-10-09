@@ -2,6 +2,7 @@
 
 * [2026-10-09, 00:52:27](https://lobste.rs/s/gvbqdy/b_trees_are_back_engineering_fast) - [B-Trees Are Back: Engineering Fast and Pageable Node Layouts](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf)
 * [2026-10-08, 23:21:57](https://lobste.rs/s/3gikyb/bevy_0_20) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
+* [2026-10-08, 21:45:09](https://lobste.rs/s/ibtc9r/rolling_root_key_update) - [Rolling the Root Key (Update)](https://ispcol.potaroo.net/2026-10/kskroll.html)
 * [2026-10-08, 19:06:25](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb) - [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
 * [2026-10-08, 17:16:42](https://lobste.rs/s/axmhji/navier_stokes_lost_translation_why_lean) - [Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs](https://arxiv.org/abs/2610.08144)
 * [2026-10-08, 15:02:28](https://lobste.rs/s/aco14q/history_hetzner_cloud_network_stack) - [The history of the Hetzner Cloud network stack](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
@@ -22,7 +23,6 @@
 * [2026-10-07, 21:38:09](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who) - [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [2026-10-07, 19:35:08](https://lobste.rs/s/0gvyif/software_developers_are_not_okay) - [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
 * [2026-10-07, 18:15:02](https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it) - [Calling a function in C without naming it](https://wiro.world/posts/calling-c-func-without-naming-it/)
-* [2026-10-07, 16:23:03](https://lobste.rs/s/y5tke0/creating_distro_build_tooling_for_small) - [Creating distro build tooling for a small community](https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html)
 * [2026-10-07, 14:30:05](https://lobste.rs/s/lgdxtw/c_for_rust_programmers) - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
 * [2026-10-07, 13:09:33](https://lobste.rs/s/rwdufq/anti_patterns_software_blogging) - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
 
