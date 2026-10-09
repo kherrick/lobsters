@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-09, 19:31:17",
+      "https://lobste.rs/s/dsbt5a/branches_branch_free_code"
+    ],
+    [
+      "Branches in branch-free code",
+      "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 17:45:44",
       "https://lobste.rs/s/9xcc2g/vectorized_clz_ctz"
     ],
@@ -227,16 +237,6 @@
     [
       "The people holding up the internet",
       "https://sheets.works/data-viz/holding-up-the-internet"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 07:59:30",
-      "https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google"
-    ],
-    [
-      "I've Been Deindexed by Google",
-      "https://kennyqin.com/deindexed-by-google/"
     ]
   ],
   [
