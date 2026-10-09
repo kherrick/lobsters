@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-10-08, 09:00:53",
-      "https://lobste.rs/s/bk6pte/goose_programming_language"
-    ],
-    [
-      "The Goose Programming Language",
-      "https://github.com/aardappel/goose"
-    ]
-  ],
-  [
-    [
       "2026-10-08, 08:18:39",
       "https://lobste.rs/s/lhr4oy/people_holding_up_internet"
     ],
@@ -227,6 +217,16 @@
     [
       "Calling a function in C without naming it",
       "https://wiro.world/posts/calling-c-func-without-naming-it/"
+    ]
+  ],
+  [
+    [
+      "2026-10-07, 16:23:03",
+      "https://lobste.rs/s/y5tke0/creating_distro_build_tooling_for_small"
+    ],
+    [
+      "Creating distro build tooling for a small community",
+      "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html"
     ]
   ],
   [
