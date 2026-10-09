@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-09, 07:37:38](https://lobste.rs/s/85k8am/en_html_org_is_scam_site) - [en-html.org is a Scam Site](https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/)
+* [2026-10-09, 05:30:04](https://lobste.rs/s/dstt3o/reducing_undefined_behavior_c_language) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 * [2026-10-09, 00:52:27](https://lobste.rs/s/gvbqdy/b_trees_are_back_engineering_fast) - [B-Trees Are Back: Engineering Fast and Pageable Node Layouts](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf)
 * [2026-10-08, 23:21:57](https://lobste.rs/s/3gikyb/bevy_0_20) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 21:39:50](https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only) - [Demoting i686 Windows targets to std-only](https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/)
@@ -19,7 +20,6 @@
 * [2026-10-08, 09:02:42](https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0) - [jujutsu (jj) 0.46.0](https://github.com/jj-vcs/jj/releases/tag/v0.46.0)
 * [2026-10-08, 08:18:39](https://lobste.rs/s/lhr4oy/people_holding_up_internet) - [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
 * [2026-10-08, 07:59:30](https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google) - [I've Been Deindexed by Google](https://kennyqin.com/deindexed-by-google/)
-* [2026-10-08, 06:07:14](https://lobste.rs/s/jiphkt/rant_about_apis) - [A rant about APIs](https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html)
 * [2026-10-07, 21:38:09](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who) - [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [2026-10-07, 19:35:08](https://lobste.rs/s/0gvyif/software_developers_are_not_okay) - [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
 * [2026-10-07, 18:15:02](https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it) - [Calling a function in C without naming it](https://wiro.world/posts/calling-c-func-without-naming-it/)
