@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 14:30:28](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably) - [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
+* [2026-10-09, 14:22:04](https://lobste.rs/s/t5htlf/why_are_coding_agents_so_dumb) - [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
 * [2026-10-09, 13:56:41](https://lobste.rs/s/pmzbuu/deepthi_sigireddi_from_supabase) - [Deepthi Sigireddi from Supabase](https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html)
+* [2026-10-09, 13:33:23](https://lobste.rs/s/8mj9bb/spinlocks_considered_harmful_2020) - [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
 * [2026-10-09, 13:24:29](https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare) - [Deno is joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 13:01:43](https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix) - [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
 * [2026-10-09, 12:39:29](https://lobste.rs/s/veh9eo/on_modern_hardware_who_handles_what_bit) - [On modern hardware, who handles what bit of hardware state can be unclear](https://utcc.utoronto.ca/~cks/space/blog/tech/HardwareWhoHandlesWhatNotClear)
