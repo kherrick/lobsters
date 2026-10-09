@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-09, 12:39:29](https://lobste.rs/s/veh9eo/on_modern_hardware_who_handles_what_bit) - [On modern hardware, who handles what bit of hardware state can be unclear](https://utcc.utoronto.ca/~cks/space/blog/tech/HardwareWhoHandlesWhatNotClear)
+* [2026-10-09, 13:01:43](https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix) - [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
 * [2026-10-09, 12:08:09](https://lobste.rs/s/3zcaxw/there_are_many_themes_this_one_is_yours) - [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
 * [2026-10-09, 11:53:52](https://lobste.rs/s/pbjhnt/reverse_engineer_anything) - [Reverse Engineer Anything](https://github.com/morluto/rea)
 * [2026-10-09, 11:39:36](https://lobste.rs/s/meoyc6/making_very_fast_spi_flasher) - [The making of a very fast SPI flasher](https://localcc.cc/blog/dualnand-opt/)
