@@ -11,12 +11,42 @@
   ],
   [
     [
+      "2026-10-09, 21:27:20",
+      "https://lobste.rs/s/o8xo9z/importance_communities_around_software"
+    ],
+    [
+      "The importance of communities around software",
+      "https://lumi.codeberg.page/blog/software-community.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 21:20:03",
+      "https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not"
+    ],
+    [
+      "Cloudflare shutting down Deno is news, not just PR",
+      "https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 19:31:17",
       "https://lobste.rs/s/dsbt5a/branches_branch_free_code"
     ],
     [
       "Branches in branch-free code",
       "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 17:49:54",
+      "https://lobste.rs/s/5n7zxa/equality_saturation_incomplete_project"
+    ],
+    [
+      "Equality Saturation: An “Incomplete” Project",
+      "https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-10-09, 05:30:04",
-      "https://lobste.rs/s/dstt3o/reducing_undefined_behavior_c_language"
-    ],
-    [
-      "Reducing undefined behavior in the C language",
-      "https://lwn.net/Articles/1095811/"
-    ]
-  ],
-  [
-    [
       "2026-10-08, 23:21:57",
       "https://lobste.rs/s/3gikyb/bevy_0_20"
     ],
@@ -227,26 +247,6 @@
     [
       "The people holding up the internet",
       "https://sheets.works/data-viz/holding-up-the-internet"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 07:59:30",
-      "https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google"
-    ],
-    [
-      "I've Been Deindexed by Google",
-      "https://kennyqin.com/deindexed-by-google/"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 21:38:09",
-      "https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who"
-    ],
-    [
-      "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-      "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
     ]
   ]
 ]
