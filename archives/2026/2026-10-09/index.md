@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
 * [2026-10-09, 21:44:50](https://lobste.rs/s/qwqne6/lifeguard_static_analyzer_for_python) - [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
+* [2026-10-09, 21:27:20](https://lobste.rs/s/o8xo9z/importance_communities_around_software) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+* [2026-10-09, 21:20:03](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not) - [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not)
 * [2026-10-09, 19:31:17](https://lobste.rs/s/dsbt5a/branches_branch_free_code) - [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 * [2026-10-09, 18:47:32](https://lobste.rs/s/tenn7k/how_write_shared_libraries_2011) - [How To Write Shared Libraries (2011)](https://www.cs.dartmouth.edu/sergey/cs108/ABI/UlrichDrepper-How-To-Write-Shared-Libraries.pdf)
+* [2026-10-09, 17:49:54](https://lobste.rs/s/5n7zxa/equality_saturation_incomplete_project) - [Equality Saturation: An “Incomplete” Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/)
 * [2026-10-09, 17:45:44](https://lobste.rs/s/9xcc2g/vectorized_clz_ctz) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 * [2026-10-09, 17:23:45](https://lobste.rs/s/sriqip/two_futures_for_llms_mathematics) - [Two Futures for LLMs in Mathematics](https://wiredream.com/llm-two-futures/)
 * [2026-10-09, 17:07:02](https://lobste.rs/s/rpiwtb/python_3_15_0) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
