@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-09, 11:39:36](https://lobste.rs/s/meoyc6/making_very_fast_spi_flasher) - [The making of a very fast SPI flasher](https://localcc.cc/blog/dualnand-opt/)
 * [2026-10-09, 11:26:00](https://lobste.rs/s/vq6ly4/telegram_desktop_one_click_account) - [Telegram Desktop: one-click account takeover via IPC injection](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 * [2026-10-09, 11:09:10](https://lobste.rs/s/ily7as/programming_isn_t_special) - [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-09, 07:37:38](https://lobste.rs/s/85k8am/en_html_org_is_scam_site) - [en-html.org is a Scam Site](https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/)
@@ -17,7 +18,6 @@
 * [2026-10-08, 13:08:00](https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment) - [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
 * [2026-10-08, 11:58:52](https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy) - [The Performance Cost of RwLock in Our Read-Heavy Workload](https://pranitha.dev/posts/rwlock-vs-lockfree/)
 * [2026-10-08, 09:23:49](https://lobste.rs/s/jmqi5h/gentoo_infrastructure_sponsors_wanted) - [Gentoo infrastructure sponsors wanted](https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html)
-* [2026-10-08, 09:04:32](https://lobste.rs/s/wks0s9/beyond) - [Beyond the &](https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/)
 * [2026-10-08, 09:02:42](https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0) - [jujutsu (jj) 0.46.0](https://github.com/jj-vcs/jj/releases/tag/v0.46.0)
 * [2026-10-08, 08:18:39](https://lobste.rs/s/lhr4oy/people_holding_up_internet) - [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
 * [2026-10-08, 07:59:30](https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google) - [I've Been Deindexed by Google](https://kennyqin.com/deindexed-by-google/)
