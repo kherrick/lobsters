@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-09, 06:51:52",
+      "https://lobste.rs/s/m2ixv3/deeper_dive_keyboard_differences"
+    ],
+    [
+      "Deeper dive: Keyboard differences between Windows and Macs",
+      "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 05:30:04",
       "https://lobste.rs/s/dstt3o/reducing_undefined_behavior_c_language"
     ],
@@ -137,16 +147,6 @@
     [
       "The Performance Cost of RwLock in Our Read-Heavy Workload",
       "https://pranitha.dev/posts/rwlock-vs-lockfree/"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 10:00:39",
-      "https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256"
-    ],
-    [
-      "Migrating Git repos to SHA-256",
-      "https://exa.y2k.diy/garden/git-sha256/"
     ]
   ],
   [
