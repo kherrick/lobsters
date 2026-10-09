@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 13:24:29](https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare) - [Deno is joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 13:01:43](https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix) - [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
 * [2026-10-09, 12:39:29](https://lobste.rs/s/veh9eo/on_modern_hardware_who_handles_what_bit) - [On modern hardware, who handles what bit of hardware state can be unclear](https://utcc.utoronto.ca/~cks/space/blog/tech/HardwareWhoHandlesWhatNotClear)
 * [2026-10-09, 12:17:01](https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu) - [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)

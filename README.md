@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-09, 13:24:29](https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare) - [Deno is joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 13:01:43](https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix) - [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
+* [2026-10-09, 12:17:01](https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu) - [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
 * [2026-10-09, 12:08:09](https://lobste.rs/s/3zcaxw/there_are_many_themes_this_one_is_yours) - [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
 * [2026-10-09, 11:53:52](https://lobste.rs/s/pbjhnt/reverse_engineer_anything) - [Reverse Engineer Anything](https://github.com/morluto/rea)
 * [2026-10-09, 11:39:36](https://lobste.rs/s/meoyc6/making_very_fast_spi_flasher) - [The making of a very fast SPI flasher](https://localcc.cc/blog/dualnand-opt/)
@@ -15,9 +17,7 @@
 * [2026-10-08, 17:16:42](https://lobste.rs/s/axmhji/navier_stokes_lost_translation_why_lean) - [Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs](https://arxiv.org/abs/2610.08144)
 * [2026-10-08, 15:00:23](https://lobste.rs/s/9mykk7/beauty_dvd_menus) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 14:43:19](https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling) - [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
-* [2026-10-08, 13:20:22](https://lobste.rs/s/qfzzmi/extending_guix) - [Extending Guix](https://guix.gnu.org/en/blog/2026/extending-guix/)
 * [2026-10-08, 13:08:00](https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment) - [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
-* [2026-10-08, 09:23:49](https://lobste.rs/s/jmqi5h/gentoo_infrastructure_sponsors_wanted) - [Gentoo infrastructure sponsors wanted](https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html)
 * [2026-10-08, 09:02:42](https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0) - [jujutsu (jj) 0.46.0](https://github.com/jj-vcs/jj/releases/tag/v0.46.0)
 * [2026-10-08, 08:18:39](https://lobste.rs/s/lhr4oy/people_holding_up_internet) - [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
 * [2026-10-08, 07:59:30](https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google) - [I've Been Deindexed by Google](https://kennyqin.com/deindexed-by-google/)
