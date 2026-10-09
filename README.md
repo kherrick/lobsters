@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-09, 19:31:17](https://lobste.rs/s/dsbt5a/branches_branch_free_code) - [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
+* [2026-10-09, 18:47:32](https://lobste.rs/s/tenn7k/how_write_shared_libraries_2011) - [How To Write Shared Libraries (2011)](https://www.cs.dartmouth.edu/sergey/cs108/ABI/UlrichDrepper-How-To-Write-Shared-Libraries.pdf)
 * [2026-10-09, 17:45:44](https://lobste.rs/s/9xcc2g/vectorized_clz_ctz) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
-* [2026-10-09, 17:23:45](https://lobste.rs/s/sriqip/two_futures_for_llms_mathematics) - [Two Futures for LLMs in Mathematics](https://wiredream.com/llm-two-futures/)
 * [2026-10-09, 17:07:02](https://lobste.rs/s/rpiwtb/python_3_15_0) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 * [2026-10-09, 15:32:51](https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source) - [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
 * [2026-10-09, 14:30:28](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably) - [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
