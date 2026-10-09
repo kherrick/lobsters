@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-09, 17:23:45",
+      "https://lobste.rs/s/sriqip/two_futures_for_llms_mathematics"
+    ],
+    [
+      "Two Futures for LLMs in Mathematics",
+      "https://wiredream.com/llm-two-futures/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 17:07:02",
+      "https://lobste.rs/s/rpiwtb/python_3_15_0"
+    ],
+    [
+      "Python 3.15.0",
+      "https://www.python.org/downloads/release/python-3150/"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 15:32:51",
       "https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-10-08, 21:39:50",
-      "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only"
-    ],
-    [
-      "Demoting i686 Windows targets to std-only",
-      "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/"
-    ]
-  ],
-  [
-    [
       "2026-10-08, 19:06:25",
       "https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb"
     ],
@@ -207,16 +217,6 @@
     [
       "Ending the Casuarina Linux Experiment",
       "https://casuarina.org/news/ending-the-casuarina-linux-experiment/"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 09:02:42",
-      "https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0"
-    ],
-    [
-      "jujutsu (jj) 0.46.0",
-      "https://github.com/jj-vcs/jj/releases/tag/v0.46.0"
     ]
   ],
   [
