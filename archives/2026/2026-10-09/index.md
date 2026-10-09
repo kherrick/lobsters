@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 13:56:41](https://lobste.rs/s/pmzbuu/deepthi_sigireddi_from_supabase) - [Deepthi Sigireddi from Supabase](https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html)
 * [2026-10-09, 13:24:29](https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare) - [Deno is joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 13:01:43](https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix) - [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
 * [2026-10-09, 12:39:29](https://lobste.rs/s/veh9eo/on_modern_hardware_who_handles_what_bit) - [On modern hardware, who handles what bit of hardware state can be unclear](https://utcc.utoronto.ca/~cks/space/blog/tech/HardwareWhoHandlesWhatNotClear)
