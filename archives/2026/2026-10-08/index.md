@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-08](index.md)
 
+* [2026-10-08, 23:21:57](https://lobste.rs/s/3gikyb/bevy_0_20) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 21:45:09](https://lobste.rs/s/ibtc9r/rolling_root_key_update) - [Rolling the Root Key (Update)](https://ispcol.potaroo.net/2026-10/kskroll.html)
 * [2026-10-08, 19:06:25](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb) - [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
 * [2026-10-08, 18:52:25](https://lobste.rs/s/mpl36m/composition_over_inheritance_explained) - [Composition over Inheritance Explained using Retro Games](https://www.youtube.com/watch?v=HNzP1aLAffM&list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye)
