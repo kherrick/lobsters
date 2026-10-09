@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-10-08, 21:45:09",
+      "https://lobste.rs/s/ibtc9r/rolling_root_key_update"
+    ],
+    [
+      "Rolling the Root Key (Update)",
+      "https://ispcol.potaroo.net/2026-10/kskroll.html"
+    ]
+  ],
+  [
+    [
       "2026-10-08, 19:06:25",
       "https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb"
     ],
@@ -217,16 +227,6 @@
     [
       "Calling a function in C without naming it",
       "https://wiro.world/posts/calling-c-func-without-naming-it/"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 16:23:03",
-      "https://lobste.rs/s/y5tke0/creating_distro_build_tooling_for_small"
-    ],
-    [
-      "Creating distro build tooling for a small community",
-      "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html"
     ]
   ],
   [
