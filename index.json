@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-09, 17:45:44",
+      "https://lobste.rs/s/9xcc2g/vectorized_clz_ctz"
+    ],
+    [
+      "Vectorized CLZ and CTZ",
+      "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 17:23:45",
       "https://lobste.rs/s/sriqip/two_futures_for_llms_mathematics"
     ],
@@ -187,16 +197,6 @@
     [
       "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
       "https://arxiv.org/abs/2610.08144"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 15:00:23",
-      "https://lobste.rs/s/9mykk7/beauty_dvd_menus"
-    ],
-    [
-      "Beauty in DVD Menus",
-      "https://vale.rocks/posts/dvd-menus"
     ]
   ],
   [
