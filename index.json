@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2026-10-08, 21:45:09",
-      "https://lobste.rs/s/ibtc9r/rolling_root_key_update"
+      "2026-10-08, 21:39:50",
+      "https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only"
     ],
     [
-      "Rolling the Root Key (Update)",
-      "https://ispcol.potaroo.net/2026-10/kskroll.html"
+      "Demoting i686 Windows targets to std-only",
+      "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/"
     ]
   ],
   [
