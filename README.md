@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-09, 11:26:00](https://lobste.rs/s/vq6ly4/telegram_desktop_one_click_account) - [Telegram Desktop: one-click account takeover via IPC injection](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 * [2026-10-09, 11:09:10](https://lobste.rs/s/ily7as/programming_isn_t_special) - [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-09, 07:37:38](https://lobste.rs/s/85k8am/en_html_org_is_scam_site) - [en-html.org is a Scam Site](https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/)
 * [2026-10-09, 06:51:52](https://lobste.rs/s/m2ixv3/deeper_dive_keyboard_differences) - [Deeper dive: Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
@@ -14,7 +15,6 @@
 * [2026-10-08, 14:43:19](https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling) - [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
 * [2026-10-08, 13:20:22](https://lobste.rs/s/qfzzmi/extending_guix) - [Extending Guix](https://guix.gnu.org/en/blog/2026/extending-guix/)
 * [2026-10-08, 13:08:00](https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment) - [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
-* [2026-10-08, 12:16:07](https://lobste.rs/s/t4fwqd/specialargs_considered_harmful) - [`specialArgs` considered harmful](https://ysun.co/special/)
 * [2026-10-08, 11:58:52](https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy) - [The Performance Cost of RwLock in Our Read-Heavy Workload](https://pranitha.dev/posts/rwlock-vs-lockfree/)
 * [2026-10-08, 09:23:49](https://lobste.rs/s/jmqi5h/gentoo_infrastructure_sponsors_wanted) - [Gentoo infrastructure sponsors wanted](https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html)
 * [2026-10-08, 09:04:32](https://lobste.rs/s/wks0s9/beyond) - [Beyond the &](https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/)
