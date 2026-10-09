@@ -11,6 +11,7 @@
 * [2026-10-09, 13:33:23](https://lobste.rs/s/8mj9bb/spinlocks_considered_harmful_2020) - [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
 * [2026-10-09, 13:24:29](https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare) - [Deno is joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 13:01:43](https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix) - [HIP and ROCm as first-class citizens in Guix](https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/)
+* [2026-10-09, 12:53:09](https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend)
 * [2026-10-09, 12:39:29](https://lobste.rs/s/veh9eo/on_modern_hardware_who_handles_what_bit) - [On modern hardware, who handles what bit of hardware state can be unclear](https://utcc.utoronto.ca/~cks/space/blog/tech/HardwareWhoHandlesWhatNotClear)
 * [2026-10-09, 12:17:01](https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu) - [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
 * [2026-10-09, 12:08:09](https://lobste.rs/s/3zcaxw/there_are_many_themes_this_one_is_yours) - [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
