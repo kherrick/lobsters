@@ -2,6 +2,7 @@
 
 * [2026-10-09, 00:52:27](https://lobste.rs/s/gvbqdy/b_trees_are_back_engineering_fast) - [B-Trees Are Back: Engineering Fast and Pageable Node Layouts](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf)
 * [2026-10-08, 23:21:57](https://lobste.rs/s/3gikyb/bevy_0_20) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
+* [2026-10-08, 21:45:09](https://lobste.rs/s/ibtc9r/rolling_root_key_update) - [Rolling the Root Key (Update)](https://ispcol.potaroo.net/2026-10/kskroll.html)
 * [2026-10-08, 21:39:50](https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only) - [Demoting i686 Windows targets to std-only](https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/)
 * [2026-10-08, 19:06:25](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb) - [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
 * [2026-10-08, 17:16:42](https://lobste.rs/s/axmhji/navier_stokes_lost_translation_why_lean) - [Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs](https://arxiv.org/abs/2610.08144)
@@ -10,7 +11,6 @@
 * [2026-10-08, 14:43:19](https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling) - [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
 * [2026-10-08, 13:20:22](https://lobste.rs/s/qfzzmi/extending_guix) - [Extending Guix](https://guix.gnu.org/en/blog/2026/extending-guix/)
 * [2026-10-08, 13:08:00](https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment) - [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
-* [2026-10-08, 12:23:28](https://lobste.rs/s/mosbat/thinking_will_become_hobby) - [Thinking will become a hobby](https://www.spinellis.gr/blog/20261008/?li261008)
 * [2026-10-08, 12:16:07](https://lobste.rs/s/t4fwqd/specialargs_considered_harmful) - [`specialArgs` considered harmful](https://ysun.co/special/)
 * [2026-10-08, 11:58:52](https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy) - [The Performance Cost of RwLock in Our Read-Heavy Workload](https://pranitha.dev/posts/rwlock-vs-lockfree/)
 * [2026-10-08, 10:00:39](https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256) - [Migrating Git repos to SHA-256](https://exa.y2k.diy/garden/git-sha256/)
