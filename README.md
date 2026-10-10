@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-10, 01:37:07](https://lobste.rs/s/nxspz6/no_man_is_island) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
 * [2026-10-09, 21:44:50](https://lobste.rs/s/qwqne6/lifeguard_static_analyzer_for_python) - [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
 * [2026-10-09, 21:27:20](https://lobste.rs/s/o8xo9z/importance_communities_around_software) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-09, 21:20:03](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not) - [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not)
@@ -19,7 +20,6 @@
 * [2026-10-09, 12:08:09](https://lobste.rs/s/3zcaxw/there_are_many_themes_this_one_is_yours) - [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
 * [2026-10-09, 11:09:10](https://lobste.rs/s/ily7as/programming_isn_t_special) - [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-09, 06:51:52](https://lobste.rs/s/m2ixv3/deeper_dive_keyboard_differences) - [Deeper dive: Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
-* [2026-10-09, 05:30:04](https://lobste.rs/s/dstt3o/reducing_undefined_behavior_c_language) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 * [2026-10-08, 23:21:57](https://lobste.rs/s/3gikyb/bevy_0_20) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 19:06:25](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb) - [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
 * [2026-10-08, 14:43:19](https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling) - [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
