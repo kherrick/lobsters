@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-10, 01:37:07",
+      "https://lobste.rs/s/nxspz6/no_man_is_island"
+    ],
+    [
+      "No Man Is an Island",
+      "https://borretti.me/article/no-man-is-an-island"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 21:44:50",
       "https://lobste.rs/s/qwqne6/lifeguard_static_analyzer_for_python"
     ],
@@ -187,16 +197,6 @@
     [
       "Deeper dive: Keyboard differences between Windows and Macs",
       "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 05:30:04",
-      "https://lobste.rs/s/dstt3o/reducing_undefined_behavior_c_language"
-    ],
-    [
-      "Reducing undefined behavior in the C language",
-      "https://lwn.net/Articles/1095811/"
     ]
   ],
   [
