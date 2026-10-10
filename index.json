@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-10, 08:42:06",
+      "https://lobste.rs/s/gqaqgq/voxlocal_minimal_voice_agent_written"
+    ],
+    [
+      "Voxlocal: a minimal voice agent written in Rust",
+      "https://samkhawase.com/blog/voxlocal-minimal-voice-agent/"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 07:20:53",
       "https://lobste.rs/s/txa6dj/1_click_mmi_execution_android"
     ],
@@ -227,16 +237,6 @@
     [
       "Bevy 0.20",
       "https://bevy.org/news/bevy-0-20/"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 19:06:25",
-      "https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb"
-    ],
-    [
-      "64-Day Certificate Lifetimes Coming Feb 2027",
-      "https://letsencrypt.org/2026/10/07/64-day-certs.html"
     ]
   ],
   [
