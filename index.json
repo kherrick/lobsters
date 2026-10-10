@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-10, 17:05:41",
+      "https://lobste.rs/s/5zbbd0/sntpings_draw_on_canvas_using_icmpv6"
+    ],
+    [
+      "SNTPings, draw on a canvas using ICMPv6",
+      "https://pings.utwente.io/"
+    ]
+  ],
+  [
+    [
+      "2026-10-10, 16:56:48",
+      "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait"
+    ],
+    [
+      "Why 'externalized' proofs of cyclic trait impls does not work",
+      "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 14:56:06",
       "https://lobste.rs/s/roij3t/reporting_vulnerabilities_estonian"
     ],
@@ -67,16 +87,6 @@
     [
       "There's little that's \"inevitable\" about AI",
       "https://deadsimpletech.com/blog/llms-arent-inevitable"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 08:42:06",
-      "https://lobste.rs/s/gqaqgq/voxlocal_minimal_voice_agent_written"
-    ],
-    [
-      "Voxlocal: a minimal voice agent written in Rust",
-      "https://samkhawase.com/blog/voxlocal-minimal-voice-agent/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Deepthi Sigireddi from Supabase",
       "https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 13:33:23",
-      "https://lobste.rs/s/8mj9bb/spinlocks_considered_harmful_2020"
-    ],
-    [
-      "Spinlocks Considered Harmful (2020)",
-      "https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html"
     ]
   ],
   [
