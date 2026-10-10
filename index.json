@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-10, 14:49:49",
+      "https://lobste.rs/s/a1ser9/culpert_rust_heap_profiling_with_span"
+    ],
+    [
+      "culpert - rust heap profiling with span awareness and regression tooling",
+      "https://github.com/rupert648/culpert"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 13:48:45",
       "https://lobste.rs/s/ptnq74/dassdl3_idiomatic_sdl3_bindings_for"
     ],
@@ -107,16 +117,6 @@
     [
       "Lifeguard: A static analyzer for Python lazy imports compatibility",
       "https://github.com/Facebook/lifeguard"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 21:27:20",
-      "https://lobste.rs/s/o8xo9z/importance_communities_around_software"
-    ],
-    [
-      "The importance of communities around software",
-      "https://lumi.codeberg.page/blog/software-community.html"
     ]
   ],
   [
