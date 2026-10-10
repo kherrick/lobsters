@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-10, 11:53:29",
+      "https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial"
+    ],
+    [
+      "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+      "https://lightbulbcomputer.com/"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 09:08:30",
       "https://lobste.rs/s/lgxq91/there_s_little_s_inevitable_about_ai"
     ],
@@ -187,16 +197,6 @@
     [
       "Spinlocks Considered Harmful (2020)",
       "https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 13:01:43",
-      "https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix"
-    ],
-    [
-      "HIP and ROCm as first-class citizens in Guix",
-      "https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/"
     ]
   ],
   [
