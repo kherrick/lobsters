@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-10, 23:25:51](https://lobste.rs/s/fbs3k7/making_np_searchsorted_up_25x_faster) - [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://blog.scientific-python.org/numpy/searchsorted/)
 * [2026-10-10, 22:25:14](https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent) - [Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation](https://arxiv.org/html/2610.05978v1)
 * [2026-10-10, 21:28:51](https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched) - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
 * [2026-10-10, 21:06:15](https://lobste.rs/s/9ros7d/2d_physics_prototype_behind_gta_s) - [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
@@ -23,7 +24,6 @@
 * [2026-10-09, 15:32:51](https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source) - [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
 * [2026-10-09, 14:30:28](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably) - [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
 * [2026-10-09, 14:22:04](https://lobste.rs/s/t5htlf/why_are_coding_agents_so_dumb) - [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
-* [2026-10-09, 14:14:17](https://lobste.rs/s/ha0qt7/robot_is_social_construct_why_your) - [\"Robot\" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
 * [2026-10-09, 11:09:10](https://lobste.rs/s/ily7as/programming_isn_t_special) - [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 
 ## [Archives](archives/index.md)
