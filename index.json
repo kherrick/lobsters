@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-10, 23:25:51",
+      "https://lobste.rs/s/fbs3k7/making_np_searchsorted_up_25x_faster"
+    ],
+    [
+      "Making np.searchsorted up to 25× Faster in NumPy 2.5",
+      "https://blog.scientific-python.org/numpy/searchsorted/"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 22:25:14",
       "https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent"
     ],
@@ -227,16 +237,6 @@
     [
       "Why Are Coding Agents So Dumb?",
       "https://mtlynch.io/why-are-coding-agents-so-dumb/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 14:14:17",
-      "https://lobste.rs/s/ha0qt7/robot_is_social_construct_why_your"
-    ],
-    [
-      "\"Robot\" Is A Social Construct: Why Your Dishwasher Is Not A Robot",
-      "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/"
     ]
   ],
   [
