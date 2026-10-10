@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
+* [2026-10-10, 05:34:40](https://lobste.rs/s/skpliy/adding_go_s_defer_typescript_compiler) - [Adding Go's defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
 * [2026-10-10, 01:37:07](https://lobste.rs/s/nxspz6/no_man_is_island) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
 * [2026-10-09, 21:44:50](https://lobste.rs/s/qwqne6/lifeguard_static_analyzer_for_python) - [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
 * [2026-10-09, 21:27:20](https://lobste.rs/s/o8xo9z/importance_communities_around_software) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-09, 21:20:03](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not) - [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not)
-* [2026-10-09, 20:25:21](https://lobste.rs/s/yrcmjj/practical_guide_plug_pwn_for_pentesters) - [A Practical Guide to “Plug&Pwn” for Pentesters and Defenders](https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/)
 * [2026-10-09, 19:31:17](https://lobste.rs/s/dsbt5a/branches_branch_free_code) - [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 * [2026-10-09, 17:49:54](https://lobste.rs/s/5n7zxa/equality_saturation_incomplete_project) - [Equality Saturation: An “Incomplete” Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/)
 * [2026-10-09, 17:45:44](https://lobste.rs/s/9xcc2g/vectorized_clz_ctz) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
@@ -23,7 +24,6 @@
 * [2026-10-08, 23:21:57](https://lobste.rs/s/3gikyb/bevy_0_20) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 19:06:25](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb) - [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html)
 * [2026-10-08, 14:43:19](https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling) - [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/)
-* [2026-10-08, 13:08:00](https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment) - [Ending the Casuarina Linux Experiment](https://casuarina.org/news/ending-the-casuarina-linux-experiment/)
 * [2026-10-08, 08:18:39](https://lobste.rs/s/lhr4oy/people_holding_up_internet) - [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet)
 
 ## [Archives](archives/index.md)
