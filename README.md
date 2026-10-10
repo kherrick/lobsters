@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-10, 12:24:42](https://lobste.rs/s/pmwc4h/mars_pathfinder_priority_inversion_bug) - [Mars Pathfinder Priority Inversion Bug: What Really Happened](https://nerdyelectronics.com/mars-pathfinder-what-really-happened/)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
 * [2026-10-10, 09:08:30](https://lobste.rs/s/lgxq91/there_s_little_s_inevitable_about_ai) - [There's little that's \"inevitable\" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
 * [2026-10-10, 08:42:06](https://lobste.rs/s/gqaqgq/voxlocal_minimal_voice_agent_written) - [Voxlocal: a minimal voice agent written in Rust](https://samkhawase.com/blog/voxlocal-minimal-voice-agent/)
@@ -11,7 +12,6 @@
 * [2026-10-09, 21:27:20](https://lobste.rs/s/o8xo9z/importance_communities_around_software) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-09, 21:20:03](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not) - [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not)
 * [2026-10-09, 19:31:17](https://lobste.rs/s/dsbt5a/branches_branch_free_code) - [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
-* [2026-10-09, 17:49:54](https://lobste.rs/s/5n7zxa/equality_saturation_incomplete_project) - [Equality Saturation: An “Incomplete” Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/)
 * [2026-10-09, 17:45:44](https://lobste.rs/s/9xcc2g/vectorized_clz_ctz) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 * [2026-10-09, 17:07:02](https://lobste.rs/s/rpiwtb/python_3_15_0) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 * [2026-10-09, 15:32:51](https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source) - [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/)
