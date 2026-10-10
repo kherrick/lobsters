@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-10, 13:48:45](https://lobste.rs/s/ptnq74/dassdl3_idiomatic_sdl3_bindings_for) - [dasSDL3: Idiomatic SDL3 bindings for daslang](https://spiiin.github.io/blog/339855472/)
 * [2026-10-10, 12:54:56](https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content) - [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
 * [2026-10-10, 12:24:42](https://lobste.rs/s/pmwc4h/mars_pathfinder_priority_inversion_bug) - [Mars Pathfinder Priority Inversion Bug: What Really Happened](https://nerdyelectronics.com/mars-pathfinder-what-really-happened/)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
@@ -22,7 +23,6 @@
 * [2026-10-09, 13:56:41](https://lobste.rs/s/pmzbuu/deepthi_sigireddi_from_supabase) - [Deepthi Sigireddi from Supabase](https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html)
 * [2026-10-09, 13:33:23](https://lobste.rs/s/8mj9bb/spinlocks_considered_harmful_2020) - [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html)
 * [2026-10-09, 12:53:09](https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend)
-* [2026-10-09, 12:17:01](https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu) - [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/)
 * [2026-10-09, 12:08:09](https://lobste.rs/s/3zcaxw/there_are_many_themes_this_one_is_yours) - [There are many themes, but this one is yours](https://earendil.com/posts/system-theme/)
 * [2026-10-09, 11:09:10](https://lobste.rs/s/ily7as/programming_isn_t_special) - [Programming Isn’t Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 
