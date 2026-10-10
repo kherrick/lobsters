@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-10, 02:18:02",
-      "https://lobste.rs/s/46lhbm/patches_updated_begin_removing_linux_x32"
-    ],
-    [
-      "Patches Updated To Begin Removing The Linux x32 ABI",
-      "https://www.phoronix.com/news/Patches-Removing-Linux-x32-ABI"
-    ]
-  ],
-  [
-    [
       "2026-10-10, 01:37:07",
       "https://lobste.rs/s/nxspz6/no_man_is_island"
     ],
@@ -47,6 +37,16 @@
     [
       "Cloudflare shutting down Deno is news, not just PR",
       "https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 20:25:21",
+      "https://lobste.rs/s/yrcmjj/practical_guide_plug_pwn_for_pentesters"
+    ],
+    [
+      "A Practical Guide to “Plug&Pwn” for Pentesters and Defenders",
+      "https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/"
     ]
   ],
   [
