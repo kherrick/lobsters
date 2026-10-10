@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 09:08:30](https://lobste.rs/s/lgxq91/there_s_little_s_inevitable_about_ai) - [There's little that's \"inevitable\" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
 * [2026-10-10, 08:42:06](https://lobste.rs/s/gqaqgq/voxlocal_minimal_voice_agent_written) - [Voxlocal: a minimal voice agent written in Rust](https://samkhawase.com/blog/voxlocal-minimal-voice-agent/)
 * [2026-10-10, 07:20:53](https://lobste.rs/s/txa6dj/1_click_mmi_execution_android) - [1-click MMI execution in Android](https://karansaini.com/mmi-android/)
 * [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
