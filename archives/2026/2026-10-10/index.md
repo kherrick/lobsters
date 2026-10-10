@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
 * [2026-10-10, 09:08:30](https://lobste.rs/s/lgxq91/there_s_little_s_inevitable_about_ai) - [There's little that's \"inevitable\" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
 * [2026-10-10, 08:42:06](https://lobste.rs/s/gqaqgq/voxlocal_minimal_voice_agent_written) - [Voxlocal: a minimal voice agent written in Rust](https://samkhawase.com/blog/voxlocal-minimal-voice-agent/)
 * [2026-10-10, 07:20:53](https://lobste.rs/s/txa6dj/1_click_mmi_execution_android) - [1-click MMI execution in Android](https://karansaini.com/mmi-android/)
