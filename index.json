@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-10, 14:56:06",
+      "https://lobste.rs/s/roij3t/reporting_vulnerabilities_estonian"
+    ],
+    [
+      "Reporting vulnerabilities to Estonian companies",
+      "https://www.youtube.com/watch?v=4gcSlBORoTI"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 14:49:49",
       "https://lobste.rs/s/a1ser9/culpert_rust_heap_profiling_with_span"
     ],
@@ -137,16 +147,6 @@
     [
       "Branches in branch-free code",
       "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 17:45:44",
-      "https://lobste.rs/s/9xcc2g/vectorized_clz_ctz"
-    ],
-    [
-      "Vectorized CLZ and CTZ",
-      "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/"
     ]
   ],
   [
