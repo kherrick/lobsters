@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-10, 17:55:46](https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0) - [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
 * [2026-10-10, 17:05:41](https://lobste.rs/s/5zbbd0/sntpings_draw_on_canvas_using_icmpv6) - [SNTPings, draw on a canvas using ICMPv6](https://pings.utwente.io/)
 * [2026-10-10, 16:56:48](https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait) - [Why 'externalized' proofs of cyclic trait impls does not work](https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/)
 * [2026-10-10, 14:56:06](https://lobste.rs/s/roij3t/reporting_vulnerabilities_estonian) - [Reporting vulnerabilities to Estonian companies](https://www.youtube.com/watch?v=4gcSlBORoTI)
 * [2026-10-10, 14:49:49](https://lobste.rs/s/a1ser9/culpert_rust_heap_profiling_with_span) - [culpert - rust heap profiling with span awareness and regression tooling](https://github.com/rupert648/culpert)
-* [2026-10-10, 13:48:45](https://lobste.rs/s/ptnq74/dassdl3_idiomatic_sdl3_bindings_for) - [dasSDL3: Idiomatic SDL3 bindings for daslang](https://spiiin.github.io/blog/339855472/)
 * [2026-10-10, 12:54:56](https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content) - [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
 * [2026-10-10, 12:24:42](https://lobste.rs/s/pmwc4h/mars_pathfinder_priority_inversion_bug) - [Mars Pathfinder Priority Inversion Bug: What Really Happened](https://nerdyelectronics.com/mars-pathfinder-what-really-happened/)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)

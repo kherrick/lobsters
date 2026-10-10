@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 17:55:46](https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0) - [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
 * [2026-10-10, 17:05:41](https://lobste.rs/s/5zbbd0/sntpings_draw_on_canvas_using_icmpv6) - [SNTPings, draw on a canvas using ICMPv6](https://pings.utwente.io/)
 * [2026-10-10, 16:56:48](https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait) - [Why 'externalized' proofs of cyclic trait impls does not work](https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/)
 * [2026-10-10, 14:56:06](https://lobste.rs/s/roij3t/reporting_vulnerabilities_estonian) - [Reporting vulnerabilities to Estonian companies](https://www.youtube.com/watch?v=4gcSlBORoTI)
