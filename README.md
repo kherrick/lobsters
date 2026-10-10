@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-10, 14:49:49](https://lobste.rs/s/a1ser9/culpert_rust_heap_profiling_with_span) - [culpert - rust heap profiling with span awareness and regression tooling](https://github.com/rupert648/culpert)
 * [2026-10-10, 13:48:45](https://lobste.rs/s/ptnq74/dassdl3_idiomatic_sdl3_bindings_for) - [dasSDL3: Idiomatic SDL3 bindings for daslang](https://spiiin.github.io/blog/339855472/)
 * [2026-10-10, 12:54:56](https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content) - [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
 * [2026-10-10, 12:24:42](https://lobste.rs/s/pmwc4h/mars_pathfinder_priority_inversion_bug) - [Mars Pathfinder Priority Inversion Bug: What Really Happened](https://nerdyelectronics.com/mars-pathfinder-what-really-happened/)
@@ -11,7 +12,6 @@
 * [2026-10-10, 05:34:40](https://lobste.rs/s/skpliy/adding_go_s_defer_typescript_compiler) - [Adding Go's defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
 * [2026-10-10, 01:37:07](https://lobste.rs/s/nxspz6/no_man_is_island) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
 * [2026-10-09, 21:44:50](https://lobste.rs/s/qwqne6/lifeguard_static_analyzer_for_python) - [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
-* [2026-10-09, 21:27:20](https://lobste.rs/s/o8xo9z/importance_communities_around_software) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-09, 21:20:03](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not) - [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not)
 * [2026-10-09, 19:31:17](https://lobste.rs/s/dsbt5a/branches_branch_free_code) - [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 * [2026-10-09, 17:45:44](https://lobste.rs/s/9xcc2g/vectorized_clz_ctz) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
