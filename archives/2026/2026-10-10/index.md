@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 22:25:14](https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent) - [Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation](https://arxiv.org/html/2610.05978v1)
 * [2026-10-10, 21:28:51](https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched) - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
 * [2026-10-10, 21:06:15](https://lobste.rs/s/9ros7d/2d_physics_prototype_behind_gta_s) - [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-10, 17:55:46](https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0) - [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
