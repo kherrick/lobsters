@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-10, 13:48:45",
+      "https://lobste.rs/s/ptnq74/dassdl3_idiomatic_sdl3_bindings_for"
+    ],
+    [
+      "dasSDL3: Idiomatic SDL3 bindings for daslang",
+      "https://spiiin.github.io/blog/339855472/"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 12:54:56",
       "https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content"
     ],
@@ -217,16 +227,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 12:17:01",
-      "https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu"
-    ],
-    [
-      "A minimal kernel in Swift, running in QEMU",
-      "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/"
     ]
   ],
   [
