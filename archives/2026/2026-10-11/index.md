@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 18:26:27](https://lobste.rs/s/lxsu0m/making_react_context_cheap_with_react) - [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
 * [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 * [2026-10-11, 17:43:46](https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites) - [The wild west of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
 * [2026-10-11, 16:59:58](https://lobste.rs/s/zziknb/arena_allocators_c) - [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)

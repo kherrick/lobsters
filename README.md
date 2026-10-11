@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-11, 18:26:27](https://lobste.rs/s/lxsu0m/making_react_context_cheap_with_react) - [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
 * [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 * [2026-10-11, 17:43:46](https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites) - [The wild west of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
 * [2026-10-11, 16:59:58](https://lobste.rs/s/zziknb/arena_allocators_c) - [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
@@ -21,7 +22,6 @@
 * [2026-10-10, 17:05:41](https://lobste.rs/s/5zbbd0/sntpings_draw_on_canvas_using_icmpv6) - [SNTPings, draw on a canvas using ICMPv6](https://pings.utwente.io/)
 * [2026-10-10, 16:56:48](https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait) - [Why 'externalized' proofs of cyclic trait impls does not work](https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/)
 * [2026-10-10, 12:54:56](https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content) - [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
-* [2026-10-10, 12:24:42](https://lobste.rs/s/pmwc4h/mars_pathfinder_priority_inversion_bug) - [Mars Pathfinder Priority Inversion Bug: What Really Happened](https://nerdyelectronics.com/mars-pathfinder-what-really-happened/)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
 * [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
 * [2026-10-10, 01:37:07](https://lobste.rs/s/nxspz6/no_man_is_island) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
