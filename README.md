@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-11, 09:37:56](https://lobste.rs/s/u9ue6c/what_s_wrong_with_github) - [What's Wrong with GitHub](https://www.gnu.org/philosophy/whats-wrong-with-github.html)
 * [2026-10-11, 09:25:42](https://lobste.rs/s/9wcfld/how_big_is_git_commit_ratfactor) - [How big is a Git commit? - ratfactor](https://ratfactor.com/cards/git-commit-size)
 * [2026-10-11, 06:21:34](https://lobste.rs/s/7mllxi/json_tiles_fast_analytics_on_semi) - [JSON Tiles: Fast Analytics on Semi-Structured Data (2021)](https://db.cit.tum.de/~durner/papers/json-tiles-sigmod21.pdf)
 * [2026-10-11, 06:21:25](https://lobste.rs/s/ecxril/lineageos_24_0_released) - [LineageOS 24.0 released](https://lineageos.org/Changelog-32/)
@@ -17,7 +18,6 @@
 * [2026-10-10, 12:24:42](https://lobste.rs/s/pmwc4h/mars_pathfinder_priority_inversion_bug) - [Mars Pathfinder Priority Inversion Bug: What Really Happened](https://nerdyelectronics.com/mars-pathfinder-what-really-happened/)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
 * [2026-10-10, 09:08:30](https://lobste.rs/s/lgxq91/there_s_little_s_inevitable_about_ai) - [There's little that's \"inevitable\" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
-* [2026-10-10, 07:20:53](https://lobste.rs/s/txa6dj/1_click_mmi_execution_android) - [1-click MMI execution in Android](https://karansaini.com/mmi-android/)
 * [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
 * [2026-10-10, 01:37:07](https://lobste.rs/s/nxspz6/no_man_is_island) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
 * [2026-10-09, 17:07:02](https://lobste.rs/s/rpiwtb/python_3_15_0) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
