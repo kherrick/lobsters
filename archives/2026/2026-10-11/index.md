@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 22:01:59](https://lobste.rs/s/dxftjg/tello_s_gamesir_t1d_controller_as_linux) - [Tello's GameSir T1d controller as a Linux Xbox controller](https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/)
 * [2026-10-11, 21:25:41](https://lobste.rs/s/foynmj/reviewing_code_agent_era) - [Reviewing code in the agent era](https://linear.app/now/reviewing-code-in-the-agent-era)
 * [2026-10-11, 20:36:07](https://lobste.rs/s/qgybwb/d_bus_hell) - [D-Bus Hell](https://dbushell.com/2026/10/11/d-bus-hell/)
 * [2026-10-11, 19:21:16](https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement) - [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
