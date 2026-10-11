@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-11, 20:36:07",
+      "https://lobste.rs/s/qgybwb/d_bus_hell"
+    ],
+    [
+      "D-Bus Hell",
+      "https://dbushell.com/2026/10/11/d-bus-hell/"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 19:21:16",
       "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement"
     ],
@@ -157,16 +167,6 @@
     [
       "Making np.searchsorted up to 25× Faster in NumPy 2.5",
       "https://blog.scientific-python.org/numpy/searchsorted/"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 22:25:14",
-      "https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent"
-    ],
-    [
-      "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
-      "https://arxiv.org/html/2610.05978v1"
     ]
   ],
   [
