@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-11, 16:59:58](https://lobste.rs/s/zziknb/arena_allocators_c) - [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
+* [2026-10-11, 16:54:26](https://lobste.rs/s/lwwtpu/what_we_ended_up_doing_about_alias) - [What we ended up doing about alias propagation](https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html)
 * [2026-10-11, 14:44:03](https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-11, 12:23:01](https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
 * [2026-10-11, 11:54:20](https://lobste.rs/s/e84scc/hacking_eufy_doorbell_base_station) - [Hacking the Eufy Doorbell and Base Station](https://adepts.of0x.cc/Eufy-DoorBell-hacking/)
@@ -20,10 +22,8 @@
 * [2026-10-10, 12:54:56](https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content) - [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
 * [2026-10-10, 12:24:42](https://lobste.rs/s/pmwc4h/mars_pathfinder_priority_inversion_bug) - [Mars Pathfinder Priority Inversion Bug: What Really Happened](https://nerdyelectronics.com/mars-pathfinder-what-really-happened/)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
-* [2026-10-10, 09:08:30](https://lobste.rs/s/lgxq91/there_s_little_s_inevitable_about_ai) - [There's little that's \"inevitable\" about AI](https://deadsimpletech.com/blog/llms-arent-inevitable)
 * [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
 * [2026-10-10, 01:37:07](https://lobste.rs/s/nxspz6/no_man_is_island) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
-* [2026-10-09, 17:07:02](https://lobste.rs/s/rpiwtb/python_3_15_0) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 * [2026-10-09, 14:30:28](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably) - [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/)
 
 ## [Archives](archives/index.md)

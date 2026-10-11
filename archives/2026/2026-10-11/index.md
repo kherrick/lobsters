@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 16:59:58](https://lobste.rs/s/zziknb/arena_allocators_c) - [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
+* [2026-10-11, 16:54:26](https://lobste.rs/s/lwwtpu/what_we_ended_up_doing_about_alias) - [What we ended up doing about alias propagation](https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html)
 * [2026-10-11, 14:44:03](https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-11, 13:57:47](https://lobste.rs/s/tcfind/quaesito_self_hosted_app_for_quiz_nights) - [Quaesito: a self-hosted app for quiz nights with friends](https://github.com/ggirelli/quaesito)
 * [2026-10-11, 12:23:01](https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
