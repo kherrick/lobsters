@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-11, 23:28:36",
+      "https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years"
+    ],
+    [
+      "Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)",
+      "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 22:01:59",
       "https://lobste.rs/s/dxftjg/tello_s_gamesir_t1d_controller_as_linux"
     ],
@@ -197,16 +207,6 @@
     [
       "Kiesel Devlog #15: Release 0.4.0",
       "https://linus.dev/posts/kiesel-devlog-15/"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 16:56:48",
-      "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait"
-    ],
-    [
-      "Why 'externalized' proofs of cyclic trait impls does not work",
-      "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/"
     ]
   ],
   [
