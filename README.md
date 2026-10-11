@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-11, 00:51:28](https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property) - [Consistency is not a localized property](https://n-the-loop.com/blog/consistency-is-not-a-localized-property/)
 * [2026-10-10, 23:25:51](https://lobste.rs/s/fbs3k7/making_np_searchsorted_up_25x_faster) - [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://blog.scientific-python.org/numpy/searchsorted/)
 * [2026-10-10, 22:25:14](https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent) - [Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation](https://arxiv.org/html/2610.05978v1)
 * [2026-10-10, 21:28:51](https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched) - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
@@ -17,7 +18,6 @@
 * [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
 * [2026-10-10, 05:34:40](https://lobste.rs/s/skpliy/adding_go_s_defer_typescript_compiler) - [Adding Go's defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
 * [2026-10-10, 01:37:07](https://lobste.rs/s/nxspz6/no_man_is_island) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
-* [2026-10-09, 21:44:50](https://lobste.rs/s/qwqne6/lifeguard_static_analyzer_for_python) - [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
 * [2026-10-09, 21:20:03](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not) - [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not)
 * [2026-10-09, 19:31:17](https://lobste.rs/s/dsbt5a/branches_branch_free_code) - [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 * [2026-10-09, 17:07:02](https://lobste.rs/s/rpiwtb/python_3_15_0) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
