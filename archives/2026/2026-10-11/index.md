@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 20:36:07](https://lobste.rs/s/qgybwb/d_bus_hell) - [D-Bus Hell](https://dbushell.com/2026/10/11/d-bus-hell/)
 * [2026-10-11, 19:21:16](https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement) - [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
 * [2026-10-11, 18:26:27](https://lobste.rs/s/lxsu0m/making_react_context_cheap_with_react) - [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
 * [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)

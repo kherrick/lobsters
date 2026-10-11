@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-11, 20:36:07](https://lobste.rs/s/qgybwb/d_bus_hell) - [D-Bus Hell](https://dbushell.com/2026/10/11/d-bus-hell/)
 * [2026-10-11, 19:21:16](https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement) - [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
 * [2026-10-11, 18:26:27](https://lobste.rs/s/lxsu0m/making_react_context_cheap_with_react) - [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
 * [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
@@ -16,7 +17,6 @@
 * [2026-10-11, 06:16:26](https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire) - [How shredding JSON is giving Logfire 1000x query speedups](https://pydantic.dev/articles/dynamic-shredding-2026-01-26)
 * [2026-10-11, 00:51:28](https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property) - [Consistency is not a localized property](https://n-the-loop.com/blog/consistency-is-not-a-localized-property/)
 * [2026-10-10, 23:25:51](https://lobste.rs/s/fbs3k7/making_np_searchsorted_up_25x_faster) - [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://blog.scientific-python.org/numpy/searchsorted/)
-* [2026-10-10, 22:25:14](https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent) - [Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation](https://arxiv.org/html/2610.05978v1)
 * [2026-10-10, 21:28:51](https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched) - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
 * [2026-10-10, 21:06:15](https://lobste.rs/s/9ros7d/2d_physics_prototype_behind_gta_s) - [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-10, 17:55:46](https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0) - [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
