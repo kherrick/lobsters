@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 23:28:36](https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years) - [Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
 * [2026-10-11, 22:01:59](https://lobste.rs/s/dxftjg/tello_s_gamesir_t1d_controller_as_linux) - [Tello's GameSir T1d controller as a Linux Xbox controller](https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/)
 * [2026-10-11, 21:25:41](https://lobste.rs/s/foynmj/reviewing_code_agent_era) - [Reviewing code in the agent era](https://linear.app/now/reviewing-code-in-the-agent-era)
 * [2026-10-11, 20:36:07](https://lobste.rs/s/qgybwb/d_bus_hell) - [D-Bus Hell](https://dbushell.com/2026/10/11/d-bus-hell/)
