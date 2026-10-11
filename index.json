@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-11, 21:25:41",
-      "https://lobste.rs/s/foynmj/reviewing_code_agent_era"
-    ],
-    [
-      "Reviewing code in the agent era",
-      "https://linear.app/now/reviewing-code-in-the-agent-era"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 20:36:07",
       "https://lobste.rs/s/qgybwb/d_bus_hell"
     ],
@@ -207,6 +197,16 @@
     [
       "Kiesel Devlog #15: Release 0.4.0",
       "https://linus.dev/posts/kiesel-devlog-15/"
+    ]
+  ],
+  [
+    [
+      "2026-10-10, 16:56:48",
+      "https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait"
+    ],
+    [
+      "Why 'externalized' proofs of cyclic trait impls does not work",
+      "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/"
     ]
   ],
   [
