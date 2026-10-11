@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-11, 19:21:16](https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement) - [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
 * [2026-10-11, 18:26:27](https://lobste.rs/s/lxsu0m/making_react_context_cheap_with_react) - [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
 * [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 * [2026-10-11, 17:43:46](https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites) - [The wild west of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
@@ -19,7 +20,6 @@
 * [2026-10-10, 21:28:51](https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched) - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
 * [2026-10-10, 21:06:15](https://lobste.rs/s/9ros7d/2d_physics_prototype_behind_gta_s) - [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-10, 17:55:46](https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0) - [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
-* [2026-10-10, 17:05:41](https://lobste.rs/s/5zbbd0/sntpings_draw_on_canvas_using_icmpv6) - [SNTPings, draw on a canvas using ICMPv6](https://pings.utwente.io/)
 * [2026-10-10, 16:56:48](https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait) - [Why 'externalized' proofs of cyclic trait impls does not work](https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/)
 * [2026-10-10, 12:54:56](https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content) - [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
