@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-11, 13:57:47",
-      "https://lobste.rs/s/tcfind/quaesito_self_hosted_app_for_quiz_nights"
-    ],
-    [
-      "Quaesito: a self-hosted app for quiz nights with friends",
-      "https://github.com/ggirelli/quaesito"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 12:23:01",
       "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow"
     ],
@@ -247,6 +237,16 @@
     [
       "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
       "https://blueberrywren.dev/blog/primes/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 11:09:10",
+      "https://lobste.rs/s/ily7as/programming_isn_t_special"
+    ],
+    [
+      "Programming Isn’t Special",
+      "https://blog.glyph.im/2026/10/programming-isnt-special.html"
     ]
   ]
 ]
