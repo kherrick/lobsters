@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-12, 13:48:28",
+      "https://lobste.rs/s/jdz7xd/unprecedented_cyberattack_cripples"
+    ],
+    [
+      "'Unprecedented' Cyberattack cripples supermarket fridges across Europe",
+      "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 13:44:38",
+      "https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right"
+    ],
+    [
+      "(Post-Quantum) Cryptographic Right Answers",
+      "https://words.filippo.io/right-answers/"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 12:23:52",
       "https://lobste.rs/s/u4vlin/french_supermarket_chains_say"
     ],
@@ -27,6 +47,16 @@
     [
       "Living in the Weimar era of Ruby",
       "https://blog.julik.nl/2026/10/the-weimar-of-ruby"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 10:39:10",
+      "https://lobste.rs/s/dujxbl/type_safe_html_templating_zig"
+    ],
+    [
+      "Type-safe HTML templating in Zig",
+      "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-10-12, 08:32:12",
-      "https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin"
-    ],
-    [
-      "Implementing kubernetes node bin packing",
-      "https://blog.costgraph.ai/node-rightsizing/"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 08:27:11",
       "https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war"
     ],
@@ -97,16 +117,6 @@
     [
       "3-2-1 Backup Strategy with restic and Backblaze B2",
       "https://chuck.is/paranoid/"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 01:49:50",
-      "https://lobste.rs/s/cthze7/refurb_weekend_ii_alpha_micro_eagle_300"
-    ],
-    [
-      "Refurb weekend II: Alpha Micro Eagle 300 and friends",
-      "https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)",
       "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 22:01:59",
-      "https://lobste.rs/s/dxftjg/tello_s_gamesir_t1d_controller_as_linux"
-    ],
-    [
-      "Tello's GameSir T1d controller as a Linux Xbox controller",
-      "https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/"
     ]
   ],
   [
