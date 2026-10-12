@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 16:12:10](https://lobste.rs/s/jhraa2/nobloat_poll_designing_minimal_poll_tool) - [nobloat/poll - designing a minimal poll tool](https://nobloat.org/articles/2026-10-11-nobloat-poll.html)
 * [2026-10-12, 15:24:45](https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second) - [Parsing JSON at tens of gigabytes per second… in Python](https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/)
 * [2026-10-12, 14:40:35](https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution) - [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
 * [2026-10-12, 13:44:38](https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
@@ -23,7 +24,6 @@
 * [2026-10-11, 14:44:03](https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-11, 12:23:01](https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
 * [2026-10-11, 09:37:56](https://lobste.rs/s/u9ue6c/what_s_wrong_with_github) - [What's Wrong with GitHub](https://www.gnu.org/philosophy/whats-wrong-with-github.html)
-* [2026-10-11, 09:25:42](https://lobste.rs/s/9wcfld/how_big_is_git_commit) - [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
 * [2026-10-11, 06:21:25](https://lobste.rs/s/ecxril/lineageos_24_0_released) - [LineageOS 24.0 released](https://lineageos.org/Changelog-32/)
 
 ## [Archives](archives/index.md)
