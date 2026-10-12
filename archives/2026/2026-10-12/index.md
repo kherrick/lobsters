@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 14:40:35](https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution) - [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
 * [2026-10-12, 13:48:28](https://lobste.rs/s/jdz7xd/unprecedented_cyberattack_cripples) - ['Unprecedented' Cyberattack cripples supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 * [2026-10-12, 13:44:38](https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 12:23:52](https://lobste.rs/s/u4vlin/french_supermarket_chains_say) - [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
