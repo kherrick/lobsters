@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-12, 14:40:35",
+      "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"
+    ],
+    [
+      "Finding a $90,000 Remote Code Execution Vulnerability in Google",
+      "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 13:44:38",
       "https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-10-12, 08:32:12",
-      "https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin"
-    ],
-    [
-      "Implementing kubernetes node bin packing",
-      "https://blog.costgraph.ai/node-rightsizing/"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 08:27:11",
       "https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war"
     ],
@@ -117,6 +117,16 @@
     [
       "3-2-1 Backup Strategy with restic and Backblaze B2",
       "https://chuck.is/paranoid/"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 01:49:50",
+      "https://lobste.rs/s/cthze7/refurb_weekend_ii_alpha_micro_eagle_300"
+    ],
+    [
+      "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+      "https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "D-Bus Hell",
       "https://dbushell.com/2026/10/11/d-bus-hell/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 19:21:16",
-      "https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement"
-    ],
-    [
-      "The next-gen borrow checker, a drop-in replacement for Rust borrow checking",
-      "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061"
     ]
   ],
   [
