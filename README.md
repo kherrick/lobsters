@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 20:52:08](https://lobste.rs/s/cjdy6d/modern_web_app_c) - [A modern web app in c](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [2026-10-12, 18:37:55](https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using) - [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
 * [2026-10-12, 18:12:46](https://lobste.rs/s/i1lyv7/512_bytes_at_time_reconstructing_ibm_i) - [512 bytes at a time: reconstructing IBM i save-file checksums](https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/)
 * [2026-10-12, 18:00:48](https://lobste.rs/s/x1ucie/esp32_as_your_raspberry_pi_s_linux) - [ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor](https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/)
@@ -24,7 +25,6 @@
 * [2026-10-11, 16:59:58](https://lobste.rs/s/zziknb/arena_allocators_c) - [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
 * [2026-10-11, 14:44:03](https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-11, 12:23:01](https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
-* [2026-10-11, 09:37:56](https://lobste.rs/s/u9ue6c/what_s_wrong_with_github) - [What's Wrong with GitHub](https://www.gnu.org/philosophy/whats-wrong-with-github.html)
 
 ## [Archives](archives/index.md)
 
