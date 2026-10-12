@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-12, 13:48:28](https://lobste.rs/s/jdz7xd/unprecedented_cyberattack_cripples) - ['Unprecedented' Cyberattack cripples supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 * [2026-10-12, 13:44:38](https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 12:23:52](https://lobste.rs/s/u4vlin/french_supermarket_chains_say) - [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
 * [2026-10-12, 12:01:18](https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer) - [How to effectively debug when you no longer understand the code](https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b)
@@ -10,6 +9,7 @@
 * [2026-10-12, 09:05:44](https://lobste.rs/s/ml9xrb/fingerprints_are_new_cookies) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 * [2026-10-12, 08:59:03](https://lobste.rs/s/gid1h4/linux_boots_on_iphone_11) - [Linux boots on iPhone 11](https://www.patreon.com/partshacker/posts/linux-boots-on-172091834)
 * [2026-10-12, 08:46:10](https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
+* [2026-10-12, 08:32:12](https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin) - [Implementing kubernetes node bin packing](https://blog.costgraph.ai/node-rightsizing/)
 * [2026-10-12, 08:27:11](https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war) - [We Put Fighting Game Netcode in Brood War](https://www.youtube.com/watch?v=vIt9xua9bLc)
 * [2026-10-12, 04:21:09](https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic) - [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
 * [2026-10-12, 01:43:08](https://lobste.rs/s/ezucf0/css_for_underlines) - [CSS for underlines](https://www.rubenerd.au/css-for-underlines/)
