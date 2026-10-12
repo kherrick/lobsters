@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 12:23:52](https://lobste.rs/s/u4vlin/french_supermarket_chains_say) - [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
+* [2026-10-12, 12:01:18](https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer) - [How to effectively debug when you no longer understand the code](https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b)
 * [2026-10-12, 10:59:26](https://lobste.rs/s/lfen2h/living_weimar_era_ruby) - [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
 * [2026-10-12, 10:39:10](https://lobste.rs/s/dujxbl/type_safe_html_templating_zig) - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 * [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
