@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 08:32:12](https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin) - [Implementing kubernetes node bin packing](https://blog.costgraph.ai/node-rightsizing/)
+* [2026-10-12, 08:27:11](https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war) - [We Put Fighting Game Netcode in Brood War](https://www.youtube.com/watch?v=vIt9xua9bLc)
 * [2026-10-12, 07:21:23](https://lobste.rs/s/x0ay4o/x_once_again_marks_spot) - [X Once Again Marks the Spot](https://daringfireball.net/2026/10/x_once_again_marks_the_spot)
 * [2026-10-12, 04:21:09](https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic) - [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
 * [2026-10-12, 02:44:55](https://lobste.rs/s/uzfa4k/when_llm_decompilers_recompile_more) - [When LLM Decompilers Recompile More and Preserve Less](https://arxiv.org/abs/2609.05370)
