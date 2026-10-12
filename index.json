@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-12, 15:24:45",
+      "https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second"
+    ],
+    [
+      "Parsing JSON at tens of gigabytes per second… in Python",
+      "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 14:40:35",
       "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"
     ],
@@ -117,16 +127,6 @@
     [
       "3-2-1 Backup Strategy with restic and Backblaze B2",
       "https://chuck.is/paranoid/"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 01:49:50",
-      "https://lobste.rs/s/cthze7/refurb_weekend_ii_alpha_micro_eagle_300"
-    ],
-    [
-      "Refurb weekend II: Alpha Micro Eagle 300 and friends",
-      "https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html"
     ]
   ],
   [
