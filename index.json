@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-12, 13:48:28",
-      "https://lobste.rs/s/jdz7xd/unprecedented_cyberattack_cripples"
-    ],
-    [
-      "'Unprecedented' Cyberattack cripples supermarket fridges across Europe",
-      "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 13:44:38",
       "https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right"
     ],
@@ -97,6 +87,16 @@
     [
       "Writing a Demoscene Intro for the ZX Spectrum",
       "https://www.markround.com/blog/2026/zx-spectrum-intro"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 08:32:12",
+      "https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin"
+    ],
+    [
+      "Implementing kubernetes node bin packing",
+      "https://blog.costgraph.ai/node-rightsizing/"
     ]
   ],
   [
