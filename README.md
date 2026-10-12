@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-12, 07:21:23](https://lobste.rs/s/x0ay4o/x_once_again_marks_spot) - [X Once Again Marks the Spot](https://daringfireball.net/2026/10/x_once_again_marks_the_spot)
 * [2026-10-12, 04:21:09](https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic) - [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
 * [2026-10-12, 02:44:55](https://lobste.rs/s/uzfa4k/when_llm_decompilers_recompile_more) - [When LLM Decompilers Recompile More and Preserve Less](https://arxiv.org/abs/2609.05370)
 * [2026-10-12, 01:49:50](https://lobste.rs/s/cthze7/refurb_weekend_ii_alpha_micro_eagle_300) - [Refurb weekend II: Alpha Micro Eagle 300 and friends](https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html)
@@ -23,6 +22,7 @@
 * [2026-10-11, 06:16:26](https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire) - [How shredding JSON is giving Logfire 1000x query speedups](https://pydantic.dev/articles/dynamic-shredding-2026-01-26)
 * [2026-10-11, 00:51:28](https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property) - [Consistency is not a localized property](https://n-the-loop.com/blog/consistency-is-not-a-localized-property/)
 * [2026-10-10, 23:25:51](https://lobste.rs/s/fbs3k7/making_np_searchsorted_up_25x_faster) - [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://blog.scientific-python.org/numpy/searchsorted/)
+* [2026-10-10, 21:28:51](https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched) - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
 * [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
 
