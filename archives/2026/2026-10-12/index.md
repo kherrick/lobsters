@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 18:12:46](https://lobste.rs/s/i1lyv7/512_bytes_at_time_reconstructing_ibm_i) - [512 bytes at a time: reconstructing IBM i save-file checksums](https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/)
 * [2026-10-12, 17:17:18](https://lobste.rs/s/0aocct/your_c_is_not_standard_c) - [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html)
 * [2026-10-12, 17:08:00](https://lobste.rs/s/awjqvn/what_i_ve_been_seeing_lately_software) - [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
 * [2026-10-12, 17:04:52](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week)

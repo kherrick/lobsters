@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 18:12:46](https://lobste.rs/s/i1lyv7/512_bytes_at_time_reconstructing_ibm_i) - [512 bytes at a time: reconstructing IBM i save-file checksums](https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/)
 * [2026-10-12, 17:08:00](https://lobste.rs/s/awjqvn/what_i_ve_been_seeing_lately_software) - [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
 * [2026-10-12, 17:04:52](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week)
 * [2026-10-12, 15:24:45](https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second) - [Parsing JSON at tens of gigabytes per second… in Python](https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/)
 * [2026-10-12, 14:40:35](https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution) - [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
 * [2026-10-12, 13:44:38](https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 12:23:52](https://lobste.rs/s/u4vlin/french_supermarket_chains_say) - [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
-* [2026-10-12, 12:01:18](https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer) - [How to effectively debug when you no longer understand the code](https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b)
 * [2026-10-12, 10:59:26](https://lobste.rs/s/lfen2h/living_weimar_era_ruby) - [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
 * [2026-10-12, 10:39:10](https://lobste.rs/s/dujxbl/type_safe_html_templating_zig) - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 * [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
