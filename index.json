@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-12, 20:52:08",
-      "https://lobste.rs/s/cjdy6d/modern_web_app_c"
-    ],
-    [
-      "A modern web app in c",
-      "https://prophitt.me/writing/a-modern-web-app-in-c"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 18:37:55",
       "https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using"
     ],
@@ -247,6 +237,16 @@
     [
       "Valen's Memory Safety: A New Kind of Borrow Checking",
       "https://verdagon.dev/blog/valen-group-borrowing"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 09:37:56",
+      "https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"
+    ],
+    [
+      "What's Wrong with GitHub",
+      "https://www.gnu.org/philosophy/whats-wrong-with-github.html"
     ]
   ]
 ]
