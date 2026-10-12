@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 01:43:08](https://lobste.rs/s/ezucf0/css_for_underlines) - [CSS for underlines](https://www.rubenerd.au/css-for-underlines/)
+* [2026-10-12, 01:18:09](https://lobste.rs/s/ikk8ie/ai_is_not_tool) - ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 * [2026-10-11, 23:28:36](https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years) - [Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
 * [2026-10-11, 22:01:59](https://lobste.rs/s/dxftjg/tello_s_gamesir_t1d_controller_as_linux) - [Tello's GameSir T1d controller as a Linux Xbox controller](https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/)
 * [2026-10-11, 20:36:07](https://lobste.rs/s/qgybwb/d_bus_hell) - [D-Bus Hell](https://dbushell.com/2026/10/11/d-bus-hell/)
@@ -11,7 +13,6 @@
 * [2026-10-11, 16:54:26](https://lobste.rs/s/lwwtpu/what_we_ended_up_doing_about_alias) - [What we ended up doing about alias propagation](https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html)
 * [2026-10-11, 14:44:03](https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-11, 12:23:01](https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
-* [2026-10-11, 11:54:20](https://lobste.rs/s/e84scc/hacking_eufy_doorbell_base_station) - [Hacking the Eufy Doorbell and Base Station](https://adepts.of0x.cc/Eufy-DoorBell-hacking/)
 * [2026-10-11, 09:37:56](https://lobste.rs/s/u9ue6c/what_s_wrong_with_github) - [What's Wrong with GitHub](https://www.gnu.org/philosophy/whats-wrong-with-github.html)
 * [2026-10-11, 09:25:42](https://lobste.rs/s/9wcfld/how_big_is_git_commit) - [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
 * [2026-10-11, 06:21:25](https://lobste.rs/s/ecxril/lineageos_24_0_released) - [LineageOS 24.0 released](https://lineageos.org/Changelog-32/)
@@ -21,7 +22,6 @@
 * [2026-10-10, 21:28:51](https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched) - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
 * [2026-10-10, 21:06:15](https://lobste.rs/s/9ros7d/2d_physics_prototype_behind_gta_s) - [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-10, 17:55:46](https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0) - [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
-* [2026-10-10, 12:54:56](https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content) - [Iframes that finally fit their content](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
 * [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
 * [2026-10-10, 01:37:07](https://lobste.rs/s/nxspz6/no_man_is_island) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
