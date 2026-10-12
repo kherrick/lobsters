@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 15:24:45](https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second) - [Parsing JSON at tens of gigabytes per second… in Python](https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/)
 * [2026-10-12, 14:40:35](https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution) - [Finding a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
 * [2026-10-12, 13:44:38](https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 12:23:52](https://lobste.rs/s/u4vlin/french_supermarket_chains_say) - [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
@@ -12,7 +13,6 @@
 * [2026-10-12, 08:46:10](https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 08:27:11](https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war) - [We Put Fighting Game Netcode in Brood War](https://www.youtube.com/watch?v=vIt9xua9bLc)
 * [2026-10-12, 04:21:09](https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic) - [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
-* [2026-10-12, 01:49:50](https://lobste.rs/s/cthze7/refurb_weekend_ii_alpha_micro_eagle_300) - [Refurb weekend II: Alpha Micro Eagle 300 and friends](https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html)
 * [2026-10-12, 01:43:08](https://lobste.rs/s/ezucf0/css_for_underlines) - [CSS for underlines](https://www.rubenerd.au/css-for-underlines/)
 * [2026-10-12, 01:18:09](https://lobste.rs/s/ikk8ie/ai_is_not_tool) - ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 * [2026-10-11, 23:28:36](https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years) - [Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
