@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 20:52:08](https://lobste.rs/s/cjdy6d/modern_web_app_c) - [A modern web app in c](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [2026-10-12, 18:12:46](https://lobste.rs/s/i1lyv7/512_bytes_at_time_reconstructing_ibm_i) - [512 bytes at a time: reconstructing IBM i save-file checksums](https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/)
 * [2026-10-12, 17:17:18](https://lobste.rs/s/0aocct/your_c_is_not_standard_c) - [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html)
 * [2026-10-12, 17:08:00](https://lobste.rs/s/awjqvn/what_i_ve_been_seeing_lately_software) - [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
@@ -12,7 +13,6 @@
 * [2026-10-12, 10:39:10](https://lobste.rs/s/dujxbl/type_safe_html_templating_zig) - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 * [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
 * [2026-10-12, 09:05:44](https://lobste.rs/s/ml9xrb/fingerprints_are_new_cookies) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-* [2026-10-12, 08:59:03](https://lobste.rs/s/gid1h4/linux_boots_on_iphone_11) - [Linux boots on iPhone 11](https://www.patreon.com/partshacker/posts/linux-boots-on-172091834)
 * [2026-10-12, 08:46:10](https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 08:27:11](https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war) - [We Put Fighting Game Netcode in Brood War](https://www.youtube.com/watch?v=vIt9xua9bLc)
 * [2026-10-12, 04:21:09](https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic) - [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
