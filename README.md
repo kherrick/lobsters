@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 02:44:55](https://lobste.rs/s/uzfa4k/when_llm_decompilers_recompile_more) - [When LLM Decompilers Recompile More and Preserve Less](https://arxiv.org/abs/2609.05370)
 * [2026-10-12, 01:49:50](https://lobste.rs/s/cthze7/refurb_weekend_ii_alpha_micro_eagle_300) - [Refurb weekend II: Alpha Micro Eagle 300 and friends](https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html)
 * [2026-10-12, 01:43:08](https://lobste.rs/s/ezucf0/css_for_underlines) - [CSS for underlines](https://www.rubenerd.au/css-for-underlines/)
 * [2026-10-12, 01:18:09](https://lobste.rs/s/ikk8ie/ai_is_not_tool) - ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
@@ -22,7 +23,6 @@
 * [2026-10-10, 23:25:51](https://lobste.rs/s/fbs3k7/making_np_searchsorted_up_25x_faster) - [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://blog.scientific-python.org/numpy/searchsorted/)
 * [2026-10-10, 21:28:51](https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched) - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
 * [2026-10-10, 21:06:15](https://lobste.rs/s/9ros7d/2d_physics_prototype_behind_gta_s) - [The 2D physics prototype behind GTA’s vehicles](https://patkerr.co.uk/2d-vehicles/)
-* [2026-10-10, 17:55:46](https://lobste.rs/s/4zmka2/kiesel_devlog_15_release_0_4_0) - [Kiesel Devlog #15: Release 0.4.0](https://linus.dev/posts/kiesel-devlog-15/)
 * [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
 * [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
 
