@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
 * [2026-10-12, 09:05:44](https://lobste.rs/s/ml9xrb/fingerprints_are_new_cookies) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 * [2026-10-12, 08:59:03](https://lobste.rs/s/gid1h4/linux_boots_on_iphone_11) - [Linux boots on iPhone 11](https://www.patreon.com/partshacker/posts/linux-boots-on-172091834)
 * [2026-10-12, 08:54:26](https://lobste.rs/s/2poooo/pk_88_tnc_hardware_modifications) - [PK-88 TNC Hardware Modifications](https://blog.thelifeofkenneth.com/2026/09/pk88-hardware-mods.html)

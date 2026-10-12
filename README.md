@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
 * [2026-10-12, 09:05:44](https://lobste.rs/s/ml9xrb/fingerprints_are_new_cookies) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 * [2026-10-12, 08:59:03](https://lobste.rs/s/gid1h4/linux_boots_on_iphone_11) - [Linux boots on iPhone 11](https://www.patreon.com/partshacker/posts/linux-boots-on-172091834)
 * [2026-10-12, 08:54:26](https://lobste.rs/s/2poooo/pk_88_tnc_hardware_modifications) - [PK-88 TNC Hardware Modifications](https://blog.thelifeofkenneth.com/2026/09/pk88-hardware-mods.html)
@@ -24,7 +25,6 @@
 * [2026-10-11, 09:25:42](https://lobste.rs/s/9wcfld/how_big_is_git_commit) - [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
 * [2026-10-11, 06:21:25](https://lobste.rs/s/ecxril/lineageos_24_0_released) - [LineageOS 24.0 released](https://lineageos.org/Changelog-32/)
 * [2026-10-11, 06:16:26](https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire) - [How shredding JSON is giving Logfire 1000x query speedups](https://pydantic.dev/articles/dynamic-shredding-2026-01-26)
-* [2026-10-11, 00:51:28](https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property) - [Consistency is not a localized property](https://n-the-loop.com/blog/consistency-is-not-a-localized-property/)
 
 ## [Archives](archives/index.md)
 
