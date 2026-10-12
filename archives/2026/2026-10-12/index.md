@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
 * [2026-10-12, 20:52:08](https://lobste.rs/s/cjdy6d/modern_web_app_c) - [A modern web app in c](https://prophitt.me/writing/a-modern-web-app-in-c)
+* [2026-10-12, 18:37:55](https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using) - [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
 * [2026-10-12, 18:12:46](https://lobste.rs/s/i1lyv7/512_bytes_at_time_reconstructing_ibm_i) - [512 bytes at a time: reconstructing IBM i save-file checksums](https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/)
+* [2026-10-12, 18:00:48](https://lobste.rs/s/x1ucie/esp32_as_your_raspberry_pi_s_linux) - [ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor](https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/)
 * [2026-10-12, 17:17:18](https://lobste.rs/s/0aocct/your_c_is_not_standard_c) - [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html)
 * [2026-10-12, 17:08:00](https://lobste.rs/s/awjqvn/what_i_ve_been_seeing_lately_software) - [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
 * [2026-10-12, 17:04:52](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week)

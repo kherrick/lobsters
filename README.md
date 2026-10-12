@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-12, 20:52:08](https://lobste.rs/s/cjdy6d/modern_web_app_c) - [A modern web app in c](https://prophitt.me/writing/a-modern-web-app-in-c)
+* [2026-10-12, 18:37:55](https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using) - [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
 * [2026-10-12, 18:12:46](https://lobste.rs/s/i1lyv7/512_bytes_at_time_reconstructing_ibm_i) - [512 bytes at a time: reconstructing IBM i save-file checksums](https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/)
+* [2026-10-12, 18:00:48](https://lobste.rs/s/x1ucie/esp32_as_your_raspberry_pi_s_linux) - [ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor](https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/)
 * [2026-10-12, 17:17:18](https://lobste.rs/s/0aocct/your_c_is_not_standard_c) - [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html)
 * [2026-10-12, 17:08:00](https://lobste.rs/s/awjqvn/what_i_ve_been_seeing_lately_software) - [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
 * [2026-10-12, 17:04:52](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week)
@@ -20,11 +22,9 @@
 * [2026-10-11, 23:28:36](https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years) - [Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
 * [2026-10-11, 20:36:07](https://lobste.rs/s/qgybwb/d_bus_hell) - [D-Bus Hell](https://dbushell.com/2026/10/11/d-bus-hell/)
 * [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
-* [2026-10-11, 17:43:46](https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites) - [The wild west of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
 * [2026-10-11, 16:59:58](https://lobste.rs/s/zziknb/arena_allocators_c) - [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
 * [2026-10-11, 14:44:03](https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-11, 12:23:01](https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
-* [2026-10-11, 09:37:56](https://lobste.rs/s/u9ue6c/what_s_wrong_with_github) - [What's Wrong with GitHub](https://www.gnu.org/philosophy/whats-wrong-with-github.html)
 
 ## [Archives](archives/index.md)
 
