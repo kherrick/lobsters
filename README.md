@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-12, 09:05:44](https://lobste.rs/s/ml9xrb/fingerprints_are_new_cookies) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+* [2026-10-12, 08:59:03](https://lobste.rs/s/gid1h4/linux_boots_on_iphone_11) - [Linux boots on iPhone 11](https://www.patreon.com/partshacker/posts/linux-boots-on-172091834)
+* [2026-10-12, 08:54:26](https://lobste.rs/s/2poooo/pk_88_tnc_hardware_modifications) - [PK-88 TNC Hardware Modifications](https://blog.thelifeofkenneth.com/2026/09/pk88-hardware-mods.html)
+* [2026-10-12, 08:46:10](https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 08:32:12](https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin) - [Implementing kubernetes node bin packing](https://blog.costgraph.ai/node-rightsizing/)
 * [2026-10-12, 08:27:11](https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war) - [We Put Fighting Game Netcode in Brood War](https://www.youtube.com/watch?v=vIt9xua9bLc)
 * [2026-10-12, 04:21:09](https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic) - [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
@@ -11,11 +15,9 @@
 * [2026-10-11, 22:01:59](https://lobste.rs/s/dxftjg/tello_s_gamesir_t1d_controller_as_linux) - [Tello's GameSir T1d controller as a Linux Xbox controller](https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/)
 * [2026-10-11, 20:36:07](https://lobste.rs/s/qgybwb/d_bus_hell) - [D-Bus Hell](https://dbushell.com/2026/10/11/d-bus-hell/)
 * [2026-10-11, 19:21:16](https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement) - [The next-gen borrow checker, a drop-in replacement for Rust borrow checking](https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061)
-* [2026-10-11, 18:26:27](https://lobste.rs/s/lxsu0m/making_react_context_cheap_with_react) - [Making React Context Cheap with React Compiler](https://jjenzz.com/making-react-context-cheap/)
 * [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 * [2026-10-11, 17:43:46](https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites) - [The wild west of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
 * [2026-10-11, 16:59:58](https://lobste.rs/s/zziknb/arena_allocators_c) - [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
-* [2026-10-11, 16:54:26](https://lobste.rs/s/lwwtpu/what_we_ended_up_doing_about_alias) - [What we ended up doing about alias propagation](https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html)
 * [2026-10-11, 14:44:03](https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-11, 12:23:01](https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
 * [2026-10-11, 09:37:56](https://lobste.rs/s/u9ue6c/what_s_wrong_with_github) - [What's Wrong with GitHub](https://www.gnu.org/philosophy/whats-wrong-with-github.html)
@@ -23,8 +25,6 @@
 * [2026-10-11, 06:21:25](https://lobste.rs/s/ecxril/lineageos_24_0_released) - [LineageOS 24.0 released](https://lineageos.org/Changelog-32/)
 * [2026-10-11, 06:16:26](https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire) - [How shredding JSON is giving Logfire 1000x query speedups](https://pydantic.dev/articles/dynamic-shredding-2026-01-26)
 * [2026-10-11, 00:51:28](https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property) - [Consistency is not a localized property](https://n-the-loop.com/blog/consistency-is-not-a-localized-property/)
-* [2026-10-10, 11:53:29](https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial) - [The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors](https://lightbulbcomputer.com/)
-* [2026-10-10, 05:37:18](https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably) - [oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c](https://sebsite.pw/w/20261009-strtod.html)
 
 ## [Archives](archives/index.md)
 
