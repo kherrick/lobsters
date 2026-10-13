@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 07:57:16](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust) - [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
 * [2026-10-13, 07:09:54](https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food) - [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers)
@@ -22,7 +23,6 @@
 * [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
 * [2026-10-12, 09:05:44](https://lobste.rs/s/ml9xrb/fingerprints_are_new_cookies) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 * [2026-10-12, 08:46:10](https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
-* [2026-10-12, 04:21:09](https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic) - [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
 * [2026-10-12, 01:18:09](https://lobste.rs/s/ikk8ie/ai_is_not_tool) - ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 * [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 
