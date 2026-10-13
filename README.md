@@ -2,6 +2,7 @@
 
 * [2026-10-13, 11:15:09](https://lobste.rs/s/zmuawx/lotus_improv_on_next) - [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
 * [2026-10-13, 10:01:31](https://lobste.rs/s/xz6sst/faster_fourier_transforms) - [Faster Fourier Transforms](https://www.argmin.net/p/faster-fourier-transforms)
+* [2026-10-13, 09:55:41](https://lobste.rs/s/haslsk/what_happened_desktop_metaphor) - [What Happened to the Desktop Metaphor?](https://deadparrotbbs.com/what-happened-to-the-desktop-metaphor/)
 * [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 07:57:16](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust) - [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
@@ -24,7 +25,6 @@
 * [2026-10-12, 09:05:44](https://lobste.rs/s/ml9xrb/fingerprints_are_new_cookies) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 * [2026-10-12, 08:46:10](https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 01:18:09](https://lobste.rs/s/ikk8ie/ai_is_not_tool) - ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
-* [2026-10-11, 18:09:49](https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 
 ## [Archives](archives/index.md)
 
