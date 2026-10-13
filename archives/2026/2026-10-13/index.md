@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 20:36:59](https://lobste.rs/s/jref3l/accelerating_zig_tokenizer_with_avx_512) - [Accelerating the Zig Tokenizer (with AVX-512)](https://www.youtube.com/watch?v=E6dWIwPLx3s)
 * [2026-10-13, 18:54:29](https://lobste.rs/s/es1vaj/data_oriented_design_for_mortals) - [Data-oriented Design for Mortals](https://www.youtube.com/watch?v=uI1Yx1CJAB0)
+* [2026-10-13, 16:18:39](https://lobste.rs/s/plgxjb/http_resilience_failure_testing_tools) - [HTTP resilience and failure-testing tools for JavaScript](https://fetchkit.org/)
 * [2026-10-13, 15:56:29](https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model) - [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/)
+* [2026-10-13, 15:51:26](https://lobste.rs/s/s50uas/python_vs_go_practical_comparison_for) - [Python vs Go: a practical comparison for developers](https://blog.jetbrains.com/go/2026/10/13/python-vs-go/)
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:52:46](https://lobste.rs/s/jecehj/can_ease_creation_lead_decrease_quality) - [Can Ease of Creation Lead to Decrease in Quality & Value?](https://pikuma.com/blog/ease-creation-decrease-quality-value)
 * [2026-10-13, 13:44:47](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without) - [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
