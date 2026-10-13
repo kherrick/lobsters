@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
 * [2026-10-13, 21:17:07](https://lobste.rs/s/y65egs/announcing_lix_2_96_bingsu) - [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
+* [2026-10-13, 20:37:52](https://lobste.rs/s/5ucftp/redesigning_source_control_at_anthropic) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [2026-10-13, 20:36:59](https://lobste.rs/s/jref3l/accelerating_zig_tokenizer_with_avx_512) - [Accelerating the Zig Tokenizer (with AVX-512)](https://www.youtube.com/watch?v=E6dWIwPLx3s)
 * [2026-10-13, 18:54:29](https://lobste.rs/s/es1vaj/data_oriented_design_for_mortals) - [Data-oriented Design for Mortals](https://www.youtube.com/watch?v=uI1Yx1CJAB0)
 * [2026-10-13, 16:18:39](https://lobste.rs/s/plgxjb/http_resilience_failure_testing_tools) - [HTTP resilience and failure-testing tools for JavaScript](https://fetchkit.org/)
