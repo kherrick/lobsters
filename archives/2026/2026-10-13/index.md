@@ -13,6 +13,7 @@
 * [2026-10-13, 11:58:49](https://lobste.rs/s/rm15pv/web_needs_interactive_lists) - [The web needs interactive lists](https://sarahmhigley.com/writing/interactive-lists/)
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-13, 11:15:09](https://lobste.rs/s/zmuawx/lotus_improv_on_next) - [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
+* [2026-10-13, 10:55:15](https://lobste.rs/s/4jfegi/nixpkgs_for_frontend_impaired) - [Nixpkgs for the frontend impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
 * [2026-10-13, 10:45:45](https://lobste.rs/s/2bvm8s/2026_llms_so_far) - [2026 in LLMs (so far)](https://www.wearedevelopers.com/videos/100537-2026-in-llms-so-far)
 * [2026-10-13, 10:01:31](https://lobste.rs/s/xz6sst/faster_fourier_transforms) - [Faster Fourier Transforms](https://www.argmin.net/p/faster-fourier-transforms)
 * [2026-10-13, 09:55:41](https://lobste.rs/s/haslsk/what_happened_desktop_metaphor) - [What Happened to the Desktop Metaphor?](https://deadparrotbbs.com/what-happened-to-the-desktop-metaphor/)

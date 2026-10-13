@@ -8,6 +8,7 @@
 * [2026-10-13, 13:37:44](https://lobste.rs/s/oq6nhr/easylang_simple_browser_based) - [Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC](https://easylang.online/ide)
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-13, 11:15:09](https://lobste.rs/s/zmuawx/lotus_improv_on_next) - [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
+* [2026-10-13, 10:55:15](https://lobste.rs/s/4jfegi/nixpkgs_for_frontend_impaired) - [Nixpkgs for the frontend impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
 * [2026-10-13, 10:01:31](https://lobste.rs/s/xz6sst/faster_fourier_transforms) - [Faster Fourier Transforms](https://www.argmin.net/p/faster-fourier-transforms)
 * [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
@@ -24,7 +25,6 @@
 * [2026-10-12, 12:23:52](https://lobste.rs/s/u4vlin/french_supermarket_chains_say) - [French supermarket chains say cyberattack forced refrigerator shutdown](https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown)
 * [2026-10-12, 10:59:26](https://lobste.rs/s/lfen2h/living_weimar_era_ruby) - [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
 * [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
-* [2026-10-12, 01:18:09](https://lobste.rs/s/ikk8ie/ai_is_not_tool) - ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 
 ## [Archives](archives/index.md)
 
