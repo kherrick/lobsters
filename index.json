@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-10-13, 07:07:53",
+      "https://lobste.rs/s/fdxjtr/500_billion_tokens_later_letting_ai"
+    ],
+    [
+      "500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter",
+      "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 06:26:20",
       "https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl"
     ],
@@ -237,16 +247,6 @@
     [
       "I'm sorry, but you still have to think",
       "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 16:59:58",
-      "https://lobste.rs/s/zziknb/arena_allocators_c"
-    ],
-    [
-      "Arena Allocators in C",
-      "https://eliasebner.com/blog/guides/arena-allocators-in-c/"
     ]
   ]
 ]
