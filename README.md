@@ -2,10 +2,10 @@
 
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:52:46](https://lobste.rs/s/jecehj/can_ease_creation_lead_decrease_quality) - [Can Ease of Creation Lead to Decrease in Quality & Value?](https://pikuma.com/blog/ease-creation-decrease-quality-value)
+* [2026-10-13, 13:44:47](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without) - [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 * [2026-10-13, 13:37:44](https://lobste.rs/s/oq6nhr/easylang_simple_browser_based) - [Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC](https://easylang.online/ide)
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-13, 11:15:09](https://lobste.rs/s/zmuawx/lotus_improv_on_next) - [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
-* [2026-10-13, 10:45:45](https://lobste.rs/s/2bvm8s/2026_llms_so_far) - [2026 in LLMs (so far)](https://www.wearedevelopers.com/videos/100537-2026-in-llms-so-far)
 * [2026-10-13, 10:01:31](https://lobste.rs/s/xz6sst/faster_fourier_transforms) - [Faster Fourier Transforms](https://www.argmin.net/p/faster-fourier-transforms)
 * [2026-10-13, 09:55:41](https://lobste.rs/s/haslsk/what_happened_desktop_metaphor) - [What Happened to the Desktop Metaphor?](https://deadparrotbbs.com/what-happened-to-the-desktop-metaphor/)
 * [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)

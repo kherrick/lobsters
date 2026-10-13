@@ -6,6 +6,7 @@
 
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:52:46](https://lobste.rs/s/jecehj/can_ease_creation_lead_decrease_quality) - [Can Ease of Creation Lead to Decrease in Quality & Value?](https://pikuma.com/blog/ease-creation-decrease-quality-value)
+* [2026-10-13, 13:44:47](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without) - [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 * [2026-10-13, 13:37:44](https://lobste.rs/s/oq6nhr/easylang_simple_browser_based) - [Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC](https://easylang.online/ide)
 * [2026-10-13, 11:58:49](https://lobste.rs/s/rm15pv/web_needs_interactive_lists) - [The web needs interactive lists](https://sarahmhigley.com/writing/interactive-lists/)
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
