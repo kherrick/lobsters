@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 07:09:54](https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food) - [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers)
 * [2026-10-13, 06:26:20](https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl) - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
 * [2026-10-13, 04:57:55](https://lobste.rs/s/rji3qe/datacube_relational_aggregation) - [DataCube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals (1997)](https://arxiv.org/pdf/cs/0701155)
 * [2026-10-13, 04:43:34](https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd) - [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-13, 07:09:54](https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food) - [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers)
 * [2026-10-13, 06:26:20](https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl) - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
 * [2026-10-13, 04:57:55](https://lobste.rs/s/rji3qe/datacube_relational_aggregation) - [DataCube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals (1997)](https://arxiv.org/pdf/cs/0701155)
 * [2026-10-13, 04:43:34](https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd) - [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
@@ -19,7 +20,6 @@
 * [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
 * [2026-10-12, 09:05:44](https://lobste.rs/s/ml9xrb/fingerprints_are_new_cookies) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 * [2026-10-12, 08:46:10](https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
-* [2026-10-12, 08:27:11](https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war) - [We Put Fighting Game Netcode in Brood War](https://www.youtube.com/watch?v=vIt9xua9bLc)
 * [2026-10-12, 04:21:09](https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic) - [3-2-1 Backup Strategy with restic and Backblaze B2](https://chuck.is/paranoid/)
 * [2026-10-12, 01:18:09](https://lobste.rs/s/ikk8ie/ai_is_not_tool) - ['AI' is Not a Tool](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 * [2026-10-11, 20:36:07](https://lobste.rs/s/qgybwb/d_bus_hell) - [D-Bus Hell](https://dbushell.com/2026/10/11/d-bus-hell/)
