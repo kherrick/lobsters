@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 07:57:16](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust) - [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
 * [2026-10-13, 07:09:54](https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food) - [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers)
 * [2026-10-13, 07:07:53](https://lobste.rs/s/fdxjtr/500_billion_tokens_later_letting_ai) - [500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
