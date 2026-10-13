@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-10-12, 12:01:18",
+      "https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"
+    ],
+    [
+      "How to effectively debug when you no longer understand the code",
+      "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 10:59:26",
       "https://lobste.rs/s/lfen2h/living_weimar_era_ruby"
     ],
@@ -237,16 +247,6 @@
     [
       "I'm still around.. I'm just not writing here",
       "https://rachelbythebay.com/w/2026/10/08/idle/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 12:23:01",
-      "https://lobste.rs/s/gmnqhj/valen_s_memory_safety_new_kind_borrow"
-    ],
-    [
-      "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "https://verdagon.dev/blog/valen-group-borrowing"
     ]
   ]
 ]
