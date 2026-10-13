@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 09:55:41](https://lobste.rs/s/haslsk/what_happened_desktop_metaphor) - [What Happened to the Desktop Metaphor?](https://deadparrotbbs.com/what-happened-to-the-desktop-metaphor/)
 * [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 07:57:16](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust) - [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)

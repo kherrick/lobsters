@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-13, 09:55:41](https://lobste.rs/s/haslsk/what_happened_desktop_metaphor) - [What Happened to the Desktop Metaphor?](https://deadparrotbbs.com/what-happened-to-the-desktop-metaphor/)
 * [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 07:57:16](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust) - [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
@@ -10,7 +11,6 @@
 * [2026-10-13, 01:29:49](https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post) - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
 * [2026-10-12, 20:52:08](https://lobste.rs/s/cjdy6d/modern_web_app_c) - [A modern web app in c](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [2026-10-12, 18:37:55](https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using) - [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
-* [2026-10-12, 18:00:48](https://lobste.rs/s/x1ucie/esp32_as_your_raspberry_pi_s_linux) - [ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor](https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/)
 * [2026-10-12, 17:17:18](https://lobste.rs/s/0aocct/your_c_is_not_standard_c) - [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html)
 * [2026-10-12, 17:08:00](https://lobste.rs/s/awjqvn/what_i_ve_been_seeing_lately_software) - [What I've been seeing lately (in software)](https://mei.puppycat.house/w/seeing-261010)
 * [2026-10-12, 17:04:52](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week)
