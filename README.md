@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-14, 21:04:44](https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views) - [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
-* [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke · sunshowers](https://sunshowers.io/posts/anthropic-mononoke/)
+* [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 * [2026-10-14, 18:41:38](https://lobste.rs/s/ireiaf/delightql_query_language) - [The DelightQL Query Language](https://delightql.org)
 * [2026-10-14, 17:42:56](https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse) - [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 16:14:11](https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem) - [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
