@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-14, 11:44:23](https://lobste.rs/s/ckdir0/lockstep_pipeline_almost_one_line) - [Lockstep to pipeline in almost one line](https://andersmurphy.com/2026/10/12/lockstep-to-pipeline-in-one-line.html)
+* [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
 * [2026-10-14, 11:18:09](https://lobste.rs/s/tsjuje/yet_another_place_where_linux_man_page_is) - [yet another place where a linux man page is inaccurate](https://sebsite.pw/w/20261014-initstate.html)
 * [2026-10-14, 11:06:48](https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise) - [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
 * [2026-10-14, 10:50:19](https://lobste.rs/s/stmtap/my_game_s_procedural_dialogue_system) - [My Game's Procedural Dialogue System](https://www.youtube.com/watch?v=NaW0d7Tghw0)
@@ -15,7 +16,6 @@
 * [2026-10-13, 22:01:20](https://lobste.rs/s/xatiaj/please_stop_hashing_public_key_first_ml) - [Please stop hashing the public key first (or: ML-DSA's µ annoys me)](https://blog.erincandescent.net/2026/10/mu-annoys-me/)
 * [2026-10-13, 21:17:07](https://lobste.rs/s/y65egs/announcing_lix_2_96_bingsu) - [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
 * [2026-10-13, 20:37:52](https://lobste.rs/s/5ucftp/redesigning_source_control_at_anthropic) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
-* [2026-10-13, 20:36:59](https://lobste.rs/s/jref3l/accelerating_zig_tokenizer_with_avx_512) - [Accelerating the Zig Tokenizer (with AVX-512)](https://www.youtube.com/watch?v=E6dWIwPLx3s)
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:44:47](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without) - [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 * [2026-10-13, 13:37:44](https://lobste.rs/s/oq6nhr/easylang_simple_browser_based) - [Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC](https://easylang.online/ide)
