@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 14:59:14](https://lobste.rs/s/qgvj4p/botstopper_from_techaro) - [BotStopper from Techaro](https://botstopper.net)
 * [2026-10-14, 14:36:51](https://lobste.rs/s/mf3tmv/zxc_lossless_compression_built_for_ultra) - [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
+* [2026-10-14, 13:43:10](https://lobste.rs/s/sj09ps/building_linearizable_log_on_read) - [Building a Linearizable Log on READ COMMITTED Isolation](https://materialize.com/blog/building-a-linearizable-log-on-read-committed/)
 * [2026-10-14, 13:42:39](https://lobste.rs/s/a4ljnh/factor_0_102_now_available) - [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
 * [2026-10-14, 11:44:23](https://lobste.rs/s/ckdir0/lockstep_pipeline_almost_one_line) - [Lockstep to pipeline in almost one line](https://andersmurphy.com/2026/10/12/lockstep-to-pipeline-in-one-line.html)
 * [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)

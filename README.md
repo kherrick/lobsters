@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 14:59:14](https://lobste.rs/s/qgvj4p/botstopper_from_techaro) - [BotStopper from Techaro](https://botstopper.net)
 * [2026-10-14, 14:36:51](https://lobste.rs/s/mf3tmv/zxc_lossless_compression_built_for_ultra) - [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
+* [2026-10-14, 13:43:10](https://lobste.rs/s/sj09ps/building_linearizable_log_on_read) - [Building a Linearizable Log on READ COMMITTED Isolation](https://materialize.com/blog/building-a-linearizable-log-on-read-committed/)
 * [2026-10-14, 13:42:39](https://lobste.rs/s/a4ljnh/factor_0_102_now_available) - [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
-* [2026-10-14, 11:44:23](https://lobste.rs/s/ckdir0/lockstep_pipeline_almost_one_line) - [Lockstep to pipeline in almost one line](https://andersmurphy.com/2026/10/12/lockstep-to-pipeline-in-one-line.html)
 * [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
 * [2026-10-14, 11:24:24](https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed) - [OpenFatigue™ — Open is the new closed](https://openfatigue.ai/)
 * [2026-10-14, 11:18:09](https://lobste.rs/s/tsjuje/yet_another_place_where_linux_man_page_is) - [yet another place where a linux man page is inaccurate](https://sebsite.pw/w/20261014-initstate.html)
@@ -21,7 +22,6 @@
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:44:47](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without) - [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
-* [2026-10-13, 11:15:09](https://lobste.rs/s/zmuawx/lotus_improv_on_next) - [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 04:43:34](https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd) - [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 * [2026-10-13, 01:29:49](https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post) - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
