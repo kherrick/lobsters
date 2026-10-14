@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 05:07:10](https://lobste.rs/s/glfn7i/conquering_recursion) - [Conquering Recursion](https://nsl.com/misc/Conquering_Recursion.html)
 * [2026-10-14, 04:18:17](https://lobste.rs/s/dyypvf/apple_switch_safari_from_chrome) - [Apple: Switch to Safari (from Chrome)](https://www.apple.com/safari/switch/)
 * [2026-10-14, 01:14:17](https://lobste.rs/s/a0jmkh/bru_send_read_sms_from_browser) - [Bru: Send and read SMS from the browser](https://sverre.me/projects/bru/)
 * [2026-10-13, 22:25:00](https://lobste.rs/s/fppgkl/2026_maintainers_summit) - [The 2026 Maintainers Summit](https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/)
@@ -19,11 +20,10 @@
 * [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 07:57:16](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust) - [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
+* [2026-10-13, 07:07:53](https://lobste.rs/s/fdxjtr/500_billion_tokens_later_letting_ai) - [500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 * [2026-10-13, 06:26:20](https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl) - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
 * [2026-10-13, 04:43:34](https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd) - [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 * [2026-10-13, 01:29:49](https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post) - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
-* [2026-10-12, 18:37:55](https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using) - [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
-* [2026-10-12, 13:44:38](https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 10:59:26](https://lobste.rs/s/lfen2h/living_weimar_era_ruby) - [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
 
 ## [Archives](archives/index.md)
