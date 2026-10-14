@@ -7,6 +7,7 @@
 * [2026-10-14, 13:42:39](https://lobste.rs/s/a4ljnh/factor_0_102_now_available) - [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
 * [2026-10-14, 11:44:23](https://lobste.rs/s/ckdir0/lockstep_pipeline_almost_one_line) - [Lockstep to pipeline in almost one line](https://andersmurphy.com/2026/10/12/lockstep-to-pipeline-in-one-line.html)
 * [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
+* [2026-10-14, 11:24:24](https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed) - [OpenFatigue™ — Open is the new closed](https://openfatigue.ai/)
 * [2026-10-14, 11:18:09](https://lobste.rs/s/tsjuje/yet_another_place_where_linux_man_page_is) - [yet another place where a linux man page is inaccurate](https://sebsite.pw/w/20261014-initstate.html)
 * [2026-10-14, 11:06:48](https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise) - [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
 * [2026-10-14, 10:50:19](https://lobste.rs/s/stmtap/my_game_s_procedural_dialogue_system) - [My Game's Procedural Dialogue System](https://www.youtube.com/watch?v=NaW0d7Tghw0)
