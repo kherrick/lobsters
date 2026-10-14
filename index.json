@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-10-14, 13:43:10",
+      "https://lobste.rs/s/sj09ps/building_linearizable_log_on_read"
+    ],
+    [
+      "Building a Linearizable Log on READ COMMITTED Isolation",
+      "https://materialize.com/blog/building-a-linearizable-log-on-read-committed/"
+    ]
+  ],
+  [
+    [
       "2026-10-14, 13:42:39",
       "https://lobste.rs/s/a4ljnh/factor_0_102_now_available"
     ],
@@ -227,16 +237,6 @@
     [
       "The reverts will continue until morale improves",
       "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 09:14:09",
-      "https://lobste.rs/s/hjhufj/where_is_all_new_good_software"
-    ],
-    [
-      "Where is all the new, good software?",
-      "https://www.natemeyvis.com/where-is-all-the-new-good-software/"
     ]
   ],
   [
