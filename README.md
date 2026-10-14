@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 06:24:41](https://lobste.rs/s/zitobg/fancy_curl_sites) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
 * [2026-10-14, 05:34:22](https://lobste.rs/s/6vs8a0/compiler_bootstrapping_depends_on_more) - [Compiler bootstrapping depends on more than you might think](https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges)
 * [2026-10-14, 05:07:10](https://lobste.rs/s/glfn7i/conquering_recursion) - [Conquering Recursion](https://nsl.com/misc/Conquering_Recursion.html)
 * [2026-10-14, 04:18:17](https://lobste.rs/s/dyypvf/apple_switch_safari_from_chrome) - [Apple: Switch to Safari (from Chrome)](https://www.apple.com/safari/switch/)
@@ -17,7 +18,6 @@
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-13, 11:15:09](https://lobste.rs/s/zmuawx/lotus_improv_on_next) - [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
 * [2026-10-13, 10:55:15](https://lobste.rs/s/4jfegi/nixpkgs_for_frontend_impaired) - [Nixpkgs for the frontend impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
-* [2026-10-13, 10:01:31](https://lobste.rs/s/xz6sst/faster_fourier_transforms) - [Faster Fourier Transforms](https://www.argmin.net/p/faster-fourier-transforms)
 * [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 07:57:16](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust) - [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
