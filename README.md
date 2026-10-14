@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 21:04:44](https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views) - [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
 * [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke · sunshowers](https://sunshowers.io/posts/anthropic-mononoke/)
 * [2026-10-14, 18:41:38](https://lobste.rs/s/ireiaf/delightql_query_language) - [The DelightQL Query Language](https://delightql.org)
 * [2026-10-14, 17:42:56](https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse) - [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
@@ -8,7 +9,6 @@
 * [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self) - [What I Self-Host | Aspirational Self Hosting Guide](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
 * [2026-10-14, 14:36:51](https://lobste.rs/s/mf3tmv/zxc_lossless_compression_built_for_ultra) - [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
-* [2026-10-14, 13:43:10](https://lobste.rs/s/sj09ps/building_linearizable_log_on_read) - [Building a Linearizable Log on READ COMMITTED Isolation](https://materialize.com/blog/building-a-linearizable-log-on-read-committed/)
 * [2026-10-14, 13:42:39](https://lobste.rs/s/a4ljnh/factor_0_102_now_available) - [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
 * [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
 * [2026-10-14, 11:24:24](https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed) - [OpenFatigue™ — Open is the new closed](https://openfatigue.ai/)
