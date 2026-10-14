@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 10:50:19](https://lobste.rs/s/stmtap/my_game_s_procedural_dialogue_system) - [My Game's Procedural Dialogue System](https://www.youtube.com/watch?v=NaW0d7Tghw0)
 * [2026-10-14, 10:27:49](https://lobste.rs/s/ghw8rp/pulsar_at_esug_2026_new_smalltalk_ide) - [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
 * [2026-10-14, 09:44:11](https://lobste.rs/s/g46xkj/uaf_turned_rce) - [A UAF turned RCE](https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/)
 * [2026-10-14, 08:52:30](https://lobste.rs/s/rrazyb/linux_lockdown_hibernation_again) - [Linux Lockdown and Hibernation (again)](https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 10:50:19](https://lobste.rs/s/stmtap/my_game_s_procedural_dialogue_system) - [My Game's Procedural Dialogue System](https://www.youtube.com/watch?v=NaW0d7Tghw0)
 * [2026-10-14, 10:27:49](https://lobste.rs/s/ghw8rp/pulsar_at_esug_2026_new_smalltalk_ide) - [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
 * [2026-10-14, 09:44:11](https://lobste.rs/s/g46xkj/uaf_turned_rce) - [A UAF turned RCE](https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/)
 * [2026-10-14, 08:52:30](https://lobste.rs/s/rrazyb/linux_lockdown_hibernation_again) - [Linux Lockdown and Hibernation (again)](https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/)
@@ -19,7 +20,6 @@
 * [2026-10-13, 13:37:44](https://lobste.rs/s/oq6nhr/easylang_simple_browser_based) - [Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC](https://easylang.online/ide)
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-13, 11:15:09](https://lobste.rs/s/zmuawx/lotus_improv_on_next) - [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/)
-* [2026-10-13, 09:33:50](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc) - [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 07:57:16](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust) - [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/)
 * [2026-10-13, 06:26:20](https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl) - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
