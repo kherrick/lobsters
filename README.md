@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 16:44:09](https://lobste.rs/s/5m8mle/how_l0pht_probably_optimized_attack) - [How the L0pht (probably) optimized attack against the LanMan hash](https://modexp.wordpress.com/2019/02/02/3883/)
 * [2026-10-14, 16:14:11](https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem) - [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
 * [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 * [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self) - [What I Self-Host | Aspirational Self Hosting Guide](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
@@ -24,7 +25,6 @@
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:44:47](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without) - [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
-* [2026-10-13, 04:43:34](https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd) - [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 
 ## [Archives](archives/index.md)
 
