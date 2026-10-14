@@ -5,6 +5,7 @@
 * [2026-10-13, 22:01:20](https://lobste.rs/s/xatiaj/please_stop_hashing_public_key_first_ml) - [Please stop hashing the public key first (or: ML-DSA's µ annoys me)](https://blog.erincandescent.net/2026/10/mu-annoys-me/)
 * [2026-10-13, 21:17:07](https://lobste.rs/s/y65egs/announcing_lix_2_96_bingsu) - [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
 * [2026-10-13, 20:37:52](https://lobste.rs/s/5ucftp/redesigning_source_control_at_anthropic) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+* [2026-10-13, 20:36:59](https://lobste.rs/s/jref3l/accelerating_zig_tokenizer_with_avx_512) - [Accelerating the Zig Tokenizer (with AVX-512)](https://www.youtube.com/watch?v=E6dWIwPLx3s)
 * [2026-10-13, 18:54:29](https://lobste.rs/s/es1vaj/data_oriented_design_for_mortals) - [Data-oriented Design for Mortals](https://www.youtube.com/watch?v=uI1Yx1CJAB0)
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:52:46](https://lobste.rs/s/jecehj/can_ease_creation_lead_decrease_quality) - [Can Ease of Creation Lead to Decrease in Quality & Value?](https://pikuma.com/blog/ease-creation-decrease-quality-value)
@@ -24,7 +25,6 @@
 * [2026-10-12, 18:37:55](https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using) - [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/)
 * [2026-10-12, 13:44:38](https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 10:59:26](https://lobste.rs/s/lfen2h/living_weimar_era_ruby) - [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
-* [2026-10-12, 10:11:29](https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux) - [Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code](https://www.phoronix.com/news/Linus-Torvalds-Claude-Code)
 
 ## [Archives](archives/index.md)
 
