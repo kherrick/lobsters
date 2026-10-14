@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-14, 22:27:10",
-      "https://lobste.rs/s/9lqyul/ito_build_terminal_ui_lua"
-    ],
-    [
-      "ito - build terminal ui in lua",
-      "https://uji.sh/ito"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 21:04:44",
       "https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views"
     ],
@@ -57,6 +47,16 @@
     [
       "How the L0pht (probably) optimized attack against the LanMan hash",
       "https://modexp.wordpress.com/2019/02/02/3883/"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 16:14:11",
+      "https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem"
+    ],
+    [
+      "Package managers have an integrity problem",
+      "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/"
     ]
   ],
   [
