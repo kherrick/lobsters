@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-10-14, 05:07:10",
+      "https://lobste.rs/s/glfn7i/conquering_recursion"
+    ],
+    [
+      "Conquering Recursion",
+      "https://nsl.com/misc/Conquering_Recursion.html"
+    ]
+  ],
+  [
+    [
       "2026-10-14, 04:18:17",
       "https://lobste.rs/s/dyypvf/apple_switch_safari_from_chrome"
     ],
@@ -47,16 +57,6 @@
     [
       "Bru: Send and read SMS from the browser",
       "https://sverre.me/projects/bru/"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 22:25:00",
-      "https://lobste.rs/s/fppgkl/2026_maintainers_summit"
-    ],
-    [
-      "The 2026 Maintainers Summit",
-      "https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-10-13, 20:37:52",
-      "https://lobste.rs/s/5ucftp/redesigning_source_control_at_anthropic"
-    ],
-    [
-      "Redesigning source control at Anthropic",
-      "https://www.anthropic.com/engineering/redesigning-source-control"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 20:36:59",
       "https://lobste.rs/s/jref3l/accelerating_zig_tokenizer_with_avx_512"
     ],
@@ -111,22 +101,22 @@
   ],
   [
     [
+      "2026-10-13, 15:56:29",
+      "https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model"
+    ],
+    [
+      "Running RAG with a (small) language model in the browser",
+      "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 14:36:52",
       "https://lobste.rs/s/73ssw1/plea_not_use_uv_build"
     ],
     [
       "A plea not to use uv-build",
       "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 13:52:46",
-      "https://lobste.rs/s/jecehj/can_ease_creation_lead_decrease_quality"
-    ],
-    [
-      "Can Ease of Creation Lead to Decrease in Quality & Value?",
-      "https://pikuma.com/blog/ease-creation-decrease-quality-value"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2026-10-13, 11:58:49",
+      "https://lobste.rs/s/rm15pv/web_needs_interactive_lists"
+    ],
+    [
+      "The web needs interactive lists",
+      "https://sarahmhigley.com/writing/interactive-lists/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 11:37:06",
       "https://lobste.rs/s/aasanp/reverts_will_continue_until_morale"
     ],
@@ -171,32 +171,12 @@
   ],
   [
     [
-      "2026-10-13, 10:55:15",
-      "https://lobste.rs/s/4jfegi/nixpkgs_for_frontend_impaired"
-    ],
-    [
-      "Nixpkgs for the frontend impaired",
-      "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 09:33:50",
       "https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc"
     ],
     [
       "Chasing a -O2 pessimization in antcc",
       "https://386s.org/w/lua-antcc-pessimization/"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 09:14:09",
-      "https://lobste.rs/s/hjhufj/where_is_all_new_good_software"
-    ],
-    [
-      "Where is all the new, good software?",
-      "https://www.natemeyvis.com/where-is-all-the-new-good-software/"
     ]
   ],
   [
@@ -231,22 +211,42 @@
   ],
   [
     [
-      "2026-10-13, 01:29:49",
-      "https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post"
+      "2026-10-12, 18:37:55",
+      "https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using"
     ],
     [
-      "Vi Hart's Big Navier-Stokes Post",
-      "https://www.patreon.com/vihart/posts/vi-harts-big-171939430"
+      "Speeding up the Unreal editor by… not using unnecessarily secure hash methods",
+      "https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/"
     ]
   ],
   [
     [
-      "2026-10-12, 10:59:26",
-      "https://lobste.rs/s/lfen2h/living_weimar_era_ruby"
+      "2026-10-12, 14:40:35",
+      "https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"
     ],
     [
-      "Living in the Weimar era of Ruby",
-      "https://blog.julik.nl/2026/10/the-weimar-of-ruby"
+      "Finding a $90,000 Remote Code Execution Vulnerability in Google",
+      "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 13:44:38",
+      "https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right"
+    ],
+    [
+      "(Post-Quantum) Cryptographic Right Answers",
+      "https://words.filippo.io/right-answers/"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 12:23:52",
+      "https://lobste.rs/s/u4vlin/french_supermarket_chains_say"
+    ],
+    [
+      "French supermarket chains say cyberattack forced refrigerator shutdown",
+      "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown"
     ]
   ]
 ]
