@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
+* [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self) - [What I Self-Host | Aspirational Self Hosting Guide](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+* [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
 * [2026-10-14, 14:59:14](https://lobste.rs/s/qgvj4p/botstopper_from_techaro) - [BotStopper from Techaro](https://botstopper.net)
 * [2026-10-14, 14:36:51](https://lobste.rs/s/mf3tmv/zxc_lossless_compression_built_for_ultra) - [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
-* [2026-10-14, 13:43:10](https://lobste.rs/s/sj09ps/building_linearizable_log_on_read) - [Building a Linearizable Log on READ COMMITTED Isolation](https://materialize.com/blog/building-a-linearizable-log-on-read-committed/)
 * [2026-10-14, 13:42:39](https://lobste.rs/s/a4ljnh/factor_0_102_now_available) - [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
 * [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
 * [2026-10-14, 11:24:24](https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed) - [OpenFatigue™ — Open is the new closed](https://openfatigue.ai/)
@@ -16,7 +18,6 @@
 * [2026-10-14, 05:34:22](https://lobste.rs/s/6vs8a0/compiler_bootstrapping_depends_on_more) - [Compiler bootstrapping depends on more than you might think](https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges)
 * [2026-10-14, 04:18:17](https://lobste.rs/s/dyypvf/apple_switch_safari_from_chrome) - [Apple: Switch to Safari (from Chrome)](https://www.apple.com/safari/switch/)
 * [2026-10-14, 01:14:17](https://lobste.rs/s/a0jmkh/bru_send_read_sms_from_browser) - [Bru: Send and read SMS from the browser](https://sverre.me/projects/bru/)
-* [2026-10-13, 22:25:00](https://lobste.rs/s/fppgkl/2026_maintainers_summit) - [The 2026 Maintainers Summit](https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/)
 * [2026-10-13, 21:17:07](https://lobste.rs/s/y65egs/announcing_lix_2_96_bingsu) - [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
 * [2026-10-13, 20:37:52](https://lobste.rs/s/5ucftp/redesigning_source_control_at_anthropic) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
@@ -24,7 +25,6 @@
 * [2026-10-13, 11:37:06](https://lobste.rs/s/aasanp/reverts_will_continue_until_morale) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-13, 09:14:09](https://lobste.rs/s/hjhufj/where_is_all_new_good_software) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 * [2026-10-13, 04:43:34](https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd) - [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
-* [2026-10-13, 01:29:49](https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post) - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
 
 ## [Archives](archives/index.md)
 

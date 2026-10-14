@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
+* [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self) - [What I Self-Host | Aspirational Self Hosting Guide](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+* [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
 * [2026-10-14, 14:59:14](https://lobste.rs/s/qgvj4p/botstopper_from_techaro) - [BotStopper from Techaro](https://botstopper.net)
 * [2026-10-14, 14:36:51](https://lobste.rs/s/mf3tmv/zxc_lossless_compression_built_for_ultra) - [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
 * [2026-10-14, 13:43:10](https://lobste.rs/s/sj09ps/building_linearizable_log_on_read) - [Building a Linearizable Log on READ COMMITTED Isolation](https://materialize.com/blog/building-a-linearizable-log-on-read-committed/)
