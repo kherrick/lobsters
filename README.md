@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 01:14:17](https://lobste.rs/s/a0jmkh/bru_send_read_sms_from_browser) - [Bru: Send and read SMS from the browser](https://sverre.me/projects/bru/)
 * [2026-10-13, 22:25:00](https://lobste.rs/s/fppgkl/2026_maintainers_summit) - [The 2026 Maintainers Summit](https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/)
 * [2026-10-13, 22:01:20](https://lobste.rs/s/xatiaj/please_stop_hashing_public_key_first_ml) - [Please stop hashing the public key first (or: ML-DSA's µ annoys me)](https://blog.erincandescent.net/2026/10/mu-annoys-me/)
 * [2026-10-13, 21:17:07](https://lobste.rs/s/y65egs/announcing_lix_2_96_bingsu) - [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
 * [2026-10-13, 20:37:52](https://lobste.rs/s/5ucftp/redesigning_source_control_at_anthropic) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [2026-10-13, 18:54:29](https://lobste.rs/s/es1vaj/data_oriented_design_for_mortals) - [Data-oriented Design for Mortals](https://www.youtube.com/watch?v=uI1Yx1CJAB0)
-* [2026-10-13, 15:56:29](https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model) - [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/)
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:52:46](https://lobste.rs/s/jecehj/can_ease_creation_lead_decrease_quality) - [Can Ease of Creation Lead to Decrease in Quality & Value?](https://pikuma.com/blog/ease-creation-decrease-quality-value)
 * [2026-10-13, 13:44:47](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without) - [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
