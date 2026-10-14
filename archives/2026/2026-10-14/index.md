@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 09:44:11](https://lobste.rs/s/g46xkj/uaf_turned_rce) - [A UAF turned RCE](https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/)
 * [2026-10-14, 08:52:30](https://lobste.rs/s/rrazyb/linux_lockdown_hibernation_again) - [Linux Lockdown and Hibernation (again)](https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/)
 * [2026-10-14, 08:45:12](https://lobste.rs/s/h8tdxj/air_llm_broadcasting_ai_weights_over) - [AIR-LLM: Broadcasting AI Weights over Radio for Memory-Free Edge LLM Inference via RF Computing](https://arxiv.org/html/2610.00465)
 * [2026-10-14, 07:54:56](https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
