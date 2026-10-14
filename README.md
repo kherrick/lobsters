@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-14, 08:52:30](https://lobste.rs/s/rrazyb/linux_lockdown_hibernation_again) - [Linux Lockdown and Hibernation (again)](https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/)
 * [2026-10-14, 08:45:12](https://lobste.rs/s/h8tdxj/air_llm_broadcasting_ai_weights_over) - [AIR-LLM: Broadcasting AI Weights over Radio for Memory-Free Edge LLM Inference via RF Computing](https://arxiv.org/html/2610.00465)
 * [2026-10-14, 07:54:56](https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 * [2026-10-14, 06:24:41](https://lobste.rs/s/zitobg/fancy_curl_sites) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
@@ -24,7 +25,6 @@
 * [2026-10-13, 06:26:20](https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl) - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
 * [2026-10-13, 04:43:34](https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd) - [Who is vfmaddrnd231pd??](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 * [2026-10-13, 01:29:49](https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post) - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
-* [2026-10-12, 10:59:26](https://lobste.rs/s/lfen2h/living_weimar_era_ruby) - [Living in the Weimar era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
 
 ## [Archives](archives/index.md)
 
