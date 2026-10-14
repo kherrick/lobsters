@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2026-10-14, 16:44:09",
-      "https://lobste.rs/s/5m8mle/how_l0pht_probably_optimized_attack"
+      "2026-10-14, 17:16:17",
+      "https://lobste.rs/s/ysnvjn/root_dnssec_trust_anchors"
     ],
     [
-      "How the L0pht (probably) optimized attack against the LanMan hash",
-      "https://modexp.wordpress.com/2019/02/02/3883/"
+      "Root DNSSEC trust anchors",
+      "https://jpmens.net/2026/10/14/root-dnssec-trust-anchors/"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "ZXC: Lossless compression built for ultra-fast decode",
       "https://libzxc.org/"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 13:43:10",
+      "https://lobste.rs/s/sj09ps/building_linearizable_log_on_read"
+    ],
+    [
+      "Building a Linearizable Log on READ COMMITTED Isolation",
+      "https://materialize.com/blog/building-a-linearizable-log-on-read-committed/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "A UAF turned RCE",
       "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 08:52:30",
-      "https://lobste.rs/s/rrazyb/linux_lockdown_hibernation_again"
-    ],
-    [
-      "Linux Lockdown and Hibernation (again)",
-      "https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/"
     ]
   ],
   [
