@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 23:03:00](https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1) - [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
 * [2026-10-15, 21:22:58](https://lobste.rs/s/2fegg4/faster_better_stronger_is_not_strategy) - [Faster, Better, Stronger is not a Strategy](https://serce.me/posts/2026-10-16-faster-better-stronger-is-not-a-strategy)
 * [2026-10-15, 20:22:14](https://lobste.rs/s/ipyrkv/about_time) - [About time](https://www.bipm.org/en/cgpm-2026/resolution-5)
 * [2026-10-15, 19:43:19](https://lobste.rs/s/vemho2/forgejo_v17_0_is_available) - [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
