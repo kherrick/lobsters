@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-15, 12:06:10](https://lobste.rs/s/uqugjk/costa_gui) - [The Costa GUI](https://costa.jacobpalm.dk)
+* [2026-10-15, 10:53:12](https://lobste.rs/s/zqa5yz/hol_light_tutorial) - [HOL Light Tutorial](https://hol-light.github.io/tutorial/HTML/tutorial.html)
 * [2026-10-15, 10:48:58](https://lobste.rs/s/bpvpbe/geometric_model_maintenance) - [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
 * [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
 * [2026-10-15, 09:07:04](https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong) - [Everyone is doing Git on S3 wrong](https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong)
@@ -13,7 +15,6 @@
 * [2026-10-14, 21:04:44](https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views) - [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
 * [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 * [2026-10-14, 20:08:19](https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet) - [We found a Tencent agent fleet](https://swarmcha.se/posts/chinese-agent-fleet-full-report)
-* [2026-10-14, 18:41:38](https://lobste.rs/s/ireiaf/delightql_query_language) - [The DelightQL Query Language](https://delightql.org)
 * [2026-10-14, 17:42:56](https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse) - [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 * [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
@@ -24,7 +25,6 @@
 * [2026-10-14, 11:06:48](https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise) - [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
 * [2026-10-14, 07:54:56](https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 * [2026-10-14, 06:24:41](https://lobste.rs/s/zitobg/fancy_curl_sites) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
-* [2026-10-14, 04:18:17](https://lobste.rs/s/dyypvf/apple_switch_safari_from_chrome) - [Apple: Switch to Safari (from Chrome)](https://www.apple.com/safari/switch/)
 
 ## [Archives](archives/index.md)
 
