@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-15, 14:02:45](https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be) - [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
+* [2026-10-15, 14:03:09](https://lobste.rs/s/9xticb/libreboot_26_10_ominous_olive_released) - [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html)
 * [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
 * [2026-10-15, 12:06:10](https://lobste.rs/s/uqugjk/costa_gui) - [The Costa GUI](https://costa.jacobpalm.dk)
 * [2026-10-15, 10:48:58](https://lobste.rs/s/bpvpbe/geometric_model_maintenance) - [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
