@@ -8,7 +8,7 @@
 * [2026-10-14, 16:44:09](https://lobste.rs/s/5m8mle/how_l0pht_probably_optimized_attack) - [How the L0pht (probably) optimized attack against the LanMan hash](https://modexp.wordpress.com/2019/02/02/3883/)
 * [2026-10-14, 16:14:11](https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem) - [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
 * [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
-* [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self) - [What I Self-Host | Aspirational Self Hosting Guide](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+* [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
 * [2026-10-14, 14:36:51](https://lobste.rs/s/mf3tmv/zxc_lossless_compression_built_for_ultra) - [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
 * [2026-10-14, 13:42:39](https://lobste.rs/s/a4ljnh/factor_0_102_now_available) - [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
