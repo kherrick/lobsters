@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-15, 14:03:09](https://lobste.rs/s/9xticb/libreboot_26_10_ominous_olive_released) - [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html)
+* [2026-10-15, 14:02:45](https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be) - [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
 * [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
 * [2026-10-15, 12:06:10](https://lobste.rs/s/uqugjk/costa_gui) - [The Costa GUI](https://costa.jacobpalm.dk)
 * [2026-10-15, 10:48:58](https://lobste.rs/s/bpvpbe/geometric_model_maintenance) - [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
@@ -19,9 +21,7 @@
 * [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 * [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
-* [2026-10-14, 13:42:39](https://lobste.rs/s/a4ljnh/factor_0_102_now_available) - [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
 * [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
-* [2026-10-14, 11:18:09](https://lobste.rs/s/tsjuje/yet_another_place_where_linux_man_page_is) - [yet another place where a linux man page is inaccurate](https://sebsite.pw/w/20261014-initstate.html)
 * [2026-10-14, 11:06:48](https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise) - [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
 * [2026-10-14, 07:54:56](https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 * [2026-10-14, 06:24:41](https://lobste.rs/s/zitobg/fancy_curl_sites) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-15, 14:03:09](https://lobste.rs/s/9xticb/libreboot_26_10_ominous_olive_released) - [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html)
 * [2026-10-15, 14:02:45](https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be) - [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
 * [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
