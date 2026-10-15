@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-15, 14:02:45](https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be) - [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
 * [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
 * [2026-10-15, 12:06:10](https://lobste.rs/s/uqugjk/costa_gui) - [The Costa GUI](https://costa.jacobpalm.dk)
-* [2026-10-15, 11:56:01](https://lobste.rs/s/bkihr6/this_month_ladybird_september_2026) - [This Month in Ladybird - September 2026](https://ladybird.org/newsletter/2026-09-30/)
 * [2026-10-15, 10:48:58](https://lobste.rs/s/bpvpbe/geometric_model_maintenance) - [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
 * [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
 * [2026-10-15, 10:02:33](https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s) - [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
