@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-15, 10:48:58](https://lobste.rs/s/bpvpbe/geometric_model_maintenance) - [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
 * [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
 * [2026-10-15, 08:38:41](https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with) - [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
@@ -16,7 +17,6 @@
 * [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 * [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
-* [2026-10-14, 14:36:51](https://lobste.rs/s/mf3tmv/zxc_lossless_compression_built_for_ultra) - [ZXC: Lossless compression built for ultra-fast decode](https://libzxc.org/)
 * [2026-10-14, 13:42:39](https://lobste.rs/s/a4ljnh/factor_0_102_now_available) - [Factor 0.102 now available](https://re.factorcode.org/2026/10/factor-0-102-now-available.html)
 * [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
 * [2026-10-14, 11:18:09](https://lobste.rs/s/tsjuje/yet_another_place_where_linux_man_page_is) - [yet another place where a linux man page is inaccurate](https://sebsite.pw/w/20261014-initstate.html)
