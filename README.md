@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-15, 05:28:48](https://lobste.rs/s/yista4/emulator_writer_s_howto_for_static_binary) - [An Emulator Writer's HOWTO for Static Binary Translation](https://www.gtoal.com/sbt/)
 * [2026-10-14, 22:27:10](https://lobste.rs/s/9lqyul/ito_build_terminal_ui_lua) - [ito - build terminal ui in lua](https://uji.sh/ito)
 * [2026-10-14, 21:04:44](https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views) - [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
 * [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
@@ -22,7 +23,6 @@
 * [2026-10-14, 05:34:22](https://lobste.rs/s/6vs8a0/compiler_bootstrapping_depends_on_more) - [Compiler bootstrapping depends on more than you might think](https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges)
 * [2026-10-14, 04:18:17](https://lobste.rs/s/dyypvf/apple_switch_safari_from_chrome) - [Apple: Switch to Safari (from Chrome)](https://www.apple.com/safari/switch/)
 * [2026-10-13, 21:17:07](https://lobste.rs/s/y65egs/announcing_lix_2_96_bingsu) - [Announcing Lix 2.96 “Bingsu”](https://lix.systems/blog/2026-10-13-lix-2.96-release/)
-* [2026-10-13, 20:37:52](https://lobste.rs/s/5ucftp/redesigning_source_control_at_anthropic) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 13:44:47](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without) - [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/)
 
