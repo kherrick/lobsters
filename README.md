@@ -11,6 +11,7 @@
 * [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
 * [2026-10-15, 10:02:33](https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s) - [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
 * [2026-10-15, 09:07:04](https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong) - [Everyone is doing Git on S3 wrong](https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong)
+* [2026-10-15, 08:38:41](https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with) - [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 * [2026-10-15, 07:47:41](https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog) - [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
 * [2026-10-15, 05:28:48](https://lobste.rs/s/yista4/emulator_writer_s_howto_for_static_binary) - [An Emulator Writer's HOWTO for Static Binary Translation](https://www.gtoal.com/sbt/)
@@ -24,7 +25,6 @@
 * [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
 * [2026-10-14, 11:29:51](https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday) - [Plasma 6.8 released (KDE's 30th birthday)](https://kde.org/announcements/plasma/6/6.8.0/)
 * [2026-10-14, 11:06:48](https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise) - [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
-* [2026-10-14, 06:24:41](https://lobste.rs/s/zitobg/fancy_curl_sites) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
 
 ## [Archives](archives/index.md)
 
