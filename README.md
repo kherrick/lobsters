@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-15, 08:38:41](https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with) - [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 * [2026-10-15, 07:47:41](https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog) - [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
 * [2026-10-15, 05:28:48](https://lobste.rs/s/yista4/emulator_writer_s_howto_for_static_binary) - [An Emulator Writer's HOWTO for Static Binary Translation](https://www.gtoal.com/sbt/)
@@ -24,7 +25,6 @@
 * [2026-10-14, 07:54:56](https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 * [2026-10-14, 06:24:41](https://lobste.rs/s/zitobg/fancy_curl_sites) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
 * [2026-10-14, 04:18:17](https://lobste.rs/s/dyypvf/apple_switch_safari_from_chrome) - [Apple: Switch to Safari (from Chrome)](https://www.apple.com/safari/switch/)
-* [2026-10-13, 14:36:52](https://lobste.rs/s/73ssw1/plea_not_use_uv_build) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 
 ## [Archives](archives/index.md)
 
