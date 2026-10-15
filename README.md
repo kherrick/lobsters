@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-15, 19:33:19](https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan) - [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
+* [2026-10-15, 17:36:38](https://lobste.rs/s/ivsn8e/religious_studies_software_engineering) - [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
 * [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 * [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-15, 14:42:12](https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn) - [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html)
@@ -11,7 +13,6 @@
 * [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
 * [2026-10-15, 10:02:33](https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s) - [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
 * [2026-10-15, 09:07:04](https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong) - [Everyone is doing Git on S3 wrong](https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong)
-* [2026-10-15, 08:38:41](https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with) - [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 * [2026-10-15, 07:47:41](https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog) - [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
 * [2026-10-15, 05:28:48](https://lobste.rs/s/yista4/emulator_writer_s_howto_for_static_binary) - [An Emulator Writer's HOWTO for Static Binary Translation](https://www.gtoal.com/sbt/)
@@ -19,7 +20,6 @@
 * [2026-10-14, 21:04:44](https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views) - [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
 * [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 * [2026-10-14, 20:08:19](https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet) - [We found a Tencent agent fleet](https://swarmcha.se/posts/chinese-agent-fleet-full-report)
-* [2026-10-14, 17:42:56](https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse) - [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 * [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
