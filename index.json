@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-15, 19:33:19",
+      "https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan"
+    ],
+    [
+      "Gleam case exhaustiveness, as a fan",
+      "https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 17:36:38",
+      "https://lobste.rs/s/ivsn8e/religious_studies_software_engineering"
+    ],
+    [
+      "Religious Studies In Software Engineering",
+      "https://tombh.co.uk/religious-studies-in-software-engineering"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 15:32:15",
       "https://lobste.rs/s/umdbht/my_c23_conventions"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-10-15, 08:38:41",
-      "https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with"
-    ],
-    [
-      "ArenaAllocators don't play nicely with ArrayLists",
-      "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/"
-    ]
-  ],
-  [
-    [
       "2026-10-15, 07:58:35",
       "https://lobste.rs/s/bcaopz/haxy_on_haxy"
     ],
@@ -187,16 +197,6 @@
     [
       "We found a Tencent agent fleet",
       "https://swarmcha.se/posts/chinese-agent-fleet-full-report"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 17:42:56",
-      "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse"
-    ],
-    [
-      "Better HTTP/1 connection reuse",
-      "https://go.dev/blog/http-connection-reuse"
     ]
   ],
   [
