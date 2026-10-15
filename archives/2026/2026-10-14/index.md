@@ -7,6 +7,7 @@
 * [2026-10-14, 22:27:10](https://lobste.rs/s/9lqyul/ito_build_terminal_ui_lua) - [ito - build terminal ui in lua](https://uji.sh/ito)
 * [2026-10-14, 21:04:44](https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views) - [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
 * [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke · sunshowers](https://sunshowers.io/posts/anthropic-mononoke/)
+* [2026-10-14, 20:08:19](https://lobste.rs/s/wcoes4/we_found_chinese_fleet) - [We found a Chinese fleet](https://swarmcha.se/posts/chinese-agent-fleet-full-report)
 * [2026-10-14, 18:41:38](https://lobste.rs/s/ireiaf/delightql_query_language) - [The DelightQL Query Language](https://delightql.org)
 * [2026-10-14, 17:42:56](https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse) - [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 17:16:17](https://lobste.rs/s/ysnvjn/root_dnssec_trust_anchors) - [Root DNSSEC trust anchors](https://jpmens.net/2026/10/14/root-dnssec-trust-anchors/)
