@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-10-15, 08:38:41",
+      "https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with"
+    ],
+    [
+      "ArenaAllocators don't play nicely with ArrayLists",
+      "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 07:58:35",
       "https://lobste.rs/s/bcaopz/haxy_on_haxy"
     ],
@@ -237,16 +247,6 @@
     [
       "Introducing Firefox Enterprise",
       "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 06:24:41",
-      "https://lobste.rs/s/zitobg/fancy_curl_sites"
-    ],
-    [
-      "Fancy Curl Sites",
-      "https://nytpu.com/gemlog/2026-03-18"
     ]
   ]
 ]
