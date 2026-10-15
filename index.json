@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-15, 15:32:15",
+      "https://lobste.rs/s/umdbht/my_c23_conventions"
+    ],
+    [
+      "My C23 Conventions",
+      "https://abner.page/post/c23-conventions-1/"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 14:42:45",
       "https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases"
     ],
@@ -97,16 +107,6 @@
     [
       "Everyone is doing Git on S3 wrong",
       "https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 08:38:41",
-      "https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with"
-    ],
-    [
-      "ArenaAllocators don't play nicely with ArrayLists",
-      "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/"
     ]
   ],
   [
