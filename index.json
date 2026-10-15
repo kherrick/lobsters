@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-10-15, 05:28:48",
+      "https://lobste.rs/s/yista4/emulator_writer_s_howto_for_static_binary"
+    ],
+    [
+      "An Emulator Writer's HOWTO for Static Binary Translation",
+      "https://www.gtoal.com/sbt/"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 05:00:23",
       "https://lobste.rs/s/ixoasm/furifont_furigana_built_into_font"
     ],
@@ -197,16 +207,6 @@
     [
       "My Game's Procedural Dialogue System",
       "https://www.youtube.com/watch?v=NaW0d7Tghw0"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 09:44:11",
-      "https://lobste.rs/s/g46xkj/uaf_turned_rce"
-    ],
-    [
-      "A UAF turned RCE",
-      "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/"
     ]
   ],
   [
