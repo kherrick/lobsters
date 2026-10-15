@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 20:22:14](https://lobste.rs/s/ipyrkv/about_time) - [About time](https://www.bipm.org/en/cgpm-2026/resolution-5)
 * [2026-10-15, 19:33:19](https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan) - [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
 * [2026-10-15, 17:36:38](https://lobste.rs/s/ivsn8e/religious_studies_software_engineering) - [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
 * [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
