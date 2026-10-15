@@ -4,6 +4,7 @@
 * [2026-10-15, 19:43:19](https://lobste.rs/s/vemho2/forgejo_v17_0_is_available) - [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
 * [2026-10-15, 19:33:19](https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan) - [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
 * [2026-10-15, 17:36:38](https://lobste.rs/s/ivsn8e/religious_studies_software_engineering) - [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
+* [2026-10-15, 15:36:45](https://lobste.rs/s/mr7pk9/rust_djinn_you_should_specify_your_code) - [rust-djinn: You Should Specify Your Code Unambiguously (and Prove That You Did)](https://henniger.dev/post/djinn/)
 * [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 * [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-15, 14:42:12](https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn) - [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html)
@@ -23,7 +24,6 @@
 * [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 * [2026-10-14, 20:08:19](https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet) - [We found a Tencent agent fleet](https://swarmcha.se/posts/chinese-agent-fleet-full-report)
 * [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
-* [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
 * [2026-10-14, 11:06:48](https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise) - [Introducing Firefox Enterprise](https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/)
 
 ## [Archives](archives/index.md)
