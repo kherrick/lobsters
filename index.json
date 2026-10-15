@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-15, 20:22:14",
+      "https://lobste.rs/s/ipyrkv/about_time"
+    ],
+    [
+      "About time",
+      "https://www.bipm.org/en/cgpm-2026/resolution-5"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 19:33:19",
       "https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan"
     ],
@@ -197,16 +207,6 @@
     [
       "We found a Tencent agent fleet",
       "https://swarmcha.se/posts/chinese-agent-fleet-full-report"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 15:55:52",
-      "https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution"
-    ],
-    [
-      "GitLab warns of max severity code execution vulnerability",
-      "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
     ]
   ],
   [
