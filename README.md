@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-15, 20:22:14](https://lobste.rs/s/ipyrkv/about_time) - [About time](https://www.bipm.org/en/cgpm-2026/resolution-5)
+* [2026-10-15, 19:43:19](https://lobste.rs/s/vemho2/forgejo_v17_0_is_available) - [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
 * [2026-10-15, 19:33:19](https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan) - [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
 * [2026-10-15, 17:36:38](https://lobste.rs/s/ivsn8e/religious_studies_software_engineering) - [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
 * [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
@@ -16,7 +17,6 @@
 * [2026-10-15, 09:07:04](https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong) - [Everyone is doing Git on S3 wrong](https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 * [2026-10-15, 07:47:41](https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog) - [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
-* [2026-10-15, 05:28:48](https://lobste.rs/s/yista4/emulator_writer_s_howto_for_static_binary) - [An Emulator Writer's HOWTO for Static Binary Translation](https://www.gtoal.com/sbt/)
 * [2026-10-15, 05:00:23](https://lobste.rs/s/ixoasm/furifont_furigana_built_into_font) - [Furifont: furigana built into the font](https://furifont.antfu.me/)
 * [2026-10-14, 21:04:44](https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views) - [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/)
 * [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
