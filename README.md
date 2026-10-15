@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
 * [2026-10-15, 08:38:41](https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with) - [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 * [2026-10-15, 07:47:41](https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog) - [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
@@ -12,7 +13,6 @@
 * [2026-10-14, 20:08:19](https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet) - [We found a Tencent agent fleet](https://swarmcha.se/posts/chinese-agent-fleet-full-report)
 * [2026-10-14, 18:41:38](https://lobste.rs/s/ireiaf/delightql_query_language) - [The DelightQL Query Language](https://delightql.org)
 * [2026-10-14, 17:42:56](https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse) - [Better HTTP/1 connection reuse](https://go.dev/blog/http-connection-reuse)
-* [2026-10-14, 16:14:11](https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem) - [Package managers have an integrity problem](https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/)
 * [2026-10-14, 15:55:52](https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution) - [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 * [2026-10-14, 15:32:48](https://lobste.rs/s/j4tlzg/what_i_self_host) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-14, 15:13:26](https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating) - [Awesome Gaming on Linux Without Cheating](https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2)
