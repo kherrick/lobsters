@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
 * [2026-10-15, 12:06:10](https://lobste.rs/s/uqugjk/costa_gui) - [The Costa GUI](https://costa.jacobpalm.dk)
 * [2026-10-15, 11:56:01](https://lobste.rs/s/bkihr6/this_month_ladybird_september_2026) - [This Month in Ladybird - September 2026](https://ladybird.org/newsletter/2026-09-30/)
 * [2026-10-15, 10:53:12](https://lobste.rs/s/zqa5yz/hol_light_tutorial) - [HOL Light Tutorial](https://hol-light.github.io/tutorial/HTML/tutorial.html)
