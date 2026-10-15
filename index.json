@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-15, 12:06:10",
+      "https://lobste.rs/s/uqugjk/costa_gui"
+    ],
+    [
+      "The Costa GUI",
+      "https://costa.jacobpalm.dk"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 10:53:12",
+      "https://lobste.rs/s/zqa5yz/hol_light_tutorial"
+    ],
+    [
+      "HOL Light Tutorial",
+      "https://hol-light.github.io/tutorial/HTML/tutorial.html"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 10:48:58",
       "https://lobste.rs/s/bpvpbe/geometric_model_maintenance"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-10-14, 18:41:38",
-      "https://lobste.rs/s/ireiaf/delightql_query_language"
-    ],
-    [
-      "The DelightQL Query Language",
-      "https://delightql.org"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 17:42:56",
       "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse"
     ],
@@ -237,16 +247,6 @@
     [
       "Fancy Curl Sites",
       "https://nytpu.com/gemlog/2026-03-18"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 04:18:17",
-      "https://lobste.rs/s/dyypvf/apple_switch_safari_from_chrome"
-    ],
-    [
-      "Apple: Switch to Safari (from Chrome)",
-      "https://www.apple.com/safari/switch/"
     ]
   ]
 ]
