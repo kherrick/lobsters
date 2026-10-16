@@ -2,6 +2,7 @@
 
 * [2026-10-16, 03:25:49](https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus) - [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
 * [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
+* [2026-10-16, 02:28:13](https://lobste.rs/s/eqoieo/where_did_win32_lean_mean_come_from_2009) - [Where did WIN32_LEAN_AND_MEAN come from? (2009)](https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/)
 * [2026-10-15, 23:03:00](https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1) - [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
 * [2026-10-15, 22:48:19](https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily) - [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
 * [2026-10-15, 20:22:14](https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure) - [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
@@ -15,7 +16,6 @@
 * [2026-10-15, 14:02:45](https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be) - [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html)
 * [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
 * [2026-10-15, 12:06:10](https://lobste.rs/s/uqugjk/costa_gui) - [The Costa GUI](https://costa.jacobpalm.dk)
-* [2026-10-15, 10:48:58](https://lobste.rs/s/bpvpbe/geometric_model_maintenance) - [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
 * [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
 * [2026-10-15, 10:02:33](https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s) - [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
