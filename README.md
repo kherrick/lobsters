@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-16, 12:54:20](https://lobste.rs/s/xcacrh/mull_note_taking_with_language_server) - [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
 * [2026-10-16, 12:39:23](https://lobste.rs/s/gtev9y/lessons_learned_building_fronteira_mcp) - [Lessons learned building Fronteira, an MCP proxy with behavioral guardrails](https://wiki.alcidesfonseca.com/blog/lessons-learned-building-fronteira/)
 * [2026-10-16, 12:02:05](https://lobste.rs/s/6laoto/road_iroh_1_0) - [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
 * [2026-10-16, 11:26:57](https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa) - [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
@@ -16,7 +17,6 @@
 * [2026-10-15, 20:22:14](https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure) - [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
 * [2026-10-15, 19:43:19](https://lobste.rs/s/vemho2/forgejo_v17_0_is_available) - [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
 * [2026-10-15, 19:33:19](https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan) - [Gleam case exhaustiveness, as a fan](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp)
-* [2026-10-15, 17:36:38](https://lobste.rs/s/ivsn8e/religious_studies_software_engineering) - [Religious Studies In Software Engineering](https://tombh.co.uk/religious-studies-in-software-engineering)
 * [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 * [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-15, 14:42:12](https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn) - [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html)
