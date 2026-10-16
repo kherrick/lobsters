@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 16:36:29](https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out) - [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
 * [2026-10-16, 15:41:08](https://lobste.rs/s/cxlrc5/big_fish_exploiting_37_year_old_kernel_bug) - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 * [2026-10-16, 12:54:20](https://lobste.rs/s/xcacrh/mull_note_taking_with_language_server) - [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
 * [2026-10-16, 12:39:23](https://lobste.rs/s/gtev9y/lessons_learned_building_fronteira_mcp) - [Lessons learned building Fronteira, an MCP proxy with behavioral guardrails](https://wiki.alcidesfonseca.com/blog/lessons-learned-building-fronteira/)
