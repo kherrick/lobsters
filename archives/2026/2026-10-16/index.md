@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 08:46:51](https://lobste.rs/s/norjho/folders_esoteric_language) - [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders)
 * [2026-10-16, 08:19:09](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
 * [2026-10-16, 03:25:49](https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus) - [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
 * [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
