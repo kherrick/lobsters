@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-16, 11:26:57",
+      "https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa"
+    ],
+    [
+      "What agents mean for Rust (and vice versa)",
+      "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 09:28:51",
       "https://lobste.rs/s/shs3xv/writing_stateful_effect_handlers_eyg"
     ],
@@ -217,16 +227,6 @@
     [
       "Microsoft Defender for Linux",
       "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 10:02:33",
-      "https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s"
-    ],
-    [
-      "sslx: A fast, modern alternative to OpenSSL's CLI",
-      "https://github.com/glincker/sslx"
     ]
   ],
   [
