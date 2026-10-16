@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-16, 02:50:33",
+      "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
+    ],
+    [
+      "Linus Torvalds on AI-assisted kernel contributions",
+      "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 23:03:00",
       "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1"
     ],
@@ -157,16 +167,6 @@
     [
       "sslx: A fast, modern alternative to OpenSSL's CLI",
       "https://github.com/glincker/sslx"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 09:07:04",
-      "https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong"
-    ],
-    [
-      "Everyone is doing Git on S3 wrong",
-      "https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong"
     ]
   ],
   [
