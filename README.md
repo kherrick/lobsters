@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-16, 11:26:57](https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa) - [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
 * [2026-10-16, 09:28:51](https://lobste.rs/s/shs3xv/writing_stateful_effect_handlers_eyg) - [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects)
 * [2026-10-16, 08:46:51](https://lobste.rs/s/norjho/folders_esoteric_language) - [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders)
 * [2026-10-16, 08:19:09](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
@@ -22,7 +23,6 @@
 * [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
 * [2026-10-15, 12:06:10](https://lobste.rs/s/uqugjk/costa_gui) - [The Costa GUI](https://costa.jacobpalm.dk)
 * [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
-* [2026-10-15, 10:02:33](https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s) - [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 * [2026-10-14, 20:56:59](https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 
