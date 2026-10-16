@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-16, 18:03:21](https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2) - [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
 * [2026-10-16, 16:49:07](https://lobste.rs/s/cgs07z/thirty_years_kde) - [Thirty Years of KDE](https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html)
 * [2026-10-16, 16:36:29](https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out) - [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
 * [2026-10-16, 15:41:08](https://lobste.rs/s/cxlrc5/big_fish_exploiting_37_year_old_kernel_bug) - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
@@ -7,7 +8,6 @@
 * [2026-10-16, 12:02:05](https://lobste.rs/s/6laoto/road_iroh_1_0) - [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
 * [2026-10-16, 11:26:57](https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa) - [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
 * [2026-10-16, 11:21:12](https://lobste.rs/s/v6hhdr/making_88x31_button_book_using) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
-* [2026-10-16, 09:28:51](https://lobste.rs/s/shs3xv/writing_stateful_effect_handlers_eyg) - [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects)
 * [2026-10-16, 08:46:51](https://lobste.rs/s/norjho/folders_esoteric_language) - [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders)
 * [2026-10-16, 08:19:09](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
 * [2026-10-16, 06:22:46](https://lobste.rs/s/2mlkhe/matt_mullenweg_orders_accessibility) - [Matt Mullenweg Orders Accessibility Revert](https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project)
