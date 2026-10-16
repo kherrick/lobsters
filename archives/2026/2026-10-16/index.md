@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 18:25:15](https://lobste.rs/s/xwng6u/introducing_gnome_os_preview) - [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
 * [2026-10-16, 18:03:21](https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2) - [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
 * [2026-10-16, 16:49:07](https://lobste.rs/s/cgs07z/thirty_years_kde) - [Thirty Years of KDE](https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html)
 * [2026-10-16, 16:36:29](https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out) - [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
