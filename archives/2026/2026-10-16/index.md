@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 12:39:23](https://lobste.rs/s/gtev9y/lessons_learned_building_fronteira_mcp) - [Lessons learned building Fronteira, an MCP proxy with behavioral guardrails](https://wiki.alcidesfonseca.com/blog/lessons-learned-building-fronteira/)
+* [2026-10-16, 12:02:05](https://lobste.rs/s/6laoto/road_iroh_1_0) - [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
 * [2026-10-16, 11:26:57](https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa) - [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
+* [2026-10-16, 11:21:12](https://lobste.rs/s/v6hhdr/making_88x31_button_book_using) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 * [2026-10-16, 09:28:51](https://lobste.rs/s/shs3xv/writing_stateful_effect_handlers_eyg) - [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects)
 * [2026-10-16, 08:46:51](https://lobste.rs/s/norjho/folders_esoteric_language) - [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders)
 * [2026-10-16, 08:19:09](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
