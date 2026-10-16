@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2026-10-16, 16:49:07",
-      "https://lobste.rs/s/cgs07z/thirty_years_kde"
+      "2026-10-16, 16:36:29",
+      "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"
     ],
     [
-      "Thirty Years of KDE",
-      "https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html"
+      "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "https://maevyn.codes/decoherence"
     ]
   ],
   [
@@ -101,22 +101,22 @@
   ],
   [
     [
+      "2026-10-16, 11:26:57",
+      "https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa"
+    ],
+    [
+      "What agents mean for Rust (and vice versa)",
+      "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 11:21:12",
       "https://lobste.rs/s/v6hhdr/making_88x31_button_book_using"
     ],
     [
       "Making a 88x31 button book using ImageMagick",
       "https://k.sosnierz.me/08-11-24/"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 09:28:51",
-      "https://lobste.rs/s/shs3xv/writing_stateful_effect_handlers_eyg"
-    ],
-    [
-      "Writing stateful effect handlers in EYG",
-      "https://eyg.run/guides/advanced-effects"
     ]
   ],
   [
@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2026-10-16, 05:31:52",
-      "https://lobste.rs/s/qcjvlw/coopiano_physically_modelled_piano"
+      "2026-10-16, 05:28:29",
+      "https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this"
     ],
     [
-      "coopiano: A physically modelled piano synthesizer in C++17",
-      "https://github.com/peterc/coopiano"
+      "Why are we even doing all this?",
+      "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "My self-hosted infrastructure with Incus OS",
       "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 02:50:33",
+      "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
+    ],
+    [
+      "Linus Torvalds on AI-assisted kernel contributions",
+      "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-10-15, 19:33:19",
-      "https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan"
-    ],
-    [
-      "Gleam case exhaustiveness, as a fan",
-      "https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp"
-    ]
-  ],
-  [
-    [
       "2026-10-15, 15:32:15",
       "https://lobste.rs/s/umdbht/my_c23_conventions"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-10-15, 07:58:35",
-      "https://lobste.rs/s/bcaopz/haxy_on_haxy"
+      "2026-10-15, 13:27:41",
+      "https://lobste.rs/s/kaerns/sunsetting_decomp_dev"
     ],
     [
-      "Haxy on Haxy",
-      "https://try.haxy.net/haxy:haxy"
+      "Sunsetting decomp.dev",
+      "https://decomp.dev/"
     ]
   ]
 ]
