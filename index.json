@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-16, 18:54:16",
+      "https://lobste.rs/s/tty7hm/getting_canceled"
+    ],
+    [
+      "Getting Canceled",
+      "https://www.youtube.com/watch?v=5zIOfBLQ3U4"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 18:25:15",
       "https://lobste.rs/s/xwng6u/introducing_gnome_os_preview"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2026-10-16, 16:49:07",
-      "https://lobste.rs/s/cgs07z/thirty_years_kde"
+      "2026-10-16, 18:01:39",
+      "https://lobste.rs/s/61ujum/ubuntu_26_10_stonking_stingray_released"
     ],
     [
-      "Thirty Years of KDE",
-      "https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html"
+      "Ubuntu 26.10 (Stonking Stingray) released",
+      "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 05:31:52",
-      "https://lobste.rs/s/qcjvlw/coopiano_physically_modelled_piano"
-    ],
-    [
-      "coopiano: A physically modelled piano synthesizer in C++17",
-      "https://github.com/peterc/coopiano"
     ]
   ],
   [
