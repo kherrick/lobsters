@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 20:49:12](https://lobste.rs/s/wzgadv/there_s_never_been_better_time_go_into_math) - [There's never been a better time to go into math](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 * [2026-10-16, 18:54:16](https://lobste.rs/s/tty7hm/getting_canceled) - [Getting Canceled](https://www.youtube.com/watch?v=5zIOfBLQ3U4)
 * [2026-10-16, 18:25:15](https://lobste.rs/s/xwng6u/introducing_gnome_os_preview) - [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
