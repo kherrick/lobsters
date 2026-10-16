@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-16, 03:25:49",
+      "https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus"
+    ],
+    [
+      "My self-hosted infrastructure with Incus OS",
+      "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 02:50:33",
       "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
     ],
@@ -167,16 +177,6 @@
     [
       "sslx: A fast, modern alternative to OpenSSL's CLI",
       "https://github.com/glincker/sslx"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 08:38:41",
-      "https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with"
-    ],
-    [
-      "ArenaAllocators don't play nicely with ArrayLists",
-      "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/"
     ]
   ],
   [
