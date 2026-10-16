@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
 * [2026-10-15, 23:03:00](https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1) - [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
 * [2026-10-15, 22:48:19](https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily) - [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
 * [2026-10-15, 20:22:14](https://lobste.rs/s/ipyrkv/about_time) - [About time](https://www.bipm.org/en/cgpm-2026/resolution-5)
@@ -16,7 +17,6 @@
 * [2026-10-15, 10:48:58](https://lobste.rs/s/bpvpbe/geometric_model_maintenance) - [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance)
 * [2026-10-15, 10:04:47](https://lobste.rs/s/46dcms/microsoft_defender_for_linux) - [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822)
 * [2026-10-15, 10:02:33](https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s) - [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx)
-* [2026-10-15, 09:07:04](https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong) - [Everyone is doing Git on S3 wrong](https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong)
 * [2026-10-15, 08:38:41](https://lobste.rs/s/huk6zu/arenaallocators_don_t_play_nicely_with) - [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
 * [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 * [2026-10-15, 07:47:41](https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog) - [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg)
