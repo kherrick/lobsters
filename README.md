@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-16, 18:54:16](https://lobste.rs/s/tty7hm/getting_canceled) - [Getting Canceled](https://www.youtube.com/watch?v=5zIOfBLQ3U4)
 * [2026-10-16, 18:25:15](https://lobste.rs/s/xwng6u/introducing_gnome_os_preview) - [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
 * [2026-10-16, 18:03:21](https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2) - [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
 * [2026-10-16, 16:49:07](https://lobste.rs/s/cgs07z/thirty_years_kde) - [Thirty Years of KDE](https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html)
@@ -24,7 +25,6 @@
 * [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 * [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
-* [2026-10-15, 07:58:35](https://lobste.rs/s/bcaopz/haxy_on_haxy) - [Haxy on Haxy](https://try.haxy.net/haxy:haxy)
 
 ## [Archives](archives/index.md)
 
