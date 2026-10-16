@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-10-15, 13:27:41",
+      "https://lobste.rs/s/kaerns/sunsetting_decomp_dev"
+    ],
+    [
+      "Sunsetting decomp.dev",
+      "https://decomp.dev/"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 12:06:10",
       "https://lobste.rs/s/uqugjk/costa_gui"
     ],
@@ -137,6 +147,16 @@
     [
       "Microsoft Defender for Linux",
       "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 10:02:33",
+      "https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s"
+    ],
+    [
+      "sslx: A fast, modern alternative to OpenSSL's CLI",
+      "https://github.com/glincker/sslx"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2026-10-15, 05:28:48",
-      "https://lobste.rs/s/yista4/emulator_writer_s_howto_for_static_binary"
+      "2026-10-15, 05:00:23",
+      "https://lobste.rs/s/ixoasm/furifont_furigana_built_into_font"
     ],
     [
-      "An Emulator Writer's HOWTO for Static Binary Translation",
-      "https://www.gtoal.com/sbt/"
+      "Furifont: furigana built into the font",
+      "https://furifont.antfu.me/"
     ]
   ],
   [
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2026-10-14, 17:42:56",
-      "https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse"
+      "2026-10-14, 20:56:59",
+      "https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by"
     ],
     [
-      "Better HTTP/1 connection reuse",
-      "https://go.dev/blog/http-connection-reuse"
+      "Anthropic's Scion is heavily inspired by Mononoke",
+      "https://sunshowers.io/posts/anthropic-mononoke/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "What I Self-Host",
       "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 15:13:26",
-      "https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating"
-    ],
-    [
-      "Awesome Gaming on Linux Without Cheating",
-      "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 11:29:51",
-      "https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"
-    ],
-    [
-      "Plasma 6.8 released (KDE's 30th birthday)",
-      "https://kde.org/announcements/plasma/6/6.8.0/"
     ]
   ],
   [
