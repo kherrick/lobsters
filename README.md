@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-17, 04:22:50](https://lobste.rs/s/pllfoa/orib_bringing_back_old_reddit_interface) - [orib: Bringing back the old Reddit interface, with a few new enhancements](https://github.com/rajtilakjee/orib)
 * [2026-10-17, 01:12:09](https://lobste.rs/s/wn293o/interactive_refactoring_gopls) - [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
 * [2026-10-16, 23:53:05](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your) - [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your)
 * [2026-10-16, 20:49:12](https://lobste.rs/s/wzgadv/there_s_never_been_better_time_go_into_math) - [There's never been a better time to go into math](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
@@ -21,7 +22,6 @@
 * [2026-10-15, 23:03:00](https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1) - [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
 * [2026-10-15, 22:48:19](https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily) - [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
 * [2026-10-15, 20:22:14](https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure) - [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
-* [2026-10-15, 19:43:19](https://lobste.rs/s/vemho2/forgejo_v17_0_is_available) - [Forgejo v17.0 is available](https://forgejo.org/2026-10-release-v17-0/)
 * [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 * [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
