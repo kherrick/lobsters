@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-17, 07:21:14](https://lobste.rs/s/a0og2j/developing_for_debugging_2025) - [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/)
 * [2026-10-17, 06:12:46](https://lobste.rs/s/gwuebx/some_quick_thoughts_on_unit_testing) - [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/)
 * [2026-10-17, 05:08:50](https://lobste.rs/s/oh4yfc/stac_m3_benchmark_l_tick_database_1_0_on) - [STAC-M3 Benchmark: L tick database 1.0 on Oxide OxVM w/ 128 vCPUs & 1.25 TiB of RAM](https://docs.stacresearch.com/M3-20261005a)
 * [2026-10-17, 04:22:50](https://lobste.rs/s/pllfoa/orib_bringing_back_old_reddit_interface) - [orib: Bringing back the old Reddit interface, with a few new enhancements](https://github.com/rajtilakjee/orib)
@@ -19,7 +20,6 @@
 * [2026-10-16, 11:21:12](https://lobste.rs/s/v6hhdr/making_88x31_button_book_using) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 * [2026-10-16, 08:19:09](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
 * [2026-10-16, 05:28:29](https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
-* [2026-10-16, 03:25:49](https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus) - [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
 * [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
 * [2026-10-15, 23:03:00](https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1) - [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
 * [2026-10-15, 22:48:19](https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily) - [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
