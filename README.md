@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-17, 17:08:33](https://lobste.rs/s/iyquo7/principles_anchor_engineering) - [Principles of Anchor Engineering](https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/)
 * [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-17, 15:42:25](https://lobste.rs/s/cdb7fq/future_programming) - [Future of Programming](https://www.youtube.com/watch?v=bISIgO4x49A)
 * [2026-10-17, 14:16:33](https://lobste.rs/s/rtd5gq/ship_your_interpreter) - [Ship Your Interpreter](https://www.basis.ai/blog/ship-your-interpreters/)
@@ -21,7 +22,6 @@
 * [2026-10-16, 12:54:20](https://lobste.rs/s/xcacrh/mull_note_taking_with_language_server) - [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
 * [2026-10-16, 12:02:05](https://lobste.rs/s/6laoto/road_iroh_1_0) - [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
 * [2026-10-16, 11:21:12](https://lobste.rs/s/v6hhdr/making_88x31_button_book_using) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
-* [2026-10-16, 08:19:09](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
 * [2026-10-16, 05:28:29](https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 * [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
 * [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
