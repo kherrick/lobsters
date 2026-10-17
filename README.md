@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-17, 15:42:25](https://lobste.rs/s/cdb7fq/future_programming) - [Future of Programming](https://www.youtube.com/watch?v=bISIgO4x49A)
 * [2026-10-17, 14:16:33](https://lobste.rs/s/rtd5gq/ship_your_interpreter) - [Ship Your Interpreter](https://www.basis.ai/blog/ship-your-interpreters/)
 * [2026-10-17, 12:17:20](https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
@@ -23,7 +24,6 @@
 * [2026-10-16, 08:19:09](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
 * [2026-10-16, 05:28:29](https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 * [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
-* [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 * [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 
 ## [Archives](archives/index.md)
