@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-16, 23:53:05",
-      "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your"
-    ],
-    [
-      "Do you let LLMs write both your tests and your code?",
-      "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 20:49:12",
       "https://lobste.rs/s/wzgadv/there_s_never_been_better_time_go_into_math"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2026-10-16, 18:52:23",
+      "https://lobste.rs/s/lnh3vn/c_26_new_debugging_header"
+    ],
+    [
+      "C++26: the new debugging header",
+      "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 18:25:15",
       "https://lobste.rs/s/xwng6u/introducing_gnome_os_preview"
     ],
@@ -91,12 +91,22 @@
   ],
   [
     [
-      "2026-10-16, 16:36:29",
-      "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"
+      "2026-10-16, 17:06:25",
+      "https://lobste.rs/s/obhuqr/abstraction_intuition_monad_tutorial"
     ],
     [
-      "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-      "https://maevyn.codes/decoherence"
+      "Abstraction, intuition, and the “monad tutorial fallacy”(2009)",
+      "https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 16:49:07",
+      "https://lobste.rs/s/cgs07z/thirty_years_kde"
+    ],
+    [
+      "Thirty Years of KDE",
+      "https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html"
     ]
   ],
   [
@@ -131,22 +141,22 @@
   ],
   [
     [
-      "2026-10-16, 11:26:57",
-      "https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa"
-    ],
-    [
-      "What agents mean for Rust (and vice versa)",
-      "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 11:21:12",
       "https://lobste.rs/s/v6hhdr/making_88x31_button_book_using"
     ],
     [
       "Making a 88x31 button book using ImageMagick",
       "https://k.sosnierz.me/08-11-24/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 08:46:51",
+      "https://lobste.rs/s/norjho/folders_esoteric_language"
+    ],
+    [
+      "Folders Esoteric Language",
+      "https://danieltemkin.com/esolangs/folders"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-10-16, 05:28:29",
-      "https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this"
-    ],
-    [
-      "Why are we even doing all this?",
-      "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 03:25:49",
       "https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus"
     ],
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2026-10-16, 02:50:33",
-      "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
+      "2026-10-16, 02:28:13",
+      "https://lobste.rs/s/eqoieo/where_did_win32_lean_mean_come_from_2009"
     ],
     [
-      "Linus Torvalds on AI-assisted kernel contributions",
-      "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
+      "Where did WIN32_LEAN_AND_MEAN come from? (2009)",
+      "https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "Epic's EAC2 v2 seems fairly easily bypassable",
       "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 20:22:14",
+      "https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure"
+    ],
+    [
+      "On the technical actions needed to ensure the continuity of UTC",
+      "https://www.bipm.org/en/cgpm-2026/resolution-5"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "JPEG XL vs AVIF for web use-cases",
       "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 13:27:41",
-      "https://lobste.rs/s/kaerns/sunsetting_decomp_dev"
-    ],
-    [
-      "Sunsetting decomp.dev",
-      "https://decomp.dev/"
     ]
   ]
 ]
