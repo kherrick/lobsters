@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
+* [2026-10-17, 15:42:25](https://lobste.rs/s/cdb7fq/future_programming) - [Future of Programming](https://www.youtube.com/watch?v=bISIgO4x49A)
 * [2026-10-17, 14:16:33](https://lobste.rs/s/rtd5gq/ship_your_interpreter) - [Ship Your Interpreter](https://www.basis.ai/blog/ship-your-interpreters/)
 * [2026-10-17, 12:17:20](https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any) - [Intuitive concurrent programming in any language | Lingua Franca](https://www.lf-lang.org/)
 * [2026-10-17, 07:21:14](https://lobste.rs/s/a0og2j/developing_for_debugging_2025) - [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/)
