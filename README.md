@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-17, 18:39:21](https://lobste.rs/s/01ak6c/ai_first_git_compatible_source_control) - [AI-First, Git-Compatible Source Control](https://strata.madskristiansen.com/)
 * [2026-10-17, 18:24:39](https://lobste.rs/s/np84oh/pwnescape_guest_host_kvm_escape_cve_2026) - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://pwn.ai/blog/pwnescape)
 * [2026-10-17, 17:08:33](https://lobste.rs/s/iyquo7/principles_anchor_engineering) - [Principles of Anchor Engineering](https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/)
 * [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
@@ -16,7 +17,6 @@
 * [2026-10-16, 18:54:16](https://lobste.rs/s/tty7hm/getting_canceled) - [Getting Canceled](https://www.youtube.com/watch?v=5zIOfBLQ3U4)
 * [2026-10-16, 18:25:15](https://lobste.rs/s/xwng6u/introducing_gnome_os_preview) - [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
 * [2026-10-16, 18:03:21](https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2) - [We're sunsetting Codeberg Pages v2](https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html)
-* [2026-10-16, 18:01:39](https://lobste.rs/s/61ujum/ubuntu_26_10_stonking_stingray_released) - [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
 * [2026-10-16, 16:36:29](https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out) - [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
 * [2026-10-16, 15:41:08](https://lobste.rs/s/cxlrc5/big_fish_exploiting_37_year_old_kernel_bug) - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 * [2026-10-16, 12:54:20](https://lobste.rs/s/xcacrh/mull_note_taking_with_language_server) - [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull)
