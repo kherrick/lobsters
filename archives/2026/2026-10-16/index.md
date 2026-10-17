@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 23:53:05](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your) - [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your)
 * [2026-10-16, 20:49:12](https://lobste.rs/s/wzgadv/there_s_never_been_better_time_go_into_math) - [There's never been a better time to go into math](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 * [2026-10-16, 20:47:02](https://lobste.rs/s/1zknyw/someone_on_torrent_sites_kept_fucking) - [Someone on Torrent Sites Kept Fucking With My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
