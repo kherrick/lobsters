@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-17, 01:12:09",
+      "https://lobste.rs/s/wn293o/interactive_refactoring_gopls"
+    ],
+    [
+      "Interactive refactoring in gopls",
+      "https://go.dev/blog/interactive-refactoring"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 23:53:05",
       "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your"
     ],
@@ -167,16 +177,6 @@
     [
       "Linus Torvalds on AI-assisted kernel contributions",
       "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 02:28:13",
-      "https://lobste.rs/s/eqoieo/where_did_win32_lean_mean_come_from_2009"
-    ],
-    [
-      "Where did WIN32_LEAN_AND_MEAN come from? (2009)",
-      "https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/"
     ]
   ],
   [
