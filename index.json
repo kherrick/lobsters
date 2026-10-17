@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-17, 15:42:25",
+      "https://lobste.rs/s/cdb7fq/future_programming"
+    ],
+    [
+      "Future of Programming",
+      "https://www.youtube.com/watch?v=bISIgO4x49A"
+    ]
+  ],
+  [
+    [
       "2026-10-17, 14:16:33",
       "https://lobste.rs/s/rtd5gq/ship_your_interpreter"
     ],
@@ -27,16 +37,6 @@
     [
       "Developing for Debugging (2025)",
       "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 06:36:35",
-      "https://lobste.rs/s/pflyed/claude_reveals_ecdsa_curve_origins"
-    ],
-    [
-      "Claude reveals ECDSA curve origins",
-      "https://www.anthropic.com/research/ecdsa-curve-origins"
     ]
   ],
   [
