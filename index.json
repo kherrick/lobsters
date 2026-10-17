@@ -41,32 +41,12 @@
   ],
   [
     [
-      "2026-10-17, 04:22:50",
-      "https://lobste.rs/s/pllfoa/orib_bringing_back_old_reddit_interface"
-    ],
-    [
-      "orib: Bringing back the old Reddit interface, with a few new enhancements",
-      "https://github.com/rajtilakjee/orib"
-    ]
-  ],
-  [
-    [
       "2026-10-17, 01:12:09",
       "https://lobste.rs/s/wn293o/interactive_refactoring_gopls"
     ],
     [
       "Interactive refactoring in gopls",
       "https://go.dev/blog/interactive-refactoring"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 23:53:05",
-      "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your"
-    ],
-    [
-      "Do you let LLMs write both your tests and your code?",
-      "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your"
     ]
   ],
   [
@@ -87,16 +67,6 @@
     [
       "Someone on Torrent Sites Kept Fucking With My Sonarr",
       "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 20:18:36",
-      "https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"
-    ],
-    [
-      "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-      "https://words.filippo.io/seeds-solved/"
     ]
   ],
   [
@@ -141,12 +111,12 @@
   ],
   [
     [
-      "2026-10-16, 16:36:29",
-      "https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"
+      "2026-10-16, 16:49:07",
+      "https://lobste.rs/s/cgs07z/thirty_years_kde"
     ],
     [
-      "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-      "https://maevyn.codes/decoherence"
+      "Thirty Years of KDE",
+      "https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html"
     ]
   ],
   [
@@ -201,22 +171,32 @@
   ],
   [
     [
-      "2026-10-16, 05:28:29",
-      "https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this"
+      "2026-10-16, 03:25:49",
+      "https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus"
     ],
     [
-      "Why are we even doing all this?",
-      "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/"
+      "My self-hosted infrastructure with Incus OS",
+      "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html"
     ]
   ],
   [
     [
-      "2026-10-16, 02:50:33",
-      "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
+      "2026-10-16, 02:28:13",
+      "https://lobste.rs/s/eqoieo/where_did_win32_lean_mean_come_from_2009"
     ],
     [
-      "Linus Torvalds on AI-assisted kernel contributions",
-      "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
+      "Where did WIN32_LEAN_AND_MEAN come from? (2009)",
+      "https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 23:03:00",
+      "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1"
+    ],
+    [
+      "Announcing Rust 1.99.1",
+      "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/"
     ]
   ],
   [
@@ -227,6 +207,26 @@
     [
       "Epic's EAC2 v2 seems fairly easily bypassable",
       "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 20:22:14",
+      "https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure"
+    ],
+    [
+      "On the technical actions needed to ensure the continuity of UTC",
+      "https://www.bipm.org/en/cgpm-2026/resolution-5"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 19:43:19",
+      "https://lobste.rs/s/vemho2/forgejo_v17_0_is_available"
+    ],
+    [
+      "Forgejo v17.0 is available",
+      "https://forgejo.org/2026-10-release-v17-0/"
     ]
   ],
   [
