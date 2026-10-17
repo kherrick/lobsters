@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-17, 18:39:21](https://lobste.rs/s/01ak6c/ai_first_git_compatible_source_control) - [AI-First, Git-Compatible Source Control](https://strata.madskristiansen.com/)
+* [2026-10-17, 18:25:58](https://lobste.rs/s/1kesjm/abolish_ai_manifesto) - [Abolish AI! Manifesto](https://abolish-ai.net/abolish-ai-a-manifesto/)
 * [2026-10-17, 18:24:39](https://lobste.rs/s/np84oh/pwnescape_guest_host_kvm_escape_cve_2026) - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://pwn.ai/blog/pwnescape)
 * [2026-10-17, 17:08:33](https://lobste.rs/s/iyquo7/principles_anchor_engineering) - [Principles of Anchor Engineering](https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/)
 * [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
@@ -24,7 +25,6 @@
 * [2026-10-16, 11:21:12](https://lobste.rs/s/v6hhdr/making_88x31_button_book_using) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 * [2026-10-16, 05:28:29](https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 * [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
-* [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 
 ## [Archives](archives/index.md)
 

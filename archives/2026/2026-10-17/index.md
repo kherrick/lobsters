@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
 * [2026-10-17, 18:39:21](https://lobste.rs/s/01ak6c/ai_first_git_compatible_source_control) - [AI-First, Git-Compatible Source Control](https://strata.madskristiansen.com/)
+* [2026-10-17, 18:25:58](https://lobste.rs/s/1kesjm/abolish_ai_manifesto) - [Abolish AI! Manifesto](https://abolish-ai.net/abolish-ai-a-manifesto/)
 * [2026-10-17, 18:24:39](https://lobste.rs/s/np84oh/pwnescape_guest_host_kvm_escape_cve_2026) - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://pwn.ai/blog/pwnescape)
 * [2026-10-17, 17:08:33](https://lobste.rs/s/iyquo7/principles_anchor_engineering) - [Principles of Anchor Engineering](https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/)
 * [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
