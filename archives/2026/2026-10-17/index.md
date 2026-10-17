@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
+* [2026-10-17, 07:21:14](https://lobste.rs/s/a0og2j/developing_for_debugging_2025) - [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/)
 * [2026-10-17, 06:12:46](https://lobste.rs/s/gwuebx/some_quick_thoughts_on_unit_testing) - [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/)
 * [2026-10-17, 05:08:50](https://lobste.rs/s/oh4yfc/stac_m3_benchmark_l_tick_database_1_0_on) - [STAC-M3 Benchmark: L tick database 1.0 on Oxide OxVM w/ 128 vCPUs & 1.25 TiB of RAM](https://docs.stacresearch.com/M3-20261005a)
 * [2026-10-17, 04:22:50](https://lobste.rs/s/pllfoa/orib_bringing_back_old_reddit_interface) - [orib: Bringing back the old Reddit interface, with a few new enhancements](https://github.com/rajtilakjee/orib)

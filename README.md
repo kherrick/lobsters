@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-17, 07:21:14](https://lobste.rs/s/a0og2j/developing_for_debugging_2025) - [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/)
 * [2026-10-17, 06:12:46](https://lobste.rs/s/gwuebx/some_quick_thoughts_on_unit_testing) - [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/)
 * [2026-10-17, 05:08:50](https://lobste.rs/s/oh4yfc/stac_m3_benchmark_l_tick_database_1_0_on) - [STAC-M3 Benchmark: L tick database 1.0 on Oxide OxVM w/ 128 vCPUs & 1.25 TiB of RAM](https://docs.stacresearch.com/M3-20261005a)
 * [2026-10-17, 04:22:50](https://lobste.rs/s/pllfoa/orib_bringing_back_old_reddit_interface) - [orib: Bringing back the old Reddit interface, with a few new enhancements](https://github.com/rajtilakjee/orib)
@@ -24,7 +25,6 @@
 * [2026-10-15, 22:48:19](https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily) - [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
 * [2026-10-15, 15:32:15](https://lobste.rs/s/umdbht/my_c23_conventions) - [My C23 Conventions](https://abner.page/post/c23-conventions-1/)
 * [2026-10-15, 14:42:45](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases) - [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
-* [2026-10-15, 13:27:41](https://lobste.rs/s/kaerns/sunsetting_decomp_dev) - [Sunsetting decomp.dev](https://decomp.dev/)
 
 ## [Archives](archives/index.md)
 
