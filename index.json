@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-17, 12:17:20",
+      "https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any"
+    ],
+    [
+      "Intuitive concurrent programming in any language | Lingua Franca",
+      "https://www.lf-lang.org/"
+    ]
+  ],
+  [
+    [
       "2026-10-17, 07:21:14",
       "https://lobste.rs/s/a0og2j/developing_for_debugging_2025"
     ],
@@ -207,16 +217,6 @@
     [
       "Linus Torvalds on AI-assisted kernel contributions",
       "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 23:03:00",
-      "https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1"
-    ],
-    [
-      "Announcing Rust 1.99.1",
-      "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/"
     ]
   ],
   [
