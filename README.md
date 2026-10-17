@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-17, 01:12:09](https://lobste.rs/s/wn293o/interactive_refactoring_gopls) - [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
 * [2026-10-16, 23:53:05](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your) - [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your)
 * [2026-10-16, 20:49:12](https://lobste.rs/s/wzgadv/there_s_never_been_better_time_go_into_math) - [There's never been a better time to go into math](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
@@ -17,7 +18,6 @@
 * [2026-10-16, 05:28:29](https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 * [2026-10-16, 03:25:49](https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus) - [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html)
 * [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
-* [2026-10-16, 02:28:13](https://lobste.rs/s/eqoieo/where_did_win32_lean_mean_come_from_2009) - [Where did WIN32_LEAN_AND_MEAN come from? (2009)](https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/)
 * [2026-10-15, 23:03:00](https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1) - [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/)
 * [2026-10-15, 22:48:19](https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily) - [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/)
 * [2026-10-15, 20:22:14](https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure) - [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
