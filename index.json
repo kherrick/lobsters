@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-10-17, 06:36:35",
+      "https://lobste.rs/s/pflyed/claude_reveals_ecdsa_curve_origins"
+    ],
+    [
+      "Claude reveals ECDSA curve origins",
+      "https://www.anthropic.com/research/ecdsa-curve-origins"
+    ]
+  ],
+  [
+    [
       "2026-10-17, 06:12:46",
       "https://lobste.rs/s/gwuebx/some_quick_thoughts_on_unit_testing"
     ],
@@ -217,16 +227,6 @@
     [
       "Linus Torvalds on AI-assisted kernel contributions",
       "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 22:48:19",
-      "https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily"
-    ],
-    [
-      "Epic's EAC2 v2 seems fairly easily bypassable",
-      "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/"
     ]
   ],
   [
