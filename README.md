@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-18, 14:52:34](https://lobste.rs/s/u8vxmz/using_timers_perform_weekly_tasks) - [Using timers to perform weekly tasks](https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks)
 * [2026-10-18, 14:36:52](https://lobste.rs/s/np6czp/high_performance_policy_routed_ipsec) - [High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
 * [2026-10-18, 14:29:16](https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking) - [A New Way to Think About Borrow Checking (In Reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
 * [2026-10-18, 12:48:02](https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself) - [ARP! Tell your network to explain itself](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
@@ -15,7 +16,6 @@
 * [2026-10-17, 14:16:33](https://lobste.rs/s/rtd5gq/ship_your_interpreter) - [Ship Your Interpreter](https://www.basis.ai/blog/ship-your-interpreters/)
 * [2026-10-17, 12:17:20](https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
 * [2026-10-17, 07:21:14](https://lobste.rs/s/a0og2j/developing_for_debugging_2025) - [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/)
-* [2026-10-17, 06:12:46](https://lobste.rs/s/gwuebx/some_quick_thoughts_on_unit_testing) - [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/)
 * [2026-10-17, 01:12:09](https://lobste.rs/s/wn293o/interactive_refactoring_gopls) - [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
 * [2026-10-16, 23:53:05](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your) - [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
