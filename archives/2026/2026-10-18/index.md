@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 17:59:21](https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point) - [Inside the Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 * [2026-10-18, 16:58:24](https://lobste.rs/s/br0hd7/ghidra_cbmc_assembly_model_checker) - [Ghidra + CBMC = Assembly Model Checker](https://www.philipzucker.com/asmc_cpp/)
 * [2026-10-18, 16:44:36](https://lobste.rs/s/wtobpt/my_obituary_for_programming) - [My obituary for programming](https://dumbmatter.com/2026/10/programming-obituary/)
 * [2026-10-18, 16:10:47](https://lobste.rs/s/koipdp/problem_with_c_safety_why_it_works_isn_t) - [The Problem with C++ Safety: Why “It Works” Isn’t Good Enough](https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/)
