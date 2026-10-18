@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-18, 20:55:02",
+      "https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads"
+    ],
+    [
+      "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
+      "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 19:45:33",
       "https://lobste.rs/s/jp6tfb/real_time_software_on_linux_how_hard_can_it"
     ],
@@ -217,16 +227,6 @@
     [
       "Intuitive concurrent programming in any language",
       "https://www.lf-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 01:12:09",
-      "https://lobste.rs/s/wn293o/interactive_refactoring_gopls"
-    ],
-    [
-      "Interactive refactoring in gopls",
-      "https://go.dev/blog/interactive-refactoring"
     ]
   ],
   [
