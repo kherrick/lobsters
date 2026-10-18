@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-18, 17:59:21",
+      "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point"
+    ],
+    [
+      "Inside the Intel 8087 chip: floating-point addition and subtraction",
+      "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 16:58:24",
       "https://lobste.rs/s/br0hd7/ghidra_cbmc_assembly_model_checker"
     ],
@@ -197,16 +207,6 @@
     [
       "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
       "https://words.filippo.io/seeds-solved/"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 18:54:16",
-      "https://lobste.rs/s/tty7hm/getting_canceled"
-    ],
-    [
-      "Getting Canceled",
-      "https://www.youtube.com/watch?v=5zIOfBLQ3U4"
     ]
   ],
   [
