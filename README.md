@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-18, 19:10:04](https://lobste.rs/s/izjf9o/qml_for_c_zig) - [QML for C & Zig](https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e)
 * [2026-10-18, 18:52:01](https://lobste.rs/s/brrnpm/outside_scope_our_support) - [Outside the Scope of Our Support](https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/)
 * [2026-10-18, 18:35:01](https://lobste.rs/s/mp8qye/men_tech_yesallmen) - [Men in tech #YesAllMen](https://www.youtube.com/watch?v=WXL6K1lhvt0)
 * [2026-10-18, 17:59:21](https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point) - [Inside the Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
@@ -24,7 +25,6 @@
 * [2026-10-16, 23:53:05](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your) - [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 * [2026-10-16, 16:36:29](https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out) - [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
-* [2026-10-16, 12:02:05](https://lobste.rs/s/6laoto/road_iroh_1_0) - [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
 
 ## [Archives](archives/index.md)
 

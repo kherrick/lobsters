@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 19:10:04](https://lobste.rs/s/izjf9o/qml_for_c_zig) - [QML for C & Zig](https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e)
 * [2026-10-18, 18:52:01](https://lobste.rs/s/brrnpm/outside_scope_our_support) - [Outside the Scope of Our Support](https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/)
 * [2026-10-18, 18:35:01](https://lobste.rs/s/mp8qye/men_tech_yesallmen) - [Men in tech #YesAllMen](https://www.youtube.com/watch?v=WXL6K1lhvt0)
 * [2026-10-18, 17:59:21](https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point) - [Inside the Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
