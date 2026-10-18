@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-18, 14:29:16](https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking) - [A New Way to Think About Borrow Checking (In Reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
 * [2026-10-18, 12:48:02](https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself) - [ARP! Tell your network to explain itself](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
 * [2026-10-18, 12:06:05](https://lobste.rs/s/kiq0si/algorithmic_sound_design_with_l_systems) - [Algorithmic Sound Design with L-Systems and Granular Synthesis](https://nathanho.me/posts/evograin/)
 * [2026-10-18, 10:35:11](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from) - [It's enough - vibecoding tag crossed from useless to harmful](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from)
@@ -24,7 +25,6 @@
 * [2026-10-16, 12:02:05](https://lobste.rs/s/6laoto/road_iroh_1_0) - [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
 * [2026-10-16, 11:21:12](https://lobste.rs/s/v6hhdr/making_88x31_button_book_using) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 * [2026-10-16, 05:28:29](https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
-* [2026-10-16, 02:50:33](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel) - [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/)
 
 ## [Archives](archives/index.md)
 
