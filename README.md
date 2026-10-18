@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-18, 19:45:33](https://lobste.rs/s/jp6tfb/real_time_software_on_linux_how_hard_can_it) - [Real-time Software On Linux: How Hard Can It Be?](https://www.youtube.com/watch?v=-0D0rFdU6HY)
 * [2026-10-18, 19:10:04](https://lobste.rs/s/izjf9o/qml_for_c_zig) - [QML for C & Zig](https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e)
 * [2026-10-18, 18:52:01](https://lobste.rs/s/brrnpm/outside_scope_our_support) - [Outside the Scope of Our Support](https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/)
 * [2026-10-18, 18:35:01](https://lobste.rs/s/mp8qye/men_tech_yesallmen) - [Men in tech #YesAllMen](https://www.youtube.com/watch?v=WXL6K1lhvt0)
@@ -22,7 +23,6 @@
 * [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-17, 12:17:20](https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
 * [2026-10-17, 01:12:09](https://lobste.rs/s/wn293o/interactive_refactoring_gopls) - [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
-* [2026-10-16, 23:53:05](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your) - [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 * [2026-10-16, 16:36:29](https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out) - [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
 
