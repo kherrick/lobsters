@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 16:44:36](https://lobste.rs/s/wtobpt/my_obituary_for_programming) - [My obituary for programming](https://dumbmatter.com/2026/10/programming-obituary/)
 * [2026-10-18, 16:10:47](https://lobste.rs/s/koipdp/problem_with_c_safety_why_it_works_isn_t) - [The Problem with C++ Safety: Why “It Works” Isn’t Good Enough](https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/)
 * [2026-10-18, 14:52:34](https://lobste.rs/s/u8vxmz/using_timers_perform_weekly_tasks) - [Using timers to perform weekly tasks](https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks)
 * [2026-10-18, 14:36:52](https://lobste.rs/s/np6czp/high_performance_policy_routed_ipsec) - [High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
