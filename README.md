@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-18, 23:51:14](https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator) - [Superoptimizing an FPU emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
 * [2026-10-18, 23:05:13](https://lobste.rs/s/ilul4v/august_servo_css_grid_text_selection_more) - [August in Servo: CSS Grid, text selection, and more](https://servo.org/blog/2026/10/09/august-in-servo/)
 * [2026-10-18, 20:55:02](https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads) - [How Discover-Tech turned targeted ads into a pipeline for zero-click spywares](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 * [2026-10-18, 19:45:33](https://lobste.rs/s/jp6tfb/real_time_software_on_linux_how_hard_can_it) - [Real-time Software On Linux: How Hard Can It Be?](https://www.youtube.com/watch?v=-0D0rFdU6HY)
@@ -20,7 +21,6 @@
 * [2026-10-18, 03:13:10](https://lobste.rs/s/16tsvr/making_hybrid_images_2014) - [Making Hybrid Images (2014)](https://www.jeremykun.com/2014/09/29/hybrid-images/)
 * [2026-10-18, 03:03:36](https://lobste.rs/s/k5omum/brain_sandwich) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 * [2026-10-18, 03:00:39](https://lobste.rs/s/edli0x/it_s_time_talk_about_tees) - [It's time to talk about TEEs](https://alinush.github.io//tee)
-* [2026-10-17, 18:25:58](https://lobste.rs/s/1kesjm/abolish_ai_manifesto) - [Abolish AI! Manifesto](https://abolish-ai.net/abolish-ai-a-manifesto/)
 * [2026-10-17, 18:24:39](https://lobste.rs/s/np84oh/pwnescape_guest_host_kvm_escape_cve_2026) - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://pwn.ai/blog/pwnescape)
 * [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-17, 12:17:20](https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
