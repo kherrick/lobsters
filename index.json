@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-18, 14:29:16",
+      "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking"
+    ],
+    [
+      "A New Way to Think About Borrow Checking (In Reverse)",
+      "https://verdagon.dev/blog/reverse-borrow-checking"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 12:48:02",
       "https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself"
     ],
@@ -237,16 +247,6 @@
     [
       "Why are we even doing all this?",
       "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 02:50:33",
-      "https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel"
-    ],
-    [
-      "Linus Torvalds on AI-assisted kernel contributions",
-      "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
     ]
   ]
 ]
