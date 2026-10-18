@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-18, 16:58:24](https://lobste.rs/s/br0hd7/ghidra_cbmc_assembly_model_checker) - [Ghidra + CBMC = Assembly Model Checker](https://www.philipzucker.com/asmc_cpp/)
 * [2026-10-18, 16:44:36](https://lobste.rs/s/wtobpt/my_obituary_for_programming) - [My obituary for programming](https://dumbmatter.com/2026/10/programming-obituary/)
 * [2026-10-18, 16:10:47](https://lobste.rs/s/koipdp/problem_with_c_safety_why_it_works_isn_t) - [The Problem with C++ Safety: Why “It Works” Isn’t Good Enough](https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/)
 * [2026-10-18, 14:52:34](https://lobste.rs/s/u8vxmz/using_timers_perform_weekly_tasks) - [Using timers to perform weekly tasks](https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks)
@@ -20,7 +21,6 @@
 * [2026-10-17, 01:12:09](https://lobste.rs/s/wn293o/interactive_refactoring_gopls) - [Interactive refactoring in gopls](https://go.dev/blog/interactive-refactoring)
 * [2026-10-16, 23:53:05](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your) - [Do you let LLMs write both your tests and your code?](https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
-* [2026-10-16, 18:54:16](https://lobste.rs/s/tty7hm/getting_canceled) - [Getting Canceled](https://www.youtube.com/watch?v=5zIOfBLQ3U4)
 * [2026-10-16, 18:25:15](https://lobste.rs/s/xwng6u/introducing_gnome_os_preview) - [Introducing GNOME OS Preview](https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/)
 * [2026-10-16, 16:36:29](https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out) - [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
 * [2026-10-16, 12:02:05](https://lobste.rs/s/6laoto/road_iroh_1_0) - [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0)
