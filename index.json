@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-18, 14:36:52",
+      "https://lobste.rs/s/np6czp/high_performance_policy_routed_ipsec"
+    ],
+    [
+      "High performance policy routed IPsec mesh SD-WAN",
+      "https://ranet3.com/"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 14:29:16",
       "https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking"
     ],
@@ -147,16 +157,6 @@
     [
       "Some quick thoughts on Unit Testing ActivityPub",
       "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 04:22:50",
-      "https://lobste.rs/s/pllfoa/orib_bringing_back_old_reddit_interface"
-    ],
-    [
-      "orib: Bringing back the old Reddit interface, with a few new enhancements",
-      "https://github.com/rajtilakjee/orib"
     ]
   ],
   [
