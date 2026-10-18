@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 23:05:13](https://lobste.rs/s/ilul4v/august_servo_css_grid_text_selection_more) - [August in Servo: CSS Grid, text selection, and more](https://servo.org/blog/2026/10/09/august-in-servo/)
 * [2026-10-18, 20:55:02](https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads) - [How Discover-Tech turned targeted ads into a pipeline for zero-click spywares](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 * [2026-10-18, 19:45:33](https://lobste.rs/s/jp6tfb/real_time_software_on_linux_how_hard_can_it) - [Real-time Software On Linux: How Hard Can It Be?](https://www.youtube.com/watch?v=-0D0rFdU6HY)
 * [2026-10-18, 19:10:04](https://lobste.rs/s/izjf9o/qml_for_c_zig) - [QML for C & Zig](https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e)

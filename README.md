@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-18, 23:05:13](https://lobste.rs/s/ilul4v/august_servo_css_grid_text_selection_more) - [August in Servo: CSS Grid, text selection, and more](https://servo.org/blog/2026/10/09/august-in-servo/)
 * [2026-10-18, 20:55:02](https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads) - [How Discover-Tech turned targeted ads into a pipeline for zero-click spywares](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 * [2026-10-18, 19:45:33](https://lobste.rs/s/jp6tfb/real_time_software_on_linux_how_hard_can_it) - [Real-time Software On Linux: How Hard Can It Be?](https://www.youtube.com/watch?v=-0D0rFdU6HY)
 * [2026-10-18, 19:10:04](https://lobste.rs/s/izjf9o/qml_for_c_zig) - [QML for C & Zig](https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e)
@@ -24,7 +25,6 @@
 * [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-17, 12:17:20](https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
-* [2026-10-16, 16:36:29](https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out) - [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://maevyn.codes/decoherence)
 
 ## [Archives](archives/index.md)
 
