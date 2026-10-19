@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-19, 07:35:01",
+      "https://lobste.rs/s/c1zbmq/bazel_bard"
+    ],
+    [
+      "A Bazel Bard",
+      "https://sluongng.substack.com/p/a-bazel-bard"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 07:24:38",
+      "https://lobste.rs/s/i15h0s/most_forbidden_technique"
+    ],
+    [
+      "The Most Forbidden Technique",
+      "https://thezvi.substack.com/p/the-most-forbidden-technique"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 06:44:48",
       "https://lobste.rs/s/4sgimt/crawlers_floods_fleets_year_keeping_our"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-10-19, 05:54:29",
-      "https://lobste.rs/s/ijz3v0/composite_objects_c_26_std_polymorphic"
+      "2026-10-19, 04:15:33",
+      "https://lobste.rs/s/mhy9id/efficient_extraction_for_effectful_e"
     ],
     [
-      "Composite objects and C++26 the std::polymorphic type",
-      "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/"
+      "Efficient Extraction for Effectful E-graphs",
+      "https://ztatlock.net/pubs/2026-oopsla-eggcc/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://lobste.rs/s/jdjtqt/response_claims_about_flatpak_being"
     ],
     [
-      "A response to claims about flatpak being insecure",
+      "A response to claims about flatpak being insecure (2023)",
       "https://oro.gay/posts/flatpak-an-insecurity-nightmare/"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Updates to site guidelines and AI/LLM tags",
       "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 01:20:14",
-      "https://lobste.rs/s/82vulz/bbc_master_pi_1mhz_domesday"
-    ],
-    [
-      "BBC Master Pi 1MHz Domesday",
-      "https://youtu.be/UAWSOCOTjIU"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "ARP! Tell your network to explain itself",
       "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 12:06:05",
-      "https://lobste.rs/s/kiq0si/algorithmic_sound_design_with_l_systems"
-    ],
-    [
-      "Algorithmic Sound Design with L-Systems and Granular Synthesis",
-      "https://nathanho.me/posts/evograin/"
     ]
   ],
   [
