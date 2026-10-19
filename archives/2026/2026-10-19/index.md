@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 05:54:29](https://lobste.rs/s/ijz3v0/composite_objects_c_26_std_polymorphic) - [Composite objects and C++26 the std::polymorphic type](https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/)
 * [2026-10-19, 04:19:27](https://lobste.rs/s/bt7ehs/why_is_gitops_so_good) - [Why is GitOps so good?](https://thorsell.io/2026/10/16/gitops.html)
 * [2026-10-19, 04:15:33](https://lobste.rs/s/mhy9id/efficient_extraction_for_effectful_e) - [Efficient Extraction for Effectful E-graphs](https://ztatlock.net/pubs/2026-oopsla-eggcc/)
 * [2026-10-19, 04:02:34](https://lobste.rs/s/jdjtqt/response_claims_about_flatpak_being) - [A response to claims about flatpak being insecure](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
