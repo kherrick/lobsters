@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-19, 17:52:41",
+      "https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"
+    ],
+    [
+      "2026 is an exciting year for the Rust compiler (and me)",
+      "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 16:42:07",
       "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"
     ],
@@ -77,16 +87,6 @@
     [
       "Making dns_erlang Fast: Binary Tricks for the BEAM",
       "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 13:18:26",
-      "https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic"
-    ],
-    [
-      "Borrow Checking Zero-Cost Cyclic Mutability",
-      "https://antelang.org/blog/safe_cyclic_mutability/"
     ]
   ],
   [
