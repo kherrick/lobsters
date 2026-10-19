@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 07:35:01](https://lobste.rs/s/c1zbmq/bazel_bard) - [A Bazel Bard](https://sluongng.substack.com/p/a-bazel-bard)
+* [2026-10-19, 07:24:38](https://lobste.rs/s/i15h0s/most_forbidden_technique) - [The Most Forbidden Technique](https://thezvi.substack.com/p/the-most-forbidden-technique)
 * [2026-10-19, 06:44:48](https://lobste.rs/s/4sgimt/crawlers_floods_fleets_year_keeping_our) - [Crawlers, floods and fleets: a year of keeping our digital collections open](https://stacks.wellcomecollection.org/crawlers-floods-and-fleets-a-year-of-keeping-our-digital-collections-open-10af777199c4)
 * [2026-10-19, 06:12:44](https://lobste.rs/s/dtwbpu/programming_language_fundamentals_agda) - [Programming Language Fundamentals in Agda](https://plfa.github.io/)
 * [2026-10-19, 05:54:29](https://lobste.rs/s/ijz3v0/composite_objects_c_26_std_polymorphic) - [Composite objects and C++26 the std::polymorphic type](https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/)
