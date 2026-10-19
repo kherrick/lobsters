@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-19, 14:44:02",
+      "https://lobste.rs/s/gqepzd/wine_ported_openbsd"
+    ],
+    [
+      "Wine ported to OpenBSD",
+      "https://marc.info/?l=openbsd-ports&m=179236125692175"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 14:03:08",
       "https://lobste.rs/s/ygp18d/hanami_why_model_citizens"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2026-10-19, 13:18:26",
-      "https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic"
+      "2026-10-19, 12:22:53",
+      "https://lobste.rs/s/zqjz1n/static_analysis_for_uninitialized"
     ],
     [
-      "Borrow Checking Zero-Cost Cyclic Mutability",
-      "https://antelang.org/blog/safe_cyclic_mutability/"
+      "Static Analysis for the Uninitialized",
+      "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "My obituary for programming",
       "https://dumbmatter.com/2026/10/programming-obituary/"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 14:36:52",
-      "https://lobste.rs/s/np6czp/high_performance_policy_routed_ipsec"
-    ],
-    [
-      "High performance policy routed IPsec mesh SD-WAN",
-      "https://ranet3.com/"
     ]
   ],
   [
