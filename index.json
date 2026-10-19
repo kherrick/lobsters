@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-19, 18:25:48",
+      "https://lobste.rs/s/b36ixw/context_rich_hickley"
+    ],
+    [
+      "In Context - Rich Hickley",
+      "https://www.youtube.com/watch?v=P5eO7BNyJao"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 16:42:07",
       "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"
     ],
@@ -187,16 +197,6 @@
     [
       "August in Servo: CSS Grid, text selection, and more",
       "https://servo.org/blog/2026/10/09/august-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 19:10:04",
-      "https://lobste.rs/s/izjf9o/qml_for_c_zig"
-    ],
-    [
-      "QML for C & Zig",
-      "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e"
     ]
   ],
   [
