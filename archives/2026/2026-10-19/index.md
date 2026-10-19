@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 08:13:14](https://lobste.rs/s/4oz3sk/7_3_kernel_has_been_released) - [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/)
+* [2026-10-19, 08:13:12](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork) - [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
 * [2026-10-19, 07:35:01](https://lobste.rs/s/c1zbmq/bazel_bard) - [A Bazel Bard](https://sluongng.substack.com/p/a-bazel-bard)
 * [2026-10-19, 07:24:38](https://lobste.rs/s/i15h0s/most_forbidden_technique) - [The Most Forbidden Technique](https://thezvi.substack.com/p/the-most-forbidden-technique)
 * [2026-10-19, 06:44:48](https://lobste.rs/s/4sgimt/crawlers_floods_fleets_year_keeping_our) - [Crawlers, floods and fleets: a year of keeping our digital collections open](https://stacks.wellcomecollection.org/crawlers-floods-and-fleets-a-year-of-keeping-our-digital-collections-open-10af777199c4)

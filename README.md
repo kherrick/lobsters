@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-19, 08:13:14](https://lobste.rs/s/4oz3sk/7_3_kernel_has_been_released) - [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/)
+* [2026-10-19, 08:13:12](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork) - [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
 * [2026-10-19, 07:35:01](https://lobste.rs/s/c1zbmq/bazel_bard) - [A Bazel Bard](https://sluongng.substack.com/p/a-bazel-bard)
-* [2026-10-19, 07:24:38](https://lobste.rs/s/i15h0s/most_forbidden_technique) - [The Most Forbidden Technique](https://thezvi.substack.com/p/the-most-forbidden-technique)
 * [2026-10-19, 06:44:48](https://lobste.rs/s/4sgimt/crawlers_floods_fleets_year_keeping_our) - [Crawlers, floods and fleets: a year of keeping our digital collections open](https://stacks.wellcomecollection.org/crawlers-floods-and-fleets-a-year-of-keeping-our-digital-collections-open-10af777199c4)
 * [2026-10-19, 06:12:44](https://lobste.rs/s/dtwbpu/programming_language_fundamentals_agda) - [Programming Language Fundamentals in Agda](https://plfa.github.io/)
 * [2026-10-19, 04:15:33](https://lobste.rs/s/mhy9id/efficient_extraction_for_effectful_e) - [Efficient Extraction for Effectful E-graphs](https://ztatlock.net/pubs/2026-oopsla-eggcc/)
-* [2026-10-19, 04:02:34](https://lobste.rs/s/jdjtqt/response_claims_about_flatpak_being) - [A response to claims about flatpak being insecure (2023)](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
 * [2026-10-19, 03:26:51](https://lobste.rs/s/w6xosj/what_heck_is_pkg) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-19, 02:59:07](https://lobste.rs/s/nuepys/what_requirements_don_t_you_have) - [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
