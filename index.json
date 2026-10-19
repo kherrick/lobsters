@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-19, 03:26:51",
+      "https://lobste.rs/s/w6xosj/what_heck_is_pkg"
+    ],
+    [
+      "What the heck is /pkg?",
+      "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 02:59:07",
       "https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"
     ],
@@ -37,16 +47,6 @@
     [
       "Inline rendering with document.currentScript",
       "https://leanrada.com/notes/inline-rendering-currentscript/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 00:38:15",
-      "https://lobste.rs/s/opyxtm/speeding_up_code_review_with_small_change"
-    ],
-    [
-      "Speeding up code review with `small-change`",
-      "https://lethain.com/small-changes/"
     ]
   ],
   [
