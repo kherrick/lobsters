@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-19, 13:18:26](https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic) - [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
 * [2026-10-19, 12:09:29](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
 * [2026-10-19, 11:47:04](https://lobste.rs/s/7r9dcc/timestral_mistral_s_time_series) - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
 * [2026-10-19, 08:27:55](https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building) - [Tor VPN Beta: What we've learned building our own VPN for Android from scratch](https://blog.torproject.org/tor-vpn-beta/)
@@ -24,7 +25,6 @@
 * [2026-10-18, 14:29:16](https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking) - [A New Way to Think About Borrow Checking (In Reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
 * [2026-10-18, 12:48:02](https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself) - [ARP! Tell your network to explain itself](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
 * [2026-10-18, 10:35:11](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from) - [It's enough - vibecoding tag crossed from useless to harmful](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from)
-* [2026-10-18, 03:03:36](https://lobste.rs/s/k5omum/brain_sandwich) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 
 ## [Archives](archives/index.md)
 

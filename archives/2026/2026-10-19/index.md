@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 13:18:26](https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic) - [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
 * [2026-10-19, 12:09:29](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
 * [2026-10-19, 11:47:04](https://lobste.rs/s/7r9dcc/timestral_mistral_s_time_series) - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
 * [2026-10-19, 08:27:55](https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building) - [Tor VPN Beta: What we've learned building our own VPN for Android from scratch](https://blog.torproject.org/tor-vpn-beta/)
