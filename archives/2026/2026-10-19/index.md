@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 15:42:24](https://lobste.rs/s/l5oolm/removing_type_assertion_with_object) - [Removing a Type Assertion with Object.assign](https://ataias.com.br/2026/10/01/removing-a-type-assertion-with-object.assign/)
 * [2026-10-19, 14:44:02](https://lobste.rs/s/gqepzd/wine_ported_openbsd) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 14:03:08](https://lobste.rs/s/ygp18d/hanami_why_model_citizens) - [Hanami, Why?: Model Citizens](https://aaronmallen.me/writing/hanami-why-model-citizens)
 * [2026-10-19, 13:56:50](https://lobste.rs/s/wtthju/a5_v1_0_a5) - [A5 v1.0 | A5](https://a5geo.org/blog/2026/10/14/a5-v1)
