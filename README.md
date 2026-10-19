@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-19, 04:19:27](https://lobste.rs/s/bt7ehs/why_is_gitops_so_good) - [Why is GitOps so good?](https://thorsell.io/2026/10/16/gitops.html)
+* [2026-10-19, 04:15:33](https://lobste.rs/s/mhy9id/efficient_extraction_for_effectful_e) - [Efficient Extraction for Effectful E-graphs](https://ztatlock.net/pubs/2026-oopsla-eggcc/)
+* [2026-10-19, 04:02:34](https://lobste.rs/s/jdjtqt/response_claims_about_flatpak_being) - [A response to claims about flatpak being insecure](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
 * [2026-10-19, 03:26:51](https://lobste.rs/s/w6xosj/what_heck_is_pkg) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-19, 02:59:07](https://lobste.rs/s/nuepys/what_requirements_don_t_you_have) - [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
-* [2026-10-19, 01:20:14](https://lobste.rs/s/82vulz/bbc_master_pi_1mhz_domesday) - [BBC Master Pi 1MHz Domesday](https://youtu.be/UAWSOCOTjIU)
 * [2026-10-19, 01:02:55](https://lobste.rs/s/ogp1wf/inline_rendering_with_document) - [Inline rendering with document.currentScript](https://leanrada.com/notes/inline-rendering-currentscript/)
 * [2026-10-19, 00:36:22](https://lobste.rs/s/dc2efo/dynamic_packages) - [Dynamic Packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 23:51:14](https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator) - [Superoptimizing an FPU emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
@@ -17,14 +19,12 @@
 * [2026-10-18, 16:58:24](https://lobste.rs/s/br0hd7/ghidra_cbmc_assembly_model_checker) - [Ghidra + CBMC = Assembly Model Checker](https://www.philipzucker.com/asmc_cpp/)
 * [2026-10-18, 16:44:36](https://lobste.rs/s/wtobpt/my_obituary_for_programming) - [My obituary for programming](https://dumbmatter.com/2026/10/programming-obituary/)
 * [2026-10-18, 16:10:47](https://lobste.rs/s/koipdp/problem_with_c_safety_why_it_works_isn_t) - [The Problem with C++ Safety: Why “It Works” Isn’t Good Enough](https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/)
-* [2026-10-18, 14:52:34](https://lobste.rs/s/u8vxmz/using_timers_perform_weekly_tasks) - [Using timers to perform weekly tasks](https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks)
 * [2026-10-18, 14:36:52](https://lobste.rs/s/np6czp/high_performance_policy_routed_ipsec) - [High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
 * [2026-10-18, 14:29:16](https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking) - [A New Way to Think About Borrow Checking (In Reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
 * [2026-10-18, 12:48:02](https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself) - [ARP! Tell your network to explain itself](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
 * [2026-10-18, 12:06:05](https://lobste.rs/s/kiq0si/algorithmic_sound_design_with_l_systems) - [Algorithmic Sound Design with L-Systems and Granular Synthesis](https://nathanho.me/posts/evograin/)
 * [2026-10-18, 10:35:11](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from) - [It's enough - vibecoding tag crossed from useless to harmful](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from)
 * [2026-10-18, 03:03:36](https://lobste.rs/s/k5omum/brain_sandwich) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
-* [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 
 ## [Archives](archives/index.md)
 
