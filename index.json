@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-19, 15:42:24",
+      "https://lobste.rs/s/l5oolm/removing_type_assertion_with_object"
+    ],
+    [
+      "Removing a Type Assertion with Object.assign",
+      "https://ataias.com.br/2026/10/01/removing-a-type-assertion-with-object.assign/"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 14:44:02",
       "https://lobste.rs/s/gqepzd/wine_ported_openbsd"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2026-10-19, 12:22:53",
-      "https://lobste.rs/s/zqjz1n/static_analysis_for_uninitialized"
+      "2026-10-19, 13:18:26",
+      "https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic"
     ],
     [
-      "Static Analysis for the Uninitialized",
-      "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/"
+      "Borrow Checking Zero-Cost Cyclic Mutability",
+      "https://antelang.org/blog/safe_cyclic_mutability/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "August in Servo: CSS Grid, text selection, and more",
       "https://servo.org/blog/2026/10/09/august-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 20:55:02",
-      "https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads"
-    ],
-    [
-      "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
-      "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
     ]
   ],
   [
