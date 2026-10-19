@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-19, 08:27:55](https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building) - [Tor VPN Beta: What we've learned building our own VPN for Android from scratch](https://blog.torproject.org/tor-vpn-beta/)
 * [2026-10-19, 08:13:14](https://lobste.rs/s/4oz3sk/7_3_kernel_has_been_released) - [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/)
 * [2026-10-19, 08:13:12](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork) - [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
 * [2026-10-19, 07:35:01](https://lobste.rs/s/c1zbmq/bazel_bard) - [A Bazel Bard](https://sluongng.substack.com/p/a-bazel-bard)
@@ -17,7 +18,6 @@
 * [2026-10-18, 18:52:01](https://lobste.rs/s/brrnpm/outside_scope_our_support) - [Outside the Scope of Our Support](https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/)
 * [2026-10-18, 18:35:01](https://lobste.rs/s/mp8qye/men_tech_yesallmen) - [Men in tech #YesAllMen](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
 * [2026-10-18, 17:59:21](https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point) - [Inside the Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
-* [2026-10-18, 16:58:24](https://lobste.rs/s/br0hd7/ghidra_cbmc_assembly_model_checker) - [Ghidra + CBMC = Assembly Model Checker](https://www.philipzucker.com/asmc_cpp/)
 * [2026-10-18, 16:44:36](https://lobste.rs/s/wtobpt/my_obituary_for_programming) - [My obituary for programming](https://dumbmatter.com/2026/10/programming-obituary/)
 * [2026-10-18, 16:10:47](https://lobste.rs/s/koipdp/problem_with_c_safety_why_it_works_isn_t) - [The Problem with C++ Safety: Why “It Works” Isn’t Good Enough](https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/)
 * [2026-10-18, 14:36:52](https://lobste.rs/s/np6czp/high_performance_policy_routed_ipsec) - [High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
