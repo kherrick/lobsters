@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-19, 02:59:07](https://lobste.rs/s/nuepys/what_requirements_don_t_you_have) - [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
 * [2026-10-19, 01:20:14](https://lobste.rs/s/82vulz/bbc_master_pi_1mhz_domesday) - [BBC Master Pi 1MHz Domesday](https://youtu.be/UAWSOCOTjIU)
 * [2026-10-19, 01:02:55](https://lobste.rs/s/ogp1wf/inline_rendering_with_document) - [Inline rendering with document.currentScript](https://leanrada.com/notes/inline-rendering-currentscript/)
@@ -23,7 +24,6 @@
 * [2026-10-18, 12:06:05](https://lobste.rs/s/kiq0si/algorithmic_sound_design_with_l_systems) - [Algorithmic Sound Design with L-Systems and Granular Synthesis](https://nathanho.me/posts/evograin/)
 * [2026-10-18, 10:35:11](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from) - [It's enough - vibecoding tag crossed from useless to harmful](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from)
 * [2026-10-18, 03:03:36](https://lobste.rs/s/k5omum/brain_sandwich) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
-* [2026-10-18, 03:00:39](https://lobste.rs/s/edli0x/it_s_time_talk_about_tees) - [It's time to talk about TEEs](https://alinush.github.io//tee)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 
 ## [Archives](archives/index.md)
