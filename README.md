@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-19, 06:44:48](https://lobste.rs/s/4sgimt/crawlers_floods_fleets_year_keeping_our) - [Crawlers, floods and fleets: a year of keeping our digital collections open](https://stacks.wellcomecollection.org/crawlers-floods-and-fleets-a-year-of-keeping-our-digital-collections-open-10af777199c4)
 * [2026-10-19, 06:12:44](https://lobste.rs/s/dtwbpu/programming_language_fundamentals_agda) - [Programming Language Fundamentals in Agda](https://plfa.github.io/)
 * [2026-10-19, 05:54:29](https://lobste.rs/s/ijz3v0/composite_objects_c_26_std_polymorphic) - [Composite objects and C++26 the std::polymorphic type](https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/)
-* [2026-10-19, 04:19:27](https://lobste.rs/s/bt7ehs/why_is_gitops_so_good) - [Why is GitOps so good?](https://thorsell.io/2026/10/16/gitops.html)
 * [2026-10-19, 04:02:34](https://lobste.rs/s/jdjtqt/response_claims_about_flatpak_being) - [A response to claims about flatpak being insecure](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
 * [2026-10-19, 03:26:51](https://lobste.rs/s/w6xosj/what_heck_is_pkg) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-19, 02:59:07](https://lobste.rs/s/nuepys/what_requirements_don_t_you_have) - [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
