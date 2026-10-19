@@ -23,8 +23,8 @@
 * [2026-10-18, 23:05:13](https://lobste.rs/s/ilul4v/august_servo_css_grid_text_selection_more) - [August in Servo: CSS Grid, text selection, and more](https://servo.org/blog/2026/10/09/august-in-servo/)
 * [2026-10-18, 18:52:01](https://lobste.rs/s/brrnpm/outside_scope_our_support) - [Outside the Scope of Our Support](https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/)
 * [2026-10-18, 18:35:01](https://lobste.rs/s/mp8qye/men_tech_yesallmen) - [Men in tech #YesAllMen](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
+* [2026-10-18, 14:29:16](https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking) - [A New Way to Think About Borrow Checking (In Reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
 * [2026-10-18, 12:48:02](https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself) - [ARP! Tell your network to explain itself](https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/)
-* [2026-10-18, 10:35:11](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from) - [It's enough - vibecoding tag crossed from useless to harmful](https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from)
 
 ## [Archives](archives/index.md)
 
