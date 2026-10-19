@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-19, 14:03:08",
+      "https://lobste.rs/s/ygp18d/hanami_why_model_citizens"
+    ],
+    [
+      "Hanami, Why?: Model Citizens",
+      "https://aaronmallen.me/writing/hanami-why-model-citizens"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 13:56:50",
+      "https://lobste.rs/s/wtthju/a5_v1_0_a5"
+    ],
+    [
+      "A5 v1.0 | A5",
+      "https://a5geo.org/blog/2026/10/14/a5-v1"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 13:26:58",
+      "https://lobste.rs/s/p3pruv/making_dns_erlang_fast_binary_tricks_for"
+    ],
+    [
+      "Making dns_erlang Fast: Binary Tricks for the BEAM",
+      "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 13:18:26",
       "https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic"
     ],
@@ -67,16 +97,6 @@
     [
       "Programming Language Fundamentals in Agda",
       "https://plfa.github.io/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 04:15:33",
-      "https://lobste.rs/s/mhy9id/efficient_extraction_for_effectful_e"
-    ],
-    [
-      "Efficient Extraction for Effectful E-graphs",
-      "https://ztatlock.net/pubs/2026-oopsla-eggcc/"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-10-18, 17:59:21",
-      "https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point"
-    ],
-    [
-      "Inside the Intel 8087 chip: floating-point addition and subtraction",
-      "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html"
-    ]
-  ],
-  [
-    [
       "2026-10-18, 16:44:36",
       "https://lobste.rs/s/wtobpt/my_obituary_for_programming"
     ],
     [
       "My obituary for programming",
       "https://dumbmatter.com/2026/10/programming-obituary/"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 16:10:47",
-      "https://lobste.rs/s/koipdp/problem_with_c_safety_why_it_works_isn_t"
-    ],
-    [
-      "The Problem with C++ Safety: Why “It Works” Isn’t Good Enough",
-      "https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/"
     ]
   ],
   [
