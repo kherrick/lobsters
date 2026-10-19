@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context_rich_hickley) - [In Context - Rich Hickley](https://www.youtube.com/watch?v=P5eO7BNyJao)
 * [2026-10-19, 16:42:07](https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0) - [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
 * [2026-10-19, 16:30:36](https://lobste.rs/s/mpdk1e/finding_home_amidst_wreckage) - [Finding a home amidst the wreckage](https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/)
 * [2026-10-19, 15:47:03](https://lobste.rs/s/mpytbn/one_hash_bloom_filters) - [One Hash Bloom Filters](https://www.calabro.io)
