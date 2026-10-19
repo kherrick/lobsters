@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-19, 00:38:15](https://lobste.rs/s/opyxtm/speeding_up_code_review_with_small_change) - [Speeding up code review with `small-change`](https://lethain.com/small-changes/)
+* [2026-10-19, 00:36:22](https://lobste.rs/s/dc2efo/dynamic_packages) - [Dynamic Packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 23:51:14](https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator) - [Superoptimizing an FPU emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
 * [2026-10-18, 23:05:13](https://lobste.rs/s/ilul4v/august_servo_css_grid_text_selection_more) - [August in Servo: CSS Grid, text selection, and more](https://servo.org/blog/2026/10/09/august-in-servo/)
 * [2026-10-18, 20:55:02](https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads) - [How Discover-Tech turned targeted ads into a pipeline for zero-click spywares](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
@@ -21,9 +23,7 @@
 * [2026-10-18, 03:13:10](https://lobste.rs/s/16tsvr/making_hybrid_images_2014) - [Making Hybrid Images (2014)](https://www.jeremykun.com/2014/09/29/hybrid-images/)
 * [2026-10-18, 03:03:36](https://lobste.rs/s/k5omum/brain_sandwich) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 * [2026-10-18, 03:00:39](https://lobste.rs/s/edli0x/it_s_time_talk_about_tees) - [It's time to talk about TEEs](https://alinush.github.io//tee)
-* [2026-10-17, 18:24:39](https://lobste.rs/s/np84oh/pwnescape_guest_host_kvm_escape_cve_2026) - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://pwn.ai/blog/pwnescape)
 * [2026-10-17, 16:13:32](https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
-* [2026-10-17, 12:17:20](https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
 * [2026-10-16, 20:18:36](https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 
 ## [Archives](archives/index.md)
