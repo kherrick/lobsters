@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 03:26:51](https://lobste.rs/s/w6xosj/what_heck_is_pkg) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-19, 02:59:07](https://lobste.rs/s/nuepys/what_requirements_don_t_you_have) - [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
 * [2026-10-19, 01:20:14](https://lobste.rs/s/82vulz/bbc_master_pi_1mhz_domesday) - [BBC Master Pi 1MHz Domesday](https://youtu.be/UAWSOCOTjIU)
