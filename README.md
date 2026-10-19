@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context) - [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
+* [2026-10-19, 17:52:41](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
 * [2026-10-19, 16:42:07](https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0) - [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
 * [2026-10-19, 16:30:36](https://lobste.rs/s/mpdk1e/finding_home_amidst_wreckage) - [Finding a home amidst the wreckage](https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/)
 * [2026-10-19, 15:47:03](https://lobste.rs/s/mpytbn/one_hash_bloom_filters) - [One Hash Bloom Filters](https://www.calabro.io/ohbf)
@@ -8,7 +9,6 @@
 * [2026-10-19, 14:03:08](https://lobste.rs/s/ygp18d/hanami_why_model_citizens) - [Hanami, Why?: Model Citizens](https://aaronmallen.me/writing/hanami-why-model-citizens)
 * [2026-10-19, 13:56:50](https://lobste.rs/s/wtthju/a5_v1_0) - [A5 v1.0](https://a5geo.org/blog/2026/10/14/a5-v1)
 * [2026-10-19, 13:26:58](https://lobste.rs/s/p3pruv/making_dns_erlang_fast_binary_tricks_for) - [Making dns_erlang Fast: Binary Tricks for the BEAM](https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/)
-* [2026-10-19, 13:18:26](https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic) - [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
 * [2026-10-19, 12:09:29](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
 * [2026-10-19, 08:27:55](https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building) - [Tor VPN Beta: What we've learned building our own VPN for Android from scratch](https://blog.torproject.org/tor-vpn-beta/)
 * [2026-10-19, 08:13:14](https://lobste.rs/s/4oz3sk/7_3_kernel_has_been_released) - [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/)
