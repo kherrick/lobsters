@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 14:44:02](https://lobste.rs/s/gqepzd/wine_ported_openbsd) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 14:03:08](https://lobste.rs/s/ygp18d/hanami_why_model_citizens) - [Hanami, Why?: Model Citizens](https://aaronmallen.me/writing/hanami-why-model-citizens)
 * [2026-10-19, 13:56:50](https://lobste.rs/s/wtthju/a5_v1_0_a5) - [A5 v1.0 | A5](https://a5geo.org/blog/2026/10/14/a5-v1)
 * [2026-10-19, 13:56:50](https://lobste.rs/s/wtthju/a5_v1_0) - [A5 v1.0](https://a5geo.org/blog/2026/10/14/a5-v1)
 * [2026-10-19, 13:26:58](https://lobste.rs/s/p3pruv/making_dns_erlang_fast_binary_tricks_for) - [Making dns_erlang Fast: Binary Tricks for the BEAM](https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/)
 * [2026-10-19, 13:18:26](https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic) - [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
+* [2026-10-19, 12:22:53](https://lobste.rs/s/zqjz1n/static_analysis_for_uninitialized) - [Static Analysis for the Uninitialized](https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/)
 * [2026-10-19, 12:09:29](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
 * [2026-10-19, 11:47:04](https://lobste.rs/s/7r9dcc/timestral_mistral_s_time_series) - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
 * [2026-10-19, 08:27:55](https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building) - [Tor VPN Beta: What we've learned building our own VPN for Android from scratch](https://blog.torproject.org/tor-vpn-beta/)
