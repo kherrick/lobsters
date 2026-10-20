@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-20, 10:23:58](https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id) - [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 * [2026-10-20, 09:12:23](https://lobste.rs/s/qflytl/annotated_vt100_firmware_2022) - [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 * [2026-10-20, 04:04:43](https://lobste.rs/s/dl4h2a/very_fast_ipv4_parser_swift) - [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
 * [2026-10-20, 03:10:23](https://lobste.rs/s/vze0kx/go_will_reject_certificate_chains) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de)
@@ -18,7 +19,6 @@
 * [2026-10-19, 14:03:08](https://lobste.rs/s/ygp18d/hanami_why_model_citizens) - [Hanami, Why?: Model Citizens](https://aaronmallen.me/writing/hanami-why-model-citizens)
 * [2026-10-19, 13:56:50](https://lobste.rs/s/wtthju/a5_v1_0) - [A5 v1.0](https://a5geo.org/blog/2026/10/14/a5-v1)
 * [2026-10-19, 13:26:58](https://lobste.rs/s/p3pruv/making_dns_erlang_fast_binary_tricks_for) - [Making dns_erlang Fast: Binary Tricks for the BEAM](https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/)
-* [2026-10-19, 13:18:26](https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic) - [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
 * [2026-10-19, 12:09:29](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
 * [2026-10-19, 08:27:55](https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building) - [Tor VPN Beta: What we've learned building our own VPN for Android from scratch](https://blog.torproject.org/tor-vpn-beta/)
 * [2026-10-19, 08:13:14](https://lobste.rs/s/4oz3sk/7_3_kernel_has_been_released) - [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/)
