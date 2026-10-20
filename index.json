@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-20, 01:46:00",
+      "https://lobste.rs/s/sqdhu7/openbsd_8_0"
+    ],
+    [
+      "OpenBSD 8.0",
+      "https://www.openbsd.org/80.html"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 00:41:18",
       "https://lobste.rs/s/dpjkzz/do_web_components_have_future_if_nobody_is"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2026-10-19, 01:02:55",
-      "https://lobste.rs/s/ogp1wf/inline_rendering_with_document"
-    ],
-    [
-      "Inline rendering with document.currentScript",
-      "https://leanrada.com/notes/inline-rendering-currentscript/"
-    ]
-  ],
-  [
-    [
       "2026-10-18, 23:51:14",
       "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator"
     ],
     [
       "Superoptimizing an FPU emulator",
       "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 23:05:13",
-      "https://lobste.rs/s/ilul4v/august_servo_css_grid_text_selection_more"
-    ],
-    [
-      "August in Servo: CSS Grid, text selection, and more",
-      "https://servo.org/blog/2026/10/09/august-in-servo/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "ARP! Tell your network to explain itself",
       "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/"
+    ]
+  ],
+  [
+    [
+      "2026-10-18, 10:35:11",
+      "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from"
+    ],
+    [
+      "It's enough - vibecoding tag crossed from useless to harmful",
+      "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from"
     ]
   ]
 ]
