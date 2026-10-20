@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 22:23:54](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1)
 * [2026-10-20, 20:58:34](https://lobste.rs/s/rejqgl/why_i_m_no_longer_updating_this_repository) - [Why I’m no longer updating this repository](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
 * [2026-10-20, 20:49:10](https://lobste.rs/s/hypbid/thebroken_episode_1_2003) - [thebroken Episode 1 (2003)](https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s)
 * [2026-10-20, 20:49:10](https://lobste.rs/s/hypbid/thebroken_episode_1) - [thebroken Episode 1](https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s)
