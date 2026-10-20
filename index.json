@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-20, 00:41:18",
+      "https://lobste.rs/s/dpjkzz/do_web_components_have_future_if_nobody_is"
+    ],
+    [
+      "Do web components have a future if nobody is writing them?",
+      "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 20:10:46",
       "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"
     ],
@@ -27,6 +37,16 @@
     [
       "2026 is an exciting year for the Rust compiler (and me)",
       "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 17:19:45",
+      "https://lobste.rs/s/zfqg1b/it_s_still_ok_enjoy_programming"
+    ],
+    [
+      "It's still OK to enjoy programming",
+      "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-10-19, 01:02:55",
-      "https://lobste.rs/s/ogp1wf/inline_rendering_with_document"
-    ],
-    [
-      "Inline rendering with document.currentScript",
-      "https://leanrada.com/notes/inline-rendering-currentscript/"
-    ]
-  ],
-  [
-    [
       "2026-10-18, 23:51:14",
       "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator"
     ],
     [
       "Superoptimizing an FPU emulator",
       "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 23:05:13",
-      "https://lobste.rs/s/ilul4v/august_servo_css_grid_text_selection_more"
-    ],
-    [
-      "August in Servo: CSS Grid, text selection, and more",
-      "https://servo.org/blog/2026/10/09/august-in-servo/"
     ]
   ],
   [
