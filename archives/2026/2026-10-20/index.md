@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 20:58:34](https://lobste.rs/s/rejqgl/why_i_m_no_longer_updating_this_repository) - [Why I’m no longer updating this repository](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
 * [2026-10-20, 20:49:10](https://lobste.rs/s/hypbid/thebroken_episode_1_2003) - [thebroken Episode 1 (2003)](https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s)
 * [2026-10-20, 20:49:10](https://lobste.rs/s/hypbid/thebroken_episode_1) - [thebroken Episode 1](https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s)
 * [2026-10-20, 20:43:00](https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there) - [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
