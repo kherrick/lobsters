@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-10-20, 10:36:39",
+      "https://lobste.rs/s/mlblil/how_much_harness_does_strong_agent_need"
+    ],
+    [
+      "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+      "https://arxiv.org/abs/2609.40303"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 10:23:58",
       "https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id"
     ],
@@ -217,16 +227,6 @@
     [
       "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
       "https://blog.torproject.org/tor-vpn-beta/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 08:13:14",
-      "https://lobste.rs/s/4oz3sk/7_3_kernel_has_been_released"
-    ],
-    [
-      "The 7.3 kernel has been released",
-      "https://lwn.net/Articles/1101143/"
     ]
   ],
   [
