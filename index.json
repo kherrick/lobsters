@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-20, 17:16:06",
+      "https://lobste.rs/s/qrkkls/lectura_info_simple_rss_reader"
+    ],
+    [
+      "Lectura.info - A simple RSS reader",
+      "https://lectura.info/"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 15:58:18",
       "https://lobste.rs/s/mngelc/making_vga_driver_systemverilog"
     ],
@@ -47,16 +57,6 @@
     [
       "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
       "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 10:36:39",
-      "https://lobste.rs/s/mlblil/how_much_harness_does_strong_agent_need"
-    ],
-    [
-      "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
-      "https://arxiv.org/abs/2609.40303"
     ]
   ],
   [
