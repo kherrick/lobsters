@@ -5,6 +5,7 @@
 * [2026-10-20, 01:57:39](https://lobste.rs/s/7qhwfi/openbsd_8_0_released) - [OpenBSD 8.0: released](https://marc.info/?l=openbsd-announce&m=179245843570316&w=2)
 * [2026-10-20, 01:46:00](https://lobste.rs/s/sqdhu7/openbsd_8_0) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 * [2026-10-20, 00:41:18](https://lobste.rs/s/dpjkzz/do_web_components_have_future_if_nobody_is) - [Do web components have a future if nobody is writing them?](https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/)
+* [2026-10-20, 00:16:31](https://lobste.rs/s/9ww9by/rendering_untrusted_html_email_safely) - [Rendering untrusted HTML email, safely(2021)](https://making.close.com/posts/rendering-untrusted-html-email-safely/)
 * [2026-10-19, 20:10:46](https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os) - [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 * [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context) - [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
 * [2026-10-19, 17:52:41](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
@@ -23,7 +24,6 @@
 * [2026-10-19, 03:26:51](https://lobste.rs/s/w6xosj/what_heck_is_pkg) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-19, 02:59:07](https://lobste.rs/s/nuepys/what_requirements_don_t_you_have) - [What requirements don't you have?](https://www.seangoedecke.com/what-requirements-dont-you-have/)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
-* [2026-10-18, 23:51:14](https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator) - [Superoptimizing an FPU emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
 * [2026-10-18, 18:35:01](https://lobste.rs/s/mp8qye/men_tech_yesallmen) - [Men in tech #YesAllMen](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
 
 ## [Archives](archives/index.md)
