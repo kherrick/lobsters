@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-20, 13:24:13](https://lobste.rs/s/y6kehv/agentic_monitoring) - [Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
 * [2026-10-20, 13:14:54](https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2) - [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
 * [2026-10-20, 13:00:50](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following) - [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 * [2026-10-20, 10:23:58](https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id) - [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
@@ -24,7 +25,6 @@
 * [2026-10-19, 08:13:12](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork) - [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
 * [2026-10-19, 03:26:51](https://lobste.rs/s/w6xosj/what_heck_is_pkg) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
-* [2026-10-18, 18:35:01](https://lobste.rs/s/mp8qye/men_tech_yesallmen) - [Men in tech #YesAllMen](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen)
 
 ## [Archives](archives/index.md)
 
