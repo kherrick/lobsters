@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-20, 19:47:54](https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open) - [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
 * [2026-10-20, 18:44:42](https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
 * [2026-10-20, 18:17:42](https://lobste.rs/s/72bkyt/declarative_wasm_gc_types) - [Declarative WASM GC Types](https://blog.veritates.love/decl-wasm-types)
 * [2026-10-20, 18:16:48](https://lobste.rs/s/staj2z/genera_for_initiated_inside_symbolics) - [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
@@ -20,7 +21,6 @@
 * [2026-10-19, 16:42:07](https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0) - [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
 * [2026-10-19, 15:47:03](https://lobste.rs/s/mpytbn/one_hash_bloom_filters) - [One Hash Bloom Filters](https://www.calabro.io/ohbf)
 * [2026-10-19, 14:44:02](https://lobste.rs/s/gqepzd/wine_ported_openbsd) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-* [2026-10-19, 14:03:08](https://lobste.rs/s/ygp18d/hanami_why_model_citizens) - [Hanami, Why?: Model Citizens](https://aaronmallen.me/writing/hanami-why-model-citizens)
 * [2026-10-19, 13:56:50](https://lobste.rs/s/wtthju/a5_v1_0) - [A5 v1.0](https://a5geo.org/blog/2026/10/14/a5-v1)
 * [2026-10-19, 12:09:29](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
 * [2026-10-19, 08:13:12](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork) - [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
