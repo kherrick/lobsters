@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 09:12:23](https://lobste.rs/s/qflytl/annotated_vt100_firmware_2022) - [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 * [2026-10-20, 04:04:43](https://lobste.rs/s/dl4h2a/very_fast_ipv4_parser_swift) - [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
 * [2026-10-20, 03:10:23](https://lobste.rs/s/vze0kx/go_will_reject_certificate_chains) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de)
 * [2026-10-20, 01:57:39](https://lobste.rs/s/7qhwfi/openbsd_8_0_released) - [OpenBSD 8.0: released](https://marc.info/?l=openbsd-announce&m=179245843570316&w=2)
