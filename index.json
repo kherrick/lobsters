@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-20, 15:01:02",
-      "https://lobste.rs/s/e73ubd/airflow_ai_provider_1_0_agents_sandboxes"
-    ],
-    [
-      "Airflow AI Provider 1.0: Agents, Sandboxes, Human Approval and Smarter Retries",
-      "https://airflow.apache.org/blog/common-ai-provider-1.0/"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 14:10:39",
       "https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path"
     ],
@@ -237,6 +227,16 @@
     [
       "Beginning of the Ende (a community Deno fork)",
       "https://blog.webb.page/WM-105"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 03:26:51",
+      "https://lobste.rs/s/w6xosj/what_heck_is_pkg"
+    ],
+    [
+      "What the heck is /pkg?",
+      "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg"
     ]
   ],
   [
