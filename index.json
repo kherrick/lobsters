@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-20, 20:58:34",
+      "https://lobste.rs/s/rejqgl/why_i_m_no_longer_updating_this_repository"
+    ],
+    [
+      "Why I’m no longer updating this repository",
+      "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 20:49:10",
       "https://lobste.rs/s/hypbid/thebroken_episode_1_2003"
     ],
@@ -87,16 +97,6 @@
     [
       "Making a VGA Driver in SystemVerilog",
       "https://lukaswerner.com/post/2026-10-20@bottom-up-vga"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 14:10:39",
-      "https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path"
-    ],
-    [
-      "CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE",
-      "https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/"
     ]
   ],
   [
