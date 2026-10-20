@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-20, 17:16:06](https://lobste.rs/s/qrkkls/lectura_info_simple_rss_reader) - [Lectura.info - A simple RSS reader](https://lectura.info/)
 * [2026-10-20, 15:58:18](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 * [2026-10-20, 14:10:39](https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path) - [CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE](https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/)
 * [2026-10-20, 13:44:53](https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid) - [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
 * [2026-10-20, 13:14:54](https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2) - [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
 * [2026-10-20, 13:00:50](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following) - [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
-* [2026-10-20, 10:36:39](https://lobste.rs/s/mlblil/how_much_harness_does_strong_agent_need) - [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](https://arxiv.org/abs/2609.40303)
 * [2026-10-20, 10:23:58](https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id) - [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 * [2026-10-20, 09:12:23](https://lobste.rs/s/qflytl/annotated_vt100_firmware_2022) - [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 * [2026-10-20, 04:04:43](https://lobste.rs/s/dl4h2a/very_fast_ipv4_parser_swift) - [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
