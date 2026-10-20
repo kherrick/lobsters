@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-20, 20:43:00](https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there) - [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
+* [2026-10-20, 20:33:19](https://lobste.rs/s/nhiewb/edg_is_open_source) - [EDG is open source](https://edgcpp.org/)
 * [2026-10-20, 20:15:05](https://lobste.rs/s/0jsjaz/sign_language_text) - [Sign language to text](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
 * [2026-10-20, 19:47:54](https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open) - [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
 * [2026-10-20, 18:44:42](https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
@@ -14,7 +16,6 @@
 * [2026-10-20, 09:12:23](https://lobste.rs/s/qflytl/annotated_vt100_firmware_2022) - [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 * [2026-10-20, 04:04:43](https://lobste.rs/s/dl4h2a/very_fast_ipv4_parser_swift) - [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
 * [2026-10-20, 01:46:00](https://lobste.rs/s/sqdhu7/openbsd_8_0) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
-* [2026-10-20, 00:16:31](https://lobste.rs/s/9ww9by/rendering_untrusted_html_email_safely) - [Rendering untrusted HTML email, safely (2021)](https://making.close.com/posts/rendering-untrusted-html-email-safely/)
 * [2026-10-19, 20:10:46](https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os) - [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 * [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context) - [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
 * [2026-10-19, 17:52:41](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
@@ -23,7 +24,6 @@
 * [2026-10-19, 14:44:02](https://lobste.rs/s/gqepzd/wine_ported_openbsd) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 13:56:50](https://lobste.rs/s/wtthju/a5_v1_0) - [A5 v1.0](https://a5geo.org/blog/2026/10/14/a5-v1)
 * [2026-10-19, 12:09:29](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
-* [2026-10-19, 08:13:12](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork) - [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
 
 ## [Archives](archives/index.md)
