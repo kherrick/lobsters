@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-20, 20:58:34](https://lobste.rs/s/rejqgl/why_i_m_no_longer_updating_this_repository) - [Why I’m no longer updating this repository](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
-* [2026-10-20, 20:49:10](https://lobste.rs/s/hypbid/thebroken_episode_1_2003) - [thebroken Episode 1 (2003)](https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s)
 * [2026-10-20, 20:43:00](https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there) - [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
 * [2026-10-20, 20:33:19](https://lobste.rs/s/nhiewb/edg_is_open_source) - [EDG is open source](https://edgcpp.org/)
 * [2026-10-20, 20:15:05](https://lobste.rs/s/0jsjaz/sign_language_text) - [Sign language to text](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
 * [2026-10-20, 19:47:54](https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open) - [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
 * [2026-10-20, 18:44:42](https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
+* [2026-10-20, 18:17:42](https://lobste.rs/s/72bkyt/declarative_wasm_gc_types) - [Declarative WASM GC Types](https://blog.veritates.love/decl-wasm-types)
 * [2026-10-20, 18:16:48](https://lobste.rs/s/staj2z/genera_for_initiated_inside_symbolics) - [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
 * [2026-10-20, 17:33:54](https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look) - [Mastodon 5.0: A closer look](https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/)
 * [2026-10-20, 15:58:18](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
