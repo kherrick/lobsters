@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-10-20, 00:16:31",
+      "https://lobste.rs/s/9ww9by/rendering_untrusted_html_email_safely"
+    ],
+    [
+      "Rendering untrusted HTML email, safely(2021)",
+      "https://making.close.com/posts/rendering-untrusted-html-email-safely/"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 20:10:46",
       "https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"
     ],
@@ -227,16 +237,6 @@
     [
       "Updates to site guidelines and AI/LLM tags",
       "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 23:51:14",
-      "https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator"
-    ],
-    [
-      "Superoptimizing an FPU emulator",
-      "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/"
     ]
   ],
   [
