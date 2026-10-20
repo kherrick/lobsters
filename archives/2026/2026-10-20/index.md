@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 12:56:07](https://lobste.rs/s/46lnul/learn_everything_about_protein) - [Learn everything about protein engineering](https://grimoire.bio/protein-engineering)
 * [2026-10-20, 11:10:38](https://lobste.rs/s/wfdhqr/how_abliterated_models_can_get_you_pwned) - [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 * [2026-10-20, 10:45:47](https://lobste.rs/s/mhwdcj/sumi_css_classless_first_css_framework) - [Sumi.css -  classless-first CSS framework](https://vladocar.github.io/Sumi.css/docs.html)
 * [2026-10-20, 10:23:58](https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id) - [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
