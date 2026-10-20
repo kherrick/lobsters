@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-20, 15:58:18](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 * [2026-10-20, 14:10:39](https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path) - [CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE](https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/)
 * [2026-10-20, 13:44:53](https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid) - [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
 * [2026-10-20, 13:14:54](https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2) - [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
@@ -23,7 +24,6 @@
 * [2026-10-19, 08:27:55](https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building) - [Tor VPN Beta: What we've learned building our own VPN for Android from scratch](https://blog.torproject.org/tor-vpn-beta/)
 * [2026-10-19, 08:13:14](https://lobste.rs/s/4oz3sk/7_3_kernel_has_been_released) - [The 7.3 kernel has been released](https://lwn.net/Articles/1101143/)
 * [2026-10-19, 08:13:12](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork) - [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
-* [2026-10-19, 03:26:51](https://lobste.rs/s/w6xosj/what_heck_is_pkg) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
 
 ## [Archives](archives/index.md)

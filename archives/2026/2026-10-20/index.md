@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 15:58:18](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 * [2026-10-20, 15:01:02](https://lobste.rs/s/e73ubd/airflow_ai_provider_1_0_agents_sandboxes) - [Airflow AI Provider 1.0: Agents, Sandboxes, Human Approval and Smarter Retries](https://airflow.apache.org/blog/common-ai-provider-1.0/)
 * [2026-10-20, 14:49:41](https://lobste.rs/s/unigvs/clerkenwell_handwritten_clojure) - [Clerkenwell: A handwritten Clojure notebook](https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html)
 * [2026-10-20, 14:29:19](https://lobste.rs/s/dp6422/introducing_tsrs_port_typescript_rust) - [Introducing tsrs: a Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
