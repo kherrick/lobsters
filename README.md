@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-20, 20:49:10](https://lobste.rs/s/hypbid/thebroken_episode_1) - [thebroken Episode 1](https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s)
+* [2026-10-20, 20:49:10](https://lobste.rs/s/hypbid/thebroken_episode_1_2003) - [thebroken Episode 1 (2003)](https://www.youtube.com/watch?v=A_xTA-YAa9U&t=2m10s)
 * [2026-10-20, 20:43:00](https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there) - [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
 * [2026-10-20, 20:33:19](https://lobste.rs/s/nhiewb/edg_is_open_source) - [EDG is open source](https://edgcpp.org/)
 * [2026-10-20, 20:15:05](https://lobste.rs/s/0jsjaz/sign_language_text) - [Sign language to text](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
