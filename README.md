@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-20, 11:10:38](https://lobste.rs/s/wfdhqr/how_abliterated_models_can_get_you_pwned) - [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 * [2026-10-20, 10:45:47](https://lobste.rs/s/mhwdcj/sumi_css_classless_first_css_framework) - [Sumi.css -  classless-first CSS framework](https://vladocar.github.io/Sumi.css/docs.html)
 * [2026-10-20, 10:23:58](https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id) - [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 * [2026-10-20, 09:12:23](https://lobste.rs/s/qflytl/annotated_vt100_firmware_2022) - [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
@@ -9,6 +8,7 @@
 * [2026-10-20, 01:46:00](https://lobste.rs/s/sqdhu7/openbsd_8_0) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 * [2026-10-20, 00:41:18](https://lobste.rs/s/dpjkzz/do_web_components_have_future_if_nobody_is) - [Do web components have a future if nobody is writing them?](https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/)
 * [2026-10-20, 00:16:31](https://lobste.rs/s/9ww9by/rendering_untrusted_html_email_safely) - [Rendering untrusted HTML email, safely(2021)](https://making.close.com/posts/rendering-untrusted-html-email-safely/)
+* [2026-10-19, 22:53:54](https://lobste.rs/s/fonp7g/intermediary_between_public_private) - [Intermediary between public and private members](https://lobste.rs/s/fonp7g/intermediary_between_public_private)
 * [2026-10-19, 20:10:46](https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os) - [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 * [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context) - [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
 * [2026-10-19, 17:52:41](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
