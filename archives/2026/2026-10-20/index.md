@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 15:01:02](https://lobste.rs/s/e73ubd/airflow_ai_provider_1_0_agents_sandboxes) - [Airflow AI Provider 1.0: Agents, Sandboxes, Human Approval and Smarter Retries](https://airflow.apache.org/blog/common-ai-provider-1.0/)
 * [2026-10-20, 14:49:41](https://lobste.rs/s/unigvs/clerkenwell_handwritten_clojure) - [Clerkenwell: A handwritten Clojure notebook](https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html)
 * [2026-10-20, 14:29:19](https://lobste.rs/s/dp6422/introducing_tsrs_port_typescript_rust) - [Introducing tsrs: a Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
 * [2026-10-20, 14:10:39](https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path) - [CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE](https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/)

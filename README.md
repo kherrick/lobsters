@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-20, 14:49:41](https://lobste.rs/s/unigvs/clerkenwell_handwritten_clojure) - [Clerkenwell: A handwritten Clojure notebook](https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html)
+* [2026-10-20, 15:01:02](https://lobste.rs/s/e73ubd/airflow_ai_provider_1_0_agents_sandboxes) - [Airflow AI Provider 1.0: Agents, Sandboxes, Human Approval and Smarter Retries](https://airflow.apache.org/blog/common-ai-provider-1.0/)
 * [2026-10-20, 14:10:39](https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path) - [CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE](https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/)
 * [2026-10-20, 13:44:53](https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid) - [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
 * [2026-10-20, 13:14:54](https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2) - [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
