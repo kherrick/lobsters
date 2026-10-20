@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-20, 10:23:58",
+      "https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id"
+    ],
+    [
+      "Setting up SSH keys on macOS with Touch ID",
+      "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 09:12:23",
       "https://lobste.rs/s/qflytl/annotated_vt100_firmware_2022"
     ],
@@ -177,16 +187,6 @@
     [
       "Making dns_erlang Fast: Binary Tricks for the BEAM",
       "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 13:18:26",
-      "https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic"
-    ],
-    [
-      "Borrow Checking Zero-Cost Cyclic Mutability",
-      "https://antelang.org/blog/safe_cyclic_mutability/"
     ]
   ],
   [
