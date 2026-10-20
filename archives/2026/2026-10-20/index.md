@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 18:17:42](https://lobste.rs/s/72bkyt/declarative_wasm_gc_types) - [Declarative WASM GC Types](https://blog.veritates.love/decl-wasm-types)
+* [2026-10-20, 18:16:48](https://lobste.rs/s/staj2z/genera_for_initiated_inside_symbolics) - [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
 * [2026-10-20, 17:33:54](https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look) - [Mastodon 5.0: A closer look](https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/)
 * [2026-10-20, 17:16:06](https://lobste.rs/s/qrkkls/lectura_info_simple_rss_reader) - [Lectura.info - A simple RSS reader](https://lectura.info/)
 * [2026-10-20, 15:58:18](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)

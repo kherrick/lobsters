@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-20, 18:17:42](https://lobste.rs/s/72bkyt/declarative_wasm_gc_types) - [Declarative WASM GC Types](https://blog.veritates.love/decl-wasm-types)
+* [2026-10-20, 18:16:48](https://lobste.rs/s/staj2z/genera_for_initiated_inside_symbolics) - [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
 * [2026-10-20, 17:33:54](https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look) - [Mastodon 5.0: A closer look](https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/)
 * [2026-10-20, 15:58:18](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 * [2026-10-20, 14:10:39](https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path) - [CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE](https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/)
@@ -11,7 +13,6 @@
 * [2026-10-20, 04:04:43](https://lobste.rs/s/dl4h2a/very_fast_ipv4_parser_swift) - [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
 * [2026-10-20, 01:46:00](https://lobste.rs/s/sqdhu7/openbsd_8_0) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 * [2026-10-20, 00:16:31](https://lobste.rs/s/9ww9by/rendering_untrusted_html_email_safely) - [Rendering untrusted HTML email, safely (2021)](https://making.close.com/posts/rendering-untrusted-html-email-safely/)
-* [2026-10-19, 22:53:54](https://lobste.rs/s/fonp7g/intermediary_between_public_private) - [Intermediary between public and private members](https://lobste.rs/s/fonp7g/intermediary_between_public_private)
 * [2026-10-19, 20:10:46](https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os) - [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 * [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context) - [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
 * [2026-10-19, 17:52:41](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
@@ -20,7 +21,6 @@
 * [2026-10-19, 14:44:02](https://lobste.rs/s/gqepzd/wine_ported_openbsd) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 14:03:08](https://lobste.rs/s/ygp18d/hanami_why_model_citizens) - [Hanami, Why?: Model Citizens](https://aaronmallen.me/writing/hanami-why-model-citizens)
 * [2026-10-19, 13:56:50](https://lobste.rs/s/wtthju/a5_v1_0) - [A5 v1.0](https://a5geo.org/blog/2026/10/14/a5-v1)
-* [2026-10-19, 13:26:58](https://lobste.rs/s/p3pruv/making_dns_erlang_fast_binary_tricks_for) - [Making dns_erlang Fast: Binary Tricks for the BEAM](https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/)
 * [2026-10-19, 12:09:29](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vyfegx/what_are_you_doing_this_week)
 * [2026-10-19, 08:27:55](https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building) - [Tor VPN Beta: What we've learned building our own VPN for Android from scratch](https://blog.torproject.org/tor-vpn-beta/)
 * [2026-10-19, 08:13:12](https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork) - [Beginning of the Ende (a community Deno fork)](https://blog.webb.page/WM-105)
