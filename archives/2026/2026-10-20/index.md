@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 13:14:54](https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2) - [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
+* [2026-10-20, 13:00:50](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following) - [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 * [2026-10-20, 12:56:07](https://lobste.rs/s/46lnul/learn_everything_about_protein) - [Learn everything about protein engineering](https://grimoire.bio/protein-engineering)
 * [2026-10-20, 11:10:38](https://lobste.rs/s/wfdhqr/how_abliterated_models_can_get_you_pwned) - [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 * [2026-10-20, 10:45:47](https://lobste.rs/s/mhwdcj/sumi_css_classless_first_css_framework) - [Sumi.css -  classless-first CSS framework](https://vladocar.github.io/Sumi.css/docs.html)
