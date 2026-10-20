@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 17:33:54](https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look) - [Mastodon 5.0: A closer look](https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/)
 * [2026-10-20, 17:16:06](https://lobste.rs/s/qrkkls/lectura_info_simple_rss_reader) - [Lectura.info - A simple RSS reader](https://lectura.info/)
 * [2026-10-20, 15:58:18](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 * [2026-10-20, 15:01:02](https://lobste.rs/s/e73ubd/airflow_ai_provider_1_0_agents_sandboxes) - [Airflow AI Provider 1.0: Agents, Sandboxes, Human Approval and Smarter Retries](https://airflow.apache.org/blog/common-ai-provider-1.0/)

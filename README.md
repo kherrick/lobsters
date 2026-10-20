@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-20, 17:16:06](https://lobste.rs/s/qrkkls/lectura_info_simple_rss_reader) - [Lectura.info - A simple RSS reader](https://lectura.info/)
+* [2026-10-20, 17:33:54](https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look) - [Mastodon 5.0: A closer look](https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/)
 * [2026-10-20, 15:58:18](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 * [2026-10-20, 14:10:39](https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path) - [CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE](https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/)
 * [2026-10-20, 13:44:53](https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid) - [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
