@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 22:53:54](https://lobste.rs/s/fonp7g/intermediary_between_public_private) - [Intermediary between public and private members](https://lobste.rs/s/fonp7g/intermediary_between_public_private)
 * [2026-10-19, 20:10:46](https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os) - [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 * [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context_rich_hickley) - [In Context - Rich Hickley](https://www.youtube.com/watch?v=P5eO7BNyJao)
 * [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context) - [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
