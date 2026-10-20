@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 11:10:38](https://lobste.rs/s/wfdhqr/how_abliterated_models_can_get_you_pwned) - [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
+* [2026-10-20, 10:45:47](https://lobste.rs/s/mhwdcj/sumi_css_classless_first_css_framework) - [Sumi.css -  classless-first CSS framework](https://vladocar.github.io/Sumi.css/docs.html)
 * [2026-10-20, 10:23:58](https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id) - [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 * [2026-10-20, 09:12:23](https://lobste.rs/s/qflytl/annotated_vt100_firmware_2022) - [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 * [2026-10-20, 04:04:43](https://lobste.rs/s/dl4h2a/very_fast_ipv4_parser_swift) - [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
