@@ -9,6 +9,7 @@
 * [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context) - [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
 * [2026-10-19, 17:52:41](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
 * [2026-10-19, 17:37:40](https://lobste.rs/s/vnsfnw/what_is_this_worth) - [What is this worth?](https://nuno-icons.com/2026/10/19/what-is-this-worth/)
+* [2026-10-19, 17:19:45](https://lobste.rs/s/zfqg1b/it_s_still_ok_enjoy_programming) - [It's still OK to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-19, 16:42:07](https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0) - [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
 * [2026-10-19, 16:30:36](https://lobste.rs/s/mpdk1e/finding_home_amidst_wreckage) - [Finding a home amidst the wreckage](https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/)
 * [2026-10-19, 15:47:03](https://lobste.rs/s/mpytbn/one_hash_bloom_filters) - [One Hash Bloom Filters](https://www.calabro.io/ohbf)
