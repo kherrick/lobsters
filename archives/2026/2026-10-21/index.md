@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 15:24:05](https://lobste.rs/s/hty1qk/zls_0_17_0) - [zls 0.17.0](https://zigtools.org/zls/releases/0.17.0/)
 * [2026-10-21, 15:12:30](https://lobste.rs/s/i2ijk8/rechenwerk_programmer_s_calculator_for) - [Rechenwerk — a programmer’s calculator for hex, binary and RPN for iOS and Android](https://rechenwerk.app)
 * [2026-10-21, 14:37:15](https://lobste.rs/s/bapw7h/php2shell_by_calif_research) - [php2shell by Calif Research](https://calif.io/php2shell.x)
 * [2026-10-21, 13:50:10](https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
