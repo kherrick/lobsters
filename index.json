@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-21, 22:31:11",
+      "https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday"
+    ],
+    [
+      "Railway Security Disclosure: Wednesday October 21st",
+      "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 21:27:36",
       "https://lobste.rs/s/deqmg0/embedding_eyg_erlang_programs"
     ],
@@ -237,16 +247,6 @@
     [
       "Setting up SSH keys on macOS with Touch ID",
       "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 01:28:53",
-      "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags"
-    ],
-    [
-      "Updates to site guidelines and AI/LLM tags",
-      "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags"
     ]
   ]
 ]
