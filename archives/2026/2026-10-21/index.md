@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
 * [2026-10-21, 07:38:00](https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s) - [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/)
 * [2026-10-21, 07:33:04](https://lobste.rs/s/tsfina/vector_graphics_lil) - [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
 * [2026-10-21, 07:27:17](https://lobste.rs/s/ydbql4/announcing_gpu_notification_group) - [Announcing the GPU notification group and Linker Working Area](https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/)
