@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-21, 15:12:30](https://lobste.rs/s/i2ijk8/rechenwerk_programmer_s_calculator_for) - [Rechenwerk — a programmer’s calculator for hex, binary and RPN for iOS and Android](https://rechenwerk.app)
 * [2026-10-21, 14:37:15](https://lobste.rs/s/bapw7h/php2shell_by_calif_research) - [php2shell by Calif Research](https://calif.io/php2shell.x)
 * [2026-10-21, 13:50:10](https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 * [2026-10-21, 10:14:43](https://lobste.rs/s/0glhl6/improving_accessibility_with_css_media) - [Improving accessibility with CSS media queries (2025)](https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/)
 * [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
 * [2026-10-21, 07:38:00](https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s) - [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/)
 * [2026-10-21, 07:33:04](https://lobste.rs/s/tsfina/vector_graphics_lil) - [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
-* [2026-10-21, 07:27:17](https://lobste.rs/s/ydbql4/announcing_gpu_notification_group) - [Announcing the GPU notification group and Linker Working Area](https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/)
 * [2026-10-21, 07:13:16](https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now) - [Firefox security patch tests are now private for at least a week](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ)
 * [2026-10-21, 06:16:50](https://lobste.rs/s/vidyh0/future_css) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 * [2026-10-21, 01:01:13](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october) - [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october)
