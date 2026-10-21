@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 15:53:37](https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026) - [Node.js — Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases)
+* [2026-10-21, 15:47:59](https://lobste.rs/s/w9sxxq/firefox_local_mode) - [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 * [2026-10-21, 15:24:05](https://lobste.rs/s/hty1qk/zls_0_17_0) - [zls 0.17.0](https://zigtools.org/zls/releases/0.17.0/)
 * [2026-10-21, 15:12:30](https://lobste.rs/s/i2ijk8/rechenwerk_programmer_s_calculator_for) - [Rechenwerk — a programmer’s calculator for hex, binary and RPN for iOS and Android](https://rechenwerk.app)
 * [2026-10-21, 14:37:15](https://lobste.rs/s/bapw7h/php2shell_by_calif_research) - [php2shell by Calif Research](https://calif.io/php2shell.x)
