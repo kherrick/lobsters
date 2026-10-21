@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-10-21, 07:27:17",
+      "https://lobste.rs/s/ydbql4/announcing_gpu_notification_group"
+    ],
+    [
+      "Announcing the GPU notification group and Linker Working Area",
+      "https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 07:13:16",
       "https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now"
     ],
@@ -97,16 +107,6 @@
     [
       "Why do we need ud2 when int 6 is right there?",
       "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 20:33:19",
-      "https://lobste.rs/s/nhiewb/edg_is_open_source"
-    ],
-    [
-      "EDG is open source",
-      "https://edgcpp.org/"
     ]
   ],
   [
