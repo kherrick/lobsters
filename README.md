@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-21, 13:50:10](https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 * [2026-10-21, 10:14:43](https://lobste.rs/s/0glhl6/improving_accessibility_with_css_media) - [Improving accessibility with CSS media queries (2025)](https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/)
 * [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
 * [2026-10-21, 07:38:00](https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s) - [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/)
@@ -11,7 +12,6 @@
 * [2026-10-21, 00:44:49](https://lobste.rs/s/x7codz/unauthorized_access_pingcap_cloud) - [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
 * [2026-10-20, 22:23:54](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1)
 * [2026-10-20, 20:43:00](https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there) - [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
-* [2026-10-20, 20:33:19](https://lobste.rs/s/nhiewb/edg_is_open_source) - [EDG is open source](https://edgcpp.org/)
 * [2026-10-20, 19:47:54](https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open) - [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)
 * [2026-10-20, 18:44:42](https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
 * [2026-10-20, 18:16:48](https://lobste.rs/s/staj2z/genera_for_initiated_inside_symbolics) - [Genera for the Initiated: Inside Symbolics Lisp Machines](https://www.youtube.com/watch?v=W2fGKjFoaOg)
