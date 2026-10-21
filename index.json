@@ -1,22 +1,12 @@
 [
   [
     [
-      "2026-10-21, 15:12:30",
-      "https://lobste.rs/s/i2ijk8/rechenwerk_programmer_s_calculator_for"
+      "2026-10-21, 15:24:05",
+      "https://lobste.rs/s/hty1qk/zls_0_17_0"
     ],
     [
-      "Rechenwerk — a programmer’s calculator for hex, binary and RPN for iOS and Android",
-      "https://rechenwerk.app"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 14:37:15",
-      "https://lobste.rs/s/bapw7h/php2shell_by_calif_research"
-    ],
-    [
-      "php2shell by Calif Research",
-      "https://calif.io/php2shell.x"
+      "zls 0.17.0",
+      "https://zigtools.org/zls/releases/0.17.0/"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "Vector Graphics in Lil",
       "https://beyondloom.com/blog/vectorgraphics.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 07:27:17",
+      "https://lobste.rs/s/ydbql4/announcing_gpu_notification_group"
+    ],
+    [
+      "Announcing the GPU notification group and Linker Working Area",
+      "https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/"
     ]
   ],
   [
