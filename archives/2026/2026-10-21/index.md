@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 01:01:13](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october) - [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october)
 * [2026-10-21, 00:44:49](https://lobste.rs/s/x7codz/unauthorized_access_pingcap_cloud) - [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
