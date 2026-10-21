@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-21, 10:14:43](https://lobste.rs/s/0glhl6/improving_accessibility_with_css_media) - [Improving accessibility with CSS media queries (2025)](https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/)
 * [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
-* [2026-10-21, 07:38:00](https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s) - [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/)
 * [2026-10-21, 07:33:04](https://lobste.rs/s/tsfina/vector_graphics_lil) - [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
 * [2026-10-21, 07:27:17](https://lobste.rs/s/ydbql4/announcing_gpu_notification_group) - [Announcing the GPU notification group and Linker Working Area](https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/)
 * [2026-10-21, 07:13:16](https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now) - [Firefox security patch tests are now private for at least a week](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ)

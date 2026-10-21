@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 10:14:43](https://lobste.rs/s/0glhl6/improving_accessibility_with_css_media) - [Improving accessibility with CSS media queries (2025)](https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/)
 * [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
 * [2026-10-21, 07:38:00](https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s) - [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/)
 * [2026-10-21, 07:33:04](https://lobste.rs/s/tsfina/vector_graphics_lil) - [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
