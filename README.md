@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-21, 06:16:50](https://lobste.rs/s/vidyh0/future_css) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 * [2026-10-21, 01:01:13](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october) - [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october)
 * [2026-10-21, 00:44:49](https://lobste.rs/s/x7codz/unauthorized_access_pingcap_cloud) - [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
 * [2026-10-20, 22:23:54](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1)
@@ -18,7 +19,6 @@
 * [2026-10-20, 04:04:43](https://lobste.rs/s/dl4h2a/very_fast_ipv4_parser_swift) - [A Very Fast IPv4 Parser, in Swift](https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/)
 * [2026-10-20, 01:46:00](https://lobste.rs/s/sqdhu7/openbsd_8_0) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 * [2026-10-19, 20:10:46](https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os) - [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
-* [2026-10-19, 18:25:48](https://lobste.rs/s/b36ixw/context) - [In Context](https://www.youtube.com/watch?v=P5eO7BNyJao)
 * [2026-10-19, 17:52:41](https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
 * [2026-10-19, 16:42:07](https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0) - [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html)
 * [2026-10-19, 15:47:03](https://lobste.rs/s/mpytbn/one_hash_bloom_filters) - [One Hash Bloom Filters](https://www.calabro.io/ohbf)
