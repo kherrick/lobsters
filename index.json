@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-21, 18:54:02",
+      "https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity"
+    ],
+    [
+      "Flow Typing, A New Lens on Linearity",
+      "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 17:40:17",
       "https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple"
     ],
@@ -137,16 +147,6 @@
     [
       "Upcoming Critical PHP Security Release",
       "https://www.php.net/archive/2026.php#2026-10-20-1"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 20:43:00",
-      "https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there"
-    ],
-    [
-      "Why do we need ud2 when int 6 is right there?",
-      "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/"
     ]
   ],
   [
