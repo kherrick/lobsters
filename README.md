@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-21, 16:07:01](https://lobste.rs/s/17bp4z/your_ai_agent_fixed_bug_what_else_did_it) - [Your AI agent fixed the bug, but what else did it change?](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
 * [2026-10-21, 15:53:37](https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026) - [Node.js — Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases)
 * [2026-10-21, 15:47:59](https://lobste.rs/s/w9sxxq/firefox_local_mode) - [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 * [2026-10-21, 15:24:05](https://lobste.rs/s/hty1qk/zls_0_17_0) - [zls 0.17.0](https://zigtools.org/zls/releases/0.17.0/)
@@ -23,7 +24,6 @@
 * [2026-10-20, 13:00:50](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following) - [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 * [2026-10-20, 10:23:58](https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id) - [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 * [2026-10-20, 01:46:00](https://lobste.rs/s/sqdhu7/openbsd_8_0) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
-* [2026-10-19, 20:10:46](https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os) - [The Netherlands is building its own Linux OS to break free from Microsoft](https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html)
 * [2026-10-19, 01:28:53](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) - [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags)
 
 ## [Archives](archives/index.md)
