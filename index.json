@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-21, 20:48:24",
+      "https://lobste.rs/s/pnpcso/gitlab_critical_patch_release"
+    ],
+    [
+      "GitLab Critical Patch Release",
+      "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 19:12:02",
       "https://lobste.rs/s/9jgl3x/google_s_rust_style_guide"
     ],
@@ -117,16 +127,6 @@
     [
       "Unikernels in OCaml",
       "https://uniker.nl/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 07:38:00",
-      "https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s"
-    ],
-    [
-      "ConcurrentML: Improving on Go's concurrency model",
-      "https://nikhilism.com/post/2026/golang-racket-concurrency/"
     ]
   ],
   [
