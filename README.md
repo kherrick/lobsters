@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-20, 23:04:37](https://lobste.rs/s/uplhpf/leanin_tokio_inspired_concurrency) - [leanin: A Tokio-inspired concurrency library for Lean 4, with machine-checked proofs](https://github.com/scidonia/leanin/)
+* [2026-10-21, 00:44:49](https://lobste.rs/s/x7codz/unauthorized_access_pingcap_cloud) - [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/)
 * [2026-10-20, 22:23:54](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1)
 * [2026-10-20, 20:43:00](https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there) - [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/)
 * [2026-10-20, 20:33:19](https://lobste.rs/s/nhiewb/edg_is_open_source) - [EDG is open source](https://edgcpp.org/)
