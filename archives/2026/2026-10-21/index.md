@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 11:49:41](https://lobste.rs/s/jckax8/deleting_19k_lines_dead_compiler_code) - [Deleting 19k Lines of Dead Compiler Code Without Trusting the LLM](https://thecloudlet.github.io/technical/refactor-with-ai/part-1-deletion/)
 * [2026-10-21, 10:14:43](https://lobste.rs/s/0glhl6/improving_accessibility_with_css_media) - [Improving accessibility with CSS media queries (2025)](https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/)
 * [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
 * [2026-10-21, 07:38:00](https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s) - [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/)
