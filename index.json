@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-10-20, 20:33:19",
+      "https://lobste.rs/s/nhiewb/edg_is_open_source"
+    ],
+    [
+      "EDG is open source",
+      "https://edgcpp.org/"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 19:47:54",
       "https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open"
     ],
@@ -217,16 +227,6 @@
     [
       "The Netherlands is building its own Linux OS to break free from Microsoft",
       "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 16:42:07",
-      "https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"
-    ],
-    [
-      "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
-      "https://futhark-lang.org/blog/2026-10-14-defining-division.html"
     ]
   ],
   [
