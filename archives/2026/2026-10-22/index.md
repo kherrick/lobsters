@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 17:35:52](https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my) - [Objects, attributes, maps, oh my](https://bernsteinbear.com/blog/object-shapes/)
 * [2026-10-22, 16:30:14](https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service) - [Expose only share links of a private service with caddy](https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html)
 * [2026-10-22, 15:15:44](https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification) - [Header Accordions: QPACK amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
 * [2026-10-22, 14:49:22](https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023) - [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
