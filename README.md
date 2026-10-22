@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 11:32:42](https://lobste.rs/s/zpcnmo/there_isn_t_easy_exploit_for_this_php) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 * [2026-10-22, 11:17:02](https://lobste.rs/s/twe9my/create_canarytoken_deploy_it_somewhere) - [Create a Canarytoken. Deploy it somewhere](https://canarytokens.org/nest/)
 * [2026-10-22, 10:28:49](https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023) - [Three configurable prettyprinters (2023)](https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html)
 * [2026-10-22, 08:09:55](https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect) - [Garmin Revamps and Opens Up Connect Developer API Program](https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html)
@@ -16,7 +17,6 @@
 * [2026-10-21, 18:16:22](https://lobste.rs/s/cdnepk/passkeys_attestation_trap) - [Passkeys Attestation Trap](https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/)
 * [2026-10-21, 17:40:17](https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple) - [CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes](https://www.openwall.com/lists/oss-security/2026/10/21/18)
 * [2026-10-21, 17:16:47](https://lobste.rs/s/cq7wn7/don_t_throw_it_all_away_caching_immediate) - [Don't throw it all away: Caching an immediate-mode UI](https://blickeditor.com/blog/caching-an-immediate-mode-ui)
-* [2026-10-21, 15:53:37](https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026) - [Node.js — Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases)
 * [2026-10-21, 15:47:59](https://lobste.rs/s/w9sxxq/firefox_local_mode) - [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 * [2026-10-21, 15:24:05](https://lobste.rs/s/hty1qk/zls_0_17_0) - [zls 0.17.0](https://zigtools.org/zls/releases/0.17.0/)
 * [2026-10-21, 13:50:10](https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
