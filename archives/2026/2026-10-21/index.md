@@ -6,6 +6,7 @@
 
 * [2026-10-21, 22:31:11](https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday) - [Railway Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 * [2026-10-21, 21:27:36](https://lobste.rs/s/deqmg0/embedding_eyg_erlang_programs) - [Embedding EYG in Erlang programs](https://eyg.run/guides/embedding-eyg-in-erlang-programs)
+* [2026-10-21, 21:06:35](https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s) - [How to Run Turing-Complete Malware in PyTorch's Backward Pass](https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/)
 * [2026-10-21, 20:48:24](https://lobste.rs/s/pnpcso/gitlab_critical_patch_release) - [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
 * [2026-10-21, 19:12:02](https://lobste.rs/s/9jgl3x/google_s_rust_style_guide) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 * [2026-10-21, 18:54:02](https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity) - [Flow Typing, A New Lens on Linearity](https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/)
