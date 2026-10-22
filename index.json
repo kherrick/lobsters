@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-22, 14:24:51",
+      "https://lobste.rs/s/egkbzh/emudhra_exit_global_ssl_tls_certificate"
+    ],
+    [
+      "eMudhra to Exit global SSL/TLS Certificate Business",
+      "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 14:14:04",
+      "https://lobste.rs/s/oeehgs/script_dependencies_with_nix"
+    ],
+    [
+      "Script dependencies with Nix",
+      "https://entropicthoughts.com/python-dependencies-with-nix"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 12:53:26",
       "https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then"
     ],
@@ -27,16 +47,6 @@
     [
       "jailbreaking the switch 2",
       "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 10:28:49",
-      "https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023"
-    ],
-    [
-      "Three configurable prettyprinters (2023)",
-      "https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Upcoming Critical PHP Security Release",
       "https://www.php.net/archive/2026.php#2026-10-20-1"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 13:00:50",
-      "https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"
-    ],
-    [
-      "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-      "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/"
     ]
   ]
 ]
