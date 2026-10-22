@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 12:53:26](https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then) - [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
 * [2026-10-22, 12:24:15](https://lobste.rs/s/nxvfjx/bridge_agent_scale_git_infrastructure) - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
 * [2026-10-22, 12:10:48](https://lobste.rs/s/me75ey/jailbreaking_switch_2) - [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
 * [2026-10-22, 11:32:42](https://lobste.rs/s/zpcnmo/there_isn_t_easy_exploit_for_this_php) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
