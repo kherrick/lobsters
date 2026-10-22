@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 21:52:10](https://lobste.rs/s/05xrj8/we_have_traits_at_home) - [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
 * [2026-10-22, 21:42:04](https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno) - [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
 * [2026-10-22, 20:09:22](https://lobste.rs/s/xsz9sc/docker_is_weird) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 19:47:39](https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france) - [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
@@ -18,7 +19,6 @@
 * [2026-10-21, 23:53:40](https://lobste.rs/s/wno4h3/understanding_nix_flakes) - [Understanding Nix flakes](https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/)
 * [2026-10-21, 22:31:11](https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday) - [Railway Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 * [2026-10-21, 19:12:02](https://lobste.rs/s/9jgl3x/google_s_rust_style_guide) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
-* [2026-10-21, 18:54:02](https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity) - [Flow Typing, A New Lens on Linearity](https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/)
 * [2026-10-21, 18:16:22](https://lobste.rs/s/cdnepk/passkeys_attestation_trap) - [Passkeys Attestation Trap](https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/)
 * [2026-10-21, 17:40:17](https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple) - [CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes](https://www.openwall.com/lists/oss-security/2026/10/21/18)
 * [2026-10-21, 15:47:59](https://lobste.rs/s/w9sxxq/firefox_local_mode) - [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
