@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 23:53:40](https://lobste.rs/s/wno4h3/understanding_nix_flakes) - [Understanding Nix flakes](https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/)
 * [2026-10-21, 22:31:11](https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday) - [Railway Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+* [2026-10-21, 21:32:29](https://lobste.rs/s/2czsv4/compromised_litellm_1_107_0_on_pypi) - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor)
 * [2026-10-21, 21:27:36](https://lobste.rs/s/deqmg0/embedding_eyg_erlang_programs) - [Embedding EYG in Erlang programs](https://eyg.run/guides/embedding-eyg-in-erlang-programs)
 * [2026-10-21, 21:06:35](https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s) - [How to Run Turing-Complete Malware in PyTorch's Backward Pass](https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/)
 * [2026-10-21, 20:48:24](https://lobste.rs/s/pnpcso/gitlab_critical_patch_release) - [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
