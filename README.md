@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 10:28:49](https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023) - [Three configurable prettyprinters (2023)](https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html)
 * [2026-10-22, 10:13:24](https://lobste.rs/s/azc9ip/two_welsh_organisations_reprimanded) - [Two Welsh organisations reprimanded after cyber-attack exposed children’s information](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/password1-is-not-an-appropriate-password/)
 * [2026-10-22, 08:09:55](https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect) - [Garmin Revamps and Opens Up Connect Developer API Program](https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html)
 * [2026-10-22, 06:45:58](https://lobste.rs/s/hplfis/examining_macos_gcc_binary) - [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
@@ -22,7 +23,6 @@
 * [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
 * [2026-10-21, 07:33:04](https://lobste.rs/s/tsfina/vector_graphics_lil) - [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
 * [2026-10-21, 06:16:50](https://lobste.rs/s/vidyh0/future_css) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-* [2026-10-21, 01:01:13](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october) - [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october)
 * [2026-10-20, 22:23:54](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1)
 * [2026-10-20, 13:00:50](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following) - [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 
