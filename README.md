@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 14:49:22](https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023) - [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
 * [2026-10-22, 14:24:51](https://lobste.rs/s/egkbzh/emudhra_exit_global_ssl_tls_certificate) - [eMudhra to Exit global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 * [2026-10-22, 14:14:04](https://lobste.rs/s/oeehgs/script_dependencies_with_nix) - [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
 * [2026-10-22, 12:53:26](https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then) - [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
 * [2026-10-22, 12:10:48](https://lobste.rs/s/me75ey/jailbreaking_switch_2) - [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
-* [2026-10-22, 10:28:49](https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023) - [Three configurable prettyprinters (2023)](https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html)
 * [2026-10-22, 08:09:55](https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect) - [Garmin Revamps and Opens Up Connect Developer API Program](https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html)
 * [2026-10-22, 06:45:58](https://lobste.rs/s/hplfis/examining_macos_gcc_binary) - [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
 * [2026-10-22, 06:15:07](https://lobste.rs/s/dcvs3u/announcing_duckdb_2_0_0_lts_cinnamon_teal) - [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)

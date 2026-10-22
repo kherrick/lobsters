@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 14:49:22](https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023) - [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
 * [2026-10-22, 14:24:51](https://lobste.rs/s/egkbzh/emudhra_exit_global_ssl_tls_certificate) - [eMudhra to Exit global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 * [2026-10-22, 14:14:04](https://lobste.rs/s/oeehgs/script_dependencies_with_nix) - [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
 * [2026-10-22, 12:53:26](https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then) - [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
