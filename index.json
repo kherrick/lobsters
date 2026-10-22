@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-22, 21:42:04",
+      "https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno"
+    ],
+    [
+      "a hacky fucked up way to portably access errno from outside of c",
+      "https://sebsite.pw/w/20260925-errno.html"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 20:09:22",
       "https://lobste.rs/s/xsz9sc/docker_is_weird"
     ],
@@ -197,16 +207,6 @@
     [
       "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
       "https://www.openwall.com/lists/oss-security/2026/10/21/18"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 17:16:47",
-      "https://lobste.rs/s/cq7wn7/don_t_throw_it_all_away_caching_immediate"
-    ],
-    [
-      "Don't throw it all away: Caching an immediate-mode UI",
-      "https://blickeditor.com/blog/caching-an-immediate-mode-ui"
     ]
   ],
   [
