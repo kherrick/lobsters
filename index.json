@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-22, 06:45:58",
+      "https://lobste.rs/s/hplfis/examining_macos_gcc_binary"
+    ],
+    [
+      "examining the macOS gcc binary",
+      "https://zoey-on-github.github.io/blog/macgcc.html"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 06:15:07",
       "https://lobste.rs/s/dcvs3u/announcing_duckdb_2_0_0_lts_cinnamon_teal"
     ],
@@ -227,16 +237,6 @@
     [
       "Upcoming Critical PHP Security Release",
       "https://www.php.net/archive/2026.php#2026-10-20-1"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 17:33:54",
-      "https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look"
-    ],
-    [
-      "Mastodon 5.0: A closer look",
-      "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/"
     ]
   ],
   [
