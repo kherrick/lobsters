@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 06:15:07](https://lobste.rs/s/dcvs3u/announcing_duckdb_2_0_0_lts_cinnamon_teal) - [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)
 * [2026-10-22, 04:18:37](https://lobste.rs/s/os7brs/using_lookup_table_correct) - [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
 * [2026-10-22, 02:18:33](https://lobste.rs/s/qgbvku/turning_ipv6_tunnels_into_programmable) - [Turning IPv6 tunnels into programmable delay lines for pulsing DoS](https://blog.apnic.net/2026/10/22/turning-ipv6-tunnels-into-programmable-delay-lines-for-pulsing-dos/)
 * [2026-10-21, 23:53:40](https://lobste.rs/s/wno4h3/understanding_nix_flakes) - [Understanding Nix flakes](https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/)
@@ -24,7 +25,6 @@
 * [2026-10-20, 22:23:54](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1)
 * [2026-10-20, 17:33:54](https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look) - [Mastodon 5.0: A closer look](https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/)
 * [2026-10-20, 13:00:50](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following) - [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
-* [2026-10-20, 10:23:58](https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id) - [Setting up SSH keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 
 ## [Archives](archives/index.md)
 
