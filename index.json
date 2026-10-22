@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-21, 23:53:40",
+      "https://lobste.rs/s/wno4h3/understanding_nix_flakes"
+    ],
+    [
+      "Understanding Nix flakes",
+      "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 22:31:11",
       "https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-10-21, 21:06:35",
-      "https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s"
+      "2026-10-21, 21:32:29",
+      "https://lobste.rs/s/2czsv4/compromised_litellm_1_107_0_on_pypi"
     ],
     [
-      "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
-      "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/"
+      "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 10:14:43",
-      "https://lobste.rs/s/0glhl6/improving_accessibility_with_css_media"
-    ],
-    [
-      "Improving accessibility with CSS media queries (2025)",
-      "https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/"
     ]
   ],
   [
