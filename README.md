@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 14:24:51](https://lobste.rs/s/egkbzh/emudhra_exit_global_ssl_tls_certificate) - [eMudhra to Exit global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
+* [2026-10-22, 14:14:04](https://lobste.rs/s/oeehgs/script_dependencies_with_nix) - [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
 * [2026-10-22, 12:53:26](https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then) - [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
 * [2026-10-22, 12:24:15](https://lobste.rs/s/nxvfjx/bridge_agent_scale_git_infrastructure) - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
 * [2026-10-22, 12:10:48](https://lobste.rs/s/me75ey/jailbreaking_switch_2) - [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
-* [2026-10-22, 10:28:49](https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023) - [Three configurable prettyprinters (2023)](https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html)
 * [2026-10-22, 08:09:55](https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect) - [Garmin Revamps and Opens Up Connect Developer API Program](https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html)
 * [2026-10-22, 06:45:58](https://lobste.rs/s/hplfis/examining_macos_gcc_binary) - [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
 * [2026-10-22, 06:15:07](https://lobste.rs/s/dcvs3u/announcing_duckdb_2_0_0_lts_cinnamon_teal) - [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)
@@ -24,7 +25,6 @@
 * [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
 * [2026-10-21, 06:16:50](https://lobste.rs/s/vidyh0/future_css) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 * [2026-10-20, 22:23:54](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1)
-* [2026-10-20, 13:00:50](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following) - [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 
 ## [Archives](archives/index.md)
 
