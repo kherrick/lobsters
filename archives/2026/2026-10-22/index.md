@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 16:30:14](https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service) - [Expose only share links of a private service with caddy](https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html)
 * [2026-10-22, 15:15:44](https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification) - [Header Accordions: QPACK amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
 * [2026-10-22, 14:49:22](https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023) - [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
 * [2026-10-22, 14:24:51](https://lobste.rs/s/egkbzh/emudhra_exit_global_ssl_tls_certificate) - [eMudhra to Exit global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)

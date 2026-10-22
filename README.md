@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 16:30:14](https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service) - [Expose only share links of a private service with caddy](https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html)
 * [2026-10-22, 15:15:44](https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification) - [Header Accordions: QPACK amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
 * [2026-10-22, 14:49:22](https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023) - [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
 * [2026-10-22, 14:14:04](https://lobste.rs/s/oeehgs/script_dependencies_with_nix) - [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
@@ -11,7 +12,6 @@
 * [2026-10-22, 04:18:37](https://lobste.rs/s/os7brs/using_lookup_table_correct) - [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
 * [2026-10-21, 23:53:40](https://lobste.rs/s/wno4h3/understanding_nix_flakes) - [Understanding Nix flakes](https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/)
 * [2026-10-21, 22:31:11](https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday) - [Railway Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-* [2026-10-21, 21:32:29](https://lobste.rs/s/2czsv4/compromised_litellm_1_107_0_on_pypi) - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor)
 * [2026-10-21, 21:27:36](https://lobste.rs/s/deqmg0/embedding_eyg_erlang_programs) - [Embedding EYG in Erlang programs](https://eyg.run/guides/embedding-eyg-in-erlang-programs)
 * [2026-10-21, 20:48:24](https://lobste.rs/s/pnpcso/gitlab_critical_patch_release) - [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
 * [2026-10-21, 19:12:02](https://lobste.rs/s/9jgl3x/google_s_rust_style_guide) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
