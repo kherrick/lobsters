@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 21:42:04](https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno) - [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
 * [2026-10-22, 20:09:22](https://lobste.rs/s/xsz9sc/docker_is_weird) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 19:47:39](https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france) - [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 19:28:41](https://lobste.rs/s/famrid/mojo_v1_2_0) - [Mojo v1.2.0](https://mojolang.org/releases/v1.2.0/)

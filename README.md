@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 21:42:04](https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno) - [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
 * [2026-10-22, 20:09:22](https://lobste.rs/s/xsz9sc/docker_is_weird) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 19:47:39](https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france) - [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 17:56:51](https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission) - [What is your opinion on submission quality since the `vibecoding` tag was removed?](https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission)
@@ -20,7 +21,6 @@
 * [2026-10-21, 18:54:02](https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity) - [Flow Typing, A New Lens on Linearity](https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/)
 * [2026-10-21, 18:16:22](https://lobste.rs/s/cdnepk/passkeys_attestation_trap) - [Passkeys Attestation Trap](https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/)
 * [2026-10-21, 17:40:17](https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple) - [CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes](https://www.openwall.com/lists/oss-security/2026/10/21/18)
-* [2026-10-21, 17:16:47](https://lobste.rs/s/cq7wn7/don_t_throw_it_all_away_caching_immediate) - [Don't throw it all away: Caching an immediate-mode UI](https://blickeditor.com/blog/caching-an-immediate-mode-ui)
 * [2026-10-21, 15:47:59](https://lobste.rs/s/w9sxxq/firefox_local_mode) - [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 * [2026-10-21, 15:24:05](https://lobste.rs/s/hty1qk/zls_0_17_0) - [zls 0.17.0](https://zigtools.org/zls/releases/0.17.0/)
 * [2026-10-21, 13:50:10](https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
