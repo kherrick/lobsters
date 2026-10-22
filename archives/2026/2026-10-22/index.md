@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 11:17:02](https://lobste.rs/s/twe9my/create_canarytoken_deploy_it_somewhere) - [Create a Canarytoken. Deploy it somewhere](https://canarytokens.org/nest/)
 * [2026-10-22, 10:28:49](https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023) - [Three configurable prettyprinters (2023)](https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html)
 * [2026-10-22, 10:13:24](https://lobste.rs/s/azc9ip/two_welsh_organisations_reprimanded) - [Two Welsh organisations reprimanded after cyber-attack exposed children’s information](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/password1-is-not-an-appropriate-password/)
 * [2026-10-22, 08:09:55](https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect) - [Garmin Revamps and Opens Up Connect Developer API Program](https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html)
