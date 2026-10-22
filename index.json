@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2026-10-21, 21:32:29",
-      "https://lobste.rs/s/2czsv4/compromised_litellm_1_107_0_on_pypi"
+      "2026-10-21, 21:27:36",
+      "https://lobste.rs/s/deqmg0/embedding_eyg_erlang_programs"
     ],
     [
-      "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor"
+      "Embedding EYG in Erlang programs",
+      "https://eyg.run/guides/embedding-eyg-in-erlang-programs"
     ]
   ],
   [
