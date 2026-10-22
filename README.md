@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-22, 12:10:48](https://lobste.rs/s/me75ey/jailbreaking_switch_2) - [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
 * [2026-10-22, 11:32:42](https://lobste.rs/s/zpcnmo/there_isn_t_easy_exploit_for_this_php) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 * [2026-10-22, 11:17:02](https://lobste.rs/s/twe9my/create_canarytoken_deploy_it_somewhere) - [Create a Canarytoken. Deploy it somewhere](https://canarytokens.org/nest/)
 * [2026-10-22, 10:28:49](https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023) - [Three configurable prettyprinters (2023)](https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html)
@@ -21,7 +22,6 @@
 * [2026-10-21, 15:24:05](https://lobste.rs/s/hty1qk/zls_0_17_0) - [zls 0.17.0](https://zigtools.org/zls/releases/0.17.0/)
 * [2026-10-21, 13:50:10](https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 * [2026-10-21, 07:51:20](https://lobste.rs/s/mfserj/unikernels_ocaml) - [Unikernels in OCaml](https://uniker.nl/)
-* [2026-10-21, 07:33:04](https://lobste.rs/s/tsfina/vector_graphics_lil) - [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html)
 * [2026-10-21, 06:16:50](https://lobste.rs/s/vidyh0/future_css) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 * [2026-10-20, 22:23:54](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1)
 * [2026-10-20, 13:00:50](https://lobste.rs/s/gqyvn5/protecting_firefox_users_following) - [Protecting Firefox users following the compromise of eMudhra intermediate certificates](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)

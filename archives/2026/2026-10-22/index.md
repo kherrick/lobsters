@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 12:10:48](https://lobste.rs/s/me75ey/jailbreaking_switch_2) - [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
 * [2026-10-22, 11:32:42](https://lobste.rs/s/zpcnmo/there_isn_t_easy_exploit_for_this_php) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 * [2026-10-22, 11:17:02](https://lobste.rs/s/twe9my/create_canarytoken_deploy_it_somewhere) - [Create a Canarytoken. Deploy it somewhere](https://canarytokens.org/nest/)
 * [2026-10-22, 10:28:49](https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023) - [Three configurable prettyprinters (2023)](https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html)
