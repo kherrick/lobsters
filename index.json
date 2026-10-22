@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-22, 11:32:42",
+      "https://lobste.rs/s/zpcnmo/there_isn_t_easy_exploit_for_this_php"
+    ],
+    [
+      "There isn't an easy exploit for this PHP vulnerability",
+      "https://eliastaylor.com/noexploit/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 11:17:02",
       "https://lobste.rs/s/twe9my/create_canarytoken_deploy_it_somewhere"
     ],
@@ -157,16 +167,6 @@
     [
       "Don't throw it all away: Caching an immediate-mode UI",
       "https://blickeditor.com/blog/caching-an-immediate-mode-ui"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 15:53:37",
-      "https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026"
-    ],
-    [
-      "Node.js — Wednesday, October 21, 2026 Security Releases",
-      "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
     ]
   ],
   [
