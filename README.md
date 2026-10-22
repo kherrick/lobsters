@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-22, 12:53:26](https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then) - [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
+* [2026-10-22, 12:24:15](https://lobste.rs/s/nxvfjx/bridge_agent_scale_git_infrastructure) - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
 * [2026-10-22, 12:10:48](https://lobste.rs/s/me75ey/jailbreaking_switch_2) - [jailbreaking the switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
 * [2026-10-22, 10:28:49](https://lobste.rs/s/was9lk/three_configurable_prettyprinters_2023) - [Three configurable prettyprinters (2023)](https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html)
 * [2026-10-22, 08:09:55](https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect) - [Garmin Revamps and Opens Up Connect Developer API Program](https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html)
 * [2026-10-22, 06:45:58](https://lobste.rs/s/hplfis/examining_macos_gcc_binary) - [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
 * [2026-10-22, 06:15:07](https://lobste.rs/s/dcvs3u/announcing_duckdb_2_0_0_lts_cinnamon_teal) - [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)
-* [2026-10-22, 04:47:01](https://lobste.rs/s/puijfw/extending_concurrent_separation_logic) - [Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents](https://arxiv.org/abs/2609.04043)
 * [2026-10-22, 04:18:37](https://lobste.rs/s/os7brs/using_lookup_table_correct) - [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
 * [2026-10-21, 23:53:40](https://lobste.rs/s/wno4h3/understanding_nix_flakes) - [Understanding Nix flakes](https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/)
 * [2026-10-21, 22:31:11](https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday) - [Railway Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
