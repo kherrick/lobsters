@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 20:09:22](https://lobste.rs/s/xsz9sc/docker_is_weird) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 19:47:39](https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france) - [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 19:28:41](https://lobste.rs/s/famrid/mojo_v1_2_0) - [Mojo v1.2.0](https://mojolang.org/releases/v1.2.0/)
 * [2026-10-22, 17:56:51](https://lobste.rs/s/nmurnh/what_is_you_opinion_on_submission_quality) - [What is you opinion on submission quality since the `vibecoding` tag was removed?](https://lobste.rs/s/nmurnh/what_is_you_opinion_on_submission_quality)
