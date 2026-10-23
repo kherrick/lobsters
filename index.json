@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 13:40:30",
+      "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical"
+    ],
+    [
+      "a neat trick i found for reusing physical memory",
+      "https://sebsite.pw/w/20260728-cow.html"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 12:58:10",
       "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not"
     ],
@@ -147,16 +157,6 @@
     [
       "Expose only share links of a private service with caddy",
       "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 15:15:44",
-      "https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"
-    ],
-    [
-      "Header Accordions: QPACK amplification attacks against HTTP/3 servers",
-      "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers"
     ]
   ],
   [
