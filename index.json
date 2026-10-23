@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-10-23, 17:00:36",
+      "https://lobste.rs/s/ctow98/no_source_code_no_problem_what_if_you_have"
+    ],
+    [
+      "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
+      "https://queue.acm.org/doi/10.1145/945131.945155"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 15:36:59",
       "https://lobste.rs/s/tq5cxv/how_make_things_why"
     ],
@@ -217,16 +227,6 @@
     [
       "Expose only share links of a private service with caddy",
       "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 14:49:22",
-      "https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023"
-    ],
-    [
-      "I built a garbage collector for Rust (2023)",
-      "https://claytonwramsey.com/blog/dumpster/"
     ]
   ],
   [
