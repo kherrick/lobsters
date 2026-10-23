@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 19:50:52",
+      "https://lobste.rs/s/qc1ahp/distributed_data_centralized_fixes"
+    ],
+    [
+      "Distributed data, centralized fixes",
+      "https://miren.dev/blog/distributed-data-centralized-fixes"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 18:35:24",
       "https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st"
     ],
@@ -227,16 +237,6 @@
     [
       "Expose only share links of a private service with caddy",
       "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 12:53:26",
-      "https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then"
-    ],
-    [
-      "Tell your network to explain itself and then some",
-      "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html"
     ]
   ],
   [
