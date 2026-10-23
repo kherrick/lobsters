@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-23, 14:38:13",
+      "https://lobste.rs/s/yccmjm/emacs_finally_folds_my_liking_kirigami"
+    ],
+    [
+      "Emacs finally folds to my liking: kirigami, tree-sitter, hide-show, Org, XML",
+      "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 14:30:57",
+      "https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin"
+    ],
+    [
+      "The glorious @xkcdRandom Zig builtin",
+      "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 14:04:10",
       "https://lobste.rs/s/9gak0g/profiling_org_html_formal_grammar"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-10-22, 17:56:51",
-      "https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission"
-    ],
-    [
-      "What is your opinion on submission quality since the `vibecoding` tag was removed?",
-      "https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 17:35:52",
       "https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my"
     ],
@@ -227,16 +237,6 @@
     [
       "Using a lookup-table to correct an approximation",
       "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 19:12:02",
-      "https://lobste.rs/s/9jgl3x/google_s_rust_style_guide"
-    ],
-    [
-      "Google's Rust Style Guide",
-      "https://google.github.io/styleguide/rustguide.html"
     ]
   ],
   [
