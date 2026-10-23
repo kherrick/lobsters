@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 11:07:07",
+      "https://lobste.rs/s/oe51th/is_this_new_cyber_normal"
+    ],
+    [
+      "Is this the new cyber normal?",
+      "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 10:19:44",
       "https://lobste.rs/s/y3xp76/color_names"
     ],
@@ -137,16 +147,6 @@
     [
       "Expose only share links of a private service with caddy",
       "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 15:15:44",
-      "https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"
-    ],
-    [
-      "Header Accordions: QPACK amplification attacks against HTTP/3 servers",
-      "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers"
     ]
   ],
   [
