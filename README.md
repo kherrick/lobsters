@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-23, 18:35:24](https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st) - [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
 * [2026-10-23, 17:25:34](https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 * [2026-10-23, 17:12:35](https://lobste.rs/s/yusomz/whirlwind_tour_systemd_nspawn) - [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 * [2026-10-23, 15:36:59](https://lobste.rs/s/tq5cxv/how_make_things_why) - [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
 * [2026-10-23, 15:18:42](https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl) - [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 * [2026-10-23, 14:38:13](https://lobste.rs/s/yccmjm/emacs_finally_folds_my_liking_kirigami) - [Emacs finally folds to my liking: kirigami, tree-sitter, hide-show, Org, XML](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
 * [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
-* [2026-10-23, 14:04:10](https://lobste.rs/s/9gak0g/profiling_org_html_formal_grammar) - [Profiling Org->HTML formal grammar and optimizing it: orgwebalchemy](https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/)
 * [2026-10-23, 13:40:30](https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical) - [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
 * [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
