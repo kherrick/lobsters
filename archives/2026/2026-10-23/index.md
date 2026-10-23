@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 21:35:45](https://lobste.rs/s/6utrvz/incremental_computation_graphs) - [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-23, 20:44:07](https://lobste.rs/s/pvfzhq/memory_is_slow_disk_is_fast) - [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
 * [2026-10-23, 19:50:52](https://lobste.rs/s/qc1ahp/distributed_data_centralized_fixes) - [Distributed data, centralized fixes](https://miren.dev/blog/distributed-data-centralized-fixes)
