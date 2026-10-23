@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-23, 14:04:10](https://lobste.rs/s/9gak0g/profiling_org_html_formal_grammar) - [Profiling Org->HTML formal grammar and optimizing it: orgwebalchemy](https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/)
 * [2026-10-23, 13:40:30](https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical) - [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
 * [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
@@ -24,7 +25,6 @@
 * [2026-10-22, 04:18:37](https://lobste.rs/s/os7brs/using_lookup_table_correct) - [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
 * [2026-10-21, 19:12:02](https://lobste.rs/s/9jgl3x/google_s_rust_style_guide) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 * [2026-10-21, 15:47:59](https://lobste.rs/s/w9sxxq/firefox_local_mode) - [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
-* [2026-10-21, 13:50:10](https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 
 ## [Archives](archives/index.md)
 
