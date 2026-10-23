@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 17:12:35](https://lobste.rs/s/yusomz/whirlwind_tour_systemd_nspawn) - [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 * [2026-10-23, 17:00:36](https://lobste.rs/s/ctow98/no_source_code_no_problem_what_if_you_have) - [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 15:36:59](https://lobste.rs/s/tq5cxv/how_make_things_why) - [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
 * [2026-10-23, 15:18:42](https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl) - [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
