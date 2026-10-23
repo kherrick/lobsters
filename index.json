@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 15:18:42",
+      "https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl"
+    ],
+    [
+      "Release OpenSSL 4.1.0 · openssl/openssl",
+      "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 15:17:36",
       "https://lobste.rs/s/hygrxb/ai_discovered_bugs_may_soon_trigger_fresh"
     ],
@@ -227,16 +237,6 @@
     [
       "examining the macOS gcc binary",
       "https://zoey-on-github.github.io/blog/macgcc.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 04:18:37",
-      "https://lobste.rs/s/os7brs/using_lookup_table_correct"
-    ],
-    [
-      "Using a lookup-table to correct an approximation",
-      "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation"
     ]
   ],
   [
