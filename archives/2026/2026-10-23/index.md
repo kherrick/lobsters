@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 13:04:23](https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital) - [AI: EU Member States approve “digital expropriation” of Europeans for AI companies](https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies)
+* [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-23, 11:07:07](https://lobste.rs/s/oe51th/is_this_new_cyber_normal) - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
 * [2026-10-23, 10:19:44](https://lobste.rs/s/y3xp76/color_names) - [Color Names](https://names.color.pizza/)

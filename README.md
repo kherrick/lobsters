@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-23, 13:04:23](https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital) - [AI: EU Member States approve “digital expropriation” of Europeans for AI companies](https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies)
+* [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-23, 08:43:10](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend)
 * [2026-10-23, 07:44:09](https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious) - [Debunking \"Faster than Rust\": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
@@ -14,7 +16,6 @@
 * [2026-10-22, 17:56:51](https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission) - [What is your opinion on submission quality since the `vibecoding` tag was removed?](https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission)
 * [2026-10-22, 17:35:52](https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my) - [Objects, attributes, maps, oh my](https://bernsteinbear.com/blog/object-shapes/)
 * [2026-10-22, 16:30:14](https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service) - [Expose only share links of a private service with caddy](https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html)
-* [2026-10-22, 15:15:44](https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification) - [Header Accordions: QPACK amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
 * [2026-10-22, 14:49:22](https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023) - [I built a garbage collector for Rust (2023)](https://claytonwramsey.com/blog/dumpster/)
 * [2026-10-22, 14:14:04](https://lobste.rs/s/oeehgs/script_dependencies_with_nix) - [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
 * [2026-10-22, 12:53:26](https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then) - [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
@@ -22,7 +23,6 @@
 * [2026-10-22, 06:15:07](https://lobste.rs/s/dcvs3u/announcing_duckdb_2_0_0_lts_cinnamon_teal) - [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)
 * [2026-10-22, 04:18:37](https://lobste.rs/s/os7brs/using_lookup_table_correct) - [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
 * [2026-10-21, 19:12:02](https://lobste.rs/s/9jgl3x/google_s_rust_style_guide) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
-* [2026-10-21, 17:40:17](https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple) - [CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes](https://www.openwall.com/lists/oss-security/2026/10/21/18)
 * [2026-10-21, 15:47:59](https://lobste.rs/s/w9sxxq/firefox_local_mode) - [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 * [2026-10-21, 13:50:10](https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 
