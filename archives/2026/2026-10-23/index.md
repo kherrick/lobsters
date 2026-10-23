@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-23, 19:50:52](https://lobste.rs/s/qc1ahp/distributed_data_centralized_fixes) - [Distributed data, centralized fixes](https://miren.dev/blog/distributed-data-centralized-fixes)
 * [2026-10-23, 18:35:24](https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st) - [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
 * [2026-10-23, 17:25:34](https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
