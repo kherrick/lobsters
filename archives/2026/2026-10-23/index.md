@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 15:36:59](https://lobste.rs/s/tq5cxv/how_make_things_why) - [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
 * [2026-10-23, 15:18:42](https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl) - [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 * [2026-10-23, 15:17:36](https://lobste.rs/s/hygrxb/ai_discovered_bugs_may_soon_trigger_fresh) - [AI-discovered bugs may soon trigger fresh disruptions, cyber experts say](https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/)
 * [2026-10-23, 14:38:13](https://lobste.rs/s/yccmjm/emacs_finally_folds_my_liking_kirigami) - [Emacs finally folds to my liking: kirigami, tree-sitter, hide-show, Org, XML](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)

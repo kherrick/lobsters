@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-23, 15:36:59](https://lobste.rs/s/tq5cxv/how_make_things_why) - [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
 * [2026-10-23, 15:18:42](https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl) - [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 * [2026-10-23, 15:17:36](https://lobste.rs/s/hygrxb/ai_discovered_bugs_may_soon_trigger_fresh) - [AI-discovered bugs may soon trigger fresh disruptions, cyber experts say](https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/)
 * [2026-10-23, 14:38:13](https://lobste.rs/s/yccmjm/emacs_finally_folds_my_liking_kirigami) - [Emacs finally folds to my liking: kirigami, tree-sitter, hide-show, Org, XML](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
 * [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
-* [2026-10-23, 14:04:10](https://lobste.rs/s/9gak0g/profiling_org_html_formal_grammar) - [Profiling Org->HTML formal grammar and optimizing it: orgwebalchemy](https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/)
 * [2026-10-23, 13:40:30](https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical) - [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
 * [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
