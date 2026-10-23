@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 10:19:44](https://lobste.rs/s/y3xp76/color_names) - [Color Names](https://names.color.pizza/)
 * [2026-10-23, 08:43:10](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend)
 * [2026-10-23, 07:44:09](https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious) - [Debunking \"Faster than Rust\": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
 * [2026-10-23, 04:30:10](https://lobste.rs/s/nb7wkp/many_many_missed_opportunities_sonic_06) - [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
