@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-23, 15:17:36](https://lobste.rs/s/hygrxb/ai_discovered_bugs_may_soon_trigger_fresh) - [AI-discovered bugs may soon trigger fresh disruptions, cyber experts say](https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/)
 * [2026-10-23, 14:38:13](https://lobste.rs/s/yccmjm/emacs_finally_folds_my_liking_kirigami) - [Emacs finally folds to my liking: kirigami, tree-sitter, hide-show, Org, XML](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
 * [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
 * [2026-10-23, 14:04:10](https://lobste.rs/s/9gak0g/profiling_org_html_formal_grammar) - [Profiling Org->HTML formal grammar and optimizing it: orgwebalchemy](https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/)
@@ -22,7 +23,6 @@
 * [2026-10-22, 14:14:04](https://lobste.rs/s/oeehgs/script_dependencies_with_nix) - [Script dependencies with Nix](https://entropicthoughts.com/python-dependencies-with-nix)
 * [2026-10-22, 12:53:26](https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then) - [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
 * [2026-10-22, 06:45:58](https://lobste.rs/s/hplfis/examining_macos_gcc_binary) - [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
-* [2026-10-22, 06:15:07](https://lobste.rs/s/dcvs3u/announcing_duckdb_2_0_0_lts_cinnamon_teal) - [Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200.html)
 * [2026-10-22, 04:18:37](https://lobste.rs/s/os7brs/using_lookup_table_correct) - [Using a lookup-table to correct an approximation](https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation)
 * [2026-10-21, 15:47:59](https://lobste.rs/s/w9sxxq/firefox_local_mode) - [Firefox Local Mode](https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html)
 
