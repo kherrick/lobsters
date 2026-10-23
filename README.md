@@ -7,7 +7,6 @@
 * [2026-10-23, 17:00:36](https://lobste.rs/s/ctow98/no_source_code_no_problem_what_if_you_have) - [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 15:36:59](https://lobste.rs/s/tq5cxv/how_make_things_why) - [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
 * [2026-10-23, 15:18:42](https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl) - [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-* [2026-10-23, 14:38:13](https://lobste.rs/s/yccmjm/emacs_finally_folds_my_liking_kirigami) - [Emacs finally folds to my liking: kirigami, tree-sitter, hide-show, Org, XML](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
 * [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
 * [2026-10-23, 13:40:30](https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical) - [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
 * [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
@@ -24,6 +23,7 @@
 * [2026-10-22, 19:47:39](https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france) - [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 17:35:52](https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my) - [Objects, attributes, maps, oh my](https://bernsteinbear.com/blog/object-shapes/)
 * [2026-10-22, 16:30:14](https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service) - [Expose only share links of a private service with caddy](https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html)
+* [2026-10-22, 12:53:26](https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then) - [Tell your network to explain itself and then some](https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html)
 * [2026-10-22, 06:45:58](https://lobste.rs/s/hplfis/examining_macos_gcc_binary) - [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html)
 
 ## [Archives](archives/index.md)
