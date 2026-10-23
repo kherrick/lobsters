@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 14:04:10",
+      "https://lobste.rs/s/9gak0g/profiling_org_html_formal_grammar"
+    ],
+    [
+      "Profiling Org->HTML formal grammar and optimizing it: orgwebalchemy",
+      "https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 13:40:30",
       "https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical"
     ],
@@ -237,16 +247,6 @@
     [
       "Firefox Local Mode",
       "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 13:50:10",
-      "https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"
-    ],
-    [
-      "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
     ]
   ]
 ]
