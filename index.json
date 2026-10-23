@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 17:25:34",
+      "https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel"
+    ],
+    [
+      "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "https://arxiv.org/abs/2610.14162"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 17:12:35",
       "https://lobste.rs/s/yusomz/whirlwind_tour_systemd_nspawn"
     ],
@@ -217,16 +227,6 @@
     [
       "I built a garbage collector for Rust (2023)",
       "https://claytonwramsey.com/blog/dumpster/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 14:14:04",
-      "https://lobste.rs/s/oeehgs/script_dependencies_with_nix"
-    ],
-    [
-      "Script dependencies with Nix",
-      "https://entropicthoughts.com/python-dependencies-with-nix"
     ]
   ],
   [
