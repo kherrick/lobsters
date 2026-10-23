@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-23, 11:07:07](https://lobste.rs/s/oe51th/is_this_new_cyber_normal) - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
+* [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-23, 10:19:44](https://lobste.rs/s/y3xp76/color_names) - [Color Names](https://names.color.pizza/)
 * [2026-10-23, 08:43:10](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend)
 * [2026-10-23, 07:44:09](https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious) - [Debunking \"Faster than Rust\": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
