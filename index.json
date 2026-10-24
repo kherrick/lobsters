@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-24, 14:18:48",
+      "https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz"
+    ],
+    [
+      "How to run a city builder on 16 MHz",
+      "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 13:51:14",
       "https://lobste.rs/s/hs0vef/enabling_researchers_is_moral"
     ],
@@ -137,16 +147,6 @@
     [
       "A whirlwind tour of systemd-nspawn containers (2025)",
       "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 17:00:36",
-      "https://lobste.rs/s/ctow98/no_source_code_no_problem_what_if_you_have"
-    ],
-    [
-      "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
-      "https://queue.acm.org/doi/10.1145/945131.945155"
     ]
   ],
   [
