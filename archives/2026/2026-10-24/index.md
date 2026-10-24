@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 23:11:40](https://lobste.rs/s/whgofc/simd_go) - [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
 * [2026-10-24, 23:06:08](https://lobste.rs/s/8h9sey/we_should_be_more_ambitious_with_software) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 22:48:29](https://lobste.rs/s/9b14at/animated_explainer_php2shell) - [An animated explainer of the PHP2Shell vulnerability](https://www.youtube.com/watch?v=6Kz4bWKoXhU)
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved/](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
