@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-24, 22:48:29](https://lobste.rs/s/9b14at/animated_explainer_php2shell) - [An animated explainer of the PHP2Shell vulnerability](https://www.youtube.com/watch?v=6Kz4bWKoXhU)
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 * [2026-10-24, 16:59:53](https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing) - [The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages](https://emptysqua.re/blog/polyglots-dilemma/)
 * [2026-10-24, 16:50:50](https://lobste.rs/s/ysah7i/2026_ruby_on_rails_community_survey) - [2026 Ruby on Rails Community Survey Results](https://railsdeveloper.com/survey/2026)
@@ -13,7 +14,6 @@
 * [2026-10-24, 08:45:01](https://lobste.rs/s/yczems/emacs_finally_folds_my_liking) - [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
 * [2026-10-24, 06:41:52](https://lobste.rs/s/rqefcw/twelve_years_distributed_sqlite) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
-* [2026-10-24, 02:10:41](https://lobste.rs/s/hmtqfl/incremental_approach_jit_construction) - [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
 * [2026-10-23, 21:35:45](https://lobste.rs/s/6utrvz/incremental_computation_graphs) - [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-23, 20:44:07](https://lobste.rs/s/pvfzhq/memory_is_slow_disk_is_fast) - [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
