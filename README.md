@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-24, 11:01:27](https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli) - [This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 * [2026-10-24, 10:42:05](https://lobste.rs/s/rl0dz5/be_aware_what_s_your_logs) - [Be Aware of What's in Your Logs](https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/)
 * [2026-10-24, 10:11:35](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released) - [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
 * [2026-10-24, 10:09:28](https://lobste.rs/s/xgih2x/i_want_my_wednesday_back) - [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
@@ -21,7 +22,6 @@
 * [2026-10-23, 07:44:09](https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious) - [Debunking \"Faster than Rust\": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
 * [2026-10-23, 01:22:17](https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 00:37:10](https://lobste.rs/s/mucay8/please_don_t_mess_with_links) - [Please don't mess with links](https://maurycyz.com/misc/real_links/)
-* [2026-10-22, 21:52:10](https://lobste.rs/s/05xrj8/we_have_traits_at_home) - [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
 * [2026-10-22, 21:42:04](https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno) - [a hacky fucked up way to portably access errno from outside of c](https://sebsite.pw/w/20260925-errno.html)
 * [2026-10-22, 20:09:22](https://lobste.rs/s/xsz9sc/docker_is_weird) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 19:47:39](https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france) - [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
