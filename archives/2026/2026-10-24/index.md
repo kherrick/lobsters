@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 13:51:14](https://lobste.rs/s/hs0vef/enabling_researchers_is_moral) - [Enabling Researchers is a Moral Imperative](https://yorba.co/internet-less/enabling-researchers-is-a-moral-imperative)
 * [2026-10-24, 11:01:27](https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli) - [This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 * [2026-10-24, 10:42:05](https://lobste.rs/s/rl0dz5/be_aware_what_s_your_logs) - [Be Aware of What's in Your Logs](https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/)
 * [2026-10-24, 10:11:35](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released) - [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
