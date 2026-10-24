@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-24, 23:06:08](https://lobste.rs/s/8h9sey/we_should_be_more_ambitious_with_software) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 22:48:29](https://lobste.rs/s/9b14at/animated_explainer_php2shell) - [An animated explainer of the PHP2Shell vulnerability](https://www.youtube.com/watch?v=6Kz4bWKoXhU)
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 * [2026-10-24, 16:59:53](https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing) - [The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages](https://emptysqua.re/blog/polyglots-dilemma/)
@@ -18,7 +19,6 @@
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-23, 20:44:07](https://lobste.rs/s/pvfzhq/memory_is_slow_disk_is_fast) - [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
 * [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
-* [2026-10-23, 13:40:30](https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical) - [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html)
 * [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-23, 07:44:09](https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious) - [Debunking \"Faster than Rust\": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
