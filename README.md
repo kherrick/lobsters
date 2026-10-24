@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved/](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 * [2026-10-24, 16:59:53](https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing) - [The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages](https://emptysqua.re/blog/polyglots-dilemma/)
 * [2026-10-24, 16:50:50](https://lobste.rs/s/ysah7i/2026_ruby_on_rails_community_survey) - [2026 Ruby on Rails Community Survey Results](https://railsdeveloper.com/survey/2026)
 * [2026-10-24, 15:27:34](https://lobste.rs/s/dfieqa/bringing_uv_ty_together) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
@@ -24,7 +25,6 @@
 * [2026-10-23, 01:22:17](https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 00:37:10](https://lobste.rs/s/mucay8/please_don_t_mess_with_links) - [Please don't mess with links](https://maurycyz.com/misc/real_links/)
 * [2026-10-22, 20:09:22](https://lobste.rs/s/xsz9sc/docker_is_weird) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-* [2026-10-22, 19:47:39](https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france) - [Quad9 DNS Resolver to exit France](https://quad9.net/news/blog/au-revoir-france/)
 
 ## [Archives](archives/index.md)
 
