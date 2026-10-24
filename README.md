@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-24, 02:10:41](https://lobste.rs/s/hmtqfl/incremental_approach_jit_construction) - [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
 * [2026-10-23, 21:35:45](https://lobste.rs/s/6utrvz/incremental_computation_graphs) - [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-23, 20:44:07](https://lobste.rs/s/pvfzhq/memory_is_slow_disk_is_fast) - [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/)
 * [2026-10-23, 19:50:52](https://lobste.rs/s/qc1ahp/distributed_data_centralized_fixes) - [Distributed data, centralized fixes](https://miren.dev/blog/distributed-data-centralized-fixes)
 * [2026-10-23, 18:35:24](https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st) - [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident)
-* [2026-10-23, 17:25:34](https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 * [2026-10-23, 17:12:35](https://lobste.rs/s/yusomz/whirlwind_tour_systemd_nspawn) - [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 * [2026-10-23, 17:00:36](https://lobste.rs/s/ctow98/no_source_code_no_problem_what_if_you_have) - [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 15:36:59](https://lobste.rs/s/tq5cxv/how_make_things_why) - [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984)
