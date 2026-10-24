@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-24, 08:45:01](https://lobste.rs/s/yczems/emacs_finally_folds_my_liking) - [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
 * [2026-10-24, 07:51:04](https://lobste.rs/s/g5k2pc/big_runtimes_make_efficient_programs) - [Big Runtimes Make Efficient Programs](https://www.youtube.com/watch?v=vhDwy1eCXbs)
 * [2026-10-24, 06:41:52](https://lobste.rs/s/rqefcw/twelve_years_distributed_sqlite) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
@@ -18,7 +19,6 @@
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-23, 08:43:10](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend)
 * [2026-10-23, 07:44:09](https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious) - [Debunking \"Faster than Rust\": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
-* [2026-10-23, 04:30:10](https://lobste.rs/s/nb7wkp/many_many_missed_opportunities_sonic_06) - [The Many Many Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
 * [2026-10-23, 01:22:17](https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 00:37:10](https://lobste.rs/s/mucay8/please_don_t_mess_with_links) - [Please don't mess with links](https://maurycyz.com/misc/real_links/)
 * [2026-10-22, 21:52:10](https://lobste.rs/s/05xrj8/we_have_traits_at_home) - [We have Traits at Home](https://www.axelmagn.com/blog/202610-zig-traits/)
