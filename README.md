@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-24, 23:38:21](https://lobste.rs/s/jqjioq/scrawl_show_agent_problem) - [Scrawl: show an agent the problem](https://scrawl.kitlangton.com/)
 * [2026-10-24, 23:11:40](https://lobste.rs/s/whgofc/simd_go) - [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
 * [2026-10-24, 23:06:08](https://lobste.rs/s/8h9sey/we_should_be_more_ambitious_with_software) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
@@ -22,7 +23,6 @@
 * [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-23, 07:44:09](https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious) - [Debunking \"Faster than Rust\": Malicious Benchmarks in Tov](https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/)
-* [2026-10-23, 01:22:17](https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 00:37:10](https://lobste.rs/s/mucay8/please_don_t_mess_with_links) - [Please don't mess with links](https://maurycyz.com/misc/real_links/)
 * [2026-10-22, 20:09:22](https://lobste.rs/s/xsz9sc/docker_is_weird) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 
