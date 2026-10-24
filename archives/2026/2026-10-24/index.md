@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 14:18:48](https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
 * [2026-10-24, 13:51:14](https://lobste.rs/s/hs0vef/enabling_researchers_is_moral) - [Enabling Researchers is a Moral Imperative](https://yorba.co/internet-less/enabling-researchers-is-a-moral-imperative)
 * [2026-10-24, 12:09:40](https://lobste.rs/s/vh8l3t/what_s_wrong_with_ai) - [What's wrong with AI?](https://homepage.farm/ai.html)
 * [2026-10-24, 11:01:27](https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli) - [This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
