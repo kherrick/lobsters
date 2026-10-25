@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 21:33:19](https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling) - [Building Java ME Apps with Modern Tooling](https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/)
 * [2026-10-25, 20:10:47](https://lobste.rs/s/dkoryq/goose_programming_language) - [The Goose Programming Language](https://aardappel.github.io/goose/)
 * [2026-10-25, 17:13:59](https://lobste.rs/s/mug4of/every_clojure_talk_ever_2018) - [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [2026-10-25, 17:13:59](https://lobste.rs/s/mug4of/every_clojure_talk_ever) - [Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc)
