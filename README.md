@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-25, 05:04:57](https://lobste.rs/s/k3dymf/michal_wallace_on_pedagogy_why_learn_j) - [Michal Wallace on Pedagogy, Why Learn J when LLMs Code?](https://alexalejandre.com/interviews/michal-wallace/)
+* [2026-10-25, 05:04:57](https://lobste.rs/s/k3dymf/michal_wallace_on_narrative_programming) - [Michal Wallace on Narrative Programming: Why Learn J when LLMs Code?](https://alexalejandre.com/interviews/michal-wallace/)
 * [2026-10-25, 05:00:38](https://lobste.rs/s/y26mhi/nim_vs_rust_language_is_matter_coherence) - [Nim vs Rust: Language is a Matter of 'Coherence', Not 'Performance'](https://wintrover.github.io/#/post/nim-vs-rust-language-is-a-matter-of-coherence-not-performance)
 * [2026-10-25, 01:22:45](https://lobste.rs/s/7byfjv/macos_extensions_pack_for_apple_network) - [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 * [2026-10-24, 23:11:40](https://lobste.rs/s/whgofc/simd_go) - [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
