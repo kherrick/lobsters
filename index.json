@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-10-24, 02:10:41",
+      "https://lobste.rs/s/hmtqfl/incremental_approach_jit_construction"
+    ],
+    [
+      "An Incremental Approach to JIT Construction",
+      "https://dl.acm.org/doi/pdf/10.1145/3830440.3832304"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 21:35:45",
       "https://lobste.rs/s/6utrvz/incremental_computation_graphs"
     ],
@@ -177,16 +187,6 @@
     [
       "Attention people who think UB is fine",
       "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 20:44:07",
-      "https://lobste.rs/s/pvfzhq/memory_is_slow_disk_is_fast"
-    ],
-    [
-      "Memory is slow, Disk is fast",
-      "https://www.bitflux.ai/blog/memory-is-slow-part3/"
     ]
   ],
   [
