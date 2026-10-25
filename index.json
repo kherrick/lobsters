@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-25, 13:46:13",
-      "https://lobste.rs/s/6sulnv/reflections_on_deepseek_open_sourcing"
-    ],
-    [
-      "Reflections on DeepSeek Open-Sourcing Its Inference Engine, DeepInfer",
-      "https://wukong123.substack.com/p/reflections-on-deepseek-open-sourcing"
-    ]
-  ],
-  [
-    [
       "2026-10-25, 13:43:11",
       "https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on"
     ],
@@ -227,6 +217,16 @@
     [
       "How close can pure FP get to C?",
       "https://rtfeldman.com/fp-vs-c"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 07:44:09",
+      "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious"
+    ],
+    [
+      "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+      "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/"
     ]
   ],
   [
