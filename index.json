@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-25, 06:40:39",
-      "https://lobste.rs/s/9h4q6u/decompiling_fast_food_tycoon_2"
-    ],
-    [
-      "Decompiling Fast Food Tycoon 2",
-      "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world"
-    ]
-  ],
-  [
-    [
       "2026-10-25, 01:22:45",
       "https://lobste.rs/s/7byfjv/macos_extensions_pack_for_apple_network"
     ],
@@ -227,6 +217,16 @@
     [
       "How close can pure FP get to C?",
       "https://rtfeldman.com/fp-vs-c"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 07:44:09",
+      "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious"
+    ],
+    [
+      "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+      "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/"
     ]
   ],
   [
