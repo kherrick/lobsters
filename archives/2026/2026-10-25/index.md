@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 14:57:20](https://lobste.rs/s/qsmmke/simd_accelerated_computer_vision_on_2) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
 * [2026-10-25, 14:18:21](https://lobste.rs/s/kiivg2/partial_order_precedence) - [Partial Order Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
 * [2026-10-25, 13:46:13](https://lobste.rs/s/6sulnv/reflections_on_deepseek_open_sourcing) - [Reflections on DeepSeek Open-Sourcing Its Inference Engine, DeepInfer](https://wukong123.substack.com/p/reflections-on-deepseek-open-sourcing)
 * [2026-10-25, 13:43:11](https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on) - [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
