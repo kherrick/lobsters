@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 12:33:05](https://lobste.rs/s/axahlg/tool_book_nuremberg_knight_from_1505) - [The Tool Book of a Nuremberg Knight from 1505](https://loeffelholz-codex.org/en)
 * [2026-10-25, 11:53:32](https://lobste.rs/s/dwlg7e/steal_my_bitcoin) - [Steal My Bitcoin](https://stealmybitcoin.com/)
 * [2026-10-25, 06:40:39](https://lobste.rs/s/9h4q6u/decompiling_fast_food_tycoon_2) - [Decompiling Fast Food Tycoon 2](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
 * [2026-10-25, 05:04:57](https://lobste.rs/s/k3dymf/michal_wallace_on_pedagogy_why_learn_j) - [Michal Wallace on Pedagogy, Why Learn J when LLMs Code?](https://alexalejandre.com/interviews/michal-wallace/)
