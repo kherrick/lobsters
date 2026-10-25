@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-25, 11:53:32",
-      "https://lobste.rs/s/dwlg7e/steal_my_bitcoin"
-    ],
-    [
-      "Steal My Bitcoin",
-      "https://stealmybitcoin.com/"
-    ]
-  ],
-  [
-    [
       "2026-10-25, 01:22:45",
       "https://lobste.rs/s/7byfjv/macos_extensions_pack_for_apple_network"
     ],
@@ -87,16 +77,6 @@
     [
       "How to run a city builder on 16 MHz",
       "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 12:09:40",
-      "https://lobste.rs/s/vh8l3t/what_s_wrong_with_ai"
-    ],
-    [
-      "What's wrong with AI?",
-      "https://homepage.farm/ai.html"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2026-10-23, 20:44:07",
+      "https://lobste.rs/s/pvfzhq/memory_is_slow_disk_is_fast"
+    ],
+    [
+      "Memory is slow, Disk is fast",
+      "https://www.bitflux.ai/blog/memory-is-slow-part3/"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 14:30:57",
       "https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin"
     ],
@@ -227,6 +217,16 @@
     [
       "How close can pure FP get to C?",
       "https://rtfeldman.com/fp-vs-c"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 07:44:09",
+      "https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious"
+    ],
+    [
+      "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+      "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/"
     ]
   ],
   [
