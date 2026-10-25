@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2026-10-24, 16:59:53",
+      "https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing"
+    ],
+    [
+      "The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages",
+      "https://emptysqua.re/blog/polyglots-dilemma/"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 16:50:50",
       "https://lobste.rs/s/ysah7i/2026_ruby_on_rails_community_survey"
     ],
@@ -237,16 +247,6 @@
     [
       "The glorious @xkcdRandom Zig builtin",
       "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 12:58:10",
-      "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not"
-    ],
-    [
-      "Software is slow because of bad design, not slow languages",
-      "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/"
     ]
   ]
 ]
