@@ -13,7 +13,6 @@
 * [2026-10-24, 23:11:40](https://lobste.rs/s/whgofc/simd_go) - [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 * [2026-10-24, 16:59:53](https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing) - [The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages](https://emptysqua.re/blog/polyglots-dilemma/)
-* [2026-10-24, 16:50:50](https://lobste.rs/s/ysah7i/2026_ruby_on_rails_community_survey) - [2026 Ruby on Rails Community Survey Results](https://railsdeveloper.com/survey/2026)
 * [2026-10-24, 15:27:34](https://lobste.rs/s/dfieqa/bringing_uv_ty_together) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-24, 14:18:48](https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
 * [2026-10-24, 11:01:27](https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli) - [This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
@@ -25,6 +24,7 @@
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
+* [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 
 ## [Archives](archives/index.md)
 
