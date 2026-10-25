@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 13:46:13](https://lobste.rs/s/6sulnv/reflections_on_deepseek_open_sourcing) - [Reflections on DeepSeek Open-Sourcing Its Inference Engine, DeepInfer](https://wukong123.substack.com/p/reflections-on-deepseek-open-sourcing)
+* [2026-10-25, 13:43:11](https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on) - [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 * [2026-10-25, 12:33:05](https://lobste.rs/s/axahlg/tool_book_nuremberg_knight_from_1505) - [The Tool Book of a Nuremberg Knight from 1505](https://loeffelholz-codex.org/en)
 * [2026-10-25, 11:53:32](https://lobste.rs/s/dwlg7e/steal_my_bitcoin) - [Steal My Bitcoin](https://stealmybitcoin.com/)
 * [2026-10-25, 06:40:39](https://lobste.rs/s/9h4q6u/decompiling_fast_food_tycoon_2) - [Decompiling Fast Food Tycoon 2](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
