@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-25, 23:13:40](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver) - [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
 * [2026-10-25, 22:23:32](https://lobste.rs/s/kfaimp/two_musings_on_design_compiler_warnings) - [Two musings on the design of compiler warnings (2020)](https://quuxplusone.github.io/blog/2020/09/02/wparentheses/)
 * [2026-10-25, 21:58:42](https://lobste.rs/s/1q1rc1/reverse_engineering_instruction) - [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
 * [2026-10-25, 21:33:19](https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling) - [Building Java ME Apps with Modern Tooling](https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/)
@@ -22,7 +23,6 @@
 * [2026-10-24, 10:11:35](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released) - [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
 * [2026-10-24, 10:09:28](https://lobste.rs/s/xgih2x/i_want_my_wednesday_back) - [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
 * [2026-10-24, 08:45:01](https://lobste.rs/s/yczems/emacs_finally_folds_my_liking) - [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
-* [2026-10-24, 06:41:52](https://lobste.rs/s/rqefcw/twelve_years_distributed_sqlite) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 
