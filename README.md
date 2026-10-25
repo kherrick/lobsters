@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-25, 22:23:32](https://lobste.rs/s/kfaimp/two_musings_on_design_compiler_warnings) - [Two musings on the design of compiler warnings (2020)](https://quuxplusone.github.io/blog/2020/09/02/wparentheses/)
 * [2026-10-25, 21:58:42](https://lobste.rs/s/1q1rc1/reverse_engineering_instruction) - [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
 * [2026-10-25, 21:33:19](https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling) - [Building Java ME Apps with Modern Tooling](https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/)
 * [2026-10-25, 20:10:47](https://lobste.rs/s/dkoryq/goose_programming_language) - [The Goose Programming Language](https://aardappel.github.io/goose/)
@@ -24,7 +25,6 @@
 * [2026-10-24, 06:41:52](https://lobste.rs/s/rqefcw/twelve_years_distributed_sqlite) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
-* [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
 
 ## [Archives](archives/index.md)
 
