@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-25, 15:34:21](https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks) - [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 * [2026-10-25, 15:05:45](https://lobste.rs/s/cxwpil/vim_classic) - [Vim Classic](https://vim-classic.org/)
 * [2026-10-25, 15:03:10](https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline) - [A vision for a next-generation timeline](https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline)
@@ -20,7 +21,6 @@
 * [2026-10-24, 08:45:01](https://lobste.rs/s/yczems/emacs_finally_folds_my_liking) - [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
 * [2026-10-24, 06:41:52](https://lobste.rs/s/rqefcw/twelve_years_distributed_sqlite) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
-* [2026-10-23, 21:35:45](https://lobste.rs/s/6utrvz/incremental_computation_graphs) - [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
 * [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)

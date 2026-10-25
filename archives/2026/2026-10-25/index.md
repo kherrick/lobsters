@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 15:34:21](https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks) - [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 * [2026-10-25, 15:05:45](https://lobste.rs/s/cxwpil/vim_classic) - [Vim Classic](https://vim-classic.org/)
 * [2026-10-25, 15:03:10](https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline) - [A vision for a next-generation timeline](https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline)
