@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-25, 20:10:47](https://lobste.rs/s/dkoryq/goose_programming_language) - [The Goose Programming Language](https://aardappel.github.io/goose/)
 * [2026-10-25, 17:13:59](https://lobste.rs/s/mug4of/every_clojure_talk_ever_2018) - [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [2026-10-25, 15:34:21](https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks) - [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
@@ -11,7 +12,6 @@
 * [2026-10-25, 01:22:45](https://lobste.rs/s/7byfjv/macos_extensions_pack_for_apple_network) - [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 * [2026-10-24, 23:11:40](https://lobste.rs/s/whgofc/simd_go) - [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
-* [2026-10-24, 16:59:53](https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing) - [The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages](https://emptysqua.re/blog/polyglots-dilemma/)
 * [2026-10-24, 16:50:50](https://lobste.rs/s/ysah7i/2026_ruby_on_rails_community_survey) - [2026 Ruby on Rails Community Survey Results](https://railsdeveloper.com/survey/2026)
 * [2026-10-24, 15:27:34](https://lobste.rs/s/dfieqa/bringing_uv_ty_together) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-24, 14:18:48](https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
