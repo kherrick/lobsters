@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 17:13:59](https://lobste.rs/s/mug4of/every_clojure_talk_ever_2018) - [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [2026-10-25, 17:13:59](https://lobste.rs/s/mug4of/every_clojure_talk_ever) - [Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [2026-10-25, 15:34:21](https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks) - [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
