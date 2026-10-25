@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-10-24, 16:50:50",
-      "https://lobste.rs/s/ysah7i/2026_ruby_on_rails_community_survey"
-    ],
-    [
-      "2026 Ruby on Rails Community Survey Results",
-      "https://railsdeveloper.com/survey/2026"
-    ]
-  ],
-  [
-    [
       "2026-10-24, 15:27:34",
       "https://lobste.rs/s/dfieqa/bringing_uv_ty_together"
     ],
@@ -247,6 +237,16 @@
     [
       "The glorious @xkcdRandom Zig builtin",
       "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 12:58:10",
+      "https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not"
+    ],
+    [
+      "Software is slow because of bad design, not slow languages",
+      "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/"
     ]
   ]
 ]
