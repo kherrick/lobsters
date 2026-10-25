@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
+* [2026-10-25, 15:05:45](https://lobste.rs/s/cxwpil/vim_classic) - [Vim Classic](https://vim-classic.org/)
+* [2026-10-25, 15:03:10](https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline) - [A vision for a next-generation timeline](https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline)
 * [2026-10-25, 14:57:20](https://lobste.rs/s/qsmmke/simd_accelerated_computer_vision_on_2) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
 * [2026-10-25, 14:18:21](https://lobste.rs/s/kiivg2/partial_order_precedence) - [Partial Order Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
 * [2026-10-25, 13:43:11](https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on) - [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 * [2026-10-25, 01:22:45](https://lobste.rs/s/7byfjv/macos_extensions_pack_for_apple_network) - [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 * [2026-10-24, 23:11:40](https://lobste.rs/s/whgofc/simd_go) - [SIMD and Go](https://internals-for-interns.com/posts/go-simd/)
-* [2026-10-24, 23:06:08](https://lobste.rs/s/8h9sey/we_should_be_more_ambitious_with_software) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 * [2026-10-24, 16:59:53](https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing) - [The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages](https://emptysqua.re/blog/polyglots-dilemma/)
 * [2026-10-24, 16:50:50](https://lobste.rs/s/ysah7i/2026_ruby_on_rails_community_survey) - [2026 Ruby on Rails Community Survey Results](https://railsdeveloper.com/survey/2026)
@@ -18,13 +20,11 @@
 * [2026-10-24, 08:45:01](https://lobste.rs/s/yczems/emacs_finally_folds_my_liking) - [Emacs finally folds to my liking](https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/)
 * [2026-10-24, 06:41:52](https://lobste.rs/s/rqefcw/twelve_years_distributed_sqlite) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
-* [2026-10-24, 02:10:41](https://lobste.rs/s/hmtqfl/incremental_approach_jit_construction) - [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304)
 * [2026-10-23, 21:35:45](https://lobste.rs/s/6utrvz/incremental_computation_graphs) - [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/)
 * [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-23, 14:30:57](https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin) - [The glorious @xkcdRandom Zig builtin](https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/)
 * [2026-10-23, 12:58:10](https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not) - [Software is slow because of bad design, not slow languages](https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 * [2026-10-23, 11:37:22](https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c) - [How close can pure FP get to C?](https://rtfeldman.com/fp-vs-c)
-* [2026-10-22, 20:09:22](https://lobste.rs/s/xsz9sc/docker_is_weird) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 
 ## [Archives](archives/index.md)
 
