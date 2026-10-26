@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-26, 17:47:50](https://lobste.rs/s/1h5kuj/pharo_14_released) - [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down) - [Web Page Crawler Revealed - tracking down requests from Contabo GmbH](https://bruceediger.com/posts/contabo-crawler/)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 15:40:59](https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under) - [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
@@ -20,7 +21,6 @@
 * [2026-10-26, 00:23:42](https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026) - [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 * [2026-10-25, 23:13:40](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver) - [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
 * [2026-10-25, 21:33:19](https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling) - [Building Java ME Apps with Modern Tooling](https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/)
-* [2026-10-25, 15:34:21](https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks) - [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 * [2026-10-25, 15:05:45](https://lobste.rs/s/cxwpil/vim_classic) - [Vim Classic](https://vim-classic.org/)
 * [2026-10-25, 14:18:21](https://lobste.rs/s/kiivg2/partial_operator_precedence) - [Partial Operator Precedence](https://ziglang.org/devlog/2026/#2026-10-24)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 17:47:50](https://lobste.rs/s/1h5kuj/pharo_14_released) - [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down) - [Web Page Crawler Revealed - tracking down requests from Contabo GmbH](https://bruceediger.com/posts/contabo-crawler/)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/eyrbup/web_page_crawler_revealed_information) - [Web Page Crawler Revealed - Information Camouflage](https://bruceediger.com/posts/contabo-crawler/)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
