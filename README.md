@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-26, 16:28:12](https://lobste.rs/s/eyrbup/web_page_crawler_revealed_information) - [Web Page Crawler Revealed - Information Camouflage](https://bruceediger.com/posts/contabo-crawler/)
+* [2026-10-26, 16:28:12](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 15:40:59](https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under) - [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
 * [2026-10-26, 13:28:45](https://lobste.rs/s/xmnhbt/simple_sudoku_solver_assembly) - [Simple Sudoku Solver in Assembly](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html)
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
@@ -21,10 +23,8 @@
 * [2026-10-25, 15:34:21](https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks) - [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 * [2026-10-25, 15:05:45](https://lobste.rs/s/cxwpil/vim_classic) - [Vim Classic](https://vim-classic.org/)
-* [2026-10-25, 15:03:10](https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline) - [A vision for a next-generation timeline](https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline)
 * [2026-10-25, 14:18:21](https://lobste.rs/s/kiivg2/partial_operator_precedence) - [Partial Operator Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
 * [2026-10-25, 13:43:11](https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on) - [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
-* [2026-10-24, 10:09:28](https://lobste.rs/s/xgih2x/i_want_my_wednesday_back) - [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
 
 ## [Archives](archives/index.md)
 
