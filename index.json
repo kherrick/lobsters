@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-26, 06:15:19",
+      "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common"
+    ],
+    [
+      "OpenLDK: Bringing the Java World into Common Lisp",
+      "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/"
+    ]
+  ],
+  [
+    [
       "2026-10-26, 03:06:36",
       "https://lobste.rs/s/mu3xcd/writing_about_pratt_parsing_so_i_remember"
     ],
@@ -237,16 +247,6 @@
     [
       "Indian government sites are serving revoked eMudhra certificates",
       "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 20:47:58",
-      "https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine"
-    ],
-    [
-      "Attention people who think UB is fine",
-      "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html"
     ]
   ]
 ]
