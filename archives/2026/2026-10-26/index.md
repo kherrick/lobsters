@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 15:40:59](https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under) - [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
 * [2026-10-26, 13:28:45](https://lobste.rs/s/xmnhbt/simple_sudoku_solver_assembly) - [Simple Sudoku Solver in Assembly](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html)
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 * [2026-10-26, 13:22:23](https://lobste.rs/s/di1j7o/shadow_dummy_folders_obvious_overflow) - [Shadow: Dummy folders, an obvious overflow, and a ROP chain](https://chirp.tene7.com/?action=view&url=shadow-dummy-folders-an-obvious-overflow-and-a-rop-chain)

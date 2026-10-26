@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-26, 15:40:59](https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under) - [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
 * [2026-10-26, 13:28:45](https://lobste.rs/s/xmnhbt/simple_sudoku_solver_assembly) - [Simple Sudoku Solver in Assembly](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html)
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 * [2026-10-26, 13:22:23](https://lobste.rs/s/di1j7o/shadow_dummy_folders_obvious_overflow) - [Shadow: Dummy folders, an obvious overflow, and a ROP chain](https://chirp.tene7.com/?action=view&url=shadow-dummy-folders-an-obvious-overflow-and-a-rop-chain)
@@ -16,7 +17,6 @@
 * [2026-10-26, 03:06:36](https://lobste.rs/s/mu3xcd/writing_about_pratt_parsing_so_i_remember) - [writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
 * [2026-10-26, 00:23:42](https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026) - [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 * [2026-10-25, 23:13:40](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver) - [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
-* [2026-10-25, 21:58:42](https://lobste.rs/s/1q1rc1/reverse_engineering_instruction) - [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
 * [2026-10-25, 21:33:19](https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling) - [Building Java ME Apps with Modern Tooling](https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/)
 * [2026-10-25, 15:34:21](https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks) - [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
