@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-26, 18:44:53](https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor) - [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-26, 17:56:24](https://lobste.rs/s/q5dung/less_is_more_from_1m_lines_firmware_300) - [Less Is More: From 1M Lines of Firmware to 300 of Assembly](https://tinfoil.sh/blog/2026-10-25-less-is-more)
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 * [2026-10-26, 17:53:05](https://lobste.rs/s/nxfown/result_c_26_dis_ballot) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
@@ -14,7 +15,6 @@
 * [2026-10-26, 11:47:25](https://lobste.rs/s/p9obkt/gram_3_4_0_released) - [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
 * [2026-10-26, 11:35:18](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
 * [2026-10-26, 11:34:43](https://lobste.rs/s/ysyqnt/small_web_is_huge) - [The Small Web Is Huge](https://archive.org/download/small_web/11787-48384.mp4)
-* [2026-10-26, 11:30:37](https://lobste.rs/s/vgq0mf/wails_v3_0_0_released) - [Wails v3.0.0 Released](https://v3.wails.io/blog/wails-v3-released/)
 * [2026-10-26, 11:09:16](https://lobste.rs/s/twdnpy/akku_scm_1_2_0_released) - [Akku.scm 1.2.0 released](https://weinholt.se/articles/akku-scm-1-2-0/)
 * [2026-10-26, 09:58:55](https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 * [2026-10-26, 06:15:19](https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common) - [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
