@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-26, 00:23:42](https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026) - [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 * [2026-10-25, 23:13:40](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver) - [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
 * [2026-10-25, 22:23:32](https://lobste.rs/s/kfaimp/two_musings_on_design_compiler_warnings) - [Two musings on the design of compiler warnings (2020)](https://quuxplusone.github.io/blog/2020/09/02/wparentheses/)
 * [2026-10-25, 21:58:42](https://lobste.rs/s/1q1rc1/reverse_engineering_instruction) - [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
@@ -18,7 +19,6 @@
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 * [2026-10-24, 15:27:34](https://lobste.rs/s/dfieqa/bringing_uv_ty_together) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-24, 14:18:48](https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
-* [2026-10-24, 11:01:27](https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli) - [This week's \"node2shell\" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 * [2026-10-24, 10:42:05](https://lobste.rs/s/rl0dz5/be_aware_what_s_your_logs) - [Be Aware of What's in Your Logs](https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/)
 * [2026-10-24, 10:11:35](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released) - [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
 * [2026-10-24, 10:09:28](https://lobste.rs/s/xgih2x/i_want_my_wednesday_back) - [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
