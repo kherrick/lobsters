@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-26, 10:39:55](https://lobste.rs/s/xj200h/mole_protocols) - [MoLE Protocols](https://datatracker.ietf.org/doc/draft-jms-mole-protocols/)
 * [2026-10-26, 09:58:55](https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 * [2026-10-26, 06:15:19](https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common) - [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
 * [2026-10-26, 03:06:36](https://lobste.rs/s/mu3xcd/writing_about_pratt_parsing_so_i_remember) - [writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
@@ -21,7 +22,6 @@
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 * [2026-10-24, 15:27:34](https://lobste.rs/s/dfieqa/bringing_uv_ty_together) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-24, 14:18:48](https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
-* [2026-10-24, 10:42:05](https://lobste.rs/s/rl0dz5/be_aware_what_s_your_logs) - [Be Aware of What's in Your Logs](https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/)
 * [2026-10-24, 10:11:35](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released) - [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
 * [2026-10-24, 10:09:28](https://lobste.rs/s/xgih2x/i_want_my_wednesday_back) - [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
