@@ -6,6 +6,7 @@
 
 * [2026-10-26, 17:56:24](https://lobste.rs/s/q5dung/less_is_more_from_1m_lines_firmware_300) - [Less Is More: From 1M Lines of Firmware to 300 of Assembly](https://tinfoil.sh/blog/2026-10-25-less-is-more)
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+* [2026-10-26, 17:53:05](https://lobste.rs/s/nxfown/result_c_26_dis_ballot) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
 * [2026-10-26, 17:47:50](https://lobste.rs/s/1h5kuj/pharo_14_released) - [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down) - [Web Page Crawler Revealed - tracking down requests from Contabo GmbH](https://bruceediger.com/posts/contabo-crawler/)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/eyrbup/web_page_crawler_revealed_information) - [Web Page Crawler Revealed - Information Camouflage](https://bruceediger.com/posts/contabo-crawler/)
