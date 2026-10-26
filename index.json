@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-26, 12:02:58",
+      "https://lobste.rs/s/olnqh2/websites_should_be_printable"
+    ],
+    [
+      "Websites Should Be Printable",
+      "https://brennenputh.me/blog/printable-websites/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 11:47:25",
+      "https://lobste.rs/s/p9obkt/gram_3_4_0_released"
+    ],
+    [
+      "Gram 3.4.0 released",
+      "https://gram-editor.com/posts/release-3.4.0/"
+    ]
+  ],
+  [
+    [
       "2026-10-26, 11:35:18",
       "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week"
     ],
@@ -37,16 +57,6 @@
     [
       "Akku.scm 1.2.0 released",
       "https://weinholt.se/articles/akku-scm-1-2-0/"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 10:39:55",
-      "https://lobste.rs/s/xj200h/mole_protocols"
-    ],
-    [
-      "MoLE Protocols",
-      "https://datatracker.ietf.org/doc/draft-jms-mole-protocols/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Balloting has completed for C++26. Unfortunately it was Disapproved",
       "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 15:27:34",
-      "https://lobste.rs/s/dfieqa/bringing_uv_ty_together"
-    ],
-    [
-      "Bringing uv and ty together",
-      "https://astral.sh/blog/uv-ty-integration"
     ]
   ],
   [
