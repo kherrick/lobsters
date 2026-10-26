@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-26, 18:44:53",
+      "https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor"
+    ],
+    [
+      "A faster way to compute signed 64-bit floor division by constants",
+      "https://www.benjoffe.com/fast-floordiv"
+    ]
+  ],
+  [
+    [
       "2026-10-26, 17:56:24",
       "https://lobste.rs/s/q5dung/less_is_more_from_1m_lines_firmware_300"
     ],
@@ -137,16 +147,6 @@
     [
       "The Small Web Is Huge",
       "https://archive.org/download/small_web/11787-48384.mp4"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 11:30:37",
-      "https://lobste.rs/s/vgq0mf/wails_v3_0_0_released"
-    ],
-    [
-      "Wails v3.0.0 Released",
-      "https://v3.wails.io/blog/wails-v3-released/"
     ]
   ],
   [
