@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 13:28:45](https://lobste.rs/s/xmnhbt/simple_sudoku_solver_assembly) - [Simple Sudoku Solver in Assembly](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html)
+* [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
+* [2026-10-26, 13:22:23](https://lobste.rs/s/di1j7o/shadow_dummy_folders_obvious_overflow) - [Shadow: Dummy folders, an obvious overflow, and a ROP chain](https://chirp.tene7.com/?action=view&url=shadow-dummy-folders-an-obvious-overflow-and-a-rop-chain)
+* [2026-10-26, 13:21:37](https://lobste.rs/s/lh8nvx/aggro_is_foundation_2022) - [Aggro is the Foundation (2022)](https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/)
 * [2026-10-26, 12:02:58](https://lobste.rs/s/olnqh2/websites_should_be_printable) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-26, 11:47:25](https://lobste.rs/s/p9obkt/gram_3_4_0_released) - [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
 * [2026-10-26, 11:35:18](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
 * [2026-10-26, 11:34:43](https://lobste.rs/s/ysyqnt/small_web_is_huge) - [The Small Web is Huge](https://dn711504.ca.archive.org/0/items/small_web/11787-48384.mp4)
+* [2026-10-26, 11:34:43](https://lobste.rs/s/ysyqnt/small_web_is_huge) - [The Small Web Is Huge](https://archive.org/download/small_web/11787-48384.mp4)
 * [2026-10-26, 11:30:37](https://lobste.rs/s/vgq0mf/wails_v3_0_0_released) - [Wails v3.0.0 Released](https://v3.wails.io/blog/wails-v3-released/)
 * [2026-10-26, 11:09:16](https://lobste.rs/s/twdnpy/akku_scm_1_2_0_released) - [Akku.scm 1.2.0 released](https://weinholt.se/articles/akku-scm-1-2-0/)
 * [2026-10-26, 10:39:55](https://lobste.rs/s/xj200h/mole_protocols) - [MoLE Protocols](https://datatracker.ietf.org/doc/draft-jms-mole-protocols/)
