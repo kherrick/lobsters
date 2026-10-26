@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 11:35:18](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
+* [2026-10-26, 11:34:43](https://lobste.rs/s/ysyqnt/small_web_is_huge) - [The Small Web is Huge](https://dn711504.ca.archive.org/0/items/small_web/11787-48384.mp4)
+* [2026-10-26, 11:30:37](https://lobste.rs/s/vgq0mf/wails_v3_0_0_released) - [Wails v3.0.0 Released](https://v3.wails.io/blog/wails-v3-released/)
 * [2026-10-26, 11:09:16](https://lobste.rs/s/twdnpy/akku_scm_1_2_0_released) - [Akku.scm 1.2.0 released](https://weinholt.se/articles/akku-scm-1-2-0/)
 * [2026-10-26, 10:39:55](https://lobste.rs/s/xj200h/mole_protocols) - [MoLE Protocols](https://datatracker.ietf.org/doc/draft-jms-mole-protocols/)
 * [2026-10-26, 09:58:55](https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)

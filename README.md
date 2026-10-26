@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-26, 11:35:18](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
+* [2026-10-26, 11:34:43](https://lobste.rs/s/ysyqnt/small_web_is_huge) - [The Small Web is Huge](https://dn711504.ca.archive.org/0/items/small_web/11787-48384.mp4)
+* [2026-10-26, 11:30:37](https://lobste.rs/s/vgq0mf/wails_v3_0_0_released) - [Wails v3.0.0 Released](https://v3.wails.io/blog/wails-v3-released/)
 * [2026-10-26, 11:09:16](https://lobste.rs/s/twdnpy/akku_scm_1_2_0_released) - [Akku.scm 1.2.0 released](https://weinholt.se/articles/akku-scm-1-2-0/)
 * [2026-10-26, 10:39:55](https://lobste.rs/s/xj200h/mole_protocols) - [MoLE Protocols](https://datatracker.ietf.org/doc/draft-jms-mole-protocols/)
 * [2026-10-26, 09:58:55](https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
@@ -11,7 +14,6 @@
 * [2026-10-25, 21:58:42](https://lobste.rs/s/1q1rc1/reverse_engineering_instruction) - [Reverse-Engineering Instruction Encodings (2001)](https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/)
 * [2026-10-25, 21:33:19](https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling) - [Building Java ME Apps with Modern Tooling](https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/)
 * [2026-10-25, 20:10:47](https://lobste.rs/s/dkoryq/goose_programming_language) - [The Goose Programming Language](https://aardappel.github.io/goose/)
-* [2026-10-25, 17:13:59](https://lobste.rs/s/mug4of/every_clojure_talk_ever_2018) - [Every Clojure Talk Ever (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [2026-10-25, 15:34:21](https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks) - [When a glibc update accidentally breaks Chromium's audio (2021)](https://refi64.dev/posts/chromium-audio-break.html)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 * [2026-10-25, 15:05:45](https://lobste.rs/s/cxwpil/vim_classic) - [Vim Classic](https://vim-classic.org/)
@@ -22,9 +24,7 @@
 * [2026-10-25, 01:22:45](https://lobste.rs/s/7byfjv/macos_extensions_pack_for_apple_network) - [MacOS Extensions pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 * [2026-10-24, 18:00:36](https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26) - [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL)
 * [2026-10-24, 15:27:34](https://lobste.rs/s/dfieqa/bringing_uv_ty_together) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
-* [2026-10-24, 14:18:48](https://lobste.rs/s/qzfohf/how_run_city_builder_on_16_mhz) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
 * [2026-10-24, 10:09:28](https://lobste.rs/s/xgih2x/i_want_my_wednesday_back) - [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
-* [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
 
 ## [Archives](archives/index.md)
 
