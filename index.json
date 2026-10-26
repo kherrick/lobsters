@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-26, 15:40:59",
+      "https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under"
+    ],
+    [
+      "Heavenly delights of hashing numbers under EQUALP",
+      "https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html"
+    ]
+  ],
+  [
+    [
       "2026-10-26, 13:28:45",
       "https://lobste.rs/s/xmnhbt/simple_sudoku_solver_assembly"
     ],
@@ -157,16 +167,6 @@
     [
       "Simple NetBSD webserver",
       "https://bsandro.tech/posts/simple-netbsd-webserver/"
-    ]
-  ],
-  [
-    [
-      "2026-10-25, 21:58:42",
-      "https://lobste.rs/s/1q1rc1/reverse_engineering_instruction"
-    ],
-    [
-      "Reverse-Engineering Instruction Encodings (2001)",
-      "https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/"
     ]
   ],
   [
