@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-26, 03:10:06](https://lobste.rs/s/r1ephu/state_context_engineering) - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
 * [2026-10-26, 03:06:36](https://lobste.rs/s/mu3xcd/writing_about_pratt_parsing_so_i_remember) - [writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
 * [2026-10-26, 00:23:42](https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026) - [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 * [2026-10-25, 23:13:40](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver) - [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
@@ -25,6 +24,7 @@
 * [2026-10-24, 10:11:35](https://lobste.rs/s/vulvk7/wild_version_0_11_0_released) - [Wild version 0.11.0 released](https://github.com/wild-linker/wild/releases/tag/0.11.0)
 * [2026-10-24, 10:09:28](https://lobste.rs/s/xgih2x/i_want_my_wednesday_back) - [I want my Wednesday back](https://blog.luitjes.it/posts/i-want-my-wednesday-back/)
 * [2026-10-24, 04:06:06](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving) - [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/)
+* [2026-10-23, 20:47:58](https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 
 ## [Archives](archives/index.md)
 
