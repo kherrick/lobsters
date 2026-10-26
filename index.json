@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-10-26, 13:28:45",
+      "https://lobste.rs/s/xmnhbt/simple_sudoku_solver_assembly"
+    ],
+    [
+      "Simple Sudoku Solver in Assembly",
+      "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 13:25:41",
+      "https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email"
+    ],
+    [
+      "Why is it so expensive to send an email?",
+      "https://evancz.dev/why-is-it-so-expensive-to-send-an-email"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 13:22:23",
+      "https://lobste.rs/s/di1j7o/shadow_dummy_folders_obvious_overflow"
+    ],
+    [
+      "Shadow: Dummy folders, an obvious overflow, and a ROP chain",
+      "https://chirp.tene7.com/?action=view&url=shadow-dummy-folders-an-obvious-overflow-and-a-rop-chain"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 13:21:37",
+      "https://lobste.rs/s/lh8nvx/aggro_is_foundation_2022"
+    ],
+    [
+      "Aggro is the Foundation (2022)",
+      "https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/"
+    ]
+  ],
+  [
+    [
       "2026-10-26, 12:02:58",
       "https://lobste.rs/s/olnqh2/websites_should_be_printable"
     ],
@@ -35,8 +75,8 @@
       "https://lobste.rs/s/ysyqnt/small_web_is_huge"
     ],
     [
-      "The Small Web is Huge",
-      "https://dn711504.ca.archive.org/0/items/small_web/11787-48384.mp4"
+      "The Small Web Is Huge",
+      "https://archive.org/download/small_web/11787-48384.mp4"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-10-25, 20:10:47",
-      "https://lobste.rs/s/dkoryq/goose_programming_language"
-    ],
-    [
-      "The Goose Programming Language",
-      "https://aardappel.github.io/goose/"
-    ]
-  ],
-  [
-    [
       "2026-10-25, 15:34:21",
       "https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks"
     ],
@@ -191,21 +221,11 @@
   ],
   [
     [
-      "2026-10-25, 14:57:20",
-      "https://lobste.rs/s/qsmmke/simd_accelerated_computer_vision_on_2"
-    ],
-    [
-      "SIMD-accelerated computer vision on a $2 microcontroller",
-      "https://shraiwi.com/blog/simd-fast-esp32s3/"
-    ]
-  ],
-  [
-    [
       "2026-10-25, 14:18:21",
-      "https://lobste.rs/s/kiivg2/partial_order_precedence"
+      "https://lobste.rs/s/kiivg2/partial_operator_precedence"
     ],
     [
-      "Partial Order Precedence",
+      "Partial Operator Precedence",
       "https://ziglang.org/devlog/2026/#2026-10-24"
     ]
   ],
@@ -217,26 +237,6 @@
     [
       "The Slurptop: A home-built luggable that runs on power tool batteries",
       "https://slurpburgers.com/slurpbuilds/the-slurptop/"
-    ]
-  ],
-  [
-    [
-      "2026-10-25, 01:22:45",
-      "https://lobste.rs/s/7byfjv/macos_extensions_pack_for_apple_network"
-    ],
-    [
-      "MacOS Extensions pack for the Apple Network Server v1.0",
-      "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 18:00:36",
-      "https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26"
-    ],
-    [
-      "Balloting has completed for C++26. Unfortunately it was Disapproved",
-      "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL"
     ]
   ],
   [
