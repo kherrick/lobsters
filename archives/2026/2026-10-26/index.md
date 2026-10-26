@@ -8,6 +8,7 @@
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 * [2026-10-26, 13:22:23](https://lobste.rs/s/di1j7o/shadow_dummy_folders_obvious_overflow) - [Shadow: Dummy folders, an obvious overflow, and a ROP chain](https://chirp.tene7.com/?action=view&url=shadow-dummy-folders-an-obvious-overflow-and-a-rop-chain)
 * [2026-10-26, 13:21:37](https://lobste.rs/s/lh8nvx/aggro_is_foundation_2022) - [Aggro is the Foundation (2022)](https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/)
+* [2026-10-26, 12:55:44](https://lobste.rs/s/5u7gjd/from_impulse_purchase_pocket_studio_m) - [From impulse purchase to pocket studio: The M-Vave FM-1](https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/)
 * [2026-10-26, 12:02:58](https://lobste.rs/s/olnqh2/websites_should_be_printable) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-26, 11:47:25](https://lobste.rs/s/p9obkt/gram_3_4_0_released) - [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
 * [2026-10-26, 11:35:18](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
