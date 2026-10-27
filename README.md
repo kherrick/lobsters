@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-27, 08:10:01](https://lobste.rs/s/n92yur/keyless_entry_hacking_switchbot_smart) - [Keyless Entry: Hacking SwitchBot Smart Locks](https://neodyme.io/en/blog/switchbot)
 * [2026-10-27, 06:20:38](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 * [2026-10-27, 00:36:47](https://lobste.rs/s/uhfzlv/vcf_midwest_2026_building_living_90s) - [(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers](https://www.youtube.com/watch?v=mZfJ-sulqQs)
@@ -18,7 +19,6 @@
 * [2026-10-26, 12:02:58](https://lobste.rs/s/olnqh2/websites_should_be_printable) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-26, 11:47:25](https://lobste.rs/s/p9obkt/gram_3_4_0_released) - [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
 * [2026-10-26, 11:35:18](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
-* [2026-10-26, 11:34:43](https://lobste.rs/s/ysyqnt/small_web_is_huge) - [The Small Web Is Huge](https://archive.org/download/small_web/11787-48384.mp4)
 * [2026-10-26, 09:58:55](https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 * [2026-10-26, 03:06:36](https://lobste.rs/s/mu3xcd/writing_about_pratt_parsing_so_i_remember) - [writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
 * [2026-10-26, 00:23:42](https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026) - [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
