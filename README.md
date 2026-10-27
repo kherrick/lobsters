@@ -5,6 +5,7 @@
 * [2026-10-27, 18:48:45](https://lobste.rs/s/7bbzjf/evening_with_berferd_which_cracker_is) - [An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)](https://www.cheswick.com/ches/papers/berferd.pdf)
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 18:28:06](https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live) - [1,447 emoji? We'll do it live](https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch)
+* [2026-10-27, 17:53:09](https://lobste.rs/s/kvije8/shift_theseus_toy_bit_provenance) - [The Shift of Theseus — Toy Bit Provenance Abstract Domain](https://www.pypy.org/posts/2026/10/toy-bit-provenance.html)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
 * [2026-10-27, 16:45:26](https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer) - [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
 * [2026-10-27, 16:42:17](https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian) - [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
@@ -24,7 +25,6 @@
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 * [2026-10-26, 12:02:58](https://lobste.rs/s/olnqh2/websites_should_be_printable) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-26, 11:47:25](https://lobste.rs/s/p9obkt/gram_3_4_0_released) - [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
-* [2026-10-26, 09:58:55](https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 
 ## [Archives](archives/index.md)
 
