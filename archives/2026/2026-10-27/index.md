@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 13:11:26](https://lobste.rs/s/en7rby/slughorn_gpu_vector_graphics) - [slughorn — GPU Vector Graphics](https://slughorn.io/)
 * [2026-10-27, 12:50:14](https://lobste.rs/s/y3v5zv/ensojs_native_first_microframework_for) - [EnsoJS - native-first microframework for building declarative Web Components](https://ensojs.dev/)
 * [2026-10-27, 11:33:23](https://lobste.rs/s/3mnrlw/select_should_tell_you_something) - [A select should tell you something](https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html)
 * [2026-10-27, 10:11:53](https://lobste.rs/s/beiiil/full_haskell_like_type_class_resolution) - [Full Haskell-like Type Class resolution in Java](https://garciat.com/posts/java-type-classes/)
