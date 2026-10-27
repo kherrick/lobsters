@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-27, 19:08:23",
+      "https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli"
+    ],
+    [
+      "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "https://projectzero.google/2026/10/fuzzing-v-AI.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 18:46:09",
+      "https://lobste.rs/s/qr59sa/four_months_zig"
+    ],
+    [
+      "Four Months of Zig",
+      "https://gracefulliberty.com/articles/four-months-of-zig/"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 18:28:06",
       "https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live"
     ],
@@ -97,26 +117,6 @@
     [
       "Full Haskell-like Type Class resolution in Java",
       "https://garciat.com/posts/java-type-classes/"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 10:06:47",
-      "https://lobste.rs/s/adprro/typescript_haskell_unions_singletons"
-    ],
-    [
-      "TypeScript and Haskell: Unions & Singletons (2024)",
-      "https://garciat.com/posts/haskell-union-types/"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 08:10:01",
-      "https://lobste.rs/s/n92yur/keyless_entry_hacking_switchbot_smart"
-    ],
-    [
-      "Keyless Entry: Hacking SwitchBot Smart Locks",
-      "https://neodyme.io/en/blog/switchbot"
     ]
   ],
   [
