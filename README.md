@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 * [2026-10-27, 00:36:47](https://lobste.rs/s/uhfzlv/vcf_midwest_2026_building_living_90s) - [(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers](https://www.youtube.com/watch?v=mZfJ-sulqQs)
 * [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)
 * [2026-10-26, 23:44:15](https://lobste.rs/s/ihmfsc/passkey_is_worse) - [The passkey is worse](https://www.kcoleman.me/2026/10/22/hacked.html)
@@ -11,7 +12,6 @@
 * [2026-10-26, 16:28:12](https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down) - [Web Page Crawler Revealed - tracking down requests from Contabo GmbH](https://bruceediger.com/posts/contabo-crawler/)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 15:40:59](https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under) - [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
-* [2026-10-26, 13:28:45](https://lobste.rs/s/xmnhbt/simple_sudoku_solver_assembly) - [Simple Sudoku Solver in Assembly](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html)
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 * [2026-10-26, 12:55:44](https://lobste.rs/s/5u7gjd/from_impulse_purchase_pocket_studio_m) - [From impulse purchase to pocket studio: The M-Vave FM-1](https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/)
 * [2026-10-26, 12:02:58](https://lobste.rs/s/olnqh2/websites_should_be_printable) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
