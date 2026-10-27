@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-27, 10:11:53",
+      "https://lobste.rs/s/beiiil/full_haskell_like_type_class_resolution"
+    ],
+    [
+      "Full Haskell-like Type Class resolution in Java",
+      "https://garciat.com/posts/java-type-classes/"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 10:06:47",
+      "https://lobste.rs/s/adprro/typescript_haskell_unions_singletons"
+    ],
+    [
+      "TypeScript and Haskell: Unions & Singletons (2024)",
+      "https://garciat.com/posts/haskell-union-types/"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 08:10:01",
       "https://lobste.rs/s/n92yur/keyless_entry_hacking_switchbot_smart"
     ],
@@ -97,16 +117,6 @@
     [
       "CSS-Tricks has a new owner",
       "https://css-tricks.com/css-tricks-has-a-new-owner/"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 17:53:05",
-      "https://lobste.rs/s/nxfown/result_c_26_dis_ballot"
-    ],
-    [
-      "The result of the C++26 DIS ballot",
-      "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "POSIX wordexp(3) is dangerous",
       "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/"
-    ]
-  ],
-  [
-    [
-      "2026-10-25, 13:43:11",
-      "https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on"
-    ],
-    [
-      "The Slurptop: A home-built luggable that runs on power tool batteries",
-      "https://slurpburgers.com/slurpbuilds/the-slurptop/"
     ]
   ]
 ]
