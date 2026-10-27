@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 17:56:29](https://lobste.rs/s/x1k8vh/protobuf_python_typescript_is_actually) - [Protobuf in Python and TypeScript is actually good now](https://buf.build/blog/protobuf-in-python-and-typescript-is-actually-good-now)
 * [2026-10-27, 17:53:09](https://lobste.rs/s/kvije8/shift_theseus_toy_bit_provenance) - [The Shift of Theseus — Toy Bit Provenance Abstract Domain](https://www.pypy.org/posts/2026/10/toy-bit-provenance.html)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
 * [2026-10-27, 16:45:26](https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer) - [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)

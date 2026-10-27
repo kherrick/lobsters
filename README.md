@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-27, 17:56:29](https://lobste.rs/s/x1k8vh/protobuf_python_typescript_is_actually) - [Protobuf in Python and TypeScript is actually good now](https://buf.build/blog/protobuf-in-python-and-typescript-is-actually-good-now)
 * [2026-10-27, 17:53:09](https://lobste.rs/s/kvije8/shift_theseus_toy_bit_provenance) - [The Shift of Theseus — Toy Bit Provenance Abstract Domain](https://www.pypy.org/posts/2026/10/toy-bit-provenance.html)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
 * [2026-10-27, 16:45:26](https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer) - [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
@@ -15,7 +16,6 @@
 * [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf)
 * [2026-10-27, 00:31:44](https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure) - [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
 * [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)
-* [2026-10-26, 21:24:44](https://lobste.rs/s/bgpsuu/gforth_1_0) - [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
 * [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 18:44:53](https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor) - [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
