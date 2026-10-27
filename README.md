@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-26, 23:14:56](https://lobste.rs/s/yhwhf4/meu_m3u_file_editor) - [MEU - a M3U file editor](https://github.com/teknoraver/meu)
+* [2026-10-27, 00:36:47](https://lobste.rs/s/uhfzlv/vcf_midwest_2026_building_living_90s) - [(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers](https://www.youtube.com/watch?v=mZfJ-sulqQs)
+* [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)
+* [2026-10-26, 23:44:15](https://lobste.rs/s/ihmfsc/passkey_is_worse) - [The passkey is worse](https://www.kcoleman.me/2026/10/22/hacked.html)
 * [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 18:44:53](https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor) - [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
@@ -17,13 +19,11 @@
 * [2026-10-26, 11:35:18](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
 * [2026-10-26, 11:34:43](https://lobste.rs/s/ysyqnt/small_web_is_huge) - [The Small Web Is Huge](https://archive.org/download/small_web/11787-48384.mp4)
 * [2026-10-26, 09:58:55](https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
-* [2026-10-26, 06:15:19](https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common) - [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
 * [2026-10-26, 03:06:36](https://lobste.rs/s/mu3xcd/writing_about_pratt_parsing_so_i_remember) - [writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
 * [2026-10-26, 00:23:42](https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026) - [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 * [2026-10-25, 23:13:40](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver) - [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 * [2026-10-25, 15:05:45](https://lobste.rs/s/cxwpil/vim_classic) - [Vim Classic](https://vim-classic.org/)
-* [2026-10-25, 14:18:21](https://lobste.rs/s/kiivg2/partial_operator_precedence) - [Partial Operator Precedence](https://ziglang.org/devlog/2026/#2026-10-24)
 * [2026-10-25, 13:43:11](https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on) - [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 
 ## [Archives](archives/index.md)

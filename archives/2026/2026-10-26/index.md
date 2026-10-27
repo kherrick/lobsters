@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 23:44:15](https://lobste.rs/s/ihmfsc/passkey_is_worse) - [The passkey is worse](https://www.kcoleman.me/2026/10/22/hacked.html)
 * [2026-10-26, 23:14:56](https://lobste.rs/s/yhwhf4/meu_m3u_file_editor) - [MEU - a M3U file editor](https://github.com/teknoraver/meu)
 * [2026-10-26, 20:33:16](https://lobste.rs/s/aszhzo/limits_fingerprint_blocklists) - [The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass](https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass)
 * [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
