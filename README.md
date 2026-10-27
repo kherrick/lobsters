@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-27, 15:10:11](https://lobste.rs/s/jxoown/lonewolf_self_hosted_xmpp_server_rust) - [Lonewolf: a self-hosted XMPP server in Rust with embedded storage](https://github.com/lonewolf-im/lonewolf)
 * [2026-10-27, 14:56:00](https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023) - [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
 * [2026-10-27, 14:40:12](https://lobste.rs/s/d09iy3/compile_time_dependent_types) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 * [2026-10-27, 13:11:26](https://lobste.rs/s/en7rby/slughorn_gpu_vector_graphics) - [slughorn — GPU Vector Graphics](https://slughorn.io/)
@@ -10,6 +9,7 @@
 * [2026-10-27, 08:10:01](https://lobste.rs/s/n92yur/keyless_entry_hacking_switchbot_smart) - [Keyless Entry: Hacking SwitchBot Smart Locks](https://neodyme.io/en/blog/switchbot)
 * [2026-10-27, 06:20:38](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf)
+* [2026-10-27, 00:36:47](https://lobste.rs/s/uhfzlv/vcf_midwest_2026_building_living_90s) - [(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers](https://www.youtube.com/watch?v=mZfJ-sulqQs)
 * [2026-10-27, 00:31:44](https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure) - [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
 * [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)
 * [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
