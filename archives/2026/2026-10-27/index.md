@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 11:33:23](https://lobste.rs/s/3mnrlw/select_should_tell_you_something) - [A select should tell you something](https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html)
 * [2026-10-27, 10:11:53](https://lobste.rs/s/beiiil/full_haskell_like_type_class_resolution) - [Full Haskell-like Type Class resolution in Java](https://garciat.com/posts/java-type-classes/)
 * [2026-10-27, 10:06:47](https://lobste.rs/s/adprro/typescript_haskell_unions_singletons) - [TypeScript and Haskell: Unions & Singletons (2024)](https://garciat.com/posts/haskell-union-types/)
 * [2026-10-27, 10:04:42](https://lobste.rs/s/tyoboh/code_org_s_excellent_beginner) - [Code.org's Excellent Beginner Programming Courses Gets Lost in the AI Hype](https://studio.code.org/courses/express-2025)
