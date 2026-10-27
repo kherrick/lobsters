@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-27, 12:50:14](https://lobste.rs/s/y3v5zv/ensojs_native_first_microframework_for) - [EnsoJS - native-first microframework for building declarative Web Components](https://ensojs.dev/)
 * [2026-10-27, 11:33:23](https://lobste.rs/s/3mnrlw/select_should_tell_you_something) - [A select should tell you something](https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html)
 * [2026-10-27, 10:11:53](https://lobste.rs/s/beiiil/full_haskell_like_type_class_resolution) - [Full Haskell-like Type Class resolution in Java](https://garciat.com/posts/java-type-classes/)
 * [2026-10-27, 10:06:47](https://lobste.rs/s/adprro/typescript_haskell_unions_singletons) - [TypeScript and Haskell: Unions & Singletons (2024)](https://garciat.com/posts/haskell-union-types/)
@@ -9,7 +10,6 @@
 * [2026-10-27, 00:36:47](https://lobste.rs/s/uhfzlv/vcf_midwest_2026_building_living_90s) - [(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers](https://www.youtube.com/watch?v=mZfJ-sulqQs)
 * [2026-10-27, 00:31:44](https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure) - [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
 * [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)
-* [2026-10-26, 21:24:44](https://lobste.rs/s/bgpsuu/gforth_1_0) - [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
 * [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 18:44:53](https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor) - [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
