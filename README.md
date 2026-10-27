@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-27, 10:11:53](https://lobste.rs/s/beiiil/full_haskell_like_type_class_resolution) - [Full Haskell-like Type Class resolution in Java](https://garciat.com/posts/java-type-classes/)
+* [2026-10-27, 10:06:47](https://lobste.rs/s/adprro/typescript_haskell_unions_singletons) - [TypeScript and Haskell: Unions & Singletons (2024)](https://garciat.com/posts/haskell-union-types/)
 * [2026-10-27, 08:10:01](https://lobste.rs/s/n92yur/keyless_entry_hacking_switchbot_smart) - [Keyless Entry: Hacking SwitchBot Smart Locks](https://neodyme.io/en/blog/switchbot)
 * [2026-10-27, 06:20:38](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
@@ -10,7 +12,6 @@
 * [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 18:44:53](https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor) - [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
-* [2026-10-26, 17:53:05](https://lobste.rs/s/nxfown/result_c_26_dis_ballot) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
 * [2026-10-26, 17:47:50](https://lobste.rs/s/1h5kuj/pharo_14_released) - [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 15:40:59](https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under) - [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
@@ -24,7 +25,6 @@
 * [2026-10-26, 00:23:42](https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026) - [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 * [2026-10-25, 23:13:40](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver) - [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
 * [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
-* [2026-10-25, 13:43:11](https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on) - [The Slurptop: A home-built luggable that runs on power tool batteries](https://slurpburgers.com/slurpbuilds/the-slurptop/)
 
 ## [Archives](archives/index.md)
 
