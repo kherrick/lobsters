@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 14:56:00](https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023) - [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
 * [2026-10-27, 14:40:12](https://lobste.rs/s/d09iy3/compile_time_dependent_types) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 * [2026-10-27, 13:11:26](https://lobste.rs/s/en7rby/slughorn_gpu_vector_graphics) - [slughorn — GPU Vector Graphics](https://slughorn.io/)
 * [2026-10-27, 12:50:14](https://lobste.rs/s/y3v5zv/ensojs_native_first_microframework_for) - [EnsoJS - native-first microframework for building declarative Web Components](https://ensojs.dev/)
