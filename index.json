@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-27, 16:59:30",
+      "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"
+    ],
+    [
+      "A fast and secure tar parser for the Rust ecosystem",
+      "https://astral.sh/blog/tar-codec"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 16:45:26",
       "https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer"
     ],
@@ -217,16 +227,6 @@
     [
       "Gram 3.4.0 released",
       "https://gram-editor.com/posts/release-3.4.0/"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 11:35:18",
-      "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week"
     ]
   ],
   [
