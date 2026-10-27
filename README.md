@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-27, 19:08:23](https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli) - [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)
+* [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 18:28:06](https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live) - [1,447 emoji? We'll do it live](https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch)
 * [2026-10-27, 17:53:09](https://lobste.rs/s/kvije8/shift_theseus_toy_bit_provenance) - [The Shift of Theseus — Toy Bit Provenance Abstract Domain](https://www.pypy.org/posts/2026/10/toy-bit-provenance.html)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
@@ -10,8 +12,6 @@
 * [2026-10-27, 13:11:26](https://lobste.rs/s/en7rby/slughorn_gpu_vector_graphics) - [slughorn — GPU Vector Graphics](https://slughorn.io/)
 * [2026-10-27, 11:33:23](https://lobste.rs/s/3mnrlw/select_should_tell_you_something) - [A select should tell you something](https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html)
 * [2026-10-27, 10:11:53](https://lobste.rs/s/beiiil/full_haskell_like_type_class_resolution) - [Full Haskell-like Type Class resolution in Java](https://garciat.com/posts/java-type-classes/)
-* [2026-10-27, 10:06:47](https://lobste.rs/s/adprro/typescript_haskell_unions_singletons) - [TypeScript and Haskell: Unions & Singletons (2024)](https://garciat.com/posts/haskell-union-types/)
-* [2026-10-27, 08:10:01](https://lobste.rs/s/n92yur/keyless_entry_hacking_switchbot_smart) - [Keyless Entry: Hacking SwitchBot Smart Locks](https://neodyme.io/en/blog/switchbot)
 * [2026-10-27, 06:20:38](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf)
 * [2026-10-27, 00:31:44](https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure) - [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
