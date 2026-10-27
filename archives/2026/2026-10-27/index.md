@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 15:10:11](https://lobste.rs/s/jxoown/lonewolf_self_hosted_xmpp_server_rust) - [Lonewolf: a self-hosted XMPP server in Rust with embedded storage](https://github.com/lonewolf-im/lonewolf)
 * [2026-10-27, 14:56:00](https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023) - [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
 * [2026-10-27, 14:40:12](https://lobste.rs/s/d09iy3/compile_time_dependent_types) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 * [2026-10-27, 13:11:26](https://lobste.rs/s/en7rby/slughorn_gpu_vector_graphics) - [slughorn — GPU Vector Graphics](https://slughorn.io/)
