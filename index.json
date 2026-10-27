@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-10-27, 17:53:09",
+      "https://lobste.rs/s/kvije8/shift_theseus_toy_bit_provenance"
+    ],
+    [
+      "The Shift of Theseus — Toy Bit Provenance Abstract Domain",
+      "https://www.pypy.org/posts/2026/10/toy-bit-provenance.html"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 16:59:30",
       "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"
     ],
@@ -237,16 +247,6 @@
     [
       "Gram 3.4.0 released",
       "https://gram-editor.com/posts/release-3.4.0/"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 09:58:55",
-      "https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate"
-    ],
-    [
-      "About the compromised eMudhra intermediate CAs",
-      "https://support.apple.com/en-us/149555"
     ]
   ]
 ]
