@@ -2,6 +2,7 @@
 
 * [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 * [2026-10-27, 00:36:47](https://lobste.rs/s/uhfzlv/vcf_midwest_2026_building_living_90s) - [(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers](https://www.youtube.com/watch?v=mZfJ-sulqQs)
+* [2026-10-27, 00:31:44](https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure) - [Our Response To The eMudhra Key Disclosure Incident](https://go.dev/blog/emudhra-incident)
 * [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)
 * [2026-10-26, 23:44:15](https://lobste.rs/s/ihmfsc/passkey_is_worse) - [The passkey is worse](https://www.kcoleman.me/2026/10/22/hacked.html)
 * [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
@@ -9,7 +10,6 @@
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 * [2026-10-26, 17:53:05](https://lobste.rs/s/nxfown/result_c_26_dis_ballot) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
 * [2026-10-26, 17:47:50](https://lobste.rs/s/1h5kuj/pharo_14_released) - [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
-* [2026-10-26, 16:28:12](https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down) - [Web Page Crawler Revealed - tracking down requests from Contabo GmbH](https://bruceediger.com/posts/contabo-crawler/)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 15:40:59](https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under) - [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
