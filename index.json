@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-10-26, 23:14:56",
-      "https://lobste.rs/s/yhwhf4/meu_m3u_file_editor"
+      "2026-10-27, 00:36:47",
+      "https://lobste.rs/s/uhfzlv/vcf_midwest_2026_building_living_90s"
     ],
     [
-      "MEU - a M3U file editor",
-      "https://github.com/teknoraver/meu"
+      "(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers",
+      "https://www.youtube.com/watch?v=mZfJ-sulqQs"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 00:12:16",
+      "https://lobste.rs/s/cxxcik/shitty_screenshare"
+    ],
+    [
+      "Shitty Screenshare",
+      "http://shittyscreenshare.com"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 23:44:15",
+      "https://lobste.rs/s/ihmfsc/passkey_is_worse"
+    ],
+    [
+      "The passkey is worse",
+      "https://www.kcoleman.me/2026/10/22/hacked.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-10-26, 06:15:19",
-      "https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common"
-    ],
-    [
-      "OpenLDK: Bringing the Java World into Common Lisp",
-      "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/"
-    ]
-  ],
-  [
-    [
       "2026-10-26, 03:06:36",
       "https://lobste.rs/s/mu3xcd/writing_about_pratt_parsing_so_i_remember"
     ],
@@ -227,16 +237,6 @@
     [
       "Vim Classic",
       "https://vim-classic.org/"
-    ]
-  ],
-  [
-    [
-      "2026-10-25, 14:18:21",
-      "https://lobste.rs/s/kiivg2/partial_operator_precedence"
-    ],
-    [
-      "Partial Operator Precedence",
-      "https://ziglang.org/devlog/2026/#2026-10-24"
     ]
   ],
   [
