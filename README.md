@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-27, 16:45:26](https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer) - [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
+* [2026-10-27, 16:42:17](https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian) - [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
 * [2026-10-27, 14:56:00](https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023) - [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
 * [2026-10-27, 14:40:12](https://lobste.rs/s/d09iy3/compile_time_dependent_types) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 * [2026-10-27, 13:11:26](https://lobste.rs/s/en7rby/slughorn_gpu_vector_graphics) - [slughorn — GPU Vector Graphics](https://slughorn.io/)
@@ -17,14 +19,12 @@
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 * [2026-10-26, 17:47:50](https://lobste.rs/s/1h5kuj/pharo_14_released) - [Pharo 14 Released](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 16:28:12](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
-* [2026-10-26, 15:40:59](https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under) - [Heavenly delights of hashing numbers under EQUALP](https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html)
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 * [2026-10-26, 12:02:58](https://lobste.rs/s/olnqh2/websites_should_be_printable) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-26, 11:47:25](https://lobste.rs/s/p9obkt/gram_3_4_0_released) - [Gram 3.4.0 released](https://gram-editor.com/posts/release-3.4.0/)
 * [2026-10-26, 11:35:18](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xxdda9/what_are_you_doing_this_week)
 * [2026-10-26, 09:58:55](https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 * [2026-10-25, 23:13:40](https://lobste.rs/s/hzrmwz/simple_netbsd_webserver) - [Simple NetBSD webserver](https://bsandro.tech/posts/simple-netbsd-webserver/)
-* [2026-10-25, 15:09:29](https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous) - [POSIX wordexp(3) is dangerous](https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/)
 
 ## [Archives](archives/index.md)
 
