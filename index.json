@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-27, 17:53:09",
+      "https://lobste.rs/s/kvije8/shift_theseus_toy_bit_provenance"
+    ],
+    [
+      "The Shift of Theseus — Toy Bit Provenance Abstract Domain",
+      "https://www.pypy.org/posts/2026/10/toy-bit-provenance.html"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 16:59:30",
       "https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"
     ],
@@ -237,16 +247,6 @@
     [
       "About the compromised eMudhra intermediate CAs",
       "https://support.apple.com/en-us/149555"
-    ]
-  ],
-  [
-    [
-      "2026-10-25, 23:13:40",
-      "https://lobste.rs/s/hzrmwz/simple_netbsd_webserver"
-    ],
-    [
-      "Simple NetBSD webserver",
-      "https://bsandro.tech/posts/simple-netbsd-webserver/"
     ]
   ]
 ]
