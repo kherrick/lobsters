@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
+* [2026-10-28, 01:31:44](https://lobste.rs/s/qmvxuh/tailscale_ssh_investigation) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-28, 01:27:50](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5) - [Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5)
 * [2026-10-27, 22:06:07](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 20:10:56](https://lobste.rs/s/f3jpq3/next_circle_security_hell) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
@@ -8,7 +9,6 @@
 * [2026-10-27, 18:48:45](https://lobste.rs/s/7bbzjf/evening_with_berferd_which_cracker_is) - [An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)](https://www.cheswick.com/ches/papers/berferd.pdf)
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 18:28:06](https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live) - [1,447 emoji? We'll do it live](https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch)
-* [2026-10-27, 17:53:09](https://lobste.rs/s/kvije8/shift_theseus_toy_bit_provenance) - [The Shift of Theseus — Toy Bit Provenance Abstract Domain](https://www.pypy.org/posts/2026/10/toy-bit-provenance.html)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
 * [2026-10-27, 16:45:26](https://lobste.rs/s/opqtiv/finding_panics_with_call_graph_analyzer) - [Finding panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
 * [2026-10-27, 16:42:17](https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian) - [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
