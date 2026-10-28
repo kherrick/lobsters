@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-10-28, 09:52:32",
-      "https://lobste.rs/s/ejwkof/peel_free_open_source_uninstaller"
-    ],
-    [
-      "Peel: A free, open source uninstaller and cleaner for macOS",
-      "https://peel.tuguidragos.com"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 09:47:41",
       "https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c"
     ],
@@ -107,6 +97,16 @@
     [
       "This is not sustainable",
       "https://www.netmeister.org/blog/defense-ddos.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 01:31:44",
+      "https://lobste.rs/s/qmvxuh/tailscale_ssh_investigation"
+    ],
+    [
+      "Tailscale SSH: Investigation and remediation update",
+      "https://tailscale.com/ssh-investigation-update"
     ]
   ],
   [
