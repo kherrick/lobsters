@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 13:34:06](https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with) - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
 * [2026-10-28, 11:21:52](https://lobste.rs/s/7bxofm/mojo_modular_s_unified_device) - [Mojo: Modular’s unified device accelerator language](https://www.youtube.com/watch?v=yOMflrCRya0)
 * [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 10:56:21](https://lobste.rs/s/gqo17p/little_bit_slope_makes_up_for_lot_y) - [A Little Bit of Slope Makes Up For a Lot of Y-Intercept](https://www.youtube.com/watch?v=mE98Is1quwY)
