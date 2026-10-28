@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 18:34:16](https://lobste.rs/s/znfbwp/openbsd_jumpstart_8_0_quick_start_guide) - [OpenBSD Jumpstart 8.0: Quick Start Guide for New Users](https://openbsdjumpstart.org)
 * [2026-10-28, 16:47:10](https://lobste.rs/s/m3gsln/hoot_0_10_0_released) - [Hoot 0.10.0 released](https://spritely.institute/news/hoot-0-10-0-released.html)
 * [2026-10-28, 16:07:18](https://lobste.rs/s/exwlmn/goto_considered_totally_sick_for_error) - [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/)
 * [2026-10-28, 15:53:34](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat) - [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat)
