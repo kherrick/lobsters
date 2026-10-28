@@ -3,6 +3,7 @@
 * [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
 * [2026-10-28, 01:27:50](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5) - [Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5)
 * [2026-10-27, 22:06:07](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+* [2026-10-27, 20:10:56](https://lobste.rs/s/f3jpq3/next_circle_security_hell) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-10-27, 19:08:23](https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli) - [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)
 * [2026-10-27, 18:48:45](https://lobste.rs/s/7bbzjf/evening_with_berferd_which_cracker_is) - [An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)](https://www.cheswick.com/ches/papers/berferd.pdf)
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
@@ -22,7 +23,6 @@
 * [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 18:44:53](https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor) - [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
-* [2026-10-26, 16:28:12](https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 13:25:41](https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email) - [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email)
 * [2026-10-26, 12:02:58](https://lobste.rs/s/olnqh2/websites_should_be_printable) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 
