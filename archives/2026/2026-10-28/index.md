@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 14:03:03](https://lobste.rs/s/mnazv8/october_inflection_point_for_vibe_game) - [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)
 * [2026-10-28, 13:34:06](https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with) - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
 * [2026-10-28, 11:21:52](https://lobste.rs/s/7bxofm/mojo_modular_s_unified_device) - [Mojo: Modular’s unified device accelerator language](https://www.youtube.com/watch?v=yOMflrCRya0)
 * [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)

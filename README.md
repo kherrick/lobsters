@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-28, 14:03:03](https://lobste.rs/s/mnazv8/october_inflection_point_for_vibe_game) - [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)
 * [2026-10-28, 13:34:06](https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with) - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
 * [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 10:34:55](https://lobste.rs/s/yxuvie/alpinebsd) - [AlpineBSD](https://wiki.alpinebsd.org/)
@@ -23,7 +24,6 @@
 * [2026-10-27, 14:56:00](https://lobste.rs/s/tp0zlk/stackless_floodfill_automation_2023) - [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf)
 * [2026-10-27, 14:40:12](https://lobste.rs/s/d09iy3/compile_time_dependent_types) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 * [2026-10-27, 06:20:38](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
-* [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf)
 * [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)
 
 ## [Archives](archives/index.md)
