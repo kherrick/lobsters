@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 07:57:21](https://lobste.rs/s/ml4m9a/who_s_0xabadbabe_why_2011) - [Who’s 0xabadbabe and why? (2011)](https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/)
 * [2026-10-28, 07:26:03](https://lobste.rs/s/vekgyd/scalable_vector_grief) - [Scalable Vector Grief](https://portswigger.net/research/scalable-vector-grief)
 * [2026-10-28, 04:29:06](https://lobste.rs/s/hafqkn/git_for_us_code) - [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
 * [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
