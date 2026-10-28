@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 10:56:21](https://lobste.rs/s/gqo17p/little_bit_slope_makes_up_for_lot_y) - [A Little Bit of Slope Makes Up For a Lot of Y-Intercept](https://www.youtube.com/watch?v=mE98Is1quwY)
 * [2026-10-28, 10:34:55](https://lobste.rs/s/yxuvie/alpinebsd) - [AlpineBSD](https://wiki.alpinebsd.org/)
 * [2026-10-28, 10:12:59](https://lobste.rs/s/46sc07/start_doing_graph_theory) - [Start Doing Graph Theory](https://vertex.degree/)
 * [2026-10-28, 10:12:06](https://lobste.rs/s/fcwca6/hunger_beats_tenure_advice_for_junior) - [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
