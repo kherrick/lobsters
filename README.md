@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
 * [2026-10-28, 01:27:50](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5) - [Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5)
 * [2026-10-27, 22:06:07](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
-* [2026-10-27, 21:02:51](https://lobste.rs/s/3bgocs/coders_rights_project_reverse) - [Coders’ Rights Project Reverse Engineering FAQ (2017)](https://www.eff.org/issues/coders/reverse-engineering-faq)
 * [2026-10-27, 19:08:23](https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli) - [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)
 * [2026-10-27, 18:48:45](https://lobste.rs/s/7bbzjf/evening_with_berferd_which_cracker_is) - [An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)](https://www.cheswick.com/ches/papers/berferd.pdf)
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
