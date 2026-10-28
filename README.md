@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-28, 10:12:59](https://lobste.rs/s/46sc07/start_doing_graph_theory) - [Start Doing Graph Theory](https://vertex.degree/)
+* [2026-10-28, 10:12:06](https://lobste.rs/s/fcwca6/hunger_beats_tenure_advice_for_junior) - [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
 * [2026-10-28, 09:52:32](https://lobste.rs/s/ejwkof/peel_free_open_source_uninstaller) - [Peel: A free, open source uninstaller and cleaner for macOS](https://peel.tuguidragos.com)
 * [2026-10-28, 09:47:41](https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c) - [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
 * [2026-10-28, 09:18:31](https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware) - [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
@@ -22,8 +24,6 @@
 * [2026-10-27, 06:20:38](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 00:39:50](https://lobste.rs/s/pq6ju6/exponential_time_hypothesis_is_false_pdf) - [The Exponential Time Hypothesis Is False [pdf]](https://files.mathhelm.org/files/733/The-Exponential-Time-Hypothesis-is-False-October-25-2026.pdf)
 * [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)
-* [2026-10-26, 19:49:43](https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
-* [2026-10-26, 18:44:53](https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor) - [A faster way to compute signed 64-bit floor division by constants](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-26, 17:55:19](https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 
 ## [Archives](archives/index.md)
