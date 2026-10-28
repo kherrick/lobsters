@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-28, 09:18:31](https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware) - [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
 * [2026-10-28, 08:32:09](https://lobste.rs/s/smtpje/benchmarking_crisis) - [The Benchmarking Crisis](http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html)
 * [2026-10-28, 07:57:21](https://lobste.rs/s/ml4m9a/who_s_0xabadbabe_why_2011) - [Who’s 0xabadbabe and why? (2011)](https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/)
 * [2026-10-28, 07:26:03](https://lobste.rs/s/vekgyd/scalable_vector_grief) - [Scalable Vector Grief](https://portswigger.net/research/scalable-vector-grief)
@@ -9,7 +10,6 @@
 * [2026-10-27, 22:06:07](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 20:10:56](https://lobste.rs/s/f3jpq3/next_circle_security_hell) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-10-27, 19:08:23](https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli) - [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)
-* [2026-10-27, 18:48:45](https://lobste.rs/s/7bbzjf/evening_with_berferd_which_cracker_is) - [An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)](https://www.cheswick.com/ches/papers/berferd.pdf)
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 18:28:06](https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live) - [1,447 emoji? We'll do it live](https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
