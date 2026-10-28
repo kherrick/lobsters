@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-28, 16:07:18](https://lobste.rs/s/exwlmn/goto_considered_totally_sick_for_error) - [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/)
+* [2026-10-28, 15:53:34](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat) - [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat)
 * [2026-10-28, 14:23:20](https://lobste.rs/s/3jyfg9/making_simd_code_scale_any_vector_width) - [Making SIMD Code Scale to Any Vector Width](https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/)
 * [2026-10-28, 14:03:03](https://lobste.rs/s/mnazv8/october_inflection_point_for_vibe_game) - [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)
 * [2026-10-28, 13:39:42](https://lobste.rs/s/hqcvyj/raspberry_pi_zero_3_w_pi_4_model_on_way) - [Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
@@ -21,7 +22,6 @@
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 18:28:06](https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live) - [1,447 emoji? We'll do it live](https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
-* [2026-10-27, 16:42:17](https://lobste.rs/s/rs6ce2/filian_fil_c_binaries_on_debian) - [Filian, Fil-C binaries on Debian](https://cr.yp.to/2025/fil-c.html)
 * [2026-10-27, 14:40:12](https://lobste.rs/s/d09iy3/compile_time_dependent_types) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 * [2026-10-27, 06:20:38](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 00:12:16](https://lobste.rs/s/cxxcik/shitty_screenshare) - [Shitty Screenshare](http://shittyscreenshare.com)

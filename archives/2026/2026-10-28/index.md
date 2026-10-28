@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
 * [2026-10-28, 16:07:18](https://lobste.rs/s/exwlmn/goto_considered_totally_sick_for_error) - [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/)
+* [2026-10-28, 15:53:34](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat) - [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat)
 * [2026-10-28, 14:23:20](https://lobste.rs/s/3jyfg9/making_simd_code_scale_any_vector_width) - [Making SIMD Code Scale to Any Vector Width](https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/)
 * [2026-10-28, 14:03:03](https://lobste.rs/s/mnazv8/october_inflection_point_for_vibe_game) - [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)
 * [2026-10-28, 13:39:42](https://lobste.rs/s/hqcvyj/raspberry_pi_zero_3_w_pi_4_model_on_way) - [Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
