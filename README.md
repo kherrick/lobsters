@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+* [2026-10-28, 10:34:55](https://lobste.rs/s/yxuvie/alpinebsd) - [AlpineBSD](https://wiki.alpinebsd.org/)
 * [2026-10-28, 10:12:59](https://lobste.rs/s/46sc07/start_doing_graph_theory) - [Start Doing Graph Theory](https://vertex.degree/)
 * [2026-10-28, 10:12:06](https://lobste.rs/s/fcwca6/hunger_beats_tenure_advice_for_junior) - [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
 * [2026-10-28, 09:52:32](https://lobste.rs/s/ejwkof/peel_free_open_source_uninstaller) - [Peel: A free, open source uninstaller and cleaner for macOS](https://peel.tuguidragos.com)
@@ -10,7 +11,6 @@
 * [2026-10-28, 07:57:21](https://lobste.rs/s/ml4m9a/who_s_0xabadbabe_why_2011) - [Who’s 0xabadbabe and why? (2011)](https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/)
 * [2026-10-28, 07:26:03](https://lobste.rs/s/vekgyd/scalable_vector_grief) - [Scalable Vector Grief](https://portswigger.net/research/scalable-vector-grief)
 * [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
-* [2026-10-28, 01:31:44](https://lobste.rs/s/qmvxuh/tailscale_ssh_investigation) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-28, 01:27:50](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5) - [Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5)
 * [2026-10-27, 22:06:07](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 20:10:56](https://lobste.rs/s/f3jpq3/next_circle_security_hell) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
