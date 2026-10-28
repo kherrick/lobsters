@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 23:01:26](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted) - [GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 * [2026-10-28, 18:55:15](https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script) - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 18:34:16](https://lobste.rs/s/znfbwp/openbsd_jumpstart_8_0_quick_start_guide) - [OpenBSD Jumpstart 8.0: Quick Start Guide for New Users](https://openbsdjumpstart.org)
 * [2026-10-28, 16:47:10](https://lobste.rs/s/m3gsln/hoot_0_10_0_released) - [Hoot 0.10.0 released](https://spritely.institute/news/hoot-0-10-0-released.html)
