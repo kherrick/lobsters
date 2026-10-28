@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 11:21:52](https://lobste.rs/s/7bxofm/mojo_modular_s_unified_device) - [Mojo: Modular’s unified device accelerator language](https://www.youtube.com/watch?v=yOMflrCRya0)
 * [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 10:56:21](https://lobste.rs/s/gqo17p/little_bit_slope_makes_up_for_lot_y) - [A Little Bit of Slope Makes Up For a Lot of Y-Intercept](https://www.youtube.com/watch?v=mE98Is1quwY)
 * [2026-10-28, 10:34:55](https://lobste.rs/s/yxuvie/alpinebsd) - [AlpineBSD](https://wiki.alpinebsd.org/)
