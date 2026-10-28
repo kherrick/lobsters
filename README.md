@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-28, 11:21:52](https://lobste.rs/s/7bxofm/mojo_modular_s_unified_device) - [Mojo: Modular’s unified device accelerator language](https://www.youtube.com/watch?v=yOMflrCRya0)
 * [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 10:12:59](https://lobste.rs/s/46sc07/start_doing_graph_theory) - [Start Doing Graph Theory](https://vertex.degree/)
+* [2026-10-28, 10:12:06](https://lobste.rs/s/fcwca6/hunger_beats_tenure_advice_for_junior) - [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
 * [2026-10-28, 09:52:32](https://lobste.rs/s/ejwkof/peel_free_open_source_uninstaller) - [Peel: A free, open source uninstaller and cleaner for macOS](https://peel.tuguidragos.com)
 * [2026-10-28, 09:47:41](https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c) - [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
 * [2026-10-28, 09:18:31](https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware) - [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
