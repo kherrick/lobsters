@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-28, 18:55:15",
+      "https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script"
+    ],
+    [
+      "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "https://nullpt.rs/fingerprinting-bioweapons"
+    ]
+  ],
+  [
+    [
       "2026-10-28, 18:34:16",
       "https://lobste.rs/s/znfbwp/openbsd_jumpstart_8_0_quick_start_guide"
     ],
@@ -67,6 +77,16 @@
     [
       "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
       "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 13:22:52",
+      "https://lobste.rs/s/sd75mw/foundational_cryptography_spark"
+    ],
+    [
+      "Foundational Cryptography in SPARK",
+      "https://www.adacore.com/blog/foundational-cryptography-in-spark"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-10-27, 20:10:56",
-      "https://lobste.rs/s/f3jpq3/next_circle_security_hell"
-    ],
-    [
-      "The next circle of security hell",
-      "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/"
-    ]
-  ],
-  [
-    [
       "2026-10-27, 18:46:09",
       "https://lobste.rs/s/qr59sa/four_months_zig"
     ],
@@ -217,16 +227,6 @@
     [
       "A fast and secure tar parser for the Rust ecosystem",
       "https://astral.sh/blog/tar-codec"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 14:40:12",
-      "https://lobste.rs/s/d09iy3/compile_time_dependent_types"
-    ],
-    [
-      "Compile-Time Dependent Types",
-      "https://thenumb.at/Syl-Intro/"
     ]
   ],
   [
