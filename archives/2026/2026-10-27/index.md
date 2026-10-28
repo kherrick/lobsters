@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
 * [2026-10-27, 22:06:07](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+* [2026-10-27, 21:02:51](https://lobste.rs/s/3bgocs/coders_rights_project_reverse) - [Coders’ Rights Project Reverse Engineering FAQ (2017)](https://www.eff.org/issues/coders/reverse-engineering-faq)
 * [2026-10-27, 20:12:39](https://lobste.rs/s/8thxi2/fixing_kio_copy_usb_stick_network) - [Fixing KIO copy to USB stick and network filesystems](https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/)
 * [2026-10-27, 20:10:56](https://lobste.rs/s/f3jpq3/next_circle_security_hell) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-10-27, 19:08:23](https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli) - [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)
