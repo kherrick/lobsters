@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-10-29, 10:00:04",
+      "https://lobste.rs/s/zftely/qwenputer_fully_functioning"
+    ],
+    [
+      "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "https://divagr.com/blog/qwenputer"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 09:27:01",
       "https://lobste.rs/s/1hbwvl/go_empty_interface_explained_hidden_heap"
     ],
     [
       "Go Empty Interface Explained & The Hidden Heap Allocation",
       "https://www.youtube.com/watch?v=_BxdvkLLnDc"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 07:22:37",
-      "https://lobste.rs/s/udg9co/single_malformed_wap_push_sms_crashes_com"
-    ],
-    [
-      "A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)",
-      "https://smsofdeath.com/"
     ]
   ],
   [
