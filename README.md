@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-29, 19:00:39](https://lobste.rs/s/esit9r/cybersecurity_is_about_be_biggest) - [Cybersecurity Is About to Be the Biggest Problem in Tech](https://projectautonomy.substack.com/p/cybersecurity-is-about-to-be-the)
 * [2026-10-29, 16:32:18](https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-29, 16:17:42](https://lobste.rs/s/nexvnc/open_format_for_writing_agent_native) - [An open format for writing agent-native software requirements](https://slcr.dev/announcements#2026-10-29-slcr-launches)
 * [2026-10-29, 16:08:47](https://lobste.rs/s/tw3rsp/phorge) - [Phorge](https://www.phorge.it/)
@@ -12,6 +11,7 @@
 * [2026-10-29, 13:45:55](https://lobste.rs/s/4x3ten/building_nixos_using_nixtamal) - [Building NixOS using Nixtamal](https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/)
 * [2026-10-29, 12:07:26](https://lobste.rs/s/vfllme/nim_version_2_4_0_released) - [Nim version 2.4.0 released](https://nim-lang.org/blog/2026/10/28/nim-240.html)
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) - [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
+* [2026-10-29, 11:44:45](https://lobste.rs/s/25dapz/syrinx_censorship_resistant) - [Syrinx: A censorship-resistant communications platform](https://var0xyz.github.io/syrinx/)
 * [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
 * [2026-10-29, 04:24:28](https://lobste.rs/s/jmbjlu/future_trait_has_missing_state) - [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
