@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-29, 19:00:39](https://lobste.rs/s/esit9r/cybersecurity_is_about_be_biggest) - [Cybersecurity Is About to Be the Biggest Problem in Tech](https://projectautonomy.substack.com/p/cybersecurity-is-about-to-be-the)
 * [2026-10-29, 16:32:18](https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-29, 16:17:42](https://lobste.rs/s/nexvnc/open_format_for_writing_agent_native) - [An open format for writing agent-native software requirements](https://slcr.dev/announcements#2026-10-29-slcr-launches)
 * [2026-10-29, 16:08:47](https://lobste.rs/s/tw3rsp/phorge) - [Phorge](https://www.phorge.it/)
@@ -23,7 +24,6 @@
 * [2026-10-28, 16:07:18](https://lobste.rs/s/exwlmn/goto_considered_totally_sick_for_error) - [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/)
 * [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 10:34:55](https://lobste.rs/s/yxuvie/alpinebsd) - [AlpineBSD](https://wiki.alpinebsd.org/)
-* [2026-10-28, 09:18:31](https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware) - [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
 * [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
 
 ## [Archives](archives/index.md)

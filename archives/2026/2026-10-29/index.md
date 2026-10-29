@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 19:00:39](https://lobste.rs/s/esit9r/cybersecurity_is_about_be_biggest) - [Cybersecurity Is About to Be the Biggest Problem in Tech](https://projectautonomy.substack.com/p/cybersecurity-is-about-to-be-the)
 * [2026-10-29, 18:14:51](https://lobste.rs/s/v7defp/uji_small_composable_coding_agent) - [uji · A small, composable coding agent](https://uji.sh)
 * [2026-10-29, 18:14:51](https://lobste.rs/s/v7defp/uji_gentoo_coding_agents) - [Uji - Gentoo of Coding Agents](https://uji.sh)
 * [2026-10-29, 16:52:51](https://lobste.rs/s/ycqwny/noalloc_tooling_libraries_enforce_zero) - [noalloc: Tooling and libraries to enforce zero heap allocations in Golang](https://github.com/theconsensuslabs/noalloc)
