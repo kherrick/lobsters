@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 12:42:01](https://lobste.rs/s/w2tk85/you_already_don_t_understand_your_code) - [\"You Already Don't Understand Your Code\": What \"ten sorts in ten languages\" and various JS engines say about the abstraction we're living through now](https://george.mand.is/2026/10/you-already-dont-understand-your-code/)
 * [2026-10-29, 12:07:26](https://lobste.rs/s/vfllme/nim_version_2_4_0_released) - [Nim version 2.4.0 released](https://nim-lang.org/blog/2026/10/28/nim-240.html)
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_beginner_friendly_text) - [NetBSD adds a new beginner-friendly text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 11:44:45](https://lobste.rs/s/25dapz/syrinx_censorship_resistant) - [Syrinx: A censorship-resistant communications platform](https://var0xyz.github.io/syrinx/)
