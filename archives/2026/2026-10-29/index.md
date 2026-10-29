@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 07:22:37](https://lobste.rs/s/udg9co/single_malformed_wap_push_sms_crashes_com) - [A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)](https://smsofdeath.com/)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
 * [2026-10-29, 06:02:18](https://lobste.rs/s/kthain/uji_gentoo_coding_agents) - [Uji - Gentoo of Coding Agents](https://github.com/uji-labs/uji)
 * [2026-10-29, 04:24:28](https://lobste.rs/s/jmbjlu/future_trait_has_missing_state) - [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)

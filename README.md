@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-29, 07:22:37](https://lobste.rs/s/udg9co/single_malformed_wap_push_sms_crashes_com) - [A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)](https://smsofdeath.com/)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
 * [2026-10-29, 04:24:28](https://lobste.rs/s/jmbjlu/future_trait_has_missing_state) - [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
 * [2026-10-29, 04:13:20](https://lobste.rs/s/9h6lc4/acls_don_t_2009) - [ACLs don’t (2009)](https://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2009/HPL-2009-20.pdf)
@@ -21,7 +22,6 @@
 * [2026-10-28, 09:18:31](https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware) - [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
 * [2026-10-28, 08:32:09](https://lobste.rs/s/smtpje/benchmarking_crisis) - [The Benchmarking Crisis](http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html)
 * [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
-* [2026-10-28, 01:27:50](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5) - [Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's](https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5)
 * [2026-10-27, 22:06:07](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
