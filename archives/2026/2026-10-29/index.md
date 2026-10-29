@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 11:44:45](https://lobste.rs/s/25dapz/syrinx_censorship_resistant) - [Syrinx: A censorship-resistant communications platform](https://var0xyz.github.io/syrinx/)
 * [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-29, 09:27:01](https://lobste.rs/s/1hbwvl/go_empty_interface_explained_hidden_heap) - [Go Empty Interface Explained & The Hidden Heap Allocation](https://www.youtube.com/watch?v=_BxdvkLLnDc)
 * [2026-10-29, 07:39:00](https://lobste.rs/s/opmxlq/my_terminal_setup_2026_ghostty_tmux) - [My Terminal Setup in 2026: Ghostty, tmux, and Neovim](https://nick-liu.com/posts/my-terminal-setup-2026/)
