@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-29, 20:56:43](https://lobste.rs/s/dsrruj/london_meetup) - [London meetup](https://lobste.rs/s/dsrruj/london_meetup)
 * [2026-10-29, 20:33:44](https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment) - [C2PA's eMudhra Moment](https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html)
 * [2026-10-29, 16:32:18](https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-29, 16:17:42](https://lobste.rs/s/nexvnc/open_format_for_writing_agent_native) - [An open format for writing agent-native software requirements](https://slcr.dev/announcements#2026-10-29-slcr-launches)
@@ -10,7 +11,6 @@
 * [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 * [2026-10-29, 14:37:32](https://lobste.rs/s/j4ntsz/will_open_firmware_become_next_big_trend) - [Will Open Firmware Become the Next Big Trend in Electronic Music Gear?](https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/)
 * [2026-10-29, 13:45:55](https://lobste.rs/s/4x3ten/building_nixos_using_nixtamal) - [Building NixOS using Nixtamal](https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/)
-* [2026-10-29, 12:07:26](https://lobste.rs/s/vfllme/nim_version_2_4_0_released) - [Nim version 2.4.0 released](https://nim-lang.org/blog/2026/10/28/nim-240.html)
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) - [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
