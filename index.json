@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-29, 18:14:51",
-      "https://lobste.rs/s/v7defp/uji_gentoo_coding_agents"
-    ],
-    [
-      "Uji - Gentoo of Coding Agents",
-      "https://uji.sh"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 16:32:18",
       "https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii"
     ],
@@ -237,6 +227,16 @@
     [
       "AlpineBSD",
       "https://wiki.alpinebsd.org/"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 09:18:31",
+      "https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware"
+    ],
+    [
+      "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
     ]
   ],
   [
