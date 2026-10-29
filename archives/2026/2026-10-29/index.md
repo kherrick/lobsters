@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 20:33:44](https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment) - [C2PA's eMudhra Moment](https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html)
 * [2026-10-29, 19:00:39](https://lobste.rs/s/esit9r/cybersecurity_is_about_be_biggest) - [Cybersecurity Is About to Be the Biggest Problem in Tech](https://projectautonomy.substack.com/p/cybersecurity-is-about-to-be-the)
 * [2026-10-29, 18:14:51](https://lobste.rs/s/v7defp/uji_small_composable_coding_agent) - [uji · A small, composable coding agent](https://uji.sh)
 * [2026-10-29, 18:14:51](https://lobste.rs/s/v7defp/uji_gentoo_coding_agents) - [Uji - Gentoo of Coding Agents](https://uji.sh)
