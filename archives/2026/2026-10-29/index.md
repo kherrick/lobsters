@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 14:57:21](https://lobste.rs/s/gttasf/azure_s_weakest_link_five_full_cross) - [Azure’s Weakest Link - Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 * [2026-10-29, 14:37:32](https://lobste.rs/s/j4ntsz/will_open_firmware_become_next_big_trend) - [Will Open Firmware Become the Next Big Trend in Electronic Music Gear?](https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/)
 * [2026-10-29, 13:45:55](https://lobste.rs/s/4x3ten/building_nixos_using_nixtamal) - [Building NixOS using Nixtamal](https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/)
