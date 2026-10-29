@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-29, 02:13:24](https://lobste.rs/s/dqexzg/case_9_bit_aes_key) - [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
+* [2026-10-29, 02:04:00](https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary) - [Redox Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
 * [2026-10-29, 00:30:45](https://lobste.rs/s/ssp7ug/introducing_accessible_components) - [Introducing the Accessible Components Library](https://tetralogical.com/blog/2026/10/14/accessible-components-library/)
 * [2026-10-28, 23:57:12](https://lobste.rs/s/uimyck/emacs_turns_50) - [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
 * [2026-10-28, 23:01:26](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted) - [GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
@@ -7,7 +9,6 @@
 * [2026-10-28, 16:47:10](https://lobste.rs/s/m3gsln/hoot_0_10_0_released) - [Hoot 0.10.0 released](https://spritely.institute/news/hoot-0-10-0-released.html)
 * [2026-10-28, 16:07:18](https://lobste.rs/s/exwlmn/goto_considered_totally_sick_for_error) - [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/)
 * [2026-10-28, 15:53:34](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat) - [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat)
-* [2026-10-28, 14:23:20](https://lobste.rs/s/3jyfg9/making_simd_code_scale_any_vector_width) - [Making SIMD Code Scale to Any Vector Width](https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/)
 * [2026-10-28, 13:39:42](https://lobste.rs/s/hqcvyj/raspberry_pi_zero_3_w_pi_4_model_on_way) - [Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
 * [2026-10-28, 13:34:06](https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with) - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
 * [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
@@ -24,7 +25,6 @@
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 18:28:06](https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live) - [1,447 emoji? We'll do it live](https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch)
 * [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
-* [2026-10-27, 06:20:38](https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 
 ## [Archives](archives/index.md)
 
