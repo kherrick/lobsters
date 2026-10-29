@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-29, 16:08:47](https://lobste.rs/s/tw3rsp/phorge) - [Phorge](https://www.phorge.it/)
+* [2026-10-29, 16:00:03](https://lobste.rs/s/uezack/coding_agents_starter_kits_pgledger) - [Coding Agents, Starter Kits and pgledger](https://www.pgrs.net/2026/10/29/coding-agents-starter-kits-and-pgledger/)
 * [2026-10-29, 15:44:47](https://lobste.rs/s/x6n380/web_can_t_afford_javascript_runtime) - [The Web Can't Afford a JavaScript Runtime Monoculture](https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/)
-* [2026-10-29, 14:57:21](https://lobste.rs/s/gttasf/azure_s_weakest_link_five_full_cross) - [Azure’s Weakest Link - Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 * [2026-10-29, 13:45:55](https://lobste.rs/s/4x3ten/building_nixos_using_nixtamal) - [Building NixOS using Nixtamal](https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/)
 * [2026-10-29, 12:07:26](https://lobste.rs/s/vfllme/nim_version_2_4_0_released) - [Nim version 2.4.0 released](https://nim-lang.org/blog/2026/10/28/nim-240.html)
@@ -24,7 +25,6 @@
 * [2026-10-28, 10:34:55](https://lobste.rs/s/yxuvie/alpinebsd) - [AlpineBSD](https://wiki.alpinebsd.org/)
 * [2026-10-28, 09:18:31](https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware) - [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
 * [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
-* [2026-10-27, 16:59:30](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) - [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec)
 
 ## [Archives](archives/index.md)
 

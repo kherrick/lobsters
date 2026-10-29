@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 16:08:47](https://lobste.rs/s/tw3rsp/phorge) - [Phorge](https://www.phorge.it/)
+* [2026-10-29, 16:00:03](https://lobste.rs/s/uezack/coding_agents_starter_kits_pgledger) - [Coding Agents, Starter Kits and pgledger](https://www.pgrs.net/2026/10/29/coding-agents-starter-kits-and-pgledger/)
 * [2026-10-29, 15:44:47](https://lobste.rs/s/x6n380/web_can_t_afford_javascript_runtime) - [The Web Can't Afford a JavaScript Runtime Monoculture](https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/)
 * [2026-10-29, 14:57:21](https://lobste.rs/s/gttasf/azure_s_weakest_link_five_full_cross) - [Azure’s Weakest Link - Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
