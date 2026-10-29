@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-29, 09:27:01](https://lobste.rs/s/1hbwvl/go_empty_interface_explained_hidden_heap) - [Go Empty Interface Explained & The Hidden Heap Allocation](https://www.youtube.com/watch?v=_BxdvkLLnDc)
 * [2026-10-29, 07:22:37](https://lobste.rs/s/udg9co/single_malformed_wap_push_sms_crashes_com) - [A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)](https://smsofdeath.com/)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
 * [2026-10-29, 04:24:28](https://lobste.rs/s/jmbjlu/future_trait_has_missing_state) - [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
@@ -20,7 +21,6 @@
 * [2026-10-28, 10:12:59](https://lobste.rs/s/46sc07/start_doing_graph_theory) - [Start Doing Graph Theory](https://vertex.degree/)
 * [2026-10-28, 09:47:41](https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c) - [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
 * [2026-10-28, 09:18:31](https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware) - [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
-* [2026-10-28, 08:32:09](https://lobste.rs/s/smtpje/benchmarking_crisis) - [The Benchmarking Crisis](http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html)
 * [2026-10-28, 03:56:49](https://lobste.rs/s/cpaibp/this_is_not_sustainable) - [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html)
 * [2026-10-27, 22:06:07](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 18:46:09](https://lobste.rs/s/qr59sa/four_months_zig) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
