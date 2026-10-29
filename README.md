@@ -4,7 +4,7 @@
 * [2026-10-29, 02:04:00](https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary) - [Redox Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
 * [2026-10-29, 00:30:45](https://lobste.rs/s/ssp7ug/introducing_accessible_components) - [Introducing the Accessible Components Library](https://tetralogical.com/blog/2026/10/14/accessible-components-library/)
 * [2026-10-28, 23:57:12](https://lobste.rs/s/uimyck/emacs_turns_50) - [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
-* [2026-10-28, 23:01:26](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted) - [GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+* [2026-10-28, 23:01:26](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted) - [GitLab security incident: attempted exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 * [2026-10-28, 18:55:15](https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script) - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 16:47:10](https://lobste.rs/s/m3gsln/hoot_0_10_0_released) - [Hoot 0.10.0 released](https://spritely.institute/news/hoot-0-10-0-released.html)
 * [2026-10-28, 16:07:18](https://lobste.rs/s/exwlmn/goto_considered_totally_sick_for_error) - [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/)
