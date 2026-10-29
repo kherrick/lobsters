@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-29, 15:44:47](https://lobste.rs/s/x6n380/web_can_t_afford_javascript_runtime) - [The Web Can't Afford a JavaScript Runtime Monoculture](https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/)
 * [2026-10-29, 14:57:21](https://lobste.rs/s/gttasf/azure_s_weakest_link_five_full_cross) - [Azure’s Weakest Link - Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 * [2026-10-29, 13:45:55](https://lobste.rs/s/4x3ten/building_nixos_using_nixtamal) - [Building NixOS using Nixtamal](https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/)
@@ -7,7 +8,6 @@
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) - [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 11:44:45](https://lobste.rs/s/25dapz/syrinx_censorship_resistant) - [Syrinx: A censorship-resistant communications platform](https://var0xyz.github.io/syrinx/)
 * [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
-* [2026-10-29, 09:27:01](https://lobste.rs/s/1hbwvl/go_empty_interface_explained_hidden_heap) - [Go Empty Interface Explained & The Hidden Heap Allocation](https://www.youtube.com/watch?v=_BxdvkLLnDc)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
 * [2026-10-29, 04:24:28](https://lobste.rs/s/jmbjlu/future_trait_has_missing_state) - [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
 * [2026-10-29, 02:13:24](https://lobste.rs/s/dqexzg/case_9_bit_aes_key) - [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
