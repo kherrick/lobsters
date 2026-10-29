@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 07:39:00](https://lobste.rs/s/opmxlq/my_terminal_setup_2026_ghostty_tmux) - [My Terminal Setup in 2026: Ghostty, tmux, and Neovim](https://nick-liu.com/posts/my-terminal-setup-2026/)
 * [2026-10-29, 07:22:37](https://lobste.rs/s/udg9co/single_malformed_wap_push_sms_crashes_com) - [A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)](https://smsofdeath.com/)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
 * [2026-10-29, 06:02:18](https://lobste.rs/s/kthain/uji_gentoo_coding_agents) - [Uji - Gentoo of Coding Agents](https://github.com/uji-labs/uji)
