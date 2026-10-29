@@ -22,10 +22,10 @@
   [
     [
       "2026-10-29, 11:58:00",
-      "https://lobste.rs/s/m6fw0x/netbsd_adds_new_beginner_friendly_text"
+      "https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor"
     ],
     [
-      "NetBSD adds a new beginner-friendly text editor called atto",
+      "NetBSD adds a new Emacs-like text editor called atto",
       "https://mastodon.sdf.org/@netbsd/117518160563539748"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
       "https://divagr.com/blog/qwenputer"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 09:27:01",
+      "https://lobste.rs/s/1hbwvl/go_empty_interface_explained_hidden_heap"
+    ],
+    [
+      "Go Empty Interface Explained & The Hidden Heap Allocation",
+      "https://www.youtube.com/watch?v=_BxdvkLLnDc"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Start Doing Graph Theory",
       "https://vertex.degree/"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 09:47:41",
-      "https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c"
-    ],
-    [
-      "Billion-query-per-second lookup tables in C++",
-      "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/"
     ]
   ],
   [
