@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-30, 18:20:43](https://lobste.rs/s/1sni1w/linux_kernel_tcp_flaw_with_9_8_cvss_score) - [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
 * [2026-10-30, 17:57:54](https://lobste.rs/s/ukj8mm/federated_code_forge) - [The federated code forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 17:54:52](https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432) - [Protecting against CVE-2026-98432](https://groups.google.com/g/golang-announce/c/PCoQcdxoScw)
 * [2026-10-30, 16:49:53](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links) - [Rationale for filtering LLM usage links as off-topic](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links)
@@ -16,7 +17,6 @@
 * [2026-10-30, 03:58:19](https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released) - [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445)
 * [2026-10-30, 01:29:00](https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up) - [If you love a website, back it up](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 * [2026-10-30, 01:04:38](https://lobste.rs/s/qqelq1/design_interface_for_functionality_not) - [Design the interface for functionality not familiarity](https://lapcatsoftware.com/articles/2026/10/10.html)
-* [2026-10-29, 23:55:54](https://lobste.rs/s/1r7enm/xss_yarr_rss_reader) - [XSS in yarr RSS reader](https://0x67673068.me/xss-in-yarr/)
 * [2026-10-29, 20:56:43](https://lobste.rs/s/dsrruj/london_meetup) - [London meetup](https://lobste.rs/s/dsrruj/london_meetup)
 * [2026-10-29, 20:33:44](https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment) - [C2PA's eMudhra Moment](https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html)
 * [2026-10-29, 16:32:18](https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)

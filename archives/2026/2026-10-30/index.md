@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 18:20:43](https://lobste.rs/s/1sni1w/linux_kernel_tcp_flaw_with_9_8_cvss_score) - [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
 * [2026-10-30, 17:57:54](https://lobste.rs/s/ukj8mm/federated_code_forge) - [The federated code forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 17:54:52](https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432) - [Protecting against CVE-2026-98432](https://groups.google.com/g/golang-announce/c/PCoQcdxoScw)
 * [2026-10-30, 17:38:12](https://lobste.rs/s/uue7xa/anthropic_has_quietly_told_claude_code) - [Anthropic has quietly told Claude Code to stop remaking existing video games](https://madrobot.blog/2026/10/30/claude-code-rule-no-existing-game-recreations/)
