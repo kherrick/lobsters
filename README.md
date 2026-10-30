@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-30, 11:22:43](https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
+* [2026-10-30, 11:04:55](https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor) - [Backdoors in Claude Code for VS, Cursor official extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
 * [2026-10-30, 09:55:20](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend)
 * [2026-10-30, 08:39:47](https://lobste.rs/s/76otqu/victorialogs_vs_loki_elasticsearch) - [VictoriaLogs vs Loki, Elasticsearch, OpenSearch, SigNoz and ClickStack on structured log ingestion](https://victoriametrics.com/blog/structured-log-ingestion-benchmark/)
 * [2026-10-30, 07:39:04](https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys) - [arm64e pointer authentication: PAC keys, PACIASP, A12](https://sigreturn.com/blog/pointer-authentication-arm64e/)
