@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-30, 07:39:04",
+      "https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys"
+    ],
+    [
+      "arm64e pointer authentication: PAC keys, PACIASP, A12",
+      "https://sigreturn.com/blog/pointer-authentication-arm64e/"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 07:24:01",
       "https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing"
     ],
@@ -147,16 +157,6 @@
     [
       "Building NixOS using Nixtamal",
       "https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 12:07:26",
-      "https://lobste.rs/s/vfllme/nim_version_2_4_0_released"
-    ],
-    [
-      "Nim version 2.4.0 released",
-      "https://nim-lang.org/blog/2026/10/28/nim-240.html"
     ]
   ],
   [
