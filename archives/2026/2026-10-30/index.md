@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 09:55:20](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend)
 * [2026-10-30, 08:39:47](https://lobste.rs/s/76otqu/victorialogs_vs_loki_elasticsearch) - [VictoriaLogs vs Loki, Elasticsearch, OpenSearch, SigNoz and ClickStack on structured log ingestion](https://victoriametrics.com/blog/structured-log-ingestion-benchmark/)
 * [2026-10-30, 07:39:04](https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys) - [arm64e pointer authentication: PAC keys, PACIASP, A12](https://sigreturn.com/blog/pointer-authentication-arm64e/)
 * [2026-10-30, 07:24:01](https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing) - [How curl was accidentally Turing-complete for nine months](https://seriot.ch/computation/curl.html)

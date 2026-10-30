@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-30, 09:55:20](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend)
 * [2026-10-30, 08:39:47](https://lobste.rs/s/76otqu/victorialogs_vs_loki_elasticsearch) - [VictoriaLogs vs Loki, Elasticsearch, OpenSearch, SigNoz and ClickStack on structured log ingestion](https://victoriametrics.com/blog/structured-log-ingestion-benchmark/)
 * [2026-10-30, 07:39:04](https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys) - [arm64e pointer authentication: PAC keys, PACIASP, A12](https://sigreturn.com/blog/pointer-authentication-arm64e/)
 * [2026-10-30, 07:24:01](https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing) - [How curl was accidentally Turing-complete for nine months](https://seriot.ch/computation/curl.html)
@@ -20,7 +21,6 @@
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) - [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
-* [2026-10-29, 04:24:28](https://lobste.rs/s/jmbjlu/future_trait_has_missing_state) - [The Future Trait Has A Missing State](https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state)
 * [2026-10-28, 23:57:12](https://lobste.rs/s/uimyck/emacs_turns_50) - [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
 * [2026-10-28, 23:01:26](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted) - [GitLab security incident: attempted exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 * [2026-10-28, 18:55:15](https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script) - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
