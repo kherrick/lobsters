@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 16:06:56](https://lobste.rs/s/fskctn/infinite_mac_beos) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 * [2026-10-30, 15:39:37](https://lobste.rs/s/mhmqky/go_1_28_s_http_2_parking_measuring_memory) - [Go 1.28's HTTP/2 Parking: Measuring Memory Savings](https://abdolirad.me/articles/go-1-28-http2-parking-memory/)
 * [2026-10-30, 15:19:16](https://lobste.rs/s/srnmml/reviewing_vs_doing) - [Reviewing vs Doing](https://youtu.be/www4Q-EbD_4)
 * [2026-10-30, 15:04:44](https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource) - [Shrinking NixOS Ram footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
