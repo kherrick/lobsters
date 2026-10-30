@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-30, 04:23:55",
+      "https://lobste.rs/s/lob0sj/zshrs_pure_rust_zsh_superset_unix_shell"
+    ],
+    [
+      "zshrs, a pure rust zsh superset UNIX shell with a JIT",
+      "https://github.com/MenkeTechnologies/zshrs"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 03:58:19",
       "https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released"
     ],
@@ -237,16 +247,6 @@
     [
       "Apple's git still trusts the compromised eMudhra certificates",
       "https://emudhra.we-have-a-problem.com/apple.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 10:34:55",
-      "https://lobste.rs/s/yxuvie/alpinebsd"
-    ],
-    [
-      "AlpineBSD",
-      "https://wiki.alpinebsd.org/"
     ]
   ]
 ]
