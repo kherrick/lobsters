@@ -3,7 +3,7 @@
 * [2026-10-30, 15:39:37](https://lobste.rs/s/mhmqky/go_1_28_s_http_2_parking_measuring_memory) - [Go 1.28's HTTP/2 Parking: Measuring Memory Savings](https://abdolirad.me/articles/go-1-28-http2-parking-memory/)
 * [2026-10-30, 15:19:16](https://lobste.rs/s/srnmml/reviewing_vs_doing) - [Reviewing vs Doing](https://youtu.be/www4Q-EbD_4)
 * [2026-10-30, 15:01:56](https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem) - [No, npm, “estee” is not a typo of “testem”](https://smoores.dev/post/no_npm_estee_is_not_a_typo/)
-* [2026-10-30, 13:54:17](https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026) - [Update on AO3 Downtime, October 30, 2026 | Organization for Transformative Works](https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/)
+* [2026-10-30, 13:54:17](https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026) - [Update on AO3 Downtime, October 30, 2026](https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/)
 * [2026-10-30, 13:04:57](https://lobste.rs/s/paqtgw/smart_audio_for_smart_home_2021) - [Smart audio for the smart home (2021)](https://computer.rip/2021-11-06-smart-audio-for-the-smart-home.html)
 * [2026-10-30, 11:22:43](https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
 * [2026-10-30, 11:04:55](https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor) - [Backdoors in Claude Code for VS, Cursor official extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
