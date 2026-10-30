@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-10-30, 16:50:44",
-      "https://lobste.rs/s/cctbcu/building_fine_grained_version_control"
+      "2026-10-30, 17:54:52",
+      "https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432"
     ],
     [
-      "Building fine-grained version control for agents with Rust and Durable Objects",
-      "https://delta.dev/blog/fine-grained-version-control-for-agents"
+      "Protecting against CVE-2026-98432",
+      "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 16:49:53",
+      "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links"
+    ],
+    [
+      "Rationale for filtering LLM usage links as off-topic",
+      "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "What the fox say?",
       "https://entropicthoughts.com/what-the-fox-say"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 23:57:12",
-      "https://lobste.rs/s/uimyck/emacs_turns_50"
-    ],
-    [
-      "EMACS turns 50",
-      "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/"
     ]
   ]
 ]
