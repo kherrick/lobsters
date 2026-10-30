@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-30, 01:29:00",
+      "https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"
+    ],
+    [
+      "If you love a website, back it up",
+      "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 01:04:38",
+      "https://lobste.rs/s/qqelq1/design_interface_for_functionality_not"
+    ],
+    [
+      "Design the interface for functionality not familiarity",
+      "https://lapcatsoftware.com/articles/2026/10/10.html"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 23:55:54",
       "https://lobste.rs/s/1r7enm/xss_yarr_rss_reader"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-10-29, 02:04:00",
-      "https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary"
-    ],
-    [
-      "Redox Ring Buffers Project Summary",
-      "https://www.redox-os.org/news/nlnet-rb-summary/"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 23:57:12",
       "https://lobste.rs/s/uimyck/emacs_turns_50"
     ],
@@ -237,16 +247,6 @@
     [
       "AlpineBSD",
       "https://wiki.alpinebsd.org/"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 03:56:49",
-      "https://lobste.rs/s/cpaibp/this_is_not_sustainable"
-    ],
-    [
-      "This is not sustainable",
-      "https://www.netmeister.org/blog/defense-ddos.html"
     ]
   ]
 ]
