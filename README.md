@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-30, 22:25:49](https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-10-30, 21:06:04](https://lobste.rs/s/dtvr7y/defending_patch_gap_against_automated) - [Defending the patch gap against automated attackers](https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/)
 * [2026-10-30, 20:00:34](https://lobste.rs/s/ncclwy/switch_lowering_gcc) - [Switch lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-30, 19:14:44](https://lobste.rs/s/uyobll/getting_google_cast_on_my_soundbar) - [Getting Google Cast on my Soundbar](https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/)
@@ -21,7 +22,6 @@
 * [2026-10-29, 20:56:43](https://lobste.rs/s/dsrruj/london_meetup) - [London meetup](https://lobste.rs/s/dsrruj/london_meetup)
 * [2026-10-29, 20:33:44](https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment) - [C2PA's eMudhra Moment](https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html)
 * [2026-10-29, 16:32:18](https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
-* [2026-10-29, 16:08:47](https://lobste.rs/s/tw3rsp/phorge) - [Phorge](https://www.phorge.it/)
 * [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) - [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)

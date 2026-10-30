@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 22:25:49](https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-10-30, 21:06:04](https://lobste.rs/s/dtvr7y/defending_patch_gap_against_automated) - [Defending the patch gap against automated attackers](https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/)
 * [2026-10-30, 20:54:21](https://lobste.rs/s/a2lcrh/why_antithesis) - [Why Antithesis?](https://antithesis.com/blog/2026/hillel-joins-antithesis/)
 * [2026-10-30, 20:00:34](https://lobste.rs/s/ncclwy/switch_lowering_gcc) - [Switch lowering in GCC](https://xoranth.net/gcc-switch/)
