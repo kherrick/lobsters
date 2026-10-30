@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 15:19:16](https://lobste.rs/s/srnmml/reviewing_vs_doing) - [Reviewing vs Doing](https://youtu.be/www4Q-EbD_4)
 * [2026-10-30, 15:04:44](https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource) - [Shrinking NixOS Ram footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
 * [2026-10-30, 15:01:56](https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem) - [No, npm, “estee” is not a typo of “testem”](https://smoores.dev/post/no_npm_estee_is_not_a_typo/)
 * [2026-10-30, 13:58:45](https://lobste.rs/s/jcfrjy/anthropic_hacked_deliver_remote_access) - [Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)

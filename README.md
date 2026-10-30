@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-30, 15:19:16](https://lobste.rs/s/srnmml/reviewing_vs_doing) - [Reviewing vs Doing](https://youtu.be/www4Q-EbD_4)
 * [2026-10-30, 15:04:44](https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource) - [Shrinking NixOS Ram footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
 * [2026-10-30, 15:01:56](https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem) - [No, npm, “estee” is not a typo of “testem”](https://smoores.dev/post/no_npm_estee_is_not_a_typo/)
 * [2026-10-30, 13:54:17](https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026) - [Update on AO3 Downtime, October 30, 2026 | Organization for Transformative Works](https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/)
@@ -24,7 +25,6 @@
 * [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
 * [2026-10-28, 23:57:12](https://lobste.rs/s/uimyck/emacs_turns_50) - [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
-* [2026-10-28, 11:03:56](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 
 ## [Archives](archives/index.md)
 
