@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 17:57:54](https://lobste.rs/s/ukj8mm/federated_code_forge) - [The federated code forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 17:54:52](https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432) - [Protecting against CVE-2026-98432](https://groups.google.com/g/golang-announce/c/PCoQcdxoScw)
 * [2026-10-30, 17:38:12](https://lobste.rs/s/uue7xa/anthropic_has_quietly_told_claude_code) - [Anthropic has quietly told Claude Code to stop remaking existing video games](https://madrobot.blog/2026/10/30/claude-code-rule-no-existing-game-recreations/)
 * [2026-10-30, 16:50:44](https://lobste.rs/s/cctbcu/building_fine_grained_version_control) - [Building fine-grained version control for agents with Rust and Durable Objects](https://delta.dev/blog/fine-grained-version-control-for-agents)
