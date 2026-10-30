@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 04:28:29](https://lobste.rs/s/pda3vp/ztmux_pure_rust_tmux_superset) - [ztmux the pure Rust tmux superset](https://github.com/MenkeTechnologies/ztmux)
 * [2026-10-30, 04:23:55](https://lobste.rs/s/lob0sj/zshrs_pure_rust_zsh_superset_unix_shell) - [zshrs, a pure rust zsh superset UNIX shell with a JIT](https://github.com/MenkeTechnologies/zshrs)
 * [2026-10-30, 03:58:19](https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released) - [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445)
 * [2026-10-30, 02:37:55](https://lobste.rs/s/tvapeg/gh_inbox_clean_up_github_notifications) - [gh-inbox: clean up GitHub notifications in bulk from the command line](https://github.com/maraino/gh-inbox)
