@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-30, 07:39:04](https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys) - [arm64e pointer authentication: PAC keys, PACIASP, A12](https://sigreturn.com/blog/pointer-authentication-arm64e/)
+* [2026-10-30, 08:39:47](https://lobste.rs/s/76otqu/victorialogs_vs_loki_elasticsearch) - [VictoriaLogs vs Loki, Elasticsearch, OpenSearch, SigNoz and ClickStack on structured log ingestion](https://victoriametrics.com/blog/structured-log-ingestion-benchmark/)
 * [2026-10-30, 07:24:01](https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing) - [How curl was accidentally Turing-complete for nine months](https://seriot.ch/computation/curl.html)
 * [2026-10-30, 03:58:19](https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released) - [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445)
 * [2026-10-30, 01:29:00](https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up) - [If you love a website, back it up](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
