@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-30, 13:58:45",
-      "https://lobste.rs/s/jcfrjy/anthropic_hacked_deliver_remote_access"
-    ],
-    [
-      "Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide",
-      "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 13:54:17",
       "https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026"
     ],
@@ -57,6 +47,16 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 07:39:04",
+      "https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys"
+    ],
+    [
+      "arm64e pointer authentication: PAC keys, PACIASP, A12",
+      "https://sigreturn.com/blog/pointer-authentication-arm64e/"
     ]
   ],
   [
