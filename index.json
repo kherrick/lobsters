@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-30, 20:54:21",
+      "https://lobste.rs/s/a2lcrh/why_antithesis"
+    ],
+    [
+      "Why Antithesis?",
+      "https://antithesis.com/blog/2026/hillel-joins-antithesis/"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 20:00:34",
       "https://lobste.rs/s/ncclwy/switch_lowering_gcc"
     ],
@@ -227,16 +237,6 @@
     [
       "NetBSD adds a new Emacs-like text editor called atto",
       "https://mastodon.sdf.org/@netbsd/117518160563539748"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 10:00:04",
-      "https://lobste.rs/s/zftely/qwenputer_fully_functioning"
-    ],
-    [
-      "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "https://divagr.com/blog/qwenputer"
     ]
   ],
   [
