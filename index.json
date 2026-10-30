@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-30, 07:39:04",
+      "https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys"
+    ],
+    [
+      "arm64e pointer authentication: PAC keys, PACIASP, A12",
+      "https://sigreturn.com/blog/pointer-authentication-arm64e/"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 07:24:01",
       "https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing"
     ],
@@ -197,16 +207,6 @@
     [
       "The Future Trait Has A Missing State",
       "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 02:13:24",
-      "https://lobste.rs/s/dqexzg/case_9_bit_aes_key"
-    ],
-    [
-      "The case of the 9 bit AES key",
-      "https://v12.sh/blog/the-case-of-the-9bit-aes-key"
     ]
   ],
   [
