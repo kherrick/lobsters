@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 17:54:52](https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432) - [Protecting against CVE-2026-98432](https://groups.google.com/g/golang-announce/c/PCoQcdxoScw)
 * [2026-10-30, 17:38:12](https://lobste.rs/s/uue7xa/anthropic_has_quietly_told_claude_code) - [Anthropic has quietly told Claude Code to stop remaking existing video games](https://madrobot.blog/2026/10/30/claude-code-rule-no-existing-game-recreations/)
 * [2026-10-30, 16:50:44](https://lobste.rs/s/cctbcu/building_fine_grained_version_control) - [Building fine-grained version control for agents with Rust and Durable Objects](https://delta.dev/blog/fine-grained-version-control-for-agents)
+* [2026-10-30, 16:49:53](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links) - [Rationale for filtering LLM usage links as off-topic](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links)
 * [2026-10-30, 16:06:56](https://lobste.rs/s/fskctn/infinite_mac_beos) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 * [2026-10-30, 15:39:37](https://lobste.rs/s/mhmqky/go_1_28_s_http_2_parking_measuring_memory) - [Go 1.28's HTTP/2 Parking: Measuring Memory Savings](https://abdolirad.me/articles/go-1-28-http2-parking-memory/)
 * [2026-10-30, 15:19:16](https://lobste.rs/s/srnmml/reviewing_vs_doing) - [Reviewing vs Doing](https://youtu.be/www4Q-EbD_4)

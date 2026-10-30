@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-30, 16:50:44](https://lobste.rs/s/cctbcu/building_fine_grained_version_control) - [Building fine-grained version control for agents with Rust and Durable Objects](https://delta.dev/blog/fine-grained-version-control-for-agents)
+* [2026-10-30, 17:54:52](https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432) - [Protecting against CVE-2026-98432](https://groups.google.com/g/golang-announce/c/PCoQcdxoScw)
+* [2026-10-30, 16:49:53](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links) - [Rationale for filtering LLM usage links as off-topic](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links)
 * [2026-10-30, 16:06:56](https://lobste.rs/s/fskctn/infinite_mac_beos) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 * [2026-10-30, 15:39:37](https://lobste.rs/s/mhmqky/go_1_28_s_http_2_parking_measuring_memory) - [Go 1.28's HTTP/2 Parking: Measuring Memory Savings](https://abdolirad.me/articles/go-1-28-http2-parking-memory/)
 * [2026-10-30, 15:04:44](https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource) - [Shrinking NixOS Ram footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
@@ -24,7 +25,6 @@
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) - [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
-* [2026-10-28, 23:57:12](https://lobste.rs/s/uimyck/emacs_turns_50) - [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
 
 ## [Archives](archives/index.md)
 
