@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 15:04:44](https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource) - [Shrinking NixOS Ram footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
+* [2026-10-30, 15:01:56](https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem) - [No, npm, “estee” is not a typo of “testem”](https://smoores.dev/post/no_npm_estee_is_not_a_typo/)
 * [2026-10-30, 13:58:45](https://lobste.rs/s/jcfrjy/anthropic_hacked_deliver_remote_access) - [Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)
 * [2026-10-30, 13:54:17](https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026) - [Update on AO3 Downtime, October 30, 2026 | Organization for Transformative Works](https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/)
 * [2026-10-30, 13:04:57](https://lobste.rs/s/paqtgw/smart_audio_for_smart_home_2021) - [Smart audio for the smart home (2021)](https://computer.rip/2021-11-06-smart-audio-for-the-smart-home.html)
