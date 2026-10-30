@@ -2,6 +2,7 @@
 
 * [2026-10-30, 16:50:44](https://lobste.rs/s/cctbcu/building_fine_grained_version_control) - [Building fine-grained version control for agents with Rust and Durable Objects](https://delta.dev/blog/fine-grained-version-control-for-agents)
 * [2026-10-30, 16:06:56](https://lobste.rs/s/fskctn/infinite_mac_beos) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
+* [2026-10-30, 15:39:37](https://lobste.rs/s/mhmqky/go_1_28_s_http_2_parking_measuring_memory) - [Go 1.28's HTTP/2 Parking: Measuring Memory Savings](https://abdolirad.me/articles/go-1-28-http2-parking-memory/)
 * [2026-10-30, 15:04:44](https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource) - [Shrinking NixOS Ram footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
 * [2026-10-30, 15:01:56](https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem) - [No, npm, “estee” is not a typo of “testem”](https://smoores.dev/post/no_npm_estee_is_not_a_typo/)
 * [2026-10-30, 13:54:17](https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026) - [Update on AO3 Downtime, October 30, 2026](https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/)
@@ -19,7 +20,6 @@
 * [2026-10-29, 16:32:18](https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-29, 16:17:42](https://lobste.rs/s/nexvnc/open_format_for_writing_agent_native) - [An open format for writing agent-native software requirements](https://slcr.dev/announcements#2026-10-29-slcr-launches)
 * [2026-10-29, 16:08:47](https://lobste.rs/s/tw3rsp/phorge) - [Phorge](https://www.phorge.it/)
-* [2026-10-29, 14:48:09](https://lobste.rs/s/ldvd3n/extremely_brief_history_pdp_computers) - [Extremely brief history of PDP computers](https://entropicthoughts.com/history-of-pdp-computers)
 * [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) - [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
