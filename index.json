@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-30, 15:19:16",
+      "https://lobste.rs/s/srnmml/reviewing_vs_doing"
+    ],
+    [
+      "Reviewing vs Doing",
+      "https://youtu.be/www4Q-EbD_4"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 15:04:44",
       "https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource"
     ],
@@ -237,16 +247,6 @@
     [
       "EMACS turns 50",
       "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 11:03:56",
-      "https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised"
-    ],
-    [
-      "Apple's git still trusts the compromised eMudhra certificates",
-      "https://emudhra.we-have-a-problem.com/apple.html"
     ]
   ]
 ]
