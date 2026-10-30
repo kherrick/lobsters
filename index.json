@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-30, 04:23:55",
-      "https://lobste.rs/s/lob0sj/zshrs_pure_rust_zsh_superset_unix_shell"
+      "2026-10-30, 04:28:29",
+      "https://lobste.rs/s/pda3vp/ztmux_pure_rust_tmux_superset"
     ],
     [
-      "zshrs, a pure rust zsh superset UNIX shell with a JIT",
-      "https://github.com/MenkeTechnologies/zshrs"
+      "ztmux the pure Rust tmux superset",
+      "https://github.com/MenkeTechnologies/ztmux"
     ]
   ],
   [
