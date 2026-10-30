@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 07:39:04](https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys) - [arm64e pointer authentication: PAC keys, PACIASP, A12](https://sigreturn.com/blog/pointer-authentication-arm64e/)
 * [2026-10-30, 07:24:01](https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing) - [How curl was accidentally Turing-complete for nine months](https://seriot.ch/computation/curl.html)
 * [2026-10-30, 04:28:29](https://lobste.rs/s/pda3vp/ztmux_pure_rust_tmux_superset) - [ztmux the pure Rust tmux superset](https://github.com/MenkeTechnologies/ztmux)
 * [2026-10-30, 04:23:55](https://lobste.rs/s/lob0sj/zshrs_pure_rust_zsh_superset_unix_shell) - [zshrs, a pure rust zsh superset UNIX shell with a JIT](https://github.com/MenkeTechnologies/zshrs)
