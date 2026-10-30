@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-30, 20:54:21](https://lobste.rs/s/a2lcrh/why_antithesis) - [Why Antithesis?](https://antithesis.com/blog/2026/hillel-joins-antithesis/)
+* [2026-10-30, 21:06:04](https://lobste.rs/s/dtvr7y/defending_patch_gap_against_automated) - [Defending the patch gap against automated attackers](https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/)
 * [2026-10-30, 20:00:34](https://lobste.rs/s/ncclwy/switch_lowering_gcc) - [Switch lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-30, 19:14:44](https://lobste.rs/s/uyobll/getting_google_cast_on_my_soundbar) - [Getting Google Cast on my Soundbar](https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/)
 * [2026-10-30, 17:57:54](https://lobste.rs/s/ukj8mm/federated_code_forge) - [The federated code forge](https://tangled.org/blog/forge/)
