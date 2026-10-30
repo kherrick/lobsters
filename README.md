@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-30, 13:58:45](https://lobste.rs/s/jcfrjy/anthropic_hacked_deliver_remote_access) - [Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)
 * [2026-10-30, 13:54:17](https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026) - [Update on AO3 Downtime, October 30, 2026 | Organization for Transformative Works](https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/)
 * [2026-10-30, 13:04:57](https://lobste.rs/s/paqtgw/smart_audio_for_smart_home_2021) - [Smart audio for the smart home (2021)](https://computer.rip/2021-11-06-smart-audio-for-the-smart-home.html)
 * [2026-10-30, 11:22:43](https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
 * [2026-10-30, 11:04:55](https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor) - [Backdoors in Claude Code for VS, Cursor official extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
 * [2026-10-30, 09:55:20](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend)
+* [2026-10-30, 07:39:04](https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys) - [arm64e pointer authentication: PAC keys, PACIASP, A12](https://sigreturn.com/blog/pointer-authentication-arm64e/)
 * [2026-10-30, 07:24:01](https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing) - [How curl was accidentally Turing-complete for nine months](https://seriot.ch/computation/curl.html)
 * [2026-10-30, 03:58:19](https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released) - [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445)
 * [2026-10-30, 01:29:00](https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up) - [If you love a website, back it up](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
