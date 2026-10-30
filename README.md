@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-30, 20:54:21](https://lobste.rs/s/a2lcrh/why_antithesis) - [Why Antithesis?](https://antithesis.com/blog/2026/hillel-joins-antithesis/)
 * [2026-10-30, 20:00:34](https://lobste.rs/s/ncclwy/switch_lowering_gcc) - [Switch lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-30, 19:14:44](https://lobste.rs/s/uyobll/getting_google_cast_on_my_soundbar) - [Getting Google Cast on my Soundbar](https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/)
 * [2026-10-30, 17:57:54](https://lobste.rs/s/ukj8mm/federated_code_forge) - [The federated code forge](https://tangled.org/blog/forge/)
@@ -23,7 +24,6 @@
 * [2026-10-29, 16:08:47](https://lobste.rs/s/tw3rsp/phorge) - [Phorge](https://www.phorge.it/)
 * [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 * [2026-10-29, 11:58:00](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) - [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
-* [2026-10-29, 10:00:04](https://lobste.rs/s/zftely/qwenputer_fully_functioning) - [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-29, 06:42:40](https://lobste.rs/s/7qaac6/what_fox_say) - [What the fox say?](https://entropicthoughts.com/what-the-fox-say)
 
 ## [Archives](archives/index.md)

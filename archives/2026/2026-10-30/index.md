@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 20:54:21](https://lobste.rs/s/a2lcrh/why_antithesis) - [Why Antithesis?](https://antithesis.com/blog/2026/hillel-joins-antithesis/)
 * [2026-10-30, 20:00:34](https://lobste.rs/s/ncclwy/switch_lowering_gcc) - [Switch lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-30, 19:14:44](https://lobste.rs/s/uyobll/getting_google_cast_on_my_soundbar) - [Getting Google Cast on my Soundbar](https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/)
 * [2026-10-30, 18:20:43](https://lobste.rs/s/1sni1w/linux_kernel_tcp_flaw_with_9_8_cvss_score) - [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
