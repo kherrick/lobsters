@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 21:59:52](https://lobste.rs/s/ukcfap/effective_type_part_1) - [Effective Type: Part 1](https://uecker.codeberg.page/2026-10-31.html)
 * [2026-10-31, 20:31:13](https://lobste.rs/s/54xwm8/novellas_with_groff) - [Novellas with groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
 * [2026-10-31, 19:52:22](https://lobste.rs/s/zhyenw/game_scripting_language_runs_speech_text) - [A game scripting language that runs speech-to-text 5x faster than llama.cpp on CPU](https://dasllama.io/articles/2026-10-28-the-need-for-speed.html)
 * [2026-10-31, 19:50:11](https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power) - [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)

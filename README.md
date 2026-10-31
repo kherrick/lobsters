@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-31, 21:59:52](https://lobste.rs/s/ukcfap/effective_type_part_1) - [Effective Type: Part 1](https://uecker.codeberg.page/2026-10-31.html)
 * [2026-10-31, 20:31:13](https://lobste.rs/s/54xwm8/novellas_with_groff) - [Novellas with groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
 * [2026-10-31, 19:50:11](https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power) - [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
 * [2026-10-31, 18:05:03](https://lobste.rs/s/k508we/avoid_public_functions_calling_other) - [Avoid Public Functions Calling Other Public Functions](https://matklad.github.io/2026/10/29/pub-calls-pub.html)
@@ -24,7 +25,6 @@
 * [2026-10-30, 11:22:43](https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
 * [2026-10-30, 11:04:55](https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor) - [Backdoors in Claude Code for VS, Cursor official extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
 * [2026-10-30, 07:24:01](https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing) - [How curl was accidentally Turing-complete for nine months](https://seriot.ch/computation/curl.html)
-* [2026-10-30, 01:29:00](https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up) - [If you love a website, back it up](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 
 ## [Archives](archives/index.md)
 
