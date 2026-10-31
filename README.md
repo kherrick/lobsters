@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-31, 15:24:18](https://lobste.rs/s/bnok4r/cve_2026_116155_imagemagick_memory_leak) - [CVE-2026-116155: ImageMagick Memory Leak via Crafted XMP Profile](https://www.agilehunt.com/blog/imagemagick-cve-2026-116155-xmp-profile-parameter-entity-memory-leak)
 * [2026-10-31, 15:09:27](https://lobste.rs/s/bmmj1e/let_s_build_brain) - [Let’s Build a Brain](https://aatishb.com/myriad/lets-build-a-brain/)
 * [2026-10-31, 15:05:04](https://lobste.rs/s/rpiu3w/kluever_maneuver) - [The Kluever Maneuver](https://jordi.inversethought.com/blog/the-kluever-maneuver/)
 * [2026-10-31, 13:39:52](https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
@@ -12,7 +13,6 @@
 * [2026-10-30, 22:25:49](https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-10-30, 21:06:04](https://lobste.rs/s/dtvr7y/defending_patch_gap_against_automated) - [Defending the patch gap against automated attackers](https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/)
 * [2026-10-30, 20:00:34](https://lobste.rs/s/ncclwy/switch_lowering_gcc) - [Switch lowering in GCC](https://xoranth.net/gcc-switch/)
-* [2026-10-30, 19:14:44](https://lobste.rs/s/uyobll/getting_google_cast_on_my_soundbar) - [Getting Google Cast on my Soundbar](https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/)
 * [2026-10-30, 17:57:54](https://lobste.rs/s/ukj8mm/federated_code_forge) - [The federated code forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 17:54:52](https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432) - [Protecting against CVE-2026-98432](https://groups.google.com/g/golang-announce/c/PCoQcdxoScw)
 * [2026-10-30, 16:06:56](https://lobste.rs/s/fskctn/infinite_mac_beos) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)

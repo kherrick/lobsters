@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 15:24:18](https://lobste.rs/s/bnok4r/cve_2026_116155_imagemagick_memory_leak) - [CVE-2026-116155: ImageMagick Memory Leak via Crafted XMP Profile](https://www.agilehunt.com/blog/imagemagick-cve-2026-116155-xmp-profile-parameter-entity-memory-leak)
 * [2026-10-31, 15:09:27](https://lobste.rs/s/bmmj1e/let_s_build_brain) - [Let’s Build a Brain](https://aatishb.com/myriad/lets-build-a-brain/)
 * [2026-10-31, 15:05:04](https://lobste.rs/s/rpiu3w/kluever_maneuver) - [The Kluever Maneuver](https://jordi.inversethought.com/blog/the-kluever-maneuver/)
 * [2026-10-31, 13:56:16](https://lobste.rs/s/visypm/we_won_t_just_hang_out) - [We Won’t “Just Hang Out”](https://borretti.me/article/we-wont-just-hang-out)
