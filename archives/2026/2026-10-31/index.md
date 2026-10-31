@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 13:56:16](https://lobste.rs/s/visypm/we_won_t_just_hang_out) - [We Won’t “Just Hang Out”](https://borretti.me/article/we-wont-just-hang-out)
 * [2026-10-31, 13:39:52](https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 * [2026-10-31, 11:10:19](https://lobste.rs/s/y81ppi/digital_minimalism) - [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
 * [2026-10-31, 10:36:46](https://lobste.rs/s/hgx46o/marelleo_story_box_i_built_for_my_kids) - [Marelleo, a story box I built for my kids](https://zebra.rodeo/en/blog/marelleo/)
