@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 18:05:03](https://lobste.rs/s/k508we/avoid_public_functions_calling_other) - [Avoid Public Functions Calling Other Public Functions](https://matklad.github.io/2026/10/29/pub-calls-pub.html)
+* [2026-10-31, 18:02:18](https://lobste.rs/s/fmawla/enlightenment_0_28_0_release) - [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
 * [2026-10-31, 17:03:04](https://lobste.rs/s/1abkzu/speeding_up_gpu_copies_by_permuting) - [Speeding up GPU copies by permuting iteration spaces, or, optimising the identity function](https://futhark-lang.org/blog/2026-10-31-faster-copying.html)
 * [2026-10-31, 16:29:45](https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility) - [Tangled, hire a front-end accessibility expert](https://dbushell.com/2026/11/01/tangled-accessibility/)
 * [2026-10-31, 16:08:42](https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell) - [An LC-3 Disassembler in Haskell](https://abhinavsarkar.net/posts/lc3-disassembler/)
