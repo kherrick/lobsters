@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-10-31, 19:52:22](https://lobste.rs/s/zhyenw/game_scripting_language_runs_speech_text) - [A game scripting language that runs speech-to-text 5x faster than llama.cpp on CPU](https://dasllama.io/articles/2026-10-28-the-need-for-speed.html)
+* [2026-10-31, 20:31:13](https://lobste.rs/s/54xwm8/novellas_with_groff) - [Novellas with groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
 * [2026-10-31, 19:50:11](https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power) - [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
 * [2026-10-31, 18:05:03](https://lobste.rs/s/k508we/avoid_public_functions_calling_other) - [Avoid Public Functions Calling Other Public Functions](https://matklad.github.io/2026/10/29/pub-calls-pub.html)
 * [2026-10-31, 18:02:18](https://lobste.rs/s/fmawla/enlightenment_0_28_0_release) - [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
