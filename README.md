@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-31, 10:36:46](https://lobste.rs/s/hgx46o/marelleo_story_box_i_built_for_my_kids) - [Marelleo, a story box I built for my kids](https://zebra.rodeo/en/blog/marelleo/)
 * [2026-10-31, 10:20:48](https://lobste.rs/s/mzqjdm/secret_fast_programming_stop_thinking) - [The Secret of Fast Programming: Stop Thinking »](https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/)
 * [2026-10-31, 06:25:34](https://lobste.rs/s/wd4ye5/clojure_conj_2026) - [Clojure/Conj 2026](http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q)
 * [2026-10-31, 02:32:10](https://lobste.rs/s/95quqz/tactical_retreat_freely_available_multi) - [Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port](https://www.frag-net.com/project_tacticalretreat.html)
@@ -22,7 +23,6 @@
 * [2026-10-30, 07:24:01](https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing) - [How curl was accidentally Turing-complete for nine months](https://seriot.ch/computation/curl.html)
 * [2026-10-30, 03:58:19](https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released) - [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445)
 * [2026-10-30, 01:29:00](https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up) - [If you love a website, back it up](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
-* [2026-10-30, 01:04:38](https://lobste.rs/s/qqelq1/design_interface_for_functionality_not) - [Design the interface for functionality not familiarity](https://lapcatsoftware.com/articles/2026/10/10.html)
 * [2026-10-29, 20:56:43](https://lobste.rs/s/dsrruj/london_meetup) - [London meetup](https://lobste.rs/s/dsrruj/london_meetup)
 * [2026-10-29, 20:33:44](https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment) - [C2PA's eMudhra Moment](https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html)
 
