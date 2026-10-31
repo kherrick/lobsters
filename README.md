@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-31, 10:20:48](https://lobste.rs/s/mzqjdm/secret_fast_programming_stop_thinking) - [The Secret of Fast Programming: Stop Thinking »](https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/)
 * [2026-10-31, 06:25:34](https://lobste.rs/s/wd4ye5/clojure_conj_2026) - [Clojure/Conj 2026](http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q)
 * [2026-10-31, 02:32:10](https://lobste.rs/s/95quqz/tactical_retreat_freely_available_multi) - [Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port](https://www.frag-net.com/project_tacticalretreat.html)
 * [2026-10-31, 01:01:21](https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they) - [The support case of a customer who said that all they could see was a black screen](https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/)
@@ -24,7 +25,6 @@
 * [2026-10-30, 01:04:38](https://lobste.rs/s/qqelq1/design_interface_for_functionality_not) - [Design the interface for functionality not familiarity](https://lapcatsoftware.com/articles/2026/10/10.html)
 * [2026-10-29, 20:56:43](https://lobste.rs/s/dsrruj/london_meetup) - [London meetup](https://lobste.rs/s/dsrruj/london_meetup)
 * [2026-10-29, 20:33:44](https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment) - [C2PA's eMudhra Moment](https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html)
-* [2026-10-29, 14:39:51](https://lobste.rs/s/eccbci/shared_password_manager_for_families) - [Shared password manager for families?](https://lobste.rs/s/eccbci/shared_password_manager_for_families)
 
 ## [Archives](archives/index.md)
 
