@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 15:05:04](https://lobste.rs/s/rpiu3w/kluever_maneuver) - [The Kluever Maneuver](https://jordi.inversethought.com/blog/the-kluever-maneuver/)
 * [2026-10-31, 13:56:16](https://lobste.rs/s/visypm/we_won_t_just_hang_out) - [We Won’t “Just Hang Out”](https://borretti.me/article/we-wont-just-hang-out)
 * [2026-10-31, 13:39:52](https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 * [2026-10-31, 11:10:19](https://lobste.rs/s/y81ppi/digital_minimalism) - [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
