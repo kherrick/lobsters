@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-31, 02:32:10](https://lobste.rs/s/95quqz/tactical_retreat_freely_available_multi) - [Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port](https://www.frag-net.com/project_tacticalretreat.html)
 * [2026-10-31, 01:01:21](https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they) - [The support case of a customer who said that all they could see was a black screen](https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/)
 * [2026-10-30, 22:35:08](https://lobste.rs/s/mk87la/top_ten_reasons_embedded_projects_get) - [The top ten reasons embedded projects get into trouble (2002)](https://www.ganssle.com/articles/jackstoptenlist.htm)
 * [2026-10-30, 22:25:49](https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
@@ -13,7 +14,6 @@
 * [2026-10-30, 15:39:37](https://lobste.rs/s/mhmqky/go_1_28_s_http_2_parking_measuring_memory) - [Go 1.28's HTTP/2 Parking: Measuring Memory Savings](https://abdolirad.me/articles/go-1-28-http2-parking-memory/)
 * [2026-10-30, 15:04:44](https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource) - [Shrinking NixOS Ram footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
 * [2026-10-30, 15:01:56](https://lobste.rs/s/xudbqx/no_npm_estee_is_not_typo_testem) - [No, npm, “estee” is not a typo of “testem”](https://smoores.dev/post/no_npm_estee_is_not_a_typo/)
-* [2026-10-30, 13:04:57](https://lobste.rs/s/paqtgw/smart_audio_for_smart_home_2021) - [Smart audio for the smart home (2021)](https://computer.rip/2021-11-06-smart-audio-for-the-smart-home.html)
 * [2026-10-30, 11:22:43](https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
 * [2026-10-30, 11:04:55](https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor) - [Backdoors in Claude Code for VS, Cursor official extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
 * [2026-10-30, 09:55:20](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend)
