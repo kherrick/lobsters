@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-31, 15:24:18",
-      "https://lobste.rs/s/bnok4r/cve_2026_116155_imagemagick_memory_leak"
-    ],
-    [
-      "CVE-2026-116155: ImageMagick Memory Leak via Crafted XMP Profile",
-      "https://www.agilehunt.com/blog/imagemagick-cve-2026-116155-xmp-profile-parameter-entity-memory-leak"
-    ]
-  ],
-  [
-    [
       "2026-10-31, 15:09:27",
       "https://lobste.rs/s/bmmj1e/let_s_build_brain"
     ],
@@ -127,6 +117,16 @@
     [
       "Switch lowering in GCC",
       "https://xoranth.net/gcc-switch/"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 19:14:44",
+      "https://lobste.rs/s/uyobll/getting_google_cast_on_my_soundbar"
+    ],
+    [
+      "Getting Google Cast on my Soundbar",
+      "https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/"
     ]
   ],
   [
