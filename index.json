@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-31, 16:08:42",
+      "https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell"
+    ],
+    [
+      "An LC-3 Disassembler in Haskell",
+      "https://abhinavsarkar.net/posts/lc3-disassembler/"
+    ]
+  ],
+  [
+    [
       "2026-10-31, 15:09:27",
       "https://lobste.rs/s/bmmj1e/let_s_build_brain"
     ],
@@ -117,16 +127,6 @@
     [
       "Switch lowering in GCC",
       "https://xoranth.net/gcc-switch/"
-    ]
-  ],
-  [
-    [
-      "2026-10-30, 19:14:44",
-      "https://lobste.rs/s/uyobll/getting_google_cast_on_my_soundbar"
-    ],
-    [
-      "Getting Google Cast on my Soundbar",
-      "https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/"
     ]
   ],
   [
