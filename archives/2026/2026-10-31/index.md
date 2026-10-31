@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 17:03:04](https://lobste.rs/s/1abkzu/speeding_up_gpu_copies_by_permuting) - [Speeding up GPU copies by permuting iteration spaces, or, optimising the identity function](https://futhark-lang.org/blog/2026-10-31-faster-copying.html)
 * [2026-10-31, 16:29:45](https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility) - [Tangled, hire a front-end accessibility expert](https://dbushell.com/2026/11/01/tangled-accessibility/)
 * [2026-10-31, 16:08:42](https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell) - [An LC-3 Disassembler in Haskell](https://abhinavsarkar.net/posts/lc3-disassembler/)
 * [2026-10-31, 15:24:18](https://lobste.rs/s/bnok4r/cve_2026_116155_imagemagick_memory_leak) - [CVE-2026-116155: ImageMagick Memory Leak via Crafted XMP Profile](https://www.agilehunt.com/blog/imagemagick-cve-2026-116155-xmp-profile-parameter-entity-memory-leak)
