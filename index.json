@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-31, 19:52:22",
+      "https://lobste.rs/s/zhyenw/game_scripting_language_runs_speech_text"
+    ],
+    [
+      "A game scripting language that runs speech-to-text 5x faster than llama.cpp on CPU",
+      "https://dasllama.io/articles/2026-10-28-the-need-for-speed.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-31, 19:50:11",
+      "https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power"
+    ],
+    [
+      "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved"
+    ]
+  ],
+  [
+    [
       "2026-10-31, 18:05:03",
       "https://lobste.rs/s/k508we/avoid_public_functions_calling_other"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-10-30, 17:54:52",
-      "https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432"
-    ],
-    [
-      "Protecting against CVE-2026-98432",
-      "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 16:06:56",
       "https://lobste.rs/s/fskctn/infinite_mac_beos"
     ],
     [
       "Infinite Mac: BeOS",
       "https://blog.persistent.info/2026/10/infinite-mac-beos.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-30, 15:04:44",
-      "https://lobste.rs/s/o1z9mm/shrinking_nixos_ram_footprint_resource"
-    ],
-    [
-      "Shrinking NixOS Ram footprint and resource requirements to the bare minimum",
-      "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum"
     ]
   ],
   [
