@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 15:09:27](https://lobste.rs/s/bmmj1e/let_s_build_brain) - [Let’s Build a Brain](https://aatishb.com/myriad/lets-build-a-brain/)
 * [2026-10-31, 15:05:04](https://lobste.rs/s/rpiu3w/kluever_maneuver) - [The Kluever Maneuver](https://jordi.inversethought.com/blog/the-kluever-maneuver/)
 * [2026-10-31, 13:56:16](https://lobste.rs/s/visypm/we_won_t_just_hang_out) - [We Won’t “Just Hang Out”](https://borretti.me/article/we-wont-just-hang-out)
 * [2026-10-31, 13:39:52](https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-10-31, 15:09:27](https://lobste.rs/s/bmmj1e/let_s_build_brain) - [Let’s Build a Brain](https://aatishb.com/myriad/lets-build-a-brain/)
 * [2026-10-31, 15:05:04](https://lobste.rs/s/rpiu3w/kluever_maneuver) - [The Kluever Maneuver](https://jordi.inversethought.com/blog/the-kluever-maneuver/)
 * [2026-10-31, 13:39:52](https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 * [2026-10-31, 11:10:19](https://lobste.rs/s/y81ppi/digital_minimalism) - [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
@@ -8,7 +9,6 @@
 * [2026-10-31, 06:25:34](https://lobste.rs/s/wd4ye5/clojure_conj_2026) - [Clojure/Conj 2026](http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q)
 * [2026-10-31, 02:32:10](https://lobste.rs/s/95quqz/tactical_retreat_freely_available_multi) - [Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port](https://www.frag-net.com/project_tacticalretreat.html)
 * [2026-10-31, 01:01:21](https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they) - [The support case of a customer who said that all they could see was a black screen](https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/)
-* [2026-10-30, 22:35:08](https://lobste.rs/s/mk87la/top_ten_reasons_embedded_projects_get) - [The top ten reasons embedded projects get into trouble (2002)](https://www.ganssle.com/articles/jackstoptenlist.htm)
 * [2026-10-30, 22:25:49](https://lobste.rs/s/1pmuy7/how_hard_is_it_check_for_whitespace) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-10-30, 21:06:04](https://lobste.rs/s/dtvr7y/defending_patch_gap_against_automated) - [Defending the patch gap against automated attackers](https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/)
 * [2026-10-30, 20:00:34](https://lobste.rs/s/ncclwy/switch_lowering_gcc) - [Switch lowering in GCC](https://xoranth.net/gcc-switch/)
