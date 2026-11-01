@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-01](index.md)
 
+* [2026-11-01, 22:19:51](https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews) - [Understanding Org's LaTeX previews](https://karthinks.com/software/understanding-org-latex-preview/)
+* [2026-11-01, 21:13:55](https://lobste.rs/s/ikfsgt/so_i_guess_everyone_uses_llms_think_now) - [so i guess everyone uses llms to think now](https://eva.ac/blog/llms)
 * [2026-11-01, 20:26:47](https://lobste.rs/s/rlmrfy/easy_way_try_local_ai_with_braindead_local) - [An easy way to try local AI with braindead-local-intelligence](https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html)
 * [2026-11-01, 20:13:29](https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for) - [Work on GEFS (the Good Enough File System) for OpenBSD progresses](https://www.undeadly.org/cgi?action=article;sid=20261101115637)
 * [2026-11-01, 18:47:10](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026) - [London Meetup - Nov 2026](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026)

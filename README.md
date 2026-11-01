@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-01, 22:19:51](https://lobste.rs/s/yihs7m/understanding_org_s_latex_previews) - [Understanding Org's LaTeX previews](https://karthinks.com/software/understanding-org-latex-preview/)
+* [2026-11-01, 21:13:55](https://lobste.rs/s/ikfsgt/so_i_guess_everyone_uses_llms_think_now) - [so i guess everyone uses llms to think now](https://eva.ac/blog/llms)
 * [2026-11-01, 20:26:47](https://lobste.rs/s/rlmrfy/easy_way_try_local_ai_with_braindead_local) - [An easy way to try local AI with braindead-local-intelligence](https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html)
 * [2026-11-01, 20:13:29](https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for) - [Work on GEFS (the Good Enough File System) for OpenBSD progresses](https://www.undeadly.org/cgi?action=article;sid=20261101115637)
 * [2026-11-01, 18:47:10](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026) - [London Meetup - Nov 2026](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026)
@@ -12,19 +14,17 @@
 * [2026-11-01, 15:22:36](https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke) - [An outsider's perspective on Scion and Mononoke](https://typesanitizer.com/blog/scion.html)
 * [2026-11-01, 14:09:09](https://lobste.rs/s/dbwbvr/groff_troff_macros_ms_mm_me_mom) - [groff/troff macros: ms, mm, me or mom](https://www.stephenlindholm.com/groff_macros.html)
 * [2026-11-01, 12:26:07](https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit) - [Beating the compiler at signed 32-bit division](https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/)
+* [2026-11-01, 11:06:14](https://lobste.rs/s/daouvo/no_ai_52_min_build_all_linux_files_utils_c_by) - [No AI, 52 min. Build all Linux Files utils in C by Hand](https://www.youtube.com/watch?v=gQRmSlcTq9c)
 * [2026-11-01, 10:50:56](https://lobste.rs/s/mni8ri/xkcd_fourier) - [XKCD and Fourier](https://leancrew.com/all-this/2026/10/xkcd-and-fourier/)
 * [2026-11-01, 07:55:47](https://lobste.rs/s/pswl6z/non_determinism_overcount_on_modern) - [Non-Determinism and Overcount on Modern Hardware Performance Counter Implementations](https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf)
-* [2026-11-01, 04:46:09](https://lobste.rs/s/h6dt6e/brief_history_just_time_2003) - [A brief history of just-in-time (2003)](https://dl.acm.org/doi/10.1145/857076.857077)
 * [2026-11-01, 02:56:29](https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal) - [Introducing Kwi, a new KDE terminal emulator](https://blogs.kde.org/2026/11/01/introducing-kwi/)
 * [2026-10-31, 20:31:13](https://lobste.rs/s/54xwm8/novellas_with_groff) - [Novellas with groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
 * [2026-10-31, 19:50:11](https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power) - [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
 * [2026-10-31, 18:05:03](https://lobste.rs/s/k508we/avoid_public_functions_calling_other) - [Avoid Public Functions Calling Other Public Functions](https://matklad.github.io/2026/10/29/pub-calls-pub.html)
 * [2026-10-31, 18:02:18](https://lobste.rs/s/fmawla/enlightenment_0_28_0_release) - [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
-* [2026-10-31, 16:29:45](https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility) - [Tangled, hire a front-end accessibility expert](https://dbushell.com/2026/11/01/tangled-accessibility/)
 * [2026-10-31, 16:08:42](https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell) - [An LC-3 Disassembler in Haskell](https://abhinavsarkar.net/posts/lc3-disassembler/)
 * [2026-10-31, 15:05:04](https://lobste.rs/s/rpiu3w/kluever_maneuver) - [The Kluever Maneuver](https://jordi.inversethought.com/blog/the-kluever-maneuver/)
 * [2026-10-31, 13:39:52](https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
-* [2026-10-31, 01:01:21](https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they) - [The support case of a customer who said that all they could see was a black screen](https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/)
 
 ## [Archives](archives/index.md)
 
