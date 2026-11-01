@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-11-01](index.md)
 
+* [2026-11-01, 20:26:47](https://lobste.rs/s/rlmrfy/easy_way_try_local_ai_with_braindead_local) - [An easy way to try local AI with braindead-local-intelligence](https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html)
+* [2026-11-01, 20:13:29](https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for) - [Work on GEFS (the Good Enough File System) for OpenBSD progresses](https://www.undeadly.org/cgi?action=article;sid=20261101115637)
+* [2026-11-01, 18:47:10](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026) - [London Meetup - Nov 2026](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026)
+* [2026-11-01, 18:17:14](https://lobste.rs/s/4yxx6f/spooky_c) - [Spooky C++](https://www.nablag.com/spooky_cpp)
+* [2026-11-01, 17:59:00](https://lobste.rs/s/oqj2zo/introduction_programming_ats) - [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
+* [2026-11-01, 17:41:53](https://lobste.rs/s/bzazar/pratt_parsing_is_black_box) - [Pratt parsing is a black box](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
+* [2026-11-01, 17:19:19](https://lobste.rs/s/uhlnqx/zig_from_beginner_slightly_less_beginner) - [Zig: From Beginner to Slightly Less Beginner](https://www.youtube.com/watch?v=jWCQXBVIyrY)
 * [2026-11-01, 16:13:20](https://lobste.rs/s/8o9wus/specialised_haskell_processor_on_fpga) - [A Specialised Haskell Processor on FPGA](https://bathtub-01.github.io/technical/ouros-demo/)
 * [2026-11-01, 15:24:56](https://lobste.rs/s/uia6c3/dead_internet_theory) - [Dead Internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
 * [2026-11-01, 15:22:36](https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke) - [An outsider's perspective on Scion and Mononoke](https://typesanitizer.com/blog/scion.html)
