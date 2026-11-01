@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-11-01, 00:46:07",
-      "https://lobste.rs/s/vo4337/duty_scholar"
+      "2026-11-01, 07:55:47",
+      "https://lobste.rs/s/pswl6z/non_determinism_overcount_on_modern"
     ],
     [
-      "The Duty of a Scholar",
-      "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html"
+      "Non-Determinism and Overcount on Modern Hardware Performance Counter Implementations",
+      "https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-11-01, 04:46:09",
+      "https://lobste.rs/s/h6dt6e/brief_history_just_time_2003"
+    ],
+    [
+      "A brief history of just-in-time (2003)",
+      "https://dl.acm.org/doi/10.1145/857076.857077"
+    ]
+  ],
+  [
+    [
+      "2026-11-01, 02:56:29",
+      "https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal"
+    ],
+    [
+      "Introducing Kwi, a new KDE terminal emulator",
+      "https://blogs.kde.org/2026/11/01/introducing-kwi/"
     ]
   ],
   [
@@ -127,26 +147,6 @@
     [
       "Digital minimalism",
       "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 10:36:46",
-      "https://lobste.rs/s/hgx46o/marelleo_story_box_i_built_for_my_kids"
-    ],
-    [
-      "Marelleo, a story box I built for my kids",
-      "https://zebra.rodeo/en/blog/marelleo/"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 10:20:48",
-      "https://lobste.rs/s/mzqjdm/secret_fast_programming_stop_thinking"
-    ],
-    [
-      "The Secret of Fast Programming: Stop Thinking »",
-      "https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/"
     ]
   ],
   [
