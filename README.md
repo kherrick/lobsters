@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-01, 00:46:07](https://lobste.rs/s/vo4337/duty_scholar) - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
+* [2026-11-01, 07:55:47](https://lobste.rs/s/pswl6z/non_determinism_overcount_on_modern) - [Non-Determinism and Overcount on Modern Hardware Performance Counter Implementations](https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf)
+* [2026-11-01, 04:46:09](https://lobste.rs/s/h6dt6e/brief_history_just_time_2003) - [A brief history of just-in-time (2003)](https://dl.acm.org/doi/10.1145/857076.857077)
+* [2026-11-01, 02:56:29](https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal) - [Introducing Kwi, a new KDE terminal emulator](https://blogs.kde.org/2026/11/01/introducing-kwi/)
 * [2026-10-31, 21:59:52](https://lobste.rs/s/ukcfap/effective_type_part_1) - [Effective Type: Part 1](https://uecker.codeberg.page/2026-10-31.html)
 * [2026-10-31, 20:31:13](https://lobste.rs/s/54xwm8/novellas_with_groff) - [Novellas with groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
 * [2026-10-31, 19:50:11](https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power) - [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
@@ -13,8 +15,6 @@
 * [2026-10-31, 15:05:04](https://lobste.rs/s/rpiu3w/kluever_maneuver) - [The Kluever Maneuver](https://jordi.inversethought.com/blog/the-kluever-maneuver/)
 * [2026-10-31, 13:39:52](https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 * [2026-10-31, 11:10:19](https://lobste.rs/s/y81ppi/digital_minimalism) - [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
-* [2026-10-31, 10:36:46](https://lobste.rs/s/hgx46o/marelleo_story_box_i_built_for_my_kids) - [Marelleo, a story box I built for my kids](https://zebra.rodeo/en/blog/marelleo/)
-* [2026-10-31, 10:20:48](https://lobste.rs/s/mzqjdm/secret_fast_programming_stop_thinking) - [The Secret of Fast Programming: Stop Thinking »](https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/)
 * [2026-10-31, 06:25:34](https://lobste.rs/s/wd4ye5/clojure_conj_2026) - [Clojure/Conj 2026](http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q)
 * [2026-10-31, 02:32:10](https://lobste.rs/s/95quqz/tactical_retreat_freely_available_multi) - [Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port](https://www.frag-net.com/project_tacticalretreat.html)
 * [2026-10-31, 01:01:21](https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they) - [The support case of a customer who said that all they could see was a black screen](https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/)
