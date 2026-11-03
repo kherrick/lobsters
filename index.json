@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-11-03, 22:00:17",
+      "https://lobste.rs/s/siqsg7/announcing_netbsd_11_1"
+    ],
+    [
+      "Announcing NetBSD 11.1",
+      "https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 21:37:11",
+      "https://lobste.rs/s/1zetje/macos_27_golden_gate_does_not_actually"
+    ],
+    [
+      "macOS 27 Golden Gate does not actually support CoreStorage volumes",
+      "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 21:01:04",
+      "https://lobste.rs/s/znbrpn/mine"
+    ],
+    [
+      "mine",
+      "https://coalton-lang.github.io/mine/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 20:03:16",
+      "https://lobste.rs/s/xbmjlj/would_you_believe_it_s_jank"
+    ],
+    [
+      "Would you believe it's jank?",
+      "https://www.youtube.com/watch?v=tHgApFhevrQ"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 19:45:28",
+      "https://lobste.rs/s/qvpzfa/common_beliefs_about_dnssec_put_test"
+    ],
+    [
+      "Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions",
+      "https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 18:54:55",
+      "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation"
+    ],
+    [
+      "Your terminal manipulation/navigation setups",
+      "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation"
+    ]
+  ],
+  [
+    [
       "2026-11-03, 17:43:09",
       "https://lobste.rs/s/gwyv50/kitty_0_50_0"
     ],
@@ -27,16 +87,6 @@
     [
       "A Second Futamura Projection",
       "https://blog.veitheller.de/A_Second_Futamura_Projection.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 15:55:36",
-      "https://lobste.rs/s/86tk1s/ai_is_destroying_my_cs_degree"
-    ],
-    [
-      "AI is destroying my CS degree",
-      "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/"
     ]
   ],
   [
@@ -77,16 +127,6 @@
     [
       "Ideas for social networks",
       "https://raphaelkabo.com/blog/social-network-ideas"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 08:20:13",
-      "https://lobste.rs/s/cwxne0/designing_planned_switchover_for"
-    ],
-    [
-      "Designing a planned switchover for minimum disruption",
-      "https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption"
     ]
   ],
   [
@@ -197,46 +237,6 @@
     [
       "Polyend releases the Tracker firmware source code",
       "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 13:53:32",
-      "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 10:33:02",
-      "https://lobste.rs/s/saskzi/my_reflex_assuming_our_servers_need_ever"
-    ],
-    [
-      "My reflex of assuming our servers need ever-growing amounts of RAM",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 08:46:48",
-      "https://lobste.rs/s/ihqhia/lost_malloc"
-    ],
-    [
-      "the lost malloc()",
-      "https://napcakes.nekoweb.org/posts/malloc/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 02:19:02",
-      "https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"
-    ],
-    [
-      "Postgres 19 is late, and it's AI's fault",
-      "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
     ]
   ],
   [
