@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-11-03](index.md)
 
+* [2026-11-03, 22:00:17](https://lobste.rs/s/siqsg7/announcing_netbsd_11_1) - [Announcing NetBSD 11.1](https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html)
+* [2026-11-03, 21:37:11](https://lobste.rs/s/1zetje/macos_27_golden_gate_does_not_actually) - [macOS 27 Golden Gate does not actually support CoreStorage volumes](https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/)
+* [2026-11-03, 21:01:04](https://lobste.rs/s/znbrpn/mine) - [mine](https://coalton-lang.github.io/mine/)
+* [2026-11-03, 20:03:16](https://lobste.rs/s/xbmjlj/would_you_believe_it_s_jank) - [Would you believe it's jank?](https://www.youtube.com/watch?v=tHgApFhevrQ)
+* [2026-11-03, 19:45:28](https://lobste.rs/s/qvpzfa/common_beliefs_about_dnssec_put_test) - [Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions](https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions)
+* [2026-11-03, 18:54:55](https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation) - [Your terminal manipulation/navigation setups](https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation)
 * [2026-11-03, 17:43:09](https://lobste.rs/s/gwyv50/kitty_0_50_0) - [kitty 0.50.0](https://sw.kovidgoyal.net/kitty/changelog/#id1)
 * [2026-11-03, 16:33:43](https://lobste.rs/s/rwlg3h/planning_with_open_variable_lists_gecode) - [Planning with open variable lists in Gecode](https://zayenz.se/blog/post/open-cp-in-gecode/)
 * [2026-11-03, 16:14:27](https://lobste.rs/s/ihvhfk/second_futamura_projection) - [A Second Futamura Projection](https://blog.veitheller.de/A_Second_Futamura_Projection.html)
