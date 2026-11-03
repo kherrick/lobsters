@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-11-03](index.md)
 
+* [2026-11-03, 17:43:09](https://lobste.rs/s/gwyv50/kitty_0_50_0) - [kitty 0.50.0](https://sw.kovidgoyal.net/kitty/changelog/#id1)
+* [2026-11-03, 16:33:43](https://lobste.rs/s/rwlg3h/planning_with_open_variable_lists_gecode) - [Planning with open variable lists in Gecode](https://zayenz.se/blog/post/open-cp-in-gecode/)
+* [2026-11-03, 16:14:27](https://lobste.rs/s/ihvhfk/second_futamura_projection) - [A Second Futamura Projection](https://blog.veitheller.de/A_Second_Futamura_Projection.html)
+* [2026-11-03, 15:55:36](https://lobste.rs/s/86tk1s/ai_is_destroying_my_cs_degree) - [AI is destroying my CS degree](https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/)
+* [2026-11-03, 15:44:27](https://lobste.rs/s/1gndxr/could_modern_chess_engine_on_pentium_have) - [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
+* [2026-11-03, 15:23:21](https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible) - [The Ubuntu 26.04 Rust sudo is not compatible with standard sudo](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible)
+* [2026-11-03, 15:19:50](https://lobste.rs/s/chypzr/death_comes_for_xslt) - [Death comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
+* [2026-11-03, 14:24:08](https://lobste.rs/s/yes2hc/ideas_for_social_networks) - [Ideas for social networks](https://raphaelkabo.com/blog/social-network-ideas)
 * [2026-11-03, 08:20:13](https://lobste.rs/s/cwxne0/designing_planned_switchover_for) - [Designing a planned switchover for minimum disruption](https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption)
 * [2026-11-03, 08:03:58](https://lobste.rs/s/trqbi2/firefox_security_privacy_newsletter) - [Firefox Security & Privacy Newsletter 2026 Q3](https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html)
 * [2026-11-03, 07:33:25](https://lobste.rs/s/wpahfd/why_we_re_moving_our_warehouse_off_duckdb) - [Why we're moving our warehouse off DuckDB](https://posthog.com/blog/moving-off-duckdb)
