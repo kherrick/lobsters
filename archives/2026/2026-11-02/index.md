@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-02](index.md)
 
+* [2026-11-02, 21:23:24](https://lobste.rs/s/wgoato/decade_kill_bugs) - [A Decade of Kill Bugs](https://alangrow.com/blog/a-decade-of-kill-bugs)
+* [2026-11-02, 20:26:38](https://lobste.rs/s/0ec9yk/introduction_b_trees_write_optimization) - [An Introduction to Bε-trees and Write-Optimization](https://www.usenix.org/publications/login/oct15/bender)
 * [2026-11-02, 19:48:40](https://lobste.rs/s/ezg5mx/my_favourite_laptop) - [My favourite laptop](https://blog.jsbarretto.com/post/laptop)
+* [2026-11-02, 19:42:32](https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact) - [This background sound leaks your exact location](https://youtu.be/UytYrhYLOKI)
 * [2026-11-02, 19:22:32](https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts) - [Stop Hardcoding Your Timeouts](https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html)
 * [2026-11-02, 16:30:58](https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system) - [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
 * [2026-11-02, 16:28:17](https://lobste.rs/s/ifznly/new_release_tor_browser_16_0) - [New Release: Tor Browser 16.0](https://blog.torproject.org/new-release-tor-browser-160/)
