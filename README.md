@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-04, 02:10:26](https://lobste.rs/s/in86vn/valley_webhooks) - [The valley of webhooks](https://weli.dev/blog/the-valley-of-webhooks/)
+* [2026-11-03, 23:45:21](https://lobste.rs/s/fgucra/observations_from_running) - [Observations from Running stealmybitcoin.com](https://pavursec.com/blog/stealmybitcoin/)
+* [2026-11-03, 23:05:03](https://lobste.rs/s/erkjnx/gist_go_concurrency) - [Gist of Go: Concurrency](https://antonz.org/go-concurrency/)
+* [2026-11-03, 22:44:48](https://lobste.rs/s/uutnr5/postgres_19_repack_built_online_table) - [Postgres 19 REPACK: Built-In Online Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 * [2026-11-03, 22:00:17](https://lobste.rs/s/siqsg7/announcing_netbsd_11_1) - [Announcing NetBSD 11.1](https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html)
 * [2026-11-03, 21:37:11](https://lobste.rs/s/1zetje/macos_27_golden_gate_does_not_actually) - [macOS 27 Golden Gate does not actually support CoreStorage volumes](https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/)
 * [2026-11-03, 21:01:04](https://lobste.rs/s/znbrpn/mine) - [mine](https://coalton-lang.github.io/mine/)
@@ -13,18 +17,14 @@
 * [2026-11-03, 15:23:21](https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible) - [The Ubuntu 26.04 Rust sudo is not compatible with standard sudo](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible)
 * [2026-11-03, 15:19:50](https://lobste.rs/s/chypzr/death_comes_for_xslt) - [Death comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
 * [2026-11-03, 14:24:08](https://lobste.rs/s/yes2hc/ideas_for_social_networks) - [Ideas for social networks](https://raphaelkabo.com/blog/social-network-ideas)
-* [2026-11-03, 08:03:58](https://lobste.rs/s/trqbi2/firefox_security_privacy_newsletter) - [Firefox Security & Privacy Newsletter 2026 Q3](https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html)
 * [2026-11-03, 07:33:25](https://lobste.rs/s/wpahfd/why_we_re_moving_our_warehouse_off_duckdb) - [Why we're moving our warehouse off DuckDB](https://posthog.com/blog/moving-off-duckdb)
 * [2026-11-03, 03:58:06](https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix) - [Why did you choose the nix you nix?](https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix)
 * [2026-11-02, 21:23:24](https://lobste.rs/s/wgoato/decade_kill_bugs) - [A Decade of Kill Bugs](https://alangrow.com/blog/a-decade-of-kill-bugs)
-* [2026-11-02, 20:26:38](https://lobste.rs/s/0ec9yk/introduction_b_trees_write_optimization) - [An Introduction to Bε-trees and Write-Optimization](https://www.usenix.org/publications/login/oct15/bender)
 * [2026-11-02, 19:48:40](https://lobste.rs/s/ezg5mx/my_favourite_laptop) - [My favourite laptop](https://blog.jsbarretto.com/post/laptop)
 * [2026-11-02, 19:42:32](https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact) - [This background sound leaks your exact location](https://youtu.be/UytYrhYLOKI)
 * [2026-11-02, 19:24:33](https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can) - [Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming/)
 * [2026-11-02, 19:22:32](https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts) - [Stop Hardcoding Your Timeouts](https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html)
 * [2026-11-02, 16:30:58](https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system) - [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
-* [2026-11-02, 15:22:16](https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware) - [Polyend releases the Tracker firmware source code](https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120)
-* [2026-11-01, 15:22:36](https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke) - [An outsider's perspective on Scion and Mononoke](https://typesanitizer.com/blog/scion.html)
 
 ## [Archives](archives/index.md)
 

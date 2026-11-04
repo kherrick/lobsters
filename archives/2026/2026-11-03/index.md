@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-03](index.md)
 
+* [2026-11-03, 23:45:21](https://lobste.rs/s/fgucra/observations_from_running) - [Observations from Running stealmybitcoin.com](https://pavursec.com/blog/stealmybitcoin/)
+* [2026-11-03, 23:05:03](https://lobste.rs/s/erkjnx/gist_go_concurrency) - [Gist of Go: Concurrency](https://antonz.org/go-concurrency/)
+* [2026-11-03, 22:44:48](https://lobste.rs/s/uutnr5/postgres_19_repack_built_online_table) - [Postgres 19 REPACK: Built-In Online Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 * [2026-11-03, 22:00:17](https://lobste.rs/s/siqsg7/announcing_netbsd_11_1) - [Announcing NetBSD 11.1](https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html)
 * [2026-11-03, 21:37:11](https://lobste.rs/s/1zetje/macos_27_golden_gate_does_not_actually) - [macOS 27 Golden Gate does not actually support CoreStorage volumes](https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/)
 * [2026-11-03, 21:01:04](https://lobste.rs/s/znbrpn/mine) - [mine](https://coalton-lang.github.io/mine/)
