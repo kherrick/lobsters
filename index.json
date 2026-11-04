@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-04, 18:00:32",
+      "https://lobste.rs/s/dmpdid/burnt_toast"
+    ],
+    [
+      "Burnt TOAST",
+      "https://www.pgedge.com/blog/burnt-toast"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 17:52:32",
+      "https://lobste.rs/s/gfm0xn/new_go_api_for_json"
+    ],
+    [
+      "A new Go API for JSON",
+      "https://go.dev/blog/jsonv2"
+    ]
+  ],
+  [
+    [
       "2026-11-04, 17:31:02",
       "https://lobste.rs/s/0vis9y/python_on_my_wrist"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-11-03, 23:05:03",
-      "https://lobste.rs/s/erkjnx/gist_go_concurrency"
-    ],
-    [
-      "Gist of Go: Concurrency",
-      "https://antonz.org/go-concurrency/"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 22:00:17",
       "https://lobste.rs/s/siqsg7/announcing_netbsd_11_1"
     ],
@@ -237,16 +247,6 @@
     [
       "Death comes for XSLT",
       "https://dbushell.com/2026/11/03/xslt-rip/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 21:23:24",
-      "https://lobste.rs/s/wgoato/decade_kill_bugs"
-    ],
-    [
-      "A Decade of Kill Bugs",
-      "https://alangrow.com/blog/a-decade-of-kill-bugs"
     ]
   ]
 ]
