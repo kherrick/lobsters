@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-04, 18:00:32](https://lobste.rs/s/dmpdid/burnt_toast) - [Burnt TOAST](https://www.pgedge.com/blog/burnt-toast)
+* [2026-11-04, 17:52:32](https://lobste.rs/s/gfm0xn/new_go_api_for_json) - [A new Go API for JSON](https://go.dev/blog/jsonv2)
 * [2026-11-04, 17:31:02](https://lobste.rs/s/0vis9y/python_on_my_wrist) - [Python on my wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
 * [2026-11-04, 15:54:58](https://lobste.rs/s/afjqpg/gleam_programming_language_update) - [Gleam Programming Language Update October 2026](https://www.youtube.com/watch?v=Jm2HZhwreNs)
 * [2026-11-04, 15:49:15](https://lobste.rs/s/gqis6q/arrows_arrows_categories_queries) - [Arrows to Arrows, Categories to Queries](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
@@ -16,7 +18,6 @@
 * [2026-11-04, 07:33:05](https://lobste.rs/s/6omthz/cryptography_behind_electronic_voting) - [The cryptography behind electronic voting (and why paper ballots are still essential)](https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/)
 * [2026-11-04, 03:08:11](https://lobste.rs/s/j1twhe/mac_at_any_scale) - [Mac at any scale](https://namespace.so/blog/mac-at-any-scale)
 * [2026-11-03, 23:45:21](https://lobste.rs/s/fgucra/observations_from_running) - [Observations from Running stealmybitcoin.com](https://pavursec.com/blog/stealmybitcoin/)
-* [2026-11-03, 23:05:03](https://lobste.rs/s/erkjnx/gist_go_concurrency) - [Gist of Go: Concurrency](https://antonz.org/go-concurrency/)
 * [2026-11-03, 22:00:17](https://lobste.rs/s/siqsg7/announcing_netbsd_11_1) - [Announcing NetBSD 11.1](https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html)
 * [2026-11-03, 20:03:16](https://lobste.rs/s/xbmjlj/would_you_believe_it_s_jank) - [Would you believe it's jank?](https://www.youtube.com/watch?v=tHgApFhevrQ)
 * [2026-11-03, 18:54:55](https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation) - [Your terminal manipulation/navigation setups](https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation)
@@ -24,7 +25,6 @@
 * [2026-11-03, 15:44:27](https://lobste.rs/s/1gndxr/could_modern_chess_engine_on_pentium_have) - [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
 * [2026-11-03, 15:23:21](https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible) - [The Ubuntu 26.04 Rust sudo is not compatible with standard sudo](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible)
 * [2026-11-03, 15:19:50](https://lobste.rs/s/chypzr/death_comes_for_xslt) - [Death comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
-* [2026-11-02, 21:23:24](https://lobste.rs/s/wgoato/decade_kill_bugs) - [A Decade of Kill Bugs](https://alangrow.com/blog/a-decade-of-kill-bugs)
 
 ## [Archives](archives/index.md)
 

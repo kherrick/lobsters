@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-04](index.md)
 
+* [2026-11-04, 18:00:32](https://lobste.rs/s/dmpdid/burnt_toast) - [Burnt TOAST](https://www.pgedge.com/blog/burnt-toast)
+* [2026-11-04, 17:52:32](https://lobste.rs/s/gfm0xn/new_go_api_for_json) - [A new Go API for JSON](https://go.dev/blog/jsonv2)
 * [2026-11-04, 17:31:02](https://lobste.rs/s/0vis9y/python_on_my_wrist) - [Python on my wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
 * [2026-11-04, 15:54:58](https://lobste.rs/s/afjqpg/gleam_programming_language_update) - [Gleam Programming Language Update October 2026](https://www.youtube.com/watch?v=Jm2HZhwreNs)
 * [2026-11-04, 15:49:15](https://lobste.rs/s/gqis6q/arrows_arrows_categories_queries) - [Arrows to Arrows, Categories to Queries](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
