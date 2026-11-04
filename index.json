@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-11-04, 02:10:26",
+      "https://lobste.rs/s/in86vn/valley_webhooks"
+    ],
+    [
+      "The valley of webhooks",
+      "https://weli.dev/blog/the-valley-of-webhooks/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 23:45:21",
+      "https://lobste.rs/s/fgucra/observations_from_running"
+    ],
+    [
+      "Observations from Running stealmybitcoin.com",
+      "https://pavursec.com/blog/stealmybitcoin/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 23:05:03",
+      "https://lobste.rs/s/erkjnx/gist_go_concurrency"
+    ],
+    [
+      "Gist of Go: Concurrency",
+      "https://antonz.org/go-concurrency/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 22:44:48",
+      "https://lobste.rs/s/uutnr5/postgres_19_repack_built_online_table"
+    ],
+    [
+      "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
+      "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/"
+    ]
+  ],
+  [
+    [
       "2026-11-03, 22:00:17",
       "https://lobste.rs/s/siqsg7/announcing_netbsd_11_1"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-11-03, 08:03:58",
-      "https://lobste.rs/s/trqbi2/firefox_security_privacy_newsletter"
-    ],
-    [
-      "Firefox Security & Privacy Newsletter 2026 Q3",
-      "https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 07:33:25",
       "https://lobste.rs/s/wpahfd/why_we_re_moving_our_warehouse_off_duckdb"
     ],
@@ -167,16 +197,6 @@
     [
       "A Decade of Kill Bugs",
       "https://alangrow.com/blog/a-decade-of-kill-bugs"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 20:26:38",
-      "https://lobste.rs/s/0ec9yk/introduction_b_trees_write_optimization"
-    ],
-    [
-      "An Introduction to Bε-trees and Write-Optimization",
-      "https://www.usenix.org/publications/login/oct15/bender"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Jailbreaking my car's navigation system just so I can change the time",
       "https://blog.nns.ee/2026/11/02/renault-hack/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 15:22:16",
-      "https://lobste.rs/s/gu6yyl/polyend_releases_tracker_firmware"
-    ],
-    [
-      "Polyend releases the Tracker firmware source code",
-      "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 15:22:36",
-      "https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke"
-    ],
-    [
-      "An outsider's perspective on Scion and Mononoke",
-      "https://typesanitizer.com/blog/scion.html"
     ]
   ]
 ]
