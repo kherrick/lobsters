@@ -1,12 +1,152 @@
 [
   [
     [
-      "2026-11-04, 02:10:26",
-      "https://lobste.rs/s/in86vn/valley_webhooks"
+      "2026-11-04, 17:31:02",
+      "https://lobste.rs/s/0vis9y/python_on_my_wrist"
     ],
     [
-      "The valley of webhooks",
-      "https://weli.dev/blog/the-valley-of-webhooks/"
+      "Python on my wrist",
+      "https://tildeweb.nl/~michiel/python-on-my-wrist.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 15:54:58",
+      "https://lobste.rs/s/afjqpg/gleam_programming_language_update"
+    ],
+    [
+      "Gleam Programming Language Update October 2026",
+      "https://www.youtube.com/watch?v=Jm2HZhwreNs"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 15:49:15",
+      "https://lobste.rs/s/gqis6q/arrows_arrows_categories_queries"
+    ],
+    [
+      "Arrows to Arrows, Categories to Queries",
+      "https://reasonablypolymorphic.com/blog/arrows-to-arrows/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 15:23:09",
+      "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"
+    ],
+    [
+      "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+      "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 14:58:11",
+      "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"
+    ],
+    [
+      "Your Cryptography Conspiracy Theory Is Wrong",
+      "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 14:50:34",
+      "https://lobste.rs/s/5xljpx/lorem_ipsum_dot_gov_dot_uk"
+    ],
+    [
+      "Lorem Ipsum Dot Gov Dot UK",
+      "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 14:05:16",
+      "https://lobste.rs/s/ecrqpy/how_speed_up_rust_compiler_november_2026"
+    ],
+    [
+      "How to speed up the Rust compiler in November 2026",
+      "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 13:36:43",
+      "https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution"
+    ],
+    [
+      "Man-in-the-middle arbitrary code execution in Debian’s apt",
+      "https://lists.debian.org/debian-security-announce/2026/msg00526.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 12:06:23",
+      "https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns"
+    ],
+    [
+      "So my ISP was hijacking my DNS",
+      "https://karthihegde.dev/posts/dns_tampering"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 11:04:40",
+      "https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode"
+    ],
+    [
+      "Introducing Adaptive Dark Mode",
+      "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 10:57:35",
+      "https://lobste.rs/s/pa1411/zig_0_17_1_released"
+    ],
+    [
+      "Zig 0.17.1 Released",
+      "https://ziglang.org/news/0.17.1-released/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 09:02:48",
+      "https://lobste.rs/s/fcfoqq/fraction_comparison_trick_revisited"
+    ],
+    [
+      "Fraction comparison trick revisited",
+      "https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 08:56:24",
+      "https://lobste.rs/s/xvtufg/c_26_disapproved"
+    ],
+    [
+      "C++26 Disapproved",
+      "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 07:33:05",
+      "https://lobste.rs/s/6omthz/cryptography_behind_electronic_voting"
+    ],
+    [
+      "The cryptography behind electronic voting (and why paper ballots are still essential)",
+      "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 03:08:11",
+      "https://lobste.rs/s/j1twhe/mac_at_any_scale"
+    ],
+    [
+      "Mac at any scale",
+      "https://namespace.so/blog/mac-at-any-scale"
     ]
   ],
   [
@@ -31,16 +171,6 @@
   ],
   [
     [
-      "2026-11-03, 22:44:48",
-      "https://lobste.rs/s/uutnr5/postgres_19_repack_built_online_table"
-    ],
-    [
-      "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
-      "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 22:00:17",
       "https://lobste.rs/s/siqsg7/announcing_netbsd_11_1"
     ],
@@ -51,42 +181,12 @@
   ],
   [
     [
-      "2026-11-03, 21:37:11",
-      "https://lobste.rs/s/1zetje/macos_27_golden_gate_does_not_actually"
-    ],
-    [
-      "macOS 27 Golden Gate does not actually support CoreStorage volumes",
-      "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 21:01:04",
-      "https://lobste.rs/s/znbrpn/mine"
-    ],
-    [
-      "mine",
-      "https://coalton-lang.github.io/mine/"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 20:03:16",
       "https://lobste.rs/s/xbmjlj/would_you_believe_it_s_jank"
     ],
     [
       "Would you believe it's jank?",
       "https://www.youtube.com/watch?v=tHgApFhevrQ"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 19:45:28",
-      "https://lobste.rs/s/qvpzfa/common_beliefs_about_dnssec_put_test"
-    ],
-    [
-      "Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions",
-      "https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions"
     ]
   ],
   [
@@ -107,26 +207,6 @@
     [
       "kitty 0.50.0",
       "https://sw.kovidgoyal.net/kitty/changelog/#id1"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 16:33:43",
-      "https://lobste.rs/s/rwlg3h/planning_with_open_variable_lists_gecode"
-    ],
-    [
-      "Planning with open variable lists in Gecode",
-      "https://zayenz.se/blog/post/open-cp-in-gecode/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 16:14:27",
-      "https://lobste.rs/s/ihvhfk/second_futamura_projection"
-    ],
-    [
-      "A Second Futamura Projection",
-      "https://blog.veitheller.de/A_Second_Futamura_Projection.html"
     ]
   ],
   [
@@ -161,92 +241,12 @@
   ],
   [
     [
-      "2026-11-03, 14:24:08",
-      "https://lobste.rs/s/yes2hc/ideas_for_social_networks"
-    ],
-    [
-      "Ideas for social networks",
-      "https://raphaelkabo.com/blog/social-network-ideas"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 07:33:25",
-      "https://lobste.rs/s/wpahfd/why_we_re_moving_our_warehouse_off_duckdb"
-    ],
-    [
-      "Why we're moving our warehouse off DuckDB",
-      "https://posthog.com/blog/moving-off-duckdb"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 03:58:06",
-      "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix"
-    ],
-    [
-      "Why did you choose the nix you nix?",
-      "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix"
-    ]
-  ],
-  [
-    [
       "2026-11-02, 21:23:24",
       "https://lobste.rs/s/wgoato/decade_kill_bugs"
     ],
     [
       "A Decade of Kill Bugs",
       "https://alangrow.com/blog/a-decade-of-kill-bugs"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 19:48:40",
-      "https://lobste.rs/s/ezg5mx/my_favourite_laptop"
-    ],
-    [
-      "My favourite laptop",
-      "https://blog.jsbarretto.com/post/laptop"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 19:42:32",
-      "https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact"
-    ],
-    [
-      "This background sound leaks your exact location",
-      "https://youtu.be/UytYrhYLOKI"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 19:24:33",
-      "https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can"
-    ],
-    [
-      "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-      "https://rikiyat.github.io/blog/weight-space-programming/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 19:22:32",
-      "https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts"
-    ],
-    [
-      "Stop Hardcoding Your Timeouts",
-      "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 16:30:58",
-      "https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system"
-    ],
-    [
-      "Jailbreaking my car's navigation system just so I can change the time",
-      "https://blog.nns.ee/2026/11/02/renault-hack/"
     ]
   ]
 ]
