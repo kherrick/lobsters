@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-05, 00:35:09](https://lobste.rs/s/jplxxr/declarative_dragging) - [Declarative Dragging](https://declarative-dragging.github.io/)
 * [2026-11-04, 18:00:32](https://lobste.rs/s/dmpdid/burnt_toast) - [Burnt TOAST](https://www.pgedge.com/blog/burnt-toast)
 * [2026-11-04, 17:52:32](https://lobste.rs/s/gfm0xn/new_go_api_for_json) - [A new Go API for JSON](https://go.dev/blog/jsonv2)
 * [2026-11-04, 17:31:02](https://lobste.rs/s/0vis9y/python_on_my_wrist) - [Python on my wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
@@ -21,7 +22,6 @@
 * [2026-11-03, 22:00:17](https://lobste.rs/s/siqsg7/announcing_netbsd_11_1) - [Announcing NetBSD 11.1](https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html)
 * [2026-11-03, 20:03:16](https://lobste.rs/s/xbmjlj/would_you_believe_it_s_jank) - [Would you believe it's jank?](https://www.youtube.com/watch?v=tHgApFhevrQ)
 * [2026-11-03, 18:54:55](https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation) - [Your terminal manipulation/navigation setups](https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation)
-* [2026-11-03, 17:43:09](https://lobste.rs/s/gwyv50/kitty_0_50_0) - [kitty 0.50.0](https://sw.kovidgoyal.net/kitty/changelog/#id1)
 * [2026-11-03, 15:44:27](https://lobste.rs/s/1gndxr/could_modern_chess_engine_on_pentium_have) - [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
 * [2026-11-03, 15:23:21](https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible) - [The Ubuntu 26.04 Rust sudo is not compatible with standard sudo](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible)
 * [2026-11-03, 15:19:50](https://lobste.rs/s/chypzr/death_comes_for_xslt) - [Death comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
