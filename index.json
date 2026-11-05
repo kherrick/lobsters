@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-05, 22:50:25",
+      "https://lobste.rs/s/xzmotx/why_working_with_ai_agents_is_so_tiring"
+    ],
+    [
+      "Why working with AI agents is so tiring (and what to do about it) – Tech, work, and what comes next",
+      "https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 22:07:32",
+      "https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler"
+    ],
+    [
+      "A Quick Guide to Go's Assembler",
+      "https://go.dev/doc/asm"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 18:34:41",
+      "https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass"
+    ],
+    [
+      "SourceHut disabled registration bypass | CVE-2026-121728",
+      "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/"
+    ]
+  ],
+  [
+    [
       "2026-11-05, 17:32:18",
       "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age_bryan"
     ],
@@ -81,22 +111,22 @@
   ],
   [
     [
-      "2026-11-05, 09:56:49",
-      "https://lobste.rs/s/ehtpx8/state_python_profiling_2026"
-    ],
-    [
-      "The State of Python Profiling in 2026",
-      "https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html"
-    ]
-  ],
-  [
-    [
       "2026-11-05, 09:29:01",
       "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for"
     ],
     [
       "Why is there an Anubis gate in front of Search for logged-in users?",
       "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 09:25:36",
+      "https://lobste.rs/s/cm9b92/ulc_audio_codec_is_perfect_fit_for_n64"
+    ],
+    [
+      "The ULC Audio Codec is a Perfect Fit for the N64",
+      "https://phoboslab.org/log/2026/11/n64-ulc-codec"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
       "https://wiredream.com/anagram-fun/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 01:53:17",
-      "https://lobste.rs/s/x1wkwe/history_backdoors_2015"
-    ],
-    [
-      "A history of backdoors (2015)",
-      "https://blog.cryptographyengineering.com/2015/07/20/a-history-of-backdoors/"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "A new Go API for JSON",
       "https://go.dev/blog/jsonv2"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 15:54:58",
-      "https://lobste.rs/s/afjqpg/gleam_programming_language_update"
-    ],
-    [
-      "Gleam Programming Language Update October 2026",
-      "https://www.youtube.com/watch?v=Jm2HZhwreNs"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Introducing Adaptive Dark Mode",
       "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 10:57:35",
-      "https://lobste.rs/s/pa1411/zig_0_17_1_released"
-    ],
-    [
-      "Zig 0.17.1 Released",
-      "https://ziglang.org/news/0.17.1-released/"
     ]
   ],
   [
