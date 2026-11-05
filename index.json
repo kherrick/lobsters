@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-11-05, 17:32:18",
+      "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age_bryan"
+    ],
+    [
+      "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
+      "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 17:22:48",
+      "https://lobste.rs/s/cpwy05/can_23_000_quantum_qubits_break_rsa_2048"
+    ],
+    [
+      "Can 23,000 quantum qubits break RSA-2048?",
+      "https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 16:32:29",
+      "https://lobste.rs/s/yoywed/software_line_specialist"
+    ],
+    [
+      "Software Line Specialist",
+      "https://lovro-bikic.github.io/software-line-specialist/"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 16:31:51",
+      "https://lobste.rs/s/wfw32o/how_flink_s_kafka_connector_commits"
+    ],
+    [
+      "How Flink's Kafka connector commits offsets to Kafka",
+      "https://dalelane.co.uk/blog/?p=6161"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 13:47:56",
+      "https://lobste.rs/s/u26wki/september_servo_progress_rounded"
+    ],
+    [
+      "September in Servo: progress, rounded rectangles, and more",
+      "https://servo.org/blog/2026/11/05/september-in-servo/"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 13:30:50",
+      "https://lobste.rs/s/pqzdyt/gnu_mes_0_28_release"
+    ],
+    [
+      "GNU Mes and the 0.28 release",
+      "https://ekaitz.elenq.tech/fasterMes10.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 12:24:42",
+      "https://lobste.rs/s/oq5pem/sshhole"
+    ],
+    [
+      "sshhole",
+      "https://sshhole.com/"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 10:44:57",
+      "https://lobste.rs/s/vbx0g4/look_at_datastar"
+    ],
+    [
+      "A Look at Datastar",
+      "https://noteflakes.com/articles/2026-11-04-datastar"
+    ]
+  ],
+  [
+    [
       "2026-11-05, 09:56:49",
       "https://lobste.rs/s/ehtpx8/state_python_profiling_2026"
     ],
@@ -21,32 +101,12 @@
   ],
   [
     [
-      "2026-11-05, 09:25:36",
-      "https://lobste.rs/s/cm9b92/ulc_audio_codec_is_perfect_fit_for_n64"
-    ],
-    [
-      "The ULC Audio Codec is a Perfect Fit for the N64",
-      "https://phoboslab.org/log/2026/11/n64-ulc-codec"
-    ]
-  ],
-  [
-    [
       "2026-11-05, 09:16:01",
       "https://lobste.rs/s/oqc2sn/86open"
     ],
     [
       "86open",
       "https://en.wikipedia.org/wiki/Executable_and_Linkable_Format#86open"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 09:12:04",
-      "https://lobste.rs/s/ypibfy/on_vsyscalls_vdso_2011"
-    ],
-    [
-      "On vsyscalls and the vDSO (2011)",
-      "https://lwn.net/Articles/446528/"
     ]
   ],
   [
@@ -91,32 +151,12 @@
   ],
   [
     [
-      "2026-11-04, 18:00:32",
-      "https://lobste.rs/s/dmpdid/burnt_toast"
-    ],
-    [
-      "Burnt TOAST",
-      "https://www.pgedge.com/blog/burnt-toast"
-    ]
-  ],
-  [
-    [
       "2026-11-04, 17:52:32",
       "https://lobste.rs/s/gfm0xn/new_go_api_for_json"
     ],
     [
       "A new Go API for JSON",
       "https://go.dev/blog/jsonv2"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 17:31:02",
-      "https://lobste.rs/s/0vis9y/python_on_my_wrist"
-    ],
-    [
-      "Python on my wrist",
-      "https://tildeweb.nl/~michiel/python-on-my-wrist.html"
     ]
   ],
   [
@@ -147,16 +187,6 @@
     [
       "Your Cryptography Conspiracy Theory Is Wrong",
       "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 14:50:34",
-      "https://lobste.rs/s/5xljpx/lorem_ipsum_dot_gov_dot_uk"
-    ],
-    [
-      "Lorem Ipsum Dot Gov Dot UK",
-      "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/"
     ]
   ],
   [
@@ -217,36 +247,6 @@
     [
       "C++26 Disapproved",
       "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 23:45:21",
-      "https://lobste.rs/s/fgucra/observations_from_running"
-    ],
-    [
-      "Observations from Running stealmybitcoin.com",
-      "https://pavursec.com/blog/stealmybitcoin/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 15:23:21",
-      "https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible"
-    ],
-    [
-      "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 15:19:50",
-      "https://lobste.rs/s/chypzr/death_comes_for_xslt"
-    ],
-    [
-      "Death comes for XSLT",
-      "https://dbushell.com/2026/11/03/xslt-rip/"
     ]
   ]
 ]
