@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-11-05](index.md)
 
+* [2026-11-05, 17:32:18](https://lobste.rs/s/yomksa/reflections_on_rust_llm_age_bryan) - [Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC](https://www.youtube.com/watch?v=5D7QPOIZ7gY)
+* [2026-11-05, 17:22:48](https://lobste.rs/s/cpwy05/can_23_000_quantum_qubits_break_rsa_2048) - [Can 23,000 quantum qubits break RSA-2048?](https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa)
+* [2026-11-05, 16:32:29](https://lobste.rs/s/yoywed/software_line_specialist) - [Software Line Specialist](https://lovro-bikic.github.io/software-line-specialist/)
+* [2026-11-05, 16:31:51](https://lobste.rs/s/wfw32o/how_flink_s_kafka_connector_commits) - [How Flink's Kafka connector commits offsets to Kafka](https://dalelane.co.uk/blog/?p=6161)
+* [2026-11-05, 13:47:56](https://lobste.rs/s/u26wki/september_servo_progress_rounded) - [September in Servo: progress, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/)
+* [2026-11-05, 13:30:50](https://lobste.rs/s/pqzdyt/gnu_mes_0_28_release) - [GNU Mes and the 0.28 release](https://ekaitz.elenq.tech/fasterMes10.html)
+* [2026-11-05, 12:24:42](https://lobste.rs/s/oq5pem/sshhole) - [sshhole](https://sshhole.com/)
+* [2026-11-05, 10:44:57](https://lobste.rs/s/vbx0g4/look_at_datastar) - [A Look at Datastar](https://noteflakes.com/articles/2026-11-04-datastar)
 * [2026-11-05, 09:56:49](https://lobste.rs/s/ehtpx8/state_python_profiling_2026) - [The State of Python Profiling in 2026](https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html)
 * [2026-11-05, 09:29:01](https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for) - [Why is there an Anubis gate in front of Search for logged-in users?](https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for)
 * [2026-11-05, 09:25:36](https://lobste.rs/s/cm9b92/ulc_audio_codec_is_perfect_fit_for_n64) - [The ULC Audio Codec is a Perfect Fit for the N64](https://phoboslab.org/log/2026/11/n64-ulc-codec)
