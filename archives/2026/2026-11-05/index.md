@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-05](index.md)
 
+* [2026-11-05, 22:50:25](https://lobste.rs/s/xzmotx/why_working_with_ai_agents_is_so_tiring) - [Why working with AI agents is so tiring (and what to do about it) – Tech, work, and what comes next](https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/)
+* [2026-11-05, 22:07:32](https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler) - [A Quick Guide to Go's Assembler](https://go.dev/doc/asm)
+* [2026-11-05, 18:34:41](https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass) - [SourceHut disabled registration bypass | CVE-2026-121728](https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/)
 * [2026-11-05, 17:32:18](https://lobste.rs/s/yomksa/reflections_on_rust_llm_age_bryan) - [Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC](https://www.youtube.com/watch?v=5D7QPOIZ7gY)
 * [2026-11-05, 17:22:48](https://lobste.rs/s/cpwy05/can_23_000_quantum_qubits_break_rsa_2048) - [Can 23,000 quantum qubits break RSA-2048?](https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa)
 * [2026-11-05, 16:32:29](https://lobste.rs/s/yoywed/software_line_specialist) - [Software Line Specialist](https://lovro-bikic.github.io/software-line-specialist/)
