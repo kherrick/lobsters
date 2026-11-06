@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-11-06](index.md)
 
+* [2026-11-06, 18:00:07](https://lobste.rs/s/gzdimd/how_we_continuously_validate_formal) - [How we continuously validate formal specifications in production](https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/)
+* [2026-11-06, 17:50:09](https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage) - [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)
+* [2026-11-06, 17:48:51](https://lobste.rs/s/lzuqfr/from_linux_wikipedia_how_volunteers) - [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
+* [2026-11-06, 17:39:08](https://lobste.rs/s/8qalfk/bug_finding_considered_harmful) - [Bug Finding Considered Harmful?](https://alperenkeles.com/posts/bug-finding-considered-harmful/)
+* [2026-11-06, 15:37:00](https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests) - [The MustCreate Pattern for Go Tests](https://mtlynch.io/notes/go-must-create-pattern/)
+* [2026-11-06, 15:22:55](https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1) - [Upgrading NetBSD from 11.0 to 11.1](https://www.dwarmstrong.org/netbsd-upgrade/)
+* [2026-11-06, 14:47:48](https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo) - [Pushing the Limits with getaddrinfo](https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/)
+* [2026-11-06, 13:23:14](https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers) - [Making musl and proprietary NVIDIA drivers work together](https://chimera-linux.org/news/2026/11/musl-nvidia.html)
 * [2026-11-06, 09:15:23](https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend)
 * [2026-11-06, 08:53:27](https://lobste.rs/s/l6gu7r/practical_guide_on_out_tree_mitigations) - [Practical guide on out of tree mitigations on Linux](https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi)
 * [2026-11-06, 04:20:58](https://lobste.rs/s/dxno99/clojure_distilled) - [Clojure Distilled](https://yogthos.net/ClojureDistilled.html)
