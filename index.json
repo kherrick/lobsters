@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-11-06, 18:00:07",
+      "https://lobste.rs/s/gzdimd/how_we_continuously_validate_formal"
+    ],
+    [
+      "How we continuously validate formal specifications in production",
+      "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 17:50:09",
+      "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"
+    ],
+    [
+      "Inside GitHub's new Git storage architecture",
+      "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 17:48:51",
+      "https://lobste.rs/s/lzuqfr/from_linux_wikipedia_how_volunteers"
+    ],
+    [
+      "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 17:39:08",
+      "https://lobste.rs/s/8qalfk/bug_finding_considered_harmful"
+    ],
+    [
+      "Bug Finding Considered Harmful?",
+      "https://alperenkeles.com/posts/bug-finding-considered-harmful/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 15:37:00",
+      "https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests"
+    ],
+    [
+      "The MustCreate Pattern for Go Tests",
+      "https://mtlynch.io/notes/go-must-create-pattern/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 15:22:55",
+      "https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1"
+    ],
+    [
+      "Upgrading NetBSD from 11.0 to 11.1",
+      "https://www.dwarmstrong.org/netbsd-upgrade/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 14:47:48",
+      "https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo"
+    ],
+    [
+      "Pushing the Limits with getaddrinfo",
+      "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 13:23:14",
+      "https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"
+    ],
+    [
+      "Making musl and proprietary NVIDIA drivers work together",
+      "https://chimera-linux.org/news/2026/11/musl-nvidia.html"
+    ]
+  ],
+  [
+    [
       "2026-11-06, 09:15:23",
       "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend"
     ],
@@ -82,21 +162,11 @@
   [
     [
       "2026-11-05, 17:32:18",
-      "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age_bryan"
+      "https://lobste.rs/s/yomksa/reflections_on_rust_llm_age"
     ],
     [
-      "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
+      "Reflections on Rust in the LLM Age",
       "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 17:22:48",
-      "https://lobste.rs/s/cpwy05/can_23_000_quantum_qubits_break_rsa_2048"
-    ],
-    [
-      "Can 23,000 quantum qubits break RSA-2048?",
-      "https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa"
     ]
   ],
   [
@@ -151,16 +221,6 @@
   ],
   [
     [
-      "2026-11-05, 09:29:01",
-      "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for"
-    ],
-    [
-      "Why is there an Anubis gate in front of Search for logged-in users?",
-      "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for"
-    ]
-  ],
-  [
-    [
       "2026-11-05, 07:37:35",
       "https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously"
     ],
@@ -181,72 +241,12 @@
   ],
   [
     [
-      "2026-11-05, 00:30:40",
-      "https://lobste.rs/s/253two/residential_proxies_detected_on_white"
-    ],
-    [
-      "Residential Proxies Detected on White House Network",
-      "https://layer3intel.com/blog/residential-proxies-white-house-network"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 17:52:32",
-      "https://lobste.rs/s/gfm0xn/new_go_api_for_json"
-    ],
-    [
-      "A new Go API for JSON",
-      "https://go.dev/blog/jsonv2"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 15:23:09",
-      "https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"
-    ],
-    [
-      "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
-      "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 14:58:11",
-      "https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"
-    ],
-    [
-      "Your Cryptography Conspiracy Theory Is Wrong",
-      "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 13:36:43",
-      "https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution"
-    ],
-    [
-      "Man-in-the-middle arbitrary code execution in Debian’s apt",
-      "https://lists.debian.org/debian-security-announce/2026/msg00526.html"
-    ]
-  ],
-  [
-    [
       "2026-11-04, 12:06:23",
       "https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns"
     ],
     [
       "So my ISP was hijacking my DNS",
       "https://karthihegde.dev/posts/dns_tampering"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 11:04:40",
-      "https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode"
-    ],
-    [
-      "Introducing Adaptive Dark Mode",
-      "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"
     ]
   ]
 ]
