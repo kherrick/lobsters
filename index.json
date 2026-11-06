@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-11-05, 22:50:25",
-      "https://lobste.rs/s/xzmotx/why_working_with_ai_agents_is_so_tiring"
+      "2026-11-06, 03:01:39",
+      "https://lobste.rs/s/ml83td/how_windows_bootloader_starts_kernel"
     ],
     [
-      "Why working with AI agents is so tiring (and what to do about it) – Tech, work, and what comes next",
-      "https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/"
+      "How Windows Bootloader Starts the Kernel",
+      "https://www.youtube.com/watch?v=mxj7z6WqK14"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 00:16:07",
+      "https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes"
+    ],
+    [
+      "X-87 - DOS 256 bytes",
+      "https://www.onirom.fr/wiki/codegolf/x-87/"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 23:33:07",
+      "https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding"
+    ],
+    [
+      "I Go to Olympics of 4KB Coding",
+      "https://inv.nadeko.net/watch?v=PeZNLvD4mds"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Software Line Specialist",
       "https://lovro-bikic.github.io/software-line-specialist/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 16:31:51",
-      "https://lobste.rs/s/wfw32o/how_flink_s_kafka_connector_commits"
-    ],
-    [
-      "How Flink's Kafka connector commits offsets to Kafka",
-      "https://dalelane.co.uk/blog/?p=6161"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Introducing Adaptive Dark Mode",
       "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 08:56:24",
-      "https://lobste.rs/s/xvtufg/c_26_disapproved"
-    ],
-    [
-      "C++26 Disapproved",
-      "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"
     ]
   ]
 ]
