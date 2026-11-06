@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-06, 20:50:24](https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses) - [Hacking the meta ray-ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
+* [2026-11-06, 19:16:01](https://lobste.rs/s/4lgvnf/nondeterminism_futhark) - [Nondeterminism in Futhark](https://futhark-lang.org/blog/2026-11-04-nondeterminism.html)
+* [2026-11-06, 18:51:53](https://lobste.rs/s/id3f9d/kevin_boone_firststeps_bare_metal) - [Kevin Boone: Firststeps in bare-metal programming using UEFI – series index](https://kevinboone.me/efitest_index.html)
 * [2026-11-06, 18:00:07](https://lobste.rs/s/gzdimd/how_we_continuously_validate_formal) - [How we continuously validate formal specifications in production](https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/)
 * [2026-11-06, 17:50:09](https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage) - [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)
 * [2026-11-06, 17:48:51](https://lobste.rs/s/lzuqfr/from_linux_wikipedia_how_volunteers) - [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
@@ -11,7 +14,6 @@
 * [2026-11-06, 09:15:23](https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend)
 * [2026-11-06, 08:53:27](https://lobste.rs/s/l6gu7r/practical_guide_on_out_tree_mitigations) - [Practical guide on out of tree mitigations on Linux](https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi)
 * [2026-11-06, 04:20:58](https://lobste.rs/s/dxno99/clojure_distilled) - [Clojure Distilled](https://yogthos.net/ClojureDistilled.html)
-* [2026-11-06, 03:01:39](https://lobste.rs/s/ml83td/how_windows_bootloader_starts_kernel) - [How Windows Bootloader Starts the Kernel](https://www.youtube.com/watch?v=mxj7z6WqK14)
 * [2026-11-06, 00:16:07](https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes) - [X-87 - DOS 256 bytes](https://www.onirom.fr/wiki/codegolf/x-87/)
 * [2026-11-05, 23:33:07](https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding) - [I Go to Olympics of 4KB Coding](https://inv.nadeko.net/watch?v=PeZNLvD4mds)
 * [2026-11-05, 22:07:32](https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler) - [A Quick Guide to Go's Assembler](https://go.dev/doc/asm)
@@ -22,9 +24,7 @@
 * [2026-11-05, 13:30:50](https://lobste.rs/s/pqzdyt/gnu_mes_0_28_release) - [GNU Mes and the 0.28 release](https://ekaitz.elenq.tech/fasterMes10.html)
 * [2026-11-05, 12:24:42](https://lobste.rs/s/oq5pem/sshhole) - [sshhole](https://sshhole.com/)
 * [2026-11-05, 10:44:57](https://lobste.rs/s/vbx0g4/look_at_datastar) - [A Look at Datastar](https://noteflakes.com/articles/2026-11-04-datastar)
-* [2026-11-05, 07:37:35](https://lobste.rs/s/hrsyjf/11_nanoseconds_per_word_ridiculously) - [11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams](https://wiredream.com/anagram-fun/)
 * [2026-11-05, 00:35:09](https://lobste.rs/s/jplxxr/declarative_dragging) - [Declarative Dragging](https://declarative-dragging.github.io/)
-* [2026-11-04, 12:06:23](https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns) - [So my ISP was hijacking my DNS](https://karthihegde.dev/posts/dns_tampering)
 
 ## [Archives](archives/index.md)
 

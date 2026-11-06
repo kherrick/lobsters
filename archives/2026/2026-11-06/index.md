@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-06](index.md)
 
+* [2026-11-06, 20:50:24](https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses) - [Hacking the meta ray-ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
+* [2026-11-06, 19:16:01](https://lobste.rs/s/4lgvnf/nondeterminism_futhark) - [Nondeterminism in Futhark](https://futhark-lang.org/blog/2026-11-04-nondeterminism.html)
+* [2026-11-06, 18:51:53](https://lobste.rs/s/id3f9d/kevin_boone_firststeps_bare_metal) - [Kevin Boone: Firststeps in bare-metal programming using UEFI – series index](https://kevinboone.me/efitest_index.html)
 * [2026-11-06, 18:00:07](https://lobste.rs/s/gzdimd/how_we_continuously_validate_formal) - [How we continuously validate formal specifications in production](https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/)
 * [2026-11-06, 17:50:09](https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage) - [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)
 * [2026-11-06, 17:48:51](https://lobste.rs/s/lzuqfr/from_linux_wikipedia_how_volunteers) - [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
