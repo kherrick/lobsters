@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-05, 22:50:25](https://lobste.rs/s/xzmotx/why_working_with_ai_agents_is_so_tiring) - [Why working with AI agents is so tiring (and what to do about it) – Tech, work, and what comes next](https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/)
+* [2026-11-06, 03:01:39](https://lobste.rs/s/ml83td/how_windows_bootloader_starts_kernel) - [How Windows Bootloader Starts the Kernel](https://www.youtube.com/watch?v=mxj7z6WqK14)
+* [2026-11-06, 00:16:07](https://lobste.rs/s/q0ld7f/x_87_dos_256_bytes) - [X-87 - DOS 256 bytes](https://www.onirom.fr/wiki/codegolf/x-87/)
+* [2026-11-05, 23:33:07](https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding) - [I Go to Olympics of 4KB Coding](https://inv.nadeko.net/watch?v=PeZNLvD4mds)
 * [2026-11-05, 22:07:32](https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler) - [A Quick Guide to Go's Assembler](https://go.dev/doc/asm)
 * [2026-11-05, 18:34:41](https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass) - [SourceHut disabled registration bypass | CVE-2026-121728](https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/)
 * [2026-11-05, 17:32:18](https://lobste.rs/s/yomksa/reflections_on_rust_llm_age_bryan) - [Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC](https://www.youtube.com/watch?v=5D7QPOIZ7gY)
 * [2026-11-05, 17:22:48](https://lobste.rs/s/cpwy05/can_23_000_quantum_qubits_break_rsa_2048) - [Can 23,000 quantum qubits break RSA-2048?](https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa)
 * [2026-11-05, 16:32:29](https://lobste.rs/s/yoywed/software_line_specialist) - [Software Line Specialist](https://lovro-bikic.github.io/software-line-specialist/)
-* [2026-11-05, 16:31:51](https://lobste.rs/s/wfw32o/how_flink_s_kafka_connector_commits) - [How Flink's Kafka connector commits offsets to Kafka](https://dalelane.co.uk/blog/?p=6161)
 * [2026-11-05, 13:47:56](https://lobste.rs/s/u26wki/september_servo_progress_rounded) - [September in Servo: progress, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/)
 * [2026-11-05, 13:30:50](https://lobste.rs/s/pqzdyt/gnu_mes_0_28_release) - [GNU Mes and the 0.28 release](https://ekaitz.elenq.tech/fasterMes10.html)
 * [2026-11-05, 12:24:42](https://lobste.rs/s/oq5pem/sshhole) - [sshhole](https://sshhole.com/)
@@ -24,7 +25,6 @@
 * [2026-11-04, 13:36:43](https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution) - [Man-in-the-middle arbitrary code execution in Debian’s apt](https://lists.debian.org/debian-security-announce/2026/msg00526.html)
 * [2026-11-04, 12:06:23](https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns) - [So my ISP was hijacking my DNS](https://karthihegde.dev/posts/dns_tampering)
 * [2026-11-04, 11:04:40](https://lobste.rs/s/yba0yg/introducing_adaptive_dark_mode) - [Introducing Adaptive Dark Mode](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
-* [2026-11-04, 08:56:24](https://lobste.rs/s/xvtufg/c_26_disapproved) - [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-05](index.md)
 
+* [2026-11-05, 23:33:07](https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding) - [I Go to Olympics of 4KB Coding](https://inv.nadeko.net/watch?v=PeZNLvD4mds)
 * [2026-11-05, 22:50:25](https://lobste.rs/s/xzmotx/why_working_with_ai_agents_is_so_tiring) - [Why working with AI agents is so tiring (and what to do about it) – Tech, work, and what comes next](https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/)
 * [2026-11-05, 22:07:32](https://lobste.rs/s/o0e2wj/quick_guide_go_s_assembler) - [A Quick Guide to Go's Assembler](https://go.dev/doc/asm)
 * [2026-11-05, 18:34:41](https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass) - [SourceHut disabled registration bypass | CVE-2026-121728](https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/)
