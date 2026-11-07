@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-07, 19:34:01](https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs) - [Catching prompt injections hidden in PDFs](https://tomclancy.info/joshua-judges-ruth.html)
+* [2026-11-07, 18:41:33](https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge) - [OpenBSD top(1) adds flag to show chroot, pledge and unveil status](https://undeadly.org/cgi?action=article;sid=20261106104957)
+* [2026-11-07, 18:12:57](https://lobste.rs/s/c99mdx/ghostmap_android_flaw_crashes_your_phone) - [GhostMap: The Android flaw that crashes your phone before you open the app](https://www.bitdefender.com/en-us/blog/labs/ghostmap-android)
 * [2026-11-07, 15:20:23](https://lobste.rs/s/y8i714/just_how_far_can_for_update_skip_locked) - [Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?](https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/)
-* [2026-11-07, 14:51:26](https://lobste.rs/s/7dbarm/alpine_linux_openssh_server_password) - [Alpine Linux : openssh-server password authentication bypass](https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+* [2026-11-07, 11:07:33](https://lobste.rs/s/soxqxp/amutable_foundations_technical) - [Amutable Foundations: A Technical Overview](https://amutable.com/blog/amutable-foundations-technical-overview)
 * [2026-11-07, 09:47:24](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side) - [How are you dealing with all the negative side effects of AI on the web?](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
 * [2026-11-07, 09:21:55](https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built) - [Meridian — an experimental web browser built on Servo and GPUI](https://op.tngl.io/meridian/)
 * [2026-11-07, 08:44:02](https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2) - [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
@@ -18,13 +21,10 @@
 * [2026-11-06, 20:50:24](https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses) - [Hacking the meta ray-ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
 * [2026-11-06, 19:16:01](https://lobste.rs/s/4lgvnf/nondeterminism_futhark) - [Nondeterminism in Futhark](https://futhark-lang.org/blog/2026-11-04-nondeterminism.html)
 * [2026-11-06, 17:50:09](https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage) - [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)
-* [2026-11-06, 17:48:51](https://lobste.rs/s/lzuqfr/from_linux_wikipedia_how_volunteers) - [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
 * [2026-11-06, 15:37:00](https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests) - [The MustCreate Pattern for Go Tests](https://mtlynch.io/notes/go-must-create-pattern/)
 * [2026-11-06, 15:22:55](https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1) - [Upgrading NetBSD from 11.0 to 11.1](https://www.dwarmstrong.org/netbsd-upgrade/)
 * [2026-11-06, 13:23:14](https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers) - [Making musl and proprietary NVIDIA drivers work together](https://chimera-linux.org/news/2026/11/musl-nvidia.html)
 * [2026-11-06, 09:15:23](https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend)
-* [2026-11-05, 16:32:29](https://lobste.rs/s/yoywed/software_line_specialist) - [Software Line Specialist](https://lovro-bikic.github.io/software-line-specialist/)
-* [2026-11-05, 12:24:42](https://lobste.rs/s/oq5pem/sshhole) - [sshhole](https://sshhole.com/)
 
 ## [Archives](archives/index.md)
 
