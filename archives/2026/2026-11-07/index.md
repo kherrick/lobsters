@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-07](index.md)
 
+* [2026-11-07, 21:05:35](https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c) - [*sshole, or when are we finally going to get rid of C?](https://sunshowers.io/posts/sshole/)
+* [2026-11-07, 20:49:41](https://lobste.rs/s/ngkqj1/chimera_simulates_organic_sound_with) - [CHIMERA simulates organic sound with acoustic tubes](https://chimera-vocal-synth.vercel.app/)
+* [2026-11-07, 20:27:05](https://lobste.rs/s/nft1s2/workflow_dependency_lockfiles) - [Workflow dependency lockfiles](https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles)
 * [2026-11-07, 19:34:01](https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs) - [Catching prompt injections hidden in PDFs](https://tomclancy.info/joshua-judges-ruth.html)
 * [2026-11-07, 18:41:33](https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge) - [OpenBSD top(1) adds flag to show chroot, pledge and unveil status](https://undeadly.org/cgi?action=article;sid=20261106104957)
 * [2026-11-07, 18:12:57](https://lobste.rs/s/c99mdx/ghostmap_android_flaw_crashes_your_phone) - [GhostMap: The Android flaw that crashes your phone before you open the app](https://www.bitdefender.com/en-us/blog/labs/ghostmap-android)
