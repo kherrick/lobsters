@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-11-07, 15:20:23",
+      "https://lobste.rs/s/y8i714/just_how_far_can_for_update_skip_locked"
+    ],
+    [
+      "Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?",
+      "https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 14:51:26",
+      "https://lobste.rs/s/7dbarm/alpine_linux_openssh_server_password"
+    ],
+    [
+      "Alpine Linux : openssh-server password authentication bypass",
+      "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 09:47:24",
+      "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
+    ],
+    [
+      "How are you dealing with all the negative side effects of AI on the web?",
+      "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 09:21:55",
+      "https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built"
+    ],
+    [
+      "Meridian — an experimental web browser built on Servo and GPUI",
+      "https://op.tngl.io/meridian/"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 08:44:02",
       "https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2"
     ],
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2026-11-07, 03:43:48",
-      "https://lobste.rs/s/5mnquy/maintainer_s_advice_on_contributing_open"
+      "2026-11-07, 02:05:38",
+      "https://lobste.rs/s/immpvk/inform_is_programming_language_for"
     ],
     [
-      "A Maintainer's Advice on Contributing to Open Source in 2026",
-      "https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026"
+      "Inform is a programming language for creating interactive fiction",
+      "https://ganelson.github.io/inform-website/"
     ]
   ],
   [
@@ -131,26 +171,6 @@
   ],
   [
     [
-      "2026-11-06, 18:51:53",
-      "https://lobste.rs/s/id3f9d/firststeps_bare_metal_programming_using"
-    ],
-    [
-      "Firststeps in bare-metal programming using UEFI",
-      "https://kevinboone.me/efitest_index.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 18:00:07",
-      "https://lobste.rs/s/gzdimd/how_we_continuously_validate_formal"
-    ],
-    [
-      "How we continuously validate formal specifications in production",
-      "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/"
-    ]
-  ],
-  [
-    [
       "2026-11-06, 17:50:09",
       "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-11-06, 14:47:48",
-      "https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo"
-    ],
-    [
-      "Pushing the Limits with getaddrinfo",
-      "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/"
-    ]
-  ],
-  [
-    [
       "2026-11-06, 13:23:14",
       "https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"
     ],
@@ -217,16 +227,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 04:20:58",
-      "https://lobste.rs/s/dxno99/clojure_distilled"
-    ],
-    [
-      "Clojure Distilled",
-      "https://yogthos.net/ClojureDistilled.html"
     ]
   ],
   [
