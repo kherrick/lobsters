@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-07, 19:34:01",
+      "https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs"
+    ],
+    [
+      "Catching prompt injections hidden in PDFs",
+      "https://tomclancy.info/joshua-judges-ruth.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 18:41:33",
+      "https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge"
+    ],
+    [
+      "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+      "https://undeadly.org/cgi?action=article;sid=20261106104957"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 18:12:57",
+      "https://lobste.rs/s/c99mdx/ghostmap_android_flaw_crashes_your_phone"
+    ],
+    [
+      "GhostMap: The Android flaw that crashes your phone before you open the app",
+      "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 15:20:23",
       "https://lobste.rs/s/y8i714/just_how_far_can_for_update_skip_locked"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-11-07, 14:51:26",
-      "https://lobste.rs/s/7dbarm/alpine_linux_openssh_server_password"
+      "2026-11-07, 11:07:33",
+      "https://lobste.rs/s/soxqxp/amutable_foundations_technical"
     ],
     [
-      "Alpine Linux : openssh-server password authentication bypass",
-      "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+      "Amutable Foundations: A Technical Overview",
+      "https://amutable.com/blog/amutable-foundations-technical-overview"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-11-06, 17:48:51",
-      "https://lobste.rs/s/lzuqfr/from_linux_wikipedia_how_volunteers"
-    ],
-    [
-      "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
-    ]
-  ],
-  [
-    [
       "2026-11-06, 15:37:00",
       "https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests"
     ],
@@ -227,26 +247,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 16:32:29",
-      "https://lobste.rs/s/yoywed/software_line_specialist"
-    ],
-    [
-      "Software Line Specialist",
-      "https://lovro-bikic.github.io/software-line-specialist/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 12:24:42",
-      "https://lobste.rs/s/oq5pem/sshhole"
-    ],
-    [
-      "sshhole",
-      "https://sshhole.com/"
     ]
   ]
 ]
