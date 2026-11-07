@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-07](index.md)
 
+* [2026-11-07, 15:20:23](https://lobste.rs/s/y8i714/just_how_far_can_for_update_skip_locked) - [Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?](https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/)
+* [2026-11-07, 14:51:26](https://lobste.rs/s/7dbarm/alpine_linux_openssh_server_password) - [Alpine Linux : openssh-server password authentication bypass](https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+* [2026-11-07, 09:47:24](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side) - [How are you dealing with all the negative side effects of AI on the web?](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
+* [2026-11-07, 09:21:55](https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built) - [Meridian — an experimental web browser built on Servo and GPUI](https://op.tngl.io/meridian/)
 * [2026-11-07, 08:44:02](https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2) - [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
 * [2026-11-07, 08:21:50](https://lobste.rs/s/49o9f3/two_dimensional_version_control) - [Two Dimensional Version Control](https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/)
 * [2026-11-07, 07:46:35](https://lobste.rs/s/jsvlfm/scriptable_geodns_leaving_aws_for_bunny) - [Scriptable GeoDNS: leaving AWS for Bunny](https://vincent.bernat.ch/en/blog/2026-bunny-geodns)
