@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-07, 21:05:35",
+      "https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c"
+    ],
+    [
+      "*sshole, or when are we finally going to get rid of C?",
+      "https://sunshowers.io/posts/sshole/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 20:49:41",
+      "https://lobste.rs/s/ngkqj1/chimera_simulates_organic_sound_with"
+    ],
+    [
+      "CHIMERA simulates organic sound with acoustic tubes",
+      "https://chimera-vocal-synth.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 20:27:05",
+      "https://lobste.rs/s/nft1s2/workflow_dependency_lockfiles"
+    ],
+    [
+      "Workflow dependency lockfiles",
+      "https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 19:34:01",
       "https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs"
     ],
@@ -37,6 +67,16 @@
     [
       "Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?",
       "https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 14:51:26",
+      "https://lobste.rs/s/7dbarm/alpine_linux_openssh_server_password"
+    ],
+    [
+      "Alpine Linux : openssh-server password authentication bypass",
+      "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-11-07, 00:54:14",
-      "https://lobste.rs/s/lssm6h/how_hard_could_implementing_dtls_1_3"
-    ],
-    [
-      "How hard could implementing DTLS 1.3 possibly be?",
-      "https://joturk.net/posts/dtls"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 00:00:06",
       "https://lobste.rs/s/miazwz/uploadyourram_org"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-11-06, 19:16:01",
-      "https://lobste.rs/s/4lgvnf/nondeterminism_futhark"
-    ],
-    [
-      "Nondeterminism in Futhark",
-      "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html"
-    ]
-  ],
-  [
-    [
       "2026-11-06, 17:50:09",
       "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-11-06, 15:22:55",
-      "https://lobste.rs/s/0agusd/upgrading_netbsd_from_11_0_11_1"
-    ],
-    [
-      "Upgrading NetBSD from 11.0 to 11.1",
-      "https://www.dwarmstrong.org/netbsd-upgrade/"
-    ]
-  ],
-  [
-    [
       "2026-11-06, 13:23:14",
       "https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"
     ],
     [
       "Making musl and proprietary NVIDIA drivers work together",
       "https://chimera-linux.org/news/2026/11/musl-nvidia.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 09:15:23",
-      "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend"
     ]
   ]
 ]
