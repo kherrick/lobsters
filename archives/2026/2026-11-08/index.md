@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-08](index.md)
 
 * [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/when_language_s_creator_its_owners) - [When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
+* [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its) - [Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 21:52:21](https://lobste.rs/s/deutqp/message_queues) - [Message Queues](https://blog.alexewerlof.com/p/message-queues)
 * [2026-11-08, 21:37:53](https://lobste.rs/s/ic1ora/optimizing_reference_deletions_git) - [Optimizing reference deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 * [2026-11-08, 21:06:06](https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud) - [Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond](https://www.redox-os.org/news/virtualized-redox/)
