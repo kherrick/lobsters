@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-08, 21:37:53",
+      "https://lobste.rs/s/ic1ora/optimizing_reference_deletions_git"
+    ],
+    [
+      "Optimizing reference deletions in Git",
+      "https://nayak.im/posts/optimizing-reference-deletion/"
+    ]
+  ],
+  [
+    [
       "2026-11-08, 21:06:06",
       "https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud"
     ],
@@ -147,16 +157,6 @@
     [
       "PHP2Shell — Deep Dive",
       "https://djad04.github.io/php2shell-deep-dive/"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 01:48:58",
-      "https://lobste.rs/s/jvicvb/how_prove_equations_using_diagrams_part_1"
-    ],
-    [
-      "How to prove equations using diagrams, part 1",
-      "https://www.epatters.org/post/e-graphs-1/"
     ]
   ],
   [
