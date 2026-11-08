@@ -1,10 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-08, 13:21:22](https://lobste.rs/s/b6ebju/following_breadcrumbs_code_what) - [Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension](https://link.springer.com/article/10.1007/s10664-026-10988-z)
+* [2026-11-08, 12:55:05](https://lobste.rs/s/62loik/systemd_loves_rust) - [systemd loves Rust](https://amutable.com/blog/systemd-loves-rust)
+* [2026-11-08, 12:53:34](https://lobste.rs/s/jnz4v5/bit_about_email) - [A bit about email](https://maurycyz.com/misc/email/)
+* [2026-11-08, 12:07:39](https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
+* [2026-11-08, 09:09:24](https://lobste.rs/s/5cavvx/introducing_project_steadfast) - [Introducing Project Steadfast](https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast)
 * [2026-11-08, 08:41:38](https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api) - [Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers](https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/)
 * [2026-11-08, 08:10:08](https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too) - [Hacking the T-Mobile Sidekick, 20 Years Too Late](https://x86.cx/blog/redanger)
 * [2026-11-08, 05:51:54](https://lobste.rs/s/d8dgav/php2shell_deep_dive) - [PHP2Shell — Deep Dive](https://djad04.github.io/php2shell-deep-dive/)
 * [2026-11-08, 01:48:58](https://lobste.rs/s/jvicvb/how_prove_equations_using_diagrams_part_1) - [How to prove equations using diagrams, part 1](https://www.epatters.org/post/e-graphs-1/)
-* [2026-11-08, 00:46:33](https://lobste.rs/s/zdapj7/container_windows_cow) - [Container Windows in CoW](https://m.youtube.com/watch?v=UsYaSRhf6dw)
 * [2026-11-07, 23:31:05](https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not) - [Dear Open Source Developers: It's OK not to embargo](https://opensourcesecurity.io/2026/10-embargo/)
 * [2026-11-07, 23:19:53](https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024) - [I’m not a fan of Deno’s security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-07, 21:05:35](https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c) - [*sshole, or when are we finally going to get rid of C?](https://sunshowers.io/posts/sshole/)
@@ -14,7 +18,6 @@
 * [2026-11-07, 18:41:33](https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge) - [OpenBSD top(1) adds flag to show chroot, pledge and unveil status](https://undeadly.org/cgi?action=article;sid=20261106104957)
 * [2026-11-07, 18:12:57](https://lobste.rs/s/c99mdx/ghostmap_android_flaw_crashes_your_phone) - [GhostMap: The Android flaw that crashes your phone before you open the app](https://www.bitdefender.com/en-us/blog/labs/ghostmap-android)
 * [2026-11-07, 14:51:26](https://lobste.rs/s/7dbarm/alpine_linux_openssh_server_password) - [Alpine Linux : openssh-server password authentication bypass](https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
-* [2026-11-07, 11:07:33](https://lobste.rs/s/soxqxp/amutable_foundations_technical) - [Amutable Foundations: A Technical Overview](https://amutable.com/blog/amutable-foundations-technical-overview)
 * [2026-11-07, 09:47:24](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side) - [How are you dealing with all the negative side effects of AI on the web?](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
 * [2026-11-07, 09:21:55](https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built) - [Meridian — an experimental web browser built on Servo and GPUI](https://op.tngl.io/meridian/)
 * [2026-11-07, 08:21:50](https://lobste.rs/s/49o9f3/two_dimensional_version_control) - [Two Dimensional Version Control](https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/)
@@ -22,9 +25,6 @@
 * [2026-11-07, 06:02:38](https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux) - [Progress Report: Linux 7.3 - Asahi Linux](https://asahilinux.org/2026/11/progress-report-7-3/)
 * [2026-11-06, 23:48:03](https://lobste.rs/s/0ouxwf/libghostty_1_0) - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 * [2026-11-06, 23:03:12](https://lobste.rs/s/osqswf/port_does_not_exist) - [The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/)
-* [2026-11-06, 17:50:09](https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage) - [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)
-* [2026-11-06, 15:37:00](https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests) - [The MustCreate Pattern for Go Tests](https://mtlynch.io/notes/go-must-create-pattern/)
-* [2026-11-06, 13:23:14](https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers) - [Making musl and proprietary NVIDIA drivers work together](https://chimera-linux.org/news/2026/11/musl-nvidia.html)
 
 ## [Archives](archives/index.md)
 
