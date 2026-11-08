@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/when_language_s_creator_its_owners) - [When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 21:52:21](https://lobste.rs/s/deutqp/message_queues) - [Message Queues](https://blog.alexewerlof.com/p/message-queues)
 * [2026-11-08, 21:37:53](https://lobste.rs/s/ic1ora/optimizing_reference_deletions_git) - [Optimizing reference deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 * [2026-11-08, 21:06:06](https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud) - [Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond](https://www.redox-os.org/news/virtualized-redox/)
@@ -23,7 +24,6 @@
 * [2026-11-07, 09:47:24](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side) - [How are you dealing with all the negative side effects of AI on the web?](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
 * [2026-11-07, 09:21:55](https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built) - [Meridian — an experimental web browser built on Servo and GPUI](https://op.tngl.io/meridian/)
 * [2026-11-07, 07:46:35](https://lobste.rs/s/jsvlfm/scriptable_geodns_leaving_aws_for_bunny) - [Scriptable GeoDNS: leaving AWS for Bunny](https://vincent.bernat.ch/en/blog/2026-bunny-geodns)
-* [2026-11-07, 06:02:38](https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux) - [Progress Report: Linux 7.3 - Asahi Linux](https://asahilinux.org/2026/11/progress-report-7-3/)
 * [2026-11-06, 23:48:03](https://lobste.rs/s/0ouxwf/libghostty_1_0) - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 
 ## [Archives](archives/index.md)
