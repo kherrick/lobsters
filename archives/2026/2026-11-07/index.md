@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-07](index.md)
 
+* [2026-11-07, 23:31:05](https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not) - [Dear Open Source Developers: It's OK not to embargo](https://opensourcesecurity.io/2026/10-embargo/)
+* [2026-11-07, 23:19:53](https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024) - [I’m not a fan of Deno’s security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-07, 21:05:35](https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c) - [*sshole, or when are we finally going to get rid of C?](https://sunshowers.io/posts/sshole/)
 * [2026-11-07, 20:49:41](https://lobste.rs/s/ngkqj1/chimera_simulates_organic_sound_with) - [CHIMERA simulates organic sound with acoustic tubes](https://chimera-vocal-synth.vercel.app/)
 * [2026-11-07, 20:27:05](https://lobste.rs/s/nft1s2/workflow_dependency_lockfiles) - [Workflow dependency lockfiles](https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles)
