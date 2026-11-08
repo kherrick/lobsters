@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-08, 21:06:06](https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud) - [Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond](https://www.redox-os.org/news/virtualized-redox/)
 * [2026-11-08, 18:23:35](https://lobste.rs/s/dr5zrz/how_prove_equations_using_diagrams_part_3) - [How to prove equations using diagrams, part 3](https://www.epatters.org/post/e-graphs-3/)
 * [2026-11-08, 17:12:00](https://lobste.rs/s/cwmxea/playing_with_stm32mp2) - [Playing with the STM32MP2](https://serd.es///2026/11/08/playing-with-stm32mp2.html)
 * [2026-11-08, 17:07:51](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai) - [What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai)
@@ -24,7 +25,6 @@
 * [2026-11-07, 07:46:35](https://lobste.rs/s/jsvlfm/scriptable_geodns_leaving_aws_for_bunny) - [Scriptable GeoDNS: leaving AWS for Bunny](https://vincent.bernat.ch/en/blog/2026-bunny-geodns)
 * [2026-11-07, 06:02:38](https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux) - [Progress Report: Linux 7.3 - Asahi Linux](https://asahilinux.org/2026/11/progress-report-7-3/)
 * [2026-11-06, 23:48:03](https://lobste.rs/s/0ouxwf/libghostty_1_0) - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-* [2026-11-06, 23:03:12](https://lobste.rs/s/osqswf/port_does_not_exist) - [The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/)
 
 ## [Archives](archives/index.md)
 
