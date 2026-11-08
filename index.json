@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-11-08, 13:21:22",
+      "https://lobste.rs/s/b6ebju/following_breadcrumbs_code_what"
+    ],
+    [
+      "Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension",
+      "https://link.springer.com/article/10.1007/s10664-026-10988-z"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 12:55:05",
+      "https://lobste.rs/s/62loik/systemd_loves_rust"
+    ],
+    [
+      "systemd loves Rust",
+      "https://amutable.com/blog/systemd-loves-rust"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 12:53:34",
+      "https://lobste.rs/s/jnz4v5/bit_about_email"
+    ],
+    [
+      "A bit about email",
+      "https://maurycyz.com/misc/email/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 12:07:39",
+      "https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4"
+    ],
+    [
+      "NetBSD 11 desktop on a Raspberry Pi 4",
+      "https://neongd.com/articles/netbsd11-rpi4.gmi"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 09:09:24",
+      "https://lobste.rs/s/5cavvx/introducing_project_steadfast"
+    ],
+    [
+      "Introducing Project Steadfast",
+      "https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast"
+    ]
+  ],
+  [
+    [
       "2026-11-08, 08:41:38",
       "https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api"
     ],
@@ -37,16 +87,6 @@
     [
       "How to prove equations using diagrams, part 1",
       "https://www.epatters.org/post/e-graphs-1/"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 00:46:33",
-      "https://lobste.rs/s/zdapj7/container_windows_cow"
-    ],
-    [
-      "Container Windows in CoW",
-      "https://m.youtube.com/watch?v=UsYaSRhf6dw"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-11-07, 11:07:33",
-      "https://lobste.rs/s/soxqxp/amutable_foundations_technical"
-    ],
-    [
-      "Amutable Foundations: A Technical Overview",
-      "https://amutable.com/blog/amutable-foundations-technical-overview"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 09:47:24",
       "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
     ],
@@ -217,36 +247,6 @@
     [
       "The Port That Does Not Exist",
       "https://acid.vegas/blog/the-port-that-does-not-exist/"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 17:50:09",
-      "https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"
-    ],
-    [
-      "Inside GitHub's new Git storage architecture",
-      "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 15:37:00",
-      "https://lobste.rs/s/i96uyr/mustcreate_pattern_for_go_tests"
-    ],
-    [
-      "The MustCreate Pattern for Go Tests",
-      "https://mtlynch.io/notes/go-must-create-pattern/"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 13:23:14",
-      "https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"
-    ],
-    [
-      "Making musl and proprietary NVIDIA drivers work together",
-      "https://chimera-linux.org/news/2026/11/musl-nvidia.html"
     ]
   ]
 ]
