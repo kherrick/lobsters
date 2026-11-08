@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-08, 21:06:06",
+      "https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud"
+    ],
+    [
+      "Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond",
+      "https://www.redox-os.org/news/virtualized-redox/"
+    ]
+  ],
+  [
+    [
       "2026-11-08, 18:23:35",
       "https://lobste.rs/s/dr5zrz/how_prove_equations_using_diagrams_part_3"
     ],
@@ -237,16 +247,6 @@
     [
       "Libghostty 1.0",
       "https://mitchellh.com/writing/libghostty-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 23:03:12",
-      "https://lobste.rs/s/osqswf/port_does_not_exist"
-    ],
-    [
-      "The Port That Does Not Exist",
-      "https://acid.vegas/blog/the-port-that-does-not-exist/"
     ]
   ]
 ]
