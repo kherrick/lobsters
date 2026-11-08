@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-08, 21:52:21](https://lobste.rs/s/deutqp/message_queues) - [Message Queues](https://blog.alexewerlof.com/p/message-queues)
 * [2026-11-08, 21:37:53](https://lobste.rs/s/ic1ora/optimizing_reference_deletions_git) - [Optimizing reference deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 * [2026-11-08, 21:06:06](https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud) - [Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond](https://www.redox-os.org/news/virtualized-redox/)
 * [2026-11-08, 18:23:35](https://lobste.rs/s/dr5zrz/how_prove_equations_using_diagrams_part_3) - [How to prove equations using diagrams, part 3](https://www.epatters.org/post/e-graphs-3/)
@@ -7,7 +8,6 @@
 * [2026-11-08, 17:07:51](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai) - [What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai)
 * [2026-11-08, 16:58:03](https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks) - [Unattended reboots with encrypted disks](https://jmmv.dev/2026/11/zkeys-intro.html)
 * [2026-11-08, 16:36:17](https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles) - [Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?](https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles)
-* [2026-11-08, 16:30:47](https://lobste.rs/s/smx0fn/sflc_statement_regarding_takedown) - [SFLC.in Statement Regarding the Takedown Requests Against Its X Account and Posts](https://sflc.in/sflc-in-statement-regarding-the-takedown-requests-against-its-x-account-and-posts/)
 * [2026-11-08, 13:21:22](https://lobste.rs/s/b6ebju/following_breadcrumbs_code_what) - [Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension](https://link.springer.com/article/10.1007/s10664-026-10988-z)
 * [2026-11-08, 12:55:05](https://lobste.rs/s/62loik/systemd_loves_rust) - [systemd loves Rust](https://amutable.com/blog/systemd-loves-rust)
 * [2026-11-08, 12:53:34](https://lobste.rs/s/jnz4v5/bit_about_email) - [A bit about email](https://maurycyz.com/misc/email/)
