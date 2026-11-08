@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-08, 08:41:38",
+      "https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api"
+    ],
+    [
+      "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+      "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 08:10:08",
+      "https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too"
+    ],
+    [
+      "Hacking the T-Mobile Sidekick, 20 Years Too Late",
+      "https://x86.cx/blog/redanger"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 05:51:54",
+      "https://lobste.rs/s/d8dgav/php2shell_deep_dive"
+    ],
+    [
+      "PHP2Shell — Deep Dive",
+      "https://djad04.github.io/php2shell-deep-dive/"
+    ]
+  ],
+  [
+    [
       "2026-11-08, 01:48:58",
       "https://lobste.rs/s/jvicvb/how_prove_equations_using_diagrams_part_1"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2026-11-07, 06:18:48",
-      "https://lobste.rs/s/m5kism/forwarded_without_question_how_web"
-    ],
-    [
-      "Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header",
-      "https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 06:02:38",
       "https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux"
     ],
     [
       "Progress Report: Linux 7.3 - Asahi Linux",
       "https://asahilinux.org/2026/11/progress-report-7-3/"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 00:00:06",
-      "https://lobste.rs/s/miazwz/uploadyourram_org"
-    ],
-    [
-      "UploadYourRam.org",
-      "https://uploadyourram.org/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The Port That Does Not Exist",
       "https://acid.vegas/blog/the-port-that-does-not-exist/"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 20:50:24",
-      "https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses"
-    ],
-    [
-      "Hacking the meta ray-ban smartglasses",
-      "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/"
     ]
   ],
   [
