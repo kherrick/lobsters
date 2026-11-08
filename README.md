@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-08, 23:10:34](https://lobste.rs/s/za1r6h/i_dislike_pull_requests_2020) - [I Dislike Pull Requests (2020)](https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38)
 * [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its) - [Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 21:52:21](https://lobste.rs/s/deutqp/message_queues) - [Message Queues](https://blog.alexewerlof.com/p/message-queues)
 * [2026-11-08, 21:37:53](https://lobste.rs/s/ic1ora/optimizing_reference_deletions_git) - [Optimizing reference deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
@@ -16,7 +17,6 @@
 * [2026-11-08, 09:09:24](https://lobste.rs/s/5cavvx/introducing_project_steadfast) - [Introducing Project Steadfast](https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast)
 * [2026-11-08, 08:41:38](https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api) - [Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers](https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/)
 * [2026-11-08, 08:10:08](https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too) - [Hacking the T-Mobile Sidekick, 20 Years Too Late](https://x86.cx/blog/redanger)
-* [2026-11-08, 05:51:54](https://lobste.rs/s/d8dgav/php2shell_deep_dive) - [PHP2Shell — Deep Dive](https://djad04.github.io/php2shell-deep-dive/)
 * [2026-11-07, 23:31:05](https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not) - [Dear Open Source Developers: It's OK not to embargo](https://opensourcesecurity.io/2026/10-embargo/)
 * [2026-11-07, 23:19:53](https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024) - [I’m not a fan of Deno’s security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-07, 21:05:35](https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c) - [*sshole, or when are we finally going to get rid of C?](https://sunshowers.io/posts/sshole/)

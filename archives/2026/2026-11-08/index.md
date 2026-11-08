@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-08](index.md)
 
+* [2026-11-08, 23:10:34](https://lobste.rs/s/za1r6h/i_dislike_pull_requests_2020) - [I Dislike Pull Requests (2020)](https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38)
 * [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/when_language_s_creator_its_owners) - [When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its) - [Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 21:52:21](https://lobste.rs/s/deutqp/message_queues) - [Message Queues](https://blog.alexewerlof.com/p/message-queues)
