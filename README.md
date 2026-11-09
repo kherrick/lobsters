@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-09, 06:25:20](https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry) - [Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)](https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/)
 * [2026-11-09, 04:43:15](https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world) - [unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 * [2026-11-09, 02:44:11](https://lobste.rs/s/a7byol/sem86_full_system_x86_emulator_without) - [Sem86: a full-system x86 emulator without hardcoded semantics](https://liblisa.nl/sem86/)
 * [2026-11-08, 23:10:34](https://lobste.rs/s/za1r6h/i_dislike_pull_requests_2020) - [I Dislike Pull Requests (2020)](https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38)
@@ -21,7 +22,6 @@
 * [2026-11-07, 23:31:05](https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not) - [Dear Open Source Developers: It's OK not to embargo](https://opensourcesecurity.io/2026/10-embargo/)
 * [2026-11-07, 23:19:53](https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024) - [I’m not a fan of Deno’s security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-07, 21:05:35](https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c) - [*sshole, or when are we finally going to get rid of C?](https://sunshowers.io/posts/sshole/)
-* [2026-11-07, 18:41:33](https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge) - [OpenBSD top(1) adds flag to show chroot, pledge and unveil status](https://undeadly.org/cgi?action=article;sid=20261106104957)
 * [2026-11-07, 09:47:24](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side) - [How are you dealing with all the negative side effects of AI on the web?](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
 * [2026-11-07, 09:21:55](https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built) - [Meridian — an experimental web browser built on Servo and GPUI](https://op.tngl.io/meridian/)
 * [2026-11-06, 23:48:03](https://lobste.rs/s/0ouxwf/libghostty_1_0) - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
