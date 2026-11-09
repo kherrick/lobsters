@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-09, 12:55:38",
+      "https://lobste.rs/s/qi2lni/c_quicksort_faster_than_std_sort"
+    ],
+    [
+      "A C++ Quicksort Faster Than std::sort",
+      "https://tiki.li/blog/about_blqsort"
+    ]
+  ],
+  [
+    [
+      "2026-11-09, 12:55:11",
+      "https://lobste.rs/s/txkq8s/horible_public_key_tricks"
+    ],
+    [
+      "Horible public key tricks",
+      "https://maurycyz.com/projects/badcert/"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 12:22:39",
       "https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-11-08, 09:09:24",
-      "https://lobste.rs/s/5cavvx/introducing_project_steadfast"
-    ],
-    [
-      "Introducing Project Steadfast",
-      "https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 08:41:38",
       "https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api"
     ],
@@ -237,16 +247,6 @@
     [
       "I’m not a fan of Deno’s security model (2024)",
       "https://goldstein.lol/posts/deno-security/"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 09:47:24",
-      "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
-    ],
-    [
-      "How are you dealing with all the negative side effects of AI on the web?",
-      "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
     ]
   ]
 ]
