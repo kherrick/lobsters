@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 22:14:10",
+      "https://lobste.rs/s/sifkms/two_apps_one_process"
+    ],
+    [
+      "Two apps one process",
+      "https://andersmurphy.com/2026/11/09/two-apps-one-process.html"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 21:45:49",
       "https://lobste.rs/s/s1tppi/pypi_s_redesigned_project_pages_with"
     ],
@@ -187,16 +197,6 @@
     [
       "Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward",
       "https://isocpp.org/files/papers/P4454R0.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 21:37:53",
-      "https://lobste.rs/s/ic1ora/optimizing_reference_deletions_git"
-    ],
-    [
-      "Optimizing reference deletions in Git",
-      "https://nayak.im/posts/optimizing-reference-deletion/"
     ]
   ],
   [
