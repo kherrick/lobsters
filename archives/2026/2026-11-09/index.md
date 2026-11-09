@@ -7,6 +7,7 @@
 * [2026-11-09, 14:55:11](https://lobste.rs/s/xf23r4/playing_classical_music_on_classic_pc) - [Playing classical music on a classic PC with GentleOS](https://www.youtube.com/watch?v=Vp16LLOvegw)
 * [2026-11-09, 13:19:22](https://lobste.rs/s/l75lxf/what_is_malloc_doing_anyway) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 12:55:38](https://lobste.rs/s/qi2lni/c_quicksort_faster_than_std_sort) - [A C++ Quicksort Faster Than std::sort](https://tiki.li/blog/about_blqsort)
+* [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horrible_public_key_tricks) - [Horrible public key tricks](https://maurycyz.com/projects/badcert/)
 * [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horible_public_key_tricks) - [Horible public key tricks](https://maurycyz.com/projects/badcert/)
 * [2026-11-09, 12:22:39](https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is) - [Let’s Talk About Why all This OT Stuff is Connected](https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/)
 * [2026-11-09, 11:54:39](https://lobste.rs/s/t5bmg5/slightly_better_interpolating_spline) - [Slightly better interpolating spline](https://gasiulis.name/new-spline/)
