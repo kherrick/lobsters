@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-09, 04:43:15](https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world) - [unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 * [2026-11-09, 02:44:11](https://lobste.rs/s/a7byol/sem86_full_system_x86_emulator_without) - [Sem86: a full-system x86 emulator without hardcoded semantics](https://liblisa.nl/sem86/)
 * [2026-11-08, 23:10:34](https://lobste.rs/s/za1r6h/i_dislike_pull_requests_2020) - [I Dislike Pull Requests (2020)](https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38)
 * [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its) - [Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
@@ -23,7 +24,6 @@
 * [2026-11-07, 18:41:33](https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge) - [OpenBSD top(1) adds flag to show chroot, pledge and unveil status](https://undeadly.org/cgi?action=article;sid=20261106104957)
 * [2026-11-07, 09:47:24](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side) - [How are you dealing with all the negative side effects of AI on the web?](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
 * [2026-11-07, 09:21:55](https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built) - [Meridian — an experimental web browser built on Servo and GPUI](https://op.tngl.io/meridian/)
-* [2026-11-07, 06:02:38](https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux) - [Progress Report: Linux 7.3 - Asahi Linux](https://asahilinux.org/2026/11/progress-report-7-3/)
 * [2026-11-06, 23:48:03](https://lobste.rs/s/0ouxwf/libghostty_1_0) - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 
 ## [Archives](archives/index.md)
