@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 18:36:47",
+      "https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"
+    ],
+    [
+      "Microsoft are rejecting your mail",
+      "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 16:54:03",
       "https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode"
     ],
@@ -237,16 +247,6 @@
     [
       "NetBSD 11 desktop on a Raspberry Pi 4",
       "https://neongd.com/articles/netbsd11-rpi4.gmi"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 08:41:38",
-      "https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api"
-    ],
-    [
-      "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
-      "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/"
     ]
   ]
 ]
