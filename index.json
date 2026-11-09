@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 22:29:01",
+      "https://lobste.rs/s/drozos/docker_has_always_used_microvms_well"
+    ],
+    [
+      "Docker has always used microVMs (well, since 2016)",
+      "https://dave.recoil.org/docker-has-always-used-microvms/"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 22:25:03",
       "https://lobste.rs/s/jqvofw/reverse_engineering_vintage_diode"
     ],
@@ -197,16 +207,6 @@
     [
       "Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward",
       "https://isocpp.org/files/papers/P4454R0.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 21:06:06",
-      "https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud"
-    ],
-    [
-      "Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond",
-      "https://www.redox-os.org/news/virtualized-redox/"
     ]
   ],
   [
