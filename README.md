@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-09, 18:36:47](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail) - [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
 * [2026-11-09, 16:54:03](https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode) - [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
 * [2026-11-09, 15:41:50](https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants) - [Terminal2Shell: Critical flaw grants instant shell access on every major OS](https://terminal2shell.com/)
 * [2026-11-09, 14:55:11](https://lobste.rs/s/xf23r4/playing_classical_music_on_classic_pc) - [Playing classical music on a classic PC with GentleOS](https://www.youtube.com/watch?v=Vp16LLOvegw)
@@ -24,7 +25,6 @@
 * [2026-11-08, 12:55:05](https://lobste.rs/s/62loik/systemd_loves_rust) - [systemd loves Rust](https://amutable.com/blog/systemd-loves-rust)
 * [2026-11-08, 12:53:34](https://lobste.rs/s/jnz4v5/bit_about_email) - [A bit about email](https://maurycyz.com/misc/email/)
 * [2026-11-08, 12:07:39](https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
-* [2026-11-08, 08:41:38](https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api) - [Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers](https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/)
 
 ## [Archives](archives/index.md)
 
