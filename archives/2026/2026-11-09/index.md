@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 11:54:39](https://lobste.rs/s/t5bmg5/slightly_better_interpolating_spline) - [Slightly better interpolating spline](https://gasiulis.name/new-spline/)
+* [2026-11-09, 11:48:55](https://lobste.rs/s/vtjjbc/what_s_new_node_js_27) - [What's new in Node.js 27](https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/)
+* [2026-11-09, 11:48:19](https://lobste.rs/s/kcyhhj/critique_gpui) - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
 * [2026-11-09, 09:32:52](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week)
 * [2026-11-09, 06:44:59](https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro) - [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
 * [2026-11-09, 06:25:20](https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry) - [Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)](https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/)
