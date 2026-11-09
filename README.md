@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-09, 12:22:39](https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is) - [Let’s Talk About Why all This OT Stuff is Connected](https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/)
 * [2026-11-09, 11:54:39](https://lobste.rs/s/t5bmg5/slightly_better_interpolating_spline) - [Slightly better interpolating spline](https://gasiulis.name/new-spline/)
 * [2026-11-09, 11:48:55](https://lobste.rs/s/vtjjbc/what_s_new_node_js_27) - [What's new in Node.js 27](https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/)
 * [2026-11-09, 11:48:19](https://lobste.rs/s/kcyhhj/critique_gpui) - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
@@ -22,7 +23,6 @@
 * [2026-11-08, 12:07:39](https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 * [2026-11-08, 09:09:24](https://lobste.rs/s/5cavvx/introducing_project_steadfast) - [Introducing Project Steadfast](https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast)
 * [2026-11-08, 08:41:38](https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api) - [Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers](https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/)
-* [2026-11-08, 08:10:08](https://lobste.rs/s/f1nsnm/hacking_t_mobile_sidekick_20_years_too) - [Hacking the T-Mobile Sidekick, 20 Years Too Late](https://x86.cx/blog/redanger)
 * [2026-11-07, 23:19:53](https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024) - [I’m not a fan of Deno’s security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-07, 09:47:24](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side) - [How are you dealing with all the negative side effects of AI on the web?](https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side)
 
