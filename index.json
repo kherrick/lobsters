@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 15:41:50",
+      "https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"
+    ],
+    [
+      "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
+      "https://terminal2shell.com/"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 14:55:11",
       "https://lobste.rs/s/xf23r4/playing_classical_music_on_classic_pc"
     ],
@@ -237,16 +247,6 @@
     [
       "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
       "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 23:19:53",
-      "https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024"
-    ],
-    [
-      "I’m not a fan of Deno’s security model (2024)",
-      "https://goldstein.lol/posts/deno-security/"
     ]
   ]
 ]
