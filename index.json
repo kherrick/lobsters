@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 22:25:03",
+      "https://lobste.rs/s/jqvofw/reverse_engineering_vintage_diode"
+    ],
+    [
+      "Reverse engineering a vintage diode-transistor logic chip",
+      "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 22:14:10",
       "https://lobste.rs/s/sifkms/two_apps_one_process"
     ],
@@ -177,16 +187,6 @@
     [
       "Sem86: a full-system x86 emulator without hardcoded semantics",
       "https://liblisa.nl/sem86/"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 23:10:34",
-      "https://lobste.rs/s/za1r6h/i_dislike_pull_requests_2020"
-    ],
-    [
-      "I Dislike Pull Requests (2020)",
-      "https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38"
     ]
   ],
   [
