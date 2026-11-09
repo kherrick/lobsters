@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-09, 22:29:01](https://lobste.rs/s/drozos/docker_has_always_used_microvms_well) - [Docker has always used microVMs (well, since 2016)](https://dave.recoil.org/docker-has-always-used-microvms/)
 * [2026-11-09, 22:25:03](https://lobste.rs/s/jqvofw/reverse_engineering_vintage_diode) - [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
 * [2026-11-09, 22:14:10](https://lobste.rs/s/sifkms/two_apps_one_process) - [Two apps one process](https://andersmurphy.com/2026/11/09/two-apps-one-process.html)
 * [2026-11-09, 21:45:49](https://lobste.rs/s/s1tppi/pypi_s_redesigned_project_pages_with) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
@@ -20,7 +21,6 @@
 * [2026-11-09, 04:43:15](https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world) - [unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 * [2026-11-09, 02:44:11](https://lobste.rs/s/a7byol/sem86_full_system_x86_emulator_without) - [Sem86: a full-system x86 emulator without hardcoded semantics](https://liblisa.nl/sem86/)
 * [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its) - [Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
-* [2026-11-08, 21:06:06](https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud) - [Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond](https://www.redox-os.org/news/virtualized-redox/)
 * [2026-11-08, 17:07:51](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai) - [What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai)
 * [2026-11-08, 16:58:03](https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks) - [Unattended reboots with encrypted disks](https://jmmv.dev/2026/11/zkeys-intro.html)
 * [2026-11-08, 12:55:05](https://lobste.rs/s/62loik/systemd_loves_rust) - [systemd loves Rust](https://amutable.com/blog/systemd-loves-rust)
