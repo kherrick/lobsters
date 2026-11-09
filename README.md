@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-09, 19:41:05](https://lobste.rs/s/qglc9i/deepx_claims_inference_up_100b) - [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
 * [2026-11-09, 18:36:47](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail) - [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
 * [2026-11-09, 18:35:57](https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee) - [Sure mate, buy me a bloody coffee](https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/)
 * [2026-11-09, 16:54:03](https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode) - [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
@@ -12,6 +11,7 @@
 * [2026-11-09, 12:22:39](https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is) - [Let’s Talk About Why all This OT Stuff is Connected](https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/)
 * [2026-11-09, 11:54:39](https://lobste.rs/s/t5bmg5/slightly_better_interpolating_spline) - [Slightly better interpolating spline](https://gasiulis.name/new-spline/)
 * [2026-11-09, 11:48:55](https://lobste.rs/s/vtjjbc/what_s_new_node_js_27) - [What's new in Node.js 27](https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/)
+* [2026-11-09, 11:48:19](https://lobste.rs/s/kcyhhj/critique_gpui) - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
 * [2026-11-09, 09:32:52](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week)
 * [2026-11-09, 06:44:59](https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro) - [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
 * [2026-11-09, 06:25:20](https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry) - [Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)](https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/)
