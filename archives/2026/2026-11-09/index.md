@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 23:25:03](https://lobste.rs/s/vqtg9b/race_secure_record_like_information_for) - [The race to secure record-like information for domains](https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/)
 * [2026-11-09, 22:29:01](https://lobste.rs/s/drozos/docker_has_always_used_microvms_well) - [Docker has always used microVMs (well, since 2016)](https://dave.recoil.org/docker-has-always-used-microvms/)
 * [2026-11-09, 22:25:03](https://lobste.rs/s/jqvofw/reverse_engineering_vintage_diode) - [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
 * [2026-11-09, 22:14:10](https://lobste.rs/s/sifkms/two_apps_one_process) - [Two apps one process](https://andersmurphy.com/2026/11/09/two-apps-one-process.html)
