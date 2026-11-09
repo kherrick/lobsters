@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 14:55:11](https://lobste.rs/s/xf23r4/playing_classical_music_on_classic_pc) - [Playing classical music on a classic PC with GentleOS](https://www.youtube.com/watch?v=Vp16LLOvegw)
 * [2026-11-09, 13:19:22](https://lobste.rs/s/l75lxf/what_is_malloc_doing_anyway) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 12:55:38](https://lobste.rs/s/qi2lni/c_quicksort_faster_than_std_sort) - [A C++ Quicksort Faster Than std::sort](https://tiki.li/blog/about_blqsort)
 * [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horible_public_key_tricks) - [Horible public key tricks](https://maurycyz.com/projects/badcert/)

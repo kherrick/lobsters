@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-09, 14:55:11](https://lobste.rs/s/xf23r4/playing_classical_music_on_classic_pc) - [Playing classical music on a classic PC with GentleOS](https://www.youtube.com/watch?v=Vp16LLOvegw)
 * [2026-11-09, 13:19:22](https://lobste.rs/s/l75lxf/what_is_malloc_doing_anyway) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 12:55:38](https://lobste.rs/s/qi2lni/c_quicksort_faster_than_std_sort) - [A C++ Quicksort Faster Than std::sort](https://tiki.li/blog/about_blqsort)
 * [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horible_public_key_tricks) - [Horible public key tricks](https://maurycyz.com/projects/badcert/)
@@ -16,7 +17,6 @@
 * [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its) - [Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 21:37:53](https://lobste.rs/s/ic1ora/optimizing_reference_deletions_git) - [Optimizing reference deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 * [2026-11-08, 21:06:06](https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud) - [Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond](https://www.redox-os.org/news/virtualized-redox/)
-* [2026-11-08, 17:12:00](https://lobste.rs/s/cwmxea/playing_with_stm32mp2) - [Playing with the STM32MP2](https://serd.es///2026/11/08/playing-with-stm32mp2.html)
 * [2026-11-08, 17:07:51](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai) - [What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai)
 * [2026-11-08, 16:58:03](https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks) - [Unattended reboots with encrypted disks](https://jmmv.dev/2026/11/zkeys-intro.html)
 * [2026-11-08, 16:36:17](https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles) - [Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?](https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles)
