@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 15:41:50](https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants) - [Terminal2Shell: Critical flaw grants instant shell access on every major OS](https://terminal2shell.com/)
 * [2026-11-09, 14:55:11](https://lobste.rs/s/xf23r4/playing_classical_music_on_classic_pc) - [Playing classical music on a classic PC with GentleOS](https://www.youtube.com/watch?v=Vp16LLOvegw)
 * [2026-11-09, 13:19:22](https://lobste.rs/s/l75lxf/what_is_malloc_doing_anyway) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 12:55:38](https://lobste.rs/s/qi2lni/c_quicksort_faster_than_std_sort) - [A C++ Quicksort Faster Than std::sort](https://tiki.li/blog/about_blqsort)
