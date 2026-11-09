@@ -20,11 +20,11 @@
 * [2026-11-08, 21:06:06](https://lobste.rs/s/zozcwa/virtualized_redox_from_virtio_fs_cloud) - [Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond](https://www.redox-os.org/news/virtualized-redox/)
 * [2026-11-08, 17:07:51](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai) - [What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai)
 * [2026-11-08, 16:58:03](https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks) - [Unattended reboots with encrypted disks](https://jmmv.dev/2026/11/zkeys-intro.html)
-* [2026-11-08, 16:36:17](https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles) - [Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?](https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles)
 * [2026-11-08, 12:55:05](https://lobste.rs/s/62loik/systemd_loves_rust) - [systemd loves Rust](https://amutable.com/blog/systemd-loves-rust)
 * [2026-11-08, 12:53:34](https://lobste.rs/s/jnz4v5/bit_about_email) - [A bit about email](https://maurycyz.com/misc/email/)
 * [2026-11-08, 12:07:39](https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 * [2026-11-08, 08:41:38](https://lobste.rs/s/lh0qbr/nspawn_3_0_docker_compatible_engine_api) - [Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers](https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/)
+* [2026-11-07, 23:19:53](https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024) - [I’m not a fan of Deno’s security model (2024)](https://goldstein.lol/posts/deno-security/)
 
 ## [Archives](archives/index.md)
 
