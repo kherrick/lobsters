@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 21:45:49",
+      "https://lobste.rs/s/s1tppi/pypi_s_redesigned_project_pages_with"
+    ],
+    [
+      "PyPI's redesigned project pages with clearer security signals are now live",
+      "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 18:36:47",
       "https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"
     ],
@@ -237,16 +247,6 @@
     [
       "A bit about email",
       "https://maurycyz.com/misc/email/"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 12:07:39",
-      "https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4"
-    ],
-    [
-      "NetBSD 11 desktop on a Raspberry Pi 4",
-      "https://neongd.com/articles/netbsd11-rpi4.gmi"
     ]
   ]
 ]
