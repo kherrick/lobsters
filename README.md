@@ -11,7 +11,6 @@
 * [2026-11-09, 12:22:39](https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is) - [Let’s Talk About Why all This OT Stuff is Connected](https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/)
 * [2026-11-09, 11:54:39](https://lobste.rs/s/t5bmg5/slightly_better_interpolating_spline) - [Slightly better interpolating spline](https://gasiulis.name/new-spline/)
 * [2026-11-09, 11:48:55](https://lobste.rs/s/vtjjbc/what_s_new_node_js_27) - [What's new in Node.js 27](https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/)
-* [2026-11-09, 11:48:19](https://lobste.rs/s/kcyhhj/critique_gpui) - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
 * [2026-11-09, 09:32:52](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week)
 * [2026-11-09, 06:44:59](https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro) - [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
 * [2026-11-09, 06:25:20](https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry) - [Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)](https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/)
@@ -25,6 +24,7 @@
 * [2026-11-08, 16:58:03](https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks) - [Unattended reboots with encrypted disks](https://jmmv.dev/2026/11/zkeys-intro.html)
 * [2026-11-08, 12:55:05](https://lobste.rs/s/62loik/systemd_loves_rust) - [systemd loves Rust](https://amutable.com/blog/systemd-loves-rust)
 * [2026-11-08, 12:53:34](https://lobste.rs/s/jnz4v5/bit_about_email) - [A bit about email](https://maurycyz.com/misc/email/)
+* [2026-11-08, 12:07:39](https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 
 ## [Archives](archives/index.md)
 
