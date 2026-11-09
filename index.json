@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 06:25:20",
+      "https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry"
+    ],
+    [
+      "Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)",
+      "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 04:43:15",
       "https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"
     ],
@@ -207,16 +217,6 @@
     [
       "*sshole, or when are we finally going to get rid of C?",
       "https://sunshowers.io/posts/sshole/"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 18:41:33",
-      "https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge"
-    ],
-    [
-      "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-      "https://undeadly.org/cgi?action=article;sid=20261106104957"
     ]
   ],
   [
