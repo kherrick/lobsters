@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-09, 19:41:05",
-      "https://lobste.rs/s/qglc9i/deepx_claims_inference_up_100b"
-    ],
-    [
-      "DeepX claims inference up to 100B parameters at less than 5 W",
-      "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
-    ]
-  ],
-  [
-    [
       "2026-11-09, 18:36:47",
       "https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"
     ],
@@ -117,6 +107,16 @@
     [
       "What's new in Node.js 27",
       "https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/"
+    ]
+  ],
+  [
+    [
+      "2026-11-09, 11:48:19",
+      "https://lobste.rs/s/kcyhhj/critique_gpui"
+    ],
+    [
+      "A Critique of GPUI",
+      "https://blog.zortax.de/posts/a-critique-of-gpui"
     ]
   ],
   [
