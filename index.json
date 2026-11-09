@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-11-09, 11:48:19",
-      "https://lobste.rs/s/kcyhhj/critique_gpui"
-    ],
-    [
-      "A Critique of GPUI",
-      "https://blog.zortax.de/posts/a-critique-of-gpui"
-    ]
-  ],
-  [
-    [
       "2026-11-09, 09:32:52",
       "https://lobste.rs/s/tt42jc/what_are_you_doing_this_week"
     ],
@@ -247,6 +237,16 @@
     [
       "A bit about email",
       "https://maurycyz.com/misc/email/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 12:07:39",
+      "https://lobste.rs/s/rv1icj/netbsd_11_desktop_on_raspberry_pi_4"
+    ],
+    [
+      "NetBSD 11 desktop on a Raspberry Pi 4",
+      "https://neongd.com/articles/netbsd11-rpi4.gmi"
     ]
   ]
 ]
