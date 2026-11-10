@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-10, 22:54:17](https://lobste.rs/s/zi6dg1/rendering_batches_with_glimmer_datastar) - [Rendering in batches with glimmer and Datastar](https://yogthos.net/posts/2026-11-10-glimmer-datastar.html)
 * [2026-11-10, 22:47:26](https://lobste.rs/s/idktfu/go_turns_17) - [Go Turns 17](https://go.dev/blog/17years)
 * [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [2026-11-10, 19:51:19](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on) - [Searching for pedagogical materials on memory models](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on)
@@ -24,7 +25,6 @@
 * [2026-11-09, 12:22:39](https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is) - [Let’s Talk About Why all This OT Stuff is Connected](https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/)
 * [2026-11-09, 11:48:55](https://lobste.rs/s/vtjjbc/what_s_new_node_js_27) - [What's new in Node.js 27](https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/)
 * [2026-11-09, 06:44:59](https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro) - [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
-* [2026-11-09, 04:43:15](https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world) - [unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 
 ## [Archives](archives/index.md)
 
