@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 18:27:33](https://lobste.rs/s/y4djcr/thoughts_on_ai_coding) - [Thoughts on AI Coding](https://danielbmarkham.com/blog/thoughts-on-ai-coding)
 * [2026-11-10, 16:57:25](https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
 * [2026-11-10, 16:49:51](https://lobste.rs/s/kqjcnb/weird_licenses_new_open_source) - [Weird licenses and the new open source](https://dustri.org/b/weird-licenses-and-the-new-open-source.html)
