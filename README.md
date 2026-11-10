@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-10, 19:14:08](https://lobste.rs/s/zu8tdw/large_scale_measurement_real_world) - [Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild](https://fingerprinting.study/)
 * [2026-11-10, 18:27:33](https://lobste.rs/s/y4djcr/thoughts_on_ai_coding) - [Thoughts on AI Coding](https://danielbmarkham.com/blog/thoughts-on-ai-coding)
 * [2026-11-10, 16:57:25](https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
@@ -13,7 +14,6 @@
 * [2026-11-10, 07:39:39](https://lobste.rs/s/n8reli/building_networking_switch_asic_chip) - [Building a networking switch ASIC chip](https://essenceia.github.io/projects/expresso/)
 * [2026-11-10, 03:33:27](https://lobste.rs/s/4yqgpu/you_should_try_gleam) - [You should try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
 * [2026-11-10, 00:48:20](https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots) - [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
-* [2026-11-09, 23:25:03](https://lobste.rs/s/vqtg9b/race_secure_record_like_information_for) - [The race to secure record-like information for domains](https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/)
 * [2026-11-09, 22:14:10](https://lobste.rs/s/sifkms/two_apps_one_process) - [Two apps one process](https://andersmurphy.com/2026/11/09/two-apps-one-process.html)
 * [2026-11-09, 18:36:47](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail) - [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
 * [2026-11-09, 18:35:57](https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee) - [Sure mate, buy me a bloody coffee](https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/)
