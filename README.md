@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
+* [2026-11-10, 16:49:51](https://lobste.rs/s/kqjcnb/weird_licenses_new_open_source) - [Weird licenses and the new open source](https://dustri.org/b/weird-licenses-and-the-new-open-source.html)
 * [2026-11-10, 16:03:21](https://lobste.rs/s/zingk1/announcing_net_11) - [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
-* [2026-11-10, 15:51:40](https://lobste.rs/s/awjaxt/ohme_s_new_ev_charger_privacy_policy_drops) - [Ohme’s new EV charger privacy policy drops its pledge not to sell data](https://blog.popey.com/2026/11/ohme-knows-when-im-in-its-never-sell-promise-is-out/)
 * [2026-11-10, 14:48:26](https://lobste.rs/s/kymztn/beyond_compiler_making_ibm_i_run_modified) - [Beyond the compiler: Making IBM i run modified native code - Program Validation Value](https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/)
 * [2026-11-10, 14:36:45](https://lobste.rs/s/alijyg/faster_easter_date_function) - [A faster Easter date function](https://www.benjoffe.com/fast-easter)
 * [2026-11-10, 14:10:39](https://lobste.rs/s/9krhza/nest_thermostat_2026) - [Nest Thermostat in 2026](https://artificially-awesome.com/posts/nest/)
@@ -22,7 +23,6 @@
 * [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horrible_public_key_tricks) - [Horrible public key tricks](https://maurycyz.com/projects/badcert/)
 * [2026-11-09, 12:22:39](https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is) - [Let’s Talk About Why all This OT Stuff is Connected](https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/)
 * [2026-11-09, 11:48:55](https://lobste.rs/s/vtjjbc/what_s_new_node_js_27) - [What's new in Node.js 27](https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/)
-* [2026-11-09, 09:32:52](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week)
 * [2026-11-09, 06:44:59](https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro) - [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
 * [2026-11-09, 04:43:15](https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world) - [unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
+* [2026-11-10, 16:49:51](https://lobste.rs/s/kqjcnb/weird_licenses_new_open_source) - [Weird licenses and the new open source](https://dustri.org/b/weird-licenses-and-the-new-open-source.html)
 * [2026-11-10, 16:03:21](https://lobste.rs/s/zingk1/announcing_net_11) - [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
 * [2026-11-10, 15:51:40](https://lobste.rs/s/awjaxt/ohme_s_new_ev_charger_privacy_policy_drops) - [Ohme’s new EV charger privacy policy drops its pledge not to sell data](https://blog.popey.com/2026/11/ohme-knows-when-im-in-its-never-sell-promise-is-out/)
 * [2026-11-10, 14:48:26](https://lobste.rs/s/kymztn/beyond_compiler_making_ibm_i_run_modified) - [Beyond the compiler: Making IBM i run modified native code - Program Validation Value](https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/)
