@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 16:03:21](https://lobste.rs/s/zingk1/announcing_net_11) - [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
 * [2026-11-10, 15:51:40](https://lobste.rs/s/awjaxt/ohme_s_new_ev_charger_privacy_policy_drops) - [Ohme’s new EV charger privacy policy drops its pledge not to sell data](https://blog.popey.com/2026/11/ohme-knows-when-im-in-its-never-sell-promise-is-out/)
 * [2026-11-10, 14:48:26](https://lobste.rs/s/kymztn/beyond_compiler_making_ibm_i_run_modified) - [Beyond the compiler: Making IBM i run modified native code - Program Validation Value](https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/)
 * [2026-11-10, 14:36:45](https://lobste.rs/s/alijyg/faster_easter_date_function) - [A faster Easter date function](https://www.benjoffe.com/fast-easter)
