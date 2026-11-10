@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-10, 11:10:32",
+      "https://lobste.rs/s/gnx80m/debugging_rust_2026"
+    ],
+    [
+      "Debugging Rust in 2026",
+      "https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 07:39:39",
       "https://lobste.rs/s/n8reli/building_networking_switch_asic_chip"
     ],
@@ -207,16 +217,6 @@
     [
       "How Much Energy Does Building Distro Packages Use",
       "https://www.wezm.net/v2/posts/2026/distro-energy-use/"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 06:25:20",
-      "https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry"
-    ],
-    [
-      "Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)",
-      "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/"
     ]
   ],
   [
