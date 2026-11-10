@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-10, 14:48:26](https://lobste.rs/s/kymztn/beyond_compiler_making_ibm_i_run_modified) - [Beyond the compiler: Making IBM i run modified native code - Program Validation Value](https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/)
 * [2026-11-10, 14:36:45](https://lobste.rs/s/alijyg/faster_easter_date_function) - [A faster Easter date function](https://www.benjoffe.com/fast-easter)
 * [2026-11-10, 14:10:39](https://lobste.rs/s/9krhza/nest_thermostat_2026) - [Nest Thermostat in 2026](https://artificially-awesome.com/posts/nest/)
 * [2026-11-10, 13:47:03](https://lobste.rs/s/t7qkjb/hardest_tarball) - [The hardest tarball](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
@@ -24,7 +25,6 @@
 * [2026-11-09, 09:32:52](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tt42jc/what_are_you_doing_this_week)
 * [2026-11-09, 06:44:59](https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro) - [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
 * [2026-11-09, 04:43:15](https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world) - [unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
-* [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its) - [Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
 
 ## [Archives](archives/index.md)
 

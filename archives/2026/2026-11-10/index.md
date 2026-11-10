@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 14:48:26](https://lobste.rs/s/kymztn/beyond_compiler_making_ibm_i_run_modified) - [Beyond the compiler: Making IBM i run modified native code - Program Validation Value](https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/)
 * [2026-11-10, 14:36:45](https://lobste.rs/s/alijyg/faster_easter_date_function) - [A faster Easter date function](https://www.benjoffe.com/fast-easter)
 * [2026-11-10, 14:10:39](https://lobste.rs/s/9krhza/nest_thermostat_2026) - [Nest Thermostat in 2026](https://artificially-awesome.com/posts/nest/)
 * [2026-11-10, 13:47:03](https://lobste.rs/s/t7qkjb/hardest_tarball) - [The hardest tarball](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
