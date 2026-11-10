@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-10, 01:59:28](https://lobste.rs/s/mmchy9/tabernetes_kubernetes_your_browser_tab) - [Tabernetes: Kubernetes in your browser tab](https://jkroepke.de/tabernetes/)
+* [2026-11-10, 03:33:27](https://lobste.rs/s/4yqgpu/you_should_try_gleam) - [You should try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
 * [2026-11-10, 00:48:20](https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots) - [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
 * [2026-11-09, 23:25:03](https://lobste.rs/s/vqtg9b/race_secure_record_like_information_for) - [The race to secure record-like information for domains](https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/)
 * [2026-11-09, 22:29:01](https://lobste.rs/s/drozos/docker_has_always_used_microvms_well) - [Docker has always used microVMs (well, since 2016)](https://dave.recoil.org/docker-has-always-used-microvms/)
