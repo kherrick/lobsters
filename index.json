@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-11-10, 11:10:32",
-      "https://lobste.rs/s/gnx80m/debugging_rust_2026"
-    ],
-    [
-      "Debugging Rust in 2026",
-      "https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/"
-    ]
-  ],
-  [
-    [
       "2026-11-10, 07:39:39",
       "https://lobste.rs/s/n8reli/building_networking_switch_asic_chip"
     ],
@@ -77,6 +67,16 @@
     [
       "Docker has always used microVMs (well, since 2016)",
       "https://dave.recoil.org/docker-has-always-used-microvms/"
+    ]
+  ],
+  [
+    [
+      "2026-11-09, 22:25:03",
+      "https://lobste.rs/s/jqvofw/reverse_engineering_vintage_diode"
+    ],
+    [
+      "Reverse engineering a vintage diode-transistor logic chip",
+      "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
     ]
   ],
   [
