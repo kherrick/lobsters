@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 23:42:39](https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl) - [30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)
 * [2026-11-10, 23:20:23](https://lobste.rs/s/k5oycn/what_is_functional_programming) - [What is Functional Programming?](https://www.youtube.com/watch?v=bQlH49krwbk)
 * [2026-11-10, 22:54:17](https://lobste.rs/s/zi6dg1/rendering_batches_with_glimmer_datastar) - [Rendering in batches with glimmer and Datastar](https://yogthos.net/posts/2026-11-10-glimmer-datastar.html)
 * [2026-11-10, 22:47:26](https://lobste.rs/s/idktfu/go_turns_17) - [Go Turns 17](https://go.dev/blog/17years)
