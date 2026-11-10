@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-10, 21:58:18](https://lobste.rs/s/rfacq5/finding_vulnerability_star_wars_episode) - [Finding a vulnerability in Star Wars Episode I: Racer](https://synacktiv.com/en/publications/star-wars-episode-i-racer)
 * [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [2026-11-10, 19:51:19](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on) - [Searching for pedagogical materials on memory models](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on)
 * [2026-11-10, 19:44:50](https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
@@ -17,7 +18,6 @@
 * [2026-11-10, 00:48:20](https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots) - [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
 * [2026-11-09, 22:14:10](https://lobste.rs/s/sifkms/two_apps_one_process) - [Two apps one process](https://andersmurphy.com/2026/11/09/two-apps-one-process.html)
 * [2026-11-09, 18:36:47](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail) - [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
-* [2026-11-09, 18:35:57](https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee) - [Sure mate, buy me a bloody coffee](https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/)
 * [2026-11-09, 16:54:03](https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode) - [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
 * [2026-11-09, 15:41:50](https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants) - [Terminal2Shell: Critical flaw grants instant shell access on every major OS](https://terminal2shell.com/)
 * [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horrible_public_key_tricks) - [Horrible public key tricks](https://maurycyz.com/projects/badcert/)
