@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
 * [2026-11-10, 20:22:46](https://lobste.rs/s/tj73bq/online_learning_on_programmable) - [Online learning on the programmable dataplane (2022)](https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf)
+* [2026-11-10, 19:51:19](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on) - [Searching for pedagogical materials on memory models](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on)
+* [2026-11-10, 19:44:50](https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
 * [2026-11-10, 19:14:08](https://lobste.rs/s/zu8tdw/large_scale_measurement_real_world) - [Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild](https://fingerprinting.study/)
 * [2026-11-10, 18:27:33](https://lobste.rs/s/y4djcr/thoughts_on_ai_coding) - [Thoughts on AI Coding](https://danielbmarkham.com/blog/thoughts-on-ai-coding)
 * [2026-11-10, 16:57:25](https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)

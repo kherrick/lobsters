@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-10, 20:22:46](https://lobste.rs/s/tj73bq/online_learning_on_programmable) - [Online learning on the programmable dataplane (2022)](https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf)
+* [2026-11-10, 19:51:19](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on) - [Searching for pedagogical materials on memory models](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on)
+* [2026-11-10, 19:44:50](https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
 * [2026-11-10, 19:14:08](https://lobste.rs/s/zu8tdw/large_scale_measurement_real_world) - [Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild](https://fingerprinting.study/)
 * [2026-11-10, 16:57:25](https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
@@ -19,7 +20,6 @@
 * [2026-11-09, 18:35:57](https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee) - [Sure mate, buy me a bloody coffee](https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/)
 * [2026-11-09, 16:54:03](https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode) - [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
 * [2026-11-09, 15:41:50](https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants) - [Terminal2Shell: Critical flaw grants instant shell access on every major OS](https://terminal2shell.com/)
-* [2026-11-09, 12:55:38](https://lobste.rs/s/qi2lni/c_quicksort_faster_than_std_sort) - [A C++ Quicksort Faster Than std::sort](https://tiki.li/blog/about_blqsort)
 * [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horrible_public_key_tricks) - [Horrible public key tricks](https://maurycyz.com/projects/badcert/)
 * [2026-11-09, 12:22:39](https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is) - [Let’s Talk About Why all This OT Stuff is Connected](https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/)
 * [2026-11-09, 11:48:55](https://lobste.rs/s/vtjjbc/what_s_new_node_js_27) - [What's new in Node.js 27](https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/)
