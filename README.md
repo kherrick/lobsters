@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-10, 13:47:03](https://lobste.rs/s/t7qkjb/hardest_tarball) - [The hardest tarball](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 12:20:55](https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting) - [Next-Level Benchmarking Overfitting](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
 * [2026-11-10, 11:42:48](https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst) - [Open Graph images with Astro and Typst](https://eaj.no/posts/open-graph-images-with-typst/)
 * [2026-11-10, 07:39:39](https://lobste.rs/s/n8reli/building_networking_switch_asic_chip) - [Building a networking switch ASIC chip](https://essenceia.github.io/projects/expresso/)
@@ -9,7 +10,6 @@
 * [2026-11-09, 22:29:01](https://lobste.rs/s/drozos/docker_has_always_used_microvms_well) - [Docker has always used microVMs (well, since 2016)](https://dave.recoil.org/docker-has-always-used-microvms/)
 * [2026-11-09, 22:25:03](https://lobste.rs/s/jqvofw/reverse_engineering_vintage_diode) - [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
 * [2026-11-09, 22:14:10](https://lobste.rs/s/sifkms/two_apps_one_process) - [Two apps one process](https://andersmurphy.com/2026/11/09/two-apps-one-process.html)
-* [2026-11-09, 21:45:49](https://lobste.rs/s/s1tppi/pypi_s_redesigned_project_pages_with) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-09, 18:36:47](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail) - [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
 * [2026-11-09, 18:35:57](https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee) - [Sure mate, buy me a bloody coffee](https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/)
 * [2026-11-09, 16:54:03](https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode) - [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)

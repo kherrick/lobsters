@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 13:47:03](https://lobste.rs/s/t7qkjb/hardest_tarball) - [The hardest tarball](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 12:20:55](https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting) - [Next-Level Benchmarking Overfitting](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
 * [2026-11-10, 11:42:48](https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst) - [Open Graph images with Astro and Typst](https://eaj.no/posts/open-graph-images-with-typst/)
 * [2026-11-10, 11:10:32](https://lobste.rs/s/gnx80m/debugging_rust_2026) - [Debugging Rust in 2026](https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/)
