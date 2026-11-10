@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-11-09, 22:25:03",
+      "https://lobste.rs/s/jqvofw/reverse_engineering_vintage_diode"
+    ],
+    [
+      "Reverse engineering a vintage diode-transistor logic chip",
+      "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 22:14:10",
       "https://lobste.rs/s/sifkms/two_apps_one_process"
     ],
@@ -237,16 +247,6 @@
     [
       "systemd loves Rust",
       "https://amutable.com/blog/systemd-loves-rust"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 12:53:34",
-      "https://lobste.rs/s/jnz4v5/bit_about_email"
-    ],
-    [
-      "A bit about email",
-      "https://maurycyz.com/misc/email/"
     ]
   ]
 ]
