@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-10, 01:59:28](https://lobste.rs/s/mmchy9/tabernetes_kubernetes_your_browser_tab) - [Tabernetes: Kubernetes in your browser tab](https://jkroepke.de/tabernetes/)
 * [2026-11-10, 00:48:20](https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots) - [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
 * [2026-11-09, 23:25:03](https://lobste.rs/s/vqtg9b/race_secure_record_like_information_for) - [The race to secure record-like information for domains](https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/)
 * [2026-11-09, 22:29:01](https://lobste.rs/s/drozos/docker_has_always_used_microvms_well) - [Docker has always used microVMs (well, since 2016)](https://dave.recoil.org/docker-has-always-used-microvms/)
@@ -21,7 +22,6 @@
 * [2026-11-09, 06:44:59](https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro) - [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
 * [2026-11-09, 06:25:20](https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry) - [Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)](https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/)
 * [2026-11-09, 04:43:15](https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world) - [unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
-* [2026-11-09, 02:44:11](https://lobste.rs/s/a7byol/sem86_full_system_x86_emulator_without) - [Sem86: a full-system x86 emulator without hardcoded semantics](https://liblisa.nl/sem86/)
 * [2026-11-08, 21:59:26](https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its) - [Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 16:58:03](https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks) - [Unattended reboots with encrypted disks](https://jmmv.dev/2026/11/zkeys-intro.html)
 * [2026-11-08, 12:55:05](https://lobste.rs/s/62loik/systemd_loves_rust) - [systemd loves Rust](https://amutable.com/blog/systemd-loves-rust)
