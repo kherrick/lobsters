@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-11-10, 20:22:46",
-      "https://lobste.rs/s/tj73bq/online_learning_on_programmable"
+      "2026-11-10, 19:51:19",
+      "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on"
     ],
     [
-      "Online learning on the programmable dataplane (2022)",
-      "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf"
+      "Searching for pedagogical materials on memory models",
+      "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 19:44:50",
+      "https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library"
+    ],
+    [
+      "Memory Safety Bugs in Rust Standard Library",
+      "https://forge-blog.github.io/posts/rust-std-memory-safety/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
       "https://terminal2shell.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 12:55:38",
-      "https://lobste.rs/s/qi2lni/c_quicksort_faster_than_std_sort"
-    ],
-    [
-      "A C++ Quicksort Faster Than std::sort",
-      "https://tiki.li/blog/about_blqsort"
     ]
   ],
   [
