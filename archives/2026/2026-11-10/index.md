@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [2026-11-10, 20:22:46](https://lobste.rs/s/tj73bq/online_learning_on_programmable) - [Online learning on the programmable dataplane (2022)](https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf)
 * [2026-11-10, 19:51:19](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on) - [Searching for pedagogical materials on memory models](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on)
 * [2026-11-10, 19:44:50](https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
