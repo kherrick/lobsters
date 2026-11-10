@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-10, 11:42:48",
+      "https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst"
+    ],
+    [
+      "Open Graph images with Astro and Typst",
+      "https://eaj.no/posts/open-graph-images-with-typst/"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 11:10:32",
       "https://lobste.rs/s/gnx80m/debugging_rust_2026"
     ],
@@ -237,16 +247,6 @@
     [
       "Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward",
       "https://isocpp.org/files/papers/P4454R0.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 16:58:03",
-      "https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks"
-    ],
-    [
-      "Unattended reboots with encrypted disks",
-      "https://jmmv.dev/2026/11/zkeys-intro.html"
     ]
   ]
 ]
