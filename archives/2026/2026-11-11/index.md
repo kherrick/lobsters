@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 07:49:21](https://lobste.rs/s/7ehnxt/revisiting_leander_v_sweden_big_brother) - [Revisiting Leander v Sweden and Big Brother Watch](https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/)
 * [2026-11-11, 06:29:48](https://lobste.rs/s/9ccmys/programming_was_never_just_code) - [Programming Was Never Just Code](https://www.youtube.com/watch?v=jZeI0tM_HfI)
 * [2026-11-11, 06:14:34](https://lobste.rs/s/5wrucm/modding_linux_use_sigkill_on_every) - [Modding Linux to use SIGKILL on every process](https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/)
 * [2026-11-11, 06:00:16](https://lobste.rs/s/zbskej/wake_me_up_when_ai_can) - [Wake me up when AI can](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)
