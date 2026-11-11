@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-11, 15:03:06](https://lobste.rs/s/uz2j2h/google_summer_code_2026_results) - [Google Summer of Code 2026 results](https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/)
 * [2026-11-11, 14:20:17](https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026) - [In Memoriam: Tim Peters 1952–2026](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-11, 13:13:51](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies) - [What are some \"No AI\" apps/companies/resources you know of?](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies)
 * [2026-11-11, 12:36:57](https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
@@ -23,7 +24,6 @@
 * [2026-11-10, 13:47:03](https://lobste.rs/s/t7qkjb/hardest_tarball) - [The hardest tarball](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 12:20:55](https://lobste.rs/s/nuoce5/next_level_benchmarking_overfitting) - [Next-Level Benchmarking Overfitting](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
 * [2026-11-10, 11:42:48](https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst) - [Open Graph images with Astro and Typst](https://eaj.no/posts/open-graph-images-with-typst/)
-* [2026-11-10, 07:39:39](https://lobste.rs/s/n8reli/building_networking_switch_asic_chip) - [Building a networking switch ASIC chip](https://essenceia.github.io/projects/expresso/)
 * [2026-11-10, 03:33:27](https://lobste.rs/s/4yqgpu/you_should_try_gleam) - [You should try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
 
 ## [Archives](archives/index.md)

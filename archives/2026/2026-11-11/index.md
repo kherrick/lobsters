@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 15:03:06](https://lobste.rs/s/uz2j2h/google_summer_code_2026_results) - [Google Summer of Code 2026 results](https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/)
 * [2026-11-11, 14:20:17](https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026) - [In Memoriam: Tim Peters 1952–2026](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-11, 13:13:51](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies) - [What are some \"No AI\" apps/companies/resources you know of?](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies)
 * [2026-11-11, 12:36:57](https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
