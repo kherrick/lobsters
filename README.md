@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-11, 06:29:48](https://lobste.rs/s/9ccmys/programming_was_never_just_code) - [Programming Was Never Just Code](https://www.youtube.com/watch?v=jZeI0tM_HfI)
 * [2026-11-11, 06:14:34](https://lobste.rs/s/5wrucm/modding_linux_use_sigkill_on_every) - [Modding Linux to use SIGKILL on every process](https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/)
-* [2026-11-11, 06:00:16](https://lobste.rs/s/zbskej/wake_me_up_when_ai_can) - [Wake me up when AI can](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)
 * [2026-11-10, 23:42:39](https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl) - [30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)
 * [2026-11-10, 23:20:23](https://lobste.rs/s/k5oycn/what_is_functional_programming) - [What is Functional Programming?](https://www.youtube.com/watch?v=bQlH49krwbk)
 * [2026-11-10, 22:54:17](https://lobste.rs/s/zi6dg1/rendering_batches_with_glimmer_datastar) - [Rendering in batches with glimmer and Datastar](https://yogthos.net/posts/2026-11-10-glimmer-datastar.html)
