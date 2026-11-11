@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-11, 20:08:45](https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for) - [Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration](https://andrew-helmer.github.io/permute/)
 * [2026-11-11, 19:19:58](https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate) - [eMudhra Statement on Recent Certificate Security Incident](https://emudhra.com/en/post/certificate-security-incident)
 * [2026-11-11, 18:49:35](https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass) - [For the first time, a C++ standard failed to pass the national bodies](https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/)
 * [2026-11-11, 18:16:01](https://lobste.rs/s/v3uidx/lock_your_github_actions) - [Lock your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
@@ -19,7 +20,6 @@
 * [2026-11-10, 23:42:39](https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl) - [30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)
 * [2026-11-10, 22:47:26](https://lobste.rs/s/idktfu/go_turns_17) - [Go Turns 17](https://go.dev/blog/17years)
 * [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
-* [2026-11-10, 19:44:50](https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
 * [2026-11-10, 16:57:25](https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
 * [2026-11-10, 16:03:21](https://lobste.rs/s/zingk1/announcing_net_11) - [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)

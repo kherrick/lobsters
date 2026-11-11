@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 20:08:45](https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for) - [Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration](https://andrew-helmer.github.io/permute/)
 * [2026-11-11, 19:19:58](https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate) - [eMudhra Statement on Recent Certificate Security Incident](https://emudhra.com/en/post/certificate-security-incident)
 * [2026-11-11, 18:49:35](https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass) - [For the first time, a C++ standard failed to pass the national bodies](https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/)
 * [2026-11-11, 18:16:01](https://lobste.rs/s/v3uidx/lock_your_github_actions) - [Lock your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
