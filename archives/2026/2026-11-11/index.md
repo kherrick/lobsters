@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 12:01:19](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely) - [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely)
 * [2026-11-11, 10:58:39](https://lobste.rs/s/m7n7nn/deploy_rs_2026_reviving_our_nix) - [deploy-rs in 2026: reviving our Nix deployment tool](https://serokell.io/blog/deploy-rs-nix)
 * [2026-11-11, 10:18:02](https://lobste.rs/s/ihcsfw/building_student_wiki_at_mff_charles) - [Building a student wiki at MFF Charles University](https://archive.fosdem.org/2026/schedule/event/KLAKHV-matfyz-wiki/)
 * [2026-11-11, 10:13:14](https://lobste.rs/s/quicny/monads_lean) - [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/)

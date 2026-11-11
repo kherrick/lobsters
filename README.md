@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-11, 12:01:19](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely) - [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely)
 * [2026-11-11, 10:58:39](https://lobste.rs/s/m7n7nn/deploy_rs_2026_reviving_our_nix) - [deploy-rs in 2026: reviving our Nix deployment tool](https://serokell.io/blog/deploy-rs-nix)
 * [2026-11-11, 10:18:02](https://lobste.rs/s/ihcsfw/building_student_wiki_at_mff_charles) - [Building a student wiki at MFF Charles University](https://archive.fosdem.org/2026/schedule/event/KLAKHV-matfyz-wiki/)
 * [2026-11-11, 10:13:14](https://lobste.rs/s/quicny/monads_lean) - [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/)
@@ -23,7 +24,6 @@
 * [2026-11-10, 11:42:48](https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst) - [Open Graph images with Astro and Typst](https://eaj.no/posts/open-graph-images-with-typst/)
 * [2026-11-10, 07:39:39](https://lobste.rs/s/n8reli/building_networking_switch_asic_chip) - [Building a networking switch ASIC chip](https://essenceia.github.io/projects/expresso/)
 * [2026-11-10, 03:33:27](https://lobste.rs/s/4yqgpu/you_should_try_gleam) - [You should try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
-* [2026-11-10, 00:48:20](https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots) - [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
 * [2026-11-09, 18:36:47](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail) - [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
 
 ## [Archives](archives/index.md)
