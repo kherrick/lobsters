@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-11, 20:21:19",
+      "https://lobste.rs/s/ifecer/web_is_more_than_enough_by_paul_ford"
+    ],
+    [
+      "The Web Is More Than Enough, by Paul Ford",
+      "https://ftrain.com/aboard-the-web-is-more-than-enough"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 20:08:45",
       "https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for"
     ],
@@ -147,16 +157,6 @@
     [
       "Monads in Lean",
       "https://eli.thegreenplace.net/2026/monads-in-lean/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 08:25:31",
-      "https://lobste.rs/s/vzpcnd/performance_evolution_route_lookup_on"
-    ],
-    [
-      "Performance evolution of route lookup on Linux",
-      "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup"
     ]
   ],
   [
