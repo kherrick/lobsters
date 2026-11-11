@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
 * [2026-11-11, 20:21:19](https://lobste.rs/s/ifecer/web_is_more_than_enough_by_paul_ford) - [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-11, 20:08:45](https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for) - [Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration](https://andrew-helmer.github.io/permute/)
 * [2026-11-11, 19:19:58](https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate) - [eMudhra Statement on Recent Certificate Security Incident](https://emudhra.com/en/post/certificate-security-incident)
