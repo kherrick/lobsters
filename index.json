@@ -11,12 +11,42 @@
   ],
   [
     [
+      "2026-11-10, 23:20:23",
+      "https://lobste.rs/s/k5oycn/what_is_functional_programming"
+    ],
+    [
+      "What is Functional Programming?",
+      "https://www.youtube.com/watch?v=bQlH49krwbk"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 22:54:17",
+      "https://lobste.rs/s/zi6dg1/rendering_batches_with_glimmer_datastar"
+    ],
+    [
+      "Rendering in batches with glimmer and Datastar",
+      "https://yogthos.net/posts/2026-11-10-glimmer-datastar.html"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 22:47:26",
       "https://lobste.rs/s/idktfu/go_turns_17"
     ],
     [
       "Go Turns 17",
       "https://go.dev/blog/17years"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 21:58:18",
+      "https://lobste.rs/s/rfacq5/finding_vulnerability_star_wars_episode"
+    ],
+    [
+      "Finding a vulnerability in Star Wars Episode I: Racer",
+      "https://synacktiv.com/en/publications/star-wars-episode-i-racer"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-11-09, 22:14:10",
-      "https://lobste.rs/s/sifkms/two_apps_one_process"
-    ],
-    [
-      "Two apps one process",
-      "https://andersmurphy.com/2026/11/09/two-apps-one-process.html"
-    ]
-  ],
-  [
-    [
       "2026-11-09, 18:36:47",
       "https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"
     ],
     [
       "Microsoft are rejecting your mail",
       "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 16:54:03",
-      "https://lobste.rs/s/iqhxz6/i_was_wrong_about_dark_mode"
-    ],
-    [
-      "I was wrong about dark mode",
-      "https://dbushell.com/2026/11/09/dark-mode/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Let’s Talk About Why all This OT Stuff is Connected",
       "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 11:48:55",
-      "https://lobste.rs/s/vtjjbc/what_s_new_node_js_27"
-    ],
-    [
-      "What's new in Node.js 27",
-      "https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/"
     ]
   ],
   [
