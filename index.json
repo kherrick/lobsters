@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-11, 18:49:35",
-      "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass"
-    ],
-    [
-      "For the first time, a C++ standard failed to pass the national bodies",
-      "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/"
-    ]
-  ],
-  [
-    [
       "2026-11-11, 18:16:01",
       "https://lobste.rs/s/v3uidx/lock_your_github_actions"
     ],
@@ -37,6 +27,16 @@
     [
       "About the downtime and security incident",
       "https://danbooru.donmai.us/forum_topics/38685.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 16:34:08",
+      "https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch"
+    ],
+    [
+      "Writing a SIGGRAPH paper from scratch",
+      "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/"
     ]
   ],
   [
