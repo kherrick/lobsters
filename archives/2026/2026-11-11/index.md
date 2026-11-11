@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 12:36:57](https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 12:31:59](https://lobste.rs/s/miyll7/london_meetup_update) - [London meetup - update](https://lobste.rs/s/miyll7/london_meetup_update)
 * [2026-11-11, 12:01:19](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely) - [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely)
 * [2026-11-11, 10:58:39](https://lobste.rs/s/m7n7nn/deploy_rs_2026_reviving_our_nix) - [deploy-rs in 2026: reviving our Nix deployment tool](https://serokell.io/blog/deploy-rs-nix)
