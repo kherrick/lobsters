@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-11, 10:13:14](https://lobste.rs/s/quicny/monads_lean) - [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/)
 * [2026-11-11, 08:25:31](https://lobste.rs/s/vzpcnd/performance_evolution_route_lookup_on) - [Performance evolution of route lookup on Linux](https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup)
 * [2026-11-11, 07:49:21](https://lobste.rs/s/7ehnxt/revisiting_leander_v_sweden_big_brother) - [Revisiting Leander v Sweden and Big Brother Watch](https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/)
 * [2026-11-11, 06:14:34](https://lobste.rs/s/5wrucm/modding_linux_use_sigkill_on_every) - [Modding Linux to use SIGKILL on every process](https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/)
@@ -24,7 +25,6 @@
 * [2026-11-10, 03:33:27](https://lobste.rs/s/4yqgpu/you_should_try_gleam) - [You should try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
 * [2026-11-10, 00:48:20](https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots) - [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
 * [2026-11-09, 18:36:47](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail) - [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
-* [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horrible_public_key_tricks) - [Horrible public key tricks](https://maurycyz.com/projects/badcert/)
 
 ## [Archives](archives/index.md)
 
