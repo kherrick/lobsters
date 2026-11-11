@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 20:21:19](https://lobste.rs/s/ifecer/web_is_more_than_enough_by_paul_ford) - [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-11, 20:08:45](https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for) - [Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration](https://andrew-helmer.github.io/permute/)
 * [2026-11-11, 19:19:58](https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate) - [eMudhra Statement on Recent Certificate Security Incident](https://emudhra.com/en/post/certificate-security-incident)
 * [2026-11-11, 18:49:35](https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass) - [For the first time, a C++ standard failed to pass the national bodies](https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/)
