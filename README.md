@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-11, 18:05:08](https://lobste.rs/s/3rydtk/no_effect_before_its_cause_from_einstein) - [No Effect Before Its Cause: From Einstein to Lamport](https://www.itworkslocally.dev/posts/no-effect-before-its-cause)
 * [2026-11-11, 18:04:27](https://lobste.rs/s/atrnvk/zero_initialisation_shenanigans) - [Zero-initialisation shenanigans](https://napcakes.nekoweb.org/posts/zero-init/)
 * [2026-11-11, 16:58:45](https://lobste.rs/s/wfr0b4/about_downtime_security_incident) - [About the downtime and security incident](https://danbooru.donmai.us/forum_topics/38685.html)
 * [2026-11-11, 16:34:08](https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch) - [Writing a SIGGRAPH paper from scratch](https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/)
@@ -17,7 +18,6 @@
 * [2026-11-10, 22:54:17](https://lobste.rs/s/zi6dg1/rendering_batches_with_glimmer_datastar) - [Rendering in batches with glimmer and Datastar](https://yogthos.net/posts/2026-11-10-glimmer-datastar.html)
 * [2026-11-10, 22:47:26](https://lobste.rs/s/idktfu/go_turns_17) - [Go Turns 17](https://go.dev/blog/17years)
 * [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
-* [2026-11-10, 19:51:19](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on) - [Searching for pedagogical materials on memory models](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on)
 * [2026-11-10, 19:44:50](https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
 * [2026-11-10, 16:57:25](https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)

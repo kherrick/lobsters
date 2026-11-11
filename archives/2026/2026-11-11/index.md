@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 18:05:08](https://lobste.rs/s/3rydtk/no_effect_before_its_cause_from_einstein) - [No Effect Before Its Cause: From Einstein to Lamport](https://www.itworkslocally.dev/posts/no-effect-before-its-cause)
 * [2026-11-11, 18:04:27](https://lobste.rs/s/atrnvk/zero_initialisation_shenanigans) - [Zero-initialisation shenanigans](https://napcakes.nekoweb.org/posts/zero-init/)
 * [2026-11-11, 16:58:45](https://lobste.rs/s/wfr0b4/about_downtime_security_incident) - [About the downtime and security incident](https://danbooru.donmai.us/forum_topics/38685.html)
 * [2026-11-11, 16:34:08](https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch) - [Writing a SIGGRAPH paper from scratch](https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/)
