@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-11, 16:58:45](https://lobste.rs/s/wfr0b4/about_downtime_security_incident) - [About the downtime and security incident](https://danbooru.donmai.us/forum_topics/38685.html)
+* [2026-11-11, 16:34:08](https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch) - [Writing a SIGGRAPH paper from scratch](https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/)
 * [2026-11-11, 16:27:51](https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane) - [How a false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 15:03:06](https://lobste.rs/s/uz2j2h/google_summer_code_2026_results) - [Google Summer of Code 2026 results](https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/)
 * [2026-11-11, 14:20:17](https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026) - [In Memoriam: Tim Peters 1952–2026](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
@@ -21,7 +22,6 @@
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
 * [2026-11-10, 16:49:51](https://lobste.rs/s/kqjcnb/weird_licenses_new_open_source) - [Weird licenses and the new open source](https://dustri.org/b/weird-licenses-and-the-new-open-source.html)
 * [2026-11-10, 16:03:21](https://lobste.rs/s/zingk1/announcing_net_11) - [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
-* [2026-11-10, 14:36:45](https://lobste.rs/s/alijyg/faster_easter_date_function) - [A faster Easter date function](https://www.benjoffe.com/fast-easter)
 * [2026-11-10, 13:47:03](https://lobste.rs/s/t7qkjb/hardest_tarball) - [The hardest tarball](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 11:42:48](https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst) - [Open Graph images with Astro and Typst](https://eaj.no/posts/open-graph-images-with-typst/)
 * [2026-11-10, 03:33:27](https://lobste.rs/s/4yqgpu/you_should_try_gleam) - [You should try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
