@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-11, 10:58:39",
+      "https://lobste.rs/s/m7n7nn/deploy_rs_2026_reviving_our_nix"
+    ],
+    [
+      "deploy-rs in 2026: reviving our Nix deployment tool",
+      "https://serokell.io/blog/deploy-rs-nix"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 10:18:02",
       "https://lobste.rs/s/ihcsfw/building_student_wiki_at_mff_charles"
     ],
@@ -47,16 +57,6 @@
     [
       "30 years of Internet transfers with curl",
       "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 23:20:23",
-      "https://lobste.rs/s/k5oycn/what_is_functional_programming"
-    ],
-    [
-      "What is Functional Programming?",
-      "https://www.youtube.com/watch?v=bQlH49krwbk"
     ]
   ],
   [
