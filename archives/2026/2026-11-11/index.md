@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 10:18:02](https://lobste.rs/s/ihcsfw/building_student_wiki_at_mff_charles) - [Building a student wiki at MFF Charles University](https://archive.fosdem.org/2026/schedule/event/KLAKHV-matfyz-wiki/)
 * [2026-11-11, 10:13:14](https://lobste.rs/s/quicny/monads_lean) - [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/)
 * [2026-11-11, 08:25:31](https://lobste.rs/s/vzpcnd/performance_evolution_route_lookup_on) - [Performance evolution of route lookup on Linux](https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup)
 * [2026-11-11, 07:49:21](https://lobste.rs/s/7ehnxt/revisiting_leander_v_sweden_big_brother) - [Revisiting Leander v Sweden and Big Brother Watch](https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/)
