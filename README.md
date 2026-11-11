@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-11, 01:05:32](https://lobste.rs/s/idexoh/best_algebras_are_spinny) - [The best algebras are spinny](https://www.youtube.com/watch?v=-k-Dnw0F3kc)
+* [2026-11-11, 06:14:34](https://lobste.rs/s/5wrucm/modding_linux_use_sigkill_on_every) - [Modding Linux to use SIGKILL on every process](https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/)
+* [2026-11-11, 06:00:16](https://lobste.rs/s/zbskej/wake_me_up_when_ai_can) - [Wake me up when AI can](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)
 * [2026-11-10, 23:42:39](https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl) - [30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)
 * [2026-11-10, 23:20:23](https://lobste.rs/s/k5oycn/what_is_functional_programming) - [What is Functional Programming?](https://www.youtube.com/watch?v=bQlH49krwbk)
 * [2026-11-10, 22:54:17](https://lobste.rs/s/zi6dg1/rendering_batches_with_glimmer_datastar) - [Rendering in batches with glimmer and Datastar](https://yogthos.net/posts/2026-11-10-glimmer-datastar.html)
@@ -23,7 +24,6 @@
 * [2026-11-10, 00:48:20](https://lobste.rs/s/bubqox/blunt_banhammer_blocks_basic_bots) - [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/)
 * [2026-11-09, 18:36:47](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail) - [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/)
 * [2026-11-09, 12:55:11](https://lobste.rs/s/txkq8s/horrible_public_key_tricks) - [Horrible public key tricks](https://maurycyz.com/projects/badcert/)
-* [2026-11-09, 12:22:39](https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is) - [Let’s Talk About Why all This OT Stuff is Connected](https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/)
 * [2026-11-09, 06:44:59](https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro) - [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use/)
 
 ## [Archives](archives/index.md)
