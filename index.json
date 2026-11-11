@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-11, 10:13:14",
+      "https://lobste.rs/s/quicny/monads_lean"
+    ],
+    [
+      "Monads in Lean",
+      "https://eli.thegreenplace.net/2026/monads-in-lean/"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 08:25:31",
       "https://lobste.rs/s/vzpcnd/performance_evolution_route_lookup_on"
     ],
@@ -237,16 +247,6 @@
     [
       "Microsoft are rejecting your mail",
       "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 12:55:11",
-      "https://lobste.rs/s/txkq8s/horrible_public_key_tricks"
-    ],
-    [
-      "Horrible public key tricks",
-      "https://maurycyz.com/projects/badcert/"
     ]
   ]
 ]
