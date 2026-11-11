@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-11, 20:08:45",
+      "https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for"
+    ],
+    [
+      "Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration",
+      "https://andrew-helmer.github.io/permute/"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 19:19:58",
       "https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate"
     ],
@@ -187,16 +197,6 @@
     [
       "I deleted all my SSH keys",
       "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 19:44:50",
-      "https://lobste.rs/s/plreds/memory_safety_bugs_rust_standard_library"
-    ],
-    [
-      "Memory Safety Bugs in Rust Standard Library",
-      "https://forge-blog.github.io/posts/rust-std-memory-safety/"
     ]
   ],
   [
