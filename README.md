@@ -4,7 +4,6 @@
 * [2026-11-12, 15:35:46](https://lobste.rs/s/7c4iar/libreagi_save_os_models) - [libreagi - save OS models](https://libreagi.com/)
 * [2026-11-12, 15:13:35](https://lobste.rs/s/8kmjot/humble_bundle_just_completely_killed) - [Humble Bundle just completely killed most of their security through vibecoding](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
 * [2026-11-12, 14:49:26](https://lobste.rs/s/yrpo2q/paths_pieces) - [Paths in pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
-* [2026-11-12, 14:41:38](https://lobste.rs/s/rehdv3/ai_security_issues_are_social) - [AI Security Issues Are Social Engineering Issues](https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/)
 * [2026-11-12, 14:37:35](https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side) - [The Secret of Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-12, 12:44:34](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely) - [The entirety of \"Let Over Lambda\" is now freely available online](https://letoverlambda.com/)
 * [2026-11-12, 12:29:56](https://lobste.rs/s/gejy85/adapting_cpython_for_yk) - [Adapting CPython for yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
@@ -24,6 +23,7 @@
 * [2026-11-11, 13:13:51](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies) - [What are some \"No AI\" apps/companies/resources you know of?](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies)
 * [2026-11-11, 12:36:57](https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 12:01:19](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely) - [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely)
+* [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
 
 ## [Archives](archives/index.md)
