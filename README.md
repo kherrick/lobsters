@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-12, 12:44:34](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely) - [The entirety of \"Let Over Lambda\" is now freely available online](https://letoverlambda.com/)
 * [2026-11-12, 12:29:56](https://lobste.rs/s/gejy85/adapting_cpython_for_yk) - [Adapting CPython for yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
 * [2026-11-12, 12:20:27](https://lobste.rs/s/itpaba/creating_diagrams_graphs_using_modern) - [Creating Diagrams and Graphs Using Modern CSS](https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/)
 * [2026-11-12, 11:08:45](https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads) - [Hijacking Samsung TV Smart Hub Ads](https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/)
@@ -21,7 +22,6 @@
 * [2026-11-11, 12:31:59](https://lobste.rs/s/miyll7/london_meetup_update) - [London meetup - update](https://lobste.rs/s/miyll7/london_meetup_update)
 * [2026-11-11, 12:01:19](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely) - [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely)
 * [2026-11-11, 10:13:14](https://lobste.rs/s/quicny/monads_lean) - [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/)
-* [2026-11-10, 23:42:39](https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl) - [30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)
 * [2026-11-10, 22:47:26](https://lobste.rs/s/idktfu/go_turns_17) - [Go Turns 17](https://go.dev/blog/17years)
 * [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
