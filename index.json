@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-11, 23:59:09",
+      "https://lobste.rs/s/sc7qkv/myth_neutral_code"
+    ],
+    [
+      "The Myth of Neutral Code",
+      "https://foss.life/notes/2026/the-myth-of-neutral-code/"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 21:53:24",
       "https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire"
     ],
@@ -167,16 +177,6 @@
     [
       "Monads in Lean",
       "https://eli.thegreenplace.net/2026/monads-in-lean/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 06:14:34",
-      "https://lobste.rs/s/5wrucm/modding_linux_use_sigkill_on_every"
-    ],
-    [
-      "Modding Linux to use SIGKILL on every process",
-      "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/"
     ]
   ],
   [
