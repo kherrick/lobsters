@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-12, 22:17:32](https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter) - [Let’s Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 20:45:02](https://lobste.rs/s/wbkayq/freebsd_status_report_third_quarter_2026) - [FreeBSD Status Report Third Quarter 2026](https://www.freebsd.org/status/report-2026-07-2026-09/)
 * [2026-11-12, 19:13:49](https://lobste.rs/s/pbc1ke/dyalog_version_21_0) - [Dyalog Version 21.0](https://dyalog.com/dyalog/dyalog-versions/210.htm)
 * [2026-11-12, 18:43:41](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0) - [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
@@ -12,7 +13,6 @@
 * [2026-11-12, 12:20:27](https://lobste.rs/s/itpaba/creating_diagrams_graphs_using_modern) - [Creating Diagrams and Graphs Using Modern CSS](https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/)
 * [2026-11-12, 11:08:45](https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads) - [Hijacking Samsung TV Smart Hub Ads](https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/)
 * [2026-11-12, 10:09:16](https://lobste.rs/s/3gw2f4/hello_baochip) - [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
-* [2026-11-12, 08:19:41](https://lobste.rs/s/vwta8g/global_coordination_requirements_for) - [Global coordination requirements for 2038-class rollover events](https://www.itu.int/pub/T-TUT-ICTS-2026-6)
 * [2026-11-11, 23:59:09](https://lobste.rs/s/sc7qkv/myth_neutral_code) - [The Myth of Neutral Code](https://foss.life/notes/2026/the-myth-of-neutral-code/)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
 * [2026-11-11, 20:08:45](https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for) - [Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration](https://andrew-helmer.github.io/permute/)
