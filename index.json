@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-12, 22:55:12",
+      "https://lobste.rs/s/vnugiy/secure_exclaves_ambient_sensing"
+    ],
+    [
+      "Secure Exclaves and Ambient Sensing",
+      "https://security.apple.com/blog/secure-exclaves/"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 22:17:32",
       "https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter"
     ],
@@ -237,16 +247,6 @@
     [
       "How do you actually self-host securely?",
       "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 16:52:12",
-      "https://lobste.rs/s/vkkbwo/name_grandfathered"
-    ],
-    [
-      ".name grandfathered",
-      "https://neil.fraser.name/news/2026/11/10/"
     ]
   ]
 ]
