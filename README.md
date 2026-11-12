@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-12, 19:13:49](https://lobste.rs/s/pbc1ke/dyalog_version_21_0) - [Dyalog Version 21.0](https://dyalog.com/dyalog/dyalog-versions/210.htm)
 * [2026-11-12, 18:43:41](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0) - [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 * [2026-11-12, 16:17:25](https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network) - [The anti-marketing aspect of the Gemini network](https://ploum.net/2026-11-12-anti-marketing-gemini.html)
 * [2026-11-12, 15:35:46](https://lobste.rs/s/7c4iar/libreagi_save_os_models) - [libreagi - save OS models](https://libreagi.com/)
@@ -19,7 +20,6 @@
 * [2026-11-11, 18:16:01](https://lobste.rs/s/v3uidx/lock_your_github_actions) - [Lock your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [2026-11-11, 16:58:45](https://lobste.rs/s/wfr0b4/about_downtime_security_incident) - [About the downtime and security incident](https://danbooru.donmai.us/forum_topics/38685.html)
 * [2026-11-11, 16:27:51](https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane) - [How a false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
-* [2026-11-11, 15:03:06](https://lobste.rs/s/uz2j2h/google_summer_code_2026_results) - [Google Summer of Code 2026 results](https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/)
 * [2026-11-11, 14:20:17](https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026) - [In Memoriam: Tim Peters 1952–2026](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-11, 13:13:51](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies) - [What are some \"No AI\" apps/companies/resources you know of?](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies)
 * [2026-11-11, 12:36:57](https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
