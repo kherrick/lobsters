@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 16:17:25](https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network) - [The anti-marketing aspect of the Gemini network](https://ploum.net/2026-11-12-anti-marketing-gemini.html)
 * [2026-11-12, 15:35:46](https://lobste.rs/s/7c4iar/libreagi_save_os_models) - [libreagi - save OS models](https://libreagi.com/)
 * [2026-11-12, 15:13:35](https://lobste.rs/s/8kmjot/humble_bundle_just_completely_killed) - [Humble Bundle just completely killed most of their security through vibecoding](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
 * [2026-11-12, 14:49:26](https://lobste.rs/s/yrpo2q/paths_pieces) - [Paths in pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
