@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 22:55:12](https://lobste.rs/s/vnugiy/secure_exclaves_ambient_sensing) - [Secure Exclaves and Ambient Sensing](https://security.apple.com/blog/secure-exclaves/)
 * [2026-11-12, 22:17:32](https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter) - [Let’s Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 20:45:02](https://lobste.rs/s/wbkayq/freebsd_status_report_third_quarter_2026) - [FreeBSD Status Report Third Quarter 2026](https://www.freebsd.org/status/report-2026-07-2026-09/)
 * [2026-11-12, 19:13:49](https://lobste.rs/s/pbc1ke/dyalog_version_21_0) - [Dyalog Version 21.0](https://dyalog.com/dyalog/dyalog-versions/210.htm)
