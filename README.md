@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-12, 10:09:16](https://lobste.rs/s/3gw2f4/hello_baochip) - [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
 * [2026-11-12, 08:19:41](https://lobste.rs/s/vwta8g/global_coordination_requirements_for) - [Global coordination requirements for 2038-class rollover events](https://www.itu.int/pub/T-TUT-ICTS-2026-6)
 * [2026-11-11, 23:59:09](https://lobste.rs/s/sc7qkv/myth_neutral_code) - [The Myth of Neutral Code](https://foss.life/notes/2026/the-myth-of-neutral-code/)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
@@ -10,7 +11,6 @@
 * [2026-11-11, 18:16:01](https://lobste.rs/s/v3uidx/lock_your_github_actions) - [Lock your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [2026-11-11, 18:05:08](https://lobste.rs/s/3rydtk/no_effect_before_its_cause_from_einstein) - [No Effect Before Its Cause: From Einstein to Lamport](https://www.itworkslocally.dev/posts/no-effect-before-its-cause)
 * [2026-11-11, 16:58:45](https://lobste.rs/s/wfr0b4/about_downtime_security_incident) - [About the downtime and security incident](https://danbooru.donmai.us/forum_topics/38685.html)
-* [2026-11-11, 16:34:08](https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch) - [Writing a SIGGRAPH paper from scratch](https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/)
 * [2026-11-11, 16:27:51](https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane) - [How a false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 15:03:06](https://lobste.rs/s/uz2j2h/google_summer_code_2026_results) - [Google Summer of Code 2026 results](https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/)
 * [2026-11-11, 14:20:17](https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026) - [In Memoriam: Tim Peters 1952–2026](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
