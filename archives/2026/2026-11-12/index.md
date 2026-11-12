@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 18:43:41](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0) - [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 * [2026-11-12, 16:17:25](https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network) - [The anti-marketing aspect of the Gemini network](https://ploum.net/2026-11-12-anti-marketing-gemini.html)
 * [2026-11-12, 15:35:46](https://lobste.rs/s/7c4iar/libreagi_save_os_models) - [libreagi - save OS models](https://libreagi.com/)
 * [2026-11-12, 15:13:35](https://lobste.rs/s/8kmjot/humble_bundle_just_completely_killed) - [Humble Bundle just completely killed most of their security through vibecoding](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
