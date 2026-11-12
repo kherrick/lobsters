@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 11:08:45](https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads) - [Hijacking Samsung TV Smart Hub Ads](https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/)
 * [2026-11-12, 10:09:16](https://lobste.rs/s/3gw2f4/hello_baochip) - [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
 * [2026-11-12, 08:19:41](https://lobste.rs/s/vwta8g/global_coordination_requirements_for) - [Global coordination requirements for 2038-class rollover events](https://www.itu.int/pub/T-TUT-ICTS-2026-6)
