@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-12, 08:19:41](https://lobste.rs/s/vwta8g/global_coordination_requirements_for) - [Global coordination requirements for 2038-class rollover events](https://www.itu.int/pub/T-TUT-ICTS-2026-6)
 * [2026-11-11, 23:59:09](https://lobste.rs/s/sc7qkv/myth_neutral_code) - [The Myth of Neutral Code](https://foss.life/notes/2026/the-myth-of-neutral-code/)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
 * [2026-11-11, 20:21:19](https://lobste.rs/s/ifecer/web_is_more_than_enough) - [The Web Is More Than Enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
@@ -23,7 +24,6 @@
 * [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [2026-11-10, 16:57:25](https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 16:52:12](https://lobste.rs/s/vkkbwo/name_grandfathered) - [.name grandfathered](https://neil.fraser.name/news/2026/11/10/)
-* [2026-11-10, 16:03:21](https://lobste.rs/s/zingk1/announcing_net_11) - [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
 * [2026-11-10, 13:47:03](https://lobste.rs/s/t7qkjb/hardest_tarball) - [The hardest tarball](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 
 ## [Archives](archives/index.md)
