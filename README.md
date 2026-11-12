@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-11, 23:59:09](https://lobste.rs/s/sc7qkv/myth_neutral_code) - [The Myth of Neutral Code](https://foss.life/notes/2026/the-myth-of-neutral-code/)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
 * [2026-11-11, 20:21:19](https://lobste.rs/s/ifecer/web_is_more_than_enough) - [The Web Is More Than Enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-11, 20:08:45](https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for) - [Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration](https://andrew-helmer.github.io/permute/)
@@ -17,7 +18,6 @@
 * [2026-11-11, 12:31:59](https://lobste.rs/s/miyll7/london_meetup_update) - [London meetup - update](https://lobste.rs/s/miyll7/london_meetup_update)
 * [2026-11-11, 12:01:19](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely) - [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely)
 * [2026-11-11, 10:13:14](https://lobste.rs/s/quicny/monads_lean) - [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/)
-* [2026-11-11, 06:14:34](https://lobste.rs/s/5wrucm/modding_linux_use_sigkill_on_every) - [Modding Linux to use SIGKILL on every process](https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/)
 * [2026-11-10, 23:42:39](https://lobste.rs/s/x4kaac/30_years_internet_transfers_with_curl) - [30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)
 * [2026-11-10, 22:47:26](https://lobste.rs/s/idktfu/go_turns_17) - [Go Turns 17](https://go.dev/blog/17years)
 * [2026-11-10, 20:49:23](https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
