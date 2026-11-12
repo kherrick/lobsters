@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-12, 12:29:56](https://lobste.rs/s/gejy85/adapting_cpython_for_yk) - [Adapting CPython for yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
 * [2026-11-12, 12:20:27](https://lobste.rs/s/itpaba/creating_diagrams_graphs_using_modern) - [Creating Diagrams and Graphs Using Modern CSS](https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/)
 * [2026-11-12, 11:08:45](https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads) - [Hijacking Samsung TV Smart Hub Ads](https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/)
 * [2026-11-12, 10:09:16](https://lobste.rs/s/3gw2f4/hello_baochip) - [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
 * [2026-11-12, 08:19:41](https://lobste.rs/s/vwta8g/global_coordination_requirements_for) - [Global coordination requirements for 2038-class rollover events](https://www.itu.int/pub/T-TUT-ICTS-2026-6)
 * [2026-11-11, 23:59:09](https://lobste.rs/s/sc7qkv/myth_neutral_code) - [The Myth of Neutral Code](https://foss.life/notes/2026/the-myth-of-neutral-code/)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
-* [2026-11-11, 20:21:19](https://lobste.rs/s/ifecer/web_is_more_than_enough) - [The Web Is More Than Enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-11, 20:08:45](https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for) - [Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration](https://andrew-helmer.github.io/permute/)
 * [2026-11-11, 19:19:58](https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate) - [eMudhra Statement on Recent Certificate Security Incident](https://emudhra.com/en/post/certificate-security-incident)
 * [2026-11-11, 18:49:35](https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass) - [For the first time, a C++ standard failed to pass the national bodies](https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/)
