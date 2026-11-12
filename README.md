@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-12, 14:49:26](https://lobste.rs/s/yrpo2q/paths_pieces) - [Paths in pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 * [2026-11-12, 14:41:38](https://lobste.rs/s/rehdv3/ai_security_issues_are_social) - [AI Security Issues Are Social Engineering Issues](https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/)
 * [2026-11-12, 14:37:35](https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side) - [The Secret of Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-12, 12:44:34](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely) - [The entirety of \"Let Over Lambda\" is now freely available online](https://letoverlambda.com/)
@@ -11,7 +12,6 @@
 * [2026-11-11, 23:59:09](https://lobste.rs/s/sc7qkv/myth_neutral_code) - [The Myth of Neutral Code](https://foss.life/notes/2026/the-myth-of-neutral-code/)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
 * [2026-11-11, 20:08:45](https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for) - [Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration](https://andrew-helmer.github.io/permute/)
-* [2026-11-11, 19:19:58](https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate) - [eMudhra Statement on Recent Certificate Security Incident](https://emudhra.com/en/post/certificate-security-incident)
 * [2026-11-11, 18:49:35](https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass) - [For the first time, a C++ standard failed to pass the national bodies](https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/)
 * [2026-11-11, 18:16:01](https://lobste.rs/s/v3uidx/lock_your_github_actions) - [Lock your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [2026-11-11, 16:58:45](https://lobste.rs/s/wfr0b4/about_downtime_security_incident) - [About the downtime and security incident](https://danbooru.donmai.us/forum_topics/38685.html)
