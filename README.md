@@ -2,6 +2,7 @@
 
 * [2026-11-13, 12:03:19](https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 11:36:44](https://lobste.rs/s/9oq6fr/need_for_at_least_third_option) - [The need for at least a third option](https://blog.ovalerio.net/archives/3359)
+* [2026-11-13, 11:33:56](https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals) - [ML Modules for Mere Mortals](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/)
 * [2026-11-13, 11:20:32](https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026) - [Running a law firm on Free software (2026 edition)](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
 * [2026-11-13, 10:22:29](https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend)
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
@@ -24,7 +25,6 @@
 * [2026-11-12, 11:08:45](https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads) - [Hijacking Samsung TV Smart Hub Ads](https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/)
 * [2026-11-12, 10:09:16](https://lobste.rs/s/3gw2f4/hello_baochip) - [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
-* [2026-11-11, 16:27:51](https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane) - [How a false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 
 ## [Archives](archives/index.md)
 
