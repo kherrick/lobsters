@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-13, 00:36:19](https://lobste.rs/s/49c859/building_my_own_ads_b_receiver) - [Building my own ADS-B receiver](https://kew.edbn.me/blog/adsb-receiver/)
 * [2026-11-13, 00:20:52](https://lobste.rs/s/slkmnx/futhark_j_bridge) - [Futhark-J Bridge](https://chen.cat/j/futhark/)
-* [2026-11-13, 00:16:10](https://lobste.rs/s/a3elxr/jit_bitmap_text_rendering_for) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
 * [2026-11-12, 22:55:12](https://lobste.rs/s/vnugiy/secure_exclaves_ambient_sensing) - [Secure Exclaves and Ambient Sensing](https://security.apple.com/blog/secure-exclaves/)
 * [2026-11-12, 22:17:32](https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter) - [Let’s Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 20:45:02](https://lobste.rs/s/wbkayq/freebsd_status_report_third_quarter_2026) - [FreeBSD Status Report Third Quarter 2026](https://www.freebsd.org/status/report-2026-07-2026-09/)
