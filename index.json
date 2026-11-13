@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-13, 16:03:44",
+      "https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"
+    ],
+    [
+      "Probabilistic data structures in Go",
+      "https://antonz.org/probabilistic-data-structures/"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 14:34:57",
       "https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack"
     ],
@@ -137,16 +147,6 @@
     [
       "FreeBSD Status Report Third Quarter 2026",
       "https://www.freebsd.org/status/report-2026-07-2026-09/"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 19:13:49",
-      "https://lobste.rs/s/pbc1ke/dyalog_version_21_0"
-    ],
-    [
-      "Dyalog Version 21.0",
-      "https://dyalog.com/dyalog/dyalog-versions/210.htm"
     ]
   ],
   [
