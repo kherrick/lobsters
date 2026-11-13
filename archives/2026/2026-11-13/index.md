@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 * [2026-11-13, 08:37:31](https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss) - [e-means: 10x faster k-means at equal loss](https://e-means.github.io/)
 * [2026-11-13, 08:23:34](https://lobste.rs/s/govqdi/occupysaas_they_laid_us_off_we_re) - [OccupySaaS — They laid us off. We're rebuilding their SaaS](https://occupysaas.com/)
 * [2026-11-13, 08:04:49](https://lobste.rs/s/u2jtkk/is_there_right_amount_ai) - [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
