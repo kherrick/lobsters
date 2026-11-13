@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 07:31:32](https://lobste.rs/s/9qf0xv/steadfast_update_i_baseline) - [Steadfast Update I - The Baseline](https://noteflakes.com/articles/2026-11-13-steadfast-update-1)
 * [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)
 * [2026-11-13, 04:37:37](https://lobste.rs/s/sbsu9w/choosing_quepaxa_unusual_consensus) - [Choosing QuePaxa, an unusual consensus algorithm](https://blog.cloudflare.com/choosing-quepaxa/)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
