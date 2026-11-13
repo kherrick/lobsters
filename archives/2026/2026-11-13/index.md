@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 11:36:44](https://lobste.rs/s/9oq6fr/need_for_at_least_third_option) - [The need for at least a third option](https://blog.ovalerio.net/archives/3359)
 * [2026-11-13, 11:33:56](https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals) - [ML Modules for Mere Mortals](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/)
 * [2026-11-13, 11:20:32](https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026) - [Running a law firm on Free software (2026 edition)](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
 * [2026-11-13, 10:55:43](https://lobste.rs/s/3q4npg/myths_r2land) - [Myths in R2Land](https://trufae.substack.com/p/myths-in-r2land)
