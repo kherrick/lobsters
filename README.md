@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-13, 10:22:29](https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend)
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 * [2026-11-13, 07:50:10](https://lobste.rs/s/cjnwcg/from_digital_mischief_outright) - [“From digital mischief to outright destruction”](https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction)
 * [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
 * [2026-11-13, 01:16:15](https://lobste.rs/s/klmtb1/announcing_graphql_over_http) - [Announcing the GraphQL over HTTP specification](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/)
 * [2026-11-13, 00:36:19](https://lobste.rs/s/49c859/building_my_own_ads_b_receiver) - [Building my own ADS-B receiver](https://kew.edbn.me/blog/adsb-receiver/)
-* [2026-11-13, 00:20:52](https://lobste.rs/s/slkmnx/futhark_j_bridge) - [Futhark-J Bridge](https://chen.cat/j/futhark/)
 * [2026-11-13, 00:16:10](https://lobste.rs/s/a3elxr/jit_bitmap_text_rendering_for) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
 * [2026-11-12, 22:17:32](https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter) - [Let’s Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 20:45:02](https://lobste.rs/s/wbkayq/freebsd_status_report_third_quarter_2026) - [FreeBSD Status Report Third Quarter 2026](https://www.freebsd.org/status/report-2026-07-2026-09/)

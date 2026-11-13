@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 10:22:29](https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend)
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 * [2026-11-13, 08:37:31](https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss) - [e-means: 10x faster k-means at equal loss](https://e-means.github.io/)
 * [2026-11-13, 08:23:34](https://lobste.rs/s/govqdi/occupysaas_they_laid_us_off_we_re) - [OccupySaaS — They laid us off. We're rebuilding their SaaS](https://occupysaas.com/)
