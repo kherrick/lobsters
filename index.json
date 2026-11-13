@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-13, 00:20:52",
+      "https://lobste.rs/s/slkmnx/futhark_j_bridge"
+    ],
+    [
+      "Futhark-J Bridge",
+      "https://chen.cat/j/futhark/"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 00:16:10",
+      "https://lobste.rs/s/a3elxr/jit_bitmap_text_rendering_for"
+    ],
+    [
+      "JIT bitmap text rendering for microcontrollers",
+      "https://linebender.org/blog/jit-bitmap-text/"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 22:55:12",
       "https://lobste.rs/s/vnugiy/secure_exclaves_ambient_sensing"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-11-11, 20:08:45",
-      "https://lobste.rs/s/pdzud6/andrew_kensler_s_permute_function_for"
-    ],
-    [
-      "Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration",
-      "https://andrew-helmer.github.io/permute/"
-    ]
-  ],
-  [
-    [
       "2026-11-11, 18:49:35",
       "https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass"
     ],
@@ -187,16 +197,6 @@
     [
       "Lock your GitHub Actions",
       "https://hugovk.dev/blog/2026/lock-github-actions/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 16:58:45",
-      "https://lobste.rs/s/wfr0b4/about_downtime_security_incident"
-    ],
-    [
-      "About the downtime and security incident",
-      "https://danbooru.donmai.us/forum_topics/38685.html"
     ]
   ],
   [
