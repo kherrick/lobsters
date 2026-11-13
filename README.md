@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
-* [2026-11-13, 08:37:31](https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss) - [e-means: 10x faster k-means at equal loss](https://e-means.github.io/)
+* [2026-11-13, 07:50:10](https://lobste.rs/s/cjnwcg/from_digital_mischief_outright) - [“From digital mischief to outright destruction”](https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction)
 * [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
 * [2026-11-13, 01:16:15](https://lobste.rs/s/klmtb1/announcing_graphql_over_http) - [Announcing the GraphQL over HTTP specification](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/)
