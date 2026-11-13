@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-13, 07:50:10](https://lobste.rs/s/cjnwcg/from_digital_mischief_outright) - [“From digital mischief to outright destruction”](https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction)
 * [2026-11-13, 07:31:32](https://lobste.rs/s/9qf0xv/steadfast_update_i_baseline) - [Steadfast Update I - The Baseline](https://noteflakes.com/articles/2026-11-13-steadfast-update-1)
-* [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
 * [2026-11-13, 01:16:15](https://lobste.rs/s/klmtb1/announcing_graphql_over_http) - [Announcing the GraphQL over HTTP specification](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/)
 * [2026-11-13, 00:36:19](https://lobste.rs/s/49c859/building_my_own_ads_b_receiver) - [Building my own ADS-B receiver](https://kew.edbn.me/blog/adsb-receiver/)
