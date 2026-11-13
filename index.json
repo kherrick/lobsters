@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-13, 04:37:37",
+      "https://lobste.rs/s/sbsu9w/choosing_quepaxa_unusual_consensus"
+    ],
+    [
+      "Choosing QuePaxa, an unusual consensus algorithm",
+      "https://blog.cloudflare.com/choosing-quepaxa/"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 02:36:05",
       "https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"
     ],
@@ -197,16 +207,6 @@
     [
       "For the first time, a C++ standard failed to pass the national bodies",
       "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 18:16:01",
-      "https://lobste.rs/s/v3uidx/lock_your_github_actions"
-    ],
-    [
-      "Lock your GitHub Actions",
-      "https://hugovk.dev/blog/2026/lock-github-actions/"
     ]
   ],
   [
