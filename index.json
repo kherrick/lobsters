@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-13, 06:20:05",
+      "https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl"
+    ],
+    [
+      "SSA from bytecode: imperative pearl",
+      "https://bernsteinbear.com/blog/ssa-bytecode/"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 02:36:05",
       "https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"
     ],
@@ -157,16 +167,6 @@
     [
       "Adapting CPython for yk",
       "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 12:20:27",
-      "https://lobste.rs/s/itpaba/creating_diagrams_graphs_using_modern"
-    ],
-    [
-      "Creating Diagrams and Graphs Using Modern CSS",
-      "https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/"
     ]
   ],
   [
