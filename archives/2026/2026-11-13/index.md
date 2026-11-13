@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 20:39:53](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog) - [Someone's impersonating this blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 20:26:34](https://lobste.rs/s/rpd05t/don_t_bother_patching_multiple_remote) - [Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a)
 * [2026-11-13, 19:34:28](https://lobste.rs/s/1nmzz6/kildall_s_algorithm) - [Kildall's algorithm](https://bike.github.io/posts/kildall.html)
 * [2026-11-13, 18:37:30](https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c) - [Pointer Provenance in Rust vs C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
