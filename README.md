@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
 * [2026-11-13, 14:34:57](https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack) - [Beating the frontier on NetHack](https://antithesis.com/blog/2026/nethack/)
 * [2026-11-13, 14:27:43](https://lobste.rs/s/xe0prv/technical_vision_for_haskell_ecosystem) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-13, 12:03:19](https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
@@ -14,7 +15,6 @@
 * [2026-11-13, 00:16:10](https://lobste.rs/s/a3elxr/jit_bitmap_text_rendering_for) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
 * [2026-11-12, 22:17:32](https://lobste.rs/s/8kdcdd/let_s_write_postscript_interpreter) - [Let’s Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 20:45:02](https://lobste.rs/s/wbkayq/freebsd_status_report_third_quarter_2026) - [FreeBSD Status Report Third Quarter 2026](https://www.freebsd.org/status/report-2026-07-2026-09/)
-* [2026-11-12, 19:13:49](https://lobste.rs/s/pbc1ke/dyalog_version_21_0) - [Dyalog Version 21.0](https://dyalog.com/dyalog/dyalog-versions/210.htm)
 * [2026-11-12, 18:43:41](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0) - [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 * [2026-11-12, 16:17:25](https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network) - [The anti-marketing aspect of the Gemini network](https://ploum.net/2026-11-12-anti-marketing-gemini.html)
 * [2026-11-12, 15:35:46](https://lobste.rs/s/7c4iar/libreagi_save_os_models) - [libreagi - save OS models](https://libreagi.com/)
