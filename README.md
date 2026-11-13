@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
 * [2026-11-13, 01:16:15](https://lobste.rs/s/klmtb1/announcing_graphql_over_http) - [Announcing the GraphQL over HTTP specification](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/)
 * [2026-11-13, 00:36:19](https://lobste.rs/s/49c859/building_my_own_ads_b_receiver) - [Building my own ADS-B receiver](https://kew.edbn.me/blog/adsb-receiver/)
@@ -16,7 +17,6 @@
 * [2026-11-12, 14:37:35](https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side) - [The Secret of Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-12, 12:44:34](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely) - [The entirety of \"Let Over Lambda\" is now freely available online](https://letoverlambda.com/)
 * [2026-11-12, 12:29:56](https://lobste.rs/s/gejy85/adapting_cpython_for_yk) - [Adapting CPython for yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
-* [2026-11-12, 12:20:27](https://lobste.rs/s/itpaba/creating_diagrams_graphs_using_modern) - [Creating Diagrams and Graphs Using Modern CSS](https://blog.master.dev/creating-diagrams-and-graphs-using-modern-css/)
 * [2026-11-12, 11:08:45](https://lobste.rs/s/2drgwh/hijacking_samsung_tv_smart_hub_ads) - [Hijacking Samsung TV Smart Hub Ads](https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/)
 * [2026-11-12, 10:09:16](https://lobste.rs/s/3gw2f4/hello_baochip) - [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
