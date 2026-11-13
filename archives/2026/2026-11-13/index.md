@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 19:34:28](https://lobste.rs/s/1nmzz6/kildall_s_algorithm) - [Kildall's algorithm](https://bike.github.io/posts/kildall.html)
 * [2026-11-13, 18:37:30](https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c) - [Pointer Provenance in Rust vs C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
 * [2026-11-13, 18:09:29](https://lobste.rs/s/xyljes/bad_ideas_aren_t_bad_anymore) - [Bad ideas that aren't bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
 * [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)

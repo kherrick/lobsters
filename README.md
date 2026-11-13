@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-13, 19:34:28](https://lobste.rs/s/1nmzz6/kildall_s_algorithm) - [Kildall's algorithm](https://bike.github.io/posts/kildall.html)
 * [2026-11-13, 18:37:30](https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c) - [Pointer Provenance in Rust vs C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
 * [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
 * [2026-11-13, 14:34:57](https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack) - [Beating the frontier on NetHack](https://antithesis.com/blog/2026/nethack/)
@@ -22,7 +23,6 @@
 * [2026-11-12, 14:49:26](https://lobste.rs/s/yrpo2q/paths_pieces) - [Paths in pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 * [2026-11-12, 14:37:35](https://lobste.rs/s/ubbxhd/secret_monkey_island_all_13_versions_side) - [The Secret of Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-12, 12:44:34](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely) - [The entirety of \"Let Over Lambda\" is now freely available online](https://letoverlambda.com/)
-* [2026-11-12, 12:29:56](https://lobste.rs/s/gejy85/adapting_cpython_for_yk) - [Adapting CPython for yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
 * [2026-11-12, 10:09:16](https://lobste.rs/s/3gw2f4/hello_baochip) - [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
 
