@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 08:04:49](https://lobste.rs/s/u2jtkk/is_there_right_amount_ai) - [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
 * [2026-11-13, 07:50:10](https://lobste.rs/s/cjnwcg/from_digital_mischief_outright) - [“From digital mischief to outright destruction”](https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction)
 * [2026-11-13, 07:31:32](https://lobste.rs/s/9qf0xv/steadfast_update_i_baseline) - [Steadfast Update I - The Baseline](https://noteflakes.com/articles/2026-11-13-steadfast-update-1)
 * [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)

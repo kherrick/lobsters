@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-13, 07:50:10](https://lobste.rs/s/cjnwcg/from_digital_mischief_outright) - [“From digital mischief to outright destruction”](https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction)
+* [2026-11-13, 08:04:49](https://lobste.rs/s/u2jtkk/is_there_right_amount_ai) - [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
 * [2026-11-13, 07:31:32](https://lobste.rs/s/9qf0xv/steadfast_update_i_baseline) - [Steadfast Update I - The Baseline](https://noteflakes.com/articles/2026-11-13-steadfast-update-1)
+* [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
 * [2026-11-13, 01:16:15](https://lobste.rs/s/klmtb1/announcing_graphql_over_http) - [Announcing the GraphQL over HTTP specification](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/)
 * [2026-11-13, 00:36:19](https://lobste.rs/s/49c859/building_my_own_ads_b_receiver) - [Building my own ADS-B receiver](https://kew.edbn.me/blog/adsb-receiver/)
@@ -22,7 +23,6 @@
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
 * [2026-11-11, 18:49:35](https://lobste.rs/s/lrpb0m/for_first_time_c_standard_failed_pass) - [For the first time, a C++ standard failed to pass the national bodies](https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/)
 * [2026-11-11, 16:27:51](https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane) - [How a false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
-* [2026-11-11, 14:20:17](https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026) - [In Memoriam: Tim Peters 1952–2026](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-11, 13:13:51](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies) - [What are some \"No AI\" apps/companies/resources you know of?](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies)
 * [2026-11-11, 12:01:19](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely) - [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely)
 
