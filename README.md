@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-13, 08:04:49](https://lobste.rs/s/u2jtkk/is_there_right_amount_ai) - [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
+* [2026-11-13, 08:23:34](https://lobste.rs/s/govqdi/occupysaas_they_laid_us_off_we_re) - [OccupySaaS — They laid us off. We're rebuilding their SaaS](https://occupysaas.com/)
 * [2026-11-13, 07:31:32](https://lobste.rs/s/9qf0xv/steadfast_update_i_baseline) - [Steadfast Update I - The Baseline](https://noteflakes.com/articles/2026-11-13-steadfast-update-1)
 * [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
