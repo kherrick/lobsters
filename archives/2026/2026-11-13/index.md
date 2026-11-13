@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 11:33:56](https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals) - [ML Modules for Mere Mortals](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/)
 * [2026-11-13, 11:20:32](https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026) - [Running a law firm on Free software (2026 edition)](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
 * [2026-11-13, 10:55:43](https://lobste.rs/s/3q4npg/myths_r2land) - [Myths in R2Land](https://trufae.substack.com/p/myths-in-r2land)
 * [2026-11-13, 10:25:27](https://lobste.rs/s/nlpvck/how_i_ended_up_turning_22_year_old) - [How I Ended Up Turning a 22-Year-Old PostgreSQL Type-Confusion Primitive into RCE (CVE-2026-6460)](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
