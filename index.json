@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-13, 14:27:43",
+      "https://lobste.rs/s/xe0prv/technical_vision_for_haskell_ecosystem"
+    ],
+    [
+      "A technical vision for the Haskell ecosystem",
+      "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 12:03:19",
       "https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell"
     ],
@@ -57,16 +67,6 @@
     [
       "How Not to Build a Music Player",
       "https://alichraghi.github.io/blog/how-not-to-build-a-music-player"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 08:37:31",
-      "https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss"
-    ],
-    [
-      "e-means: 10x faster k-means at equal loss",
-      "https://e-means.github.io/"
     ]
   ],
   [
