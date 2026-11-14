@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 23:23:12](https://lobste.rs/s/h6eofy/walking_across_my_minecraft_backups_with) - [Walking across my Minecraft backups with Plakar](https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/)
 * [2026-11-14, 22:50:51](https://lobste.rs/s/qjixzx/how_will_we_make_senior_developers) - [How will we make senior developers?](https://www.infoworld.com/article/4244077/how-will-we-make-senior-developers.html)
 * [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
 * [2026-11-14, 15:28:16](https://lobste.rs/s/14wyzy/perses) - [Perses](https://perses.dev/)
