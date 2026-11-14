@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-14, 15:28:16",
+      "https://lobste.rs/s/14wyzy/perses"
+    ],
+    [
+      "Perses",
+      "https://perses.dev/"
+    ]
+  ],
+  [
+    [
       "2026-11-14, 10:32:33",
       "https://lobste.rs/s/q81fi4/solving_fox_game"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing Rust 1.100.0",
       "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 16:17:25",
-      "https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network"
-    ],
-    [
-      "The anti-marketing aspect of the Gemini network",
-      "https://ploum.net/2026-11-12-anti-marketing-gemini.html"
     ]
   ]
 ]
