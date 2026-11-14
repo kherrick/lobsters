@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
 * [2026-11-14, 15:28:16](https://lobste.rs/s/14wyzy/perses) - [Perses](https://perses.dev/)
 * [2026-11-14, 10:32:33](https://lobste.rs/s/q81fi4/solving_fox_game) - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html)
 * [2026-11-14, 10:01:58](https://lobste.rs/s/ebahfz/goliath32_com_creating_self_booting_zip) - [goliath32.com - Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
