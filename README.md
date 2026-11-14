@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-14, 05:46:40](https://lobste.rs/s/pgmw6b/what_happened_3com) - [What happened to 3com?](https://dfarq.homeip.net/what-happened-to-3com/)
 * [2026-11-14, 04:51:14](https://lobste.rs/s/0aungk/little_book_generative_ai_foundations) - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
 * [2026-11-14, 04:49:47](https://lobste.rs/s/u2h9as/you_could_have_invented_transformers) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 * [2026-11-14, 02:57:49](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance) - [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/)
@@ -20,7 +21,6 @@
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 * [2026-11-13, 06:20:05](https://lobste.rs/s/x5uq91/ssa_from_bytecode_imperative_pearl) - [SSA from bytecode: imperative pearl](https://bernsteinbear.com/blog/ssa-bytecode/)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
-* [2026-11-12, 20:45:02](https://lobste.rs/s/wbkayq/freebsd_status_report_third_quarter_2026) - [FreeBSD Status Report Third Quarter 2026](https://www.freebsd.org/status/report-2026-07-2026-09/)
 * [2026-11-12, 18:43:41](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0) - [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 * [2026-11-12, 16:17:25](https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network) - [The anti-marketing aspect of the Gemini network](https://ploum.net/2026-11-12-anti-marketing-gemini.html)
 * [2026-11-12, 12:44:34](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely) - [The entirety of \"Let Over Lambda\" is now freely available online](https://letoverlambda.com/)
