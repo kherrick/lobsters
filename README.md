@@ -2,6 +2,7 @@
 
 * [2026-11-14, 02:57:49](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance) - [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/)
 * [2026-11-13, 20:39:53](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog) - [Someone's impersonating this blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
+* [2026-11-13, 20:26:34](https://lobste.rs/s/rpd05t/don_t_bother_patching_multiple_remote) - [Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a)
 * [2026-11-13, 19:34:28](https://lobste.rs/s/1nmzz6/kildall_s_algorithm) - [Kildall's algorithm](https://bike.github.io/posts/kildall.html)
 * [2026-11-13, 18:37:30](https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c) - [Pointer Provenance in Rust vs C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
 * [2026-11-13, 17:34:47](https://lobste.rs/s/0rmq2f/link_previews_you) - [Link Previews and You](https://sable.moe/en/blog/link-previews-and-you/)
@@ -23,7 +24,6 @@
 * [2026-11-12, 18:43:41](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0) - [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 * [2026-11-12, 16:17:25](https://lobste.rs/s/pty8pn/anti_marketing_aspect_gemini_network) - [The anti-marketing aspect of the Gemini network](https://ploum.net/2026-11-12-anti-marketing-gemini.html)
 * [2026-11-12, 12:44:34](https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely) - [The entirety of \"Let Over Lambda\" is now freely available online](https://letoverlambda.com/)
-* [2026-11-12, 10:09:16](https://lobste.rs/s/3gw2f4/hello_baochip) - [Hello Baochip](https://ratfactor.com/cards/hello-baochip)
 * [2026-11-11, 21:53:24](https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire) - [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine/)
 
 ## [Archives](archives/index.md)
