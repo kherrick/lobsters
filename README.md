@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-14, 22:50:51](https://lobste.rs/s/qjixzx/how_will_we_make_senior_developers) - [How will we make senior developers?](https://www.infoworld.com/article/4244077/how-will-we-make-senior-developers.html)
 * [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
 * [2026-11-14, 10:32:33](https://lobste.rs/s/q81fi4/solving_fox_game) - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html)
 * [2026-11-14, 10:01:58](https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive) - [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
@@ -16,7 +17,6 @@
 * [2026-11-13, 16:48:01](https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made) - [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables)
 * [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
 * [2026-11-13, 14:34:57](https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack) - [Beating the frontier on NetHack](https://antithesis.com/blog/2026/nethack/)
-* [2026-11-13, 14:27:43](https://lobste.rs/s/xe0prv/technical_vision_for_haskell_ecosystem) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-13, 12:03:19](https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 11:36:44](https://lobste.rs/s/9oq6fr/need_for_at_least_third_option) - [The need for at least a third option](https://blog.ovalerio.net/archives/3359)
 * [2026-11-13, 11:33:56](https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals) - [ML Modules for Mere Mortals](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/)
