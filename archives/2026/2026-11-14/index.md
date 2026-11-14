@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 15:28:16](https://lobste.rs/s/14wyzy/perses) - [Perses](https://perses.dev/)
 * [2026-11-14, 10:32:33](https://lobste.rs/s/q81fi4/solving_fox_game) - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html)
 * [2026-11-14, 10:01:58](https://lobste.rs/s/ebahfz/goliath32_com_creating_self_booting_zip) - [goliath32.com - Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
 * [2026-11-14, 09:57:57](https://lobste.rs/s/j4sj0c/when_is_class_commodity_when_does_it) - [When is a class a “commodity” and when does it depend on the instructor?](https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/)
