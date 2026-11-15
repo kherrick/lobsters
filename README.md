@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-15, 20:00:46](https://lobste.rs/s/6tmcin/family_tree_software_job_titles) - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-15, 19:40:13](https://lobste.rs/s/snorgi/rust_declarative_macros_organization) - [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10)
 * [2026-11-15, 19:38:25](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers) - [Some problems of recursive descent parsers](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers)
 * [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
@@ -17,7 +18,6 @@
 * [2026-11-14, 10:32:33](https://lobste.rs/s/q81fi4/solving_fox_game) - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html)
 * [2026-11-14, 10:01:58](https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive) - [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
 * [2026-11-14, 05:46:40](https://lobste.rs/s/pgmw6b/what_happened_3com) - [What happened to 3com?](https://dfarq.homeip.net/what-happened-to-3com/)
-* [2026-11-14, 04:51:14](https://lobste.rs/s/0aungk/little_book_generative_ai_foundations) - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
 * [2026-11-14, 02:57:49](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance) - [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/)
 * [2026-11-13, 20:39:53](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog) - [Someone's impersonating this blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)

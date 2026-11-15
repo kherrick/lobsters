@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 20:00:46](https://lobste.rs/s/6tmcin/family_tree_software_job_titles) - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-15, 19:40:13](https://lobste.rs/s/snorgi/rust_declarative_macros_organization) - [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10)
 * [2026-11-15, 19:38:25](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers) - [Some problems of recursive descent parsers](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers)
 * [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
