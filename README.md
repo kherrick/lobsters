@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-15, 08:05:45](https://lobste.rs/s/ofic7z/anthropomorphic_software) - [Anthropomorphic Software](https://aspiz.uk/wiki/AnthropomorphicSoftware)
 * [2026-11-15, 06:44:44](https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms) - [FreeBSD bhyve Live Migration: Moving VMs Between Hosts](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 * [2026-11-15, 05:30:28](https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving) - [Disk encryption on NetBSD achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
 * [2026-11-15, 03:16:42](https://lobste.rs/s/bwjt1b/periodic_oriented_programming_for_first) - [Periodic-Oriented Programming for FIRST Robotics](https://bvisness.me/periodic-oriented-programming/)
@@ -14,7 +15,6 @@
 * [2026-11-14, 02:57:49](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance) - [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/)
 * [2026-11-13, 20:39:53](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog) - [Someone's impersonating this blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 19:34:28](https://lobste.rs/s/1nmzz6/kildall_s_algorithm) - [Kildall's algorithm](https://bike.github.io/posts/kildall.html)
-* [2026-11-13, 18:37:30](https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c) - [Pointer Provenance in Rust vs C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
 * [2026-11-13, 17:34:47](https://lobste.rs/s/0rmq2f/link_previews_you) - [Link Previews and You](https://sable.moe/en/blog/link-previews-and-you/)
 * [2026-11-13, 16:48:01](https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made) - [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables)
 * [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
