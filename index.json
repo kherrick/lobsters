@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-15, 12:37:33",
+      "https://lobste.rs/s/dtjgmc/nes_emulator_written_odin"
+    ],
+    [
+      "A NES emulator written in Odin",
+      "https://lucypero.com/lucynes.html"
+    ]
+  ],
+  [
+    [
       "2026-11-15, 09:15:40",
       "https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons"
     ],
@@ -167,16 +177,6 @@
     [
       "Link Previews and You",
       "https://sable.moe/en/blog/link-previews-and-you/"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 16:48:01",
-      "https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made"
-    ],
-    [
-      "Fixing a WebKit bug to see if promises are made of train tracks",
-      "https://alistair.sh/thenables"
     ]
   ],
   [
