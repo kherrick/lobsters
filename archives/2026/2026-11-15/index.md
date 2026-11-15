@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 06:44:44](https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms) - [FreeBSD bhyve Live Migration: Moving VMs Between Hosts](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 * [2026-11-15, 05:30:28](https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving) - [Disk encryption on NetBSD achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
 * [2026-11-15, 03:16:42](https://lobste.rs/s/bwjt1b/periodic_oriented_programming_for_first) - [Periodic-Oriented Programming for FIRST Robotics](https://bvisness.me/periodic-oriented-programming/)
 * [2026-11-15, 02:40:40](https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games) - [25 of my favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)

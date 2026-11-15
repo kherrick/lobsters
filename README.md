@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-15, 06:44:44](https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms) - [FreeBSD bhyve Live Migration: Moving VMs Between Hosts](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 * [2026-11-15, 05:30:28](https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving) - [Disk encryption on NetBSD achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
 * [2026-11-15, 03:16:42](https://lobste.rs/s/bwjt1b/periodic_oriented_programming_for_first) - [Periodic-Oriented Programming for FIRST Robotics](https://bvisness.me/periodic-oriented-programming/)
 * [2026-11-15, 02:40:40](https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games) - [25 of my favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
@@ -24,7 +25,6 @@
 * [2026-11-13, 11:20:32](https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026) - [Running a law firm on Free software (2026 edition)](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
-* [2026-11-12, 18:43:41](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0) - [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 
 ## [Archives](archives/index.md)
 
