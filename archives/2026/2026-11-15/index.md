@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 12:37:33](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
 * [2026-11-15, 09:15:40](https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons) - [cursor:pointer on buttons](https://blog.kizu.dev/cursors/)
 * [2026-11-15, 08:05:45](https://lobste.rs/s/ofic7z/anthropomorphic_software) - [Anthropomorphic Software](https://aspiz.uk/wiki/AnthropomorphicSoftware)
 * [2026-11-15, 06:44:44](https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms) - [FreeBSD bhyve Live Migration: Moving VMs Between Hosts](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)

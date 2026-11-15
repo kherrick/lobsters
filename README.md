@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-15, 12:37:33](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
 * [2026-11-15, 09:15:40](https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons) - [cursor:pointer on buttons](https://blog.kizu.dev/cursors/)
 * [2026-11-15, 08:05:45](https://lobste.rs/s/ofic7z/anthropomorphic_software) - [Anthropomorphic Software](https://aspiz.uk/wiki/AnthropomorphicSoftware)
 * [2026-11-15, 06:44:44](https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms) - [FreeBSD bhyve Live Migration: Moving VMs Between Hosts](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
@@ -17,7 +18,6 @@
 * [2026-11-13, 20:39:53](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog) - [Someone's impersonating this blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 19:34:28](https://lobste.rs/s/1nmzz6/kildall_s_algorithm) - [Kildall's algorithm](https://bike.github.io/posts/kildall.html)
 * [2026-11-13, 17:34:47](https://lobste.rs/s/0rmq2f/link_previews_you) - [Link Previews and You](https://sable.moe/en/blog/link-previews-and-you/)
-* [2026-11-13, 16:48:01](https://lobste.rs/s/yxvn7j/fixing_webkit_bug_see_if_promises_are_made) - [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables)
 * [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
 * [2026-11-13, 14:34:57](https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack) - [Beating the frontier on NetHack](https://antithesis.com/blog/2026/nethack/)
 * [2026-11-13, 12:03:19](https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
