@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-15, 01:46:52](https://lobste.rs/s/shbyjz/let_s_employ) - [Let's Employ](https://www.letsemploy.org)
 * [2026-11-14, 23:23:12](https://lobste.rs/s/h6eofy/walking_across_my_minecraft_backups_with) - [Walking across my Minecraft backups with Plakar](https://poolp.org/posts/2026-11-14/walking-across-my-minecraft-backups-with-plakar/)
 * [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
 * [2026-11-14, 10:32:33](https://lobste.rs/s/q81fi4/solving_fox_game) - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html)
@@ -21,7 +22,6 @@
 * [2026-11-13, 11:36:44](https://lobste.rs/s/9oq6fr/need_for_at_least_third_option) - [The need for at least a third option](https://blog.ovalerio.net/archives/3359)
 * [2026-11-13, 11:33:56](https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals) - [ML Modules for Mere Mortals](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/)
 * [2026-11-13, 11:20:32](https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026) - [Running a law firm on Free software (2026 edition)](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
-* [2026-11-13, 10:22:29](https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend)
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 * [2026-11-13, 02:36:05](https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful) - [Contra \"Glue work considered harmful\"](https://sunshowers.io/posts/glue-work/)
 * [2026-11-12, 18:43:41](https://lobste.rs/s/81hnjw/announcing_rust_1_100_0) - [Announcing Rust 1.100.0](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
