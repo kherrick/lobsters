@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-15, 19:40:13](https://lobste.rs/s/snorgi/rust_declarative_macros_organization) - [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10)
+* [2026-11-15, 19:38:25](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers) - [Some problems of recursive descent parsers](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers)
 * [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 12:50:03](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects) - [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html)
 * [2026-11-15, 12:37:33](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
@@ -18,12 +20,10 @@
 * [2026-11-14, 04:51:14](https://lobste.rs/s/0aungk/little_book_generative_ai_foundations) - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
 * [2026-11-14, 02:57:49](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance) - [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/)
 * [2026-11-13, 20:39:53](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog) - [Someone's impersonating this blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
-* [2026-11-13, 19:34:28](https://lobste.rs/s/1nmzz6/kildall_s_algorithm) - [Kildall's algorithm](https://bike.github.io/posts/kildall.html)
 * [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
 * [2026-11-13, 14:34:57](https://lobste.rs/s/kb3fs1/beating_frontier_on_nethack) - [Beating the frontier on NetHack](https://antithesis.com/blog/2026/nethack/)
 * [2026-11-13, 12:03:19](https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 11:36:44](https://lobste.rs/s/9oq6fr/need_for_at_least_third_option) - [The need for at least a third option](https://blog.ovalerio.net/archives/3359)
-* [2026-11-13, 11:33:56](https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals) - [ML Modules for Mere Mortals](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/)
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 
 ## [Archives](archives/index.md)

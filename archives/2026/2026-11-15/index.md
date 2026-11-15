@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 19:40:13](https://lobste.rs/s/snorgi/rust_declarative_macros_organization) - [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10)
+* [2026-11-15, 19:38:25](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers) - [Some problems of recursive descent parsers](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers)
 * [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 12:50:03](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects) - [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html)
 * [2026-11-15, 12:37:33](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
