@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-15, 02:40:40",
+      "https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games"
+    ],
+    [
+      "25 of my favourite modern NES games",
+      "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/"
+    ]
+  ],
+  [
+    [
+      "2026-11-15, 02:39:31",
+      "https://lobste.rs/s/tjwnpb/webgl_flight_simulator_with_seed"
+    ],
+    [
+      "WebGL Flight Simulator with seed generated terrain",
+      "https://baron.by.dai.studio/"
+    ]
+  ],
+  [
+    [
+      "2026-11-15, 02:34:44",
+      "https://lobste.rs/s/dwd6xu/reintroducing_spaces"
+    ],
+    [
+      "Reintroducing Spaces",
+      "https://dholms.leaflet.pub/3mu3p3ldwrc26"
+    ]
+  ],
+  [
+    [
       "2026-11-15, 01:59:26",
       "https://lobste.rs/s/nbjckz/parsing_nested_lists_bqn"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-11-14, 09:57:57",
-      "https://lobste.rs/s/j4sj0c/when_is_class_commodity_when_does_it"
-    ],
-    [
-      "When is a class a “commodity” and when does it depend on the instructor?",
-      "https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/"
-    ]
-  ],
-  [
-    [
       "2026-11-14, 05:46:40",
       "https://lobste.rs/s/pgmw6b/what_happened_3com"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-11-14, 04:49:47",
-      "https://lobste.rs/s/u2h9as/you_could_have_invented_transformers"
-    ],
-    [
-      "You could have invented transformers from memory",
-      "https://alexwang.ai/posts/associative-memory/"
-    ]
-  ],
-  [
-    [
       "2026-11-14, 02:57:49",
       "https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance"
     ],
@@ -107,16 +117,6 @@
     [
       "Someone's impersonating this blog",
       "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 20:26:34",
-      "https://lobste.rs/s/rpd05t/don_t_bother_patching_multiple_remote"
-    ],
-    [
-      "Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A",
-      "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a"
     ]
   ],
   [
