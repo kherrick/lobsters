@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 12:50:03](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects) - [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html)
 * [2026-11-15, 12:37:33](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
 * [2026-11-15, 09:15:40](https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons) - [cursor:pointer on buttons](https://blog.kizu.dev/cursors/)
