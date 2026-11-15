@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
 * [2026-11-15, 21:19:35](https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c) - [clice v1.0 Released: Welcome to Modern C++](https://www.ykiko.me/en/articles/2105384023094834022/)
 * [2026-11-15, 20:34:37](https://lobste.rs/s/om6v89/blog_preventing_cross_service_udp_loops) - [Blog: Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic)
 * [2026-11-15, 19:40:13](https://lobste.rs/s/snorgi/rust_declarative_macros_organization) - [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10)
@@ -19,7 +20,6 @@
 * [2026-11-14, 10:32:33](https://lobste.rs/s/q81fi4/solving_fox_game) - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html)
 * [2026-11-14, 10:01:58](https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive) - [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
 * [2026-11-14, 05:46:40](https://lobste.rs/s/pgmw6b/what_happened_3com) - [What happened to 3com?](https://dfarq.homeip.net/what-happened-to-3com/)
-* [2026-11-14, 02:57:49](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance) - [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/)
 * [2026-11-13, 20:39:53](https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog) - [Someone's impersonating this blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 16:03:44](https://lobste.rs/s/xca2qj/probabilistic_data_structures_go) - [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
 * [2026-11-13, 12:03:19](https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
