@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 22:44:13](https://lobste.rs/s/hgicaq/please_implement_quorum_database) - [Please Implement A Quorum Database](https://transactional.blog/talk/please-implement-a-quorum-database)
 * [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
 * [2026-11-15, 21:19:52](https://lobste.rs/s/ghijzd/strata_memory_is_explicit_i_o) - [Strata — memory is explicit I/O](https://yrashk.com/strata/)
 * [2026-11-15, 21:19:35](https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c) - [clice v1.0 Released: Welcome to Modern C++](https://www.ykiko.me/en/articles/2105384023094834022/)
