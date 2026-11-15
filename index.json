@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-15, 19:40:13",
+      "https://lobste.rs/s/snorgi/rust_declarative_macros_organization"
+    ],
+    [
+      "Rust Declarative Macros: Organization, Scoping, and Common Use-Cases",
+      "https://sigseis.dev/articles/2026/11/10"
+    ]
+  ],
+  [
+    [
+      "2026-11-15, 19:38:25",
+      "https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers"
+    ],
+    [
+      "Some problems of recursive descent parsers",
+      "https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers"
+    ]
+  ],
+  [
+    [
       "2026-11-15, 16:04:01",
       "https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-11-13, 19:34:28",
-      "https://lobste.rs/s/1nmzz6/kildall_s_algorithm"
-    ],
-    [
-      "Kildall's algorithm",
-      "https://bike.github.io/posts/kildall.html"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 16:03:44",
       "https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"
     ],
@@ -227,16 +237,6 @@
     [
       "The need for at least a third option",
       "https://blog.ovalerio.net/archives/3359"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 11:33:56",
-      "https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals"
-    ],
-    [
-      "ML Modules for Mere Mortals",
-      "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/"
     ]
   ],
   [
