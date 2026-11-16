@@ -8,6 +8,7 @@
 * [2026-11-15, 23:05:45](https://lobste.rs/s/yervw7/this_month_redox_october_2026) - [This Month in Redox - October 2026](https://www.redox-os.org/news/this-month-261031/)
 * [2026-11-15, 22:44:13](https://lobste.rs/s/hgicaq/please_implement_quorum_database) - [Please Implement A Quorum Database](https://transactional.blog/talk/please-implement-a-quorum-database)
 * [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
+* [2026-11-15, 21:19:52](https://lobste.rs/s/ghijzd/strata_memory_is_explicit_i_o) - [Strata — memory is explicit I/O](https://yrashk.com/strata/)
 * [2026-11-15, 21:19:35](https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c) - [clice v1.0 Released: Welcome to Modern C++](https://www.ykiko.me/en/articles/2105384023094834022/)
 * [2026-11-15, 20:34:37](https://lobste.rs/s/om6v89/blog_preventing_cross_service_udp_loops) - [Blog: Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic)
 * [2026-11-15, 19:40:13](https://lobste.rs/s/snorgi/rust_declarative_macros_organization) - [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10)
@@ -24,7 +25,6 @@
 * [2026-11-15, 02:34:44](https://lobste.rs/s/dwd6xu/reintroducing_spaces) - [Reintroducing Spaces](https://dholms.leaflet.pub/3mu3p3ldwrc26)
 * [2026-11-15, 01:59:26](https://lobste.rs/s/nbjckz/parsing_nested_lists_bqn) - [Parsing nested lists in BQN](https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html)
 * [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
-* [2026-11-14, 05:46:40](https://lobste.rs/s/pgmw6b/what_happened_3com) - [What happened to 3com?](https://dfarq.homeip.net/what-happened-to-3com/)
 
 ## [Archives](archives/index.md)
 
