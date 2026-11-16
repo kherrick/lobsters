@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-16, 14:47:48",
+      "https://lobste.rs/s/tebwei/local_mirror_for_freebsd_pkgbase"
+    ],
+    [
+      "Local Mirror for FreeBSD pkgbase",
+      "https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 13:56:54",
       "https://lobste.rs/s/iihw5u/squircles"
     ],
@@ -217,16 +227,6 @@
     [
       "Memory management in 40 major C projects, a survey",
       "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 12:37:33",
-      "https://lobste.rs/s/dtjgmc/nes_emulator_written_odin"
-    ],
-    [
-      "A NES emulator written in Odin",
-      "https://lucypero.com/lucynes.html"
     ]
   ],
   [
