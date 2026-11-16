@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 16:25:38](https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is) - [Quality IMAP, Part 1: Your Mailbox Is A Database](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/)
 * [2026-11-16, 15:22:38](https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly) - [Enabling the parallel frontend on nightly](https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/)
 * [2026-11-16, 14:47:48](https://lobste.rs/s/tebwei/local_mirror_for_freebsd_pkgbase) - [Local Mirror for FreeBSD pkgbase](https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/)
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)

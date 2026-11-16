@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 16:25:38](https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is) - [Quality IMAP, Part 1: Your Mailbox Is A Database](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/)
 * [2026-11-16, 15:22:38](https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly) - [Enabling the parallel frontend on nightly](https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/)
 * [2026-11-16, 14:47:48](https://lobste.rs/s/tebwei/local_mirror_for_freebsd_pkgbase) - [Local Mirror for FreeBSD pkgbase](https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/)
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
@@ -15,7 +16,6 @@
 * [2026-11-16, 03:37:36](https://lobste.rs/s/thiekk/paint_memory_other_programs) - [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13)
 * [2026-11-16, 01:28:22](https://lobste.rs/s/7kt4yi/nix_using_eval_profiler) - [Nix: Using the eval-profiler](https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler)
 * [2026-11-16, 00:47:28](https://lobste.rs/s/md0vco/beer_drv_drv_drv) - [beer.drv.drv.drv](https://fzakaria.com/2026/11/14/beer-drv-drv-drv)
-* [2026-11-16, 00:14:56](https://lobste.rs/s/tbpfcn/designing_nextest_s_install_scripts) - [Designing nextest's install scripts](https://sunshowers.io/posts/nextest-install-scripts/)
 * [2026-11-15, 23:05:45](https://lobste.rs/s/yervw7/this_month_redox_october_2026) - [This Month in Redox - October 2026](https://www.redox-os.org/news/this-month-261031/)
 * [2026-11-15, 22:44:13](https://lobste.rs/s/hgicaq/please_implement_quorum_database) - [Please Implement A Quorum Database](https://transactional.blog/talk/please-implement-a-quorum-database)
 * [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
