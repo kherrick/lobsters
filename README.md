@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 08:30:13](https://lobste.rs/s/emdfap/you_won_t_win_at_copyright) - [you won't win at copyright](https://ingrids.space/posts/you-wont-win-at-copyright/)
 * [2026-11-16, 05:12:27](https://lobste.rs/s/x0ykkw/universal_xss_ublock_origin_from_website) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
 * [2026-11-16, 04:12:25](https://lobste.rs/s/ydzo2o/announcing_hegel_clj) - [Announcing Hegel-clj](https://aphyr.com/posts/428-announcing-hegel-clj)
@@ -12,7 +13,6 @@
 * [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
 * [2026-11-15, 21:19:35](https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c) - [clice v1.0 Released: Welcome to Modern C++](https://www.ykiko.me/en/articles/2105384023094834022/)
 * [2026-11-15, 20:34:37](https://lobste.rs/s/om6v89/blog_preventing_cross_service_udp_loops) - [Blog: Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic)
-* [2026-11-15, 19:40:13](https://lobste.rs/s/snorgi/rust_declarative_macros_organization) - [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10)
 * [2026-11-15, 19:38:25](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers) - [Some problems of recursive descent parsers (2009)](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers)
 * [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 12:50:03](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects) - [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html)

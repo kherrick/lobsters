@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 08:30:13](https://lobste.rs/s/emdfap/you_won_t_win_at_copyright) - [you won't win at copyright](https://ingrids.space/posts/you-wont-win-at-copyright/)
 * [2026-11-16, 05:12:27](https://lobste.rs/s/x0ykkw/universal_xss_ublock_origin_from_website) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
 * [2026-11-16, 04:12:25](https://lobste.rs/s/ydzo2o/announcing_hegel_clj) - [Announcing Hegel-clj](https://aphyr.com/posts/428-announcing-hegel-clj)
