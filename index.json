@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-16, 12:50:29",
+      "https://lobste.rs/s/uegnml/noisytcp"
+    ],
+    [
+      "NoisyTCP",
+      "https://www.openwall.com/lists/oss-security/2026/11/15/2"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 12:43:56",
+      "https://lobste.rs/s/nclsyw/tpc_h_benchmark_picolisp_db"
+    ],
+    [
+      "TPC-H Benchmark in PicoLisp DB",
+      "https://picolisp.com/wiki/?tpc-h"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 11:24:12",
       "https://lobste.rs/s/aavjsr/programming_language"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-11-15, 19:38:25",
-      "https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers"
-    ],
-    [
-      "Some problems of recursive descent parsers (2009)",
-      "https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers"
-    ]
-  ],
-  [
-    [
       "2026-11-15, 16:04:01",
       "https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open"
     ],
@@ -207,16 +217,6 @@
     [
       "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
       "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 05:30:28",
-      "https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving"
-    ],
-    [
-      "Disk encryption on NetBSD achieving secrecy",
-      "https://netbsd.org/~nia/disk-encrypt/"
     ]
   ],
   [
