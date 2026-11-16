@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 03:37:36](https://lobste.rs/s/thiekk/paint_memory_other_programs) - [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13)
 * [2026-11-16, 01:28:22](https://lobste.rs/s/7kt4yi/nix_using_eval_profiler) - [Nix: Using the eval-profiler](https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler)
 * [2026-11-16, 00:47:28](https://lobste.rs/s/md0vco/beer_drv_drv_drv) - [beer.drv.drv.drv](https://fzakaria.com/2026/11/14/beer-drv-drv-drv)
 * [2026-11-16, 00:14:56](https://lobste.rs/s/tbpfcn/designing_nextest_s_install_scripts) - [Designing nextest's install scripts](https://sunshowers.io/posts/nextest-install-scripts/)
@@ -24,7 +25,6 @@
 * [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
 * [2026-11-14, 10:32:33](https://lobste.rs/s/q81fi4/solving_fox_game) - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html)
 * [2026-11-14, 05:46:40](https://lobste.rs/s/pgmw6b/what_happened_3com) - [What happened to 3com?](https://dfarq.homeip.net/what-happened-to-3com/)
-* [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
 
 ## [Archives](archives/index.md)
 
