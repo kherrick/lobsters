@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
 * [2026-11-16, 22:13:03](https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable) - [Safe Systems-programming with Mutable Value Semantics | Dave Abrahams](https://www.youtube.com/watch?v=Ak6YW6FsQXM)
 * [2026-11-16, 21:08:15](https://lobste.rs/s/qeljxh/maxanti_logic_puzzle) - [Maxanti - A logic puzzle](https://maxanti.com)
 * [2026-11-16, 19:19:20](https://lobste.rs/s/n5jtzr/where_did_ack_go) - [Where did the ACK go?](https://yashgarg.dev/posts/where-did-the-ack-go/)
