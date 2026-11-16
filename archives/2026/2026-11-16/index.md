@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 12:50:29](https://lobste.rs/s/uegnml/noisytcp) - [NoisyTCP](https://www.openwall.com/lists/oss-security/2026/11/15/2)
+* [2026-11-16, 12:43:56](https://lobste.rs/s/nclsyw/tpc_h_benchmark_picolisp_db) - [TPC-H Benchmark in PicoLisp DB](https://picolisp.com/wiki/?tpc-h)
 * [2026-11-16, 11:43:01](https://lobste.rs/s/mem8nr/world_s_strongest_sokoban_solver) - [The World's Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
 * [2026-11-16, 11:24:12](https://lobste.rs/s/aavjsr/programming_language) - [Programming a language](https://nrinaudo.github.io/articles/pl.html)
 * [2026-11-16, 11:03:30](https://lobste.rs/s/isejqv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/isejqv/what_are_you_doing_this_week)
