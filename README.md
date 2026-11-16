@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 14:47:48](https://lobste.rs/s/tebwei/local_mirror_for_freebsd_pkgbase) - [Local Mirror for FreeBSD pkgbase](https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/)
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 13:15:54](https://lobste.rs/s/lpqxqi/funkycache_python_library_cache) - [funkycache: a Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/)
 * [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
@@ -22,7 +23,6 @@
 * [2026-11-15, 20:34:37](https://lobste.rs/s/om6v89/blog_preventing_cross_service_udp_loops) - [Blog: Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic)
 * [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 12:50:03](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects) - [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html)
-* [2026-11-15, 12:37:33](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
 * [2026-11-15, 09:15:40](https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons) - [cursor:pointer on buttons](https://blog.kizu.dev/cursors/)
 * [2026-11-15, 02:40:40](https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games) - [25 of my favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
 
