@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 11:03:30](https://lobste.rs/s/isejqv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/isejqv/what_are_you_doing_this_week)
 * [2026-11-16, 08:30:13](https://lobste.rs/s/emdfap/you_won_t_win_at_copyright) - [you won't win at copyright](https://ingrids.space/posts/you-wont-win-at-copyright/)
 * [2026-11-16, 05:12:27](https://lobste.rs/s/x0ykkw/universal_xss_ublock_origin_from_website) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
@@ -23,7 +24,6 @@
 * [2026-11-15, 05:30:28](https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving) - [Disk encryption on NetBSD achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
 * [2026-11-15, 03:16:42](https://lobste.rs/s/bwjt1b/periodic_oriented_programming_for_first) - [Periodic-Oriented Programming for FIRST Robotics](https://bvisness.me/periodic-oriented-programming/)
 * [2026-11-15, 02:40:40](https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games) - [25 of my favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
-* [2026-11-15, 02:34:44](https://lobste.rs/s/dwd6xu/reintroducing_spaces) - [Reintroducing Spaces](https://dholms.leaflet.pub/3mu3p3ldwrc26)
 * [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
 
 ## [Archives](archives/index.md)
