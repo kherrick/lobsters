@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-11-16, 01:28:22",
-      "https://lobste.rs/s/7kt4yi/nix_using_eval_profiler"
-    ],
-    [
-      "Nix: Using the eval-profiler",
-      "https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 00:47:28",
       "https://lobste.rs/s/md0vco/beer_drv_drv_drv"
     ],
@@ -197,6 +187,16 @@
     [
       "This Month in Redox - October 2026",
       "https://www.redox-os.org/news/this-month-261031/"
+    ]
+  ],
+  [
+    [
+      "2026-11-15, 22:44:13",
+      "https://lobste.rs/s/hgicaq/please_implement_quorum_database"
+    ],
+    [
+      "Please Implement A Quorum Database",
+      "https://transactional.blog/talk/please-implement-a-quorum-database"
     ]
   ],
   [
