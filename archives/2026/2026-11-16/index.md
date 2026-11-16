@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 21:08:15](https://lobste.rs/s/qeljxh/maxanti_logic_puzzle) - [Maxanti - A logic puzzle](https://maxanti.com)
 * [2026-11-16, 19:19:20](https://lobste.rs/s/n5jtzr/where_did_ack_go) - [Where did the ACK go?](https://yashgarg.dev/posts/where-did-the-ack-go/)
 * [2026-11-16, 18:54:27](https://lobste.rs/s/lcy32t/formal_operations_specifications_for) - [Formal Operations Specifications for Reliable System Management](https://djapg7v42ea9q.cloudfront.net/pdf/hotnets26-final281.pdf)
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
