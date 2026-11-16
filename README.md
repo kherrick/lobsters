@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 13:15:54](https://lobste.rs/s/lpqxqi/funkycache_python_library_cache) - [funkycache: a Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/)
-* [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 * [2026-11-16, 12:50:29](https://lobste.rs/s/uegnml/noisytcp) - [NoisyTCP](https://www.openwall.com/lists/oss-security/2026/11/15/2)
 * [2026-11-16, 12:43:56](https://lobste.rs/s/nclsyw/tpc_h_benchmark_picolisp_db) - [TPC-H Benchmark in PicoLisp DB](https://picolisp.com/wiki/?tpc-h)
 * [2026-11-16, 11:24:12](https://lobste.rs/s/aavjsr/programming_language) - [Programming a language](https://nrinaudo.github.io/articles/pl.html)
