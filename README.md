@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-16, 19:19:20](https://lobste.rs/s/n5jtzr/where_did_ack_go) - [Where did the ACK go?](https://yashgarg.dev/posts/where-did-the-ack-go/)
+* [2026-11-16, 18:54:27](https://lobste.rs/s/lcy32t/formal_operations_specifications_for) - [Formal Operations Specifications for Reliable System Management](https://djapg7v42ea9q.cloudfront.net/pdf/hotnets26-final281.pdf)
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
 * [2026-11-16, 16:43:58](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend) - [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
@@ -18,7 +19,6 @@
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
 * [2026-11-16, 04:12:25](https://lobste.rs/s/ydzo2o/announcing_hegel_clj) - [Announcing Hegel-clj](https://aphyr.com/posts/428-announcing-hegel-clj)
 * [2026-11-16, 03:37:36](https://lobste.rs/s/thiekk/paint_memory_other_programs) - [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13)
-* [2026-11-16, 01:28:22](https://lobste.rs/s/7kt4yi/nix_using_eval_profiler) - [Nix: Using the eval-profiler](https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler)
 * [2026-11-16, 00:47:28](https://lobste.rs/s/md0vco/beer_drv_drv_drv) - [beer.drv.drv.drv](https://fzakaria.com/2026/11/14/beer-drv-drv-drv)
 * [2026-11-15, 23:05:45](https://lobste.rs/s/yervw7/this_month_redox_october_2026) - [This Month in Redox - October 2026](https://www.redox-os.org/news/this-month-261031/)
 * [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
