@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 19:19:20](https://lobste.rs/s/n5jtzr/where_did_ack_go) - [Where did the ACK go?](https://yashgarg.dev/posts/where-did-the-ack-go/)
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
 * [2026-11-16, 16:43:58](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend) - [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
@@ -24,7 +25,6 @@
 * [2026-11-15, 21:19:35](https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c) - [clice v1.0 Released: Welcome to Modern C++](https://www.ykiko.me/en/articles/2105384023094834022/)
 * [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 12:50:03](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects) - [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html)
-* [2026-11-15, 02:40:40](https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games) - [25 of my favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
 
 ## [Archives](archives/index.md)
 

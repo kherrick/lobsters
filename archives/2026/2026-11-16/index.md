@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 19:19:20](https://lobste.rs/s/n5jtzr/where_did_ack_go) - [Where did the ACK go?](https://yashgarg.dev/posts/where-did-the-ack-go/)
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
 * [2026-11-16, 16:43:58](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend) - [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
