@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-16, 11:43:01",
+      "https://lobste.rs/s/mem8nr/world_s_strongest_sokoban_solver"
+    ],
+    [
+      "The World's Strongest Sokoban Solver",
+      "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 11:24:12",
       "https://lobste.rs/s/aavjsr/programming_language"
     ],
@@ -207,16 +217,6 @@
     [
       "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
       "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 05:30:28",
-      "https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving"
-    ],
-    [
-      "Disk encryption on NetBSD achieving secrecy",
-      "https://netbsd.org/~nia/disk-encrypt/"
     ]
   ],
   [
