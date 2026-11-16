@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
 * [2026-11-16, 04:12:25](https://lobste.rs/s/ydzo2o/announcing_hegel_clj) - [Announcing Hegel-clj](https://aphyr.com/posts/428-announcing-hegel-clj)
 * [2026-11-16, 03:37:36](https://lobste.rs/s/thiekk/paint_memory_other_programs) - [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13)
 * [2026-11-16, 01:28:22](https://lobste.rs/s/7kt4yi/nix_using_eval_profiler) - [Nix: Using the eval-profiler](https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler)
