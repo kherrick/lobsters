@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 15:22:38](https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly) - [Enabling the parallel frontend on nightly](https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/)
 * [2026-11-16, 14:47:48](https://lobste.rs/s/tebwei/local_mirror_for_freebsd_pkgbase) - [Local Mirror for FreeBSD pkgbase](https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/)
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 13:15:54](https://lobste.rs/s/lpqxqi/funkycache_python_library_cache) - [funkycache: a Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/)
