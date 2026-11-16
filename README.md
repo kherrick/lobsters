@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
-* [2026-11-16, 22:13:03](https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable) - [Safe Systems-programming with Mutable Value Semantics | Dave Abrahams](https://www.youtube.com/watch?v=Ak6YW6FsQXM)
+* [2026-11-16, 22:13:03](https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable) - [Safe Systems-programming with Mutable Value Semantics | Dave Abrahams](https://www.youtube.com/watch?v=op51SyyPJmw)
 * [2026-11-16, 21:08:15](https://lobste.rs/s/qeljxh/maxanti_logic_puzzle) - [Maxanti - A logic puzzle](https://maxanti.com)
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
