@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 00:47:28](https://lobste.rs/s/md0vco/beer_drv_drv_drv) - [beer.drv.drv.drv](https://fzakaria.com/2026/11/14/beer-drv-drv-drv)
 * [2026-11-16, 00:14:56](https://lobste.rs/s/tbpfcn/designing_nextest_s_install_scripts) - [Designing nextest's install scripts](https://sunshowers.io/posts/nextest-install-scripts/)
 * [2026-11-15, 23:05:45](https://lobste.rs/s/yervw7/this_month_redox_october_2026) - [This Month in Redox - October 2026](https://www.redox-os.org/news/this-month-261031/)
 * [2026-11-15, 22:44:13](https://lobste.rs/s/hgicaq/please_implement_quorum_database) - [Please Implement A Quorum Database](https://transactional.blog/talk/please-implement-a-quorum-database)
@@ -21,7 +22,6 @@
 * [2026-11-15, 01:59:26](https://lobste.rs/s/nbjckz/parsing_nested_lists_bqn) - [Parsing nested lists in BQN](https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html)
 * [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
 * [2026-11-14, 10:32:33](https://lobste.rs/s/q81fi4/solving_fox_game) - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html)
-* [2026-11-14, 10:01:58](https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive) - [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
 * [2026-11-14, 05:46:40](https://lobste.rs/s/pgmw6b/what_happened_3com) - [What happened to 3com?](https://dfarq.homeip.net/what-happened-to-3com/)
 * [2026-11-13, 11:36:44](https://lobste.rs/s/9oq6fr/need_for_at_least_third_option) - [The need for at least a third option](https://blog.ovalerio.net/archives/3359)
 * [2026-11-13, 09:16:28](https://lobste.rs/s/lh9pwf/how_not_build_music_player) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player)
