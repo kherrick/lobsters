@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 13:15:54](https://lobste.rs/s/lpqxqi/funkycache_python_library_cache) - [funkycache: a Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/)
 * [2026-11-16, 12:50:29](https://lobste.rs/s/uegnml/noisytcp) - [NoisyTCP](https://www.openwall.com/lists/oss-security/2026/11/15/2)
 * [2026-11-16, 12:43:56](https://lobste.rs/s/nclsyw/tpc_h_benchmark_picolisp_db) - [TPC-H Benchmark in PicoLisp DB](https://picolisp.com/wiki/?tpc-h)
 * [2026-11-16, 11:24:12](https://lobste.rs/s/aavjsr/programming_language) - [Programming a language](https://nrinaudo.github.io/articles/pl.html)
@@ -22,7 +23,6 @@
 * [2026-11-15, 12:37:33](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
 * [2026-11-15, 09:15:40](https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons) - [cursor:pointer on buttons](https://blog.kizu.dev/cursors/)
 * [2026-11-15, 06:44:44](https://lobste.rs/s/hiayul/freebsd_bhyve_live_migration_moving_vms) - [FreeBSD bhyve Live Migration: Moving VMs Between Hosts](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
-* [2026-11-15, 03:16:42](https://lobste.rs/s/bwjt1b/periodic_oriented_programming_for_first) - [Periodic-Oriented Programming for FIRST Robotics](https://bvisness.me/periodic-oriented-programming/)
 * [2026-11-15, 02:40:40](https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games) - [25 of my favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
 * [2026-11-14, 16:08:27](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data) - [Let Me Let You Own Your Data](https://www.willett.io/posts/data/)
 
