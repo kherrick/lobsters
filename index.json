@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-16, 17:56:45",
+      "https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust"
+    ],
+    [
+      "On Leaving Swift for Rust",
+      "https://www.prux.org/posts/goodbye-swift-hello-rust/"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 16:43:58",
       "https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend"
     ],
@@ -227,16 +237,6 @@
     [
       "Memory management in 40 major C projects, a survey",
       "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 09:15:40",
-      "https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons"
-    ],
-    [
-      "cursor:pointer on buttons",
-      "https://blog.kizu.dev/cursors/"
     ]
   ],
   [
