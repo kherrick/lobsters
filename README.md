@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 12:45:22](https://lobste.rs/s/omyrqo/can_formally_verified_c_compiler_be_as) - [Can a formally-verified C compiler be as performant as gcc -O2?](https://ut-infraai.github.io/2026/11/13/trying-to-make-compcert-as-fast-as-gcc-o2/)
 * [2026-11-17, 11:03:52](https://lobste.rs/s/cezfqe/my_emacs_31_contributions) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
@@ -22,7 +23,6 @@
 * [2026-11-16, 08:30:13](https://lobste.rs/s/emdfap/you_won_t_win_at_copyright) - [you won't win at copyright](https://ingrids.space/posts/you-wont-win-at-copyright/)
 * [2026-11-16, 05:12:27](https://lobste.rs/s/x0ykkw/universal_xss_ublock_origin_from_website) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
-* [2026-11-16, 04:12:25](https://lobste.rs/s/ydzo2o/announcing_hegel_clj) - [Announcing Hegel-clj](https://aphyr.com/posts/428-announcing-hegel-clj)
 * [2026-11-16, 03:37:36](https://lobste.rs/s/thiekk/paint_memory_other_programs) - [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13)
 * [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
 
