@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 18:35:05](https://lobste.rs/s/nozx6d/introducing_gpt_6_2_astra_sol) - [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 * [2026-11-17, 18:18:12](https://lobste.rs/s/hode45/automatic_checking_compiler) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
 * [2026-11-17, 17:40:32](https://lobste.rs/s/xu4ajj/phrack_73) - [Phrack 73](https://phrack.org/issues/73/introduction_md.html)
 * [2026-11-17, 17:18:53](https://lobste.rs/s/zoarxd/making_games_go_entity_component_system) - [Making Games in Go: Entity Component System (ECS)](https://threedots.tech/post/making-games-in-go-ecs/)
@@ -23,7 +24,6 @@
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
-* [2026-11-16, 03:37:36](https://lobste.rs/s/thiekk/paint_memory_other_programs) - [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13)
 * [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
 
 ## [Archives](archives/index.md)
