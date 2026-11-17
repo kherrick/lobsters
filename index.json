@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-17, 17:40:32",
+      "https://lobste.rs/s/xu4ajj/phrack_73"
+    ],
+    [
+      "Phrack 73",
+      "https://phrack.org/issues/73/introduction_md.html"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 17:18:53",
       "https://lobste.rs/s/zoarxd/making_games_go_entity_component_system"
     ],
@@ -137,16 +147,6 @@
     [
       "\"Proof of use\" as a requirement for open source contributions?",
       "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 22:13:03",
-      "https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable"
-    ],
-    [
-      "Safe Systems-programming with Mutable Value Semantics | Dave Abrahams",
-      "https://www.youtube.com/watch?v=op51SyyPJmw"
     ]
   ],
   [
