@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 18:18:12](https://lobste.rs/s/hode45/automatic_checking_compiler) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
 * [2026-11-17, 17:40:32](https://lobste.rs/s/xu4ajj/phrack_73) - [Phrack 73](https://phrack.org/issues/73/introduction_md.html)
 * [2026-11-17, 17:18:53](https://lobste.rs/s/zoarxd/making_games_go_entity_component_system) - [Making Games in Go: Entity Component System (ECS)](https://threedots.tech/post/making-games-in-go-ecs/)
 * [2026-11-17, 15:58:44](https://lobste.rs/s/kktn5b/c_s_designated_initializers_give_us_named) - [C’s designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
 * [2026-11-17, 15:35:36](https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-17, 15:23:20](https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc) - [Steve Jobs Core Animation demo from WWDC 2007](https://lucas.love/100/058)
-* [2026-11-17, 15:02:48](https://lobste.rs/s/kxoqww/mysql_development_as_it_happens_part_2) - [MySQL Development as it Happens, Part 2 -Vector Indexes](https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes)
 * [2026-11-17, 14:38:24](https://lobste.rs/s/qmofba/critical_red_hat_quay_flaw_lets_attackers) - [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 * [2026-11-17, 12:55:46](https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm) - [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)

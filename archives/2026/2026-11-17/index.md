@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 18:18:12](https://lobste.rs/s/hode45/automatic_checking_compiler) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
 * [2026-11-17, 17:40:32](https://lobste.rs/s/xu4ajj/phrack_73) - [Phrack 73](https://phrack.org/issues/73/introduction_md.html)
 * [2026-11-17, 17:18:53](https://lobste.rs/s/zoarxd/making_games_go_entity_component_system) - [Making Games in Go: Entity Component System (ECS)](https://threedots.tech/post/making-games-in-go-ecs/)
 * [2026-11-17, 15:58:44](https://lobste.rs/s/kktn5b/c_s_designated_initializers_give_us_named) - [C’s designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
