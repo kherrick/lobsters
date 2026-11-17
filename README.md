@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 12:55:46](https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm) - [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)
 * [2026-11-17, 12:45:22](https://lobste.rs/s/omyrqo/can_formally_verified_c_compiler_be_as) - [Can a formally-verified C compiler be as performant as gcc -O2?](https://ut-infraai.github.io/2026/11/13/trying-to-make-compcert-as-fast-as-gcc-o2/)
 * [2026-11-17, 11:03:52](https://lobste.rs/s/cezfqe/my_emacs_31_contributions) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
@@ -18,7 +19,6 @@
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 * [2026-11-16, 12:50:29](https://lobste.rs/s/uegnml/noisytcp) - [NoisyTCP](https://www.openwall.com/lists/oss-security/2026/11/15/2)
-* [2026-11-16, 11:24:12](https://lobste.rs/s/aavjsr/programming_language) - [Programming a language](https://nrinaudo.github.io/articles/pl.html)
 * [2026-11-16, 11:03:30](https://lobste.rs/s/isejqv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/isejqv/what_are_you_doing_this_week)
 * [2026-11-16, 08:30:13](https://lobste.rs/s/emdfap/you_won_t_win_at_copyright) - [you won't win at copyright](https://ingrids.space/posts/you-wont-win-at-copyright/)
 * [2026-11-16, 05:12:27](https://lobste.rs/s/x0ykkw/universal_xss_ublock_origin_from_website) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
