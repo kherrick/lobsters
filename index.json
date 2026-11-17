@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-17, 21:29:57",
+      "https://lobste.rs/s/zqidnu/sexp_matrix"
+    ],
+    [
+      "Sexp Matrix",
+      "https://lisper.cc/ideas/entangle.html"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 21:16:11",
       "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"
     ],
@@ -197,16 +207,6 @@
     [
       "Quality IMAP, Part 1: Your Mailbox Is A Database",
       "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 15:22:38",
-      "https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly"
-    ],
-    [
-      "Enabling the parallel frontend on nightly",
-      "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/"
     ]
   ],
   [
