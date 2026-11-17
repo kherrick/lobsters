@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 23:37:19](https://lobste.rs/s/wifhdc/software_is_breaking_down_at_systemic) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 * [2026-11-16, 23:27:11](https://lobste.rs/s/hnklz9/splash_26_mojo_towards_one_systems) - [[SPLASH'26] Mojo: Towards One Systems Language for All Hardware](https://www.youtube.com/watch?v=9-97SB5XJh4)
 * [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
 * [2026-11-16, 22:25:45](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source) - [\"Proof of use\" as a requirement for open source contributions?](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source)

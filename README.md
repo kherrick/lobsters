@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-16, 23:37:19](https://lobste.rs/s/wifhdc/software_is_breaking_down_at_systemic) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 * [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
 * [2026-11-16, 22:25:45](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source) - [\"Proof of use\" as a requirement for open source contributions?](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source)
 * [2026-11-16, 22:13:03](https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable) - [Safe Systems-programming with Mutable Value Semantics | Dave Abrahams](https://www.youtube.com/watch?v=op51SyyPJmw)
@@ -11,7 +12,6 @@
 * [2026-11-16, 15:22:38](https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly) - [Enabling the parallel frontend on nightly](https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/)
 * [2026-11-16, 14:47:48](https://lobste.rs/s/tebwei/local_mirror_for_freebsd_pkgbase) - [Local Mirror for FreeBSD pkgbase](https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/)
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
-* [2026-11-16, 13:15:54](https://lobste.rs/s/lpqxqi/funkycache_python_library_cache) - [funkycache: a Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/)
 * [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 * [2026-11-16, 12:50:29](https://lobste.rs/s/uegnml/noisytcp) - [NoisyTCP](https://www.openwall.com/lists/oss-security/2026/11/15/2)
 * [2026-11-16, 11:24:12](https://lobste.rs/s/aavjsr/programming_language) - [Programming a language](https://nrinaudo.github.io/articles/pl.html)
