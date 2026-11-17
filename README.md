@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign) - [Github Redesign](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
 * [2026-11-16, 23:37:19](https://lobste.rs/s/wifhdc/software_is_breaking_down_at_systemic) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 * [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
@@ -11,7 +12,6 @@
 * [2026-11-16, 16:43:58](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend) - [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
 * [2026-11-16, 16:25:38](https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is) - [Quality IMAP, Part 1: Your Mailbox Is A Database](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/)
 * [2026-11-16, 15:22:38](https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly) - [Enabling the parallel frontend on nightly](https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/)
-* [2026-11-16, 14:47:48](https://lobste.rs/s/tebwei/local_mirror_for_freebsd_pkgbase) - [Local Mirror for FreeBSD pkgbase](https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/)
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 * [2026-11-16, 12:50:29](https://lobste.rs/s/uegnml/noisytcp) - [NoisyTCP](https://www.openwall.com/lists/oss-security/2026/11/15/2)
