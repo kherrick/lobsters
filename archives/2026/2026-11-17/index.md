@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 20:32:07](https://lobste.rs/s/qzwhjw/sudo_l7_can_coding_agents_act_like_staff) - [sudo L7: Can Coding Agents Act Like Staff Engineers?](https://surgehq.ai/blog/sudo-l7)
 * [2026-11-17, 18:47:39](https://lobste.rs/s/de02yg/sarasa_gothic_mono) - [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
 * [2026-11-17, 18:35:05](https://lobste.rs/s/nozx6d/introducing_gpt_6_2_astra_sol) - [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 * [2026-11-17, 18:18:12](https://lobste.rs/s/hode45/automatic_checking_compiler) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
