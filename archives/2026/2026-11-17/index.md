@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 * [2026-11-17, 12:55:46](https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm) - [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)
 * [2026-11-17, 12:45:22](https://lobste.rs/s/omyrqo/can_formally_verified_c_compiler_be_as) - [Can a formally-verified C compiler be as performant as gcc -O2?](https://ut-infraai.github.io/2026/11/13/trying-to-make-compcert-as-fast-as-gcc-o2/)
 * [2026-11-17, 12:38:09](https://lobste.rs/s/yivw5j/why_no_ai) - [Why No AI?](https://whynoai.info/)
