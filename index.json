@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-17, 12:55:46",
+      "https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm"
+    ],
+    [
+      "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "https://arxiv.org/abs/2607.02512"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 12:45:22",
       "https://lobste.rs/s/omyrqo/can_formally_verified_c_compiler_be_as"
     ],
@@ -177,16 +187,6 @@
     [
       "NoisyTCP",
       "https://www.openwall.com/lists/oss-security/2026/11/15/2"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 11:24:12",
-      "https://lobste.rs/s/aavjsr/programming_language"
-    ],
-    [
-      "Programming a language",
-      "https://nrinaudo.github.io/articles/pl.html"
     ]
   ],
   [
