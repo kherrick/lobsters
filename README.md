@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 22:49:01](https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing) - [Vx32: Lightweight User-level Sandboxing on the x86 (2008)](https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf)
 * [2026-11-17, 21:56:09](https://lobste.rs/s/jm8vk1/nimony_next_version_nim) - [Nimony: The next version of Nim](https://nimony.org/)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 * [2026-11-17, 18:47:39](https://lobste.rs/s/de02yg/sarasa_gothic_mono) - [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
@@ -15,7 +16,6 @@
 * [2026-11-17, 11:03:52](https://lobste.rs/s/cezfqe/my_emacs_31_contributions) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
-* [2026-11-16, 23:37:19](https://lobste.rs/s/wifhdc/software_is_breaking_down_at_systemic) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 * [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)

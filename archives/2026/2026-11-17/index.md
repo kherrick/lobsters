@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 22:49:01](https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing) - [Vx32: Lightweight User-level Sandboxing on the x86 (2008)](https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf)
 * [2026-11-17, 21:56:09](https://lobste.rs/s/jm8vk1/nimony_next_version_nim) - [Nimony: The next version of Nim](https://nimony.org/)
 * [2026-11-17, 21:50:22](https://lobste.rs/s/2as7oc/clarke_s_three_laws) - [Clarke's three laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
 * [2026-11-17, 21:29:57](https://lobste.rs/s/zqidnu/sexp_matrix) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
