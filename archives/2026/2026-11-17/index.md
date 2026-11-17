@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 21:50:22](https://lobste.rs/s/2as7oc/clarke_s_three_laws) - [Clarke's three laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
 * [2026-11-17, 21:29:57](https://lobste.rs/s/zqidnu/sexp_matrix) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 * [2026-11-17, 20:32:07](https://lobste.rs/s/qzwhjw/sudo_l7_can_coding_agents_act_like_staff) - [sudo L7: Can Coding Agents Act Like Staff Engineers?](https://surgehq.ai/blog/sudo-l7)

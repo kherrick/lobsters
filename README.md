@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-17, 21:29:57](https://lobste.rs/s/zqidnu/sexp_matrix) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
+* [2026-11-17, 21:50:22](https://lobste.rs/s/2as7oc/clarke_s_three_laws) - [Clarke's three laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 * [2026-11-17, 18:47:39](https://lobste.rs/s/de02yg/sarasa_gothic_mono) - [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
 * [2026-11-17, 18:18:12](https://lobste.rs/s/hode45/automatic_checking_compiler) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
