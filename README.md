@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-17, 09:40:53](https://lobste.rs/s/aboglj/patterns_we_don_t_name) - [The Patterns We Don't Name](https://www.youtube.com/watch?v=OkKmP9oATjk)
-* [2026-11-17, 09:37:15](https://lobste.rs/s/79tvnr/test_verification_technique) - [Test/verification technique effectiveness with Astra](https://danluu.com/astra-testing/)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
 * [2026-11-16, 23:37:19](https://lobste.rs/s/wifhdc/software_is_breaking_down_at_systemic) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+* [2026-11-16, 23:00:20](https://lobste.rs/s/jwjsio/pixels_on_screen) - [Pixels on a screen](https://whitebeard.blog/posts/pixels-on-a-screen/)
 * [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
 * [2026-11-16, 22:25:45](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source) - [\"Proof of use\" as a requirement for open source contributions?](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source)
 * [2026-11-16, 22:13:03](https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable) - [Safe Systems-programming with Mutable Value Semantics | Dave Abrahams](https://www.youtube.com/watch?v=op51SyyPJmw)
