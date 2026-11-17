@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 21:29:57](https://lobste.rs/s/zqidnu/sexp_matrix) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 * [2026-11-17, 18:47:39](https://lobste.rs/s/de02yg/sarasa_gothic_mono) - [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
 * [2026-11-17, 18:18:12](https://lobste.rs/s/hode45/automatic_checking_compiler) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
@@ -20,7 +21,6 @@
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
 * [2026-11-16, 16:43:58](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend) - [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
 * [2026-11-16, 16:25:38](https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is) - [Quality IMAP, Part 1: Your Mailbox Is A Database](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/)
-* [2026-11-16, 15:22:38](https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly) - [Enabling the parallel frontend on nightly](https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/)
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
