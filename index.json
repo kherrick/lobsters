@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-17, 15:58:44",
+      "https://lobste.rs/s/kktn5b/c_s_designated_initializers_give_us_named"
+    ],
+    [
+      "C’s designated initializers give us named arguments",
+      "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 15:35:36",
       "https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule"
     ],
@@ -197,16 +207,6 @@
     [
       "What is w2rt6byl5nf1opmc-a[.]com?",
       "https://jack.cab/blog/siterate.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 11:03:30",
-      "https://lobste.rs/s/isejqv/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/isejqv/what_are_you_doing_this_week"
     ]
   ],
   [
