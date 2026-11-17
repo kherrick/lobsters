@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 09:40:53](https://lobste.rs/s/aboglj/patterns_we_don_t_name) - [The Patterns We Don't Name](https://www.youtube.com/watch?v=OkKmP9oATjk)
+* [2026-11-17, 09:37:15](https://lobste.rs/s/79tvnr/test_verification_technique) - [Test/verification technique effectiveness with Astra](https://danluu.com/astra-testing/)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign) - [Github Redesign](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
 * [2026-11-16, 23:37:19](https://lobste.rs/s/wifhdc/software_is_breaking_down_at_systemic) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
@@ -22,9 +24,7 @@
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
 * [2026-11-16, 04:12:25](https://lobste.rs/s/ydzo2o/announcing_hegel_clj) - [Announcing Hegel-clj](https://aphyr.com/posts/428-announcing-hegel-clj)
 * [2026-11-16, 03:37:36](https://lobste.rs/s/thiekk/paint_memory_other_programs) - [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13)
-* [2026-11-16, 00:47:28](https://lobste.rs/s/md0vco/beer_drv_drv_drv) - [beer.drv.drv.drv](https://fzakaria.com/2026/11/14/beer-drv-drv-drv)
 * [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
-* [2026-11-15, 16:04:01](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 
 ## [Archives](archives/index.md)
 
