@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 15:23:20](https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc) - [Steve Jobs Core Animation demo from WWDC 2007](https://lucas.love/100/058)
 * [2026-11-17, 15:02:48](https://lobste.rs/s/kxoqww/mysql_development_as_it_happens_part_2) - [MySQL Development as it Happens, Part 2 -Vector Indexes](https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes)
 * [2026-11-17, 14:38:24](https://lobste.rs/s/qmofba/critical_red_hat_quay_flaw_lets_attackers) - [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
@@ -11,7 +12,6 @@
 * [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
 * [2026-11-16, 22:25:45](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source) - [\"Proof of use\" as a requirement for open source contributions?](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source)
 * [2026-11-16, 22:13:03](https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable) - [Safe Systems-programming with Mutable Value Semantics | Dave Abrahams](https://www.youtube.com/watch?v=op51SyyPJmw)
-* [2026-11-16, 19:19:20](https://lobste.rs/s/n5jtzr/where_did_ack_go) - [Where did the ACK go?](https://yashgarg.dev/posts/where-did-the-ack-go/)
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
 * [2026-11-16, 16:43:58](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend) - [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
