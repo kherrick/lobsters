@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-17, 14:38:24](https://lobste.rs/s/qmofba/critical_red_hat_quay_flaw_lets_attackers) - [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 * [2026-11-17, 12:55:46](https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm) - [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)
 * [2026-11-17, 12:38:09](https://lobste.rs/s/yivw5j/why_no_ai) - [Why No AI?](https://whynoai.info/)
@@ -7,7 +8,6 @@
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
 * [2026-11-16, 23:37:19](https://lobste.rs/s/wifhdc/software_is_breaking_down_at_systemic) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
-* [2026-11-16, 23:00:20](https://lobste.rs/s/jwjsio/pixels_on_screen) - [Pixels on a screen](https://whitebeard.blog/posts/pixels-on-a-screen/)
 * [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
 * [2026-11-16, 22:25:45](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source) - [\"Proof of use\" as a requirement for open source contributions?](https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source)
 * [2026-11-16, 22:13:03](https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable) - [Safe Systems-programming with Mutable Value Semantics | Dave Abrahams](https://www.youtube.com/watch?v=op51SyyPJmw)
