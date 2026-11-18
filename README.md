@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 18:28:22](https://lobste.rs/s/46nwql/why_fibonacci) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
 * [2026-11-18, 18:13:35](https://lobste.rs/s/3kdl1p/faster_ci_with_orchestrated_pytest) - [Faster CI with Orchestrated Pytest Workers](https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/)
 * [2026-11-18, 17:52:22](https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
-* [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
 * [2026-11-18, 17:30:14](https://lobste.rs/s/silxsl/magic_partial_evaluation) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 16:39:00](https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for) - [How I made a custom game engine for Satelital](https://spectralorbit.com/blog/satelital_game_engine)
 * [2026-11-18, 16:08:03](https://lobste.rs/s/lgdtzb/context_generic_programming_cgp_v0_8_0) - [Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces](https://contextgeneric.dev/blog/v0.8.0-release)
