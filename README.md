@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 15:28:56](https://lobste.rs/s/wj2svg/nginx2root) - [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution)
 * [2026-11-18, 14:58:05](https://lobste.rs/s/4j15up/for_things_we_can_only_do_together_bonfire) - [For the things we can only do together - Bonfire 1.1 Release](https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/)
 * [2026-11-18, 14:45:20](https://lobste.rs/s/8mbnbd/energy_based_reasoners_your_recurrent) - [Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://energy-based-reasoners.github.io/)
 * [2026-11-18, 14:21:42](https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java) - [Java4Shell is a reason to use Java](https://mccue.dev/pages/11-18-26-java4shell)
@@ -18,7 +19,6 @@
 * [2026-11-17, 15:58:44](https://lobste.rs/s/kktn5b/c_s_designated_initializers_give_us_named) - [C’s designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
 * [2026-11-17, 15:35:36](https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-17, 15:23:20](https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc) - [Steve Jobs Core Animation demo from WWDC 2007](https://lucas.love/100/058)
-* [2026-11-17, 14:38:24](https://lobste.rs/s/qmofba/critical_red_hat_quay_flaw_lets_attackers) - [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 * [2026-11-17, 12:55:46](https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm) - [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512)
 * [2026-11-17, 11:03:52](https://lobste.rs/s/cezfqe/my_emacs_31_contributions) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
