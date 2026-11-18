@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 21:15:49](https://lobste.rs/s/1tcjtd/reversing_next_page_prefetcher_skylake_x) - [Reversing the Next-Page Prefetcher in Skylake-X](https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html)
 * [2026-11-18, 20:00:42](https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded) - [Stricter checks for uploaded distributions on PyPI](https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/)
 * [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
 * [2026-11-18, 18:28:22](https://lobste.rs/s/46nwql/why_fibonacci) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
