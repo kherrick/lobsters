@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 15:55:18](https://lobste.rs/s/vlp71v/porting_objfw_windows_95) - [Porting ObjFW to Windows 95](https://blog.nil.im/?88)
 * [2026-11-18, 15:45:31](https://lobste.rs/s/itpjkx/building_reliable_llm_investigation) - [Building a reliable LLM investigation pipeline in Go with spooler.sh](https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/)
 * [2026-11-18, 15:34:32](https://lobste.rs/s/ispfrn/nginx_http2_rce) - [Nginx http2 RCE](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 15:28:56](https://lobste.rs/s/wj2svg/nginx2root) - [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution)
@@ -12,7 +13,6 @@
 * [2026-11-18, 07:12:00](https://lobste.rs/s/tso5wr/lz_rdo_lands_arm_s_astc_encoder) - [LZ-RDO lands in ARM's astc-encoder](https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder)
 * [2026-11-18, 06:43:30](https://lobste.rs/s/bjmwt6/stacked_diffs_with_maiao) - [Stacked diffs with Maiao](https://entropicthoughts.com/stacked-diffs-with-maiao)
 * [2026-11-18, 02:54:59](https://lobste.rs/s/bhfexs/freebsd_gus) - [FreeBSD GUS](https://gregoire.dev/writing/gus/)
-* [2026-11-18, 00:17:39](https://lobste.rs/s/tp2qnr/jquery_4_1_0_released) - [jQuery 4.1.0 Released](https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/)
 * [2026-11-17, 21:29:57](https://lobste.rs/s/zqidnu/sexp_matrix) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 * [2026-11-17, 18:47:39](https://lobste.rs/s/de02yg/sarasa_gothic_mono) - [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
