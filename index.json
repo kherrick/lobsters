@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-18, 16:08:03",
+      "https://lobste.rs/s/lgdtzb/context_generic_programming_cgp_v0_8_0"
+    ],
+    [
+      "Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces",
+      "https://contextgeneric.dev/blog/v0.8.0-release"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 16:00:07",
+      "https://lobste.rs/s/0ajpus/accelerating_development_for_massive"
+    ],
+    [
+      "Accelerating development for massive Git repositories",
+      "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 15:55:18",
       "https://lobste.rs/s/vlp71v/porting_objfw_windows_95"
     ],
@@ -47,16 +67,6 @@
     [
       "For the things we can only do together - Bonfire 1.1 Release",
       "https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 14:45:20",
-      "https://lobste.rs/s/8mbnbd/energy_based_reasoners_your_recurrent"
-    ],
-    [
-      "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
-      "https://energy-based-reasoners.github.io/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Actual curl rewrites in rust",
       "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 12:55:46",
-      "https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm"
-    ],
-    [
-      "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-      "https://arxiv.org/abs/2607.02512"
     ]
   ],
   [
