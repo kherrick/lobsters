@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 16:29:52](https://lobste.rs/s/m1qdwi/nginx2root) - [NGINX2Root](https://nginx2root.com/)
 * [2026-11-18, 16:08:03](https://lobste.rs/s/lgdtzb/context_generic_programming_cgp_v0_8_0) - [Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces](https://contextgeneric.dev/blog/v0.8.0-release)
 * [2026-11-18, 16:00:07](https://lobste.rs/s/0ajpus/accelerating_development_for_massive) - [Accelerating development for massive Git repositories](https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/)
 * [2026-11-18, 15:55:18](https://lobste.rs/s/vlp71v/porting_objfw_windows_95) - [Porting ObjFW to Windows 95](https://blog.nil.im/?88)

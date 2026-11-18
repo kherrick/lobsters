@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 16:29:52](https://lobste.rs/s/m1qdwi/nginx2root) - [NGINX2Root](https://nginx2root.com/)
 * [2026-11-18, 16:08:03](https://lobste.rs/s/lgdtzb/context_generic_programming_cgp_v0_8_0) - [Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces](https://contextgeneric.dev/blog/v0.8.0-release)
 * [2026-11-18, 16:00:07](https://lobste.rs/s/0ajpus/accelerating_development_for_massive) - [Accelerating development for massive Git repositories](https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/)
 * [2026-11-18, 15:55:18](https://lobste.rs/s/vlp71v/porting_objfw_windows_95) - [Porting ObjFW to Windows 95](https://blog.nil.im/?88)
@@ -22,7 +23,6 @@
 * [2026-11-17, 15:35:36](https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-17, 15:23:20](https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc) - [Steve Jobs Core Animation demo from WWDC 2007](https://lucas.love/100/058)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
-* [2026-11-17, 11:03:52](https://lobste.rs/s/cezfqe/my_emacs_31_contributions) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
 
