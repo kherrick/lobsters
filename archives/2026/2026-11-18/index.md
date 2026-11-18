@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 18:08:24](https://lobste.rs/s/rnqqeg/stop_deploying_ecs_just_see_if_your_code) - [Stop Deploying to ECS Just to See If Your Code Works](https://metalbear.com/blog/stop-deploying-to-ecs/)
 * [2026-11-18, 17:52:22](https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
 * [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
 * [2026-11-18, 17:30:14](https://lobste.rs/s/silxsl/magic_partial_evaluation) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)

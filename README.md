@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 18:08:24](https://lobste.rs/s/rnqqeg/stop_deploying_ecs_just_see_if_your_code) - [Stop Deploying to ECS Just to See If Your Code Works](https://metalbear.com/blog/stop-deploying-to-ecs/)
 * [2026-11-18, 17:52:22](https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
 * [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
 * [2026-11-18, 17:30:14](https://lobste.rs/s/silxsl/magic_partial_evaluation) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
@@ -19,7 +20,6 @@
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 * [2026-11-17, 18:47:39](https://lobste.rs/s/de02yg/sarasa_gothic_mono) - [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
 * [2026-11-17, 17:40:32](https://lobste.rs/s/xu4ajj/phrack_73) - [Phrack 73](https://phrack.org/issues/73/introduction_md.html)
-* [2026-11-17, 15:58:44](https://lobste.rs/s/kktn5b/c_s_designated_initializers_give_us_named) - [C’s designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
 * [2026-11-17, 15:35:36](https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-17, 15:23:20](https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc) - [Steve Jobs Core Animation demo from WWDC 2007](https://lucas.love/100/058)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
