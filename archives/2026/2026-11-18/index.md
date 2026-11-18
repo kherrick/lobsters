@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
 * [2026-11-18, 17:30:14](https://lobste.rs/s/silxsl/magic_partial_evaluation) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 16:39:00](https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for) - [How I made a custom game engine for Satelital](https://spectralorbit.com/blog/satelital_game_engine)
 * [2026-11-18, 16:29:52](https://lobste.rs/s/m1qdwi/nginx2root) - [NGINX2Root](https://nginx2root.com/)
