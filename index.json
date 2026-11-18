@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-18, 21:15:49",
+      "https://lobste.rs/s/1tcjtd/reversing_next_page_prefetcher_skylake_x"
+    ],
+    [
+      "Reversing the Next-Page Prefetcher in Skylake-X",
+      "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 20:00:42",
       "https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded"
     ],
@@ -87,16 +97,6 @@
     [
       "How I made a custom game engine for Satelital",
       "https://spectralorbit.com/blog/satelital_game_engine"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 16:08:03",
-      "https://lobste.rs/s/lgdtzb/context_generic_programming_cgp_v0_8_0"
-    ],
-    [
-      "Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces",
-      "https://contextgeneric.dev/blog/v0.8.0-release"
     ]
   ],
   [
