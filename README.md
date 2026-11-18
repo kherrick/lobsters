@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-18, 21:53:43](https://lobste.rs/s/svneem/sleep_framework_new_way_for_llms_retain) - [The sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 * [2026-11-18, 21:15:49](https://lobste.rs/s/1tcjtd/reversing_next_page_prefetcher_skylake_x) - [Reversing the Next-Page Prefetcher in Skylake-X](https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html)
 * [2026-11-18, 20:00:42](https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded) - [Stricter checks for uploaded distributions on PyPI](https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/)
 * [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
@@ -10,6 +9,7 @@
 * [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
 * [2026-11-18, 17:30:14](https://lobste.rs/s/silxsl/magic_partial_evaluation) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 16:39:00](https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for) - [How I made a custom game engine for Satelital](https://spectralorbit.com/blog/satelital_game_engine)
+* [2026-11-18, 16:08:03](https://lobste.rs/s/lgdtzb/context_generic_programming_cgp_v0_8_0) - [Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces](https://contextgeneric.dev/blog/v0.8.0-release)
 * [2026-11-18, 16:00:07](https://lobste.rs/s/0ajpus/accelerating_development_for_massive) - [Accelerating development for massive Git repositories](https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/)
 * [2026-11-18, 15:28:56](https://lobste.rs/s/wj2svg/nginx2root) - [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution)
 * [2026-11-18, 14:58:05](https://lobste.rs/s/4j15up/for_things_we_can_only_do_together_bonfire) - [For the things we can only do together - Bonfire 1.1 Release](https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/)
