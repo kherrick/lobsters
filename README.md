@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 15:45:31](https://lobste.rs/s/itpjkx/building_reliable_llm_investigation) - [Building a reliable LLM investigation pipeline in Go with spooler.sh](https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/)
 * [2026-11-18, 15:34:32](https://lobste.rs/s/ispfrn/nginx_http2_rce) - [Nginx http2 RCE](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 15:28:56](https://lobste.rs/s/wj2svg/nginx2root) - [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution)
 * [2026-11-18, 14:58:05](https://lobste.rs/s/4j15up/for_things_we_can_only_do_together_bonfire) - [For the things we can only do together - Bonfire 1.1 Release](https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/)
@@ -24,7 +25,6 @@
 * [2026-11-17, 11:03:52](https://lobste.rs/s/cezfqe/my_emacs_31_contributions) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
-* [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 
 ## [Archives](archives/index.md)
 
