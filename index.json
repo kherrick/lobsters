@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 15:45:31",
+      "https://lobste.rs/s/itpjkx/building_reliable_llm_investigation"
+    ],
+    [
+      "Building a reliable LLM investigation pipeline in Go with spooler.sh",
+      "https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 15:34:32",
       "https://lobste.rs/s/ispfrn/nginx_http2_rce"
     ],
@@ -237,16 +247,6 @@
     [
       "Redict is deprecated",
       "https://redict.io/posts/2026-11-17-redict-deprecated/"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 18:17:29",
-      "https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer"
-    ],
-    [
-      "How Rust Changed Me As A Developer",
-      "https://blog.startifact.com/posts/how-rust-changed-me/"
     ]
   ]
 ]
