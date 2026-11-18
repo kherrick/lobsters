@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 23:46:59](https://lobste.rs/s/4heeke/maak_v1_0_0_infinitely_extensible_command) - [Maak v1.0.0 :: infinitely extensible command runner, build sys in Lisp](https://lobste.rs/s/4heeke/maak_v1_0_0_infinitely_extensible_command)
 * [2026-11-18, 23:26:59](https://lobste.rs/s/l70xc9/sysdeck_raycast_for_linux_bsd) - [sysdeck: Raycast for Linux & BSD](https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/)
 * [2026-11-18, 21:15:49](https://lobste.rs/s/1tcjtd/reversing_next_page_prefetcher_skylake_x) - [Reversing the Next-Page Prefetcher in Skylake-X](https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html)
 * [2026-11-18, 20:00:42](https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded) - [Stricter checks for uploaded distributions on PyPI](https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/)
@@ -24,7 +25,6 @@
 * [2026-11-17, 17:40:32](https://lobste.rs/s/xu4ajj/phrack_73) - [Phrack 73](https://phrack.org/issues/73/introduction_md.html)
 * [2026-11-17, 15:23:20](https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc) - [Steve Jobs Core Animation demo from WWDC 2007](https://lucas.love/100/058)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
-* [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 23:46:59](https://lobste.rs/s/4heeke/maak_v1_0_0_infinitely_extensible_command) - [Maak v1.0.0 :: infinitely extensible command runner, build sys in Lisp](https://lobste.rs/s/4heeke/maak_v1_0_0_infinitely_extensible_command)
 * [2026-11-18, 23:26:59](https://lobste.rs/s/l70xc9/sysdeck_raycast_for_linux_bsd) - [sysdeck: Raycast for Linux & BSD](https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/)
 * [2026-11-18, 21:53:43](https://lobste.rs/s/svneem/sleep_framework_new_way_for_llms_retain) - [The sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 * [2026-11-18, 21:15:49](https://lobste.rs/s/1tcjtd/reversing_next_page_prefetcher_skylake_x) - [Reversing the Next-Page Prefetcher in Skylake-X](https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html)
