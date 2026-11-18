@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 18:08:24",
+      "https://lobste.rs/s/rnqqeg/stop_deploying_ecs_just_see_if_your_code"
+    ],
+    [
+      "Stop Deploying to ECS Just to See If Your Code Works",
+      "https://metalbear.com/blog/stop-deploying-to-ecs/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 17:52:22",
       "https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle"
     ],
@@ -187,16 +197,6 @@
     [
       "Phrack 73",
       "https://phrack.org/issues/73/introduction_md.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 15:58:44",
-      "https://lobste.rs/s/kktn5b/c_s_designated_initializers_give_us_named"
-    ],
-    [
-      "C’s designated initializers give us named arguments",
-      "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/"
     ]
   ],
   [
