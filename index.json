@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 17:30:14",
+      "https://lobste.rs/s/silxsl/magic_partial_evaluation"
+    ],
+    [
+      "The Magic of Partial Evaluation",
+      "https://jimmyhmiller.com/magic-of-partial-evaluation"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 16:39:00",
       "https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for"
     ],
@@ -207,16 +217,6 @@
     [
       "Actual curl rewrites in rust",
       "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 12:55:46",
-      "https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm"
-    ],
-    [
-      "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-      "https://arxiv.org/abs/2607.02512"
     ]
   ],
   [
