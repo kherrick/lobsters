@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 14:58:05](https://lobste.rs/s/4j15up/for_things_we_can_only_do_together_bonfire) - [For the things we can only do together - Bonfire 1.1 Release](https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/)
 * [2026-11-18, 14:45:20](https://lobste.rs/s/8mbnbd/energy_based_reasoners_your_recurrent) - [Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://energy-based-reasoners.github.io/)
 * [2026-11-18, 14:21:42](https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java) - [Java4Shell is a reason to use Java](https://mccue.dev/pages/11-18-26-java4shell)
 * [2026-11-18, 11:57:46](https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding) - [Windows 11 collects data on which coding agents and dev tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
@@ -23,7 +24,6 @@
 * [2026-11-17, 11:03:52](https://lobste.rs/s/cezfqe/my_emacs_31_contributions) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
-* [2026-11-16, 22:39:54](https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode) - [Improving the Wii U's Wii Mode](https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html)
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 
 ## [Archives](archives/index.md)
