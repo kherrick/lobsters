@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 11:21:43",
+      "https://lobste.rs/s/dpvrbv/solid_2_0"
+    ],
+    [
+      "Solid 2.0",
+      "https://www.solidjs.com/blog/solid-2-0-the-long-hold"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 08:51:09",
       "https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared"
     ],
@@ -47,16 +57,6 @@
     [
       "jQuery 4.1.0 Released",
       "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 22:49:01",
-      "https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing"
-    ],
-    [
-      "Vx32: Lightweight User-level Sandboxing on the x86 (2008)",
-      "https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf"
     ]
   ],
   [
