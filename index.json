@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-11-18, 15:55:18",
-      "https://lobste.rs/s/vlp71v/porting_objfw_windows_95"
-    ],
-    [
-      "Porting ObjFW to Windows 95",
-      "https://blog.nil.im/?88"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 15:45:31",
       "https://lobste.rs/s/itpjkx/building_reliable_llm_investigation"
     ],
@@ -227,6 +217,16 @@
     [
       "Actual curl rewrites in rust",
       "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 11:03:52",
+      "https://lobste.rs/s/cezfqe/my_emacs_31_contributions"
+    ],
+    [
+      "My Emacs 31 contributions",
+      "https://xenodium.com/my-emacs-31-contributions"
     ]
   ],
   [
