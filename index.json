@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 20:00:42",
+      "https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded"
+    ],
+    [
+      "Stricter checks for uploaded distributions on PyPI",
+      "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 19:44:06",
       "https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release"
     ],
@@ -197,16 +207,6 @@
     [
       "Phrack 73",
       "https://phrack.org/issues/73/introduction_md.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 15:35:36",
-      "https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule"
-    ],
-    [
-      "How to Bypass Rust's Orphan Rule",
-      "https://edvong.com/bypass-orphan-rule/"
     ]
   ],
   [
