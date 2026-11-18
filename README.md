@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 17:52:22](https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
 * [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
 * [2026-11-18, 17:30:14](https://lobste.rs/s/silxsl/magic_partial_evaluation) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 16:39:00](https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for) - [How I made a custom game engine for Satelital](https://spectralorbit.com/blog/satelital_game_engine)
@@ -22,7 +23,6 @@
 * [2026-11-17, 15:35:36](https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-17, 15:23:20](https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc) - [Steve Jobs Core Animation demo from WWDC 2007](https://lucas.love/100/058)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
-* [2026-11-17, 11:03:52](https://lobste.rs/s/cezfqe/my_emacs_31_contributions) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-17, 09:28:18](https://lobste.rs/s/kseyz1/github_redesign_2019) - [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/)
 * [2026-11-17, 08:20:30](https://lobste.rs/s/z4rhlt/redict_is_deprecated) - [Redict is deprecated](https://redict.io/posts/2026-11-17-redict-deprecated/)
 
