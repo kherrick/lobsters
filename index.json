@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 17:52:22",
+      "https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle"
+    ],
+    [
+      "IPv6 delegation, an unusually subtle failure mode",
+      "https://savyasacheejha.com/posts/why-odhcpd/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 17:35:19",
       "https://lobste.rs/s/w78jvi/markdownweb"
     ],
@@ -217,16 +227,6 @@
     [
       "Actual curl rewrites in rust",
       "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 11:03:52",
-      "https://lobste.rs/s/cezfqe/my_emacs_31_contributions"
-    ],
-    [
-      "My Emacs 31 contributions",
-      "https://xenodium.com/my-emacs-31-contributions"
     ]
   ],
   [
