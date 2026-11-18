@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-17, 22:49:01](https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing) - [Vx32: Lightweight User-level Sandboxing on the x86 (2008)](https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf)
+* [2026-11-18, 00:17:39](https://lobste.rs/s/tp2qnr/jquery_4_1_0_released) - [jQuery 4.1.0 Released](https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/)
 * [2026-11-17, 21:56:09](https://lobste.rs/s/jm8vk1/nimony_next_version_nim) - [Nimony: The next version of Nim](https://nimony.org/)
+* [2026-11-17, 21:29:57](https://lobste.rs/s/zqidnu/sexp_matrix) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 * [2026-11-17, 18:47:39](https://lobste.rs/s/de02yg/sarasa_gothic_mono) - [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
 * [2026-11-17, 18:18:12](https://lobste.rs/s/hode45/automatic_checking_compiler) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
@@ -24,7 +25,6 @@
 * [2026-11-16, 13:56:54](https://lobste.rs/s/iihw5u/squircles) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
-* [2026-11-15, 22:39:34](https://lobste.rs/s/dxxvek/datetime_library_for_rust) - [A datetime library for Rust](https://burntsushi.net/jiff/)
 
 ## [Archives](archives/index.md)
 
