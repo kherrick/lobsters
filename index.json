@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-11-18, 15:45:31",
-      "https://lobste.rs/s/itpjkx/building_reliable_llm_investigation"
-    ],
-    [
-      "Building a reliable LLM investigation pipeline in Go with spooler.sh",
-      "https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 15:28:56",
       "https://lobste.rs/s/wj2svg/nginx2root"
     ],
@@ -217,6 +207,16 @@
     [
       "Actual curl rewrites in rust",
       "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 12:55:46",
+      "https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm"
+    ],
+    [
+      "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "https://arxiv.org/abs/2607.02512"
     ]
   ],
   [
