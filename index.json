@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-11-18, 00:17:39",
-      "https://lobste.rs/s/tp2qnr/jquery_4_1_0_released"
-    ],
-    [
-      "jQuery 4.1.0 Released",
-      "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/"
-    ]
-  ],
-  [
-    [
       "2026-11-17, 22:49:01",
       "https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing"
     ],
@@ -107,6 +97,16 @@
     [
       "Phrack 73",
       "https://phrack.org/issues/73/introduction_md.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 17:18:53",
+      "https://lobste.rs/s/zoarxd/making_games_go_entity_component_system"
+    ],
+    [
+      "Making Games in Go: Entity Component System (ECS)",
+      "https://threedots.tech/post/making-games-in-go-ecs/"
     ]
   ],
   [
