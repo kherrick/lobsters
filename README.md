@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-18, 00:17:39](https://lobste.rs/s/tp2qnr/jquery_4_1_0_released) - [jQuery 4.1.0 Released](https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/)
+* [2026-11-17, 22:49:01](https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing) - [Vx32: Lightweight User-level Sandboxing on the x86 (2008)](https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf)
 * [2026-11-17, 21:56:09](https://lobste.rs/s/jm8vk1/nimony_next_version_nim) - [Nimony: The next version of Nim](https://nimony.org/)
 * [2026-11-17, 21:29:57](https://lobste.rs/s/zqidnu/sexp_matrix) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
