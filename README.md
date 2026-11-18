@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-18, 02:54:59](https://lobste.rs/s/bhfexs/freebsd_gus) - [FreeBSD GUS](https://gregoire.dev/writing/gus/)
+* [2026-11-18, 00:17:39](https://lobste.rs/s/tp2qnr/jquery_4_1_0_released) - [jQuery 4.1.0 Released](https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/)
 * [2026-11-17, 22:49:01](https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing) - [Vx32: Lightweight User-level Sandboxing on the x86 (2008)](https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf)
 * [2026-11-17, 21:56:09](https://lobste.rs/s/jm8vk1/nimony_next_version_nim) - [Nimony: The next version of Nim](https://nimony.org/)
 * [2026-11-17, 21:29:57](https://lobste.rs/s/zqidnu/sexp_matrix) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
@@ -22,7 +23,6 @@
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
 * [2026-11-16, 16:43:58](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend) - [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
-* [2026-11-16, 16:25:38](https://lobste.rs/s/gm4vao/quality_imap_part_1_your_mailbox_is) - [Quality IMAP, Part 1: Your Mailbox Is A Database](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/)
 * [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 * [2026-11-16, 05:10:34](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg) - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/)
 
