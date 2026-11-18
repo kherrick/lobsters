@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 11:21:43](https://lobste.rs/s/dpvrbv/solid_2_0) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://floss.social/@Codeberg@social.anoxinon.de/117636455063588349)
 * [2026-11-18, 07:12:00](https://lobste.rs/s/tso5wr/lz_rdo_lands_arm_s_astc_encoder) - [LZ-RDO lands in ARM's astc-encoder](https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder)
