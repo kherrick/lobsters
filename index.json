@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 08:51:09",
+      "https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared"
+    ],
+    [
+      "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+      "https://floss.social/@Codeberg@social.anoxinon.de/117636455063588349"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 07:12:00",
       "https://lobste.rs/s/tso5wr/lz_rdo_lands_arm_s_astc_encoder"
     ],
@@ -97,16 +107,6 @@
     [
       "Phrack 73",
       "https://phrack.org/issues/73/introduction_md.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 17:18:53",
-      "https://lobste.rs/s/zoarxd/making_games_go_entity_component_system"
-    ],
-    [
-      "Making Games in Go: Entity Component System (ECS)",
-      "https://threedots.tech/post/making-games-in-go-ecs/"
     ]
   ],
   [
