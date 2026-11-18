@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 11:57:46](https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding) - [Windows 11 collects data on which coding agents and dev tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 * [2026-11-18, 11:21:43](https://lobste.rs/s/dpvrbv/solid_2_0) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360)
 * [2026-11-18, 07:12:00](https://lobste.rs/s/tso5wr/lz_rdo_lands_arm_s_astc_encoder) - [LZ-RDO lands in ARM's astc-encoder](https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder)
@@ -24,7 +25,6 @@
 * [2026-11-16, 18:17:29](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer) - [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
 * [2026-11-16, 17:56:45](https://lobste.rs/s/6t3oi4/on_leaving_swift_for_rust) - [On Leaving Swift for Rust](https://www.prux.org/posts/goodbye-swift-hello-rust/)
 * [2026-11-16, 16:43:58](https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend) - [Janet Reno was talking about my friend Coolio (computer criminal)](https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/)
-* [2026-11-16, 13:02:11](https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com) - [What is w2rt6byl5nf1opmc-a[.]com?](https://jack.cab/blog/siterate.html)
 
 ## [Archives](archives/index.md)
 
