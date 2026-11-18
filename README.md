@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-18, 07:12:00](https://lobste.rs/s/tso5wr/lz_rdo_lands_arm_s_astc_encoder) - [LZ-RDO lands in ARM's astc-encoder](https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder)
 * [2026-11-18, 06:43:30](https://lobste.rs/s/bjmwt6/stacked_diffs_with_maiao) - [Stacked diffs with Maiao](https://entropicthoughts.com/stacked-diffs-with-maiao)
 * [2026-11-18, 02:54:59](https://lobste.rs/s/bhfexs/freebsd_gus) - [FreeBSD GUS](https://gregoire.dev/writing/gus/)
 * [2026-11-18, 00:17:39](https://lobste.rs/s/tp2qnr/jquery_4_1_0_released) - [jQuery 4.1.0 Released](https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/)
@@ -10,7 +11,6 @@
 * [2026-11-17, 18:47:39](https://lobste.rs/s/de02yg/sarasa_gothic_mono) - [Sarasa Gothic Mono](https://picaq.github.io/sarasa)
 * [2026-11-17, 18:18:12](https://lobste.rs/s/hode45/automatic_checking_compiler) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
 * [2026-11-17, 17:40:32](https://lobste.rs/s/xu4ajj/phrack_73) - [Phrack 73](https://phrack.org/issues/73/introduction_md.html)
-* [2026-11-17, 17:18:53](https://lobste.rs/s/zoarxd/making_games_go_entity_component_system) - [Making Games in Go: Entity Component System (ECS)](https://threedots.tech/post/making-games-in-go-ecs/)
 * [2026-11-17, 15:58:44](https://lobste.rs/s/kktn5b/c_s_designated_initializers_give_us_named) - [C’s designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
 * [2026-11-17, 15:35:36](https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-17, 15:23:20](https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc) - [Steve Jobs Core Animation demo from WWDC 2007](https://lucas.love/100/058)
