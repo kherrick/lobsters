@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
 * [2026-11-18, 18:28:22](https://lobste.rs/s/46nwql/why_fibonacci) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
 * [2026-11-18, 18:13:35](https://lobste.rs/s/3kdl1p/faster_ci_with_orchestrated_pytest) - [Faster CI with Orchestrated Pytest Workers](https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/)
 * [2026-11-18, 18:08:24](https://lobste.rs/s/rnqqeg/stop_deploying_ecs_just_see_if_your_code) - [Stop Deploying to ECS Just to See If Your Code Works](https://metalbear.com/blog/stop-deploying-to-ecs/)
