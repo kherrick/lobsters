@@ -2,6 +2,7 @@
 
 * [2026-11-19, 18:46:21](https://lobste.rs/s/t9wxzg/openrun_v1_0_declarative_deployments_for) - [OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes](https://openrun.dev/blog/openrun-1.0/)
 * [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
+* [2026-11-19, 18:37:35](https://lobste.rs/s/bkvpzd/mercurius_zero_trust_network_native) - [Mercurius — A Zero-Trust Network‑Native Window System](https://mercurius.tebibyte.org/)
 * [2026-11-19, 16:45:34](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem) - [Hiring a Systems Programmer for Boxem](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem)
 * [2026-11-19, 16:01:27](https://lobste.rs/s/03qosm/postel_awardee_dave_taht_made_every) - [Postel Awardee Dave Täht Made Every Millisecond Count](https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/)
 * [2026-11-19, 15:12:08](https://lobste.rs/s/pqyuhk/postgresql_19_released) - [PostgreSQL 19 Released](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
@@ -15,7 +16,6 @@
 * [2026-11-19, 08:53:43](https://lobste.rs/s/zfe21b/validating_high_performance_cloud) - [Validating a High-Performance Cloud Object Store with Lightweight Formal Methods](https://dl.acm.org/doi/10.1145/3830418.3843899)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 01:26:37](https://lobste.rs/s/hsmtyg/security_advisories_multiple) - [Security advisories: multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
-* [2026-11-18, 23:26:59](https://lobste.rs/s/l70xc9/sysdeck_raycast_for_linux_bsd) - [sysdeck: Raycast for Linux & BSD](https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/)
 * [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
 * [2026-11-18, 17:52:22](https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
 * [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
