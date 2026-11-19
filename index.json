@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-19, 15:04:13",
+      "https://lobste.rs/s/k1sjjc/frontier_design_benchmark"
+    ],
+    [
+      "Frontier Design Benchmark",
+      "https://contralabs.com/frontierdesign"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 13:38:19",
       "https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp"
     ],
@@ -237,16 +247,6 @@
     [
       "Codeberg's domain suddenly disappeared from their account, site is unreachable",
       "https://social.anoxinon.de/@Codeberg/117636454915265360"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 21:16:11",
-      "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"
-    ],
-    [
-      "Java4Shell: Write once, RCE everywhere",
-      "https://calif.io/java4shell/"
     ]
   ]
 ]
