@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 16:01:27](https://lobste.rs/s/03qosm/postel_awardee_dave_taht_made_every) - [Postel Awardee Dave Täht Made Every Millisecond Count](https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/)
 * [2026-11-19, 15:12:08](https://lobste.rs/s/pqyuhk/postgresql_19_released) - [PostgreSQL 19 Released](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
 * [2026-11-19, 15:04:13](https://lobste.rs/s/k1sjjc/frontier_design_benchmark) - [Frontier Design Benchmark](https://contralabs.com/frontierdesign)
 * [2026-11-19, 13:38:19](https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp) - [15 million web servers on one VM - smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
