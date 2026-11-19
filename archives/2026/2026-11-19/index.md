@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 19:06:32](https://lobste.rs/s/a5y1em/ignore_slop) - [“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)
 * [2026-11-19, 18:46:21](https://lobste.rs/s/t9wxzg/openrun_v1_0_declarative_deployments_for) - [OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes](https://openrun.dev/blog/openrun-1.0/)
 * [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
 * [2026-11-19, 18:37:35](https://lobste.rs/s/bkvpzd/mercurius_zero_trust_network_native) - [Mercurius — A Zero-Trust Network‑Native Window System](https://mercurius.tebibyte.org/)
