@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-19, 15:04:13](https://lobste.rs/s/k1sjjc/frontier_design_benchmark) - [Frontier Design Benchmark](https://contralabs.com/frontierdesign)
 * [2026-11-19, 13:38:19](https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp) - [15 million web servers on one VM - smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 13:34:58](https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse) - [Type inference and narrowing with reverse arrows](https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/)
 * [2026-11-19, 13:28:49](https://lobste.rs/s/rzuasm/we_need_smart_people_who_give_shit) - [We Need Smart People Who Give a Shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
@@ -24,7 +25,6 @@
 * [2026-11-18, 11:57:46](https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding) - [Windows 11 collects data on which coding agents and dev tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 * [2026-11-18, 11:21:43](https://lobste.rs/s/dpvrbv/solid_2_0) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360)
-* [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 
 ## [Archives](archives/index.md)
 
