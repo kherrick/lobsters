@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 19:55:10](https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui) - [Visualizing a Ledger with pgledger-ui](https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/)
+* [2026-11-19, 19:50:25](https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 19:06:32](https://lobste.rs/s/a5y1em/ignore_slop) - [“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)
 * [2026-11-19, 18:46:21](https://lobste.rs/s/t9wxzg/openrun_v1_0_declarative_deployments_for) - [OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes](https://openrun.dev/blog/openrun-1.0/)
 * [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
