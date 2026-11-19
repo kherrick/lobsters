@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 08:53:43](https://lobste.rs/s/zfe21b/validating_high_performance_cloud) - [Validating a High-Performance Cloud Object Store with Lightweight Formal Methods](https://dl.acm.org/doi/10.1145/3830418.3843899)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 07:33:44](https://lobste.rs/s/akg5in/traffic_mix_matters) - [Traffic mix matters](https://brooker.co.za/blog/2026/11/18/workload-mix.html)
 * [2026-11-19, 06:44:03](https://lobste.rs/s/k2gpni/morty_continue_your_ai_agent_from_any) - [Morty — Continue your AI agent from any browser](https://morty.build/)

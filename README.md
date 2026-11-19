@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-19, 08:53:43](https://lobste.rs/s/zfe21b/validating_high_performance_cloud) - [Validating a High-Performance Cloud Object Store with Lightweight Formal Methods](https://dl.acm.org/doi/10.1145/3830418.3843899)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 07:33:44](https://lobste.rs/s/akg5in/traffic_mix_matters) - [Traffic mix matters](https://brooker.co.za/blog/2026/11/18/workload-mix.html)
 * [2026-11-19, 01:45:23](https://lobste.rs/s/gpqw7o/incidents_news) - [Incidents in the news](https://surfingcomplexity.blog/2026/11/18/incidents-in-the-news/)
@@ -9,7 +10,6 @@
 * [2026-11-18, 20:00:42](https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded) - [Stricter checks for uploaded distributions on PyPI](https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/)
 * [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
 * [2026-11-18, 18:28:22](https://lobste.rs/s/46nwql/why_fibonacci) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
-* [2026-11-18, 18:13:35](https://lobste.rs/s/3kdl1p/faster_ci_with_orchestrated_pytest) - [Faster CI with Orchestrated Pytest Workers](https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/)
 * [2026-11-18, 17:52:22](https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
 * [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
 * [2026-11-18, 17:30:14](https://lobste.rs/s/silxsl/magic_partial_evaluation) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
