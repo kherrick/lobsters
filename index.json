@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-19, 19:55:10",
+      "https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui"
+    ],
+    [
+      "Visualizing a Ledger with pgledger-ui",
+      "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 19:50:25",
+      "https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant"
+    ],
+    [
+      "Rebuilding my local voice assistant pipeline",
+      "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 18:46:21",
       "https://lobste.rs/s/t9wxzg/openrun_v1_0_declarative_deployments_for"
     ],
@@ -27,16 +47,6 @@
     [
       "Mercurius — A Zero-Trust Network‑Native Window System",
       "https://mercurius.tebibyte.org/"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 16:45:34",
-      "https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem"
-    ],
-    [
-      "Hiring a Systems Programmer for Boxem",
-      "https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Upcoming Critical PHP Security Release (18 Nov 2026)",
       "https://www.php.net/index.php#2026-11-18-1"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 17:52:22",
-      "https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle"
-    ],
-    [
-      "IPv6 delegation, an unusually subtle failure mode",
-      "https://savyasacheejha.com/posts/why-odhcpd/"
     ]
   ],
   [
