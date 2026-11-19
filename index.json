@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-19, 13:38:19",
+      "https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp"
+    ],
+    [
+      "15 million web servers on one VM - smoltcp, DPDK, AF_XDP",
+      "https://kapteko.com/15-million-webservers/"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 13:34:58",
+      "https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse"
+    ],
+    [
+      "Type inference and narrowing with reverse arrows",
+      "https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 13:07:34",
       "https://lobste.rs/s/qsrnot/design_for_understandability"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-11-18, 18:28:22",
-      "https://lobste.rs/s/46nwql/why_fibonacci"
-    ],
-    [
-      "Why Fibonacci?",
-      "https://www.evilgeniuslabs.org/why-fibonacci"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 17:52:22",
       "https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle"
     ],
@@ -237,16 +247,6 @@
     [
       "Java4Shell: Write once, RCE everywhere",
       "https://calif.io/java4shell/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 13:37:05",
-      "https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"
-    ],
-    [
-      "Actual curl rewrites in rust",
-      "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/"
     ]
   ]
 ]
