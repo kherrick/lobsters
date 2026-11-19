@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-19, 18:39:29",
+      "https://lobste.rs/s/naiy6x/supporting_foss_projects_transition"
+    ],
+    [
+      "Supporting FOSS projects to transition to memory safe tech",
+      "https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 18:37:35",
+      "https://lobste.rs/s/bkvpzd/mercurius_zero_trust_network_native"
+    ],
+    [
+      "Mercurius — A Zero-Trust Network‑Native Window System",
+      "https://mercurius.tebibyte.org/"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 16:45:34",
+      "https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem"
+    ],
+    [
+      "Hiring a Systems Programmer for Boxem",
+      "https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 16:01:27",
       "https://lobste.rs/s/03qosm/postel_awardee_dave_taht_made_every"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-11-19, 07:33:44",
-      "https://lobste.rs/s/akg5in/traffic_mix_matters"
-    ],
-    [
-      "Traffic mix matters",
-      "https://brooker.co.za/blog/2026/11/18/workload-mix.html"
-    ]
-  ],
-  [
-    [
       "2026-11-19, 01:26:37",
       "https://lobste.rs/s/hsmtyg/security_advisories_multiple"
     ],
@@ -137,16 +157,6 @@
     [
       "sysdeck: Raycast for Linux & BSD",
       "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 20:00:42",
-      "https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded"
-    ],
-    [
-      "Stricter checks for uploaded distributions on PyPI",
-      "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Windows 11 collects data on which coding agents and dev tools you use",
       "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 11:21:43",
-      "https://lobste.rs/s/dpvrbv/solid_2_0"
-    ],
-    [
-      "Solid 2.0",
-      "https://www.solidjs.com/blog/solid-2-0-the-long-hold"
     ]
   ],
   [
