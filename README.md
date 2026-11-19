@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 07:33:44](https://lobste.rs/s/akg5in/traffic_mix_matters) - [Traffic mix matters](https://brooker.co.za/blog/2026/11/18/workload-mix.html)
 * [2026-11-19, 01:45:23](https://lobste.rs/s/gpqw7o/incidents_news) - [Incidents in the news](https://surfingcomplexity.blog/2026/11/18/incidents-in-the-news/)
 * [2026-11-19, 01:26:37](https://lobste.rs/s/hsmtyg/security_advisories_multiple) - [Security advisories: multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
@@ -23,7 +24,6 @@
 * [2026-11-18, 06:43:30](https://lobste.rs/s/bjmwt6/stacked_diffs_with_maiao) - [Stacked diffs with Maiao](https://entropicthoughts.com/stacked-diffs-with-maiao)
 * [2026-11-18, 02:54:59](https://lobste.rs/s/bhfexs/freebsd_gus) - [FreeBSD GUS](https://gregoire.dev/writing/gus/)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
-* [2026-11-17, 17:40:32](https://lobste.rs/s/xu4ajj/phrack_73) - [Phrack 73](https://phrack.org/issues/73/introduction_md.html)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 
 ## [Archives](archives/index.md)
