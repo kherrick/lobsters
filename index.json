@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-19, 13:07:34",
+      "https://lobste.rs/s/qsrnot/design_for_understandability"
+    ],
+    [
+      "Design for Understandability",
+      "https://jschuster.org/blog/2026/11/19/design-for-understandability/"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 13:01:49",
+      "https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone"
+    ],
+    [
+      "Mutex poisoning is not for everyone",
+      "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 10:50:28",
       "https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5"
     ],
@@ -77,16 +97,6 @@
     [
       "sysdeck: Raycast for Linux & BSD",
       "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 21:15:49",
-      "https://lobste.rs/s/1tcjtd/reversing_next_page_prefetcher_skylake_x"
-    ],
-    [
-      "Reversing the Next-Page Prefetcher in Skylake-X",
-      "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Codeberg's domain suddenly disappeared from their account, site is unreachable",
       "https://social.anoxinon.de/@Codeberg/117636454915265360"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 02:54:59",
-      "https://lobste.rs/s/bhfexs/freebsd_gus"
-    ],
-    [
-      "FreeBSD GUS",
-      "https://gregoire.dev/writing/gus/"
     ]
   ],
   [
