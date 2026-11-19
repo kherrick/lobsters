@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-19, 13:07:34](https://lobste.rs/s/qsrnot/design_for_understandability) - [Design for Understandability](https://jschuster.org/blog/2026/11/19/design-for-understandability/)
+* [2026-11-19, 13:01:49](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
 * [2026-11-19, 10:50:28](https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5) - [Ruby2Shell (GHSA-34m4-m9fh-gqp5)](https://verialabs.com/ruby2shell/)
 * [2026-11-19, 10:17:55](https://lobste.rs/s/xn50o0/php_8_6_release_announcement) - [PHP 8.6 Release Announcement](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 08:53:43](https://lobste.rs/s/zfe21b/validating_high_performance_cloud) - [Validating a High-Performance Cloud Object Store with Lightweight Formal Methods](https://dl.acm.org/doi/10.1145/3830418.3843899)
@@ -8,7 +10,6 @@
 * [2026-11-19, 01:45:23](https://lobste.rs/s/gpqw7o/incidents_news) - [Incidents in the news](https://surfingcomplexity.blog/2026/11/18/incidents-in-the-news/)
 * [2026-11-19, 01:26:37](https://lobste.rs/s/hsmtyg/security_advisories_multiple) - [Security advisories: multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
 * [2026-11-18, 23:26:59](https://lobste.rs/s/l70xc9/sysdeck_raycast_for_linux_bsd) - [sysdeck: Raycast for Linux & BSD](https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/)
-* [2026-11-18, 21:15:49](https://lobste.rs/s/1tcjtd/reversing_next_page_prefetcher_skylake_x) - [Reversing the Next-Page Prefetcher in Skylake-X](https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html)
 * [2026-11-18, 20:00:42](https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded) - [Stricter checks for uploaded distributions on PyPI](https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/)
 * [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
 * [2026-11-18, 18:28:22](https://lobste.rs/s/46nwql/why_fibonacci) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
@@ -22,7 +23,6 @@
 * [2026-11-18, 11:57:46](https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding) - [Windows 11 collects data on which coding agents and dev tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 * [2026-11-18, 11:21:43](https://lobste.rs/s/dpvrbv/solid_2_0) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360)
-* [2026-11-18, 02:54:59](https://lobste.rs/s/bhfexs/freebsd_gus) - [FreeBSD GUS](https://gregoire.dev/writing/gus/)
 * [2026-11-17, 21:16:11](https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere) - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell/)
 * [2026-11-17, 13:37:05](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust) - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 
