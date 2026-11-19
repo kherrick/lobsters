@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-19, 08:37:13",
+      "https://lobste.rs/s/bk5nfs/distributed_high_performance_blob"
+    ],
+    [
+      "Distributed, high-performance blob storage on SQLite",
+      "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 07:33:44",
       "https://lobste.rs/s/akg5in/traffic_mix_matters"
     ],
@@ -227,16 +237,6 @@
     [
       "Java4Shell: Write once, RCE everywhere",
       "https://calif.io/java4shell/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 17:40:32",
-      "https://lobste.rs/s/xu4ajj/phrack_73"
-    ],
-    [
-      "Phrack 73",
-      "https://phrack.org/issues/73/introduction_md.html"
     ]
   ],
   [
