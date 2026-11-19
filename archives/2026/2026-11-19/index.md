@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
+* [2026-11-19, 18:37:35](https://lobste.rs/s/bkvpzd/mercurius_zero_trust_network_native) - [Mercurius — A Zero-Trust Network‑Native Window System](https://mercurius.tebibyte.org/)
 * [2026-11-19, 16:45:34](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem) - [Hiring a Systems Programmer for Boxem](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem)
 * [2026-11-19, 16:01:27](https://lobste.rs/s/03qosm/postel_awardee_dave_taht_made_every) - [Postel Awardee Dave Täht Made Every Millisecond Count](https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/)
 * [2026-11-19, 15:12:08](https://lobste.rs/s/pqyuhk/postgresql_19_released) - [PostgreSQL 19 Released](https://www.postgresql.org/about/news/postgresql-19-released-3449/)

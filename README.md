@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
+* [2026-11-19, 18:37:35](https://lobste.rs/s/bkvpzd/mercurius_zero_trust_network_native) - [Mercurius — A Zero-Trust Network‑Native Window System](https://mercurius.tebibyte.org/)
+* [2026-11-19, 16:45:34](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem) - [Hiring a Systems Programmer for Boxem](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem)
 * [2026-11-19, 16:01:27](https://lobste.rs/s/03qosm/postel_awardee_dave_taht_made_every) - [Postel Awardee Dave Täht Made Every Millisecond Count](https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/)
 * [2026-11-19, 15:12:08](https://lobste.rs/s/pqyuhk/postgresql_19_released) - [PostgreSQL 19 Released](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
 * [2026-11-19, 13:38:19](https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp) - [15 million web servers on one VM - smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
@@ -11,10 +14,8 @@
 * [2026-11-19, 10:17:55](https://lobste.rs/s/xn50o0/php_8_6_release_announcement) - [PHP 8.6 Release Announcement](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 08:53:43](https://lobste.rs/s/zfe21b/validating_high_performance_cloud) - [Validating a High-Performance Cloud Object Store with Lightweight Formal Methods](https://dl.acm.org/doi/10.1145/3830418.3843899)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
-* [2026-11-19, 07:33:44](https://lobste.rs/s/akg5in/traffic_mix_matters) - [Traffic mix matters](https://brooker.co.za/blog/2026/11/18/workload-mix.html)
 * [2026-11-19, 01:26:37](https://lobste.rs/s/hsmtyg/security_advisories_multiple) - [Security advisories: multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
 * [2026-11-18, 23:26:59](https://lobste.rs/s/l70xc9/sysdeck_raycast_for_linux_bsd) - [sysdeck: Raycast for Linux & BSD](https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/)
-* [2026-11-18, 20:00:42](https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded) - [Stricter checks for uploaded distributions on PyPI](https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/)
 * [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
 * [2026-11-18, 17:52:22](https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
 * [2026-11-18, 17:35:19](https://lobste.rs/s/w78jvi/markdownweb) - [markdownWeb](https://demo.bonbonweb.org/)
@@ -23,7 +24,6 @@
 * [2026-11-18, 15:28:56](https://lobste.rs/s/wj2svg/nginx2root) - [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution)
 * [2026-11-18, 14:21:42](https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java) - [Java4Shell is a reason to use Java](https://mccue.dev/pages/11-18-26-java4shell)
 * [2026-11-18, 11:57:46](https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding) - [Windows 11 collects data on which coding agents and dev tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
-* [2026-11-18, 11:21:43](https://lobste.rs/s/dpvrbv/solid_2_0) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360)
 
 ## [Archives](archives/index.md)
