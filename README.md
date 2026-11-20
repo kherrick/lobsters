@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpoge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
 * [2026-11-20, 11:18:47](https://lobste.rs/s/irqtic/lisp_game_jam_devlog_polydraw) - [Lisp Game Jam devlog: Polydraw](https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html)
 * [2026-11-20, 11:14:06](https://lobste.rs/s/ocdhli/dreamcoder_coding_harness_ide_from) - [DreamCoder: coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
-* [2026-11-20, 10:52:02](https://lobste.rs/s/yd2dkh/crafting_targeted_mp4_fuzzers) - [Crafting Targeted MP4 Fuzzers](https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/)
 * [2026-11-20, 10:33:36](https://lobste.rs/s/vo5jve/removing_binder_c) - [Removing binder.c](https://lwn.net/Articles/1102982/)
 * [2026-11-20, 10:05:29](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend)
 * [2026-11-20, 10:02:03](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released) - [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html)
