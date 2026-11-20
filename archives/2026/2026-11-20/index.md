@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 09:39:11](https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for) - [Announcing jj-musubi: live sync for Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/)
 * [2026-11-20, 07:13:14](https://lobste.rs/s/y8k2n1/i_can_tell_you_wrote_this_yourself) - [\"I can tell you wrote this yourself\"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
 * [2026-11-20, 06:51:29](https://lobste.rs/s/dhvuby/case_flaky_dynamo_export_tests) - [The case of the flaky Dynamo export tests](https://dev-discuss.pytorch.org/t/debugging-story-the-case-of-the-flaky-dynamo-export-tests/1124)
 * [2026-11-20, 04:16:34](https://lobste.rs/s/9bvpac/persistent_incrementality_rust) - [Persistent incrementality in Rust](https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/)
