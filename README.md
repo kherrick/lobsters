@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpoge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
+* [2026-11-20, 13:51:10](https://lobste.rs/s/twly9y/smart_people_who_give_shit_use_tools) - [Smart People Who Give a Shit Use Tools](https://iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools/)
 * [2026-11-20, 11:18:47](https://lobste.rs/s/irqtic/lisp_game_jam_devlog_polydraw) - [Lisp Game Jam devlog: Polydraw](https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html)
 * [2026-11-20, 11:14:06](https://lobste.rs/s/ocdhli/dreamcoder_coding_harness_ide_from) - [DreamCoder: coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
 * [2026-11-20, 10:33:36](https://lobste.rs/s/vo5jve/removing_binder_c) - [Removing binder.c](https://lwn.net/Articles/1102982/)
@@ -22,7 +23,6 @@
 * [2026-11-19, 13:07:34](https://lobste.rs/s/qsrnot/design_for_understandability) - [Design for Understandability](https://jschuster.org/blog/2026/11/19/design-for-understandability/)
 * [2026-11-19, 13:01:49](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
 * [2026-11-19, 10:50:28](https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5) - [Ruby2Shell (GHSA-34m4-m9fh-gqp5)](https://verialabs.com/ruby2shell/)
-* [2026-11-19, 10:17:55](https://lobste.rs/s/xn50o0/php_8_6_release_announcement) - [PHP 8.6 Release Announcement](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
 * [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpoge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
+* [2026-11-20, 13:51:10](https://lobste.rs/s/twly9y/smart_people_who_give_shit_use_tools) - [Smart People Who Give a Shit Use Tools](https://iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools/)
 * [2026-11-20, 11:18:47](https://lobste.rs/s/irqtic/lisp_game_jam_devlog_polydraw) - [Lisp Game Jam devlog: Polydraw](https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html)
 * [2026-11-20, 11:14:06](https://lobste.rs/s/ocdhli/dreamcoder_coding_harness_ide_from) - [DreamCoder: coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
 * [2026-11-20, 10:52:02](https://lobste.rs/s/yd2dkh/crafting_targeted_mp4_fuzzers) - [Crafting Targeted MP4 Fuzzers](https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/)
