@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-20, 07:13:14](https://lobste.rs/s/y8k2n1/i_can_tell_you_wrote_this_yourself) - [\"I can tell you wrote this yourself\"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
 * [2026-11-20, 06:51:29](https://lobste.rs/s/dhvuby/case_flaky_dynamo_export_tests) - [The case of the flaky Dynamo export tests](https://dev-discuss.pytorch.org/t/debugging-story-the-case-of-the-flaky-dynamo-export-tests/1124)
 * [2026-11-20, 04:16:34](https://lobste.rs/s/9bvpac/persistent_incrementality_rust) - [Persistent incrementality in Rust](https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/)
 * [2026-11-20, 03:34:36](https://lobste.rs/s/i6dn7g/jujutsu_primer) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
@@ -19,7 +20,6 @@
 * [2026-11-19, 13:01:49](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
 * [2026-11-19, 10:50:28](https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5) - [Ruby2Shell (GHSA-34m4-m9fh-gqp5)](https://verialabs.com/ruby2shell/)
 * [2026-11-19, 10:17:55](https://lobste.rs/s/xn50o0/php_8_6_release_announcement) - [PHP 8.6 Release Announcement](https://www.php.net/releases/8.6/en.php)
-* [2026-11-19, 08:53:43](https://lobste.rs/s/zfe21b/validating_high_performance_cloud) - [Validating a High-Performance Cloud Object Store with Lightweight Formal Methods](https://dl.acm.org/doi/10.1145/3830418.3843899)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
 * [2026-11-18, 15:28:56](https://lobste.rs/s/wj2svg/nginx2root) - [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution)
