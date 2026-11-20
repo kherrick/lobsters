@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 16:52:34](https://lobste.rs/s/duzkkn/eulogy_for_software_engineer) - [Eulogy for the Software Engineer](https://www.youtube.com/watch?v=uuKOXGVIP8I)
 * [2026-11-20, 16:44:09](https://lobste.rs/s/18c0lq/alice_v0_6_0) - [Alice v0.6.0](https://www.alicecaml.org/blog/alice-v0-6-0/)
 * [2026-11-20, 15:15:13](https://lobste.rs/s/etfpar/nudeps_bundler_like_imports_none_baggage) - [Nudeps: bundler-like imports, none of the baggage](https://lea.verou.me/blog/2026/nudeps/)
 * [2026-11-20, 15:03:20](https://lobste.rs/s/wwpbjm/anthropic_mathematician_claims_prove) - [Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/)
