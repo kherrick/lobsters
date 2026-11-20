@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-20, 07:13:14",
+      "https://lobste.rs/s/y8k2n1/i_can_tell_you_wrote_this_yourself"
+    ],
+    [
+      "\"I can tell you wrote this yourself\"",
+      "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 06:51:29",
       "https://lobste.rs/s/dhvuby/case_flaky_dynamo_export_tests"
     ],
@@ -187,16 +197,6 @@
     [
       "PHP 8.6 Release Announcement",
       "https://www.php.net/releases/8.6/en.php"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 08:53:43",
-      "https://lobste.rs/s/zfe21b/validating_high_performance_cloud"
-    ],
-    [
-      "Validating a High-Performance Cloud Object Store with Lightweight Formal Methods",
-      "https://dl.acm.org/doi/10.1145/3830418.3843899"
     ]
   ],
   [
