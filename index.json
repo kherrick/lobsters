@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-20, 10:33:36",
+      "https://lobste.rs/s/vo5jve/removing_binder_c"
+    ],
+    [
+      "Removing binder.c",
+      "https://lwn.net/Articles/1102982/"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 10:05:29",
       "https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend"
     ],
@@ -157,16 +167,6 @@
     [
       "15 million web servers on one VM - smoltcp, DPDK, AF_XDP",
       "https://kapteko.com/15-million-webservers/"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 13:34:58",
-      "https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse"
-    ],
-    [
-      "Type inference and narrowing with reverse arrows",
-      "https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/"
     ]
   ],
   [
