@@ -1,32 +1,12 @@
 [
   [
     [
-      "2026-11-20, 15:15:13",
-      "https://lobste.rs/s/etfpar/nudeps_bundler_like_imports_none_baggage"
-    ],
-    [
-      "Nudeps: bundler-like imports, none of the baggage",
-      "https://lea.verou.me/blog/2026/nudeps/"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 14:46:49",
       "https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann"
     ],
     [
       "Levent Alpoge Claims Proof of Riemann Hypothesis",
       "https://alpo.ge/remark.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-11-20, 13:51:10",
-      "https://lobste.rs/s/twly9y/smart_people_who_give_shit_use_tools"
-    ],
-    [
-      "Smart People Who Give a Shit Use Tools",
-      "https://iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools/"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2026-11-19, 19:55:10",
+      "https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui"
+    ],
+    [
+      "Visualizing a Ledger with pgledger-ui",
+      "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 19:50:25",
       "https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant"
     ],
@@ -227,6 +217,16 @@
     [
       "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
       "https://verialabs.com/ruby2shell/"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 10:17:55",
+      "https://lobste.rs/s/xn50o0/php_8_6_release_announcement"
+    ],
+    [
+      "PHP 8.6 Release Announcement",
+      "https://www.php.net/releases/8.6/en.php"
     ]
   ],
   [
