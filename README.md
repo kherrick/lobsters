@@ -1,8 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-20, 15:15:13](https://lobste.rs/s/etfpar/nudeps_bundler_like_imports_none_baggage) - [Nudeps: bundler-like imports, none of the baggage](https://lea.verou.me/blog/2026/nudeps/)
 * [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpoge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
-* [2026-11-20, 13:51:10](https://lobste.rs/s/twly9y/smart_people_who_give_shit_use_tools) - [Smart People Who Give a Shit Use Tools](https://iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools/)
 * [2026-11-20, 11:18:47](https://lobste.rs/s/irqtic/lisp_game_jam_devlog_polydraw) - [Lisp Game Jam devlog: Polydraw](https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html)
 * [2026-11-20, 11:14:06](https://lobste.rs/s/ocdhli/dreamcoder_coding_harness_ide_from) - [DreamCoder: coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
 * [2026-11-20, 10:33:36](https://lobste.rs/s/vo5jve/removing_binder_c) - [Removing binder.c](https://lwn.net/Articles/1102982/)
@@ -14,6 +12,7 @@
 * [2026-11-20, 03:34:36](https://lobste.rs/s/i6dn7g/jujutsu_primer) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 * [2026-11-20, 02:41:39](https://lobste.rs/s/tr5ghf/garage_door_spam) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-20, 02:12:07](https://lobste.rs/s/lq9xuw/farcall_terminal_ready_rust_pc_dos) - [Farcall, a terminal-ready Rust PC+DOS emulator](https://www.dialup.net/farcall/)
+* [2026-11-19, 19:55:10](https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui) - [Visualizing a Ledger with pgledger-ui](https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/)
 * [2026-11-19, 19:50:25](https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
 * [2026-11-19, 16:45:34](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem) - [Hiring a Systems Programmer for Boxem](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem)
@@ -23,6 +22,7 @@
 * [2026-11-19, 13:07:34](https://lobste.rs/s/qsrnot/design_for_understandability) - [Design for Understandability](https://jschuster.org/blog/2026/11/19/design-for-understandability/)
 * [2026-11-19, 13:01:49](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
 * [2026-11-19, 10:50:28](https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5) - [Ruby2Shell (GHSA-34m4-m9fh-gqp5)](https://verialabs.com/ruby2shell/)
+* [2026-11-19, 10:17:55](https://lobste.rs/s/xn50o0/php_8_6_release_announcement) - [PHP 8.6 Release Announcement](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360)
 
