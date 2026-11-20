@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-20, 03:34:36",
+      "https://lobste.rs/s/i6dn7g/jujutsu_primer"
+    ],
+    [
+      "Jujutsu Primer",
+      "https://ethanlowman.com/posts/jj-primer/"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 02:41:39",
       "https://lobste.rs/s/tr5ghf/garage_door_spam"
     ],
@@ -177,16 +187,6 @@
     [
       "Distributed, high-performance blob storage on SQLite",
       "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 01:26:37",
-      "https://lobste.rs/s/hsmtyg/security_advisories_multiple"
-    ],
-    [
-      "Security advisories: multiple vulnerabilities in Regexp and String case conversion",
-      "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
     ]
   ],
   [
