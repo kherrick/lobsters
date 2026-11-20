@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 18:39:29](https://lobste.rs/s/o5coeq/internet_archive_staffers_are) - [Internet Archive Staffers Are Unionizing](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
 * [2026-11-20, 16:52:34](https://lobste.rs/s/duzkkn/eulogy_for_software_engineer) - [Eulogy for the Software Engineer](https://www.youtube.com/watch?v=uuKOXGVIP8I)
 * [2026-11-20, 16:44:09](https://lobste.rs/s/18c0lq/alice_v0_6_0) - [Alice v0.6.0](https://www.alicecaml.org/blog/alice-v0-6-0/)
 * [2026-11-20, 15:15:13](https://lobste.rs/s/etfpar/nudeps_bundler_like_imports_none_baggage) - [Nudeps: bundler-like imports, none of the baggage](https://lea.verou.me/blog/2026/nudeps/)
