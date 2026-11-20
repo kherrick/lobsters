@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 15:03:20](https://lobste.rs/s/wwpbjm/anthropic_mathematician_claims_prove) - [Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/)
 * [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpoge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
 * [2026-11-20, 13:51:10](https://lobste.rs/s/twly9y/smart_people_who_give_shit_use_tools) - [Smart People Who Give a Shit Use Tools](https://iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools/)
 * [2026-11-20, 11:18:47](https://lobste.rs/s/irqtic/lisp_game_jam_devlog_polydraw) - [Lisp Game Jam devlog: Polydraw](https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html)
