@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-20, 03:34:36](https://lobste.rs/s/i6dn7g/jujutsu_primer) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 * [2026-11-20, 02:41:39](https://lobste.rs/s/tr5ghf/garage_door_spam) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-20, 02:12:07](https://lobste.rs/s/lq9xuw/farcall_terminal_ready_rust_pc_dos) - [Farcall, a terminal-ready Rust PC+DOS emulator](https://www.dialup.net/farcall/)
 * [2026-11-19, 19:55:10](https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui) - [Visualizing a Ledger with pgledger-ui](https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/)
@@ -18,7 +19,6 @@
 * [2026-11-19, 10:17:55](https://lobste.rs/s/xn50o0/php_8_6_release_announcement) - [PHP 8.6 Release Announcement](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 08:53:43](https://lobste.rs/s/zfe21b/validating_high_performance_cloud) - [Validating a High-Performance Cloud Object Store with Lightweight Formal Methods](https://dl.acm.org/doi/10.1145/3830418.3843899)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
-* [2026-11-19, 01:26:37](https://lobste.rs/s/hsmtyg/security_advisories_multiple) - [Security advisories: multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
 * [2026-11-18, 19:44:06](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release) - [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1)
 * [2026-11-18, 16:39:00](https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for) - [How I made a custom game engine for Satelital](https://spectralorbit.com/blog/satelital_game_engine)
 * [2026-11-18, 15:28:56](https://lobste.rs/s/wj2svg/nginx2root) - [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution)
