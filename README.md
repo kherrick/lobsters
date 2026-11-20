@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-20, 10:05:29](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend)
+* [2026-11-20, 10:02:03](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released) - [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html)
+* [2026-11-20, 09:58:05](https://lobste.rs/s/hcahbx/visited_links_are_purple) - [Visited links are purple](https://dbushell.com/2026/11/16/visited-links/)
 * [2026-11-20, 09:39:11](https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for) - [Announcing jj-musubi: live sync for Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/)
 * [2026-11-20, 07:13:14](https://lobste.rs/s/y8k2n1/i_can_tell_you_wrote_this_yourself) - [\"I can tell you wrote this yourself\"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
-* [2026-11-20, 06:51:29](https://lobste.rs/s/dhvuby/case_flaky_dynamo_export_tests) - [The case of the flaky Dynamo export tests](https://dev-discuss.pytorch.org/t/debugging-story-the-case-of-the-flaky-dynamo-export-tests/1124)
 * [2026-11-20, 04:16:34](https://lobste.rs/s/9bvpac/persistent_incrementality_rust) - [Persistent incrementality in Rust](https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/)
 * [2026-11-20, 03:34:36](https://lobste.rs/s/i6dn7g/jujutsu_primer) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 * [2026-11-20, 02:41:39](https://lobste.rs/s/tr5ghf/garage_door_spam) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
@@ -10,7 +12,6 @@
 * [2026-11-19, 19:55:10](https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui) - [Visualizing a Ledger with pgledger-ui](https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/)
 * [2026-11-19, 19:50:25](https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
-* [2026-11-19, 18:37:35](https://lobste.rs/s/bkvpzd/mercurius_zero_trust_network_native) - [Mercurius — A Zero-Trust Network‑Native Window System](https://mercurius.tebibyte.org/)
 * [2026-11-19, 16:45:34](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem) - [Hiring a Systems Programmer for Boxem](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem)
 * [2026-11-19, 16:01:27](https://lobste.rs/s/03qosm/postel_awardee_dave_taht_made_every) - [Postel Awardee Dave Täht Made Every Millisecond Count](https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/)
 * [2026-11-19, 15:12:08](https://lobste.rs/s/pqyuhk/postgresql_19_released) - [PostgreSQL 19 Released](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
@@ -23,7 +24,6 @@
 * [2026-11-19, 10:17:55](https://lobste.rs/s/xn50o0/php_8_6_release_announcement) - [PHP 8.6 Release Announcement](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 08:37:13](https://lobste.rs/s/bk5nfs/distributed_high_performance_blob) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-18, 15:28:56](https://lobste.rs/s/wj2svg/nginx2root) - [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution)
-* [2026-11-18, 14:21:42](https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java) - [Java4Shell is a reason to use Java](https://mccue.dev/pages/11-18-26-java4shell)
 * [2026-11-18, 08:51:09](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared) - [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360)
 
 ## [Archives](archives/index.md)
