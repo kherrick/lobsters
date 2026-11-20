@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 18:42:02](https://lobste.rs/s/ext7dw/i_ll_never_buy_framework_hardware_again) - [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
 * [2026-11-20, 18:39:29](https://lobste.rs/s/o5coeq/internet_archive_staffers_are) - [Internet Archive Staffers Are Unionizing](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
 * [2026-11-20, 16:52:34](https://lobste.rs/s/duzkkn/eulogy_for_software_engineer) - [Eulogy for the Software Engineer](https://www.youtube.com/watch?v=uuKOXGVIP8I)
 * [2026-11-20, 16:44:09](https://lobste.rs/s/18c0lq/alice_v0_6_0) - [Alice v0.6.0](https://www.alicecaml.org/blog/alice-v0-6-0/)
