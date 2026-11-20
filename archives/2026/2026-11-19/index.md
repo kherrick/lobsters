@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 19:57:08](https://lobste.rs/s/nes79l/new_era_wikimedia_traffic_thinking) - [The New Era of Wikimedia Traffic: Thinking Beyond Pageviews](https://diff.wikimedia.org/2026/11/19/the-new-era-of-wikimedia-traffic-thinking-beyond-pageviews/)
 * [2026-11-19, 19:55:10](https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui) - [Visualizing a Ledger with pgledger-ui](https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/)
 * [2026-11-19, 19:50:25](https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 19:06:32](https://lobste.rs/s/a5y1em/ignore_slop) - [“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)
