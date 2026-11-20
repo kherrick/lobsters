@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 10:33:36](https://lobste.rs/s/vo5jve/removing_binder_c) - [Removing binder.c](https://lwn.net/Articles/1102982/)
 * [2026-11-20, 10:05:29](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend)
 * [2026-11-20, 10:02:03](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released) - [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html)
 * [2026-11-20, 09:58:05](https://lobste.rs/s/hcahbx/visited_links_are_purple) - [Visited links are purple](https://dbushell.com/2026/11/16/visited-links/)

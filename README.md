@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-20, 10:33:36](https://lobste.rs/s/vo5jve/removing_binder_c) - [Removing binder.c](https://lwn.net/Articles/1102982/)
 * [2026-11-20, 10:05:29](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend)
 * [2026-11-20, 10:02:03](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released) - [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html)
 * [2026-11-20, 09:58:05](https://lobste.rs/s/hcahbx/visited_links_are_purple) - [Visited links are purple](https://dbushell.com/2026/11/16/visited-links/)
@@ -16,7 +17,6 @@
 * [2026-11-19, 16:01:27](https://lobste.rs/s/03qosm/postel_awardee_dave_taht_made_every) - [Postel Awardee Dave Täht Made Every Millisecond Count](https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/)
 * [2026-11-19, 15:12:08](https://lobste.rs/s/pqyuhk/postgresql_19_released) - [PostgreSQL 19 Released](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
 * [2026-11-19, 13:38:19](https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp) - [15 million web servers on one VM - smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
-* [2026-11-19, 13:34:58](https://lobste.rs/s/z8f3vz/type_inference_narrowing_with_reverse) - [Type inference and narrowing with reverse arrows](https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/)
 * [2026-11-19, 13:28:49](https://lobste.rs/s/rzuasm/we_need_smart_people_who_give_shit) - [We Need Smart People Who Give a Shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 * [2026-11-19, 13:07:34](https://lobste.rs/s/qsrnot/design_for_understandability) - [Design for Understandability](https://jschuster.org/blog/2026/11/19/design-for-understandability/)
 * [2026-11-19, 13:01:49](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
