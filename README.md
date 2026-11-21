@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-21, 13:57:53](https://lobste.rs/s/fjueso/c_26_is_done_again_trip_report_november) - [C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
 * [2026-11-21, 13:18:02](https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2) - [Probabilistic data structures in Go, part 2](https://antonz.org/probabilistic-data-structures-2/)
 * [2026-11-21, 12:22:47](https://lobste.rs/s/becitz/microsoft_365_outage_post_incident) - [Microsoft 365 Outage - Post Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf)
 * [2026-11-21, 11:41:23](https://lobste.rs/s/p5zsx4/changes_on_freedesktop_org) - [Changes on freedesktop.org](https://blog.tenstral.net/2026/11/new-fdo-website.html)
@@ -24,7 +25,6 @@
 * [2026-11-19, 15:12:08](https://lobste.rs/s/pqyuhk/postgresql_19_released) - [PostgreSQL 19 Released](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
 * [2026-11-19, 13:28:49](https://lobste.rs/s/rzuasm/we_need_smart_people_who_give_shit) - [We Need Smart People Who Give a Shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 * [2026-11-19, 13:07:34](https://lobste.rs/s/qsrnot/design_for_understandability) - [Design for Understandability](https://jschuster.org/blog/2026/11/19/design-for-understandability/)
-* [2026-11-19, 13:01:49](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
 
 ## [Archives](archives/index.md)
 
