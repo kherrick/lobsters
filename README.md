@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-21, 00:46:40](https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily) - [Slopstrap: Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/l)
 * [2026-11-21, 00:16:57](https://lobste.rs/s/1qkbmq/dns_stamps_specification) - [DNS Stamps Specification](https://dnscrypt.info/stamps-specifications/)
 * [2026-11-20, 21:54:45](https://lobste.rs/s/4qcr3k/verifying_formal_models_raft) - [Verifying formal models of Raft implementations](https://antithesis.com/blog/2026/verifying-formal-models/)
 * [2026-11-20, 18:39:29](https://lobste.rs/s/o5coeq/internet_archive_staffers_are) - [Internet Archive Staffers Are Unionizing](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
@@ -25,6 +24,7 @@
 * [2026-11-19, 13:28:49](https://lobste.rs/s/rzuasm/we_need_smart_people_who_give_shit) - [We Need Smart People Who Give a Shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 * [2026-11-19, 13:07:34](https://lobste.rs/s/qsrnot/design_for_understandability) - [Design for Understandability](https://jschuster.org/blog/2026/11/19/design-for-understandability/)
 * [2026-11-19, 13:01:49](https://lobste.rs/s/uzn2t6/mutex_poisoning_is_not_for_everyone) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
+* [2026-11-19, 10:50:28](https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5) - [Ruby2Shell (GHSA-34m4-m9fh-gqp5)](https://verialabs.com/ruby2shell/)
 
 ## [Archives](archives/index.md)
 
