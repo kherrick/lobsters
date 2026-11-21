@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-21, 04:31:29",
-      "https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey"
-    ],
-    [
-      "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient",
-      "https://valkey.io/blog/from-skiplist-to-b+tree/"
-    ]
-  ],
-  [
-    [
       "2026-11-21, 04:14:02",
       "https://lobste.rs/s/79x708/scaling_git_horizontally_how_we_moved"
     ],
@@ -187,6 +177,16 @@
     [
       "Farcall, a terminal-ready Rust PC+DOS emulator",
       "https://www.dialup.net/farcall/"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 19:50:25",
+      "https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant"
+    ],
+    [
+      "Rebuilding my local voice assistant pipeline",
+      "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline"
     ]
   ],
   [
