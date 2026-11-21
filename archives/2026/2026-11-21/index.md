@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
+* [2026-11-21, 15:48:50](https://lobste.rs/s/fkzneu/three_breaches_endless_leaks_your_ai) - [Three breaches, endless leaks: Your AI supply chain needs canaries](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
 * [2026-11-21, 15:24:10](https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop) - [I am once more calling on Firefox to stop shipping AI slop](https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop)
 * [2026-11-21, 15:17:18](https://lobste.rs/s/qxzs4y/todos_jj_style) - [TODOs JJ Style](https://bwc9876.dev/blog/jj_todo/)
 * [2026-11-21, 15:03:28](https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
