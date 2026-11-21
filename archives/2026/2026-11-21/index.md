@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
+* [2026-11-21, 13:18:02](https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2) - [Probabilistic data structures in Go, part 2](https://antonz.org/probabilistic-data-structures-2/)
 * [2026-11-21, 12:22:47](https://lobste.rs/s/becitz/microsoft_365_outage_post_incident) - [Microsoft 365 Outage - Post Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf)
 * [2026-11-21, 11:47:00](https://lobste.rs/s/lyqufh/slopstrap_make_your_site_look_hastily) - [Slopstrap — Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/)
 * [2026-11-21, 11:41:23](https://lobste.rs/s/p5zsx4/changes_on_freedesktop_org) - [Changes on freedesktop.org](https://blog.tenstral.net/2026/11/new-fdo-website.html)
