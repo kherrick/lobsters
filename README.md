@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-21, 00:16:57](https://lobste.rs/s/1qkbmq/dns_stamps_specification) - [DNS Stamps Specification](https://dnscrypt.info/stamps-specifications/)
 * [2026-11-20, 21:54:45](https://lobste.rs/s/4qcr3k/verifying_formal_models_raft) - [Verifying formal models of Raft implementations](https://antithesis.com/blog/2026/verifying-formal-models/)
 * [2026-11-20, 18:39:29](https://lobste.rs/s/o5coeq/internet_archive_staffers_are) - [Internet Archive Staffers Are Unionizing](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
 * [2026-11-20, 16:44:09](https://lobste.rs/s/18c0lq/alice_v0_6_0) - [Alice v0.6.0](https://www.alicecaml.org/blog/alice-v0-6-0/)
@@ -15,7 +16,6 @@
 * [2026-11-20, 03:34:36](https://lobste.rs/s/i6dn7g/jujutsu_primer) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 * [2026-11-20, 02:41:39](https://lobste.rs/s/tr5ghf/garage_door_spam) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-20, 02:12:07](https://lobste.rs/s/lq9xuw/farcall_terminal_ready_rust_pc_dos) - [Farcall, a terminal-ready Rust PC+DOS emulator](https://www.dialup.net/farcall/)
-* [2026-11-19, 19:55:10](https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui) - [Visualizing a Ledger with pgledger-ui](https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/)
 * [2026-11-19, 19:50:25](https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
 * [2026-11-19, 16:45:34](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem) - [Hiring a Systems Programmer for Boxem](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem)
