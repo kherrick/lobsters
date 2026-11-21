@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
+* [2026-11-21, 19:32:22](https://lobste.rs/s/pvylnk/how_i_got_postgres_into_single_binary) - [How I Got Postgres into a Single Binary](https://progrium.xyz/articles/2026/single-binary-postgres)
 * [2026-11-21, 16:57:15](https://lobste.rs/s/emymet/how_2_security_research_mlg) - [How 2 Security Research (MLG)](https://www.youtube.com/watch?v=dXQ_9WN6KLQ)
 * [2026-11-21, 15:48:50](https://lobste.rs/s/fkzneu/three_breaches_endless_leaks_your_ai) - [Three breaches, endless leaks: Your AI supply chain needs canaries](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
 * [2026-11-21, 15:24:10](https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop) - [I am once more calling on Firefox to stop shipping AI slop](https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop)
