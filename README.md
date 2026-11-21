@@ -19,7 +19,7 @@
 * [2026-11-20, 03:34:36](https://lobste.rs/s/i6dn7g/jujutsu_primer) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 * [2026-11-20, 02:41:39](https://lobste.rs/s/tr5ghf/garage_door_spam) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-20, 02:12:07](https://lobste.rs/s/lq9xuw/farcall_terminal_ready_rust_pc_dos) - [Farcall, a terminal-ready Rust PC+DOS emulator](https://www.dialup.net/farcall/)
-* [2026-11-19, 19:50:25](https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
+* [2026-11-19, 18:39:29](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition) - [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/)
 * [2026-11-19, 15:12:08](https://lobste.rs/s/pqyuhk/postgresql_19_released) - [PostgreSQL 19 Released](https://www.postgresql.org/about/news/postgresql-19-released-3449/)
 * [2026-11-19, 13:38:19](https://lobste.rs/s/elmy67/15_million_web_servers_on_one_vm_smoltcp) - [15 million web servers on one VM - smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 13:28:49](https://lobste.rs/s/rzuasm/we_need_smart_people_who_give_shit) - [We Need Smart People Who Give a Shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
