@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-21, 23:10:07](https://lobste.rs/s/inhlo2/advice_for_next_100_rust_guis) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
 * [2026-11-21, 19:32:22](https://lobste.rs/s/pvylnk/how_i_got_postgres_into_single_binary) - [How I Got Postgres into a Single Binary](https://progrium.xyz/articles/2026/single-binary-postgres)
 * [2026-11-21, 16:57:15](https://lobste.rs/s/emymet/how_2_security_research_mlg) - [How 2 Security Research (MLG)](https://www.youtube.com/watch?v=dXQ_9WN6KLQ)
 * [2026-11-21, 15:17:18](https://lobste.rs/s/qxzs4y/todos_jj_style) - [TODOs JJ Style](https://bwc9876.dev/blog/jj_todo/)
@@ -8,7 +9,6 @@
 * [2026-11-21, 13:18:02](https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2) - [Probabilistic data structures in Go, part 2](https://antonz.org/probabilistic-data-structures-2/)
 * [2026-11-21, 12:22:47](https://lobste.rs/s/becitz/microsoft_365_outage_post_incident) - [Microsoft 365 Outage - Post Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf)
 * [2026-11-21, 11:41:23](https://lobste.rs/s/p5zsx4/changes_on_freedesktop_org) - [Changes on freedesktop.org](https://blog.tenstral.net/2026/11/new-fdo-website.html)
-* [2026-11-21, 10:09:19](https://lobste.rs/s/vxokkj/gnupg_security_advisory_for_gpgme_t8557) - [GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [2026-11-21, 04:31:29](https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey) - [From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient](https://valkey.io/blog/from-skiplist-to-b+tree/)
 * [2026-11-21, 04:14:02](https://lobste.rs/s/79x708/scaling_git_horizontally_how_we_moved) - [Scaling Git horizontally: how we moved beyond Multi-Raft](https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft)
 * [2026-11-21, 00:46:40](https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily) - [Slopstrap: Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/l)
