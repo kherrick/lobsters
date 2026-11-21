@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-21, 15:48:50",
-      "https://lobste.rs/s/fkzneu/three_breaches_endless_leaks_your_ai"
-    ],
-    [
-      "Three breaches, endless leaks: Your AI supply chain needs canaries",
-      "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
-    ]
-  ],
-  [
-    [
       "2026-11-21, 15:17:18",
       "https://lobste.rs/s/qxzs4y/todos_jj_style"
     ],
@@ -77,6 +67,16 @@
     [
       "GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)",
       "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 04:31:29",
+      "https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey"
+    ],
+    [
+      "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient",
+      "https://valkey.io/blog/from-skiplist-to-b+tree/"
     ]
   ],
   [
