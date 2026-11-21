@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-21, 23:42:43](https://lobste.rs/s/2rqkqu/ai_is_building_me_web_browser) - [AI is building me a web browser](https://blog.senko.net/ai-is-building-me-a-web-browser)
+* [2026-11-21, 23:40:51](https://lobste.rs/s/et5q0q/port_scanning_for_mojang) - [port scanning for mojang](https://sipacid.com/blog/port-scanning-for-mojang/)
 * [2026-11-21, 23:10:07](https://lobste.rs/s/inhlo2/advice_for_next_100_rust_guis) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
 * [2026-11-21, 19:32:22](https://lobste.rs/s/pvylnk/how_i_got_postgres_into_single_binary) - [How I Got Postgres into a Single Binary](https://progrium.xyz/articles/2026/single-binary-postgres)
 * [2026-11-21, 16:57:15](https://lobste.rs/s/emymet/how_2_security_research_mlg) - [How 2 Security Research (MLG)](https://www.youtube.com/watch?v=dXQ_9WN6KLQ)
@@ -19,11 +21,9 @@
 * [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpöge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
 * [2026-11-20, 11:14:06](https://lobste.rs/s/ocdhli/dreamcoder_coding_harness_ide_from) - [DreamCoder: coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
 * [2026-11-20, 10:33:36](https://lobste.rs/s/vo5jve/removing_binder_c) - [Removing binder.c](https://lwn.net/Articles/1102982/)
-* [2026-11-20, 10:05:29](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend)
 * [2026-11-20, 10:02:03](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released) - [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html)
 * [2026-11-20, 09:58:05](https://lobste.rs/s/hcahbx/visited_links_are_purple) - [Visited links are purple](https://dbushell.com/2026/11/16/visited-links/)
 * [2026-11-20, 09:39:11](https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for) - [Announcing jj-musubi: live sync for Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/)
-* [2026-11-20, 03:34:36](https://lobste.rs/s/i6dn7g/jujutsu_primer) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 * [2026-11-20, 02:41:39](https://lobste.rs/s/tr5ghf/garage_door_spam) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 
 ## [Archives](archives/index.md)
