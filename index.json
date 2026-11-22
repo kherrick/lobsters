@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2026-11-21, 10:09:19",
+      "https://lobste.rs/s/vxokkj/gnupg_security_advisory_for_gpgme_t8557"
+    ],
+    [
+      "GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)",
+      "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+    ]
+  ],
+  [
+    [
       "2026-11-21, 04:31:29",
       "https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing jj-musubi: live sync for Jujutsu",
       "https://www.serpentine.com/posts/2026/announcing-jj-musubi/"
-    ]
-  ],
-  [
-    [
-      "2026-11-20, 02:41:39",
-      "https://lobste.rs/s/tr5ghf/garage_door_spam"
-    ],
-    [
-      "Garage Door Spam",
-      "https://blog.harrison.page/garage-door-spam/"
     ]
   ]
 ]
