@@ -13,6 +13,7 @@
 * [2026-11-21, 13:18:02](https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2) - [Probabilistic data structures in Go, part 2](https://antonz.org/probabilistic-data-structures-2/)
 * [2026-11-21, 12:22:47](https://lobste.rs/s/becitz/microsoft_365_outage_post_incident) - [Microsoft 365 Outage - Post Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf)
 * [2026-11-21, 11:41:23](https://lobste.rs/s/p5zsx4/changes_on_freedesktop_org) - [Changes on freedesktop.org](https://blog.tenstral.net/2026/11/new-fdo-website.html)
+* [2026-11-21, 10:09:19](https://lobste.rs/s/vxokkj/gnupg_security_advisory_for_gpgme_t8557) - [GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [2026-11-21, 04:31:29](https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey) - [From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient](https://valkey.io/blog/from-skiplist-to-b+tree/)
 * [2026-11-21, 00:46:40](https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily) - [Slopstrap: Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/l)
 * [2026-11-20, 21:54:45](https://lobste.rs/s/4qcr3k/verifying_formal_models_raft) - [Verifying formal models of Raft implementations](https://antithesis.com/blog/2026/verifying-formal-models/)
@@ -24,7 +25,6 @@
 * [2026-11-20, 10:02:03](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released) - [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html)
 * [2026-11-20, 09:58:05](https://lobste.rs/s/hcahbx/visited_links_are_purple) - [Visited links are purple](https://dbushell.com/2026/11/16/visited-links/)
 * [2026-11-20, 09:39:11](https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for) - [Announcing jj-musubi: live sync for Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/)
-* [2026-11-20, 02:41:39](https://lobste.rs/s/tr5ghf/garage_door_spam) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 
 ## [Archives](archives/index.md)
 
