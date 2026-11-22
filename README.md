@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-22, 00:52:23](https://lobste.rs/s/n5i1ds/ghostscript_cve_2026_125396) - [GhostScript CVE 2026-125396: \"Upload2Shell\"](https://pwn.ai/upload2shell/research.html)
 * [2026-11-22, 00:30:07](https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board) - [NixOS bring-up on an Alibaba RISC-V board](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/)
 * [2026-11-21, 23:40:51](https://lobste.rs/s/et5q0q/port_scanning_for_mojang) - [port scanning for mojang](https://sipacid.com/blog/port-scanning-for-mojang/)
 * [2026-11-21, 23:10:07](https://lobste.rs/s/inhlo2/advice_for_next_100_rust_guis) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
@@ -14,7 +15,6 @@
 * [2026-11-21, 04:31:29](https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey) - [From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient](https://valkey.io/blog/from-skiplist-to-b+tree/)
 * [2026-11-21, 04:14:02](https://lobste.rs/s/79x708/scaling_git_horizontally_how_we_moved) - [Scaling Git horizontally: how we moved beyond Multi-Raft](https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft)
 * [2026-11-21, 00:46:40](https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily) - [Slopstrap: Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/l)
-* [2026-11-21, 00:16:57](https://lobste.rs/s/1qkbmq/dns_stamps_specification) - [DNS Stamps Specification](https://dnscrypt.info/stamps-specifications/)
 * [2026-11-20, 21:54:45](https://lobste.rs/s/4qcr3k/verifying_formal_models_raft) - [Verifying formal models of Raft implementations](https://antithesis.com/blog/2026/verifying-formal-models/)
 * [2026-11-20, 18:39:29](https://lobste.rs/s/o5coeq/internet_archive_staffers_are) - [Internet Archive Staffers Are Unionizing](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
 * [2026-11-20, 16:44:09](https://lobste.rs/s/18c0lq/alice_v0_6_0) - [Alice v0.6.0](https://www.alicecaml.org/blog/alice-v0-6-0/)
