@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-22, 20:10:15](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop) - [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)
 * [2026-11-22, 19:13:26](https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts) - [scriptura: a cozy corner for your scripts](https://alanpearce.eu/post/scriptura/)
 * [2026-11-22, 18:17:44](https://lobste.rs/s/e89tey/calculate_radio_link_placement_node) - [Calculate radio link placement and node amount for your city's mesh network](https://meshcoveragecalculator.lalala.ing/)
 * [2026-11-22, 16:37:37](https://lobste.rs/s/7hzqwh/we_asked_mathematicans_about) - [We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)](https://www.youtube.com/watch?v=zqzk43bSdDI)
@@ -22,7 +23,6 @@
 * [2026-11-21, 00:46:40](https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily) - [Slopstrap: Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/l)
 * [2026-11-20, 18:39:29](https://lobste.rs/s/o5coeq/internet_archive_staffers_are) - [Internet Archive Staffers Are Unionizing](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america)
 * [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpöge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
-* [2026-11-20, 10:33:36](https://lobste.rs/s/vo5jve/removing_binder_c) - [Removing binder.c](https://lwn.net/Articles/1102982/)
 * [2026-11-20, 10:02:03](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released) - [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html)
 * [2026-11-20, 09:39:11](https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for) - [Announcing jj-musubi: live sync for Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/)
 
