@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 21:44:04](https://lobste.rs/s/g5msf2/testing_terraform_with_aws_emulator) - [Testing Terraform with AWS Emulator](https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/)
 * [2026-11-22, 20:10:15](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop) - [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)
 * [2026-11-22, 19:13:26](https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts) - [scriptura: a cozy corner for your scripts](https://alanpearce.eu/post/scriptura/)
 * [2026-11-22, 18:17:44](https://lobste.rs/s/e89tey/calculate_radio_link_placement_node) - [Calculate radio link placement and node amount for your city's mesh network](https://meshcoveragecalculator.lalala.ing/)
