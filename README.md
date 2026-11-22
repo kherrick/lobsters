@@ -5,7 +5,6 @@
 * [2026-11-22, 20:10:15](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop) - [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)
 * [2026-11-22, 19:13:26](https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts) - [scriptura: a cozy corner for your scripts](https://alanpearce.eu/post/scriptura/)
 * [2026-11-22, 18:17:44](https://lobste.rs/s/e89tey/calculate_radio_link_placement_node) - [Calculate radio link placement and node amount for your city's mesh network](https://meshcoveragecalculator.lalala.ing/)
-* [2026-11-22, 16:37:37](https://lobste.rs/s/7hzqwh/we_asked_mathematicans_about) - [We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)](https://www.youtube.com/watch?v=zqzk43bSdDI)
 * [2026-11-22, 16:37:12](https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/)
 * [2026-11-22, 14:48:20](https://lobste.rs/s/yhl0jk/what_if_netscape_did_ssl_http_way) - [What If Netscape Did SSL the HTTP Way?](https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/)
 * [2026-11-22, 12:30:56](https://lobste.rs/s/nbtm5j/fixing_google_s_feedburner_problem) - [Fixing Google’s Feedburner problem, and caching that half works](https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss)
@@ -25,6 +24,7 @@
 * [2026-11-21, 00:46:40](https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily) - [Slopstrap: Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/l)
 * [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpöge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
 * [2026-11-20, 10:02:03](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released) - [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html)
+* [2026-11-20, 09:39:11](https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for) - [Announcing jj-musubi: live sync for Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/)
 
 ## [Archives](archives/index.md)
 
