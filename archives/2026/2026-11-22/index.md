@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 19:13:26](https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts) - [scriptura: a cozy corner for your scripts](https://alanpearce.eu/post/scriptura/)
 * [2026-11-22, 18:17:44](https://lobste.rs/s/e89tey/calculate_radio_link_placement_node) - [Calculate radio link placement and node amount for your city's mesh network](https://meshcoveragecalculator.lalala.ing/)
 * [2026-11-22, 16:37:37](https://lobste.rs/s/7hzqwh/we_asked_mathematicans_about) - [We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)](https://www.youtube.com/watch?v=zqzk43bSdDI)
 * [2026-11-22, 16:37:12](https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/)
