@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-22, 14:48:20",
+      "https://lobste.rs/s/yhl0jk/what_if_netscape_did_ssl_http_way"
+    ],
+    [
+      "What If Netscape Did SSL the HTTP Way?",
+      "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 12:30:56",
       "https://lobste.rs/s/nbtm5j/fixing_google_s_feedburner_problem"
     ],
@@ -147,16 +157,6 @@
     [
       "GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)",
       "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 04:31:29",
-      "https://lobste.rs/s/ixhrac/from_skiplists_b_trees_making_valkey"
-    ],
-    [
-      "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient",
-      "https://valkey.io/blog/from-skiplist-to-b+tree/"
     ]
   ],
   [
