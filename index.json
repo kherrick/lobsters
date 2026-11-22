@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-22, 12:30:56",
+      "https://lobste.rs/s/nbtm5j/fixing_google_s_feedburner_problem"
+    ],
+    [
+      "Fixing Google’s Feedburner problem, and caching that half works",
+      "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 09:21:35",
       "https://lobste.rs/s/v3m2uj/claude_delusion"
     ],
@@ -137,16 +147,6 @@
     [
       "Changes on freedesktop.org",
       "https://blog.tenstral.net/2026/11/new-fdo-website.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 10:09:19",
-      "https://lobste.rs/s/vxokkj/gnupg_security_advisory_for_gpgme_t8557"
-    ],
-    [
-      "GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)",
-      "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
     ]
   ],
   [
