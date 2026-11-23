@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-23, 20:01:46",
+      "https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message"
+    ],
+    [
+      "UQ researchers send an unblockable message using gravity",
+      "https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 17:59:14",
       "https://lobste.rs/s/7fscqs/let_s_meet_middle"
     ],
@@ -237,16 +247,6 @@
     [
       "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
       "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 00:30:07",
-      "https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board"
-    ],
-    [
-      "NixOS bring-up on an Alibaba RISC-V board",
-      "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/"
     ]
   ]
 ]
