@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 23:41:15](https://lobste.rs/s/teifll/homie_local_voice_agent_for_macos_0_43s) - [homie: a local voice agent for macOS, 0.43s commands from a 4B model](https://homie-mac.vercel.app/fast)
 * [2026-11-23, 23:36:14](https://lobste.rs/s/fgbvtt/cgo_s_pointer_check_is_all_over_place) - [cgo's pointer check is all over the place](https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html)
 * [2026-11-23, 22:18:18](https://lobste.rs/s/rz7m8a/strength_record) - [The Strength of the Record](https://web.archive.org/web/20210329070928/https://opencrux.com/blog/crux-strength-of-the-record.html)
 * [2026-11-23, 21:32:07](https://lobste.rs/s/fygpme/release_roto_v0_14_0) - [Release: Roto v0.14.0](https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511)

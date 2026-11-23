@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-23, 23:41:15](https://lobste.rs/s/teifll/homie_local_voice_agent_for_macos_0_43s) - [homie: a local voice agent for macOS, 0.43s commands from a 4B model](https://homie-mac.vercel.app/fast)
 * [2026-11-23, 23:36:14](https://lobste.rs/s/fgbvtt/cgo_s_pointer_check_is_all_over_place) - [cgo's pointer check is all over the place](https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html)
 * [2026-11-23, 22:18:18](https://lobste.rs/s/rz7m8a/strength_record) - [The Strength of the Record](https://web.archive.org/web/20210329070928/https://opencrux.com/blog/crux-strength-of-the-record.html)
 * [2026-11-23, 21:32:07](https://lobste.rs/s/fygpme/release_roto_v0_14_0) - [Release: Roto v0.14.0](https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511)
-* [2026-11-23, 20:57:00](https://lobste.rs/s/ik6f4o/bluetooth2shell_one_tap_pairing_is_all_it) - [Bluetooth2Shell: One tap of pairing is all it takes](https://bluetooth2shell.com/)
 * [2026-11-23, 20:45:29](https://lobste.rs/s/xxgezw/illiterate_programming) - [Illiterate Programming](https://deadsimpletech.com/blog/illiterate-programming)
 * [2026-11-23, 20:01:46](https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message) - [UQ researchers send an unblockable message using gravity](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
 * [2026-11-23, 17:59:14](https://lobste.rs/s/7fscqs/let_s_meet_middle) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
