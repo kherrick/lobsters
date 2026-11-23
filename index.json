@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-23, 10:40:21",
+      "https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog"
+    ],
+    [
+      "Simple Sudoku Solver in Verilog",
+      "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 10:37:34",
+      "https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 07:49:26",
       "https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-11-22, 00:52:23",
-      "https://lobste.rs/s/n5i1ds/ghostscript_cve_2026_125396"
-    ],
-    [
-      "GhostScript CVE 2026-125396: \"Upload2Shell\"",
-      "https://pwn.ai/upload2shell/research.html"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 00:30:07",
       "https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board"
     ],
@@ -227,16 +237,6 @@
     [
       "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
       "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 13:18:02",
-      "https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2"
-    ],
-    [
-      "Probabilistic data structures in Go, part 2",
-      "https://antonz.org/probabilistic-data-structures-2/"
     ]
   ],
   [
