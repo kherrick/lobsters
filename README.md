@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-23, 10:40:21](https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog) - [Simple Sudoku Solver in Verilog](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html)
+* [2026-11-23, 10:37:34](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week)
 * [2026-11-23, 07:49:26](https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts) - [Steadfast Update II - Rewriting ASTs](https://noteflakes.com/articles/2026-11-22-steadfast-update-2)
 * [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue) - [On self-healing code and the obvious issue](https://gynvael.coldwind.pl/?id=766)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
@@ -15,7 +17,6 @@
 * [2026-11-22, 14:48:20](https://lobste.rs/s/yhl0jk/what_if_netscape_did_ssl_http_way) - [What If Netscape Did SSL the HTTP Way?](https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/)
 * [2026-11-22, 12:30:56](https://lobste.rs/s/nbtm5j/fixing_google_s_feedburner_problem) - [Fixing Google’s Feedburner problem, and caching that half works](https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss)
 * [2026-11-22, 02:03:46](https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai) - [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
-* [2026-11-22, 00:52:23](https://lobste.rs/s/n5i1ds/ghostscript_cve_2026_125396) - [GhostScript CVE 2026-125396: \"Upload2Shell\"](https://pwn.ai/upload2shell/research.html)
 * [2026-11-22, 00:30:07](https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board) - [NixOS bring-up on an Alibaba RISC-V board](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/)
 * [2026-11-21, 23:40:51](https://lobste.rs/s/et5q0q/port_scanning_for_mojang) - [port scanning for mojang](https://sipacid.com/blog/port-scanning-for-mojang/)
 * [2026-11-21, 23:10:07](https://lobste.rs/s/inhlo2/advice_for_next_100_rust_guis) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
@@ -23,7 +24,6 @@
 * [2026-11-21, 15:17:18](https://lobste.rs/s/qxzs4y/todos_jj_style) - [TODOs JJ Style](https://bwc9876.dev/blog/jj_todo/)
 * [2026-11-21, 15:03:28](https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
 * [2026-11-21, 13:57:53](https://lobste.rs/s/fjueso/c_26_is_done_again_trip_report_november) - [C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
-* [2026-11-21, 13:18:02](https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2) - [Probabilistic data structures in Go, part 2](https://antonz.org/probabilistic-data-structures-2/)
 * [2026-11-21, 12:22:47](https://lobste.rs/s/becitz/microsoft_365_outage_post_incident) - [Microsoft 365 Outage - Post Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf)
 
 ## [Archives](archives/index.md)
