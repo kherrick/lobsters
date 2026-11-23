@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-23, 11:05:08",
+      "https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency"
+    ],
+    [
+      "Quality IMAP, Part 2: Mailbox Concurrency",
+      "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 11:00:25",
+      "https://lobste.rs/s/bjqpyu/bub_n_bros_bubble_bobble_remake_was_based"
+    ],
+    [
+      "Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network",
+      "http://bubble.aiei.ch:8050/"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 10:40:21",
       "https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog"
     ],
@@ -227,26 +247,6 @@
     [
       "My Monitor Was Cutting My Download Speed by 75%",
       "https://blog.tymscar.com/posts/studiodisplayethernet/"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 13:57:53",
-      "https://lobste.rs/s/fjueso/c_26_is_done_again_trip_report_november"
-    ],
-    [
-      "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
-      "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 12:22:47",
-      "https://lobste.rs/s/becitz/microsoft_365_outage_post_incident"
-    ],
-    [
-      "Microsoft 365 Outage - Post Incident Report",
-      "https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf"
     ]
   ]
 ]
