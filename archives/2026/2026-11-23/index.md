@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 13:10:31](https://lobste.rs/s/uqd28a/gpp_build_on_go_with_classes_generics) - [GPP -- Build on Go with classes, generics, exceptions, and more](https://gpp.telga.in)
 * [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
 * [2026-11-23, 11:00:25](https://lobste.rs/s/bjqpyu/bub_n_bros_bubble_bobble_remake_was_based) - [Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network](http://bubble.aiei.ch:8050/)
 * [2026-11-23, 10:40:21](https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog) - [Simple Sudoku Solver in Verilog](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html)

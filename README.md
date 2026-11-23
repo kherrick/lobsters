@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-23, 13:10:31](https://lobste.rs/s/uqd28a/gpp_build_on_go_with_classes_generics) - [GPP -- Build on Go with classes, generics, exceptions, and more](https://gpp.telga.in)
 * [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
+* [2026-11-23, 11:00:25](https://lobste.rs/s/bjqpyu/bub_n_bros_bubble_bobble_remake_was_based) - [Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network](http://bubble.aiei.ch:8050/)
 * [2026-11-23, 10:40:21](https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog) - [Simple Sudoku Solver in Verilog](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html)
 * [2026-11-23, 10:37:34](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week)
 * [2026-11-23, 07:49:26](https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts) - [Steadfast Update II - Rewriting ASTs](https://noteflakes.com/articles/2026-11-22-steadfast-update-2)
@@ -21,10 +23,8 @@
 * [2026-11-22, 00:30:07](https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board) - [NixOS bring-up on an Alibaba RISC-V board](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/)
 * [2026-11-21, 23:40:51](https://lobste.rs/s/et5q0q/port_scanning_for_mojang) - [port scanning for mojang](https://sipacid.com/blog/port-scanning-for-mojang/)
 * [2026-11-21, 23:10:07](https://lobste.rs/s/inhlo2/advice_for_next_100_rust_guis) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
-* [2026-11-21, 19:32:22](https://lobste.rs/s/pvylnk/how_i_got_postgres_into_single_binary) - [How I Got Postgres into a Single Binary](https://progrium.xyz/articles/2026/single-binary-postgres)
 * [2026-11-21, 15:17:18](https://lobste.rs/s/qxzs4y/todos_jj_style) - [TODOs JJ Style](https://bwc9876.dev/blog/jj_todo/)
 * [2026-11-21, 15:03:28](https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
-* [2026-11-21, 12:22:47](https://lobste.rs/s/becitz/microsoft_365_outage_post_incident) - [Microsoft 365 Outage - Post Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf)
 
 ## [Archives](archives/index.md)
 
