@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 15:01:37](https://lobste.rs/s/8g6qyx/reverse_engineering_board_game) - [Reverse Engineering a Board Game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-11-23, 13:35:15](https://lobste.rs/s/tw4dds/toolsmith) - [The Toolsmith](https://blog.fsck.com/2026/11/17/toolsmith/)
 * [2026-11-23, 13:25:14](https://lobste.rs/s/jagv1r/what_happened_silicon_valley) - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 * [2026-11-23, 13:10:31](https://lobste.rs/s/uqd28a/gpp_build_on_go_with_classes_generics) - [GPP -- Build on Go with classes, generics, exceptions, and more](https://gpp.telga.in)
