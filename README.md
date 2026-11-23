@@ -18,7 +18,7 @@
 * [2026-11-23, 07:49:26](https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts) - [Steadfast Update II - Rewriting ASTs](https://noteflakes.com/articles/2026-11-22-steadfast-update-2)
 * [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue_2023) - [On self-healing code and the obvious issue (2023)](https://gynvael.coldwind.pl/?id=766)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
-* [2026-11-23, 03:15:06](https://lobste.rs/s/l8u1tj/good_morning_welcome_my_idea_new_web) - [Good morning and welcome to my idea of a new web](https://dave.writersweb.org/index.md)
+* [2026-11-23, 03:02:13](https://lobste.rs/s/rvvt6x/de_fanging_dangerous_triggers_github) - [De-fanging dangerous triggers in GitHub Actions across an organization](https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html)
 * [2026-11-22, 21:49:18](https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml) - [GitHub Actions accepts invalid YAML](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
 * [2026-11-22, 21:44:04](https://lobste.rs/s/g5msf2/testing_terraform_with_aws_emulator) - [Testing Terraform with AWS Emulator](https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/)
 * [2026-11-22, 20:10:15](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop) - [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)
