@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-23, 20:17:24](https://lobste.rs/s/znd1r1/you_would_be_supporting_local_paper) - [\"And You Would be Supporting a Local Paper\"](https://aphyr.com/posts/429-and-you-would-be-supporting-a-local-paper)
 * [2026-11-23, 20:01:46](https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message) - [UQ researchers send an unblockable message using gravity](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
 * [2026-11-23, 17:59:14](https://lobste.rs/s/7fscqs/let_s_meet_middle) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
 * [2026-11-23, 17:15:02](https://lobste.rs/s/wv9nhw/swapping_jolt_s_sorted_collections_b_tree) - [Swapping Jolt's sorted collections to a B+tree](https://yogthos.net/posts/2026-11-23-b+trees.html)
@@ -15,6 +14,7 @@
 * [2026-11-23, 07:49:26](https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts) - [Steadfast Update II - Rewriting ASTs](https://noteflakes.com/articles/2026-11-22-steadfast-update-2)
 * [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue_2023) - [On self-healing code and the obvious issue (2023)](https://gynvael.coldwind.pl/?id=766)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
+* [2026-11-23, 05:12:52](https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges) - [Marches & Gnats programming challenges](https://mng.quest/)
 * [2026-11-23, 03:15:06](https://lobste.rs/s/l8u1tj/good_morning_welcome_my_idea_new_web) - [Good morning and welcome to my idea of a new web](https://dave.writersweb.org/index.md)
 * [2026-11-23, 03:02:13](https://lobste.rs/s/rvvt6x/de_fanging_dangerous_triggers_github) - [De-fanging dangerous triggers in GitHub Actions across an organization](https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html)
 * [2026-11-22, 21:49:18](https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml) - [GitHub Actions accepts invalid YAML](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
