@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-23, 15:16:31](https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki) - [Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell](https://lambdacreate.com/posts/held-together-by-spare-time)
 * [2026-11-23, 15:01:37](https://lobste.rs/s/8g6qyx/reverse_engineering_board_game) - [Reverse Engineering a Board Game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-11-23, 13:10:31](https://lobste.rs/s/uqd28a/gpp_build_on_go_with_classes_generics) - [GPP -- Build on Go with classes, generics, exceptions, and more](https://gpp.telga.in)
 * [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
@@ -7,7 +8,7 @@
 * [2026-11-23, 10:40:21](https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog) - [Simple Sudoku Solver in Verilog](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html)
 * [2026-11-23, 10:37:34](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week)
 * [2026-11-23, 07:49:26](https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts) - [Steadfast Update II - Rewriting ASTs](https://noteflakes.com/articles/2026-11-22-steadfast-update-2)
-* [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue) - [On self-healing code and the obvious issue](https://gynvael.coldwind.pl/?id=766)
+* [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue_2023) - [On self-healing code and the obvious issue (2023)](https://gynvael.coldwind.pl/?id=766)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-23, 05:12:52](https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges) - [Marches & Gnats programming challenges](https://mng.quest/)
 * [2026-11-23, 03:15:06](https://lobste.rs/s/l8u1tj/good_morning_welcome_my_idea_new_web) - [Good morning and welcome to my idea of a new web](https://dave.writersweb.org/index.md)
@@ -23,7 +24,6 @@
 * [2026-11-22, 02:03:46](https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai) - [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
 * [2026-11-22, 00:30:07](https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board) - [NixOS bring-up on an Alibaba RISC-V board](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/)
 * [2026-11-21, 23:10:07](https://lobste.rs/s/inhlo2/advice_for_next_100_rust_guis) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
-* [2026-11-21, 15:17:18](https://lobste.rs/s/qxzs4y/todos_jj_style) - [TODOs JJ Style](https://bwc9876.dev/blog/jj_todo/)
 * [2026-11-21, 15:03:28](https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 15:16:31](https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki) - [Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell](https://lambdacreate.com/posts/held-together-by-spare-time)
 * [2026-11-23, 15:01:37](https://lobste.rs/s/8g6qyx/reverse_engineering_board_game) - [Reverse Engineering a Board Game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-11-23, 13:35:15](https://lobste.rs/s/tw4dds/toolsmith) - [The Toolsmith](https://blog.fsck.com/2026/11/17/toolsmith/)
 * [2026-11-23, 13:25:14](https://lobste.rs/s/jagv1r/what_happened_silicon_valley) - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
@@ -13,6 +14,7 @@
 * [2026-11-23, 10:40:21](https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog) - [Simple Sudoku Solver in Verilog](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html)
 * [2026-11-23, 10:37:34](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week)
 * [2026-11-23, 07:49:26](https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts) - [Steadfast Update II - Rewriting ASTs](https://noteflakes.com/articles/2026-11-22-steadfast-update-2)
+* [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue_2023) - [On self-healing code and the obvious issue (2023)](https://gynvael.coldwind.pl/?id=766)
 * [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue) - [On self-healing code and the obvious issue](https://gynvael.coldwind.pl/?id=766)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-23, 05:12:52](https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges) - [Marches & Gnats programming challenges](https://mng.quest/)
