@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-23, 16:20:21",
+      "https://lobste.rs/s/pdecff/sneakernet"
+    ],
+    [
+      "Sneakernet",
+      "https://sneakernet.eu/"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 16:15:02",
+      "https://lobste.rs/s/xqbprq/new_day_for_app_development_rust"
+    ],
+    [
+      "A new Day for app development in Rust",
+      "https://daybrite.dev/blog/new-day"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 16:13:03",
       "https://lobste.rs/s/h6webg/ladybird_is_now_alpha"
     ],
@@ -227,26 +247,6 @@
     [
       "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
       "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 00:30:07",
-      "https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board"
-    ],
-    [
-      "NixOS bring-up on an Alibaba RISC-V board",
-      "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 15:03:28",
-      "https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed"
-    ],
-    [
-      "My Monitor Was Cutting My Download Speed by 75%",
-      "https://blog.tymscar.com/posts/studiodisplayethernet/"
     ]
   ]
 ]
