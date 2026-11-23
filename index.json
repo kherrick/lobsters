@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-23, 03:02:13",
+      "https://lobste.rs/s/rvvt6x/de_fanging_dangerous_triggers_github"
+    ],
+    [
+      "De-fanging dangerous triggers in GitHub Actions across an organization",
+      "https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 21:49:18",
       "https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml"
     ],
@@ -237,16 +247,6 @@
     [
       "Vim Classic 8.3.1 released",
       "https://vim-classic.org/news/vim-8.3.1-released.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-20, 09:39:11",
-      "https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for"
-    ],
-    [
-      "Announcing jj-musubi: live sync for Jujutsu",
-      "https://www.serpentine.com/posts/2026/announcing-jj-musubi/"
     ]
   ]
 ]
