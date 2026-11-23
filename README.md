@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-23, 05:12:52](https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges) - [Marches & Gnats programming challenges](https://mng.quest/)
 * [2026-11-23, 03:15:06](https://lobste.rs/s/l8u1tj/good_morning_welcome_my_idea_new_web) - [Good morning and welcome to my idea of a new web](https://dave.writersweb.org/index.md)
 * [2026-11-23, 03:02:13](https://lobste.rs/s/rvvt6x/de_fanging_dangerous_triggers_github) - [De-fanging dangerous triggers in GitHub Actions across an organization](https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html)
@@ -23,7 +24,6 @@
 * [2026-11-21, 13:18:02](https://lobste.rs/s/hcofqi/probabilistic_data_structures_go_part_2) - [Probabilistic data structures in Go, part 2](https://antonz.org/probabilistic-data-structures-2/)
 * [2026-11-21, 12:22:47](https://lobste.rs/s/becitz/microsoft_365_outage_post_incident) - [Microsoft 365 Outage - Post Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf)
 * [2026-11-21, 11:41:23](https://lobste.rs/s/p5zsx4/changes_on_freedesktop_org) - [Changes on freedesktop.org](https://blog.tenstral.net/2026/11/new-fdo-website.html)
-* [2026-11-21, 00:46:40](https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily) - [Slopstrap: Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/l)
 * [2026-11-20, 14:46:49](https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann) - [Levent Alpöge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf)
 
 ## [Archives](archives/index.md)
