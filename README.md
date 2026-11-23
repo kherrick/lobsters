@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-23, 22:18:18](https://lobste.rs/s/rz7m8a/strength_record) - [The Strength of the Record](https://web.archive.org/web/20210329070928/https://opencrux.com/blog/crux-strength-of-the-record.html)
 * [2026-11-23, 21:32:07](https://lobste.rs/s/fygpme/release_roto_v0_14_0) - [Release: Roto v0.14.0](https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511)
 * [2026-11-23, 20:57:00](https://lobste.rs/s/ik6f4o/bluetooth2shell_one_tap_pairing_is_all_it) - [Bluetooth2Shell: One tap of pairing is all it takes](https://bluetooth2shell.com/)
 * [2026-11-23, 20:45:29](https://lobste.rs/s/xxgezw/illiterate_programming) - [Illiterate Programming](https://deadsimpletech.com/blog/illiterate-programming)
@@ -18,7 +19,6 @@
 * [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue_2023) - [On self-healing code and the obvious issue (2023)](https://gynvael.coldwind.pl/?id=766)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-23, 03:15:06](https://lobste.rs/s/l8u1tj/good_morning_welcome_my_idea_new_web) - [Good morning and welcome to my idea of a new web](https://dave.writersweb.org/index.md)
-* [2026-11-23, 03:02:13](https://lobste.rs/s/rvvt6x/de_fanging_dangerous_triggers_github) - [De-fanging dangerous triggers in GitHub Actions across an organization](https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html)
 * [2026-11-22, 21:49:18](https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml) - [GitHub Actions accepts invalid YAML](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
 * [2026-11-22, 21:44:04](https://lobste.rs/s/g5msf2/testing_terraform_with_aws_emulator) - [Testing Terraform with AWS Emulator](https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/)
 * [2026-11-22, 20:10:15](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop) - [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)
