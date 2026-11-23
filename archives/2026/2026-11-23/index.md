@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 16:13:03](https://lobste.rs/s/h6webg/ladybird_is_now_alpha) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
+* [2026-11-23, 16:10:59](https://lobste.rs/s/ewggds/my_django_on_med_2026) - [My Django on the Med 2026](https://www.paulox.net/2026/11/23/my-django-on-the-med-2026/)
 * [2026-11-23, 15:16:31](https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki) - [Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell](https://lambdacreate.com/posts/held-together-by-spare-time)
 * [2026-11-23, 15:01:37](https://lobste.rs/s/8g6qyx/reverse_engineering_board_game) - [Reverse Engineering a Board Game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-11-23, 13:35:15](https://lobste.rs/s/tw4dds/toolsmith) - [The Toolsmith](https://blog.fsck.com/2026/11/17/toolsmith/)
