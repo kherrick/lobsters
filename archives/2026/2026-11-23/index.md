@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 20:45:29](https://lobste.rs/s/xxgezw/illiterate_programming) - [Illiterate Programming](https://deadsimpletech.com/blog/illiterate-programming)
 * [2026-11-23, 20:17:24](https://lobste.rs/s/znd1r1/you_would_be_supporting_local_paper) - [\"And You Would be Supporting a Local Paper\"](https://aphyr.com/posts/429-and-you-would-be-supporting-a-local-paper)
 * [2026-11-23, 20:01:46](https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message) - [UQ researchers send an unblockable message using gravity](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
 * [2026-11-23, 17:59:14](https://lobste.rs/s/7fscqs/let_s_meet_middle) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)

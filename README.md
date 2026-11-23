@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-23, 20:45:29](https://lobste.rs/s/xxgezw/illiterate_programming) - [Illiterate Programming](https://deadsimpletech.com/blog/illiterate-programming)
 * [2026-11-23, 20:01:46](https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message) - [UQ researchers send an unblockable message using gravity](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
 * [2026-11-23, 17:59:14](https://lobste.rs/s/7fscqs/let_s_meet_middle) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
 * [2026-11-23, 17:15:02](https://lobste.rs/s/wv9nhw/swapping_jolt_s_sorted_collections_b_tree) - [Swapping Jolt's sorted collections to a B+tree](https://yogthos.net/posts/2026-11-23-b+trees.html)
@@ -23,7 +24,6 @@
 * [2026-11-22, 19:13:26](https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts) - [scriptura: a cozy corner for your scripts](https://alanpearce.eu/post/scriptura/)
 * [2026-11-22, 18:17:44](https://lobste.rs/s/e89tey/calculate_radio_link_placement_node) - [Calculate radio link placement and node amount for your city's mesh network](https://meshcoveragecalculator.lalala.ing/)
 * [2026-11-22, 16:37:12](https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/)
-* [2026-11-22, 14:48:20](https://lobste.rs/s/yhl0jk/what_if_netscape_did_ssl_http_way) - [What If Netscape Did SSL the HTTP Way?](https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/)
 * [2026-11-22, 02:03:46](https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai) - [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
 
 ## [Archives](archives/index.md)
