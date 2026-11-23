@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
+* [2026-11-23, 11:00:25](https://lobste.rs/s/bjqpyu/bub_n_bros_bubble_bobble_remake_was_based) - [Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network](http://bubble.aiei.ch:8050/)
 * [2026-11-23, 10:40:21](https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog) - [Simple Sudoku Solver in Verilog](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html)
 * [2026-11-23, 10:37:34](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week)
 * [2026-11-23, 07:49:26](https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts) - [Steadfast Update II - Rewriting ASTs](https://noteflakes.com/articles/2026-11-22-steadfast-update-2)
@@ -23,8 +25,6 @@
 * [2026-11-21, 19:32:22](https://lobste.rs/s/pvylnk/how_i_got_postgres_into_single_binary) - [How I Got Postgres into a Single Binary](https://progrium.xyz/articles/2026/single-binary-postgres)
 * [2026-11-21, 15:17:18](https://lobste.rs/s/qxzs4y/todos_jj_style) - [TODOs JJ Style](https://bwc9876.dev/blog/jj_todo/)
 * [2026-11-21, 15:03:28](https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
-* [2026-11-21, 13:57:53](https://lobste.rs/s/fjueso/c_26_is_done_again_trip_report_november) - [C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
-* [2026-11-21, 12:22:47](https://lobste.rs/s/becitz/microsoft_365_outage_post_incident) - [Microsoft 365 Outage - Post Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf)
 
 ## [Archives](archives/index.md)
 

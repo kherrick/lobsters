@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
+* [2026-11-23, 11:00:25](https://lobste.rs/s/bjqpyu/bub_n_bros_bubble_bobble_remake_was_based) - [Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network](http://bubble.aiei.ch:8050/)
 * [2026-11-23, 10:40:21](https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog) - [Simple Sudoku Solver in Verilog](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html)
 * [2026-11-23, 10:37:34](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week)
 * [2026-11-23, 07:49:26](https://lobste.rs/s/tmehas/steadfast_update_ii_rewriting_asts) - [Steadfast Update II - Rewriting ASTs](https://noteflakes.com/articles/2026-11-22-steadfast-update-2)
