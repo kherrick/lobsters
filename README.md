@@ -6,7 +6,6 @@
 * [2026-11-23, 16:10:59](https://lobste.rs/s/ewggds/my_django_on_med_2026) - [My Django on the Med 2026](https://www.paulox.net/2026/11/23/my-django-on-the-med-2026/)
 * [2026-11-23, 15:16:31](https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki) - [Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell](https://lambdacreate.com/posts/held-together-by-spare-time)
 * [2026-11-23, 15:01:37](https://lobste.rs/s/8g6qyx/reverse_engineering_board_game) - [Reverse Engineering a Board Game](https://wuemeli.com/blog/reversing-hitster-game/)
-* [2026-11-23, 13:10:31](https://lobste.rs/s/uqd28a/gpp_build_on_go_with_classes_generics) - [GPP -- Build on Go with classes, generics, exceptions, and more](https://gpp.telga.in)
 * [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
 * [2026-11-23, 11:00:25](https://lobste.rs/s/bjqpyu/bub_n_bros_bubble_bobble_remake_was_based) - [Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network](http://bubble.aiei.ch:8050/)
 * [2026-11-23, 10:40:21](https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog) - [Simple Sudoku Solver in Verilog](https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html)
@@ -25,6 +24,7 @@
 * [2026-11-22, 16:37:12](https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/)
 * [2026-11-22, 14:48:20](https://lobste.rs/s/yhl0jk/what_if_netscape_did_ssl_http_way) - [What If Netscape Did SSL the HTTP Way?](https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/)
 * [2026-11-22, 02:03:46](https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai) - [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
+* [2026-11-22, 00:30:07](https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board) - [NixOS bring-up on an Alibaba RISC-V board](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/)
 
 ## [Archives](archives/index.md)
 
