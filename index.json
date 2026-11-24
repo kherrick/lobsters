@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 18:27:49",
+      "https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking"
+    ],
+    [
+      "Fund browser-grade certificate checking for every TLS client",
+      "https://upki.rustls.dev/funding.html"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 18:11:49",
       "https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing"
     ],
@@ -177,16 +187,6 @@
     [
       "UQ researchers send an unblockable message using gravity",
       "https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 17:15:02",
-      "https://lobste.rs/s/wv9nhw/swapping_jolt_s_sorted_collections_b_tree"
-    ],
-    [
-      "Swapping Jolt's sorted collections to a B+tree",
-      "https://yogthos.net/posts/2026-11-23-b+trees.html"
     ]
   ],
   [
