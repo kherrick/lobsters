@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
 * [2026-11-24, 17:45:29](https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source) - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
 * [2026-11-24, 17:19:10](https://lobste.rs/s/qrhnbc/go_without_wires_tinygo_on_esp32) - [Go Without Wires: TinyGo on ESP32](https://www.youtube.com/watch?v=Vi5M-uD2x_U)
 * [2026-11-24, 16:35:47](https://lobste.rs/s/w3zni2/seastore_redesigning_ceph_s_storage) - [SeaStore: Redesigning Ceph’s Storage Backend for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
