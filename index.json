@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-24, 14:07:02",
+      "https://lobste.rs/s/c1vzom/proof_effort"
+    ],
+    [
+      "The proof of effort",
+      "https://blog.tadzik.net/the-proof-of-effort.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 14:06:14",
+      "https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via"
+    ],
+    [
+      "iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection",
+      "https://ii4gsp.github.io/iterm2-rce/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 10:50:52",
       "https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg"
     ],
@@ -67,16 +87,6 @@
     [
       "cgo's pointer check is all over the place",
       "https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 22:18:18",
-      "https://lobste.rs/s/rz7m8a/strength_record"
-    ],
-    [
-      "The Strength of the Record",
-      "https://web.archive.org/web/20210329070928/https://opencrux.com/blog/crux-strength-of-the-record.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Quality IMAP, Part 2: Mailbox Concurrency",
       "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 10:40:21",
-      "https://lobste.rs/s/nh5bob/simple_sudoku_solver_verilog"
-    ],
-    [
-      "Simple Sudoku Solver in Verilog",
-      "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html"
     ]
   ],
   [
