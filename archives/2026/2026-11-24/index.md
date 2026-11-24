@@ -7,6 +7,7 @@
 * [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-24, 22:05:30](https://lobste.rs/s/7vm8mk/deep_dive_into_jvm_start_up_2025) - [A Deep Dive into JVM Start-up (2025)](https://inside.java/2025/01/28/jvm-start-up/)
 * [2026-11-24, 20:01:07](https://lobste.rs/s/to5j9p/metro_documentary_on_microsoft_s_boldest) - [metro: The Documentary on Microsoft's Boldest Design](https://youtu.be/MYyyhAhHgT8)
+* [2026-11-24, 19:56:25](https://lobste.rs/s/0evm15/splitting_usb_c_usb_3_usb_2_on_one_port) - [Splitting USB-C: USB 3 and USB 2 on One Port](https://frankchiarulli.com/blog/splitting-usb-c/)
 * [2026-11-24, 18:45:22](https://lobste.rs/s/beyzsq/security_tax_reclaiming_30_performance) - [The \"Security Tax\": Reclaiming 30% Performance in WSL 2](https://tonym.us/wsl2-security-tax-reclaiming-performance)
 * [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-24, 18:27:49](https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking) - [Fund browser-grade certificate checking for every TLS client](https://upki.rustls.dev/funding.html)
