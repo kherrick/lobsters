@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-24, 17:45:29](https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source) - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
 * [2026-11-24, 17:19:10](https://lobste.rs/s/qrhnbc/go_without_wires_tinygo_on_esp32) - [Go Without Wires: TinyGo on ESP32](https://www.youtube.com/watch?v=Vi5M-uD2x_U)
 * [2026-11-24, 16:35:47](https://lobste.rs/s/w3zni2/seastore_redesigning_ceph_s_storage) - [SeaStore: Redesigning Ceph’s Storage Backend for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
 * [2026-11-24, 16:26:44](https://lobste.rs/s/xst6fv/nightmare_mode_simulating_disk_failures) - [Nightmare mode: simulating disk failures](https://antithesis.com/blog/2026/nightmare-mode/)
@@ -16,7 +17,6 @@
 * [2026-11-23, 21:32:07](https://lobste.rs/s/fygpme/release_roto_v0_14_0) - [Release: Roto v0.14.0](https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511)
 * [2026-11-23, 20:45:29](https://lobste.rs/s/xxgezw/illiterate_programming) - [Illiterate Programming](https://deadsimpletech.com/blog/illiterate-programming)
 * [2026-11-23, 20:01:46](https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message) - [UQ researchers send an unblockable message using gravity](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
-* [2026-11-23, 17:59:14](https://lobste.rs/s/7fscqs/let_s_meet_middle) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
 * [2026-11-23, 17:15:02](https://lobste.rs/s/wv9nhw/swapping_jolt_s_sorted_collections_b_tree) - [Swapping Jolt's sorted collections to a B+tree](https://yogthos.net/posts/2026-11-23-b+trees.html)
 * [2026-11-23, 16:20:21](https://lobste.rs/s/pdecff/sneakernet) - [Sneakernet](https://sneakernet.eu/)
 * [2026-11-23, 16:13:03](https://lobste.rs/s/h6webg/ladybird_is_now_alpha) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
