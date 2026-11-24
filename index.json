@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 00:51:41",
+      "https://lobste.rs/s/n2krd2/algebra_dependent_types_2025"
+    ],
+    [
+      "the algebra of dependent types (2025)",
+      "https://dotat.at/@/2025-05-28-types.html"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 00:22:05",
       "https://lobste.rs/s/ezml41/lua_for_data_representation"
     ],
@@ -197,16 +207,6 @@
     [
       "GitHub Actions accepts invalid YAML",
       "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 21:44:04",
-      "https://lobste.rs/s/g5msf2/testing_terraform_with_aws_emulator"
-    ],
-    [
-      "Testing Terraform with AWS Emulator",
-      "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/"
     ]
   ],
   [
