@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 02:10:30](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes) - [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
 * [2026-11-24, 00:51:41](https://lobste.rs/s/n2krd2/algebra_dependent_types_2025) - [the algebra of dependent types (2025)](https://dotat.at/@/2025-05-28-types.html)
 * [2026-11-24, 00:22:05](https://lobste.rs/s/ezml41/lua_for_data_representation) - [Lua for data representation](https://citrons.xyz/journal/2025-07-23)
@@ -22,7 +23,6 @@
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-22, 21:49:18](https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml) - [GitHub Actions accepts invalid YAML](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
 * [2026-11-22, 20:10:15](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop) - [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)
-* [2026-11-22, 19:13:26](https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts) - [scriptura: a cozy corner for your scripts](https://alanpearce.eu/post/scriptura/)
 * [2026-11-22, 16:37:12](https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/)
 * [2026-11-22, 02:03:46](https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai) - [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
 
