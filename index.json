@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 22:05:30",
+      "https://lobste.rs/s/7vm8mk/deep_dive_into_jvm_start_up_2025"
+    ],
+    [
+      "A Deep Dive into JVM Start-up (2025)",
+      "https://inside.java/2025/01/28/jvm-start-up/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 20:01:07",
       "https://lobste.rs/s/to5j9p/metro_documentary_on_microsoft_s_boldest"
     ],
@@ -17,6 +27,16 @@
     [
       "9/UX: a Macintosh-inspired desktop for 9front",
       "https://progrium.github.io/9ux/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 18:27:49",
+      "https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking"
+    ],
+    [
+      "Fund browser-grade certificate checking for every TLS client",
+      "https://upki.rustls.dev/funding.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-11-23, 20:45:29",
-      "https://lobste.rs/s/xxgezw/illiterate_programming"
-    ],
-    [
-      "Illiterate Programming",
-      "https://deadsimpletech.com/blog/illiterate-programming"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 20:01:46",
       "https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message"
     ],
@@ -227,16 +237,6 @@
     [
       "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
       "https://lambdacreate.com/posts/held-together-by-spare-time"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 11:05:08",
-      "https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency"
-    ],
-    [
-      "Quality IMAP, Part 2: Mailbox Concurrency",
-      "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/"
     ]
   ],
   [
