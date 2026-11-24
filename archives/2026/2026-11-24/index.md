@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 10:50:52](https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 10:35:19](https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit) - [Bypassing iOS Safari 60 FPS Limit](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-24, 08:39:33](https://lobste.rs/s/uf8vxo/there_s_no_reason_for_software_be_slow) - [There's no reason for software to be slow anymore](https://danluu.com/no-slow/)
 * [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
