@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-24, 22:05:30](https://lobste.rs/s/7vm8mk/deep_dive_into_jvm_start_up_2025) - [A Deep Dive into JVM Start-up (2025)](https://inside.java/2025/01/28/jvm-start-up/)
 * [2026-11-24, 20:01:07](https://lobste.rs/s/to5j9p/metro_documentary_on_microsoft_s_boldest) - [metro: The Documentary on Microsoft's Boldest Design](https://youtu.be/MYyyhAhHgT8)
 * [2026-11-24, 18:45:22](https://lobste.rs/s/beyzsq/security_tax_reclaiming_30_performance) - [The \"Security Tax\": Reclaiming 30% Performance in WSL 2](https://tonym.us/wsl2-security-tax-reclaiming-performance)
