@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 14:07:02](https://lobste.rs/s/c1vzom/proof_effort) - [The proof of effort](https://blog.tadzik.net/the-proof-of-effort.html)
+* [2026-11-24, 14:06:14](https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via) - [iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection](https://ii4gsp.github.io/iterm2-rce/)
 * [2026-11-24, 10:50:52](https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 10:35:19](https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit) - [Bypassing iOS Safari 60 FPS Limit](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-24, 08:39:33](https://lobste.rs/s/uf8vxo/there_s_no_reason_for_software_be_slow) - [There's no reason for software to be slow anymore](https://danluu.com/no-slow/)
