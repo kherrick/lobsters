@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-24, 18:45:22](https://lobste.rs/s/beyzsq/security_tax_reclaiming_30_performance) - [The \"Security Tax\": Reclaiming 30% Performance in WSL 2](https://tonym.us/wsl2-security-tax-reclaiming-performance)
+* [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
 * [2026-11-24, 17:45:29](https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source) - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
 * [2026-11-24, 17:19:10](https://lobste.rs/s/qrhnbc/go_without_wires_tinygo_on_esp32) - [Go Without Wires: TinyGo on ESP32](https://www.youtube.com/watch?v=Vi5M-uD2x_U)
@@ -9,7 +10,6 @@
 * [2026-11-24, 15:22:24](https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17) - [I checked Clojure's core with Lean and found 17 unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-24, 14:52:19](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm) - [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)
 * [2026-11-24, 14:06:14](https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via) - [iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection](https://ii4gsp.github.io/iterm2-rce/)
-* [2026-11-24, 10:50:52](https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 10:35:19](https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit) - [Bypassing iOS Safari 60 FPS Limit](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 02:10:30](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes) - [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
