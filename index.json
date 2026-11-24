@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 17:19:10",
+      "https://lobste.rs/s/qrhnbc/go_without_wires_tinygo_on_esp32"
+    ],
+    [
+      "Go Without Wires: TinyGo on ESP32",
+      "https://www.youtube.com/watch?v=Vi5M-uD2x_U"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 16:35:47",
       "https://lobste.rs/s/w3zni2/seastore_redesigning_ceph_s_storage"
     ],
@@ -237,16 +247,6 @@
     [
       "GitHub Actions accepts invalid YAML",
       "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 20:10:15",
-      "https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"
-    ],
-    [
-      "Gliver completes the Guix desktop",
-      "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/"
     ]
   ]
 ]
