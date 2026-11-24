@@ -2,7 +2,6 @@
 
 * [2026-11-24, 10:50:52](https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 10:35:19](https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit) - [Bypassing iOS Safari 60 FPS Limit](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
-* [2026-11-24, 08:39:33](https://lobste.rs/s/uf8vxo/there_s_no_reason_for_software_be_slow) - [There's no reason for software to be slow anymore](https://danluu.com/no-slow/)
 * [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 02:10:30](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes) - [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
 * [2026-11-24, 00:51:41](https://lobste.rs/s/n2krd2/algebra_dependent_types_2025) - [the algebra of dependent types (2025)](https://dotat.at/@/2025-05-28-types.html)
@@ -16,6 +15,7 @@
 * [2026-11-23, 17:15:02](https://lobste.rs/s/wv9nhw/swapping_jolt_s_sorted_collections_b_tree) - [Swapping Jolt's sorted collections to a B+tree](https://yogthos.net/posts/2026-11-23-b+trees.html)
 * [2026-11-23, 16:20:21](https://lobste.rs/s/pdecff/sneakernet) - [Sneakernet](https://sneakernet.eu/)
 * [2026-11-23, 16:13:03](https://lobste.rs/s/h6webg/ladybird_is_now_alpha) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
+* [2026-11-23, 16:10:59](https://lobste.rs/s/ewggds/my_django_on_med_2026) - [My Django on the Med 2026](https://www.paulox.net/2026/11/23/my-django-on-the-med-2026/)
 * [2026-11-23, 15:16:31](https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki) - [Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell](https://lambdacreate.com/posts/held-together-by-spare-time)
 * [2026-11-23, 15:01:37](https://lobste.rs/s/8g6qyx/reverse_engineering_board_game) - [Reverse Engineering a Board Game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
