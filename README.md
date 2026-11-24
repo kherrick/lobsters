@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-24, 14:52:19](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm) - [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)
 * [2026-11-24, 14:07:02](https://lobste.rs/s/c1vzom/proof_effort) - [The proof of effort](https://blog.tadzik.net/the-proof-of-effort.html)
 * [2026-11-24, 14:06:14](https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via) - [iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection](https://ii4gsp.github.io/iterm2-rce/)
 * [2026-11-24, 10:50:52](https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
@@ -21,7 +22,6 @@
 * [2026-11-23, 15:01:37](https://lobste.rs/s/8g6qyx/reverse_engineering_board_game) - [Reverse Engineering a Board Game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
 * [2026-11-23, 10:37:34](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week)
-* [2026-11-23, 07:46:17](https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue_2023) - [On self-healing code and the obvious issue (2023)](https://gynvael.coldwind.pl/?id=766)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-22, 21:49:18](https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml) - [GitHub Actions accepts invalid YAML](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
 * [2026-11-22, 20:10:15](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop) - [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)

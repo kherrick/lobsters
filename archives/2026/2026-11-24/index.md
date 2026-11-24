@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 14:52:19](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm) - [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)
 * [2026-11-24, 14:07:02](https://lobste.rs/s/c1vzom/proof_effort) - [The proof of effort](https://blog.tadzik.net/the-proof-of-effort.html)
 * [2026-11-24, 14:06:14](https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via) - [iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection](https://ii4gsp.github.io/iterm2-rce/)
 * [2026-11-24, 10:50:52](https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
