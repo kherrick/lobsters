@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2026-11-23, 11:05:08",
+      "https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency"
+    ],
+    [
+      "Quality IMAP, Part 2: Mailbox Concurrency",
+      "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 07:44:09",
       "https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"
     ],
     [
       "Signal is Serious About Protecting Your Privacy",
       "https://signal.org/blog/protecting-your-privacy/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 21:49:18",
-      "https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml"
-    ],
-    [
-      "GitHub Actions accepts invalid YAML",
-      "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/"
     ]
   ]
 ]
