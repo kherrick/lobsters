@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 10:35:19",
+      "https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit"
+    ],
+    [
+      "Bypassing iOS Safari 60 FPS Limit",
+      "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 08:39:33",
       "https://lobste.rs/s/uf8vxo/there_s_no_reason_for_software_be_slow"
     ],
@@ -237,16 +247,6 @@
     [
       "Gliver completes the Guix desktop",
       "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 16:37:12",
-      "https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about"
-    ],
-    [
-      "Falsehoods Programmers Believe About ATProto",
-      "https://reiver.link/atproto/falsehoods-programmers-believe/"
     ]
   ]
 ]
