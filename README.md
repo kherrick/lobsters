@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-24, 20:01:07](https://lobste.rs/s/to5j9p/metro_documentary_on_microsoft_s_boldest) - [metro: The Documentary on Microsoft's Boldest Design](https://youtu.be/MYyyhAhHgT8)
 * [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
 * [2026-11-24, 17:45:29](https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source) - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
@@ -22,7 +23,6 @@
 * [2026-11-23, 16:20:21](https://lobste.rs/s/pdecff/sneakernet) - [Sneakernet](https://sneakernet.eu/)
 * [2026-11-23, 16:13:03](https://lobste.rs/s/h6webg/ladybird_is_now_alpha) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 15:16:31](https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki) - [Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell](https://lambdacreate.com/posts/held-together-by-spare-time)
-* [2026-11-23, 11:05:08](https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency) - [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-22, 21:49:18](https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml) - [GitHub Actions accepts invalid YAML](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
 

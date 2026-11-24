@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 20:01:07](https://lobste.rs/s/to5j9p/metro_documentary_on_microsoft_s_boldest) - [metro: The Documentary on Microsoft's Boldest Design](https://youtu.be/MYyyhAhHgT8)
 * [2026-11-24, 18:45:22](https://lobste.rs/s/beyzsq/security_tax_reclaiming_30_performance) - [The \"Security Tax\": Reclaiming 30% Performance in WSL 2](https://tonym.us/wsl2-security-tax-reclaiming-performance)
 * [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-24, 18:27:49](https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking) - [Fund browser-grade certificate checking for every TLS client](https://upki.rustls.dev/funding.html)
