@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-24, 17:19:10](https://lobste.rs/s/qrhnbc/go_without_wires_tinygo_on_esp32) - [Go Without Wires: TinyGo on ESP32](https://www.youtube.com/watch?v=Vi5M-uD2x_U)
 * [2026-11-24, 16:35:47](https://lobste.rs/s/w3zni2/seastore_redesigning_ceph_s_storage) - [SeaStore: Redesigning Ceph’s Storage Backend for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
 * [2026-11-24, 16:26:44](https://lobste.rs/s/xst6fv/nightmare_mode_simulating_disk_failures) - [Nightmare mode: simulating disk failures](https://antithesis.com/blog/2026/nightmare-mode/)
 * [2026-11-24, 15:22:24](https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17) - [I checked Clojure's core with Lean and found 17 unreported bugs](https://s.conao3.com/blog/2026/e4f733)
@@ -24,7 +25,6 @@
 * [2026-11-23, 10:37:34](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-22, 21:49:18](https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml) - [GitHub Actions accepts invalid YAML](https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/)
-* [2026-11-22, 20:10:15](https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop) - [Gliver completes the Guix desktop](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/)
 
 ## [Archives](archives/index.md)
 
