@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 04:23:25",
+      "https://lobste.rs/s/zc12ap/showing_messagebox_from_kernel_mode"
+    ],
+    [
+      "Showing a MessageBox from kernel-mode",
+      "https://vollragm.github.io/posts/kernel-message-box/"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 04:15:22",
       "https://lobste.rs/s/ohh8pd/multiagent_coding_is_future"
     ],
@@ -107,16 +117,6 @@
     [
       "Beyond Linux: A Journey Through the Open Source Ecosystem",
       "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 17:19:10",
-      "https://lobste.rs/s/qrhnbc/go_without_wires_tinygo_on_esp32"
-    ],
-    [
-      "Go Without Wires: TinyGo on ESP32",
-      "https://www.youtube.com/watch?v=Vi5M-uD2x_U"
     ]
   ],
   [
