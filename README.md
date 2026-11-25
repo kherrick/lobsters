@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-25, 00:02:36](https://lobste.rs/s/l7fel2/dutch_data_protection_authority_advises) - [Dutch data protection authority advises against purchasing AI camera glasses](https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders)
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
 * [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
-* [2026-11-24, 20:01:07](https://lobste.rs/s/to5j9p/metro_documentary_on_microsoft_s_boldest) - [metro: The Documentary on Microsoft's Boldest Design](https://youtu.be/MYyyhAhHgT8)
 * [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-24, 18:27:49](https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking) - [Fund browser-grade certificate checking for every TLS client](https://upki.rustls.dev/funding.html)
 * [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
