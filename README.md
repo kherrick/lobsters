@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-25, 21:52:52](https://lobste.rs/s/ilit8q/scott_aaronson_on_recent_complexity) - [Scott Aaronson on recent complexity theory AI achievements](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 20:46:55](https://lobste.rs/s/pceggz/mockitdown_examples_user_interface) - [mockitdown examples - user-interface mockup language like SwiftUI](https://bbogovich.github.io/mockitdown/demos/)
 * [2026-11-25, 20:10:24](https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 * [2026-11-25, 17:43:13](https://lobste.rs/s/aulbi2/update_on_security_incident_involving) - [Update on a security incident involving 1Password’s backend systems](https://1password.com/blog/update-on-nov-2026-security-incident)
@@ -19,7 +20,6 @@
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
 * [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
-* [2026-11-24, 18:27:49](https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking) - [Fund browser-grade certificate checking for every TLS client](https://upki.rustls.dev/funding.html)
 * [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
 * [2026-11-24, 17:45:29](https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source) - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
 * [2026-11-24, 15:22:24](https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17) - [I checked Clojure's core with Lean and found 17 unreported bugs](https://s.conao3.com/blog/2026/e4f733)
