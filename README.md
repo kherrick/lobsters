@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-25, 23:28:57](https://lobste.rs/s/mzffbj/designing_for_sense_mystery_wonder_2021) - [Designing for a Sense of Mystery and Wonder (2021)](https://blog.runevision.com/2021/02/designing-for-sense-of-mystery-and.html)
 * [2026-11-25, 22:55:47](https://lobste.rs/s/rtde6f/ssh_is_gui_framework) - [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
 * [2026-11-25, 22:48:44](https://lobste.rs/s/l6g7j1/typed_indexes_zig) - [Typed indexes in Zig](https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/)
 * [2026-11-25, 22:43:05](https://lobste.rs/s/8rgqmw/entering_geminispace) - [Entering the Geminispace](https://jmmv.dev/2026/11/entering-the-geminispace.html)
@@ -16,7 +17,6 @@
 * [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 * [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 * [2026-11-25, 00:02:36](https://lobste.rs/s/l7fel2/dutch_data_protection_authority_advises) - [Dutch data protection authority advises against purchasing AI camera glasses](https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders)
-* [2026-11-24, 23:53:03](https://lobste.rs/s/qavfgc/faster_algorithm_for_extracting) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
 * [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)

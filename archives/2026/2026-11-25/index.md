@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 23:28:57](https://lobste.rs/s/mzffbj/designing_for_sense_mystery_wonder_2021) - [Designing for a Sense of Mystery and Wonder (2021)](https://blog.runevision.com/2021/02/designing-for-sense-of-mystery-and.html)
 * [2026-11-25, 22:55:47](https://lobste.rs/s/rtde6f/ssh_is_gui_framework) - [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
 * [2026-11-25, 22:48:44](https://lobste.rs/s/l6g7j1/typed_indexes_zig) - [Typed indexes in Zig](https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/)
 * [2026-11-25, 22:43:05](https://lobste.rs/s/8rgqmw/entering_geminispace) - [Entering the Geminispace](https://jmmv.dev/2026/11/entering-the-geminispace.html)
