@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 21:52:52",
+      "https://lobste.rs/s/ilit8q/scott_aaronson_on_recent_complexity"
+    ],
+    [
+      "Scott Aaronson on recent complexity theory AI achievements",
+      "https://scottaaronson.blog/?p=10379"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 20:46:55",
       "https://lobste.rs/s/pceggz/mockitdown_examples_user_interface"
     ],
@@ -187,16 +197,6 @@
     [
       "9/UX: a Macintosh-inspired desktop for 9front",
       "https://progrium.github.io/9ux/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 18:27:49",
-      "https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking"
-    ],
-    [
-      "Fund browser-grade certificate checking for every TLS client",
-      "https://upki.rustls.dev/funding.html"
     ]
   ],
   [
