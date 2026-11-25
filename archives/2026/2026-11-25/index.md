@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 17:43:13](https://lobste.rs/s/aulbi2/update_on_security_incident_involving) - [Update on a security incident involving 1Password’s backend systems](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 14:31:31](https://lobste.rs/s/tf9ldm/october_servo_video_captions_inert) - [October in Servo: video captions and inert content](https://servo.org/blog/2026/11/25/october-in-servo/)
 * [2026-11-25, 13:28:55](https://lobste.rs/s/7x2mrq/getting_old_java_phones_online_again) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-25, 13:09:22](https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver) - [Optimizing Rustc's next trait solver](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
