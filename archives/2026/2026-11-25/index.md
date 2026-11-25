@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 20:46:55](https://lobste.rs/s/pceggz/mockitdown_examples_user_interface) - [mockitdown examples - user-interface mockup language like SwiftUI](https://bbogovich.github.io/mockitdown/demos/)
 * [2026-11-25, 20:31:21](https://lobste.rs/s/xfxawt/senix_towards_selinux_on_nixos) - [SENix: Towards SELinux on NixOS](https://discourse.nixos.org/t/senix-towards-selinux-on-nixos/81418)
 * [2026-11-25, 20:10:24](https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 * [2026-11-25, 17:43:13](https://lobste.rs/s/aulbi2/update_on_security_incident_involving) - [Update on a security incident involving 1Password’s backend systems](https://1password.com/blog/update-on-nov-2026-security-incident)
