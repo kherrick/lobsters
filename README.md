@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-25, 10:52:53](https://lobste.rs/s/fxfl8u/writing_turn_based_game_websocket_server) - [Writing a Turn Based Game Websocket Server in Haskell](https://blog.gordo.life/2026/04/12/haskell-websockets.html)
 * [2026-11-25, 10:27:49](https://lobste.rs/s/ogxwpi/taking_over_us_treasury_subdomains_for_3) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
 * [2026-11-25, 07:03:53](https://lobste.rs/s/5gefep/needles_haystacks_numbers_between_0_1) - [Needles, Haystacks, and Numbers Between 0 and 1](https://rustfoundation.org/media/needles-haystacks-and-numbers-between-0-and-1/)
 * [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
@@ -16,7 +17,6 @@
 * [2026-11-24, 18:27:49](https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking) - [Fund browser-grade certificate checking for every TLS client](https://upki.rustls.dev/funding.html)
 * [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
 * [2026-11-24, 17:45:29](https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source) - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
-* [2026-11-24, 16:26:44](https://lobste.rs/s/xst6fv/nightmare_mode_simulating_disk_failures) - [Nightmare mode: simulating disk failures](https://antithesis.com/blog/2026/nightmare-mode/)
 * [2026-11-24, 15:22:24](https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17) - [I checked Clojure's core with Lean and found 17 unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-24, 14:52:19](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm) - [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)
 * [2026-11-24, 14:06:14](https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via) - [iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection](https://ii4gsp.github.io/iterm2-rce/)
