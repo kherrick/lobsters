@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-25, 07:03:53](https://lobste.rs/s/5gefep/needles_haystacks_numbers_between_0_1) - [Needles, Haystacks, and Numbers Between 0 and 1](https://rustfoundation.org/media/needles-haystacks-and-numbers-between-0-and-1/)
 * [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 * [2026-11-25, 06:11:39](https://lobste.rs/s/n0itvf/flat_non_higher_order_construction_anf) - [Flat/non-higher-order construction of ANF via mutable holes](https://blueberrywren.dev/blog/anf-mutable/)
 * [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 * [2026-11-25, 03:15:59](https://lobste.rs/s/kn0pmh/matrix_multiplication_is_n_2_25) - [Matrix Multiplication is Θ(n^2.25)](https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 * [2026-11-25, 02:04:56](https://lobste.rs/s/qblr8z/frstpm_completely_useless_80287) - [FRSTPM, a completely useless 80287 instruction?](https://www.os2museum.com/wp/a-completely-useless-instruction/)
+* [2026-11-25, 00:02:36](https://lobste.rs/s/l7fel2/dutch_data_protection_authority_advises) - [Dutch data protection authority advises against purchasing AI camera glasses](https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders)
 * [2026-11-24, 23:53:03](https://lobste.rs/s/qavfgc/faster_algorithm_for_extracting) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
 * [2026-11-24, 23:52:41](https://lobste.rs/s/khb1yv/from_formal_verification_bug_finding) - [From formal verification to bug-finding in CHERIoT](https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html)
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
@@ -22,9 +24,7 @@
 * [2026-11-24, 02:10:30](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes) - [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
 * [2026-11-24, 00:22:05](https://lobste.rs/s/ezml41/lua_for_data_representation) - [Lua for data representation](https://citrons.xyz/journal/2025-07-23)
 * [2026-11-23, 23:36:14](https://lobste.rs/s/fgbvtt/cgo_s_pointer_check_is_all_over_place) - [cgo's pointer check is all over the place](https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html)
-* [2026-11-23, 16:20:21](https://lobste.rs/s/pdecff/sneakernet) - [Sneakernet](https://sneakernet.eu/)
 * [2026-11-23, 16:13:03](https://lobste.rs/s/h6webg/ladybird_is_now_alpha) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
-* [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 
 ## [Archives](archives/index.md)
 
