@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-24, 23:52:41](https://lobste.rs/s/khb1yv/from_formal_verification_bug_finding) - [From formal verification to bug-finding in CHERIoT](https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html)
+* [2026-11-24, 23:51:00](https://lobste.rs/s/0al7hs/gpt_6_2_astra_solves_historical_mystery) - [GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/)
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
 * [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
@@ -17,7 +18,6 @@
 * [2026-11-24, 10:35:19](https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit) - [Bypassing iOS Safari 60 FPS Limit](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 02:10:30](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes) - [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
-* [2026-11-24, 00:51:41](https://lobste.rs/s/n2krd2/algebra_dependent_types_2025) - [the algebra of dependent types (2025)](https://dotat.at/@/2025-05-28-types.html)
 * [2026-11-24, 00:22:05](https://lobste.rs/s/ezml41/lua_for_data_representation) - [Lua for data representation](https://citrons.xyz/journal/2025-07-23)
 * [2026-11-23, 23:36:14](https://lobste.rs/s/fgbvtt/cgo_s_pointer_check_is_all_over_place) - [cgo's pointer check is all over the place](https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html)
 * [2026-11-23, 20:01:46](https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message) - [UQ researchers send an unblockable message using gravity](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
