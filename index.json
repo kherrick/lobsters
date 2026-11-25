@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 22:55:47",
+      "https://lobste.rs/s/rtde6f/ssh_is_gui_framework"
+    ],
+    [
+      "SSH is a GUI framework",
+      "https://zydra.sh/articles/ssh-is-a-gui-framework/"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 22:48:44",
       "https://lobste.rs/s/l6g7j1/typed_indexes_zig"
     ],
@@ -17,6 +27,16 @@
     [
       "Entering the Geminispace",
       "https://jmmv.dev/2026/11/entering-the-geminispace.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 22:26:56",
+      "https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof"
+    ],
+    [
+      "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
+      "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-11-25, 10:52:53",
-      "https://lobste.rs/s/fxfl8u/writing_turn_based_game_websocket_server"
-    ],
-    [
-      "Writing a Turn Based Game Websocket Server in Haskell",
-      "https://blog.gordo.life/2026/04/12/haskell-websockets.html"
-    ]
-  ],
-  [
-    [
       "2026-11-25, 10:27:49",
       "https://lobste.rs/s/ogxwpi/taking_over_us_treasury_subdomains_for_3"
     ],
@@ -157,16 +167,6 @@
     [
       "A faster algorithm for extracting hexadecimal digits of π",
       "https://www.stylewarning.com/posts/faster-digit-extraction/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 23:52:41",
-      "https://lobste.rs/s/khb1yv/from_formal_verification_bug_finding"
-    ],
-    [
-      "From formal verification to bug-finding in CHERIoT",
-      "https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html"
     ]
   ],
   [
