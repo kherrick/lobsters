@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 20:46:55",
+      "https://lobste.rs/s/pceggz/mockitdown_examples_user_interface"
+    ],
+    [
+      "mockitdown examples - user-interface mockup language like SwiftUI",
+      "https://bbogovich.github.io/mockitdown/demos/"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 20:31:21",
       "https://lobste.rs/s/xfxawt/senix_towards_selinux_on_nixos"
     ],
@@ -187,16 +197,6 @@
     [
       "9/UX: a Macintosh-inspired desktop for 9front",
       "https://progrium.github.io/9ux/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 18:27:49",
-      "https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking"
-    ],
-    [
-      "Fund browser-grade certificate checking for every TLS client",
-      "https://upki.rustls.dev/funding.html"
     ]
   ],
   [
