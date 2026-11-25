@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 13:28:55](https://lobste.rs/s/7x2mrq/getting_old_java_phones_online_again) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-25, 13:09:22](https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver) - [Optimizing Rustc's next trait solver](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
 * [2026-11-25, 10:52:53](https://lobste.rs/s/fxfl8u/writing_turn_based_game_websocket_server) - [Writing a Turn Based Game Websocket Server in Haskell](https://blog.gordo.life/2026/04/12/haskell-websockets.html)
 * [2026-11-25, 10:27:49](https://lobste.rs/s/ogxwpi/taking_over_us_treasury_subdomains_for_3) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
