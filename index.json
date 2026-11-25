@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 22:26:56",
+      "https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof"
+    ],
+    [
+      "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
+      "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 21:52:52",
       "https://lobste.rs/s/ilit8q/scott_aaronson_on_recent_complexity"
     ],
@@ -107,16 +117,6 @@
     [
       "Marginalia Search, Money, C++, Rust, AI, stuff",
       "https://www.marginalia.nu/log/a_141_marginalia_update/"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 06:11:39",
-      "https://lobste.rs/s/n0itvf/flat_non_higher_order_construction_anf"
-    ],
-    [
-      "Flat/non-higher-order construction of ANF via mutable holes",
-      "https://blueberrywren.dev/blog/anf-mutable/"
     ]
   ],
   [
