@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-24, 23:53:03](https://lobste.rs/s/qavfgc/faster_algorithm_for_extracting) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
 * [2026-11-24, 23:52:41](https://lobste.rs/s/khb1yv/from_formal_verification_bug_finding) - [From formal verification to bug-finding in CHERIoT](https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html)
 * [2026-11-24, 23:51:00](https://lobste.rs/s/0al7hs/gpt_6_2_astra_solves_historical_mystery) - [GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/)
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
 * [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
+* [2026-11-24, 22:05:30](https://lobste.rs/s/7vm8mk/deep_dive_into_jvm_start_up_2025) - [A Deep Dive into JVM Start-up (2025)](https://inside.java/2025/01/28/jvm-start-up/)
 * [2026-11-24, 18:37:29](https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-24, 18:27:49](https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking) - [Fund browser-grade certificate checking for every TLS client](https://upki.rustls.dev/funding.html)
 * [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
@@ -14,7 +16,6 @@
 * [2026-11-24, 15:22:24](https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17) - [I checked Clojure's core with Lean and found 17 unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-24, 14:52:19](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm) - [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)
 * [2026-11-24, 14:06:14](https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via) - [iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection](https://ii4gsp.github.io/iterm2-rce/)
-* [2026-11-24, 10:50:52](https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 10:35:19](https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit) - [Bypassing iOS Safari 60 FPS Limit](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 02:10:30](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes) - [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
@@ -23,7 +24,6 @@
 * [2026-11-23, 20:01:46](https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message) - [UQ researchers send an unblockable message using gravity](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
 * [2026-11-23, 16:20:21](https://lobste.rs/s/pdecff/sneakernet) - [Sneakernet](https://sneakernet.eu/)
 * [2026-11-23, 16:13:03](https://lobste.rs/s/h6webg/ladybird_is_now_alpha) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
-* [2026-11-23, 15:16:31](https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki) - [Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell](https://lambdacreate.com/posts/held-together-by-spare-time)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 
 ## [Archives](archives/index.md)
