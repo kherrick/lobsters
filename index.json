@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-11-24, 22:05:30",
-      "https://lobste.rs/s/7vm8mk/deep_dive_into_jvm_start_up_2025"
-    ],
-    [
-      "A Deep Dive into JVM Start-up (2025)",
-      "https://inside.java/2025/01/28/jvm-start-up/"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 18:37:29",
       "https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for"
     ],
@@ -157,6 +147,16 @@
     [
       "iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection",
       "https://ii4gsp.github.io/iterm2-rce/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 10:50:52",
+      "https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg"
+    ],
+    [
+      "Worshipping at the altar of Brendan Gregg",
+      "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
     ]
   ],
   [
