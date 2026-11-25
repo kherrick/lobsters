@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-25, 10:27:49](https://lobste.rs/s/ogxwpi/taking_over_us_treasury_subdomains_for_3) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
 * [2026-11-25, 07:03:53](https://lobste.rs/s/5gefep/needles_haystacks_numbers_between_0_1) - [Needles, Haystacks, and Numbers Between 0 and 1](https://rustfoundation.org/media/needles-haystacks-and-numbers-between-0-and-1/)
 * [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 * [2026-11-25, 06:11:39](https://lobste.rs/s/n0itvf/flat_non_higher_order_construction_anf) - [Flat/non-higher-order construction of ANF via mutable holes](https://blueberrywren.dev/blog/anf-mutable/)
@@ -23,7 +24,6 @@
 * [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 02:10:30](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes) - [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
 * [2026-11-24, 00:22:05](https://lobste.rs/s/ezml41/lua_for_data_representation) - [Lua for data representation](https://citrons.xyz/journal/2025-07-23)
-* [2026-11-23, 23:36:14](https://lobste.rs/s/fgbvtt/cgo_s_pointer_check_is_all_over_place) - [cgo's pointer check is all over the place](https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html)
 * [2026-11-23, 16:13:03](https://lobste.rs/s/h6webg/ladybird_is_now_alpha) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 
 ## [Archives](archives/index.md)
