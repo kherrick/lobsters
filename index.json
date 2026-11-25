@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 13:09:22",
+      "https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver"
+    ],
+    [
+      "Optimizing Rustc's next trait solver",
+      "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 10:52:53",
       "https://lobste.rs/s/fxfl8u/writing_turn_based_game_websocket_server"
     ],
@@ -57,16 +67,6 @@
     [
       "Abolish Lock Poisoning",
       "https://lucumr.pocoo.org/2026/11/25/poisoning/"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 04:23:25",
-      "https://lobste.rs/s/zc12ap/showing_messagebox_from_kernel_mode"
-    ],
-    [
-      "Showing a MessageBox from kernel-mode",
-      "https://vollragm.github.io/posts/kernel-message-box/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-11-24, 16:26:44",
+      "https://lobste.rs/s/xst6fv/nightmare_mode_simulating_disk_failures"
+    ],
+    [
+      "Nightmare mode: simulating disk failures",
+      "https://antithesis.com/blog/2026/nightmare-mode/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 15:22:24",
       "https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17"
     ],
@@ -187,16 +197,6 @@
     [
       "Security incident on Hex.pm",
       "https://hex.pm/blog/security-incident-on-hexpm"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 14:06:14",
-      "https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via"
-    ],
-    [
-      "iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection",
-      "https://ii4gsp.github.io/iterm2-rce/"
     ]
   ],
   [
