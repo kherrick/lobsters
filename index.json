@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 23:53:03",
+      "https://lobste.rs/s/qavfgc/faster_algorithm_for_extracting"
+    ],
+    [
+      "A faster algorithm for extracting hexadecimal digits of π",
+      "https://www.stylewarning.com/posts/faster-digit-extraction/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 23:52:41",
       "https://lobste.rs/s/khb1yv/from_formal_verification_bug_finding"
     ],
@@ -37,6 +47,16 @@
     [
       "Why there are still no non-WebKit browsers on iOS",
       "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 22:05:30",
+      "https://lobste.rs/s/7vm8mk/deep_dive_into_jvm_start_up_2025"
+    ],
+    [
+      "A Deep Dive into JVM Start-up (2025)",
+      "https://inside.java/2025/01/28/jvm-start-up/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-11-24, 10:50:52",
-      "https://lobste.rs/s/voxuev/worshipping_at_altar_brendan_gregg"
-    ],
-    [
-      "Worshipping at the altar of Brendan Gregg",
-      "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 10:35:19",
       "https://lobste.rs/s/pxvmxo/bypassing_ios_safari_60_fps_limit"
     ],
@@ -227,16 +237,6 @@
     [
       "Ladybird is now in alpha",
       "https://ladybird.org/posts/alpha/"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 15:16:31",
-      "https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki"
-    ],
-    [
-      "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
-      "https://lambdacreate.com/posts/held-together-by-spare-time"
     ]
   ],
   [
