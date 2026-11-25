@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-25, 04:15:22](https://lobste.rs/s/ohh8pd/multiagent_coding_is_future) - [Multiagent coding is the future](https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/)
 * [2026-11-25, 03:15:59](https://lobste.rs/s/kn0pmh/matrix_multiplication_is_n_2_25) - [Matrix Multiplication is Θ(n^2.25)](https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 * [2026-11-25, 02:04:56](https://lobste.rs/s/qblr8z/frstpm_completely_useless_80287) - [FRSTPM, a completely useless 80287 instruction?](https://www.os2museum.com/wp/a-completely-useless-instruction/)
 * [2026-11-24, 23:53:03](https://lobste.rs/s/qavfgc/faster_algorithm_for_extracting) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
@@ -21,7 +22,6 @@
 * [2026-11-24, 02:10:30](https://lobste.rs/s/2k95fs/what_vp_vnp_means_3_minutes) - [What VP != VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp/)
 * [2026-11-24, 00:22:05](https://lobste.rs/s/ezml41/lua_for_data_representation) - [Lua for data representation](https://citrons.xyz/journal/2025-07-23)
 * [2026-11-23, 23:36:14](https://lobste.rs/s/fgbvtt/cgo_s_pointer_check_is_all_over_place) - [cgo's pointer check is all over the place](https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html)
-* [2026-11-23, 20:01:46](https://lobste.rs/s/ht8v1g/uq_researchers_send_unblockable_message) - [UQ researchers send an unblockable message using gravity](https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity)
 * [2026-11-23, 16:20:21](https://lobste.rs/s/pdecff/sneakernet) - [Sneakernet](https://sneakernet.eu/)
 * [2026-11-23, 16:13:03](https://lobste.rs/s/h6webg/ladybird_is_now_alpha) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 07:44:09](https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your) - [Signal is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
