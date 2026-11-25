@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+* [2026-11-25, 06:11:39](https://lobste.rs/s/n0itvf/flat_non_higher_order_construction_anf) - [Flat/non-higher-order construction of ANF via mutable holes](https://blueberrywren.dev/blog/anf-mutable/)
 * [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
-* [2026-11-25, 04:23:25](https://lobste.rs/s/zc12ap/showing_messagebox_from_kernel_mode) - [Showing a MessageBox from kernel-mode](https://vollragm.github.io/posts/kernel-message-box/)
 * [2026-11-25, 03:15:59](https://lobste.rs/s/kn0pmh/matrix_multiplication_is_n_2_25) - [Matrix Multiplication is Θ(n^2.25)](https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 * [2026-11-25, 02:04:56](https://lobste.rs/s/qblr8z/frstpm_completely_useless_80287) - [FRSTPM, a completely useless 80287 instruction?](https://www.os2museum.com/wp/a-completely-useless-instruction/)
 * [2026-11-24, 23:53:03](https://lobste.rs/s/qavfgc/faster_algorithm_for_extracting) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
@@ -12,7 +13,6 @@
 * [2026-11-24, 18:27:49](https://lobste.rs/s/mcrzxl/fund_browser_grade_certificate_checking) - [Fund browser-grade certificate checking for every TLS client](https://upki.rustls.dev/funding.html)
 * [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
 * [2026-11-24, 17:45:29](https://lobste.rs/s/y56k2b/beyond_linux_journey_through_open_source) - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
-* [2026-11-24, 16:35:47](https://lobste.rs/s/w3zni2/seastore_redesigning_ceph_s_storage) - [SeaStore: Redesigning Ceph’s Storage Backend for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
 * [2026-11-24, 16:26:44](https://lobste.rs/s/xst6fv/nightmare_mode_simulating_disk_failures) - [Nightmare mode: simulating disk failures](https://antithesis.com/blog/2026/nightmare-mode/)
 * [2026-11-24, 15:22:24](https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17) - [I checked Clojure's core with Lean and found 17 unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-24, 14:52:19](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm) - [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)

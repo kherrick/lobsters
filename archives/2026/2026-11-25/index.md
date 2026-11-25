@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+* [2026-11-25, 06:11:39](https://lobste.rs/s/n0itvf/flat_non_higher_order_construction_anf) - [Flat/non-higher-order construction of ANF via mutable holes](https://blueberrywren.dev/blog/anf-mutable/)
 * [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 * [2026-11-25, 04:23:25](https://lobste.rs/s/zc12ap/showing_messagebox_from_kernel_mode) - [Showing a MessageBox from kernel-mode](https://vollragm.github.io/posts/kernel-message-box/)
 * [2026-11-25, 04:15:22](https://lobste.rs/s/ohh8pd/multiagent_coding_is_future) - [Multiagent coding is the future](https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/)
