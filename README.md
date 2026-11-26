@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-26, 15:16:02](https://lobste.rs/s/anrpqf/loaded_gun_on_kitchen_table) - [The Loaded Gun on the Kitchen Table](https://lobste.rs/s/anrpqf/loaded_gun_on_kitchen_table)
 * [2026-11-26, 15:01:22](https://lobste.rs/s/fiwphl/1password_confirms_hack) - [1Password Confirms Hack](https://www.forbes.com/sites/daveywinder/2026/11/26/1password-confirms-hack-what-users-need-to-know-and-do/)
 * [2026-11-26, 12:40:23](https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x) - [Garage v2.6.0 released with web admin, v1.x EoL & other news](https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/)
 * [2026-11-26, 11:51:23](https://lobste.rs/s/wpylec/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
@@ -24,7 +25,6 @@
 * [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 * [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
-* [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 
 ## [Archives](archives/index.md)
 
