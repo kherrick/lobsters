@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-26, 04:57:04](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime) - [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)
 * [2026-11-26, 03:56:07](https://lobste.rs/s/2thnmt/i_booted_from_my_tape_backup_from_2002) - [I Booted From My Tape Backup From 2002](https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002)
 * [2026-11-26, 01:14:47](https://lobste.rs/s/v4qhwb/visualizing_metra_2011) - [Visualizing Metra (2011)](https://www.c82.net/blog/visualizing-metra)
 * [2026-11-26, 01:02:17](https://lobste.rs/s/faqxns/beauty_css_mixins) - [The beauty of CSS mixins](https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/)
 * [2026-11-26, 00:54:10](https://lobste.rs/s/pbfhis/ui_style_guides) - [UI style guides](https://aresluna.org/ui-style-guides/)
 * [2026-11-26, 00:12:06](https://lobste.rs/s/9imhob/make_plan_value) - [Make the Plan a Value](https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value)
-* [2026-11-25, 23:28:57](https://lobste.rs/s/mzffbj/designing_for_sense_mystery_wonder_2021) - [Designing for a Sense of Mystery and Wonder (2021)](https://blog.runevision.com/2021/02/designing-for-sense-of-mystery-and.html)
 * [2026-11-25, 22:55:47](https://lobste.rs/s/rtde6f/ssh_is_gui_framework) - [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
 * [2026-11-25, 22:48:44](https://lobste.rs/s/l6g7j1/typed_indexes_zig) - [Typed indexes in Zig](https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/)
 * [2026-11-25, 22:43:05](https://lobste.rs/s/8rgqmw/entering_geminispace) - [Entering the Geminispace](https://jmmv.dev/2026/11/entering-the-geminispace.html)
