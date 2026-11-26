@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-26, 20:22:27](https://lobste.rs/s/csqn2a/students_should_not_use_llms_for_learning) - [Students should not use LLMs for learning](https://blainehansen.me/post/learning-is-for-students-not-llms/)
 * [2026-11-26, 20:06:50](https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-26, 19:51:21](https://lobste.rs/s/afxeri/taking_email_back) - [Taking Email Back](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
 * [2026-11-26, 16:09:08](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026) - [London Meetup - 13th December 2026](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026)
+* [2026-11-26, 13:20:26](https://lobste.rs/s/nfce9x/hints_hazards_pg_plan_advice_pg19) - [Hints and hazards: pg_plan_advice in PG19](https://clickhouse.com/blog/pg-plan-advice-postgresql-19)
 * [2026-11-26, 12:40:23](https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x) - [Garage v2.6.0 released with web admin, v1.x EoL & other news](https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/)
 * [2026-11-26, 11:51:23](https://lobste.rs/s/wpylec/defense_lock_poisoning_rust_2025) - [In defense of lock poisoning in Rust (2025)](https://sunshowers.io/posts/on-poisoning/)
 * [2026-11-26, 11:30:21](https://lobste.rs/s/nkmtqk/understanding_you_are_not_expected) - [Understanding \"You are not expected to understand this.\"](https://www.taniwha.com/~paul/not.html)
