@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-11-26, 13:20:26",
+      "https://lobste.rs/s/nfce9x/hints_hazards_pg_plan_advice_pg19"
+    ],
+    [
+      "Hints and hazards: pg_plan_advice in PG19",
+      "https://clickhouse.com/blog/pg-plan-advice-postgresql-19"
+    ]
+  ],
+  [
+    [
       "2026-11-26, 12:40:23",
       "https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x"
     ],
@@ -237,16 +247,6 @@
     [
       "Abolish Lock Poisoning",
       "https://lucumr.pocoo.org/2026/11/25/poisoning/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 23:14:50",
-      "https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where"
-    ],
-    [
-      "Pokemon Childhood Version: A romhack where Mew is under the truck",
-      "https://wheybags.com/blog/pokemon_childhood_version.html"
     ]
   ]
 ]
