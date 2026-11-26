@@ -4,6 +4,7 @@
 * [2026-11-26, 20:06:50](https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-26, 19:51:21](https://lobste.rs/s/afxeri/taking_email_back) - [Taking Email Back](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
 * [2026-11-26, 16:09:08](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026) - [London Meetup - 13th December 2026](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026)
+* [2026-11-26, 13:20:26](https://lobste.rs/s/nfce9x/hints_hazards_pg_plan_advice_pg19) - [Hints and hazards: pg_plan_advice in PG19](https://clickhouse.com/blog/pg-plan-advice-postgresql-19)
 * [2026-11-26, 12:40:23](https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x) - [Garage v2.6.0 released with web admin, v1.x EoL & other news](https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/)
 * [2026-11-26, 11:51:23](https://lobste.rs/s/wpylec/defense_lock_poisoning_rust_2025) - [In defense of lock poisoning in Rust (2025)](https://sunshowers.io/posts/on-poisoning/)
 * [2026-11-26, 11:30:21](https://lobste.rs/s/nkmtqk/understanding_you_are_not_expected) - [Understanding \"You are not expected to understand this.\"](https://www.taniwha.com/~paul/not.html)
@@ -22,7 +23,6 @@
 * [2026-11-25, 21:52:52](https://lobste.rs/s/ilit8q/scott_aaronson_on_recent_complexity) - [Scott Aaronson on recent complexity theory AI achievements](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 20:10:24](https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 * [2026-11-25, 17:43:13](https://lobste.rs/s/aulbi2/update_on_security_incident_involving) - [Update on a security incident involving 1Password’s backend systems](https://1password.com/blog/update-on-nov-2026-security-incident)
-* [2026-11-25, 14:31:31](https://lobste.rs/s/tf9ldm/october_servo_video_captions_inert) - [October in Servo: video captions and inert content](https://servo.org/blog/2026/11/25/october-in-servo/)
 * [2026-11-25, 13:09:22](https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver) - [Optimizing Rustc's next trait solver](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
 * [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 
