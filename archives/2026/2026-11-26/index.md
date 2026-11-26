@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 16:09:08](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026) - [London Meetup - 13th December 2026](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026)
 * [2026-11-26, 15:16:02](https://lobste.rs/s/anrpqf/loaded_gun_on_kitchen_table) - [The Loaded Gun on the Kitchen Table](https://lobste.rs/s/anrpqf/loaded_gun_on_kitchen_table)
 * [2026-11-26, 15:14:06](https://lobste.rs/s/iqi9wp/jiffies_heartbeat_linux_operating) - [Jiffies : The Heartbeat of the Linux Operating System (2024)](https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system)
 * [2026-11-26, 15:01:22](https://lobste.rs/s/fiwphl/1password_confirms_hack) - [1Password Confirms Hack](https://www.forbes.com/sites/daveywinder/2026/11/26/1password-confirms-hack-what-users-need-to-know-and-do/)

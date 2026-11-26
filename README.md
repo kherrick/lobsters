@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-11-26, 15:14:06](https://lobste.rs/s/iqi9wp/jiffies_heartbeat_linux_operating) - [Jiffies : The Heartbeat of the Linux Operating System (2024)](https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system)
+* [2026-11-26, 16:09:08](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026) - [London Meetup - 13th December 2026](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026)
 * [2026-11-26, 12:40:23](https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x) - [Garage v2.6.0 released with web admin, v1.x EoL & other news](https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/)
 * [2026-11-26, 11:51:23](https://lobste.rs/s/wpylec/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
 * [2026-11-26, 11:30:21](https://lobste.rs/s/nkmtqk/understanding_you_are_not_expected) - [Understanding \"You are not expected to understand this.\"](https://www.taniwha.com/~paul/not.html)
