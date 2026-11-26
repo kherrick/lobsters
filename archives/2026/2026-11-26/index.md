@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
 * [2026-11-26, 15:16:02](https://lobste.rs/s/anrpqf/loaded_gun_on_kitchen_table) - [The Loaded Gun on the Kitchen Table](https://lobste.rs/s/anrpqf/loaded_gun_on_kitchen_table)
+* [2026-11-26, 15:14:06](https://lobste.rs/s/iqi9wp/jiffies_heartbeat_linux_operating) - [Jiffies : The Heartbeat of the Linux Operating System (2024)](https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system)
 * [2026-11-26, 15:01:22](https://lobste.rs/s/fiwphl/1password_confirms_hack) - [1Password Confirms Hack](https://www.forbes.com/sites/daveywinder/2026/11/26/1password-confirms-hack-what-users-need-to-know-and-do/)
 * [2026-11-26, 13:53:52](https://lobste.rs/s/u9wuvw/direct_o0_code_generator_for_llvm) - [A direct -O0 code generator for LLVM](https://maskray.me/blog/llvm-direct-o0-code-generator)
 * [2026-11-26, 13:20:26](https://lobste.rs/s/nfce9x/hints_hazards_pg_plan_advice_pg19) - [Hints and hazards: pg_plan_advice in PG19](https://clickhouse.com/blog/pg-plan-advice-postgresql-19)
