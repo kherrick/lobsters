@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-11-26, 01:14:47](https://lobste.rs/s/v4qhwb/visualizing_metra_2011) - [Visualizing Metra (2011)](https://www.c82.net/blog/visualizing-metra)
+* [2026-11-26, 01:02:17](https://lobste.rs/s/faqxns/beauty_css_mixins) - [The beauty of CSS mixins](https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/)
 * [2026-11-26, 00:54:10](https://lobste.rs/s/pbfhis/ui_style_guides) - [UI style guides](https://aresluna.org/ui-style-guides/)
 * [2026-11-26, 00:12:06](https://lobste.rs/s/9imhob/make_plan_value) - [Make the Plan a Value](https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value)
 * [2026-11-25, 23:28:57](https://lobste.rs/s/mzffbj/designing_for_sense_mystery_wonder_2021) - [Designing for a Sense of Mystery and Wonder (2021)](https://blog.runevision.com/2021/02/designing-for-sense-of-mystery-and.html)
@@ -15,7 +16,6 @@
 * [2026-11-25, 13:28:55](https://lobste.rs/s/7x2mrq/getting_old_java_phones_online_again) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-25, 13:09:22](https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver) - [Optimizing Rustc's next trait solver](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
 * [2026-11-25, 10:27:49](https://lobste.rs/s/ogxwpi/taking_over_us_treasury_subdomains_for_3) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
-* [2026-11-25, 07:03:53](https://lobste.rs/s/5gefep/needles_haystacks_numbers_between_0_1) - [Needles, Haystacks, and Numbers Between 0 and 1](https://rustfoundation.org/media/needles-haystacks-and-numbers-between-0-and-1/)
 * [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 * [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 * [2026-11-25, 00:02:36](https://lobste.rs/s/l7fel2/dutch_data_protection_authority_advises) - [Dutch data protection authority advises against purchasing AI camera glasses](https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders)
