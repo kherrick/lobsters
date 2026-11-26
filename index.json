@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-26, 19:31:20",
+      "https://lobste.rs/s/l9c8sw/omnigent_meta_harness_for_building"
+    ],
+    [
+      "Omnigent — a meta-harness for building and running AI agents",
+      "https://omnigent.ai"
+    ]
+  ],
+  [
+    [
       "2026-11-26, 16:09:08",
       "https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026"
     ],
@@ -237,16 +247,6 @@
     [
       "Pokemon Childhood Version: A romhack where Mew is under the truck",
       "https://wheybags.com/blog/pokemon_childhood_version.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 22:28:27",
-      "https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers"
-    ],
-    [
-      "Why there are still no non-WebKit browsers on iOS",
-      "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/"
     ]
   ]
 ]
