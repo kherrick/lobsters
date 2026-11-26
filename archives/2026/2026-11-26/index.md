@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 20:22:27](https://lobste.rs/s/csqn2a/students_should_not_use_llms_for_learning) - [Students should not use LLMs for learning](https://blainehansen.me/post/learning-is-for-students-not-llms/)
 * [2026-11-26, 20:06:50](https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-26, 19:51:21](https://lobste.rs/s/afxeri/taking_email_back) - [Taking Email Back](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
 * [2026-11-26, 19:31:20](https://lobste.rs/s/l9c8sw/omnigent_meta_harness_for_building) - [Omnigent — a meta-harness for building and running AI agents](https://omnigent.ai)
