@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 19:31:20](https://lobste.rs/s/l9c8sw/omnigent_meta_harness_for_building) - [Omnigent — a meta-harness for building and running AI agents](https://omnigent.ai)
 * [2026-11-26, 16:09:08](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026) - [London Meetup - 13th December 2026](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026)
 * [2026-11-26, 15:16:02](https://lobste.rs/s/anrpqf/loaded_gun_on_kitchen_table) - [The Loaded Gun on the Kitchen Table](https://lobste.rs/s/anrpqf/loaded_gun_on_kitchen_table)
 * [2026-11-26, 15:14:06](https://lobste.rs/s/iqi9wp/jiffies_heartbeat_linux_operating) - [Jiffies : The Heartbeat of the Linux Operating System (2024)](https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system)
