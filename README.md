@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
+* [2026-11-26, 06:35:12](https://lobste.rs/s/bl8gp8/meaningful_human_loop_checking_genai) - [Meaningful Human-in-the-Loop Checking of  GenAI Synthesis for Restricted Languages](https://www.siddharthaprasad.com/papers/pafk-pick.pdf)
 * [2026-11-26, 04:57:04](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime) - [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)
 * [2026-11-26, 03:56:07](https://lobste.rs/s/2thnmt/i_booted_from_my_tape_backup_from_2002) - [I Booted From My Tape Backup From 2002](https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002)
-* [2026-11-26, 01:14:47](https://lobste.rs/s/v4qhwb/visualizing_metra_2011) - [Visualizing Metra (2011)](https://www.c82.net/blog/visualizing-metra)
 * [2026-11-26, 01:02:17](https://lobste.rs/s/faqxns/beauty_css_mixins) - [The beauty of CSS mixins](https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/)
 * [2026-11-26, 00:54:10](https://lobste.rs/s/pbfhis/ui_style_guides) - [UI style guides](https://aresluna.org/ui-style-guides/)
 * [2026-11-26, 00:12:06](https://lobste.rs/s/9imhob/make_plan_value) - [Make the Plan a Value](https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value)
@@ -21,7 +22,6 @@
 * [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
 * [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
-* [2026-11-24, 18:11:49](https://lobste.rs/s/m7gqr6/per_vognsen_on_effect_avx_512_on_lexing) - [Per Vognsen on the effect of AVX-512 on lexing and parsing](https://mastodon.social/@pervognsen/117668394962974183)
 * [2026-11-24, 15:22:24](https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17) - [I checked Clojure's core with Lean and found 17 unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-24, 14:52:19](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm) - [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)
 * [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)

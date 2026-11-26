@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
+* [2026-11-26, 06:35:12](https://lobste.rs/s/bl8gp8/meaningful_human_loop_checking_genai) - [Meaningful Human-in-the-Loop Checking of  GenAI Synthesis for Restricted Languages](https://www.siddharthaprasad.com/papers/pafk-pick.pdf)
 * [2026-11-26, 04:57:04](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime) - [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)
 * [2026-11-26, 03:56:07](https://lobste.rs/s/2thnmt/i_booted_from_my_tape_backup_from_2002) - [I Booted From My Tape Backup From 2002](https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002)
 * [2026-11-26, 01:14:47](https://lobste.rs/s/v4qhwb/visualizing_metra_2011) - [Visualizing Metra (2011)](https://www.c82.net/blog/visualizing-metra)
