@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-11-26, 13:53:52",
-      "https://lobste.rs/s/u9wuvw/direct_o0_code_generator_for_llvm"
+      "2026-11-26, 13:20:26",
+      "https://lobste.rs/s/nfce9x/hints_hazards_pg_plan_advice_pg19"
     ],
     [
-      "A direct -O0 code generator for LLVM",
-      "https://maskray.me/blog/llvm-direct-o0-code-generator"
+      "Hints and hazards: pg_plan_advice in PG19",
+      "https://clickhouse.com/blog/pg-plan-advice-postgresql-19"
     ]
   ],
   [
