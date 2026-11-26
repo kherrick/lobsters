@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-26, 11:51:23",
+      "https://lobste.rs/s/wpylec/defense_lock_poisoning_rust"
+    ],
+    [
+      "In defense of lock poisoning in Rust",
+      "https://sunshowers.io/posts/on-poisoning/"
+    ]
+  ],
+  [
+    [
       "2026-11-26, 11:30:21",
       "https://lobste.rs/s/nkmtqk/understanding_you_are_not_expected"
     ],
@@ -37,16 +47,6 @@
     [
       "How WinHelp files work",
       "https://quin.fyi/posts/how-winhelp-files-work.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-26, 06:35:12",
-      "https://lobste.rs/s/bl8gp8/meaningful_human_loop_checking_genai"
-    ],
-    [
-      "Meaningful Human-in-the-Loop Checking of  GenAI Synthesis for Restricted Languages",
-      "https://www.siddharthaprasad.com/papers/pafk-pick.pdf"
     ]
   ],
   [
