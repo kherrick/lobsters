@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 20:06:50](https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-26, 19:51:21](https://lobste.rs/s/afxeri/taking_email_back) - [Taking Email Back](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
 * [2026-11-26, 19:31:20](https://lobste.rs/s/l9c8sw/omnigent_meta_harness_for_building) - [Omnigent — a meta-harness for building and running AI agents](https://omnigent.ai)
 * [2026-11-26, 16:09:08](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026) - [London Meetup - 13th December 2026](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026)
