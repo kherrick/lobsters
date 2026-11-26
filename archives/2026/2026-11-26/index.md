@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 08:02:18](https://lobste.rs/s/2kwjb4/qualcomm_s_oryon_3_reaches_top) - [Qualcomm’s Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 * [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-26, 06:35:12](https://lobste.rs/s/bl8gp8/meaningful_human_loop_checking_genai) - [Meaningful Human-in-the-Loop Checking of  GenAI Synthesis for Restricted Languages](https://www.siddharthaprasad.com/papers/pafk-pick.pdf)
 * [2026-11-26, 04:57:04](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime) - [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-26, 08:02:18](https://lobste.rs/s/2kwjb4/qualcomm_s_oryon_3_reaches_top) - [Qualcomm’s Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 * [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-26, 06:35:12](https://lobste.rs/s/bl8gp8/meaningful_human_loop_checking_genai) - [Meaningful Human-in-the-Loop Checking of  GenAI Synthesis for Restricted Languages](https://www.siddharthaprasad.com/papers/pafk-pick.pdf)
 * [2026-11-26, 04:57:04](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime) - [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)
@@ -22,7 +23,6 @@
 * [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 * [2026-11-24, 23:14:50](https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where) - [Pokemon Childhood Version: A romhack where Mew is under the truck](https://wheybags.com/blog/pokemon_childhood_version.html)
 * [2026-11-24, 22:28:27](https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
-* [2026-11-24, 15:22:24](https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17) - [I checked Clojure's core with Lean and found 17 unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-24, 14:52:19](https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm) - [Security incident on Hex.pm](https://hex.pm/blog/security-incident-on-hexpm)
 * [2026-11-24, 06:30:15](https://lobste.rs/s/rkk6o8/2035_came_early) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 
