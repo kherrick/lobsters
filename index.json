@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-11-26, 13:20:26",
+      "https://lobste.rs/s/nfce9x/hints_hazards_pg_plan_advice_pg19"
+    ],
+    [
+      "Hints and hazards: pg_plan_advice in PG19",
+      "https://clickhouse.com/blog/pg-plan-advice-postgresql-19"
+    ]
+  ],
+  [
+    [
       "2026-11-26, 12:40:23",
       "https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x"
     ],
@@ -217,16 +227,6 @@
     [
       "Update on a security incident involving 1Password’s backend systems",
       "https://1password.com/blog/update-on-nov-2026-security-incident"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 14:31:31",
-      "https://lobste.rs/s/tf9ldm/october_servo_video_captions_inert"
-    ],
-    [
-      "October in Servo: video captions and inert content",
-      "https://servo.org/blog/2026/11/25/october-in-servo/"
     ]
   ],
   [
