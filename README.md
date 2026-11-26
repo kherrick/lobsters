@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-26, 19:51:21](https://lobste.rs/s/afxeri/taking_email_back) - [Taking Email Back](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
 * [2026-11-26, 19:31:20](https://lobste.rs/s/l9c8sw/omnigent_meta_harness_for_building) - [Omnigent — a meta-harness for building and running AI agents](https://omnigent.ai)
 * [2026-11-26, 16:09:08](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026) - [London Meetup - 13th December 2026](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026)
 * [2026-11-26, 13:20:26](https://lobste.rs/s/nfce9x/hints_hazards_pg_plan_advice_pg19) - [Hints and hazards: pg_plan_advice in PG19](https://clickhouse.com/blog/pg-plan-advice-postgresql-19)
@@ -24,7 +25,6 @@
 * [2026-11-25, 14:31:31](https://lobste.rs/s/tf9ldm/october_servo_video_captions_inert) - [October in Servo: video captions and inert content](https://servo.org/blog/2026/11/25/october-in-servo/)
 * [2026-11-25, 13:09:22](https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver) - [Optimizing Rustc's next trait solver](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
 * [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
-* [2026-11-25, 05:10:37](https://lobste.rs/s/sj2pkv/abolish_lock_poisoning) - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 
 ## [Archives](archives/index.md)
 
