@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-27, 20:24:04](https://lobste.rs/s/kikmfz/x86_is_octal_machine) - [x86 is an octal machine](https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da)
 * [2026-11-27, 20:01:50](https://lobste.rs/s/amjski/why_optimistic_updates_are_corrosive) - [Why optimistic updates are corrosive](https://datastar-instant-intent.ndyg.cross.stream/corrosive/)
 * [2026-11-27, 18:16:09](https://lobste.rs/s/d0phlt/objections_php_application_being) - [Objections to .php application being published on ICANN site](https://pub.roddie.digital/3n3aavxi6hc2g)
 * [2026-11-27, 16:42:50](https://lobste.rs/s/hizg2w/pop_os_26_04_lts_has_landed) - [Pop!_OS 26.04 LTS Has Landed](https://system76.com/blog/post/pop_os-26-04-lts-has-landed)
@@ -17,7 +18,6 @@
 * [2026-11-26, 21:23:06](https://lobste.rs/s/wfkkh4/ambiguous_errors_are_mind_killer) - [Ambiguous Errors Are the Mind Killer](https://amit.prasad.me/blog/ambiguous-errors)
 * [2026-11-26, 20:06:50](https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-26, 19:51:21](https://lobste.rs/s/afxeri/taking_email_back) - [Taking Email Back](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
-* [2026-11-26, 16:09:08](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026) - [London Meetup - 13th December 2026](https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026)
 * [2026-11-26, 12:40:23](https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x) - [Garage v2.6.0 released with web admin, v1.x EoL & other news](https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/)
 * [2026-11-26, 11:51:23](https://lobste.rs/s/wpylec/defense_lock_poisoning_rust_2025) - [In defense of lock poisoning in Rust (2025)](https://sunshowers.io/posts/on-poisoning/)
 * [2026-11-26, 11:30:21](https://lobste.rs/s/nkmtqk/understanding_you_are_not_expected) - [Understanding \"You are not expected to understand this.\"](https://www.taniwha.com/~paul/not.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 20:24:04](https://lobste.rs/s/kikmfz/x86_is_octal_machine) - [x86 is an octal machine](https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da)
 * [2026-11-27, 20:01:50](https://lobste.rs/s/amjski/why_optimistic_updates_are_corrosive) - [Why optimistic updates are corrosive](https://datastar-instant-intent.ndyg.cross.stream/corrosive/)
 * [2026-11-27, 18:16:09](https://lobste.rs/s/d0phlt/objections_php_application_being) - [Objections to .php application being published on ICANN site](https://pub.roddie.digital/3n3aavxi6hc2g)
 * [2026-11-27, 16:42:50](https://lobste.rs/s/hizg2w/pop_os_26_04_lts_has_landed) - [Pop!_OS 26.04 LTS Has Landed](https://system76.com/blog/post/pop_os-26-04-lts-has-landed)
