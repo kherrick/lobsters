@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 12:30:42](https://lobste.rs/s/h3scdc/marmot_alternative_go_compiler) - [Marmot, an alternative Go compiler](https://marmot.gaurav.zip/)
+* [2026-11-27, 12:22:52](https://lobste.rs/s/twxtcq/overview_go_s_tooling_version_2) - [An Overview of Go's Tooling: Version 2](https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2)
 * [2026-11-27, 09:11:13](https://lobste.rs/s/mbm7xw/tiny_hat_new_linux_distro_dedicated_retro) - [Tiny Hat: a new Linux distro dedicated to retro gamedev](https://roboticoverlords.org/tinyhat)
 * [2026-11-27, 08:22:59](https://lobste.rs/s/gapf8s/race_for_officve_open_source_office_suite) - [The race for Officve: an open-source office suite in one month](https://officve.madskristiansen.com/blog/race-for-officve)
 * [2026-11-27, 08:01:31](https://lobste.rs/s/kaj037/pimalaya_goes_stable) - [Pimalaya goes stable](https://blog.pimalaya.org/pimalaya-goes-stable/)

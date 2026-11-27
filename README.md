@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-27, 12:30:42](https://lobste.rs/s/h3scdc/marmot_alternative_go_compiler) - [Marmot, an alternative Go compiler](https://marmot.gaurav.zip/)
+* [2026-11-27, 12:22:52](https://lobste.rs/s/twxtcq/overview_go_s_tooling_version_2) - [An Overview of Go's Tooling: Version 2](https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2)
 * [2026-11-27, 09:11:13](https://lobste.rs/s/mbm7xw/tiny_hat_new_linux_distro_dedicated_retro) - [Tiny Hat: a new Linux distro dedicated to retro gamedev](https://roboticoverlords.org/tinyhat)
 * [2026-11-27, 08:01:31](https://lobste.rs/s/kaj037/pimalaya_goes_stable) - [Pimalaya goes stable](https://blog.pimalaya.org/pimalaya-goes-stable/)
 * [2026-11-27, 07:35:52](https://lobste.rs/s/fin7at/company_culture_slack_emoji_sqrt) - [Company Culture = Slack Emoji ÷ sqrt(Headcount)](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
@@ -13,7 +15,6 @@
 * [2026-11-26, 11:51:23](https://lobste.rs/s/wpylec/defense_lock_poisoning_rust_2025) - [In defense of lock poisoning in Rust (2025)](https://sunshowers.io/posts/on-poisoning/)
 * [2026-11-26, 11:30:21](https://lobste.rs/s/nkmtqk/understanding_you_are_not_expected) - [Understanding \"You are not expected to understand this.\"](https://www.taniwha.com/~paul/not.html)
 * [2026-11-26, 09:45:42](https://lobste.rs/s/3lkriu/ansible_fails_waiting_for_privilege) - [Ansible Fails waiting for privilege escalation on Ubuntu 26](https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/)
-* [2026-11-26, 08:02:18](https://lobste.rs/s/2kwjb4/qualcomm_s_oryon_3_reaches_top) - [Qualcomm’s Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 * [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-26, 04:57:04](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime) - [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)
 * [2026-11-26, 01:02:17](https://lobste.rs/s/faqxns/beauty_css_mixins) - [The beauty of CSS mixins](https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/)
@@ -24,7 +25,6 @@
 * [2026-11-25, 22:26:56](https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof) - [Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)](https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366)
 * [2026-11-25, 21:52:52](https://lobste.rs/s/ilit8q/scott_aaronson_on_recent_complexity) - [Scott Aaronson on recent complexity theory AI achievements](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 20:10:24](https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
-* [2026-11-25, 13:09:22](https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver) - [Optimizing Rustc's next trait solver](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
 
 ## [Archives](archives/index.md)
 
