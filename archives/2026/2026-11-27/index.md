@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 22:00:18](https://lobste.rs/s/cz9ecz/my_approach_alt_text_2024) - [My Approach to Alt Text (2024)](http://adrianroselli.com/2024/05/my-approach-to-alt-text.html)
 * [2026-11-27, 20:42:02](https://lobste.rs/s/ohmjfv/proof_automation_language) - [Proof automation in a language](https://www.imperialviolet.org/2026/11/15/proofauto2.html)
 * [2026-11-27, 20:24:04](https://lobste.rs/s/kikmfz/x86_is_octal_machine) - [x86 is an octal machine](https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da)
 * [2026-11-27, 20:01:50](https://lobste.rs/s/amjski/why_optimistic_updates_are_corrosive) - [Why optimistic updates are corrosive](https://datastar-instant-intent.ndyg.cross.stream/corrosive/)
