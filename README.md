@@ -2,6 +2,7 @@
 
 * [2026-11-27, 13:23:08](https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend)
 * [2026-11-27, 13:05:30](https://lobste.rs/s/tgihkm/exception_best_practices) - [Exception Best Practices](https://www.well-typed.com/blog/2026/11/exception-best-practices/)
+* [2026-11-27, 12:30:42](https://lobste.rs/s/h3scdc/marmot_alternative_go_compiler) - [Marmot, an alternative Go compiler](https://marmot.gaurav.zip/)
 * [2026-11-27, 12:22:52](https://lobste.rs/s/twxtcq/overview_go_s_tooling_version_2) - [An Overview of Go's Tooling: Version 2](https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2)
 * [2026-11-27, 09:11:13](https://lobste.rs/s/mbm7xw/tiny_hat_new_linux_distro_dedicated_retro) - [Tiny Hat: a new Linux distro dedicated to retro gamedev](https://roboticoverlords.org/tinyhat)
 * [2026-11-27, 08:01:31](https://lobste.rs/s/kaj037/pimalaya_goes_stable) - [Pimalaya goes stable](https://blog.pimalaya.org/pimalaya-goes-stable/)
@@ -18,7 +19,6 @@
 * [2026-11-26, 09:45:42](https://lobste.rs/s/3lkriu/ansible_fails_waiting_for_privilege) - [Ansible Fails waiting for privilege escalation on Ubuntu 26](https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/)
 * [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-26, 04:57:04](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime) - [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)
-* [2026-11-26, 00:54:10](https://lobste.rs/s/pbfhis/ui_style_guides) - [UI style guides](https://aresluna.org/ui-style-guides/)
 * [2026-11-26, 00:12:06](https://lobste.rs/s/9imhob/make_plan_value) - [Make the Plan a Value](https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value)
 * [2026-11-25, 22:48:44](https://lobste.rs/s/l6g7j1/typed_indexes_zig) - [Typed indexes in Zig](https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/)
 * [2026-11-25, 22:43:05](https://lobste.rs/s/8rgqmw/entering_geminispace) - [Entering the Geminispace](https://jmmv.dev/2026/11/entering-the-geminispace.html)
