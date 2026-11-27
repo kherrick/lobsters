@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 07:00:03](https://lobste.rs/s/lmxpfo/curb_impacts_ai_on_programming_maintain) - [Curb impacts of AI on programming to maintain EU sovereignty](https://www.draketo.de/software/curb-ai-impact)
 * [2026-11-27, 01:50:42](https://lobste.rs/s/xsjwvi/ai_made_self_hosting_fun_again) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
