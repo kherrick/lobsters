@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-27, 16:15:23](https://lobste.rs/s/96gu7o/hard_drive_pricing_has_gotten_bad) - [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
 * [2026-11-27, 16:09:11](https://lobste.rs/s/u746hs/state_allocators_2026_finally) - [The State of Allocators in 2026 - Finally Stabilised](https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/)
 * [2026-11-27, 13:23:08](https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend)
 * [2026-11-27, 13:05:30](https://lobste.rs/s/tgihkm/exception_best_practices) - [Exception Best Practices](https://www.well-typed.com/blog/2026/11/exception-best-practices/)
@@ -19,7 +20,6 @@
 * [2026-11-26, 09:45:42](https://lobste.rs/s/3lkriu/ansible_fails_waiting_for_privilege) - [Ansible Fails waiting for privilege escalation on Ubuntu 26](https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/)
 * [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-26, 04:57:04](https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime) - [Browser tabs as a container runtime](https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime)
-* [2026-11-26, 00:12:06](https://lobste.rs/s/9imhob/make_plan_value) - [Make the Plan a Value](https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value)
 * [2026-11-25, 22:48:44](https://lobste.rs/s/l6g7j1/typed_indexes_zig) - [Typed indexes in Zig](https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/)
 * [2026-11-25, 22:43:05](https://lobste.rs/s/8rgqmw/entering_geminispace) - [Entering the Geminispace](https://jmmv.dev/2026/11/entering-the-geminispace.html)
 * [2026-11-25, 22:26:56](https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof) - [Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)](https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366)
