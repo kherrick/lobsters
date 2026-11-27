@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 13:05:30](https://lobste.rs/s/tgihkm/exception_best_practices) - [Exception Best Practices](https://www.well-typed.com/blog/2026/11/exception-best-practices/)
 * [2026-11-27, 12:30:42](https://lobste.rs/s/h3scdc/marmot_alternative_go_compiler) - [Marmot, an alternative Go compiler](https://marmot.gaurav.zip/)
 * [2026-11-27, 12:22:52](https://lobste.rs/s/twxtcq/overview_go_s_tooling_version_2) - [An Overview of Go's Tooling: Version 2](https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2)
 * [2026-11-27, 09:11:13](https://lobste.rs/s/mbm7xw/tiny_hat_new_linux_distro_dedicated_retro) - [Tiny Hat: a new Linux distro dedicated to retro gamedev](https://roboticoverlords.org/tinyhat)
