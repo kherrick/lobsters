@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-27, 01:50:42](https://lobste.rs/s/xsjwvi/ai_made_self_hosting_fun_again) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:23:06](https://lobste.rs/s/wfkkh4/ambiguous_errors_are_mind_killer) - [Ambiguous Errors Are the Mind Killer](https://amit.prasad.me/blog/ambiguous-errors)
 * [2026-11-26, 20:06:50](https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-26, 19:51:21](https://lobste.rs/s/afxeri/taking_email_back) - [Taking Email Back](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
@@ -16,7 +17,6 @@
 * [2026-11-26, 01:02:17](https://lobste.rs/s/faqxns/beauty_css_mixins) - [The beauty of CSS mixins](https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/)
 * [2026-11-26, 00:54:10](https://lobste.rs/s/pbfhis/ui_style_guides) - [UI style guides](https://aresluna.org/ui-style-guides/)
 * [2026-11-26, 00:12:06](https://lobste.rs/s/9imhob/make_plan_value) - [Make the Plan a Value](https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value)
-* [2026-11-25, 22:55:47](https://lobste.rs/s/rtde6f/ssh_is_gui_framework) - [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
 * [2026-11-25, 22:48:44](https://lobste.rs/s/l6g7j1/typed_indexes_zig) - [Typed indexes in Zig](https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/)
 * [2026-11-25, 22:43:05](https://lobste.rs/s/8rgqmw/entering_geminispace) - [Entering the Geminispace](https://jmmv.dev/2026/11/entering-the-geminispace.html)
 * [2026-11-25, 22:26:56](https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof) - [Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)](https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366)
