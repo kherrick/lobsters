@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 16:09:11](https://lobste.rs/s/u746hs/state_allocators_2026_finally) - [The State of Allocators in 2026 - Finally Stabilised](https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/)
 * [2026-11-27, 13:23:08](https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend)
 * [2026-11-27, 13:05:30](https://lobste.rs/s/tgihkm/exception_best_practices) - [Exception Best Practices](https://www.well-typed.com/blog/2026/11/exception-best-practices/)
 * [2026-11-27, 12:30:42](https://lobste.rs/s/h3scdc/marmot_alternative_go_compiler) - [Marmot, an alternative Go compiler](https://marmot.gaurav.zip/)
