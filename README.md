@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-27, 20:01:50](https://lobste.rs/s/amjski/why_optimistic_updates_are_corrosive) - [Why optimistic updates are corrosive](https://datastar-instant-intent.ndyg.cross.stream/corrosive/)
 * [2026-11-27, 18:16:09](https://lobste.rs/s/d0phlt/objections_php_application_being) - [Objections to .php application being published on ICANN site](https://pub.roddie.digital/3n3aavxi6hc2g)
 * [2026-11-27, 16:42:50](https://lobste.rs/s/hizg2w/pop_os_26_04_lts_has_landed) - [Pop!_OS 26.04 LTS Has Landed](https://system76.com/blog/post/pop_os-26-04-lts-has-landed)
 * [2026-11-27, 16:22:36](https://lobste.rs/s/c2zrmq/build_your_own_paint) - [Build your own Paint](https://www.buildyourownpaint.com/en)
@@ -23,7 +24,6 @@
 * [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-25, 22:43:05](https://lobste.rs/s/8rgqmw/entering_geminispace) - [Entering the Geminispace](https://jmmv.dev/2026/11/entering-the-geminispace.html)
 * [2026-11-25, 22:26:56](https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof) - [Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)](https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366)
-* [2026-11-25, 21:52:52](https://lobste.rs/s/ilit8q/scott_aaronson_on_recent_complexity) - [Scott Aaronson on recent complexity theory AI achievements](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 20:10:24](https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 
 ## [Archives](archives/index.md)
