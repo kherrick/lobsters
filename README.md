@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-27, 08:01:31](https://lobste.rs/s/kaj037/pimalaya_goes_stable) - [Pimalaya goes stable](https://blog.pimalaya.org/pimalaya-goes-stable/)
+* [2026-11-27, 08:01:12](https://lobste.rs/s/4jccyx/officve) - [officve](https://officve.madskristiansen.com/)
 * [2026-11-27, 07:00:03](https://lobste.rs/s/lmxpfo/curb_impacts_ai_on_programming_maintain) - [Curb impacts of AI on programming to maintain EU sovereignty](https://www.draketo.de/software/curb-ai-impact)
 * [2026-11-27, 01:50:42](https://lobste.rs/s/xsjwvi/ai_made_self_hosting_fun_again) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:23:06](https://lobste.rs/s/wfkkh4/ambiguous_errors_are_mind_killer) - [Ambiguous Errors Are the Mind Killer](https://amit.prasad.me/blog/ambiguous-errors)
@@ -22,9 +24,7 @@
 * [2026-11-25, 22:26:56](https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof) - [Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)](https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366)
 * [2026-11-25, 21:52:52](https://lobste.rs/s/ilit8q/scott_aaronson_on_recent_complexity) - [Scott Aaronson on recent complexity theory AI achievements](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 20:10:24](https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
-* [2026-11-25, 17:43:13](https://lobste.rs/s/aulbi2/update_on_security_incident_involving) - [Update on a security incident involving 1Password’s backend systems](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 13:09:22](https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver) - [Optimizing Rustc's next trait solver](https://donsz.nl/blog/optimizing-rustcs-next-trait-solver)
-* [2026-11-25, 06:20:29](https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff) - [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 
 ## [Archives](archives/index.md)
 
