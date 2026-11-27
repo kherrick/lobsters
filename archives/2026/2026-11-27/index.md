@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 16:42:50](https://lobste.rs/s/hizg2w/pop_os_26_04_lts_has_landed) - [Pop!_OS 26.04 LTS Has Landed](https://system76.com/blog/post/pop_os-26-04-lts-has-landed)
 * [2026-11-27, 16:22:36](https://lobste.rs/s/c2zrmq/build_your_own_paint) - [Build your own Paint](https://www.buildyourownpaint.com/en)
 * [2026-11-27, 16:15:23](https://lobste.rs/s/96gu7o/hard_drive_pricing_has_gotten_bad) - [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
 * [2026-11-27, 16:09:11](https://lobste.rs/s/u746hs/state_allocators_2026_finally) - [The State of Allocators in 2026 - Finally Stabilised](https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/)
