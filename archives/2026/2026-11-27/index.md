@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 09:11:13](https://lobste.rs/s/mbm7xw/tiny_hat_new_linux_distro_dedicated_retro) - [Tiny Hat: a new Linux distro dedicated to retro gamedev](https://roboticoverlords.org/tinyhat)
 * [2026-11-27, 08:22:59](https://lobste.rs/s/gapf8s/race_for_officve_open_source_office_suite) - [The race for Officve: an open-source office suite in one month](https://officve.madskristiansen.com/blog/race-for-officve)
 * [2026-11-27, 08:01:31](https://lobste.rs/s/kaj037/pimalaya_goes_stable) - [Pimalaya goes stable](https://blog.pimalaya.org/pimalaya-goes-stable/)
 * [2026-11-27, 08:01:12](https://lobste.rs/s/4jccyx/officve) - [officve](https://officve.madskristiansen.com/)
