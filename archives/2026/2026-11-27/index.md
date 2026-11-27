@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 08:22:59](https://lobste.rs/s/gapf8s/race_for_officve_open_source_office_suite) - [The race for Officve: an open-source office suite in one month](https://officve.madskristiansen.com/blog/race-for-officve)
 * [2026-11-27, 08:01:31](https://lobste.rs/s/kaj037/pimalaya_goes_stable) - [Pimalaya goes stable](https://blog.pimalaya.org/pimalaya-goes-stable/)
 * [2026-11-27, 08:01:12](https://lobste.rs/s/4jccyx/officve) - [officve](https://officve.madskristiansen.com/)
+* [2026-11-27, 07:35:52](https://lobste.rs/s/fin7at/company_culture_slack_emoji_sqrt) - [Company Culture = Slack Emoji ÷ sqrt(Headcount)](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 * [2026-11-27, 07:00:03](https://lobste.rs/s/lmxpfo/curb_impacts_ai_on_programming_maintain) - [Curb impacts of AI on programming to maintain EU sovereignty](https://www.draketo.de/software/curb-ai-impact)
 * [2026-11-27, 01:50:42](https://lobste.rs/s/xsjwvi/ai_made_self_hosting_fun_again) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
