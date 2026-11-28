@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-11-28, 09:19:47](https://lobste.rs/s/8djplv/so_i_rewrote_my_game_c3) - [So, I rewrote my game in C3](https://www.madrigalgames.com/blog/so-i-rewrote-my-game-in-c3/)
 * [2026-11-28, 00:12:53](https://lobste.rs/s/ulfg29/fastlanes_next_gen_file_format) - [FastLanes: Next-gen File Format](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
 * [2026-11-28, 00:12:41](https://lobste.rs/s/wkljma/best_class_ios_app_book_series) - [A Best-in-Class iOS App: The Book Series](https://www.bestinclassiosapp.com/)
 * [2026-11-27, 22:00:18](https://lobste.rs/s/cz9ecz/my_approach_alt_text_2024) - [My Approach to Alt Text (2024)](http://adrianroselli.com/2024/05/my-approach-to-alt-text.html)
@@ -23,7 +24,6 @@
 * [2026-11-26, 19:51:21](https://lobste.rs/s/afxeri/taking_email_back) - [Taking Email Back](http://www.linux-magazine.com/Online/Features/Taking-Email-Back)
 * [2026-11-26, 12:40:23](https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x) - [Garage v2.6.0 released with web admin, v1.x EoL & other news](https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/)
 * [2026-11-26, 11:51:23](https://lobste.rs/s/wpylec/defense_lock_poisoning_rust_2025) - [In defense of lock poisoning in Rust (2025)](https://sunshowers.io/posts/on-poisoning/)
-* [2026-11-26, 06:39:00](https://lobste.rs/s/w4kxiz/how_winhelp_files_work) - [How WinHelp files work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-25, 20:10:24](https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 
 ## [Archives](archives/index.md)
